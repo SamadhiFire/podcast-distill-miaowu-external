@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 .venv/
 .env
+credentials.cmd
 
 # 临时文件
 test_results/
