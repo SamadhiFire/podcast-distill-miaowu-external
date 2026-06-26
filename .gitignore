@@ -2,18 +2,27 @@
 __pycache__/
 *.pyc
 *.pyo
+.venv/
+.env
 
 # 临时文件
 test_results/
 test_tools/
 *.tmp
+*.part
+cookies.txt
+cookies*.txt
 
-# 视频文件
+# 视频/音频文件（中间产物，最终字幕在 subtitles/ 下）
 *.mp4
 *.mkv
 *.webm
 *.m4a
 *.mp3
+*.wav
+
+# whisper.cpp 编译产物（CI 上每次构建）
+whisper.cpp/
 
 # IDE
 .vscode/

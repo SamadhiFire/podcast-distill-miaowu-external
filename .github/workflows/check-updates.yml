@@ -1,0 +1,50 @@
+name: Check Podcast Updates
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'  # 每天 UTC 1:00 (北京时间 9:00)
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Check for new episodes
+        id: check
+        run: |
+          python check_updates.py
+          # 读取新节目数量
+          report=$(ls reports/*.md 2>/dev/null | tail -1)
+          if [ -f "$report" ]; then
+            echo "Report: $report"
+            cat "$report"
+          fi
+
+      - name: Commit results
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add reports/ config/last_check.json -f
+          if git diff --cached --quiet; then
+            echo "没有变化"
+            exit 0
+          fi
+
+          git commit -m "📡 播客更新检查 $(date +'%Y-%m-%d')"
+          git push

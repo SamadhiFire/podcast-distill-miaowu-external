@@ -1,0 +1,36 @@
+# YouTube sources
+# Verified: 2026-06-26
+# Format: name | URL | options
+# Options: type=channel/playlist, min_duration=seconds
+
+# Channels
+Sequoia Capital | https://www.youtube.com/@sequoiacapital/videos | type=channel
+Bloomberg Originals | https://www.youtube.com/@business/videos | type=channel
+No Priors Podcast | https://www.youtube.com/@NoPriorsPodcast/videos | type=channel
+Interesting Times with Ross Douthat | https://www.youtube.com/@InterestingTimesNYT/videos | type=channel,min_duration=600
+The Knowledge Project Podcast | https://www.youtube.com/@tkppodcast/videos | type=channel
+Invest Like The Best | https://www.youtube.com/@ILTB_Podcast/videos | type=channel
+Lenny's Podcast | https://www.youtube.com/@LennysPodcast/videos | type=channel
+Lex Fridman | https://www.youtube.com/@lexfridman/videos | type=channel,min_duration=1800
+Bg2 Pod | https://www.youtube.com/@Bg2Pod/videos | type=channel
+Business Breakdowns | https://www.youtube.com/@joincolossus/videos | type=channel
+
+# Playlists
+The OpenAI Podcast | https://www.youtube.com/playlist?list=PLOXw6I10VTv9GAOCZjUAAkSVyW2cDXs4u | type=playlist,count=23
+Dwarkesh Podcast | https://www.youtube.com/playlist?list=PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF | type=playlist,count=134
+Bloomberg Surveillance Full Shows | https://www.youtube.com/playlist?list=PLGaYlBJIOoa-qaI1saEniG3cR9V0Mu-PE | type=playlist,count=619
+Bloomberg The China Show | https://www.youtube.com/playlist?list=PLGaYlBJIOoa94hnb-z2i64eVPcGZPUvo9 | type=playlist,count=1043
+WSJ Take On the Week | https://www.youtube.com/playlist?list=PLRNktCZa_EIJjZf5ZSbfUw8tKBLiPMTXk | type=playlist,count=72
+WSJ Bold Names | https://www.youtube.com/playlist?list=PLRNktCZa_EIK9s9oKiKnwfxz-wqkY7-qI | type=playlist,count=59
+Odd Lots | https://www.youtube.com/playlist?list=PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz | type=playlist,count=90
+The Mishal Husain Show | https://www.youtube.com/playlist?list=PLe4PRejZgr0Ns_wjGlmjlPz0cded0nTYS | type=playlist,count=38
+Masters in Business | https://www.youtube.com/playlist?list=PLe4PRejZgr0NHEFdRxaup9ClCBvX335Xl | type=playlist,count=43
+Leaders with Francine Lacqua | https://www.youtube.com/playlist?list=PLe4PRejZgr0PAxeoWOBGj6M7GXhXQmdn6 | type=playlist,count=8
+The Interview - New York Times | https://www.youtube.com/playlist?list=PLJI0LFwrJ8Kl8wRL8oqS32EagmpH2yorK | type=playlist,count=62
+Cannonball with Wesley Morris | https://www.youtube.com/playlist?list=PL959yNJGO7n6ut_Lf717t4LFoswMxl7lL | type=playlist,count=51
+The Daily | https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4 | type=playlist,count=912
+Acquired Podcast Full Episodes | https://www.youtube.com/playlist?list=PLjZkFWu3rWSE2cZ8L2CbiRMmHtJeF0kHh | type=playlist,count=78
+ACQ2 | https://www.youtube.com/playlist?list=PLjZkFWu3rWSEW_Dh8WQtVXkWphCocktxG | type=playlist,count=16
+Odd Lots Audio | https://www.youtube.com/playlist?list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV | type=playlist,count=851
+Revisionist History | https://www.youtube.com/playlist?list=PLwa5nQCz20BRS5qYQ_D2NNQIpdSvYCMUV | type=playlist,count=124
+Silicon Valley Girl Podcast | https://www.youtube.com/playlist?list=PLQn7qZwwMmziZuTLRhYseP7Vg9TumF5dv | type=playlist,count=57

@@ -1,0 +1,182 @@
+name: Daily Podcast Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Report date, YYYY-MM-DD. Empty means today in Asia/Shanghai."
+        required: false
+        type: string
+      dry_run_feishu:
+        description: "Generate the report but do not publish to Feishu."
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    # 23:30 Beijing time. Adjust if your sources publish later.
+    - cron: "30 15 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  daily-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg cmake build-essential
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Resolve report date
+        id: report_date
+        shell: bash
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            REPORT_DATE="${{ github.event.inputs.date }}"
+          else
+            REPORT_DATE="$(TZ=Asia/Shanghai date +'%Y-%m-%d')"
+          fi
+          echo "date=$REPORT_DATE" >> "$GITHUB_OUTPUT"
+          echo "REPORT_DATE=$REPORT_DATE" >> "$GITHUB_ENV"
+          echo "REPORT_PATH=reports/daily-${REPORT_DATE}.md" >> "$GITHUB_ENV"
+          echo "ITEMS_PATH=reports/daily_items_${REPORT_DATE}.json" >> "$GITHUB_ENV"
+
+      - name: Restore whisper.cpp build
+        uses: actions/cache@v4
+        with:
+          path: whisper.cpp
+          key: whisper-cpp-build-v3-${{ runner.os }}
+
+      - name: Clone whisper.cpp
+        run: |
+          if [ ! -d whisper.cpp/.git ]; then
+            rm -rf whisper.cpp
+            git clone --depth 1 https://github.com/ggerganov/whisper.cpp.git whisper.cpp
+          fi
+
+      - name: Build whisper.cpp if needed
+        run: |
+          if [ ! -x whisper.cpp/build/bin/whisper-cli ]; then
+            cmake -S whisper.cpp -B whisper.cpp/build -DWHISPER_BUILD_TESTS=OFF
+            cmake --build whisper.cpp/build --config Release -j 2
+          fi
+
+      - name: Cache whisper.cpp model
+        uses: actions/cache@v4
+        id: whisper-model-cache
+        with:
+          path: whisper.cpp/models/ggml-small.bin
+          key: whisper-model-small-v1
+
+      - name: Download whisper.cpp model
+        if: steps.whisper-model-cache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p whisper.cpp/models
+          curl -L -o whisper.cpp/models/ggml-small.bin \
+            "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.bin"
+
+      - name: Prepare optional yt-dlp cookies
+        shell: bash
+        run: |
+          if [ -n "${{ secrets.YTDLP_COOKIES_B64 }}" ]; then
+            echo "${{ secrets.YTDLP_COOKIES_B64 }}" | base64 -d > cookies.txt
+            chmod 600 cookies.txt
+            echo "yt-dlp cookies configured"
+          fi
+
+      - name: Collect daily updated items
+        env:
+          BILIBILI_COOKIE: ${{ secrets.BILIBILI_COOKIE }}
+        run: |
+          python scripts/collect_daily_items.py \
+            --date "$REPORT_DATE" \
+            --lookback-hours 24 \
+            --output-json "$ITEMS_PATH" \
+            --output-urls config/daily_urls.txt
+
+      - name: Extract full subtitles for daily items
+        env:
+          XIAOYUZHOU_ACCESS_TOKEN: ${{ secrets.XIAOYUZHOU_ACCESS_TOKEN }}
+          BILIBILI_COOKIE: ${{ secrets.BILIBILI_COOKIE }}
+        shell: bash
+        run: |
+          COOKIES_ARG=""
+          if [ -f cookies.txt ]; then
+            COOKIES_ARG="--cookies cookies.txt"
+          fi
+          python extract_subtitles.py \
+            --batch config/daily_urls.txt \
+            --output subtitles \
+            --lang zh-Hans,zh-CN,zh,en \
+            --whisper-bin whisper.cpp/build/bin/whisper-cli \
+            --whisper-model whisper.cpp/models/ggml-small.bin \
+            $COOKIES_ARG
+
+      - name: Generate daily report from full transcripts
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          LLM_TIMEOUT: "180"
+          LLM_CHUNK_CHARS: "30000"
+        run: |
+          python scripts/generate_daily_report.py \
+            --date "$REPORT_DATE" \
+            --items-json "$ITEMS_PATH" \
+            --subtitles-dir subtitles \
+            --output "$REPORT_PATH"
+
+      - name: Publish report to Feishu Wiki and notify group
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_WIKI_SPACE_ID: ${{ secrets.FEISHU_WIKI_SPACE_ID }}
+          FEISHU_PARENT_NODE_TOKEN: ${{ secrets.FEISHU_PARENT_NODE_TOKEN }}
+          FEISHU_NOTIFY_WEBHOOK: ${{ secrets.FEISHU_NOTIFY_WEBHOOK }}
+        shell: bash
+        run: |
+          DRY_RUN=""
+          if [ "${{ github.event.inputs.dry_run_feishu }}" = "true" ]; then
+            DRY_RUN="--dry-run"
+          fi
+          python scripts/publish_feishu.py \
+            --file "$REPORT_PATH" \
+            --title "${REPORT_DATE} 播客/视频更新日报" \
+            $DRY_RUN
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-digest-${{ steps.report_date.outputs.date }}
+          path: |
+            ${{ env.REPORT_PATH }}
+            ${{ env.ITEMS_PATH }}
+            config/daily_urls.txt
+
+      - name: Commit generated files
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/ subtitles/ config/daily_urls.txt -f
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+            exit 0
+          fi
+          git commit -m "Update daily podcast digest ${REPORT_DATE}"
+          git push

@@ -1,0 +1,39 @@
+# YouTube podcast/video source summary
+# Verified: 2026-06-26
+# Total: 28 valid sources, 10 channels + 18 playlists.
+
+# Tech / AI / VC
+Sequoia Capital | @sequoiacapital/videos | channel
+No Priors Podcast | @NoPriorsPodcast/videos | channel
+The OpenAI Podcast | PL:PLOXw6I10VTv9GAOCZjUAAkSVyW2cDXs4u | 23
+Bg2 Pod | @Bg2Pod/videos | channel
+Dwarkesh Podcast | PL:PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF | 134
+
+# Business / Finance / Investing
+Bloomberg Originals | @business/videos | channel
+The Knowledge Project Podcast | @tkppodcast/videos | channel
+Invest Like The Best | @ILTB_Podcast/videos | channel
+Lenny's Podcast | @LennysPodcast/videos | channel
+Lex Fridman | @lexfridman/videos | channel | min_duration=1800
+Business Breakdowns | @joincolossus/videos | channel
+Bloomberg Surveillance Full Shows | PL:PLGaYlBJIOoa-qaI1saEniG3cR9V0Mu-PE | 619
+Bloomberg The China Show | PL:PLGaYlBJIOoa94hnb-z2i64eVPcGZPUvo9 | 1043
+Odd Lots | PL:PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz | 90
+Odd Lots Audio | PL:PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV | 851
+Masters in Business | PL:PLe4PRejZgr0NHEFdRxaup9ClCBvX335Xl | 43
+Leaders with Francine Lacqua | PL:PLe4PRejZgr0PAxeoWOBGj6M7GXhXQmdn6 | 8
+Acquired Podcast Full Episodes | PL:PLjZkFWu3rWSE2cZ8L2CbiRMmHtJeF0kHh | 78
+ACQ2 | PL:PLjZkFWu3rWSEW_Dh8WQtVXkWphCocktxG | 16
+Silicon Valley Girl Podcast | PL:PLQn7qZwwMmziZuTLRhYseP7Vg9TumF5dv | 57
+
+# News / Commentary
+Interesting Times with Ross Douthat | @InterestingTimesNYT/videos | channel | min_duration=600
+WSJ Take On the Week | PL:PLRNktCZa_EIJjZf5ZSbfUw8tKBLiPMTXk | 72
+WSJ Bold Names | PL:PLRNktCZa_EIK9s9oKiKnwfxz-wqkY7-qI | 59
+The Interview - New York Times | PL:PLJI0LFwrJ8Kl8wRL8oqS32EagmpH2yorK | 62
+The Daily | PL:PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4 | 912
+The Mishal Husain Show | PL:PLe4PRejZgr0Ns_wjGlmjlPz0cded0nTYS | 38
+
+# Culture
+Cannonball with Wesley Morris | PL:PL959yNJGO7n6ut_Lf717t4LFoswMxl7lL | 51
+Revisionist History | PL:PLwa5nQCz20BRS5qYQ_D2NNQIpdSvYCMUV | 124

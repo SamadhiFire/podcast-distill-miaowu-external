@@ -1,0 +1,842 @@
+[
+  {
+    "url": "https://www.youtube.com/@sequoiacapital/videos",
+    "note": "",
+    "ok": true,
+    "title": "Sequoia Capital - Videos",
+    "id": "UCWrF0oN6unbXrWsTN7RctTw",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "aiR7F4jqjXY",
+        "title": "Memory and Continual Learning: Engram's Dan Biderman and Jessy Lin",
+        "duration": 2692.0,
+        "url": "https://www.youtube.com/watch?v=aiR7F4jqjXY"
+      },
+      {
+        "id": "lfhFmwcESRw",
+        "title": "The Quest to Simulate Human Society: Simile's Joon Sung Park",
+        "duration": 2326.0,
+        "url": "https://www.youtube.com/watch?v=lfhFmwcESRw"
+      },
+      {
+        "id": "cMAs8z2dehs",
+        "title": "Google DeepMind's Logan Kilpatrick: Why the Model Eats the Harness",
+        "duration": 3069.0,
+        "url": "https://www.youtube.com/watch?v=cMAs8z2dehs"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@business/videos",
+    "note": "",
+    "ok": true,
+    "title": "Bloomberg Originals - Videos",
+    "id": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "jJrEnv1IDvg",
+        "title": "Why South Korea’s AI Stock Mania Is a Warning to the World",
+        "duration": 560.0,
+        "url": "https://www.youtube.com/watch?v=jJrEnv1IDvg"
+      },
+      {
+        "id": "n-hWHV2ZKOA",
+        "title": "Why AI Hasn't Cured Anything...Yet, According to Jennifer Doudna | The Circuit",
+        "duration": 1442.0,
+        "url": "https://www.youtube.com/watch?v=n-hWHV2ZKOA"
+      },
+      {
+        "id": "d6gyCyPwRZo",
+        "title": "This Is What Brexit Cost the World",
+        "duration": 1251.0,
+        "url": "https://www.youtube.com/watch?v=d6gyCyPwRZo"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv9GAOCZjUAAkSVyW2cDXs4u",
+    "note": "仅限于The OpenAI Podcast，不包含其他openai官方账号的内容",
+    "ok": true,
+    "title": "The OpenAI Podcast",
+    "id": "PLOXw6I10VTv9GAOCZjUAAkSVyW2cDXs4u",
+    "extractor": "YoutubeTab",
+    "playlist_count": 23,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "CFqjjKp9Y-Q",
+        "title": "Why Tejal Patwardhan stopped underestimating the models - Episode 21",
+        "duration": 2663.0,
+        "url": "https://www.youtube.com/watch?v=CFqjjKp9Y-Q"
+      },
+      {
+        "id": "1cAvPTNYwdI",
+        "title": null,
+        "duration": null,
+        "url": "https://www.youtube.com/watch?v=1cAvPTNYwdI"
+      },
+      {
+        "id": "wNWz5Hbh5VQ",
+        "title": "How a reasoning model cracked an 80-year-old math problem — the OpenAI Podcast Ep. 20",
+        "duration": 2478.0,
+        "url": "https://www.youtube.com/watch?v=wNWz5Hbh5VQ"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@NoPriorsPodcast/videos",
+    "note": "",
+    "ok": true,
+    "title": "No Priors: AI, Machine Learning, Tech, & Startups - Videos",
+    "id": "UCSI7h9hydQ40K5MJHnCrQvw",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "asCgCv2XB4s",
+        "title": "Re-engineering the Semiconductor Supply Chain with Intel CEO Lip Bu Tan",
+        "duration": 2700.0,
+        "url": "https://www.youtube.com/watch?v=asCgCv2XB4s"
+      },
+      {
+        "id": "u8cYwaLzN-k",
+        "title": "“Curing All Disease by next century is too conservative\" - Mark Zuckerberg",
+        "duration": 3381.0,
+        "url": "https://www.youtube.com/watch?v=u8cYwaLzN-k"
+      },
+      {
+        "id": "RQE8OS392dU",
+        "title": "We Need An Ecosystem in AI, And Every Company Can Win A Place In It",
+        "duration": 2547.0,
+        "url": "https://www.youtube.com/watch?v=RQE8OS392dU"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@InterestingTimesNYT/videos",
+    "note": "时长小于十分钟不要包含进来",
+    "ok": true,
+    "title": "Interesting Times with Ross Douthat - Videos",
+    "id": "UCJugC7hlL5uNoii46ICyUvw",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "_TJ0WjU4W0Y",
+        "title": "How the Sexual Revolution Brought Us Tradwives | Interesting Times with Ross Douthat",
+        "duration": 3256.0,
+        "url": "https://www.youtube.com/watch?v=_TJ0WjU4W0Y"
+      },
+      {
+        "id": "qNsK4HQDAdA",
+        "title": "JD Vance on the Morality of the Trump Administration | Interesting Times with Ross Douthat",
+        "duration": 3586.0,
+        "url": "https://www.youtube.com/watch?v=qNsK4HQDAdA"
+      },
+      {
+        "id": "z8PPzQYZlnc",
+        "title": "Better Sex, Better Hair, Better Sleep: ‘Human-Maxxing’ is Here | Interesting Times with Ross Douthat",
+        "duration": 4275.0,
+        "url": "https://www.youtube.com/watch?v=z8PPzQYZlnc"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF",
+    "note": "仅限于他的播客节目，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Dwarkesh Podcast",
+    "id": "PLd7-bHaQwnthaNDpZ32TtYONGVk95-fhF",
+    "extractor": "YoutubeTab",
+    "playlist_count": 134,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "U1FrhkLQnCI",
+        "title": "Machiavelli is the most misunderstood thinker of all time – Ada Palmer",
+        "duration": 7701.0,
+        "url": "https://www.youtube.com/watch?v=U1FrhkLQnCI"
+      },
+      {
+        "id": "Jj-kBHzUohs",
+        "title": "The better AI gets, the smaller its share of the economy might get – Alex Imas and Phil Trammell",
+        "duration": 4569.0,
+        "url": "https://www.youtube.com/watch?v=Jj-kBHzUohs"
+      },
+      {
+        "id": "NN362AXlgrQ",
+        "title": null,
+        "duration": null,
+        "url": "https://www.youtube.com/watch?v=NN362AXlgrQ"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@tkppodcast/videos",
+    "note": "",
+    "ok": true,
+    "title": "The Knowledge Project Podcast - Videos",
+    "id": "UCLtTf_uKt0Itd0NG7txrwXA",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "79320h28XFo",
+        "title": "How to Repair and Nourish Your Gut | Dr. Giulia Enders",
+        "duration": 3283.0,
+        "url": "https://www.youtube.com/watch?v=79320h28XFo"
+      },
+      {
+        "id": "yBBhd0-Os74",
+        "title": "Mental Models That Change How You Think | Bill Gurley",
+        "duration": 3680.0,
+        "url": "https://www.youtube.com/watch?v=yBBhd0-Os74"
+      },
+      {
+        "id": "iGx8RDvMvsg",
+        "title": "You Don’t Need To Innovate To Be Successful | FarmVille Creator",
+        "duration": 4169.0,
+        "url": "https://www.youtube.com/watch?v=iGx8RDvMvsg"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@ILTB_Podcast/videos",
+    "note": "",
+    "ok": true,
+    "title": "Invest Like The Best - Videos",
+    "id": "UCpQBb0fToph3jrDulwz1iUQ",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "OxHWFmFHnoc",
+        "title": "Investing a $120 Billion Balance Sheet with No Outside Investors",
+        "duration": 4589.0,
+        "url": "https://www.youtube.com/watch?v=OxHWFmFHnoc"
+      },
+      {
+        "id": "3bKLiUU2cb8",
+        "title": "Clay’s Unusual Path to Building a Multi-Billion Dollar Company",
+        "duration": 3611.0,
+        "url": "https://www.youtube.com/watch?v=3bKLiUU2cb8"
+      },
+      {
+        "id": "DZt1DDmMNGk",
+        "title": "Why the AI Boom Is Just Getting Started",
+        "duration": 4810.0,
+        "url": "https://www.youtube.com/watch?v=DZt1DDmMNGk"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLGaYlBJIOoa-qaI1saEniG3cR9V0Mu-PE",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Bloomberg Surveillance with Jon, Lisa and Annmarie (Full Shows)",
+    "id": "PLGaYlBJIOoa-qaI1saEniG3cR9V0Mu-PE",
+    "extractor": "YoutubeTab",
+    "playlist_count": 619,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "-EbiV_fjyTg",
+        "title": "Bloomberg Surveillance 6/25/2026",
+        "duration": 8665.0,
+        "url": "https://www.youtube.com/watch?v=-EbiV_fjyTg"
+      },
+      {
+        "id": "K4gpBYKaJz0",
+        "title": "Bloomberg Surveillance 6/24/2026",
+        "duration": 8655.0,
+        "url": "https://www.youtube.com/watch?v=K4gpBYKaJz0"
+      },
+      {
+        "id": "IGkpovxibzE",
+        "title": "Bloomberg Surveillance 6/23/2026",
+        "duration": 8659.0,
+        "url": "https://www.youtube.com/watch?v=IGkpovxibzE"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLGaYlBJIOoa94hnb-z2i64eVPcGZPUvo9",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Bloomberg: The China Show",
+    "id": "PLGaYlBJIOoa94hnb-z2i64eVPcGZPUvo9",
+    "extractor": "YoutubeTab",
+    "playlist_count": 1043,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "2QTCelm40GI",
+        "title": "Asian Stocks Slump to a Two-Week Low on Tech Rout | The China Show 6/26/2026",
+        "duration": 5580.0,
+        "url": "https://www.youtube.com/watch?v=2QTCelm40GI"
+      },
+      {
+        "id": "xRtlOpcp-YM",
+        "title": "PBOC Looks to Next Stage of Policy Shift | The China Show 6/25/2026",
+        "duration": 5594.0,
+        "url": "https://www.youtube.com/watch?v=xRtlOpcp-YM"
+      },
+      {
+        "id": "FfKzVSMRxv4",
+        "title": "Chinese Premier Says Tech Industry Not a Global Threat | The China Show 6/24/2026",
+        "duration": 5998.0,
+        "url": "https://www.youtube.com/watch?v=FfKzVSMRxv4"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@LennysPodcast/videos",
+    "note": "",
+    "ok": true,
+    "title": "Lenny's Podcast - Videos",
+    "id": "UC6t1O76G0jYXOAoYCm153dA",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "Ybrl4FYM57c",
+        "title": "What happens after coding is solved? | Fiona Fung (Claude Code & Cowork)",
+        "duration": 5925.0,
+        "url": "https://www.youtube.com/watch?v=Ybrl4FYM57c"
+      },
+      {
+        "id": "7eh9C3TUotc",
+        "title": "The hidden pattern behind successful products | Mark Pincus (FarmVille, Words with Friends, & more)",
+        "duration": 5963.0,
+        "url": "https://www.youtube.com/watch?v=7eh9C3TUotc"
+      },
+      {
+        "id": "RJjl1TwyfWM",
+        "title": "Tony Fadell: How to build real taste (and why AI makes it matter more)",
+        "duration": 5708.0,
+        "url": "https://www.youtube.com/watch?v=RJjl1TwyfWM"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLRNktCZa_EIJjZf5ZSbfUw8tKBLiPMTXk",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "WSJ's Take On the Week",
+    "id": "PLRNktCZa_EIJjZf5ZSbfUw8tKBLiPMTXk",
+    "extractor": "YoutubeTab",
+    "playlist_count": 72,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "YrJzjC4kKCY",
+        "title": "The True Cost of AI Hidden in Big Tech's Financials | WSJ’s Take On the Week",
+        "duration": 1746.0,
+        "url": "https://www.youtube.com/watch?v=YrJzjC4kKCY"
+      },
+      {
+        "id": "K0ZsiuSvfKo",
+        "title": "What SpaceX's IPO Really Tells Us About the Market | WSJ’s Take On the Week",
+        "duration": 2038.0,
+        "url": "https://www.youtube.com/watch?v=K0ZsiuSvfKo"
+      },
+      {
+        "id": "L_7A8zkWbQo",
+        "title": "Why NYU's 'Valuation Guru' Says Musk's SpaceX Isn't Worth $1.77T | WSJ’s Take On the Week",
+        "duration": 2221.0,
+        "url": "https://www.youtube.com/watch?v=L_7A8zkWbQo"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLRNktCZa_EIK9s9oKiKnwfxz-wqkY7-qI",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "WSJ's Bold Names",
+    "id": "PLRNktCZa_EIK9s9oKiKnwfxz-wqkY7-qI",
+    "extractor": "YoutubeTab",
+    "playlist_count": 59,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "UthqHcImWgI",
+        "title": "Tesla’s Former President on the ‘Secret Sauce’ of Elon Musk’s Management | WSJ's Bold Names",
+        "duration": 1506.0,
+        "url": "https://www.youtube.com/watch?v=UthqHcImWgI"
+      },
+      {
+        "id": "vcEDTJeevW0",
+        "title": "Why Southwest Finally Ditched Open Seating and ‘Bags Fly Free’  | WSJ's Bold Names",
+        "duration": 1404.0,
+        "url": "https://www.youtube.com/watch?v=vcEDTJeevW0"
+      },
+      {
+        "id": "7F2hp9yX1ZQ",
+        "title": "This Ex-Navy SEAL Built a $5B AI Drone Company for Modern Warfare | WSJ's Bold Names",
+        "duration": 1574.0,
+        "url": "https://www.youtube.com/watch?v=7F2hp9yX1ZQ"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Odd Lots",
+    "id": "PLe4PRejZgr0OJbRzA6nWybYiThLJd_ouz",
+    "extractor": "YoutubeTab",
+    "playlist_count": 90,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "RNq3zagUvVQ",
+        "title": "How the 1994 World Cup Transformed the Business of Football Forever | Odd Lots",
+        "duration": 3183.0,
+        "url": "https://www.youtube.com/watch?v=RNq3zagUvVQ"
+      },
+      {
+        "id": "aE3gPh2CC9I",
+        "title": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier | Odd Lots",
+        "duration": 4235.0,
+        "url": "https://www.youtube.com/watch?v=aE3gPh2CC9I"
+      },
+      {
+        "id": "RKAjxm44C6I",
+        "title": "Jeremy Grantham on How to Tell if a Bubble's About to Burst | Odd Lots",
+        "duration": 3823.0,
+        "url": "https://www.youtube.com/watch?v=RKAjxm44C6I"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLe4PRejZgr0Ns_wjGlmjlPz0cded0nTYS",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "The Mishal Husain Show",
+    "id": "PLe4PRejZgr0Ns_wjGlmjlPz0cded0nTYS",
+    "extractor": "YoutubeTab",
+    "playlist_count": 38,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "tw5FxtgybRY",
+        "title": "Can a Republican Win Again in California? Steve Hilton Thinks So | The Mishal Husain Show",
+        "duration": 2271.0,
+        "url": "https://www.youtube.com/watch?v=tw5FxtgybRY"
+      },
+      {
+        "id": "5Jn32xb4R_c",
+        "title": "Alastair Campbell and Jacob Rees-Mogg Debate Brexit | The Mishal Husain Show",
+        "duration": 2038.0,
+        "url": "https://www.youtube.com/watch?v=5Jn32xb4R_c"
+      },
+      {
+        "id": "bC4Spp6Swxc",
+        "title": "AI Wants Your Life: Tech Boss Meredith Whittaker Says No | The Mishal Husain Show",
+        "duration": 2659.0,
+        "url": "https://www.youtube.com/watch?v=bC4Spp6Swxc"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLe4PRejZgr0NHEFdRxaup9ClCBvX335Xl",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Masters in Business",
+    "id": "PLe4PRejZgr0NHEFdRxaup9ClCBvX335Xl",
+    "extractor": "YoutubeTab",
+    "playlist_count": 43,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "EkpBGR0zVHw",
+        "title": "Value Investing Legend Seth Klarman: Masters in Business",
+        "duration": 4117.0,
+        "url": "https://www.youtube.com/watch?v=EkpBGR0zVHw"
+      },
+      {
+        "id": "DjjF1z7Y82Y",
+        "title": "Riding Global Tailwinds: Masters in Business with Jean Eric Salata",
+        "duration": 3574.0,
+        "url": "https://www.youtube.com/watch?v=DjjF1z7Y82Y"
+      },
+      {
+        "id": "U2VlC25Mfr8",
+        "title": "Beating the S&P For Generations: Masters in Business with Chris Davis",
+        "duration": 5961.0,
+        "url": "https://www.youtube.com/watch?v=U2VlC25Mfr8"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLe4PRejZgr0PAxeoWOBGj6M7GXhXQmdn6",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Leaders with Francine Lacqua: The Podcast (Full Episodes)",
+    "id": "PLe4PRejZgr0PAxeoWOBGj6M7GXhXQmdn6",
+    "extractor": "YoutubeTab",
+    "playlist_count": 8,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "V58rQASfJjk",
+        "title": "BHP CEO Mike Henry: Why the AI Boom Could Drive a Copper Shortage | Leaders With Francine Lacqua",
+        "duration": 1425.0,
+        "url": "https://www.youtube.com/watch?v=V58rQASfJjk"
+      },
+      {
+        "id": "cu4_RUTqoBM",
+        "title": "IMF Chief Says Wake Up, Next Global Shock is Coming",
+        "duration": 1426.0,
+        "url": "https://www.youtube.com/watch?v=cu4_RUTqoBM"
+      },
+      {
+        "id": "yYkBpzq5Sqw",
+        "title": "Rolls-Royce CEO Tufan Erginbilgiç Shares His Turnaround Playbook",
+        "duration": 1425.0,
+        "url": "https://www.youtube.com/watch?v=yYkBpzq5Sqw"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@lexfridman/videos",
+    "note": "小于30分钟的不要",
+    "ok": true,
+    "title": "Lex Fridman - Videos",
+    "id": "UCSHZKyawb77ixDdsGog4iWA",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "1M3Vdl6DRkU",
+        "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497",
+        "duration": 10423.0,
+        "url": "https://www.youtube.com/watch?v=1M3Vdl6DRkU"
+      },
+      {
+        "id": "nepKKz-MzFM",
+        "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496",
+        "duration": 15502.0,
+        "url": "https://www.youtube.com/watch?v=nepKKz-MzFM"
+      },
+      {
+        "id": "iKx3gAODybU",
+        "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+        "duration": 7404.0,
+        "url": "https://www.youtube.com/watch?v=iKx3gAODybU"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLJI0LFwrJ8Kl8wRL8oqS32EagmpH2yorK",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "The Interview | A Podcast From the New York Times",
+    "id": "PLJI0LFwrJ8Kl8wRL8oqS32EagmpH2yorK",
+    "extractor": "YoutubeTab",
+    "playlist_count": 62,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "Kt11UnYXzCw",
+        "title": "Seth Rogen on ‘The Invite,’ James Franco, and More | The Interview",
+        "duration": 4693.0,
+        "url": "https://www.youtube.com/watch?v=Kt11UnYXzCw"
+      },
+      {
+        "id": "crSRtvIOxtc",
+        "title": "Why Some Politicians Don't Want You to Show Up to Vote | Senator Raphael Warnock on The Interview",
+        "duration": 2914.0,
+        "url": "https://www.youtube.com/watch?v=crSRtvIOxtc"
+      },
+      {
+        "id": "ePqdmbgQ4BI",
+        "title": "Scott Pelley on His Firing and the ‘Massacre’ at ‘60 Minutes’ | The Interview",
+        "duration": 3761.0,
+        "url": "https://www.youtube.com/watch?v=ePqdmbgQ4BI"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PL959yNJGO7n6ut_Lf717t4LFoswMxl7lL",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Cannonball with Wesley Morris",
+    "id": "PL959yNJGO7n6ut_Lf717t4LFoswMxl7lL",
+    "extractor": "YoutubeTab",
+    "playlist_count": 51,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "S_nAtj5ytUg",
+        "title": "The Grit and the Glamour of New York City Movies | Tribeca Live with Cynthia Nixon",
+        "duration": 2157.0,
+        "url": "https://www.youtube.com/watch?v=S_nAtj5ytUg"
+      },
+      {
+        "id": "7rASlPbb0Yg",
+        "title": "'Disclosure Day' and the Genius of Steven Spielberg",
+        "duration": 3187.0,
+        "url": "https://www.youtube.com/watch?v=7rASlPbb0Yg"
+      },
+      {
+        "id": "8KgG3bwbqrk",
+        "title": "'Obsession' Is a Very Immature Horror Movie. Is It a Sign of the Times?",
+        "duration": 2933.0,
+        "url": "https://www.youtube.com/watch?v=8KgG3bwbqrk"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "The Daily",
+    "id": "PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4",
+    "extractor": "YoutubeTab",
+    "playlist_count": 912,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "CC2Lp4kYSHk",
+        "title": "Mayor Mamdani Flexes His Power in the Midterms",
+        "duration": 1729.0,
+        "url": "https://www.youtube.com/watch?v=CC2Lp4kYSHk"
+      },
+      {
+        "id": "bt17kgPserU",
+        "title": "How the Iran Deal Is Testing the U.S.-Israel Alliance",
+        "duration": 1772.0,
+        "url": "https://www.youtube.com/watch?v=bt17kgPserU"
+      },
+      {
+        "id": "qSm_S9aN0YQ",
+        "title": "As Trump Purges Immigration Judges, One Speaks Out",
+        "duration": 2142.0,
+        "url": "https://www.youtube.com/watch?v=qSm_S9aN0YQ"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLjZkFWu3rWSE2cZ8L2CbiRMmHtJeF0kHh",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Acquired Podcast - Full Episodes",
+    "id": "PLjZkFWu3rWSE2cZ8L2CbiRMmHtJeF0kHh",
+    "extractor": "YoutubeTab",
+    "playlist_count": 78,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "7EUVr0-V6DA",
+        "title": "The Walt Disney Company: The greatest marriage of art, commerce, and engineering (Audio)",
+        "duration": 16289,
+        "url": "https://www.youtube.com/watch?v=7EUVr0-V6DA"
+      },
+      {
+        "id": "ipiKIgdynZE",
+        "title": "Vanguard: The communist capitalist who saved investors a trillion dollars (Audio)",
+        "duration": 13686,
+        "url": "https://www.youtube.com/watch?v=ipiKIgdynZE"
+      },
+      {
+        "id": "JVO8roYiNXM",
+        "title": "Ferrari: What happens when you staple a luxury brand to a sports team? (Audio)",
+        "duration": 14360,
+        "url": "https://www.youtube.com/watch?v=JVO8roYiNXM"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLjZkFWu3rWSEW_Dh8WQtVXkWphCocktxG",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "ACQ2",
+    "id": "PLjZkFWu3rWSEW_Dh8WQtVXkWphCocktxG",
+    "extractor": "YoutubeTab",
+    "playlist_count": 16,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "ZbER_DeLA0w",
+        "title": "ACQ2: The Insane Productivity of Andrew Ross Sorkin",
+        "duration": 4595,
+        "url": "https://www.youtube.com/watch?v=ZbER_DeLA0w"
+      },
+      {
+        "id": "ZbER_DeLA0w",
+        "title": "ACQ2: The Insane Productivity of Andrew Ross Sorkin",
+        "duration": 4595,
+        "url": "https://www.youtube.com/watch?v=ZbER_DeLA0w"
+      },
+      {
+        "id": "ewnNv8pxdM0",
+        "title": "ACQ2: How to Live in Everyone Else's Future (with Shopify CEO Tobi Lütke)",
+        "duration": 6521,
+        "url": "https://www.youtube.com/watch?v=ewnNv8pxdM0"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@Bg2Pod/videos",
+    "note": "",
+    "ok": true,
+    "title": "Bg2 Pod - Videos",
+    "id": "UC-yRDvpR99LUc5l7i7jLzew",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "Tx9jT2c6e3U",
+        "title": "The SpaceX IPO, Fable 5, AI Capex Update & Market Check w/ Gavin Baker, Andrew Fox & Clark Tang",
+        "duration": 4848.0,
+        "url": "https://www.youtube.com/watch?v=Tx9jT2c6e3U"
+      },
+      {
+        "id": "MIKej1HCRW0",
+        "title": "ChatGPT – The Super Assistant Era | BG2 Guest Interview",
+        "duration": 3821.0,
+        "url": "https://www.youtube.com/watch?v=MIKej1HCRW0"
+      },
+      {
+        "id": "jA8ZQfq_Hzs",
+        "title": "AI Enterprise - Databricks & Glean | BG2 Guest Interview",
+        "duration": 2701.0,
+        "url": "https://www.youtube.com/watch?v=jA8ZQfq_Hzs"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/@joincolossus/videos",
+    "note": "",
+    "ok": true,
+    "title": "Business Breakdowns - Videos",
+    "id": "UCfnHKTFEryHWyqr4Xjsjb3w",
+    "extractor": "YoutubeTab",
+    "playlist_count": null,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "m53ysyhjDJs",
+        "title": "How Kaz Nejatian Is Rebuilding Opendoor",
+        "duration": 1714.0,
+        "url": "https://www.youtube.com/watch?v=m53ysyhjDJs"
+      },
+      {
+        "id": "6NS9RwJ_oYo",
+        "title": "Cloudflare: Leading Cybersecurity [Business Breakdownes Ep 241]Cloudflare Final",
+        "duration": 4187.0,
+        "url": "https://www.youtube.com/watch?v=6NS9RwJ_oYo"
+      },
+      {
+        "id": "o2fm15GD5mo",
+        "title": "How Investors Are Using AI [Business Breakdowns: Episode 240]",
+        "duration": 2914.0,
+        "url": "https://www.youtube.com/watch?v=o2fm15GD5mo"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Odd Lots (Audio)",
+    "id": "PLe4PRejZgr0MuA6M0zkZyy-99-qc87wKV",
+    "extractor": "YoutubeTab",
+    "playlist_count": 851,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "rLZutczNG2E",
+        "title": "[Private video]",
+        "duration": null,
+        "url": "https://www.youtube.com/watch?v=rLZutczNG2E"
+      },
+      {
+        "id": "n1I9W5w9sGg",
+        "title": "[Private video]",
+        "duration": null,
+        "url": "https://www.youtube.com/watch?v=n1I9W5w9sGg"
+      },
+      {
+        "id": "GxnIrK9ox7c",
+        "title": "[Private video]",
+        "duration": null,
+        "url": "https://www.youtube.com/watch?v=GxnIrK9ox7c"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLwa5nQCz20BRS5qYQ_D2NNQIpdSvYCMUV",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Revisionist History",
+    "id": "PLwa5nQCz20BRS5qYQ_D2NNQIpdSvYCMUV",
+    "extractor": "YoutubeTab",
+    "playlist_count": 124,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "zPYU2Iz1cPw",
+        "title": "Frankenfood - The Mistakes Series | Malcolm Gladwell's Revisionist History",
+        "duration": 1929.0,
+        "url": "https://www.youtube.com/watch?v=zPYU2Iz1cPw"
+      },
+      {
+        "id": "qSVbyXuAIwk",
+        "title": "The Great American Elevator Tragedy | The Mistakes Series | Malcolm Gladwell's Revisionist History",
+        "duration": 1568.0,
+        "url": "https://www.youtube.com/watch?v=qSVbyXuAIwk"
+      },
+      {
+        "id": "UWBhxCcaoVU",
+        "title": "The Trust Diagnosis | Malcolm Gladwell's Revisionist History",
+        "duration": 2350.0,
+        "url": "https://www.youtube.com/watch?v=UWBhxCcaoVU"
+      }
+    ]
+  },
+  {
+    "url": "https://www.youtube.com/playlist?list=PLQn7qZwwMmziZuTLRhYseP7Vg9TumF5dv",
+    "note": "仅限于这个栏目下的内容，不包含其他官方账号的节目",
+    "ok": true,
+    "title": "Silicon Valley Girl Podcast",
+    "id": "PLQn7qZwwMmziZuTLRhYseP7Vg9TumF5dv",
+    "extractor": "YoutubeTab",
+    "playlist_count": 57,
+    "sample_count": 3,
+    "sample": [
+      {
+        "id": "E0Q96IKXx6Q",
+        "title": "Ex-Google Exec: How to Position Yourself Now Before the Next AI Phase (2026–2027) | Mo Gawdat",
+        "duration": 2398.0,
+        "url": "https://www.youtube.com/watch?v=E0Q96IKXx6Q"
+      },
+      {
+        "id": "ZE1AjTnsubI",
+        "title": "LinkedIn founder: how to get ahead while others lose their jobs | Reid Hoffman @reidhoffman",
+        "duration": 1370.0,
+        "url": "https://www.youtube.com/watch?v=ZE1AjTnsubI"
+      },
+      {
+        "id": "3FgPLbfs_oY",
+        "title": "AI CEO: How to build a $1B Company in 2 days | Amjad Masad @replit",
+        "duration": 2279.0,
+        "url": "https://www.youtube.com/watch?v=3FgPLbfs_oY"
+      }
+    ]
+  }
+]

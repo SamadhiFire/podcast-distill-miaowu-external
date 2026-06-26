@@ -1,0 +1,623 @@
+Andrew Mayne: Hello, I'm Andrew Mayne, and welcome to the OpenAI podcast.
+Andrew Mayne: On today's episode, we're talking to the research lead,
+Andrew Mayne: Tejal Patwardhan, about the need to build frontier evals
+Andrew Mayne: as old benchmarks get saturated.
+Tejal Patwardhan: Generally bad. Benchmarking is bad.
+Tejal Patwardhan: How can we make these models useful for people in their real work?
+Tejal Patwardhan: We were really nervous because we were like,
+Tejal Patwardhan: this human baseline is kind of hard.
+Tejal Patwardhan: We don't know if the model is going to beat it.
+Tejal Patwardhan: But we should never underestimate the model.
+Andrew Mayne: Tejal, I have a question.
+Andrew Mayne: How did you end up where you were?
+Andrew Mayne: What brought you into OpenAI?
+Tejal Patwardhan: Oh, I thought we weren't going to start with this.
+Andrew Mayne: Tejal, I have a question for you.
+Andrew Mayne: What would you like to start with?
+Tejal Patwardhan: Can we start with, like, tell us, like, what you did when you started OpenAI, and then you can, like, work backwards.
+Andrew Mayne: Don't you want to talk about your early days?
+Tejal Patwardhan: No.
+Tejal Patwardhan: I grew up at OpenAI.
+Tejal Patwardhan: Okay.
+Andrew Mayne: Tell me a bit about your journey here working inside artificial intelligence, inside OpenAI.
+Tejal Patwardhan: So I joined OpenAI in fall 23, and it was right after ChatGPT had come out, GPT-4 was out, and OpenAI had started.
+Tejal Patwardhan: its Superalignment team.
+Tejal Patwardhan: And I joined for the preparedness team that was getting started as we were starting to get a look at how capable these models were becoming and think about, you know, what would the next generation of models look like?
+Tejal Patwardhan: And at the time, it was extremely exciting because right after I joined was when some of the early results for the reasoning models had started to pick up.
+Tejal Patwardhan: And we were thinking about, you know, if these models really take off, what will the future of capabilities look like and how can we be prepared for that future?
+Tejal Patwardhan: And so we did a whole bunch of work on like threat modeling and like what eval should we be running?
+Tejal Patwardhan: How do we think about releasing a model like this?
+Tejal Patwardhan: It's a very exciting time to join.
+Andrew Mayne: What got you interested in this area?
+Tejal Patwardhan: Yeah, well, to me, evals are really exciting because they're a way to sort of measure and understand what our models can do and see progress, you know, sort of before it tends to happen.
+Tejal Patwardhan: Like there's this term called capability overhang, which is this idea that the models will be capable of things long before people actually adopt them and use them for those capabilities.
+Tejal Patwardhan: There might be cultural or legal or regulatory barriers towards using a capability even before it's ready.
+Tejal Patwardhan: And so being someone who can help develop and measure our models via evals,
+Tejal Patwardhan: it helps you really understand what this technology can do and sort of see the future before it happens,
+Tejal Patwardhan: which is very interesting.
+Tejal Patwardhan: And I also think it's important because it can help sort of ready the world for what's happening.
+Tejal Patwardhan: When I originally started here, part of why I was really excited to work on some of the preparedness evals
+Tejal Patwardhan: was because I thought these models were getting very capable.
+Tejal Patwardhan: And it felt like a lot of my friends in my real life
+Tejal Patwardhan: didn't really understand how powerful these models would soon become
+Tejal Patwardhan: because they'd look at a ChatGPT output and be like,
+Tejal Patwardhan: yeah, it's hallucinating and it's kind of not that smart
+Tejal Patwardhan: and kind of reads like AI slop.
+Tejal Patwardhan: And it's like, well, that's now.
+Tejal Patwardhan: But the question is the slope.
+Tejal Patwardhan: If the slope is very high, then change might be happening much faster
+Tejal Patwardhan: than one would expect.
+Tejal Patwardhan: And so I think one of the greatest services that we can do
+Tejal Patwardhan: is sort of measure and share with the world what progress looks like,
+Tejal Patwardhan: especially because there's often this capability overhang
+Tejal Patwardhan: before people really understand and feel that in the models themselves.
+Tejal Patwardhan: So that's part of why I think all of this is very important.
+Andrew Mayne: Reasoning was such an exciting moment.
+Andrew Mayne: And for most of the world, that didn't happen until a year later
+Andrew Mayne: that they found out about this.
+Andrew Mayne: But what was that like for you to all of a sudden understand
+Andrew Mayne: that if you gave the models a longer time to think about things,
+Andrew Mayne: you got better results, even though the size hadn't gotten bigger. That was a really fun time.
+Tejal Patwardhan: I mean, so in some of the early experiments, which we've talked about now, it's like the model is
+Tejal Patwardhan: trained really just on math. And I remember there was this set of experiments where Nat McAleese was
+Tejal Patwardhan: like, hey, the model is trained on math. But if you eval it on GPQA, which was this benchmark with
+Tejal Patwardhan: biology and chemistry and physics problems, the model is doing really well. This is very interesting.
+Tejal Patwardhan: smarter models are much smarter. And he had put together this forecast that at the time it said
+Tejal Patwardhan: that if, you know, progress kept going within six months, we'd have human level performance on
+Tejal Patwardhan: science from just training on math. And we were like, oh my gosh, that's crazy. And at the time,
+Tejal Patwardhan: this was extremely locked down. It was like, we kind of found our way to like curl to be able to
+Tejal Patwardhan: see some model outputs. And we were like, wow, this is like one of the smartest things like I've
+Tejal Patwardhan: ever seen. Like I've never seen a model reason like this before. It was just like, if this,
+Tejal Patwardhan: if this becomes a paradigm that continues to scale.
+Tejal Patwardhan: But then we just looked back and we were like,
+Tejal Patwardhan: you know, GPQA was like, you know,
+Tejal Patwardhan: PhD level biology, chemistry, and physics.
+Tejal Patwardhan: And we were like, ah, that's, what is that?
+Tejal Patwardhan: We really need professional level.
+Tejal Patwardhan: And we just like kept changing the stakes of what counted.
+Tejal Patwardhan: But yeah, it was very cool.
+Andrew Mayne: I remember early on when AP Bio was just,
+Andrew Mayne: that was the benchmark to try to see
+Andrew Mayne: if the model could do that.
+Andrew Mayne: But what's interesting as you brought this up
+Andrew Mayne: is that a lot of stuff that comes out from OpenAI
+Andrew Mayne: is math focused.
+Tejal Patwardhan: Math has been useful because it's more objectively verifiable in some ways.
+Tejal Patwardhan: So some of the earlier problems that we trained on, it was just easier to do RL and scale up the reasoning paradigm on math.
+Tejal Patwardhan: And math is also useful in various ways.
+Tejal Patwardhan: You know, it's like one of the core types of science.
+Tejal Patwardhan: But also in many ways, it's just happened by coincidence to be a thing that we focused on.
+Tejal Patwardhan: But it's not necessarily the end product of what we even want to focus on in research.
+Tejal Patwardhan: Like we're now realizing, OK, if we can do this for math, can we scale this up for other types of science,
+Tejal Patwardhan: for professional work, for, you know, for capabilities that are useful to humans on a personal level.
+Tejal Patwardhan: And so I think math is more like the proof point versus like the end goal.
+Andrew Mayne: But it does seem like you said, though, that if something is able to think for a long time,
+Andrew Mayne: break something down into steps and think through them as you have to do for really complex mathematical problems,
+Andrew Mayne: it does just carry over.
+Tejal Patwardhan: Well, this is a big debate.
+Tejal Patwardhan: So like some of it definitely carries over, like the general idea of reasoning can be useful,
+Tejal Patwardhan: But then also there could be some domain-specific skills or tools or types of reasoning that you would need in different domains.
+Tejal Patwardhan: Like, for example, for coding, you need to be able to actually write and execute code and test code if you want to scale up a coding agent.
+Tejal Patwardhan: And so something we've thought about a lot in terms of both evals and then also training is how do we make sure we also give the model the skills and tools and affordances that it would need to reason in that particular domain.
+Tejal Patwardhan: And some of the benefits of math will translate.
+Tejal Patwardhan: And then also you might need some domain-specific scaffolding to really pull out its full abilities,
+Tejal Patwardhan: like kind of, you know, like a general high school or liberal arts education,
+Tejal Patwardhan: and then like a specialized education.
+Andrew Mayne: Reasoning models were just a very interesting moment,
+Andrew Mayne: because I think it changed a lot of the ways we thought about what was possible,
+Andrew Mayne: even with just a certain amount of compute, if you let a model think longer,
+Andrew Mayne: and you gave the model the opportunity to just come up with more complex answers to this.
+Andrew Mayne: Were there any interesting things that happened with o1 that surprised you?
+Tejal Patwardhan: So the o1 release process was very exciting.
+Tejal Patwardhan: We were sort of thinking about the reasoning paradigm for a very long time.
+Tejal Patwardhan: And there were people that were worried about making sure we didn't release it too soon
+Tejal Patwardhan: just because it felt like a paradigm shift, possibly the thing that got us to AGI.
+Tejal Patwardhan: Like I said at the beginning, we thought we had AGI in six months
+Tejal Patwardhan: when some of the early runs were happening.
+Tejal Patwardhan: And so there was this question of, okay, how do we put this out responsibly?
+Tejal Patwardhan: How do we test this technology?
+Tejal Patwardhan: And during the initial launch review for o1, during some of our cybersecurity tests, the model, it was like one of the first examples of the model breaking out of the sandbox.
+Tejal Patwardhan: We published about this, where it was supposed to be in this Docker container during this capture the flag.
+Tejal Patwardhan: And the model found this security vulnerability and how we had implemented the capture the flag scenario.
+Tejal Patwardhan: And it broke out.
+Tejal Patwardhan: And we were all like, oh, no.
+Tejal Patwardhan: What else has the model done if it did this?
+Tejal Patwardhan: And it was kind of a feel the AGI moment.
+Tejal Patwardhan: One of many.
+Tejal Patwardhan: I feel like ever since then, there have been many other such moments where the model has done something really surprising or intelligent or novel that we didn't even think of when we were doing the tests.
+Tejal Patwardhan: And then you would come back and look at the transcripts and results and be like, wow, these guys, they're clever.
+Tejal Patwardhan: They're clever.
+Tejal Patwardhan: And then it was just very important that we published and made sure the world knew the models can do this sort of thing.
+Tejal Patwardhan: Yeah.
+Andrew Mayne: There was this period right before o1 it was announced.
+Andrew Mayne: A lot of people were like, well, it looks like we've hit the wall.
+Andrew Mayne: It's been a few months since anything's happened.
+Andrew Mayne: then o1 came out and they're like, what's a wall?
+Tejal Patwardhan: Hitting the wall is just so not the right way to think about.
+Tejal Patwardhan: Yeah, I get very frustrated when I see posts like that because I'm like, man, if you look
+Tejal Patwardhan: at, I feel like I've been looking at this model improvement and this progress for a
+Tejal Patwardhan: long time and it just keeps getting better.
+Tejal Patwardhan: Like it just keeps getting better.
+Tejal Patwardhan: And if I look at our research roadmap now, I see no signs of stopping.
+Tejal Patwardhan: Like things are just going to keep getting better.
+Tejal Patwardhan: This is going to be a really crazy year.
+Tejal Patwardhan: A lot of really cool research is going to come out.
+Tejal Patwardhan: And I think this is probably true across the whole industry.
+Tejal Patwardhan: So yeah, if anything, people are really under, they really under-expect from the models.
+Andrew Mayne: It seems like sometimes though that they're, OpenAI releases a lot.
+Andrew Mayne: They tell people about where we're headed and say that this looks interesting.
+Andrew Mayne: Sometimes people forget this or you get rumors of stuff like Q*.
+Tejal Patwardhan: Q*, man.
+Tejal Patwardhan: You're very interesting.
+Tejal Patwardhan: But no, people don't realize.
+Tejal Patwardhan: Like, I don't know.
+Tejal Patwardhan: I feel like we try to be very open and say like, hey guys, here are some plots.
+Tejal Patwardhan: Like the lines are going up. Things are really capable. I think maybe there's this there's like this like meme that, oh, the researchers, they they don't understand.
+Tejal Patwardhan: They like the models are only good at math and research, but not good at things in the real world.
+Tejal Patwardhan: But I just don't think that's true. I think people from even other occupations that have transitioned into OpenAI, like are starting to see our models are picking up at all sorts of things.
+Tejal Patwardhan: And I know it's like it might seem like the researchers are trying to overhype the model or something.
+Tejal Patwardhan: But if anything, I think we're underhyping the power of them.
+Andrew Mayne: You brought up AGI.
+Andrew Mayne: If I brought GPT-4 back from, you know, March 2023 back into, let's say, you know, 2020, I think people would have called it that.
+Andrew Mayne: And now we have this much more different idea of this.
+Andrew Mayne: People talk to AI every day.
+Andrew Mayne: They'll have long conversations with things.
+Andrew Mayne: Nobody talks about the Turing test anymore as one.
+Andrew Mayne: Nobody really understood what he was trying to explain, you know, but now we're well past that period.
+Andrew Mayne: Is there the eval for AGI?
+Tejal Patwardhan: Yeah.
+Tejal Patwardhan: I mean, the models passed the Turing test and no one talked about it.
+Tejal Patwardhan: It's kind of crazy.
+Tejal Patwardhan: Yeah.
+Tejal Patwardhan: Like I think models are pretty much indistinguishable from humans in many, many situations.
+Tejal Patwardhan: In terms of the test for AGI, I mean, I think if a model can do like there's the classic most economically valuable work.
+Tejal Patwardhan: And I think people are increasingly using the model for large parts of their work.
+Tejal Patwardhan: And I think there'll be like a big spectrum and debate of like when exactly this happened.
+Tejal Patwardhan: But gosh, I certainly feel like Codex does a lot of work for me.
+Tejal Patwardhan: And I feel very lucky to have unlimited tokens, you know.
+Tejal Patwardhan: So that's certainly.
+Andrew Mayne: Another reason to come work here.
+Tejal Patwardhan: Please join.
+Andrew Mayne: Yeah.
+Tejal Patwardhan: But yeah, I think there'll just be a moment when people are realizing that they're using the models for so much of their work.
+Tejal Patwardhan: And also the scientific breakthroughs that we're going to see, or I think there'll be at some point, it'll be incontrovertible.
+Tejal Patwardhan: Like these models are really, really powerful.
+Andrew Mayne: We're getting mathematics experts talking about how good the models are getting at that.
+Andrew Mayne: And we're getting physicists talking about doing that.
+Andrew Mayne: And I think that we're starting to see some real work come out of it, which is just exciting.
+Tejal Patwardhan: Yeah.
+Andrew Mayne: So you brought up part of the problem with some of the earlier evals.
+Andrew Mayne: Like a lot of them were inherited from older natural language processing methods and stuff.
+Andrew Mayne: And then sort of when you're looking for ways, how do we measure the success of this?
+Andrew Mayne: Literally, some of these were just so simplistic that pretty much those benchmarks got passed.
+Andrew Mayne: And then you had to figure out new categories of stuff.
+Andrew Mayne: How have these been evolving?
+Tejal Patwardhan: It used to be that, you know, even the academic benchmark, so to speak, our models couldn't pass.
+Tejal Patwardhan: Like, you know, classic tests that someone would take in high school or college or sort of more multiple choice types of questions.
+Tejal Patwardhan: And as the models got smarter, we had to make things more and more realistic.
+Tejal Patwardhan: So one of the first benchmarks that we put out more publicly was this benchmark called SWE-bench Verified, which was like testing how well the model could, you know, interact in real code bases in Python, like Django and like, you know, complete PRs and that sort of thing.
+Tejal Patwardhan: And like pass unit tests.
+Tejal Patwardhan: And then those became even more advanced where we were like, OK, can the model take, you know, multi-step actions on like some complex environment, take actions on the computer, like take actions that link up to the real world with like some of our wet labs and biology work.
+Tejal Patwardhan: So I think over time, as the models keep getting better, we have to be more ambitious with like how long horizon and how realistic our measurements are.
+Tejal Patwardhan: And doing that is very fun because you have to like sort of stay ahead of the pace of progress.
+Andrew Mayne: So two terms I want you to unpack.
+Andrew Mayne: When we talk about benchmarks, you often hear BenchMaxxing.
+Tejal Patwardhan: Yeah, BenchMaxxing is, I would say, this idea that if someone training a model was just trying to look good on some evaluation or benchmark and not actually making the model generally useful.
+Tejal Patwardhan: And I would say that's generally not super helpful because you want the model to be good at the real thing that the user might want to do.
+Tejal Patwardhan: And you don't just care about it looking good in some marketing copy because when a user uses it, they'll be like, hey, this is not quite what I signed up for.
+Tejal Patwardhan: And so generally bad. BenchMaxxing is bad.
+Andrew Mayne: Yeah, and I think the way they've heard it explained kind of makes sense is that you have X amount of compute budget, time, how much you're going to spend on it.
+Andrew Mayne: And you can spend a large part of that making the model just overall very good.
+Andrew Mayne: Or I can say, I'm going to spend 90% of it so my evals are going to look really good when I release it.
+Andrew Mayne: And sometimes we've seen people just go literally use those evals for it.
+Andrew Mayne: It comes out like, oh, that's like a great model.
+Andrew Mayne: And then you find out, oh, it's only good at that.
+Tejal Patwardhan: Yeah, that's not a great experience for the user.
+Tejal Patwardhan: So I think something that the OpenAI research program has done quite well is try to be very disciplined about making sure we are investing in general model improvements on the areas that really matter.
+Tejal Patwardhan: And then, you know, you'll run some evals at the end for comparison.
+Tejal Patwardhan: But the goal should not be, oh, we just want to look good on an eval.
+Tejal Patwardhan: We want to make a model that's useful to push forward the frontier of science or push forward the frontier of work or something like this.
+Tejal Patwardhan: And I think Jakob has done a really good job also, like enforcing throughout the research org.
+Tejal Patwardhan: Like we should be really scientific and honest.
+Tejal Patwardhan: And that's included.
+Tejal Patwardhan: You know, we've published results where our models were not the best before.
+Tejal Patwardhan: We just want to publish the reality and make sure that we are painting a very accurate picture of what our models can do and then aim to make them useful in the real world as much as we can.
+Andrew Mayne: You mentioned the software engineering bench as a one of the metrics that's maybe not as useful now.
+Andrew Mayne: And we hear the term saturated.
+Andrew Mayne: Explain what it means in a benchmark saturated.
+Tejal Patwardhan: Saturated is when a model is close to passing all of the questions correctly, like getting close to 100% on the test.
+Tejal Patwardhan: And once a benchmark is saturated, it's not super useful because you can't really tell models apart with that test.
+Tejal Patwardhan: It's like comparing two geniuses on like a high school math exam.
+Tejal Patwardhan: Like they might just both pass, but that's not very useful as you're trying to separate really, really smart pieces of intelligence.
+Tejal Patwardhan: So the challenge is always to make more and more difficult, realistic, unsaturated benchmarks that you can then measure models against over time and forecast sort of where progress is going.
+Andrew Mayne: How do you do that now? How do you figure out what a good benchmark is going to be?
+Tejal Patwardhan: Yeah, I mean, the best benchmarks, I think, are really realistic and measure something people actually care about.
+Tejal Patwardhan: So one of our first forays towards doing this, which, you know, it's been a while now, but that we published was called GDPval.
+Tejal Patwardhan: Like I was really excited that about the idea of having a measurement for how the models could interact with the real world.
+Tejal Patwardhan: And we were really having this crisis of evals where we kept training successively better models.
+Tejal Patwardhan: And on SWE-bench, they looked about the same because they were just doing really well.
+Tejal Patwardhan: And like we were reaching the top of what that benchmark could measure.
+Tejal Patwardhan: And we were like, man, we have no idea how to measure what people actually want to use our models for.
+Tejal Patwardhan: And so there was very much a, hey, like the Bureau of Labor Statistics has a list of all the top jobs and like all the top tasks per job.
+Tejal Patwardhan: If you're a financial analyst, like doing an investment diligence or writing a legal memo or, you know, writing a paper based on a piece of research or something like this.
+Tejal Patwardhan: And the idea was, can we actually ask the model those tasks that someone would want in real life with the context they would have at the time and then see how the model could solve those tasks?
+Tejal Patwardhan: And at the time when we tested one of the earliest models on this benchmark, it got like, you know, less than 20 percent.
+Tejal Patwardhan: Like if you compare how well a model would do on this well-specified work task compared to a human, like the model was way worse.
+Tejal Patwardhan: I'm like really proud of the org for being like, actually, you know what, we should publish this new way to sort of measure and forecast progress on real world economic impacts.
+Tejal Patwardhan: And it's been like very useful to a lot of economists.
+Tejal Patwardhan: And also our models now are the best.
+Tejal Patwardhan: And it's very cool because I think at the time we were like not really investing in real world work in some of our training programs and weren't even measuring or tracking it.
+Tejal Patwardhan: And I think now there's a lot more focus on how can we make these models useful for people in their real work, like for real scientists.
+Tejal Patwardhan: And this kind of helped catalyze a wake up call that, hey, maybe we should also think about how to measure how stuff is used in the real world.
+Tejal Patwardhan: So that was pretty cool.
+Tejal Patwardhan: But now we're like, OK, this benchmark's probably too easy because it's extremely well specified.
+Tejal Patwardhan: Each of the prompts is hundreds of words of, I want you to go to this spreadsheet and make this change and do this thing and then take that calculation and put it in a memo.
+Tejal Patwardhan: It's very detailed.
+Tejal Patwardhan: And I think the next step is, how do we give the model as much ambiguity as you would give a report in the real world?
+Tejal Patwardhan: If a manager asks, hey, can you run this analysis for me?
+Tejal Patwardhan: They should go figure out what to do, put that together, run the analysis, and give you an output.
+Tejal Patwardhan: And so I think we've been working a lot on like more realistic ways to measure real work in the real world, whether that's in like science, for personal use, or even for enterprise.
+Andrew Mayne: There seems to be something to the idea of instead of hiding a benchmark, putting it out there because internally as an org, you go like, okay, this can't stand.
+Tejal Patwardhan: Yeah, it really motivates research also.
+Tejal Patwardhan: I think people want to know the truth and they want to know where we can be better and deliver a better model for our users.
+Tejal Patwardhan: And so knowing the gaps is quite useful.
+Andrew Mayne: What do you think the current limitations are right now with the ways that we're doing evals?
+Tejal Patwardhan: I think the types of work that we're doing now with Codex and with our latest reasoning models,
+Tejal Patwardhan: like 5.5, it's just such a different level of capability than what we had even six months ago,
+Tejal Patwardhan: where a static benchmark just doesn't measure the nature of how long you can get work out of these
+Tejal Patwardhan: things. These models can work for days or weeks for you. And internally in research, we've had
+Tejal Patwardhan: the models just like run for really long periods of time to do work. And one of the problems with
+Tejal Patwardhan: an automated eval is you kind of need it to run within some amount of time and get results to be
+Tejal Patwardhan: able to look at them. And a lot of the ways that we're measuring models now also just include
+Tejal Patwardhan: looking at production usage and looking at real world use by people and seeing what they're using
+Tejal Patwardhan: it for and what types of tasks they're able to get done because the time horizon of how much work
+Andrew Mayne: is done by the model is just getting so much longer. It was interesting watching, for instance,
+Andrew Mayne: long context, there was kind of this early race for companies to say that, hey, our models can
+Andrew Mayne: take, you know, 100,000 tokens, a million tokens, whatever. But there wasn't a lot of evaluation on
+Andrew Mayne: how well that was. And then we got needle in the haystack, which is a method of seeing if it could
+Andrew Mayne: find a word or whatever. And I think that people sort of assumed that that was a solved problem,
+Andrew Mayne: but it wasn't. It was just the benchmarks weren't really good. And then we had to have better
+Andrew Mayne: benchmarks. And is that what kind of made it better was finally people could one, spend more attention
+Andrew Mayne: solving that problem when they understood where it was failing?
+Tejal Patwardhan: Yeah, we definitely have better
+Tejal Patwardhan: benchmarks for this sort of thing now. And then also sometimes these problems reveal gaps in how
+Tejal Patwardhan: we're thinking about training. So one example is we used to think, oh, what matters is just how much
+Tejal Patwardhan: context you can stuff into the model at test time. When now it seems that you can just dump a bunch
+Tejal Patwardhan: of files in a container and the model can kind of grep around and search for what it needs and when.
+Tejal Patwardhan: And this ability to have search or tools to figure out what context you should use can be more efficient than just stuffing everything in the context.
+Tejal Patwardhan: And we wouldn't have really realized that without trying that out and then seeing how that performed on various benchmarks.
+Tejal Patwardhan: So I think this makes the model a lot more useful because, for example, now the model can search over a whole repo and find the files that you need and understand the context of where you're making changes.
+Tejal Patwardhan: And the same is true for many work contexts where folks in Codex can now upload their local file system.
+Tejal Patwardhan: And you might have made PowerPoints before or sent Slacks that are relevant to the work that you're doing now.
+Tejal Patwardhan: And the model can sort of search over that context with tool calls.
+Tejal Patwardhan: And so we're not as limited by how much you can literally stuff into context because the model can search.
+Andrew Mayne: Do you have any favorite evals?
+Tejal Patwardhan: My favorite eval?
+Tejal Patwardhan: I mean, GDPval is my favorite public eval.
+Tejal Patwardhan: But I have many internal evals.
+Tejal Patwardhan: I will say the name of one of them.
+Tejal Patwardhan: It's called Houdini bench and I cannot explain further.
+Andrew Mayne: Oh my God.
+Andrew Mayne: You know, I was a magician, right?
+Andrew Mayne: So.
+Tejal Patwardhan: No.
+Andrew Mayne: Yeah.
+Tejal Patwardhan: Maybe.
+Tejal Patwardhan: I don't know if you'd pass Houdini bench.
+Andrew Mayne: No, I'd probably not pass Houdini bench.
+Andrew Mayne: That was actually one of the things I was played around with some of the early vision models
+Andrew Mayne: and stuff was, was using stuff, photographs and stuff of magic tricks and stuff and seeing
+Andrew Mayne: this.
+Tejal Patwardhan: That's very cool.
+Tejal Patwardhan: Yeah.
+Tejal Patwardhan: Multimodal brings a whole new element.
+Tejal Patwardhan: Like I remember when GPT-4o had first come out, there was a group of, there was a group of
+Tejal Patwardhan: us that was sitting on the roof of this building.
+Tejal Patwardhan: that our minds were just so blown by the idea of a real-time voice model.
+Tejal Patwardhan: And then we were like, how do we even eval this thing?
+Tejal Patwardhan: Because the whole paradigm of doing things in text and code and on your computer
+Tejal Patwardhan: is just completely blown away if there's a voice interaction in real time.
+Tejal Patwardhan: Something that was really interesting about that launch is,
+Tejal Patwardhan: and we said this publicly at the time,
+Tejal Patwardhan: is we actually delayed the public launch by six weeks
+Tejal Patwardhan: as we were figuring out how to make sure the model was safe.
+Andrew Mayne: This was GPT-4o?
+Tejal Patwardhan: Yeah, because this was before the elections, actually.
+Tejal Patwardhan: And so there was like a lot of worry of, oh, if the model can in real time talk to you with a realistic sounding voice, could this be used for persuasive propaganda or this sort of thing?
+Tejal Patwardhan: And it was very cool.
+Tejal Patwardhan: The company delayed the launch to make sure we could build out all of these tests and build in mitigations to make sure the models couldn't be used for this sort of thing.
+Andrew Mayne: Well, it seems like that's a very complicating factor as these models became multimodal.
+Andrew Mayne: I remember early on with GPT-4, would it be, you know, GPT-4 Vision back when it was that, was that you could, you could, I could, I had terrible handwriting.
+Andrew Mayne: I could write a prompt and all of a sudden would solve for this.
+Andrew Mayne: And you realize, oh, it's not a text in prompt.
+Andrew Mayne: It's a visual prompt.
+Andrew Mayne: And then with the audio models, when you're doing audio in, audio out, the model could emulate things and could do stuff in such different ways.
+Andrew Mayne: And so it seems like that's really, where do you even begin trying to figure out how you're going to measure that?
+Tejal Patwardhan: Yeah, I mean, it's just a lot of work.
+Tejal Patwardhan: Usually for any of these, we start with what would humans do in this case.
+Tejal Patwardhan: So like, you know, you would like have a set of inputs that you put into the model and a set of outputs you would evaluate.
+Tejal Patwardhan: And then you can like build up, OK, can we like automate some of these?
+Tejal Patwardhan: Can we build a new platform to measure this sort of thing at scale and sort of move from there?
+Tejal Patwardhan: But for some of the natively multimodal, it's just like you have to like rip apart a bunch of your infra and make stuff work.
+Tejal Patwardhan: Like this was also true with Sora for, you know, we were interested in making sure the videos weren't overly realistic or could be used for the wrong thing.
+Tejal Patwardhan: And that required like, especially from safety, building up a whole new stack of evals and mitigations, like including refusals at the model level, monitoring when this was being used in prod.
+Tejal Patwardhan: And yeah, it requires a whole new stack of thinking.
+Andrew Mayne: Yeah. Well, that's the thing, too, is that when you start to think about, OK, how do you prioritize one eval over another?
+Andrew Mayne: when do you decide that this isn't a, or do you just sort of go, look, this one's saturated,
+Andrew Mayne: we move on. And because there is, even though you may not be trying to optimize towards certain
+Andrew Mayne: public benchmarks, you still have to figure out like what we're, what, what's important to us now?
+Andrew Mayne: Like there was a time when OpenAI was leading in code and then there was a time when it wasn't,
+Andrew Mayne: now there is a time it is, but there was a dark period where that happened.
+Tejal Patwardhan: Yeah, we try not to get distracted by public benchmarks too much because it can be kind of noisy.
+Tejal Patwardhan: I think internally we have this thing called AGI index, which is inspired by the idea of like CPI or inflation, where you have like some weighted basket of goods and you're tracking the price of those goods.
+Tejal Patwardhan: The same thing for us.
+Tejal Patwardhan: It's we have like this basket of evals that include measurements across all of the core areas we're interested in.
+Tejal Patwardhan: That can include alignment, can include safety, can include capabilities.
+Tejal Patwardhan: It's just sort of what you want from your model.
+Tejal Patwardhan: And we just iterate, we keep updating that index to represent more and more sort of the difficult version of what we want our models to do.
+Tejal Patwardhan: And we sort of track that index internally and try not to be distracted by, you know, trying to benchmark some public benchmark or something like that.
+Tejal Patwardhan: It's more having a blend of evals across different domains that we care about across science or work.
+Tejal Patwardhan: And then also safety and alignment and making sure we keep making progress on that sort of weighted basket.
+Tejal Patwardhan: Try to stay focused.
+Andrew Mayne: We've watched this evolution of these evals.
+Andrew Mayne: We've watched the evolution of the models.
+Andrew Mayne: And I've talked to people here working in the sciences, like people who are active in the science, not just researchers who like science or like computer science, but people who are in biology, mathematics.
+Andrew Mayne: Can you tell me what's going on with the evals in the scientific frontier?
+Andrew Mayne: Because we're at this point now where it seems like we're going to see meaningful results.
+Tejal Patwardhan: Yeah, I think the work in some of our science evals is some of our most exciting.
+Tejal Patwardhan: So in the past few months, there's a few tiers of evals that we've made public.
+Tejal Patwardhan: So the first tier was this eval called Frontier Science Olympiad, which was kind of the equivalent to the math Olympiad style evals that we had before,
+Tejal Patwardhan: where we were measuring how well the models could do on like high school Olympiad style problems in biology, chemistry and physics.
+Tejal Patwardhan: And they were sort of shorter answer, but still quite hard. And the models weren't very good yet.
+Tejal Patwardhan: And then the next phase we did was Frontier Science Research, which is also public and people can run this,
+Tejal Patwardhan: which measured how well models could help complete sort of unfinished biology, chemistry, and physics theses.
+Tejal Patwardhan: So we had people who were PhDs or professors in these fields that had some text that was not published,
+Tejal Patwardhan: like maybe part of their thesis, and just turned that into an evaluation where the model was given maybe some input data
+Tejal Patwardhan: or some initial starting point, and it had to sort of see how it'd fill out the rest of that paper
+Tejal Patwardhan: and judge against a rubric for how well it did.
+Tejal Patwardhan: And that was starting to measure, like, OK, are the models starting to do research?
+Tejal Patwardhan: Are they using tools?
+Tejal Patwardhan: This sort of thing.
+Tejal Patwardhan: And then one of the final iterations of this was to see how well the model could do in the real world in a wet lab.
+Tejal Patwardhan: And so we worked with this company called Ginkgo Bioworks that has a bunch of really cool automated wet lab robots where the model had to optimize this protocol for protein synthesis.
+Tejal Patwardhan: And the idea was the model would generate a protocol and then they would actually automatically test it in the wet lab or they would put in the reagents the model suggested.
+Tejal Patwardhan: and then see what protein yield they got.
+Tejal Patwardhan: And this was for a protein that's sort of related to this ovarian cancer drug,
+Tejal Patwardhan: or it's sort of a toy scenario for that.
+Tejal Patwardhan: And the model, we were really nervous at first,
+Tejal Patwardhan: because we were like, this human baseline is kind of hard.
+Tejal Patwardhan: We don't know if the model is going to beat it.
+Tejal Patwardhan: But we should never underestimate the models,
+Tejal Patwardhan: because the curve is pretty clear.
+Tejal Patwardhan: Just every cycle got better and better, beat the human baseline,
+Tejal Patwardhan: and then set the state of the art on how efficiently the model could cost per yield,
+Tejal Patwardhan: generate this protein. And I think that's just the start of how if we give these models optimization
+Tejal Patwardhan: problems, like, you know, go try to figure out how inexpensive you can make this vaccine or,
+Tejal Patwardhan: you know, generate, synthesize this protein that's important for a drug, the model can just go and
+Tejal Patwardhan: keep optimizing these protocols with real world inputs. And it was one of our first time de-risking
+Tejal Patwardhan: an eval that's actually connected to the real world. Like we weren't waiting for a piece of
+Tejal Patwardhan: code to run. We were waiting for the robot to finish the experiment so we could record how
+Tejal Patwardhan: much protein was synthesized. And yeah, I just think the models are going to do so much science
+Tejal Patwardhan: for us. It's going to be really interesting. And that was exciting because that was just like,
+Andrew Mayne: I think, GPT-5 and it hadn't gone through any sort of, here's how to be a scientist. And now
+Andrew Mayne: these models have progressed a lot since then. You have a lot more real world experience with this.
+Tejal Patwardhan: Yeah, that wasn't even with one of our best models. It was like just an early reasoning model.
+Tejal Patwardhan: And so I think, yeah, all of these things stack. Like we'll have better pre-training,
+Tejal Patwardhan: we have better RL and post-training, and we're going to get a lot better at using these models
+Tejal Patwardhan: time to really elicit their capabilities. And I think the next generation of evals is really about
+Tejal Patwardhan: how can we have these models take actions in the real world and solve sort of unsolved problems for
+Tejal Patwardhan: us that would take humans a long time. You know, some of these scientific problems that we haven't
+Tejal Patwardhan: been able to put enough effort against. It's like, well, now we have all of these agents that can
+Tejal Patwardhan: spend compute to solve problems for us and try to steer them towards what would be useful.
+Andrew Mayne: It does seem like that brings in a new challenge though. Do you think that evals are going to
+Andrew Mayne: be a lot more complex.
+Tejal Patwardhan: Yeah, I mean, we have the saying on our team that pain is the moat.
+Tejal Patwardhan: I really think a lot of operations in the physical world will become part of the bottlenecks
+Tejal Patwardhan: and being able to measure what the models can do.
+Tejal Patwardhan: Because even just starting with digital, there's so much more scaffolding and infrastructure
+Tejal Patwardhan: work we need to do to run these.
+Tejal Patwardhan: Like now, if we want to test how well Codex does, it's like, well, the model is calling
+Tejal Patwardhan: APIs.
+Tejal Patwardhan: It's like taking actions on your computer and in your browser.
+Tejal Patwardhan: It's making artifacts for you.
+Tejal Patwardhan: It's writing and running and executing that code.
+Tejal Patwardhan: It's just so much more complex to measure that model, and that's only digital.
+Tejal Patwardhan: Now, if you want to measure how the model could interact with the physical world,
+Tejal Patwardhan: there's all sorts of ops and logistics that you need to have a really smooth process for
+Tejal Patwardhan: to see how you can deploy these things at scale.
+Tejal Patwardhan: And yeah, I think a lot of the work is actually shifting from being like theory or math or even programming.
+Tejal Patwardhan: Like I feel like people don't program that much.
+Tejal Patwardhan: They just ask Codex and more shifting towards like planning, operations, physical stuff, or at least at least my job has shifted a lot that way.
+Tejal Patwardhan: And those things are very hard.
+Tejal Patwardhan: It's actually kind of easy to just like write something like in a corner.
+Tejal Patwardhan: It's a lot harder when you have to manage all of these operations and logistics.
+Andrew Mayne: It's exciting, but it seems like part of the challenge is these aren't just simple evals anymore.
+Andrew Mayne: They take more compute.
+Andrew Mayne: They take more time.
+Andrew Mayne: When you're trying to do a long horizon eval, you know, it's long.
+Andrew Mayne: You have to wait a long time to get the outcome on that.
+Tejal Patwardhan: Yeah, definitely.
+Tejal Patwardhan: So it's both a lot more work to come up with the evals and run them at scale.
+Tejal Patwardhan: And also if the, you know, the work takes a longer amount of time, we don't get the signal as fast.
+Tejal Patwardhan: So we have to invest more in scaling laws where we can predict, okay, well, if by one day the model looks like this, then we can forecast that at seven days it would look like this and sort of come up with trends that we can, so that we can get signal faster.
+Tejal Patwardhan: Otherwise, we're just like stuck there waiting for a week to get an update, which is not the most productive way to spend time.
+Andrew Mayne: I have certain benchmarks and things I use to test every time a new model comes out to find out how it's personally useful to me.
+Andrew Mayne: And it's one thing I tell people who run businesses or other things is think about your own evals, things that will tell you where something is.
+Andrew Mayne: Because sometimes people might try something, they might try ChatGPT six months ago and go, eh, it wasn't good, it didn't do this.
+Andrew Mayne: They don't realize how fast things move.
+Andrew Mayne: Do you have any advice for people on how to figure out how to come up with a benchmark?
+Tejal Patwardhan: Yeah, I mean, if things move really fast, things change every couple of weeks.
+Tejal Patwardhan: And I feel like people are not as awake about, in my job, I'm one of the first people in the world to see some of the most powerful models.
+Tejal Patwardhan: So I'm extremely AGI-pilled.
+Tejal Patwardhan: And I think progress is happening a lot faster.
+Andrew Mayne: What have you seen?
+Tejal Patwardhan: What have I seen?
+Tejal Patwardhan: I've seen good models, man.
+Tejal Patwardhan: Yeah, but progress is happening a lot faster than people would think.
+Tejal Patwardhan: And I think the best eval, honestly, is just to dog food or use the model.
+Tejal Patwardhan: Like people should just try to use the models as much as they can.
+Tejal Patwardhan: And even if there are things that they think the model didn't do well one week, they should just try it again the next week.
+Tejal Patwardhan: It'll probably work.
+Andrew Mayne: I think that's one of the things that should be obvious to people kind of outside AI is how really good frontier AI companies are using these tools internally.
+Andrew Mayne: And that's why things are speeding up and getting more capable.
+Tejal Patwardhan: Yeah, I basically try to have the model take a first pass of everything that I do.
+Tejal Patwardhan: Like whether it's, you know, sending a Slack message, like understanding what experiment to perform next, like any management stuff, ops, logistics.
+Tejal Patwardhan: like you have the model take a first pass and then if the model is not good we like figure out how to
+Tejal Patwardhan: put that in the eval.
+Andrew Mayne: I'm excited about the computer use evals, like just watching the performance of
+Andrew Mayne: Codex. The computer use is just light years over where it was just, you know, maybe eight months ago
+Andrew Mayne: and it seems like those things are just going to get faster and better my prediction is like
+Andrew Mayne: probably by the end of the year it'll use my computer better and faster than i do yeah yes i
+Tejal Patwardhan: think so the models have some advantages over you right like they can call a connector or plugin
+Tejal Patwardhan: which is a much faster mode of communication than you on your computer having to go click into a service
+Tejal Patwardhan: and understand every page and then copy some data back and forth,
+Tejal Patwardhan: or even writing some service to call that API or MCP or whatever.
+Tejal Patwardhan: It's more work for the human than for the model.
+Tejal Patwardhan: The model has that advantage, and the models can just be faster if it's trained to navigate a browser or desktop,
+Tejal Patwardhan: whether it's through accessibility tree or through code.
+Tejal Patwardhan: So the models have an advantage over us.
+Tejal Patwardhan: And I think for a long time, there was really no product deployment that was very effective.
+Tejal Patwardhan: We launched Operator and ChatGPT agent a while ago, and those were really useful for showing this could be possible.
+Tejal Patwardhan: But the latency on those models was just too high.
+Tejal Patwardhan: They were just super slow.
+Tejal Patwardhan: And I don't think people use them at a super high scale yet.
+Tejal Patwardhan: But we've now reached sort of a tipping point.
+Tejal Patwardhan: doing things like asking the model to read my Slack for me or like go schedule a bunch of calendar
+Tejal Patwardhan: invites and like optimize the rooms is faster for me than it would have been um to do it myself
+Tejal Patwardhan: and i think yeah people are not ready also a lot of people haven't tried this stuff out because
+Tejal Patwardhan: it's all launched so recently but everyone should go get the computer use plugins and like use those
+Tejal Patwardhan: and like install all the plugins and all the good connectors that will make things faster
+Andrew Mayne: then you'll be mind blown let's talk about uh frontier evals yeah so the goal of the frontier
+Tejal Patwardhan: team is really to measure and forecast progress of the frontier models at OpenAI to better
+Tejal Patwardhan: understand where we are, where we're going, and sort of try to share that with the world.
+Tejal Patwardhan: And one of the things I think the team has tried to do is to help publish and open source as much
+Tejal Patwardhan: that we can. So, you know, some evals that we've helped open source include like
+Tejal Patwardhan: SWE-bench Verified, which helped measure progress on coding, MLE-bench, which was a way to measure
+Tejal Patwardhan: how well models could train other models and sort of track the progress of machine learning,
+Tejal Patwardhan: engineering skills in our models. PaperBench, which was a way to measure how well models could
+Tejal Patwardhan: replicate real top machine learning papers from like ICML or ICLR and GDPval, which, you know,
+Tejal Patwardhan: helped measure how well models could perform on real world tasks across, you know, over 40 occupations.
+Tejal Patwardhan: And the goal for all of these has been, you know, the models might not seem good now, but if you just
+Tejal Patwardhan: plot how they increase with each, you know, the results that improve with each model generation,
+Tejal Patwardhan: Often when people say like, oh, well, I expect this will take like a year or whatever, they like over, they over expect in terms of how much time it will take to saturate a benchmark.
+Tejal Patwardhan: And like even my own or people on my team's predictions are often like not ambitious enough for how fast things will change.
+Tejal Patwardhan: And so I just think we're trying to do our service and helping inform the world about what is possible.
+Tejal Patwardhan: I think some of these research acceleration evals in particular are quite interesting.
+Tejal Patwardhan: Like when we first started, we had this eval called the OpenAI Research Interview eval, which was just taking the researcher questions that we asked people applying to OpenAI and putting those in an eval.
+Tejal Patwardhan: And the model blasted through that like pretty, pretty quickly.
+Tejal Patwardhan: It's like definitely can pass our interviews right now, which I think has caused a whole other slew of downstream questions on like, how do we make sure people don't cheat on the interviews?
+Tejal Patwardhan: And like, how do we actually measure research talent?
+Tejal Patwardhan: But I think all of this is very useful because measuring internal progress, it's like kind of a way to measure the lever by which the models will keep getting better, faster, like sort of the acceleration of the slope of improvement, so to speak.
+Tejal Patwardhan: And yeah, I think having ways to measure model progress is just good information.
+Andrew Mayne: I've heard that in some of the evals that were out there for a while that it turned out that there were actually errors in the questions, that that was an issue with some of the evals, that that was some of the publicly available ones where actually you couldn't score above a certain level.
+Andrew Mayne: And if you did, it was actually because you were training on the data and people looked at that and found out like, oh, there's actually this is not the right answer.
+Tejal Patwardhan: Yeah, this is a problem with a lot of public benchmarks.
+Tejal Patwardhan: I think like so the original reason for SWE-bench Verified was because we wanted to run SWE-bench and it was half the problems were either broken or underspecified.
+Tejal Patwardhan: And, you know, people in the industry were publishing results on this as some metric of how well you did.
+Tejal Patwardhan: And we were like, well, we should at least try to fix it and then like share that so we can have a better yardstick.
+Tejal Patwardhan: But I think one of the reasons that public benchmarks maybe aren't always as battle-tested as we'd like is that they tend to be like someone in a lab, like an academic lab, had a good idea and wanted to write a paper.
+Tejal Patwardhan: But they never had to run that eval at scale in production, training run or production level eval sweep for a launch.
+Tejal Patwardhan: And just when you run some of this stuff at scale, it breaks or falls over and you catch all of these bugs.
+Tejal Patwardhan: And so I kind of think sitting in a lab and being closer to product is a forcing function for making sure the quality of your measurements is really high.
+Tejal Patwardhan: Because, like, we're not doing this to, like, look good in a paper.
+Tejal Patwardhan: We're, like, doing this.
+Tejal Patwardhan: Like, it has to work.
+Tejal Patwardhan: Because it has to work for our systems at scale.
+Tejal Patwardhan: So it kind of forces the quality to be high.
+Andrew Mayne: And it seems like kind of one of the things that can happen is these models become incredibly capable.
+Andrew Mayne: Sometimes they're very good at, sometimes they can solve a problem that they'll take sort of the laziest path.
+Andrew Mayne: and kind of they can they can give you the memorized answer instead of solving it.
+Andrew Mayne: And we saw that with like counting and like how many words are in it,
+Andrew Mayne: how many letters in a character in a word or whatever.
+Andrew Mayne: And it was often the model.
+Andrew Mayne: If you prompt it right, it would get the answer right.
+Andrew Mayne: But if you didn't prompt it the right way, it would just sort of throw you an answer.
+Tejal Patwardhan: Yeah, that brings up all sorts of interesting concepts.
+Tejal Patwardhan: I mean, so there's this one concept of memorization,
+Tejal Patwardhan: which is the idea that the model literally knows the answer
+Tejal Patwardhan: and doesn't have to really think or reason to solve.
+Tejal Patwardhan: It's just like regurgitating something it already knows.
+Tejal Patwardhan: And that makes the measurement not super useful
+Tejal Patwardhan: because you're just measuring whether you happen to have trained on that data a ton
+Tejal Patwardhan: versus whether the model learned the skill or tool or capability you were trying to measure.
+Tejal Patwardhan: So that's one way to avoid that is to try to be really clean and disciplined about your data,
+Tejal Patwardhan: not including any benchmarks or any evals that you want to measure.
+Tejal Patwardhan: And that helps solve sort of the first problem that you laid out.
+Tejal Patwardhan: So that's one thing.
+Tejal Patwardhan: And then there's this other thing where like the model can kind of like reward hack
+Tejal Patwardhan: or sometimes like cheat to solve an eval.
+Tejal Patwardhan: And that's very much a question of having clean eval design where you like sort of test these at scale, see if there's any hacks, make sure those environments that you're testing don't have the hacks as something that's possible for the model to do.
+Tejal Patwardhan: And that just requires a lot of quality control to make sure like the eval is not overly hackable.
+Tejal Patwardhan: Yeah.
+Andrew Mayne: Yeah, because it seems like there were some very simple ones like grade school math and whatnot that models, if you just change it a little bit, some of the early models would get confused and give you the wrong answer that was actually capable of solving it.
+Andrew Mayne: But it just goes, oh, this one, I got it.
+Andrew Mayne: And then, you know, that's happened to like, you know, should I drive my car to the car wash?
+Andrew Mayne: You problem.
+Tejal Patwardhan: Yeah.
+Tejal Patwardhan: So like the models can get tricked to me, like the model does like if it didn't get to do well on that, like it, it should have been smarter.
+Tejal Patwardhan: Like we should also have the models be a bit more robust to being tricked.
+Tejal Patwardhan: But this also relates to this idea of capability elicitation or like trying to measure the models in the best way, which is especially important for our safety testing.
+Tejal Patwardhan: Like, for example, if you want to measure how well the model can, you know, find vulnerabilities or, you know, do some of the cybersecurity stuff, you want to make sure the model is not just getting tricked by the problem like that.
+Tejal Patwardhan: You really measured the true capability.
+Tejal Patwardhan: And so there's a lot of like prompt tuning and like changing the harness and sometimes like even doing like a fine tune to get the model maximally ready to solve that challenge that we do to make sure if we say, oh, the model is not good at some like very risky capability, we can be a bit more sure before we say that.
+Andrew Mayne: When I was a kid, I loved reading these Encyclopedia Brown stories, these little mysteries, and you had to solve them.
+Andrew Mayne: And with GPT-4, I would write custom ones for it just in case somebody had like tipped all these answers to it out there.
+Andrew Mayne: But that was a pain to kind of do that.
+Andrew Mayne: And it's exciting to think now I can have a model write something and come up with some new eval.
+Andrew Mayne: So how helpful have the models been now for?
+Tejal Patwardhan: Yeah, they're semi-useful.
+Andrew Mayne: Yeah, okay.
+Tejal Patwardhan: I think we're in this like phase of model development where sometimes the outputs are still kind of sloppy.
+Andrew Mayne: Yeah.
+Tejal Patwardhan: And they require like human QC or like oversight to make sure the quality is still high and like we're not getting tricked.
+Tejal Patwardhan: So I would say people sometimes are surprised that we still have a lot of human intervention and involvement in the evals just because that's something, you know, evals can be a lower N than training data.
+Tejal Patwardhan: And you want to make sure every single point that you're testing, every data point is very high quality.
+Tejal Patwardhan: And so this is one of the areas where like a human touch can be quite nice.
+Andrew Mayne: We're seeing some interesting trends where jobs that actually touch AI seem to be more in demand because it's made people more productive.
+Andrew Mayne: How are you tracking this?
+Andrew Mayne: How do you look for areas where you think this is going to have an impact?
+Tejal Patwardhan: Yeah, these are very difficult questions.
+Tejal Patwardhan: I think that I think people are not calibrated to how much work our models will be able to do and how quickly like across a wide variety of jobs.
+Tejal Patwardhan: And right now the models are still mostly just good at tasks versus a job.
+Tejal Patwardhan: Like there's a lot more to a job than a task.
+Tejal Patwardhan: Right. Like you have to figure out what you want to work on, navigate like ambiguity.
+Tejal Patwardhan: Like you might have coworkers that you're collaborating with and like communicating with.
+Tejal Patwardhan: And then you might like figure out what task you want to do and then give that to a model.
+Tejal Patwardhan: And that's kind of the phase we're at now where it's a lot of, I mean, even in my job, the model is like doing individual tasks for me, but I'm still doing a lot of the thinking and planning and that sort of thing.
+Tejal Patwardhan: And I think people aren't even calibrated to that.
+Tejal Patwardhan: Like I feel like people in software and research are a lot more calibrated or by calibrated.
+Tejal Patwardhan: I mean, like realize how capable the models are compared to some of my friends in other industries.
+Tejal Patwardhan: And I like wish people just tried the models more and saw because the people who try and see first, like they'll start to really get it.
+Tejal Patwardhan: But I also think the models are going to start to be able to do the stuff like the delegating part at some point to maybe not too far from now.
+Tejal Patwardhan: The figuring out what to work on, navigating ambiguity, like writing the spec that the model then executes on.
+Tejal Patwardhan: And people should really start to think about, okay, what happens in the maximally AGI-pilled world where even just for digital work, the model can come up with what to do, do it, execute it on it, like interact with the real world.
+Tejal Patwardhan: Like, you know, if it's, you know, there's entire businesses that now like you see like stories of like unicorns that where it was like mostly AI and a few employees that were like able to drive all of this value.
+Tejal Patwardhan: And so I do think there's this question of, you know, are we realizing how big this might be?
+Andrew Mayne: Personally, I think the opportunity space is getting bigger.
+Andrew Mayne: Everybody I know, the most AGI-pilled people I know,
+Andrew Mayne: the people who are using tools like Codex all the time are doing way more now.
+Andrew Mayne: They're more productive now because they don't have to do the tasks and the jobs.
+Andrew Mayne: As the AI gets better at handling certain jobs, they're like, cool,
+Andrew Mayne: there are five jobs I need done now because I can do more.
+Andrew Mayne: And I think that we just think about the light cone of the potential where we can be
+Andrew Mayne: is bigger than we can imagine.
+Andrew Mayne: And I think these tools just help us get there faster, not narrow it.
+Tejal Patwardhan: I think it's probably some mix of things.
+Tejal Patwardhan: Even if you have models that can speed up paperwork, like think about like a clinical trial for a drug, right?
+Tejal Patwardhan: It's like people spend months putting together all this paperwork, like hundreds of pages of like why they should be able to do the trial.
+Tejal Patwardhan: And they like submit it to the FDA.
+Tejal Patwardhan: And then there's like a 35% chance it got rejected because they like made a mistake or forgot something.
+Tejal Patwardhan: They revise.
+Tejal Patwardhan: And finally, you can do the trial.
+Tejal Patwardhan: And, you know, these processes are good, but it just takes a long time.
+Tejal Patwardhan: And then the trial is, you know, you have a case and a control or whatever, and you're like documenting symptoms.
+Tejal Patwardhan: and tracking these for like just documenting what happens for a long time and then doing a bunch of
+Tejal Patwardhan: data analysis. Like a lot of this is just documentation or data analysis or sort of like
+Tejal Patwardhan: very classically digital work. And I think if models can help accelerate all parts of this,
+Tejal Patwardhan: you know, for health, for energy, manufacturing, policy research, education, this will be very
+Tejal Patwardhan: accelerative. We will have hopefully, you know, faster, cheaper, better goods. And that's really
+Tejal Patwardhan: good for people. It's like very good for the individual consumer. So I think that is like
+Tejal Patwardhan: something people should be excited about. But we should be very thoughtful about how to navigate
+Tejal Patwardhan: the transition to that world in a way that's thoughtful and like responsible.
+Andrew Mayne: Excellent. Thank you, Tejal.
+Tejal Patwardhan: Thank you for having me.

@@ -1,9 +1,5 @@
-# 视频字幕提取 - URL 列表
-# 每行一个 URL, 支持 YouTube 和 Bilibili
-# 以 # 开头的行为注释
-
-# 示例 YouTube
-https://www.youtube.com/watch?v=LRo33rnv6rQ
-
-# 示例 B站
-# https://www.bilibili.com/video/BVxxxxx
+# 字幕提取 URL 列表（每行一个，# 开头为注释）
+# YouTube
+https://www.youtube.com/watch?v=CFqjjKp9Y-Q
+# 小宇宙
+https://www.xiaoyuzhoufm.com/episode/6a059d321b7bd50295257a5e
