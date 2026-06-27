@@ -15,7 +15,10 @@ from urllib.parse import parse_qs, urlencode, urlparse
 
 import requests
 
-from report_contract import build_report, clean_text, nonspace_len, normalize_digest, report_to_markdown
+try:
+    from report_contract import build_report, clean_text, nonspace_len, normalize_digest, report_to_markdown
+except ModuleNotFoundError:  # Imported as scripts.generate_daily_report in tests/tools.
+    from scripts.report_contract import build_report, clean_text, nonspace_len, normalize_digest, report_to_markdown
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
@@ -215,8 +218,8 @@ def normalize_partial(raw: dict[str, Any], allowed_refs: set[str]) -> dict[str, 
             text = re.sub(r"\s+", " ", str(entry.get("text", ""))).strip()
             refs = [str(ref) for ref in entry.get("source_refs", []) if str(ref) in allowed_refs]
             if text and refs:
-                values.append({"text": text[:260], "source_refs": refs[:3]})
-            if len(values) >= 10:
+                values.append({"text": text[:180], "source_refs": refs[:3]})
+            if len(values) >= 6:
                 break
         output[field] = values
     if not any(output.values()):
@@ -228,7 +231,7 @@ def validate_final_digest(
     raw: dict[str, Any], item: dict[str, Any], evidence: dict[str, str]
 ) -> dict[str, Any]:
     valid_refs = set(evidence)
-    scalar_limits = {"one_liner": 30, "why_it_matters": 46}
+    scalar_limits = {"one_liner": 30, "why_it_matters": 60}
     for field, limit in scalar_limits.items():
         value = raw.get(field)
         if not isinstance(value, dict) or not str(value.get("text", "")).strip():
@@ -237,7 +240,16 @@ def validate_final_digest(
             raise ValueError(f"{field} exceeds {limit} non-space characters")
         if not any(str(ref) in valid_refs for ref in value.get("source_refs", [])):
             raise ValueError(f"{field} must cite a valid source_ref")
-    list_rules = {"summary": (1, 2, 105), "core_points": (3, 3, 62)}
+    duration = int(item.get("duration") or 0)
+    density = clean_text(raw.get("content_density") or "standard").lower()
+    if density not in {"brief", "standard", "high"}:
+        raise ValueError("content_density must be brief, standard, or high")
+    if duration >= 3600 or density == "high":
+        list_rules = {"summary": (4, 6, 150), "core_points": (5, 7, 90)}
+    elif duration >= 1800 or density == "standard":
+        list_rules = {"summary": (3, 5, 150), "core_points": (4, 6, 90)}
+    else:
+        list_rules = {"summary": (2, 4, 150), "core_points": (3, 5, 90)}
     for field, (minimum, maximum, limit) in list_rules.items():
         values = raw.get(field)
         if not isinstance(values, list) or not minimum <= len(values) <= maximum:
@@ -254,10 +266,26 @@ def validate_final_digest(
         raise ValueError("takeaways must contain one or two reader actions")
     if any("?" in str(value) or "？" in str(value) for value in takeaways):
         raise ValueError("takeaways must be actions, not research questions")
-    if any(nonspace_len(clean_text(value)) > 52 for value in takeaways):
-        raise ValueError("a takeaway exceeds 52 non-space characters")
+    if any(nonspace_len(clean_text(value)) > 70 for value in takeaways):
+        raise ValueError("a takeaway exceeds 70 non-space characters")
     if nonspace_len(clean_text(raw.get("short_title"))) > 18:
         raise ValueError("short_title exceeds 18 non-space characters")
+    guests = raw.get("guests")
+    if not isinstance(guests, list) or not 1 <= len(guests) <= 5:
+        raise ValueError("guests must contain one to five evidence-backed entries")
+    for guest in guests:
+        if not isinstance(guest, dict) or not clean_text(guest.get("text")):
+            raise ValueError("every guest entry must contain text")
+        if not any(str(ref) in valid_refs for ref in guest.get("source_refs", [])):
+            raise ValueError("every guest entry must cite a valid source_ref")
+    tensions = raw.get("tensions", [])
+    if not isinstance(tensions, list) or len(tensions) > 3:
+        raise ValueError("tensions must be an array with at most three entries")
+    for tension in tensions:
+        if not isinstance(tension, dict) or not clean_text(tension.get("text")):
+            raise ValueError("every tension must contain text")
+        if not any(str(ref) in valid_refs for ref in tension.get("source_refs", [])):
+            raise ValueError("every tension must cite a valid source_ref")
     digest = normalize_digest(raw, item, evidence=evidence, strict_evidence=True)
     digest["quality"] = "llm_evidence_validated"
     return digest
@@ -333,14 +361,16 @@ def summarize_item_contract(
         "short_title": "18字内中文标题",
         "one_liner": {"text": "30字内完整句", "source_refs": ["E0001"]},
         "why_it_matters": {"text": "46字内，说明与读者的关系", "source_refs": ["E0001"]},
-        "summary": [{"text": "105字内，最多2段", "source_refs": ["E0001"]}],
-        "core_points": [{"text": "62字内，恰好3条", "source_refs": ["E0001"]}],
+        "content_density": "brief | standard | high；长节目或高密度内容选 high",
+        "summary": [{"text": "每段150字内；按时长与密度输出2到6段", "source_refs": ["E0001"]}],
+        "core_points": [{"text": "每条90字内；按时长与密度输出3到7条", "source_refs": ["E0001"]}],
         "key_facts": [
             {"label": "14字内", "value": "26字内", "context": "42字内", "source_refs": ["E0001"]}
         ],
         "takeaways": ["读者可执行或可迁移的提示，1到2条，不写研究问题"],
-        "guests": ["人物（机构/角色），最多3条"],
+        "guests": [{"text": "人物（机构/角色），1到5条", "source_refs": ["E0001"]}],
         "topics": ["主题词，最多3个"],
+        "tensions": [{"text": "对立观点、限制或未决问题，最多3条", "source_refs": ["E0001"]}],
         "quote": None,
         "importance_score": 4,
     }
@@ -351,6 +381,7 @@ def summarize_item_contract(
                 "content": (
                     "你是中文信息早餐编辑，只负责填写 JSON 内容，绝不输出 Markdown 或 XML。"
                     "读者要在30秒内决定是否继续读。所有事实、观点和摘要必须引用证据 ID。"
+                    "速览不能牺牲深度：30分钟以上节目至少保留3段摘要和4条观点，60分钟以上或高密度内容至少保留4段摘要和5条观点。"
                     "不要写‘值得后续研究的问题’，takeaways 必须是普通读者能直接采用的看法或行动。"
                     "中英文之间保留空格。金句无法确认逐字原文时 kind 必须写 paraphrase。"
                 ),

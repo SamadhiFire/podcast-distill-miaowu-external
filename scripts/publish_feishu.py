@@ -15,7 +15,10 @@ from typing import Any
 
 import requests
 
-from report_contract import report_to_feishu_xml
+try:
+    from report_contract import enrich_report_from_legacy_markdown, report_to_feishu_xml
+except ModuleNotFoundError:  # Imported as scripts.publish_feishu in tests/tools.
+    from scripts.report_contract import enrich_report_from_legacy_markdown, report_to_feishu_xml
 
 
 FEISHU_API = "https://open.feishu.cn/open-apis"
@@ -468,6 +471,8 @@ def main() -> int:
                 report = candidate
         except (OSError, ValueError):
             report = None
+    if report and source_path.suffix.lower() != ".json":
+        report = enrich_report_from_legacy_markdown(report, source_text)
     xml_content = report_to_feishu_xml(report) if report else markdown_to_feishu_xml(source_text)
     if args.dry_run or not os.getenv("FEISHU_APP_ID"):
         print(f"Dry run: would publish {source_path} as {args.title} ({len(xml_content)} XML chars)")

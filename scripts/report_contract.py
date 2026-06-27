@@ -126,12 +126,13 @@ def normalize_digest(
 
     short_title = compact_text(raw.get("short_title") or item.get("title") or "未命名内容", 18)
     one_liner = compact_text(_text_value(raw.get("one_liner")), 30)
-    why_it_matters = compact_text(_text_value(raw.get("why_it_matters")), 46)
-    summary = _strings(raw.get("summary"), 2, 105)
-    core_points = _strings(raw.get("core_points"), 3, 62)
-    takeaways = _strings(raw.get("takeaways"), 2, 52)
-    guests = _strings(raw.get("guests"), 3, 52)
+    why_it_matters = compact_text(_text_value(raw.get("why_it_matters")), 60)
+    summary = _strings(raw.get("summary"), 6, 150)
+    core_points = _strings(raw.get("core_points"), 7, 90)
+    takeaways = _strings(raw.get("takeaways"), 2, 70)
+    guests = _strings(raw.get("guests"), 5, 90)
     topics = _strings(raw.get("topics"), 3, 12)
+    tensions = _strings(raw.get("tensions"), 3, 90)
 
     if not one_liner:
         raise ValueError("one_liner is required")
@@ -146,9 +147,9 @@ def normalize_digest(
     for fact in raw.get("key_facts", []) if isinstance(raw.get("key_facts"), list) else []:
         if not isinstance(fact, dict):
             continue
-        label = compact_text(fact.get("label"), 14)
-        value = compact_text(fact.get("value"), 26)
-        context = compact_text(fact.get("context"), 42)
+        label = compact_text(fact.get("label"), 18)
+        value = compact_text(fact.get("value"), 36)
+        context = compact_text(fact.get("context"), 90)
         refs = _refs(fact.get("source_refs"), valid_refs)
         if not label or not (value or context):
             continue
@@ -159,7 +160,7 @@ def normalize_digest(
             if not _numbers(value).issubset(_numbers(source)):
                 continue
         key_facts.append({"label": label, "value": value, "context": context, "source_refs": refs})
-        if len(key_facts) >= 4:
+        if len(key_facts) >= 8:
             break
 
     quote: dict[str, str] | None = None
@@ -194,8 +195,10 @@ def normalize_digest(
         "takeaways": takeaways,
         "guests": guests,
         "topics": topics,
+        "tensions": tensions,
         "quote": quote,
         "importance_score": max(1, min(5, score)),
+        "content_density": clean_text(raw.get("content_density") or "standard"),
         "quality": clean_text(raw.get("quality") or "llm_validated"),
     }
 
@@ -267,6 +270,67 @@ def build_report(date: str, item_digests: list[tuple[dict[str, Any], dict[str, A
     }
 
 
+def enrich_report_from_legacy_markdown(report: dict[str, Any], markdown: str) -> dict[str, Any]:
+    """Preserve deeper human-reviewed sections when upgrading an older report.
+
+    Future automated reports already carry the complete structured JSON. This
+    compatibility path is only for previously written human-reviewed Markdown.
+    """
+    sections: list[list[str]] = []
+    current: list[str] | None = None
+    for line in markdown.replace("\r\n", "\n").splitlines():
+        if re.match(r"^##\s+", line):
+            if current is not None:
+                sections.append(current)
+            current = [line]
+        elif re.match(r"^#\s+", line):
+            if current is not None:
+                sections.append(current)
+                current = None
+        elif current is not None:
+            current.append(line)
+    if current is not None:
+        sections.append(current)
+
+    parsed: list[dict[str, list[str]]] = []
+    for lines in sections:
+        fields: dict[str, list[str]] = {}
+        active = ""
+        for line in lines[1:]:
+            stripped = line.strip()
+            field_match = re.fullmatch(r"\*\*([^*]+)\*\*", stripped)
+            if field_match:
+                active = field_match.group(1).strip()
+                fields.setdefault(active, [])
+                continue
+            if active and stripped:
+                fields[active].append(stripped)
+        parsed.append(fields)
+
+    items = report.get("items", [])
+    for item, fields in zip(items, parsed):
+        summary = [clean_text(line) for line in fields.get("完整摘要", []) if clean_text(line)]
+        core = []
+        for line in fields.get("核心观点", []):
+            match = re.match(r"^\d+\.\s+(.+)$", line)
+            if match:
+                core.append(clean_text(match.group(1)))
+        guests = []
+        for line in fields.get("嘉宾与机构", []):
+            match = re.match(r"^[-*]\s+(.+)$", line)
+            if match:
+                guests.append(clean_text(match.group(1)))
+        if len(summary) > len(item.get("summary", [])):
+            item["summary"] = summary[:6]
+        if len(core) > len(item.get("core_points", [])):
+            item["core_points"] = core[:7]
+        if guests:
+            item["guests"] = guests[:5]
+        if len(item.get("summary", [])) >= 4:
+            item["content_density"] = "high"
+    return report
+
+
 def _x(value: Any, quote: bool = False) -> str:
     return escape(chinese_spacing(value), quote=quote)
 
@@ -297,9 +361,9 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
 
     parts.append(
         '<callout emoji="☕" background-color="light-blue" border-color="blue">'
-        f'<h2>早上好，{_x(report.get("date"))} 的信息早餐</h2>'
+        f'<p><b>早上好，{_x(report.get("date"))} 的信息早餐</b></p>'
         f'<p>共 <b>{len(items)} 条</b>更新，预计 <b>{report.get("read_minutes", 5)} 分钟</b>读完。今天的主线：{_x(theme_text)}。</p>'
-        '<p><span text-color="gray">先读「3 分钟速览」，感兴趣再展开对应三级标题。</span></p>'
+        '<p><span text-color="gray">先读「3 分钟速览」；每篇三级标题都可折叠，感兴趣再展开深读。</span></p>'
         '</callout>'
     )
     parts.append(
@@ -335,29 +399,45 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
     parts.append('<h1>全部更新</h1>')
     for category_index, category in enumerate(CATEGORIES, 1):
         category_items = [item for item in items if item.get("category") == category]
+        emoji = CATEGORY_EMOJI.get(category, "📂")
+        parts.append(f'<h2>{emoji} {category_index}. {_x(category)}</h2>')
+        parts.append(
+            '<callout emoji="📌" background-color="light-gray" border-color="gray">'
+            f'<p>{"本栏共 " + str(len(category_items)) + " 篇" if category_items else "今日无新增"}</p></callout>'
+        )
         if not category_items:
             continue
-        emoji = CATEGORY_EMOJI.get(category, "📂")
-        parts.append(
-            f'<callout emoji="{emoji}" background-color="light-gray" border-color="gray">'
-            f'<h2>{category_index}. {_x(category)}</h2><p>{len(category_items)} 篇</p></callout>'
-        )
         for item_index, item in enumerate(category_items, 1):
             parts.append(
                 f'<h3>{item_index}. {_x(item.get("short_title"))} '
                 f'<span background-color="light-yellow">{_rating(item.get("importance_score", 3))}</span></h3>'
             )
-            metadata = " · ".join(
-                part
-                for part in [
-                    item.get("source_name", ""),
-                    item.get("platform", ""),
-                    fmt_time(item.get("published_at")),
-                    fmt_duration(item.get("duration")),
-                ]
-                if part
+            href = escape(str(item.get("url", "")), quote=True)
+            parts.append(
+                '<callout emoji="ℹ️" background-color="light-gray" border-color="gray">'
+                f'<p><b>原始标题：</b>{_x(item.get("original_title"))}</p>'
+                f'<p><b>链接：</b><a href="{href}">{_x(item.get("url"))}</a></p>'
+                '</callout>'
             )
-            parts.append(f'<p><span text-color="gray">{_x(metadata)}</span></p>')
+            parts.append(
+                '<grid>'
+                '<column width-ratio="0.5">'
+                f'<p><b>栏目：</b>{_x(item.get("source_name"))}</p>'
+                f'<p><b>平台：</b>{_x(item.get("platform"))}</p>'
+                f'<p><b>更新：</b>{_x(fmt_time(item.get("published_at")))}</p>'
+                '</column>'
+                '<column width-ratio="0.5">'
+                f'<p><b>时长：</b>{_x(fmt_duration(item.get("duration")))}</p>'
+                f'<p><b>分类：</b>{_x(item.get("category"))}</p>'
+                f'<p><b>推荐：</b>{_rating(item.get("importance_score", 3))}</p>'
+                '</column>'
+                '</grid>'
+            )
+            guests = item.get("guests", [])
+            if guests:
+                parts.append('<p><b>嘉宾与机构</b></p><ul>')
+                parts.extend(f'<li>{_x(guest)}</li>' for guest in guests)
+                parts.append('</ul>')
             parts.append(
                 '<callout emoji="💡" background-color="light-yellow" border-color="yellow">'
                 f'<p><b>30 秒结论：</b>{_x(item.get("one_liner"))}</p>'
@@ -365,13 +445,18 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
                 '</callout>'
             )
 
+            summary = item.get("summary", [])
+            if summary:
+                parts.append('<p><b>完整摘要 · 深读</b></p>')
+                parts.extend(f'<p>{_x(paragraph)}</p>' for paragraph in summary[:6])
+
             core = item.get("core_points", [])
             takeaways = item.get("takeaways", [])
             parts.append('<grid>')
-            parts.append('<column width-ratio="0.58"><h4>核心要点</h4><ul>')
+            parts.append('<column width-ratio="0.58"><p><b>核心要点</b></p><ul>')
             parts.extend(f'<li>{_x(point)}</li>' for point in core)
             parts.append('</ul></column>')
-            parts.append('<column width-ratio="0.42"><h4>你可以怎么用</h4><ul>')
+            parts.append('<column width-ratio="0.42"><p><b>你可以怎么用</b></p><ul>')
             parts.extend(f'<li>{_x(tip)}</li>' for tip in takeaways)
             parts.append('</ul></column></grid>')
 
@@ -379,20 +464,17 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
             if facts:
                 parts.append(_facts_table(facts))
 
-            summary = item.get("summary", [])
-            if summary:
-                parts.append('<h4>再多知道一点</h4>')
-                parts.extend(f'<p>{_x(paragraph)}</p>' for paragraph in summary[:2])
+            tensions = item.get("tensions", [])
+            if tensions:
+                parts.append('<p><b>分歧与限制</b></p><ul>')
+                parts.extend(f'<li>{_x(point)}</li>' for point in tensions)
+                parts.append('</ul>')
 
             quote = item.get("quote")
             if isinstance(quote, dict) and quote.get("text"):
                 prefix = "" if quote.get("kind") == "verbatim" else "意译："
                 speaker = f" —— {_x(quote.get('speaker'))}" if quote.get("speaker") else ""
                 parts.append(f'<blockquote><p>{_x(prefix + quote.get("text", ""))}{speaker}</p></blockquote>')
-
-            if item.get("url"):
-                href = escape(str(item["url"]), quote=True)
-                parts.append(f'<p><a href="{href}">查看原节目与完整内容 ↗</a></p>')
 
     parts.append(
         '<callout emoji="ℹ️" background-color="light-gray" border-color="gray">'
@@ -414,24 +496,58 @@ def report_to_markdown(report: dict[str, Any]) -> str:
     lines += ["# 全部更新", ""]
     for category in CATEGORIES:
         category_items = [item for item in items if item.get("category") == category]
-        if not category_items:
-            continue
         lines += [f"## {category}", ""]
+        if not category_items:
+            lines += ["今日无新增。", ""]
+            continue
         for idx, item in enumerate(category_items, 1):
             lines += [
                 f"### {idx}. {item['short_title']}",
                 "",
+                (
+                    f"**原始标题**：{chinese_spacing(item.get('original_title'))} ｜ "
+                    f"**栏目**：{chinese_spacing(item.get('source_name'))} ｜ "
+                    f"**平台**：{item.get('platform', '')} ｜ "
+                    f"**更新**：{fmt_time(item.get('published_at'))} ｜ "
+                    f"**时长**：{fmt_duration(item.get('duration'))} ｜ "
+                    f"**分类**：{item.get('category', '')} ｜ "
+                    f"**推荐**：{_rating(item.get('importance_score', 3))}"
+                ),
+                f"**链接**：{item.get('url', '')}",
+                "",
+                "**嘉宾与机构**",
+                "",
+                *[f"- {guest}" for guest in item.get("guests", [])],
+                "",
                 f"**30 秒结论**：{item['one_liner']}",
+                "",
+                f"**为什么值得看**：{item.get('why_it_matters', '')}",
+                "",
+                "**完整摘要 · 深读**",
+                "",
+                *item.get("summary", []),
                 "",
                 "**核心要点**",
                 "",
                 *[f"- {point}" for point in item.get("core_points", [])],
                 "",
+            ]
+            facts = item.get("key_facts", [])
+            if facts:
+                lines += ["**关键事实**", "", "| 项目 | 内容 |", "|---|---|"]
+                for fact in facts:
+                    detail = "：".join(
+                        part for part in [fact.get("value", ""), fact.get("context", "")] if part
+                    )
+                    lines.append(f"| {fact.get('label', '')} | {detail} |")
+                lines.append("")
+            tensions = item.get("tensions", [])
+            if tensions:
+                lines += ["**分歧与限制**", "", *[f"- {point}" for point in tensions], ""]
+            lines += [
                 "**你可以怎么用**",
                 "",
                 *[f"- {tip}" for tip in item.get("takeaways", [])],
-                "",
-                f"[查看原节目]({item.get('url', '')})",
                 "",
             ]
     return "\n".join(lines).rstrip() + "\n"
