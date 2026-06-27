@@ -13,8 +13,8 @@ on:
         default: false
         type: boolean
   schedule:
-    # 05:00 Beijing time (UTC 21:00 previous day)
-    - cron: "0 21 * * *"
+    # 06:15 Beijing time (UTC 22:15 previous day), after the 06:00 data window closes.
+    - cron: "15 22 * * *"
 
 permissions:
   contents: read
@@ -64,35 +64,35 @@ jobs:
         uses: actions/cache@v4
         with:
           path: whisper.cpp
-          key: whisper-cpp-build-v3-${{ runner.os }}
+          key: whisper-cpp-v1.9.1-${{ runner.os }}
 
       - name: Clone whisper.cpp
         run: |
           if [ ! -d whisper.cpp/.git ]; then
             rm -rf whisper.cpp
-            git clone --depth 1 https://github.com/ggerganov/whisper.cpp.git whisper.cpp
+            git clone --depth 1 --branch v1.9.1 https://github.com/ggerganov/whisper.cpp.git whisper.cpp
           fi
 
       - name: Build whisper.cpp if needed
         run: |
           if [ ! -x whisper.cpp/build/bin/whisper-cli ]; then
             cmake -S whisper.cpp -B whisper.cpp/build -DWHISPER_BUILD_TESTS=OFF
-            cmake --build whisper.cpp/build --config Release -j 2
+            cmake --build whisper.cpp/build --config Release -j 4
           fi
 
       - name: Cache whisper.cpp model
         uses: actions/cache@v4
         id: whisper-model-cache
         with:
-          path: whisper.cpp/models/ggml-small.bin
-          key: whisper-model-small-v1
+          path: whisper.cpp/models/ggml-small-q5_1.bin
+          key: whisper-model-small-q5_1-v1
 
       - name: Download whisper.cpp model
         if: steps.whisper-model-cache.outputs.cache-hit != 'true'
         run: |
           mkdir -p whisper.cpp/models
-          curl -L -o whisper.cpp/models/ggml-small.bin \
-            "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.bin"
+          curl --fail --location --retry 3 -o whisper.cpp/models/ggml-small-q5_1.bin \
+            "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small-q5_1.bin"
 
       - name: Prepare optional yt-dlp cookies
         shell: bash
@@ -113,7 +113,8 @@ jobs:
             --lookback-hours 24 \
             --youtube-backend api \
             --output-json "$ITEMS_PATH" \
-            --output-urls config/daily_urls.txt
+            --output-urls config/daily_urls.txt \
+            --manifest-json "reports/daily_items_${REPORT_DATE}.manifest.json"
 
       - name: Extract full subtitles for daily items
         env:
@@ -129,7 +130,7 @@ jobs:
             --output subtitles \
             --lang zh-Hans,zh-CN,zh,en \
             --whisper-bin whisper.cpp/build/bin/whisper-cli \
-            --whisper-model whisper.cpp/models/ggml-small.bin \
+            --whisper-model whisper.cpp/models/ggml-small-q5_1.bin \
             --youtube-probe-timeout 90 \
             --youtube-sleep 5 \
             --results-json subtitles/extraction_results.json \
@@ -157,7 +158,7 @@ jobs:
             --output subtitles \
             --lang zh-Hans,zh-CN,zh,en \
             --whisper-bin whisper.cpp/build/bin/whisper-cli \
-            --whisper-model whisper.cpp/models/ggml-small.bin \
+            --whisper-model whisper.cpp/models/ggml-small-q5_1.bin \
             --youtube-probe-timeout 90 \
             --youtube-sleep 10 \
             --results-json subtitles/retry_extraction_results.json \
@@ -178,11 +179,12 @@ jobs:
             --date "$REPORT_DATE" \
             --items-json "$ITEMS_PATH" \
             --subtitles-dir subtitles \
+            --require-transcripts \
             --output "$REPORT_PATH"
 
       - name: Install lark-cli
         shell: bash
-        run: npm install -g @larksuite/cli
+        run: npm install -g @larksuite/cli@1.0.59
 
       - name: Publish to Feishu Wiki and notify group
         env:

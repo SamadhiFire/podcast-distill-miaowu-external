@@ -35,6 +35,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--subtitles-dir", default="subtitles")
     parser.add_argument("--output", required=True)
     parser.add_argument(
+        "--require-transcripts",
+        action="store_true",
+        help="fail before generating or publishing when any non-short item has no transcript",
+    )
+    parser.add_argument(
         "--llm-policy",
         choices=("extractive", "required"),
         default=os.getenv("LLM_POLICY", "extractive"),
@@ -204,7 +209,7 @@ def summarize_item(item: dict[str, Any], transcript: str, spec: str) -> str:
                     "正确示例：`**嘉宾与机构**`\n\n"
                     "【格式强制规则 — 必须严格遵守】\n"
                     "1. 核心观点必须是带编号的列表：`1. 观点一`、`2. 观点二`。严禁裸段落。\n"
-                    "2. 关键金句必须用 `> ` 引用块包裹。\n"
+                    "2. 关键金句必须用 `> ` 引用块包裹；翻译或重构的表达必须以 `意译：` 开头。\n"
                     "3. 关键数据有 3 个以上数值时，必须用表格：\n"
                     "   | 指标 | 数值 |\n"
                     "   |------|------|\n"
@@ -287,7 +292,7 @@ def extractive_item(item: dict[str, Any], transcript: str) -> str:
 - 《{title}》中的核心判断依赖哪些事实和前提？
 - 节目观点在不同市场、组织或时间尺度下是否仍然成立？
 
-> 摘要模式：规则抽取（{transcript_note}）；配置 LLM 后可生成语义级中文摘要。
+摘要模式：规则抽取（{transcript_note}）；配置 LLM 后可生成语义级中文摘要。
 
 ---
 """
@@ -449,13 +454,26 @@ def main() -> int:
         print(f"Skipped {skipped} short clip(s) (duration < 5min)")
     transcript_index = load_transcript_index(Path(args.subtitles_dir))
 
-    item_markdowns: list[tuple[dict[str, Any], str]] = []
+    prepared_items: list[tuple[dict[str, Any], str]] = []
+    missing_transcripts: list[dict[str, Any]] = []
     for item in items:
         meta = transcript_index.get(normalize_url(item.get("url", "")))
         transcript = ""
         if meta and meta.get("text_path"):
             transcript = read_text(meta["text_path"])
         item["transcript_available"] = bool(transcript)
+        if not transcript:
+            missing_transcripts.append(item)
+        prepared_items.append((item, transcript))
+
+    if args.require_transcripts and missing_transcripts:
+        print("Refusing to generate an incomplete report; transcripts are missing for:")
+        for item in missing_transcripts:
+            print(f"- {item.get('title') or item.get('url')}")
+        return 3
+
+    item_markdowns: list[tuple[dict[str, Any], str]] = []
+    for item, transcript in prepared_items:
         item_markdown = summarize_item(item, transcript or item.get("description", ""), spec)
         item_markdowns.append((item, item_markdown))
 
