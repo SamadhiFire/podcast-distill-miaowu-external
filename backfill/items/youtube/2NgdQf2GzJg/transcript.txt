@@ -1,0 +1,2155 @@
+Kind: captions
+Language: en
+It seems to me right now you could do
+like a double blind test of the same
+prompt given to Grock, Claude, Gemini,
+Mistral, Deep Seek. I bet most people
+wouldn't be able to tell which is which.
+&gt;&gt; Benedict Evans is a technology analyst
+known for his insightful takes on
+platform shifts in the tech industry. He
+sees AI differently than others. He
+spent decades spotting patterns others
+miss and dives into how people really
+use AI. Why is it that somebody looks at
+this and gets it and goes back every
+week but only every week? The very high
+level threat to Google is that you have
+this moment of discontinuity in which
+everybody resets their priority
+reconsiders their defaults. And so it's
+no longer just the default that you go
+and use Google. There's this sort of
+question for Apple around does this
+actually change the experience of what
+the smartphone is, what the ecosystem
+is. Does it end up kind of getting
+Microsofted in the sense that?
+[Music]
+&gt;&gt; I want to start with your most
+controversial take on AI. It's funny my
+I suppose my take on AI controversial
+take on AI rather like my controversial
+take on um crypto is being a centrist in
+that it seems to me very clear this is
+like the biggest thing since the iPhone
+but I also think it's only the biggest
+thing since the iPhone and there's a
+bunch of people who think no it's much
+more than that it's a minimum it's more
+like computing and then you've got
+people going around saying no this is
+more like you the electricity or the
+industrial revolution or you know
+transhumanists or something. My sort of
+base case is to say this is kind of
+another platform shift and all the new
+stuff will be built around this for the
+next 10 or 15 years and then there'll be
+something else and so the impact on
+employment will be kind of like the
+impact on employment from the other
+platform shifts and the impact on the
+economy and productivity and
+intellectual property and there'll be
+there'll be a whole bunch of different
+weird new questions just like there were
+a bunch of different weird new questions
+before and then in 10 years time it'll
+just be software.
+put this in historical context for us
+with other platform shifts. What
+everybody's saying this time is
+different, which everybody does at each
+platform shift, I would imagine. And
+what's the same? Well, that's the
+there's a there's a famous book about um
+financial bubbles called this time is
+different because people always say this
+time is different and it always is. Like
+the dotcom bubble was different to like
+the late ' 80s and the Japanese
+financial bubble was different to you
+know, pick any other bubble you want.
+They're always different. Um, but that
+doesn't mean they're not a bubble. And
+the same thing here. I have a diagram I
+use a lot from, um, 1995. This research
+firm made a diagram of something called
+they called cyberspace.
+Um, because it wasn't clear it was just
+going to be the internet. It was clear
+that everyone was going to have some
+kind of computer thing connected to some
+kind of network. But remember the phrase
+information superighway.
+&gt;&gt; Yeah. which sort of conveys that it
+would be centralized and controlled by
+cable companies and phone companies and
+media companies, which is sort of how
+everything had always previously worked.
+It wasn't clear, no, it was going to be
+the internet. It wasn't clear the
+internet was going to be kind of
+radically decentralized and
+permissionless and anyone could do what
+they wanted. It wasn't clear the
+internet was going to be the web and
+only the web because there were all
+these other things going on. If you look
+at Mary Mika's first big public internet
+report from 1995, she has a separate
+forecast for web users and email users.
+And she thought email users would be way
+bigger. It wasn't clear like that was
+all one thing and then it wasn't clear
+that it was about the browser. It wasn't
+clear that the browser wasn't where the
+value capture was cuz Microsoft
+crowbarred its way into dominance in
+browsers but that turned out not to
+matter and then all the value is in
+search advertising and social which were
+5 years later and 10 years later
+and so like you can be very very clear
+that this is the thing and then still be
+completely unclear how it's going to
+work. The same thing with with with
+mobile internet. Just funny. Mobile
+internet now it's kind of like saying
+black and white television on color
+television. Desktop internet, mobile
+internet, black and white TV, color TV.
+No one really says mobile internet
+anymore. It's like talking about
+e-commerce. You're starting to have
+people talk about physical retail and
+retail. And but it wasn't clear, you
+know, I was a telecoms analyst in 2000
+and it was very clear mobile internet
+was going to be a thing. It was not
+clear that there would be basically
+small PCs. Like that was the the
+fundamental shift of the iPhone is it's
+a small Mac. It's not a phone with
+better UI. It's a small Mac. And it
+wasn't clear that the Telos would get no
+value. It wasn't clear Microsoft and
+Nokia would get no value. It wasn't
+clear it would take 10 years before it
+took off. Um and it wasn't clear it
+would replace the PC as the center of
+the tech industry. I mean everyone was
+talking about well what's a mobile use
+case? What would you do? You'll do some
+things on your mobile phone but what?
+But obviously your PC will be how you
+use the internet. And of course that's
+not how it worked. And so like we kind
+of forget because now we don't see it
+because now it just kind of became part
+of the air we breathe how weird and
+strange and different all these things
+are. There's something I love talking
+about which is is um the rise of
+automatic elevators.
+So until the 50s elevators were manually
+operated. They were basically vertical
+street cars. They were tramps. They were
+pub trains. And you have a driver who
+has a lever with an accelerator and a
+brake. If you've been into a New York
+co-op, you may have seen one of these.
+They call it an attended elevator.
+There's a lever. You push it that way to
+go down, middle to stop, that way to go
+up. And then in the 50s, Otus creates
+the autotronic, I think it's called the
+autotronic elevator, which had
+electronic politeness, which basically
+meant the infrared thing that stops the
+door closing. But if you get into an
+elevator now, you don't say, "Oh, I'm
+going to use an automatic elevator with
+electronic politeness." It's just left.
+We kind of forget how weird and
+different all the other things were. And
+yes, this is new and weird and different
+in a bunch of kind of strange,
+confusing, confounding ways we can
+probably talk about, but we sort of
+forget that other things were weird and
+strange and different, too.
+&gt;&gt; Is this the first major platform shift
+where the incumbents have an advantage
+because they have the data? I'm pretty
+sure people thought Microsoft had an
+advantage on the internet and Google and
+um Meta had an advantage on mobile and
+everyone thought IBM was going to win
+PCs. Like once IBM made a PC, that was
+it. It's all over now. And we kind of
+forget that like there were PCs before
+and then IBM made one and that kind of
+became the standard but then IBM lost
+it.
+&gt;&gt; So what happens with the incumbents? Do
+they grab on to using the technology
+instead of adopting it? because adopting
+it would mean killing the golden goose.
+Like what happens in a platform shift
+with incumbent?
+&gt;&gt; The master of my college at Cambridge um
+said um that history teaches us nothing
+except that something will happen and
+you know there's always the example and
+the counter example. So with any new
+kind of any new platform shift and a
+platform the term platform shift itself
+is you know it's a useful term but you
+have to be careful not to be trapped by
+your terminology and get into this sort
+of arguments about well is it a platform
+shift or is not a platform shift and how
+do you define a platform like shut up
+like you know the the thing is when any
+with any of these sort of fundamental
+technology changes the incumbents always
+try and make it a feature and they try
+to absorb it and the same thing outside
+of technology um existing companies try
+and absorb it and they use it to
+automate the stuff they're already doing
+and then over time you get new stuff you
+unbundle both the incumbent's intake and
+you unbundle existing companies because
+of something that's possible because of
+this new technology. So you can always
+kind of jump into the new thing and
+sometimes the new thing kind of really
+is just a feature and sometimes it's no
+it's a fundamental change in how
+everything works and sometimes that sort
+of contingent you know there's this
+whole sort of parlor game like drinking
+game that historians play about kind of
+historical inevitability you know well
+what would have happened if that battle
+had been lost or if that politician had
+been assassinated or not assassinated
+and it depends sometimes the answer is
+well no nothing then and that everything
+would have been completely different and
+sometimes the answer is well no then you
+know what if Napoleon had won at
+Waterloo well then he'd have lost
+another battle 6 months later like
+nothing would have changed the whole
+environment had changed um what if you
+know the revolution hadn't happened in
+spring of 1917 then he would have
+happened in the summer or the autism
+sometimes it's like really clear I mean
+I always think the um the Kodak example
+here is kind of interesting
+&gt;&gt; tell me a bit
+&gt;&gt; because you know like it's like the
+cliche that people say oh Kodak had
+digital cameras and they didn't get it
+or they ignored it or they didn't want
+to do it because it would destroy their
+business. But then you go and look at it
+and it's like, well, that was 1975 and
+the thing they had was the size of a
+refrigerator. Like, no, that was not a
+consumer product. And it took until the
+late '9s before the technology was
+actually viable as a consumer product.
+So, of course, like they didn't do it in
+the 70s cuz you couldn't. What actually
+happens is once it starts happening,
+Kodak go all in on digital cameras. At
+one point, they were the bestselling
+digital camera vendor in the USA. And if
+you look at their annual ports of the
+time, they think this is going to be
+great because they're going to sell way
+more photo printers. So they're selling
+these inkjet photo printers. People are
+going to produce way way more photos. So
+they're going to take way more. They're
+print. They're going to print them all.
+Two things that screw Kodak. One of them
+is is smartphones. And you could argue
+that what actually screws Kodak is not
+the camera. It's it's the social media
+and it's not printing anymore.
+&gt;&gt; Because that's what kill that's one
+side. The other side of it is that film
+was this high margin product where they
+had a bunch of unique intellectual
+property and digital cameras are a low
+margin um commodity where they were
+competing with the entire consumer
+electronics industry with no
+differentiation. And so even if they go
+even at the point being even even if you
+go all in into that market, it's still a
+crappy market where you've got no
+differentiation. Um, so you can kind of,
+you know, you can you can kind of put
+all of these things on the table and
+shuffle them around and say, well, in
+hindsight, obviously, Brigy was screwed
+and in hindsight, obviously Google was
+going to be able to make the jump and in
+hindsight, you know, in hindsight and
+yeah, maybe. Is there a parallel between
+the second point you made about Kodak
+and Google today where, you know, they
+have a high margin search business and a
+low margin AI business?
+So I think it's I'd be nervous about
+knowing what the margins are in AI
+because we've had you know depending on
+who you ask like the price to get a
+given result has probably gone come down
+by two orders of magnitude but then
+that's that was the state of the art two
+years ago and now there's a new thing
+which is more expensive. Um and so
+there's a awful lot of kind of shifting
+planes and shift you know there's
+there's a lot of there's a lot of
+algebra and all the variables and the
+algebra all changing at the moment. So,
+it's kind of hard to quite to know what
+that is. I think the the kind of the the
+the obvious Google threat right now is
+that um Google shows you a bunch of
+links and results and ideas and those
+could now be solved in a different Well,
+let me kind of go back a second. Um the
+very high level threat to Google is that
+you have this moment of discontinuity in
+which everybody resets their prior and
+res reconsiders their defaults.
+And so it's no longer just the default
+that you go and use Google and for this
+search or that search like maybe Bing is
+10% better on that search. In fact, as
+we saw from the mic the the the Google
+TAC trial last year actually Bing is
+Google is still the best search engine
+by quite a long margin relative to the
+other traditional search engines. But
+what we have now is like a reset of the
+playing field. Um, and Google has a
+whole bunch of advantages as to why they
+might win in that playing field. But
+there's a reset both of what the product
+is and and and how you sell it and your
+org structure around selling it and do
+you have the right politics and the
+right org structure to build that and
+the right incentives and internal
+conflicts and then the consumer behavior
+kind of get reset as well. My
+understanding of AI is that so much is
+data driven like you have proprietary
+data sources you have uh better data so
+you can train better model that gives
+you one of the key inputs I would
+&gt;&gt; so I'd actually I think it's actually
+the opposite which is that everyone's
+kind of using the same data which is you
+need such an enormous amount of
+generalized text
+that the amount that Google has or that
+meta has is not actually enough to move
+to be a kind of fundamental difference
+in what you can train with.
+&gt;&gt; So you don't think like YouTube as a
+repository is an advantage for like a
+significant advantage?
+&gt;&gt; So it depends.
+&gt;&gt; Push back. Yeah. I want to say
+&gt;&gt; so it depends. So the models that we're
+training now, we're training on text.
+So that's not really being trained on
+YouTube. We saw this lawsuit around book
+copyright with Meta that they downloaded
+a torrent of pirated books cuz guess
+what? that's they don't have enough st
+text and it's not the right kind of text
+and
+&gt;&gt; they don't have lots of pros they've got
+lots of short snippets of text so I
+think the generality of LLM is you just
+need such an enormous amount of data
+that everyone kind of needs all the text
+that there is and all the text that
+there is is kind of equally available to
+anyone
+&gt;&gt; so we've kind of like the data is a
+level playing field effectively
+&gt;&gt; yes because you need so much more and
+it's also not necessarily the kind of
+data that you have. So obviously Google
+has, you know, an enormous repository of
+scrape data because they read the web
+all the time, but anyone else with a
+billion dollars can go out and do that,
+&gt;&gt; right? Or you can go and download the
+common crawl from AWS.
+&gt;&gt; How far away do you think we are from
+autonomous sort of AI making AI better?
+So uh no human intervention, but AI sort
+of going out in the real world, getting
+feedback, adapting itself and making
+itself better. there is this sort of
+like people parody of like the f like
+you like suddenly magically this thing
+grows and becomes amazing and and learns
+everything. Um I don't think we're at
+that stage now. I don't think anyone
+really knows when it would happen. So
+it's very sort of impressionistic. I
+think another answer might be you kind
+of have to be very careful looking at
+headlines and thinking like what exactly
+is that telling me? Um, so Enthropic has
+done a bunch of things where they say
+like the AI was threatening to blackmail
+me.
+&gt;&gt; Yeah, I saw that.
+&gt;&gt; And you read the story and you think,
+okay, you asked what's basically a story
+generating machine. Please tell me a
+story of what you would do if in this
+situation where most people would
+probably say X and the machine says
+probably X. And you say, my god, it said
+it would do X. It's like, well, yeah,
+it would blackmail
+&gt;&gt; based on human behavior.
+&gt;&gt; It would blackmail you. Okay. How would
+it do that?
+&gt;&gt; Yeah.
+&gt;&gt; What do you mean it would blackmail you?
+It's kind of like like the reductive
+adabetum of this is um you write this is
+point somebody else made that like you
+write murder is good on a piece of paper
+and you put it in a photocopier and you
+press go and you say my god the machine
+says murder's good. Well, no, you told
+the machine to say that. And that's what
+these anthropic studies are. They're
+basically you tell the machine to say a
+thing and then it says it like well you
+haven't proved anything.
+&gt;&gt; You know people talk a lot about product
+market fit, sales tactics or pricing
+strategy but the truth is success in
+selling often comes down to something
+much simpler. The system behind the
+sale. That's why I use and love Shopay
+because nobody does selling better than
+Shopify. They've built the number one
+checkout on the planet. And with Shop
+Pay, businesses see up to 50% higher
+conversions. That's not a rounding
+error. That's a gamecher. Attention is
+scarce. Shopify helps you capture it and
+convert it. If you're building a serious
+business, your commerce platform needs
+to meet your customers wherever they are
+on your site, in store, in their feed,
+or right inside their inbox. The less
+they think, the more they buy.
+Businesses that sell more sell on
+Shopify. If you're serious about
+selling, the tech behind the scenes
+matters as much as the product. Upgrade
+your business and get the same checkout
+that I use. Sign up for your $1 per
+month trial period at
+shopify.com/nowledge
+project. All lowercase. Go to
+shopify.com/nowledge
+project to upgrade your selling today.
+Shopify.com/nowledge
+project.
+Do you ever struggle to stay focused?
+There's a reason I reach for my
+Remarkable Paper Pro when I need to
+think clearly. If you're looking for
+something that can help you really hone
+in on your work without all the
+distractions, Remarkable, the paper
+tablet might just be what you're looking
+for. Remarkable just released their
+third generation paper tablet,
+Remarkable Paper Pro. It's thin,
+minimalist, and feels just like writing
+on paper, but comes with powerful
+digital features such as handwriting
+conversion, built-in reading light,
+productivity templates, and more. It's
+not just another device. It's a
+subtractive tool. No notifications, no
+inbox, no apps. Just you, your ideas,
+and a blank page that feels like paper,
+but smarter. Whether you're in a meeting
+or deep in a creative session, this
+device is built to keep you in the zone.
+In a world built to steal your focus,
+this tablet gives it back. It's become
+the place I do my deepest work, and it
+travels light. Slim enough for any bag,
+powerful enough for any boardroom. Not
+sure if it's for you? No worries. You
+can try Remarkable Paper Pro for up to
+100 days with a satisfaction guarantee.
+If it's not the game changer you were
+hoping for, you'll get your money back.
+Get your paper tablet at remarkable.com
+today.
+Where do you stand on regulation of AI?
+So, I think regulation of AI is sort of
+the wrong level of abstraction. Talking
+about regulating AI as AI is the wrong
+level of abstraction. And it's like
+saying we're going to regulate databases
+or regulate spreadsheets or regulate
+cars. Well, we do, but not like that.
+When you regulate stuff, there are
+trade-offs. Like, you learn about this
+in your first year in economics class.
+Like, regulation has costs and
+consequences, and it's not necessarily
+um you know, there's there's always a
+trade-off. And often you're making
+product decisions or engineering
+decisions that do actually have
+trade-offs. There's like a three-way
+trade-off of like what's good for the
+product, what's good for the consumer,
+what's what's good for competition,
+what's good for the company, what's good
+for the consumer.
+&gt;&gt; I think the regulatory stuff is
+interesting in the framework of multiple
+countries sort of competing for super
+intelligence. How would you advise a
+country to prepare for AI? If I'm the
+president of the United States and I
+call you and I say, Benedict, uh, you
+have 5 minutes. I need what do I need to
+prepare for? What can I do to put our
+country in the best position possible?
+&gt;&gt; Well, what's your objective? Is your
+objective to um have a nice press
+release?
+&gt;&gt; No, it's to dominate AI.
+&gt;&gt; A long time ago, I used to get these
+questions about like how can we
+replicate Silicon Valley? And I always
+feel like the answers to those questions
+as much as possible is like you can't I
+mean occasionally there are things you
+can do like you can create funding
+structures you can make it easy you can
+you know you can try and jumpst startup
+ecosystems you can try and jump start
+funding availability but most of the
+answer is things like getting out of the
+way I think that the idea of trying to
+create national champions is very hard
+now that almost kind of becomes an
+economist's question rather than a
+technology question. How do you create
+national champions? Where has that
+worked? Where has that not worked? I'm
+sure there's a bunch of books and papers
+about, you know, why where does
+industrial policy work? Where does it
+not work? From a technology analyst
+perspective, I think of this in terms of
+a what are you doing that would make
+this harder and b think of this as just
+more startups.
+&gt;&gt; What are the things that we're doing
+that make it harder to develop that uh
+ecos without picking a winner? It's not
+about picking a company and backing
+them. It's like if you do like this this
+this ridiculous law that California had
+a year or two ago, if you treat this as
+like nuclear weapons
+&gt;&gt; and you say this is incredibly dangerous
+and we need to have it under extremely
+tight control so that nobody does
+anything bad with it, which is basically
+the EU approach.
+&gt;&gt; Go back to your economics class.
+&gt;&gt; Policies have trade-offs. To govern is
+to choose. You're making a choice when
+you do that. And you're choosing that
+has costs. Personally, like most people
+in tech, I think the idea that this is
+all going to kind of produce bioweapons
+and take over the world and kill us all
+is just idiotic. Like I think I think
+it's just a bunch of kind of childish
+logical fallacies within that. But you
+have to be conscious. You say if we're
+going, you know, the the kind of the
+Biden approach to to generative AI very
+explicitly was to say this is sort of
+social media 2.0.
+&gt;&gt; Like social media to one was terrible
+and destructive and bad. And I think
+there's a I don't agree with that. I
+think there's a huge dose of moral panic
+within that. But be that as it may, if
+you make a decision that says we are
+deliberately and explicitly going to
+make it really hard to build models and
+really hard to start a company that
+builds models and really hard to do
+anything with any of this stuff, then
+guess what? It's kind of like, you know,
+the mayor election in New York today.
+Like if you make it really hard and
+expensive to build houses, houses will
+be more expensive.
+You've made that choice. If you do that,
+you cannot then complain that houses are
+more expensive. You can choose that, but
+you can't complain.
+&gt;&gt; Why do you think as a society we don't
+understand that?
+&gt;&gt; Part of this is that like in most
+non-emotive fields, we kind of do like
+you understand people understand that,
+you know, if you make, you know, more
+employment regulation tends to produce
+slower growth but more protection for
+employment and you you're choosing a
+trade-off. You people kind of I think
+everybody on both sides of that equation
+understands that that that's a trade-off
+and you're choosing one versus the
+other. The point is you can have a fully
+functioning free market and you can
+regulate some of the negative
+externalities of free markets that
+anybody in any part of the economic
+spectrum understands there are negative
+externalities to free markets. You can
+also have like a government provided
+alternative. You can have the government
+do the fire department where you have
+some of the kind of most obvious gaps
+between the US and Europe it seems to me
+sometimes are in places where you kind
+of have neither.
+So the US neither has a
+governmentcontrolled health care system
+nor a free market healthare system.
+&gt;&gt; Do you see what I mean? You have neither
+a governmentont controlled housing which
+you have in like in weird places like
+Singapore nor a free market in housing.
+So you kind of break the free market. So
+you stop the price signaling. This is
+like the great insight of Hayek is that
+pricing is a signal. Pricing is an
+information system. It's telling people
+what's wanted. It's not it's not just a
+signal of worth. It's a signal of
+demand. There's a a fascinating book I
+read a while ago called Red Plenty which
+is about Soviet central planning in the
+' 60s '7s ' 80s and it's about sort of
+what happens when you have a central
+planning that just cannot cope with the
+level of complexity of a sophisticated
+economy in the ' 60s and ' 70s as
+opposed to let's make grain and tractors
+and locomotives in the 20s and 30s and
+steel which already kind of works. But
+once you actually have a sophisticated
+industrial economy, central planning
+can't handle the complexity. And so you
+try and create incentives and structures
+around that while not having pricing and
+that just doesn't work. I suppose
+there's a sort of a generalized point
+which is like a market economy is a
+system and if you pull a lever here
+something will move there and you can't
+just pull a lever here and say well I
+don't want that to move because it's a
+democracy. It will move anyway and so
+you have to understand how the system
+works and understand what consequences
+you want from that and what your
+parameter parameters are within this.
+One of the things that I admire about
+you is that you're sort of known for
+spotting patterns. I have a theory on
+how to learn pattern matching. And I'd
+love to hear your your push back on
+this. My theory on how we learn is I
+call it the learning loop. We have an
+experience. We reflect on that
+experience and we create a compression
+and that compression becomes our
+takeaway. So we can watch a movie uh
+read a book and you come away with a
+compression of it. But you can work
+backwards from that compression to the
+experience. But what we consume most of
+the time is other people's compressions.
+So like when people read your
+newsletter, they're consuming a
+compression of the work that you've done
+uh but not the actual raw work. So in a
+way it's an illusion of knowledge if if
+you haven't done the work in that area.
+&gt;&gt; It's funny. I'm I'm I have a draft
+thinking about like what LLMs do to web
+search and publishing and discovery and
+e-commerce and like big foot of hand
+wavy fuzzy all of that stuff. And I was
+sort of thinking about this and there's
+a book written by a French academic sort
+of 20 years ago or something called how
+to talk about books you haven't read
+which sounds very kind of um snide. Um
+but kind of his point is that like
+there's the book you read when you were
+17 and you really didn't get it.
+&gt;&gt; Mhm.
+&gt;&gt; And if you read it now you'd get it. And
+there's the book that like he's got this
+kind of list of like there's the books
+that everybody else has read so it's to
+say you've read them. There's the books
+that like you've read three other books
+by that writer so you don't really need
+to read this one too. Um you get it like
+you do need you know do you need to read
+another Malcolm Gladwell book like if
+you you've kind of got the Malcolm
+Gladwell experience. So there's this
+sort of generalized sense of pattern and
+accumulation
+of what you've seen what you've half
+seen what you half remember. There's
+also I think you know what your your
+your viewers listeners might notice is I
+I kind of have two modes two or three
+modes. I have a mode that's sort of
+discursive and slightly rambling and
+free associating and I'll kind of spiral
+off in different directions and
+hopefully come back to the point. Um,
+and then there's a mode where I want to
+try and pin the thing down and break it
+apart and say what are the two three
+four things that are happening here
+which is what you see in the slides is
+no like what is it? It's this and then
+this and then that and does that
+capturing that? That's a way of trying
+to understand what this is. I try and
+work out what I think about this, how I
+understand it, how you can break it
+apart by kind of pinning it down. The
+thing about data is, and the thing about
+the slides in the analysis is is like
+I'm always asking, who cares?
+&gt;&gt; And I'm always asking, yes, but what
+actually matters here? Why are you
+showing me this slide? Why am I showing
+you this chart? And so, you kind of have
+to ask like, well, what are the actual
+questions? What are the questions we're
+not asking on AI that we should be
+asking?
+&gt;&gt; I mean, we're asking, okay, well, there
+are some people who are saying, all the
+value catch is going to be in the in the
+in the in the models. There's this kind
+of funny split between people who are
+just talking about the models getting
+better and everybody else is saying,
+well, all the value is going to be in
+the application layer and you know, what
+are the companies and let's fund cursor
+and let's fund all of this stuff and why
+isn't there a consumer breakout yet? And
+other people are saying, what do you
+mean there isn't a consumer breakout?
+Everyone's using chat GPT to which
+answer is well not exactly which is my
+data point some people are using chat
+GPT most people look at it and don't get
+it still which is fascinating there's
+this kind of core where's the value
+capture question then there's like a
+bunch of questions we could have asked
+two years ago where we don't have an
+answer will the error rate ever be
+controllable or manageable will you ever
+get to a model that knows when it's
+wrong which to me seems like given a
+stat statistical system seems like a
+contradiction in terms but maybe there
+was a bunch of kind of you could make a
+list of like a dozen questions we could
+have asked in early 23. We don't really
+have answers to any of those. I mean
+there were some people who asking are
+these things commodities? Will China
+catch up to a true answer even then was
+obviously yes of course which is what
+happened which deep sea kind of
+demonstrated.
+But we don't have that many new
+questions since then. The thing that I
+puzzle about right now is first of all
+there's this whole nexus as I said of
+like what is LL what is SEO for LLMs?
+You know, we have infinite product,
+infinite retail, infinite media. How
+will you choose what to buy? What
+happens if I go to an LLM and say, "What
+mattress should I buy? What life
+insurance? What life insurance should I
+get?" How does that what that that poses
+dozens of questions we don't know yet?
+Then there's a question around like the
+differentiation in the LLMs as product.
+Like it seems to me right now you could
+do like a double blind test of the same
+prompt given to Grock Claude Gemini
+um Mistral Deep Seek. Do a double blind
+test. I bet most people wouldn't be able
+to tell which is which. That question of
+like is there product differentiation?
+Can there be product differentiation
+around the LLM as consumer product?
+Because right now the models are
+commodities but chat GBT is way way way
+way more usage. So chat GPT is at the
+top of the app store rank. Gemini
+bubbles between like 50 and 100. Um none
+of the others were in the top 100. Same
+in Google Trends, same in the usage
+numbers, same in the revenue. There's
+revenue for a corporate API. Corporate
+is a whole other story. But as a
+consumer thing, it's like chat GPT is
+now like the brand. It's the default.
+It's the Google. You use it because
+you've heard of it and none of the
+others have broken it. Is that where we
+are now? is that but then if you look at
+the products the products not any of the
+models all the same the underlying model
+is the same the products all the same
+it's really hard to tell the difference
+except like they've got different color
+schemes and different icons
+&gt;&gt; different branding
+&gt;&gt; different branding but the products all
+the same and this reminded me of looking
+at um browsers in that browsers are all
+the same rendering engine underneath
+might be different just as the LLM might
+be different but you've got an app an
+input box and output box and the output
+box renders what the rendering engine
+give you and the only innovation in
+browsers in the last 25 years is
+basically tabs and merging search in the
+address part.
+&gt;&gt; Yeah.
+&gt;&gt; And there like there's like the browser
+project there's people trying to do it
+now but it hasn't worked hasn't got
+traction and is that sort of how LLMs
+will work in that it's about the
+distribution and the brand is not
+actually about the product or the model
+or is it maybe more like social in that
+yeah photo sharing is a commodity but
+you there's a big difference between
+Instagram and Flickr.
+&gt;&gt; Yeah.
+&gt;&gt; And all the other people that try to do
+photo sharing. And so you have to
+&gt;&gt; that would almost be an argument that
+it's sort of winner take all right it's
+very hard for uh like use code as an
+example it'd be very hard for clothes to
+compete if they don't have enough
+um usage to continuously make the
+investments.
+&gt;&gt; Well that's a slight this is a slightly
+different thing. So the winner there
+doesn't appear to be a sort of
+self-reinforcing cycle in which more
+people use it because more people use
+it. the product gets better because more
+people use it so more people use it
+which is what you have with operating
+systems because you have more apps
+therefore more users therefore more apps
+it's what you have with Google search
+that Google has all the feedback from
+how people use it that makes the search
+engine better you have a network effect
+in social media that you're there
+because you're there because your
+friends are there because you're there's
+no apparent equivalent in LLM right now
+there's no reason why the LMS get better
+because more people use them now that
+may come you have that open AI and
+people have doing memory where it
+remembers what else you've asked, but
+that seems more like a switching cost
+than a network effect. And also, it
+might be easier for you to just ask it
+what it knows about you and then tell
+Claude or vice versa. So, it's not clear
+if that but we are at that sort of stage
+where you're looking at the browser and
+saying, is there a way that you can
+create stickiness yet or that you can
+create a network effect on the browser
+or is it just that the browser itself is
+a commodity? Um, now capital is not a
+winner takes all effect in that
+convention. would always at any rate
+there's a different kind of winner takes
+all effect. Um I mean I wouldn't
+conventionally think of capital as a
+network effect. Um or is it it's not a
+product that's in it's not something
+that's inherent in the product. It's
+something else. It may be that yes chat
+GP the open AI has more money so they
+can make their model better.
+&gt;&gt; There's like six rabbit holes I want to
+go down before we move on to something
+new. If open AI can I I like your point
+about sort of at the point where AI gets
+better because people are using it then
+there's a huge advantage to being open
+&gt;&gt; because we don't have any we don't have
+visibility on what that would be yet
+&gt;&gt; at that point though um whoever's in the
+lead would sort of
+&gt;&gt; if it did then you could get kind of a
+runaway um but we should kind of go back
+and think about MySpace
+&gt;&gt; um because you have like in the it would
+be MySpace you know in the early phases
+of these things and you see the same
+thing with the early PC industry
+you've got a dozen of them and there's
+often an early leader that falls away
+later and say MySpace was the early
+leader that fell away later. Then you
+get a late stage where the S-curve kind
+of flattened out where all the network
+effects have kind of solidified and the
+product quality has solidified. It was
+very easy actually to get people to
+switch back and forth between MySpace
+and Facebook and and Bibo and and and
+Friends Reunited and whatever the um um
+or all these other things in the early
+days, right? then you kind of get this
+this separation out. But then of course
+then you get then Instagram comes along
+and then Tik Tok comes along right and
+so as soon as you have something that's
+a different proposition that turned out
+to be extremely easy to pull that away
+you know you Google Google lost to
+YouTube they had to buy YouTube Facebook
+lost to to Instagram and WhatsApp and
+they had to buy them both. So those are
+quite fragile and quite narrow winner
+takes all effects or at least they they
+appear to be. We don't know what that
+would be or what the modalities would
+look like. Modalities, sorry, that's a
+great meaningless word. It's like saying
+societal. We don't know what that would
+look like and therefore we can't we
+don't know how rigid it would be or how
+it would work because we don't have it
+yet. You can't as as I'm sure you know,
+you're not they're not retraining the
+models all the time with the data. So
+you don't have that kind of runaway
+effect as like continuous flow and more
+queries produces you know better
+results. Um so it's kind of tricky to do
+that yet.
+&gt;&gt; I want to come back to something you
+said. You said some people look at chat
+TPT and don't get it.
+&gt;&gt; Yeah, I think this is really important.
+There's a whole bunch of survey data on
+how people how many people are using
+this stuff. You've got the numbers from
+so so so chat open AI pretty say well
+we've got this many weekly active users.
+Funny thing about social is people when
+social happened people would talk about
+registered users. You know in the early
+days of the internet people would talk
+about hits. Yeah.
+&gt;&gt; And then we realized that if your web
+page has seven items in the menu bar
+that's seven gifts. So that's seven
+hits. So it's was meaningless and you
+had to switch to page impressions and
+then it's registered users and then it
+was monthly active users and on social
+people said well hang on if you're using
+Instagram once a month you're not using
+it in daily active users or nothing and
+weekly active users we don't like
+either. Now OpenAI is doing weekly
+active users and Sam Wolman was a social
+media startup founder. He knows this.
+It's a [&nbsp;__&nbsp;] number. You look at
+survey data and I had did this slide in
+the last presentation I did of like five
+different surveys from the US from late
+last year earlier this year and it's all
+roughly the same. It's like something
+around 10% give or take three or four
+percent of people depending on the
+survey are using this say they're using
+this every day. Another sort of 15 to
+20% of people say they're using it every
+week. And then there's say you've got
+like say 10% of people using it every
+day. Say 15 or 20% of people using it
+every week. another 20 or 30% of people
+who say I use it every month or two and
+another 20 or 30 people% of people who
+said yeah I had a look I didn't get it
+and then you have this survey where
+people say 70% of people are using AI
+and like wait what do you mean there's a
+whole other rabbit hole which is you
+know people say well did you use
+Snapchat's face filters so you're using
+AI what do we mean by AI so which is
+let's be specific let's talk about you
+are you using a consumerf facing LLM
+chatbot like you're going to chat GPT or
+claude and asking questions like that's
+the number we want to look
+Are you struggling to manage your
+projects at work using lots of different
+tools for communication, task
+management, and scheduling? Doesn't have
+to be this hard. Base Camp is the
+refreshingly straightforward, reliable
+project management platform. It's
+designed for small and growing
+businesses. So, there's none of the
+complexity you get with software
+designed for enterprises. Complexity
+kills momentum. Base Camps the path so
+your team can actually move. do away
+with scattered emails, endless meetings,
+and missed deadlines. With Base Camp,
+everything lives in one place. To-do
+lists, message boards, chat
+conversations, scheduling, and
+documents. When information is
+scattered, attention is too. Base Camp
+brings both back together. Basecam's
+intuitive design ensures that everyone
+knows what's happening, who's
+responsible, and what's coming next. My
+head of operations swears by this
+platform and is the first person to
+suggest it to anyone. If you need
+another decorated referral, you should
+call her. Whether you're a small team or
+growing business, Basec Camp scales with
+you. Stop struggling. Start making
+progress. Get somewhere with Basecamp.
+Sign up for free at basecamp.com.
+[Music]
+And to me, there's a there's a bunch of
+you could matrix this. So, some of this
+is it's early. There's a counterpoint
+here which if people do the chart and
+they say, "Oh my god, it's so fast."
+It's like it's faster than smartphones.
+Yes. Because you didn't need to buy a
+$1,000 smartphone,
+&gt;&gt; right? It's faster than PCs. Yes. Cuz
+you know what PCs cost in the 80s
+adjusted for inflation? It's like five
+grand.
+&gt;&gt; Yeah. It's free for a lot of them.
+&gt;&gt; It's free. It's a website. You just go
+there. Of course, it's got faster
+adoption and there's way more people
+online as well. So even the absolute
+numbers are faster than they were for
+Facebook 20 years ago, 15 years ago
+because there's way more people online
+now. Yes. So So that's that's again an
+example of my unfair but relevant
+comparison. You're sort of standing on
+the shoulders of giants. So, of course,
+you can get to way more people quicker,
+but do you have to keep asking, "Well,
+what?" Yes, but why do so many more
+people look at this and not get it? Or
+even worse, the not getting it. I can
+kind of see cuz people look at
+everything and don't get it. Why is it
+that somebody looks at this and gets it
+and goes back every week, but only every
+week,
+&gt;&gt; right?
+&gt;&gt; Why is it they can only think of
+something to do with this once a week?
+&gt;&gt; I worry about those people.
+I mean, I I'm just thinking if these
+numbers are accurate, the 10%, the 15,
+you know, 90% of the people that I spend
+the most time with are within that 10%.
+&gt;&gt; Well, I'm not.
+&gt;&gt; Interesting. Tell me more about that.
+Well, here actually, I'll I'll preface
+this conversation with my kids don't use
+Google anymore. They have they use it to
+find phone numbers or local businesses
+or places uh distance. everything else
+they they basically have defaulted to
+chat GPT. Now
+&gt;&gt; again I'm going to all AI conversations
+seem to be analogies. So 100% and it's
+like it's like nuclear weapons. It's
+like no it's not
+&gt;&gt; the comparison I think is interesting
+here. It was not perfect but it's
+interesting is to look at early
+spreadsheets for software spreadsheets
+spreadsheets were paper. Dan Brooklyn
+creates Vis and the other guy, I can't
+remember the other guy's name, who
+create Visical in the late '7s. And I
+think to get an Apple 2 to run it with a
+screen and everything cost like 15 grand
+adjusted for inflation. And you show
+this to an accountant and it's like, you
+can change the interest rate here and
+all the other numbers change. And we see
+that now and we're like, yes,
+1978 that was a week of work almost
+literally.
+&gt;&gt; That was like amazing.
+&gt;&gt; Yeah. It would do a week of work in half
+an hour.
+&gt;&gt; Yeah. or less. And he has all these
+stories about accountants who would, you
+know, they would be given a one-mon
+project and they get it done in a week
+and then they'd like go and play golf
+for three weeks because they partly
+because they could probably they didn't
+actually want to tell the client I
+needed it in a week because the client
+would think they hadn't done it
+properly. So I look at chat GPT and I
+think right I don't write code. I have
+zero use for something that will write
+code for me. I don't really do
+brainstorming.
+&gt;&gt; Okay?
+&gt;&gt; I don't do summarization of things. I
+don't do the things where it's sort of
+out of the box, easy and obvious. And
+then there's a sort of mental load of
+okay, I've got to kind of try and think
+of what things am I doing that it could
+do for me. And that most people don't
+think like that. So there's a sort of I
+said a moment ago, there's like a
+matrix. There's a matrix of like who has
+the kinds of tasks that it's good at
+obviously.
+Who is good at has the kind of task that
+it's good at? Not obviously. Who is good
+at thinking about new tools for the
+things that they're doing? Who isn't? If
+you
+&gt;&gt; I'm kind of blown away you don't
+reflexively use AI.
+&gt;&gt; If you were using Salesforce
+and you had a button that said, "Draft
+me an email to reply to this client."
+&gt;&gt; Then that gets massive adoption.
+&gt;&gt; Well, that feature that we talked about,
+&gt;&gt; but that's a different thing. Yeah.
+&gt;&gt; Is it is it the chatbot as product where
+you get this blank screen and you kind
+of look at it and you scratch your head
+and you have to think well what is it
+that I would do with this and then you
+have to form new habits around it or is
+it that it's wrapped in product and UI
+where somebody else has said it would be
+really useful for this wouldn't it and
+then you look at it and go oh yeah that
+would I could do that.
+&gt;&gt; Do you think it's better with
+qualitative or quantitative?
+I think it is presently
+and I'm going to again a binary
+statement. I think today it has zero
+value for quantitive analysis.
+&gt;&gt; Oh, interesting.
+&gt;&gt; Because if well let me let me qualify
+that. Do the numbers need to be right or
+roughly right
+&gt;&gt; because what all of these things do is
+they give you something that's roughly
+right? And roughly is a spectrum but
+it's always
+&gt;&gt; you don't want pi to be 3.1.
+depends how big the circle you're
+measuring is.
+&gt;&gt; Yeah.
+&gt;&gt; Um you know this is the line about pi
+that you know we can calculate it the
+like then however many digits we have is
+like enough to calculate you know the
+diameter of the g of the universe or
+something but people still adding more
+numbers. So you know there's a little
+bit of Zeno's paradox in here you know
+like you get infinitely close at a
+certain point it doesn't matter and this
+is at a high level this is some of the
+AGI argument that if the thing gets
+infinitely close to reasoning without
+ever actually reasoning does it matter
+&gt;&gt; like at a certain point the thing if the
+thing is always right if thing if the
+thing is only wrong once in a billion
+years does it matter that it's not that
+it's not always right the problem today
+is it's not wrong once in a billion
+years it's wrong a dozen times a page
+&gt;&gt; you don't want to spit that out and give
+it to somebody
+&gt;&gt; so I had very early example of this and
+I was going to speak at an event at the
+beginning of 2023 and the conference
+people had asked me for a long biography
+of myself and I didn't have I don't
+still don't have one and so they'd made
+one and they'd used it with chat GPT and
+not told me and they just sent it to me
+to check and I looked at it and I said
+what the [&nbsp;__&nbsp;] is this [&nbsp;__&nbsp;]
+&gt;&gt; that's 2020 that's like
+&gt;&gt; but generations ago
+that's not relevant to the point I'm
+going to make the point I'm going to
+make is a it was always the right kind
+of biography it was the right kind of
+degree the right kind of university
+right kind experience, the right kind of
+jobs. It just wasn't actually right
+things. But B, I could take that and fix
+it.
+&gt;&gt; Mhm.
+&gt;&gt; So for them, it was useless.
+&gt;&gt; Right.
+&gt;&gt; For me, it was completely very useful as
+I spend 30 seconds fixing it instead of
+spending an hour scratching my head,
+which is why I say right or wrong
+depends, which is a very kind of French
+philosopher kind of question. Is the
+answer is the prompt does it does the
+prompt have errors? It kind of depends
+why you wanted it. Okay. or that I don't
+have use cases where I want something
+that's roughly right. I don't have use
+cases where I want a list of 10 ideas or
+I wanted to brainstorm or I wanted to
+draw me an email or I wanted to write
+code or I wanted to generate some
+images. You know, I have a friend who
+works at a consultancy and they want
+pencil sketches of concepts and now they
+can just use vid journey to make those.
+That's great. Does that sketch like does
+that person at the back have three legs?
+Not anymore. No.
+And if they did, it wouldn't matter. You
+could Photoshop that out. I don't do
+that. That's I don't create images. So,
+I don't have a good mapping of the stuff
+this is good for early
+&gt;&gt; against the stuff that I do. And the
+stuff that it that it maybe would be
+useful for is the stuff where it's
+actually not yet very good. And the
+things where you would mitigate that by
+saying, well, I would fix it. I don't do
+those things.
+&gt;&gt; Okay. So th this is a good thing because
+I wanted to come back to something you
+said. You said you think by writing
+&gt;&gt; and in a world where you're taking
+something generated by AI and editing it
+that's different than writing. Talk to
+me about thinking by writing. I why she
+my my TGPD use case which is more mental
+model than a practical thing is I write
+something and I think is that I would
+what I would always would ask in the
+past is kind of your point about pattern
+recognition is I look at something and
+say am I adding value here am I saying
+something useful am I saying something
+different am I asking the key question
+am I pushing further am I pushing the am
+I asking the next question rather than
+just answering the obvious questions now
+I can just say is this what chat GPT
+would have said and if the answer is
+this is what chat GPT would have said
+then I didn't publish it not because
+people can get it from fat GPT but
+because anyone would have said that
+&gt;&gt; that's a perfect analysis in the sense
+that it raises the baseline of what
+qualifies as insight
+&gt;&gt; the difference is the slope of the
+insights and so you wouldn't say it if
+chat GBT is going to say and push back
+on this by all means uh but the the chat
+GBT level of insight to use an example
+it could be clo it could be croc could
+be any of them is increasing at a faster
+pace than most people and eventually
+those slopes inter and it's probably
+intercepted or or intersected already
+with you know maybe up to intern level
+and next year it might be master's level
+or it might even far surpass that and it
+hasn't some domains in terms of math um
+the year after it might and so maybe
+it's like 5 years before it it passes
+Benedict um and maybe it's four years
+before or it passes somebody else and
+maybe it like passed me a way long time
+ago. So I think there's a
+there's there's two or three directions
+we we could take that. One of them is
+it's an interesting theoretical
+philosophical question is originality
+which is to say Alph Go could do
+original moves because it could do all
+the moves and do do moves that no one
+had done before not knowing what people
+had done before but it had an external
+scoring system. It knew that that move
+was good.
+&gt;&gt; Mhm.
+&gt;&gt; The have feedback.
+&gt;&gt; Yeah. It had a feedback loop because
+every move has a score. It can evaluate
+the score every move. The classic um
+parable of the monkeys and typewriters
+or you know the Borg's infinite library
+is there's no feedback loop.
+&gt;&gt; Yeah.
+&gt;&gt; Yes. The Borg's infinite library
+contains new masterpieces generated at
+random. Well, the monkeys were
+typewriters would generate new
+masterpieces but there's no feedback
+loop. So there's no way of knowing. You
+see this for the music now. You can
+generate new music. It could generate
+new stuff that you wouldn't know. For an
+LLM variance is bad.
+originality is is is a lower score. So
+what's the feedback loop for original
+but good? Now it might be that that's
+the same sort of false question as
+saying is it really reasoning or is it
+just right 99 times you know 9 followed
+by many zeros. Does it actually
+understand or is it just always right
+without understanding? Does it actually
+know that's original and different or
+does it not? And that's a that's a kind
+of a puzzling I don't think we know the
+answer to that and it may be the wrong
+wrong question but it's a kind of a a
+puzzle as to how would these how far can
+these things make things that are both
+different from the training data and
+good and is knowing that this is
+different but good is it really
+different or is it just matching the
+pattern on a longer um frequency do you
+see what I mean and how much could you
+actually have predicted that given
+enough data that it's not actually
+outside the pattern. It just kind of
+looks like it is if you're zoomed in
+more and if you zoom out more then that
+is m matching the pattern. How would you
+know that people will it's like you know
+thinking about music like how would you
+know that people would like punk? You
+could get you can very easily imagine um
+generative AI system that can make you
+more stuff that sounds like yes or more
+stuff that sounds like Pink Floyd. It
+might not sound like good Pink Floyd for
+Floyd, but you could imagine it would
+make more stuff that sounds like like
+the Grateful Dead. You know what
+Grateful Dead fans say when they run out
+of drugs? This music's terrible.
+&gt;&gt; You can imagine this. You can imagine,
+I'm being unkind, but like you can
+imagine the challenge is knowing that
+now people are really fed up of 70s
+Prague rock and they would really like
+something else and that something else
+would be punk and that would work. is
+knowing that people in the ' 40s were
+really fed up of the war and would want
+luxury and that Christian's new look
+would work and would express that. Could
+an LLM do that thing? How much variance
+do you need? I don't know. It's an
+interesting like thought experiment to
+ask that question.
+&gt;&gt; Oh, there's a completely different place
+to take this, which is to say this is an
+appeal for boutiques and inerson events
+and the unique and the curated and the
+individual. There's a shop I always used
+to always talk about. I'm not sure if
+it's actually still there. There's a
+shop in Tokyo that just sells one book
+in Ginsa that just sells one book and
+they change what it is once a month. It
+may may have closed 10 years ago. I've
+been talking about it for 20 years. But
+the point is, you don't go into the shop
+and have to work out what book to buy.
+But you have to know the shop exists.
+&gt;&gt; Or you can be Amazon and you got 500
+million scoops and they know they've got
+everything. Like actually there's some
+stuff they don't have because they want
+to be individual like they don't have
+LVMH. But for the sake of argument,
+Amazon has everything. But you can't go
+to Amazon and say what's a good book or
+you know what's a good lamp. They have
+all the lamps. You can't just go to it
+and say what lamp should I buy,
+&gt;&gt; right?
+&gt;&gt; All of retailing and merchandising and
+advertising is about where are you on
+that spectrum and what else do you do?
+Do you do you spend the money on rent or
+advertising or shipping
+&gt;&gt; or what and how does that work? And the
+more there's a sort of a polarization
+between well if I know I want the thing
+I can get it within 12 hours but how do
+I know I want the thing? And as I
+alluded to earlier, an LLM is one might
+paradoxically an LLM could suggest you
+the unique individual thing. Would the
+LLM also create the unique individual
+thing? That's a high and a second that's
+that's a different question. It's a
+question further down the pipe. But the
+more that the LLM can do what everybody
+would probably do or say what everyone
+would probably say, then the more you
+push to other places.
+&gt;&gt; That makes a lot of sense. I mean
+there's always going to be a market for
+insight whether it comes from LLMs or
+people you you have to be providing
+insight.
+&gt;&gt; You know our world as quote unquote
+content creators is a very wide spectrum
+of people who do very different stuff
+and there's you know there's people
+doing AI slop and there's people doing
+you know the the what is it called the
+you know the passive income thing but
+there's people who do very different
+kinds of content coming from different
+places for different reasons. You know,
+Scott Galloway does very different kind
+of stuff to me. Mary Mika does very
+different kind of stuff than me. You do
+very different kind of stuff to me. It's
+just part of that is about who you are
+and your story and the authenticity of
+it. And some of it is about no one cares
+who you are, but you're saying
+interesting stuff and some of it's a
+recommendation algorithm or something
+else. There's a book by um Zula about
+the creation of department stores called
+Boner Dam, which means the happiness of
+women. And it's basically about a 19th
+century Jeff Bezos calling an apartment
+store department store into existence
+out of thin air through force of will.
+And like he invents fixed prices so that
+you can have discounts and loss leaders
+and mail order and advertising and you
+know he puts the the slowmoving
+expensive stuff at the top of the store
+and he puts food and makeup on the
+bottom of the store. Um there's nothing
+new under the sun. And meanwhile the
+shopkeepers on the other side of the
+street are saying like have you seen
+what that maniac's doing now? He's
+selling hats and gloves in the same
+shop. He's got no morals. He'll be
+selling fish next. And of course, he's
+got the character. Like there's like the
+whole plot point is about um loss
+leaders. So there's like you can again
+you step back and think well people have
+freaked out about industrial
+industrialized mass-produced product
+before. People have freaked out about
+there being too much content. There's a
+line that Arasmus was the last person to
+have read every book, right? There's too
+much AI content slop on the internet
+now. Like Yeah. How many books do you
+think were being published in 1980? Do
+you think everyone was reading all the
+books then? Yeah, same thing. Just
+different scales, I guess. What advice
+would you give students today?
+&gt;&gt; Well, when I was a student, we're all
+supposed to be learning Japanese. I
+think that was just the tail end of
+that. You know, I was sort of lucky to
+have a a sort of very expensive and
+old-fashioned and handcrafted education
+that was all about learning how to learn
+and learning how to think. I think there
+are skills that people used to sneer at
+that probably shouldn't have been
+sneered at and certainly shouldn't know.
+I mean, I'm old enough to remember when
+people would just sort of smuggly say,
+"Well, I'm not computer literate."
+&gt;&gt; As though that was like was like being a
+car mechanic or something. Um, I don't
+know how to do that. That's not my
+problem. That's somebody else's problem.
+And I don't think anyone now, partly
+this is because of mobile, I don't think
+anyone thinks like that anymore. Should
+you learn to code? No. I think you
+should find out if you want to learn how
+to code. I think this is like saying
+should you learn an instrument or should
+you, you know, go take theater classes.
+That you that may or may not be what you
+should be doing. Of course, what does
+learn to code need in 10 years time?
+That's a different question. But should
+you I don't think you should presume you
+will or won't be a software engineer. I
+think you should presume that you will
+need to be curious and that you'll have
+many careers and different kinds of
+jobs. I think you should be focusing on
+learning how to think, but I don't know.
+I think you should be presuming that
+everything will change.
+&gt;&gt; Everybody says something like learning
+how to think. I feel like you would have
+a really good What does that mean? Like
+break that down for me because it
+probably means different things to
+different people.
+&gt;&gt; So, every now and then I I'm slightly
+perplexed to get an email asking for
+career advice because I think if you
+looked at my LinkedIn like it sort of
+company shut down, company shut down,
+company shut down, like lasted a year
+there, that didn't work. Coming from the
+UK and seeing the US system, I never
+really liked the US idea that like if
+you want a good job, you should be doing
+math and business and engineering. Now,
+that may be how people hire students
+here. But I never liked the idea that
+like studying philosophy or studying
+history or studying literature is
+useless because you're learning about
+history. That's not what I learned. Yes,
+you know, I wrote lots of analogies
+about history, none of which are
+actually things I studied at university.
+What I learned studying history at
+Cambridge was how to ask what the next
+question is, how to break this apart,
+how to read a 100 books or 50 books in a
+week and find the bits that you need,
+how to synthesize lots of information,
+how to ask, well, what does that
+actually mean as opposed to what it
+looks like it means? Do you believe
+this? Is this credible or should you
+just jettison that idea? um how do you
+put this together and think about how
+you would explain something and that's
+what my friends who studied English did
+or my friends who studied philosophy did
+or my friends who studied engineering
+did that was what you were being taught
+how to do you wouldn't be weren't being
+taught to be an English lang to be a
+historian or to and I'd hesitate to
+think that you know you can only build a
+company if you've had or only work for
+Goldman's or McKenzie or a big law firm
+if you had a particular kind of
+education, a particular kind of degree.
+I think he should be looking for um
+what's going to challenge you and push
+you and give you the ability to learn
+and think in different ways. But again,
+this is me, you know, what are the
+skills that you have? How does your
+brain work? How do you think about
+things? And it took me, God, 20 years to
+work out what I was good at. So, I'm not
+sure that you can know that as a
+student. So, you have to try and find
+what you're good at as well as, you
+know, learning to think. Maybe learning
+to think is what I do. Maybe that's not
+what you should be doing. You should be
+learning what is it that you should be
+learning to do. What are the things that
+you're good at? Try all the different
+things. I don't know. It sounds like a
+like in a university commencement speech
+now. I don't [&nbsp;__&nbsp;] know. Um, but you
+don't know what you're going to be good
+at. So, you kind of want to try and like
+create options for yourself.
+&gt;&gt; What did you learn about investing
+working at a 16Z? So there's a bunch of
+like um maxims or sayings that's
+probably I wouldn't want to dignify them
+as like thesis or anything else but
+there's a whole bunch of maxims and
+sayings in venture um which you know we
+could have a podcast talking about but
+there are better people to give you a
+podcast talking about the mechanics of
+venture but like you have you're
+understanding what startups are and how
+they work and how the machine works and
+startups are an industry and Silicon
+Valley is like a machine for creating
+startups and still too Many people kind
+of look and say, "Well, that was a dumb
+idea." And it's like, "Well, that's the
+wrong question." The question is, if it
+you look at a startup and you think,
+could it work?
+&gt;&gt; And if it did work, what would it be?
+And could those people make it work? And
+then you understand more like the
+mechanics of well, how does social media
+work and how do people build companies?
+And what is it like to create a startup,
+which is a whole other conversation. I
+think something else that I learned was
+um calibration. There's a sort of again
+another metaphor I always think of which
+is that if you go to like a really great
+art gallery like you go to the MoMA or
+you know the Met or the Lou or something
+there is a masterpiece.
+If you go to a smaller weirder art
+gallery like London's a gallery in
+London called the Wallace collection or
+I was in Rome a couple of weeks ago and
+I went to one of the sort of old arcatic
+palaces and this palace is like it's
+like 10 or 15 rooms of of pictures and
+they've got like a quite good tinterto
+and a maybe tition
+and a Raphael. You see it glowing across
+the room. They're like, "Oh, that's why
+he's Rafael." And it's the same when you
+see lots and lots of startups like, "Oh,
+that's why he's Max Lechin. Oh, no,
+that's why this is bollocks." Like, you
+get 10 minutes in and go, I've got
+another 45 minutes. I've got to pretend
+to be interested and polite so the
+founder has a good experience. Um, it's
+seeing that contrast and texture and
+seeing what good looks like, seeing what
+worked, what didn't work, what people
+tend to say, how this tend to work. Just
+pattern recognition as much as anything
+else. You also get there's a whole all
+sorts of other kind of cultural contexts
+you get around it. You know, Silicon
+Valley can be very high school.
+&gt;&gt; You know, I always used to say it's it's
+an industry town and I always used to
+say it was like being a college town
+where there's one subject. So everybody
+you meet is doing the same thing. And so
+in some ways that's very powerful. You
+you know everybody around you is doing a
+you want to do a PhD. Everyone around
+you is doing a PhD. Here's the world
+expert in the subject. Of course you
+are. It's like being a middle- class
+kid. Of course you're going to
+university. What do you mean you're not
+going to everyone's going to university?
+Of course you're going to do great work.
+Of course you're going to start a
+company. And you're surrounded by the
+people who've done it. Um you want to
+get a CTO who's done it five times. You
+want to get the head of grace who's done
+it five times. Like they're all there.
+The other side of that is you'll never
+meet anybody who isn't working on
+exactly the same stuff and isn't
+interested in what you're working on. So
+you have no external context. You have
+no external perspective. The nearest
+theater is in LA. Then you know Chicago
+I think like is theaters in LA. You want
+to go to an art gallery, you got to go
+to LA.
+&gt;&gt; Who's the best positioned right now? So
+from the outside looking in, you know,
+sock is is going all in on AI. Elon
+seems to be going all in on AI. uh which
+of sort of the the leading companies do
+you think like a why why are they all of
+a sudden shifting and and really you
+know they were dabbling in it before but
+now they're they're really committing
+you know tens and hundreds of billions
+of dollars and then who's the best
+positioned in this sort of space if you
+had to pick one and invest your entire
+net worth in it who would it be
+&gt;&gt; well that's that's that's several
+different questions
+&gt;&gt; let's pick them apart
+&gt;&gt; like this was a technology that had been
+kind of floating around before chatp 3.5
+and everyone kind of saw that it didn't
+work very well and then chatb
+actually it works well enough and then
+there's this explosion of interest since
+then and so I think last year the Google
+Google Microsoft AWS and Meta spent
+about $220 billion of capex last year
+and we'll probably spend something over
+300 this year and so that's basically
+more than doubled almost tripled I think
+from a couple of years ago so there's
+enormous surge in capex in investment in
+this and we've got these stories about
+like well meta bought scale half 49% at
+scale.ai for $15 billion. Apparently
+looked at at at both of the other recent
+OpenAI spin out safe super intelligence
+and what's the other one? Thinking
+machines which are both basically
+pre-product pre-revenue labs with a
+somebody from Open AI at multiple tens
+of billions valuations. Um and he
+apparently like Sam Walton complained
+that Mark is offering people $100
+million to join. Um so Mark's in in
+beast mode. Microsoft has this kind of
+weird situation in that his own models
+aren't actually very good, but it's got
+this very kind of weird relationship
+with OpenAI. Open AAI um Sam Alman is I
+was going to say polarizing figure, but
+actually opinions about him tend to be
+fairly unanimous um and tend to be
+fairly negative. Like everybody who's
+ever worked with him quit. Open AI
+itself still kind of sets the agenda,
+but much less so than it was two years
+ago. I wouldn't want to do like a
+detailed like calling the scores on
+whose models are good and whose labs are
+good. But you know objectively Google is
+clearly like firing on all cylinders now
+and is doing very is making great
+models. Llama seems to felt llama 4 was
+seems to have been an embarrassment and
+so met kind of scrambling to catch up.
+Apple's in a slightly different position
+in that they have always sort of taken
+the position that they don't want to be
+first. they want to do it right and that
+they don't need to be doing whatever the
+latest consumer internet thing is like
+they don't have a YouTube I think Craig
+Fid Federigi said in an interview after
+WWDC like we don't have a YouTube he
+didn't call it YouTube like we don't
+have a YouTube we don't have a car
+sharing service we don't do grocery
+delivery we also don't have a chatbot
+okay that was wasn't quite the question
+the question for Apple is how much does
+in would integrating an LLM into the
+operating system change the experience
+of what it is potentially shifting the
+competitor balance with with with with
+pixel
+which at the moment has basically it
+only gets bought by people who work for
+Google and people who work for the tech
+press and like literally no one else
+buys Pixels because Google doesn't want
+to compete with Samsung. Um we could get
+a go down a whole smartphone industry
+rabbit hole. There's this sort of
+question for Apple around does this
+actually change the experience of what a
+smartphone is, what the ecosystem is.
+Does it end up kind of getting
+Microsofted in the sense that you're
+going to still for the time being you're
+still going to buy a smartphone? It's
+not at all apparent there's going to be
+another device. And if there is, it's a
+long way away. And it might be an Apple
+device as well. But you're still going
+to buy a smartphone. You're still going
+to buy the nice one with a good battery
+and the fast chip to run the models and
+the good screen and the best camera,
+which will still be an iPhone because
+Apple still has the best chip team and a
+whole bunch of other hardware
+advantages. But everything you do on it
+will be from someone else. And it won't
+be someone else in the sense that it's
+an app from the App Store. it will be
+someone else in the sense that it's a
+model running in the cloud, which is
+what happened to Microsoft in the 2000s,
+which was everyone had to get on the
+internet. To get on the internet, you
+needed a computer. You weren't going to
+buy a Linux computer. You probably
+wouldn't buy a Mac either. So, everyone
+bought a Windows PC, but they were using
+it to do to do web stuff, not Microsoft
+stuff. So, Microsoft kind of lost that.
+And so that would be the concern for
+Apple would be you'll still buy your new
+iPhone and you'll buy the iPhone air
+this autumn because it will be thinner
+and lighter and it will be a lovely
+phone and you'll use it to do chat GPT.
+But the counterargument would be to say,
+"Yeah, you'll use it to do chat GPT and
+Door Dash and Uber
+&gt;&gt; and Instagram and that cool new game and
+that other new cool game that's enabled
+by LLMs and to do Tik Tok and to do and
+and and and it will be kind of the same
+except they'll so there's a sort of you
+see what I mean? There's a this sort of
+slight fuzziness around what the bare
+case for Apple actually is. Does it sort
+of end up like Microsoft did? How bad is
+that exactly? What does that mean?
+&gt;&gt; Yeah,
+&gt;&gt; if we all go to wearing something like
+this that's lit up by AI, then that's a
+bigger shift, but it's very unclear how
+close that really is um just to the
+optics. There's another axis here which
+is what happens to Google search, where
+does that money go? How do you map the
+search activity that goes to an LLM that
+and how do you map that against where
+the revenue is? And also from the other
+side, how do you map that against where
+the publishers are? How do you think
+about whether you just shift your habit
+and you're actually using chat GPT as
+Google? It's basically doing what Google
+does, but you've shifted the brand and
+you're going to that search box instead
+of the other search box. I don't think
+you can count them out in absorbing that
+in.
+&gt;&gt; So, who would you out of the public
+companies? is you had to put your money
+in one of the top like seven or
+&gt;&gt; Well, so then there was a valuation
+question and I a long time ago I was a
+public markets analyst and I was bad at
+being a public markets analyst, equities
+analyst for a bunch of reasons. One of
+which was I was never interested in
+share prices.
+&gt;&gt; Yeah.
+&gt;&gt; Well, we've given the standard
+disclaimer. You're forced to. What would
+you
+&gt;&gt; um It's hard to see iPhone sales
+slipping from what we see now.
+&gt;&gt; Even half the cool, sexy Google stuff is
+in the Google app on the iPhone. Mhm.
+&gt;&gt; I think Meta and Google there is this
+sort of big question around where the ad
+revenue goes and how much the ad revenue
+gets pulled away to different places. I
+think Instagram is probably in a very
+good place there in terms of changing
+what advertising looks like and how that
+works. I mean I I had a slide in my
+presentation which was like um what Meta
+and Amazon want to do is to make LLM
+commodity and for the solder cost.
+&gt;&gt; Yep. This is why meta made it open
+source because they want to make it
+commodity infra that sold the cost and
+they differentiate on top with meta
+stuff with Facebook socialy stuff and
+they want the model itself to be just
+infrastructure. Amazon would also like
+it to be commodity infrastructure that
+sold it cost because that's what AWS is.
+They sell commodity infrastructure or
+cost and they do it better than anybody
+else and they make a lot of money from
+doing that. Go to Amazon's financials
+and basically all the money comes from
+AWS and the ads. People who complain
+about AWS don't haven't realized the ads
+make it Amazon did 50 billion $60
+billion of ad revenue last year. Um, so
+Amazon seems to be fine, but there's a
+bunch of stuff to navigate around how
+does this change how people buy stuff on
+Amazon. Who does that leave? Microsoft.
+There was this line from Bismar that the
+great man is somebody who hears God's
+footsteps through history and grabs onto
+his code as he walks past. And like is
+like tried to first of all he tried to
+grab onto VR onto VR and AR with whole
+hollow saying that there it is. We don't
+talk about that anymore. Like now it's
+AI their own models are not really
+ranking. I mean they hired Mustafa but
+like they're still struggling. They've
+got this weird contentious relationship
+with Sam Alman and OpenAI and it's
+basically not their models. On the other
+hand like they're going to sell an awful
+lot of Azure to run all this stuff which
+again is this tension. Is it is it that
+everybody's used just uses chatbt to do
+the thing or is it that someone is going
+to come to you with a great accounting
+product to run farm street? Yeah.
+&gt;&gt; And it runs on Azure and it uses some
+LLM. Who cares which one it is? It just
+it's just better.
+&gt;&gt; You know, you connect to your bank and
+it does the cool stuff and you connect
+to that and it does the cool stuff. You
+know, my use case for an LLM is do my
+[&nbsp;__&nbsp;] invoicing for me. It's not even
+that. It's work out why exactly it is
+that that client ERP doesn't like my
+bank account and not have me spend the
+next 3 months bouncing emails back and
+forth with somebody in India about one
+thing on getting this done. That would
+be a great use case that LMS can't do
+that yet. If they could that would be
+great but that we're not there yet. So
+Microsoft and Google are in this sort of
+position of being the incumbent both.
+You know, how can I put this and give
+you a more systematic again? I'm sort of
+thinking my way through to the answer to
+your question for Google and Microsoft.
+They're in they have an incumbent
+business that is potentially disrupted
+pretty profoundly by this, but they also
+have a cloud business that sells all the
+new stuff for this. Amazon has an
+incumbent business that doesn't get
+disrupted by this, at least much less
+obviously, and a cloud business that
+will be very happy selling all of this
+stuff. Um, Meta doesn't have a cloud
+business selling this stuff and has a
+bunch of new ways to make money from all
+of this new stuff, except they've got to
+have some better models. Apple,
+is this a competitive threat to the iOS
+ecosystem?
+A lot of stuff would have to happen
+first and they'd have to drop a lot more
+balls um before that was to happen. And
+meanwhile, they're still going to sell
+you the nicest glowing rectangle to do
+all of this stuff. And then we're
+talking about glasses and VR, which is a
+whole other two-hour conversation about
+when does that happen. There's still
+people poking around in crypto, like web
+three. Web three, remember? Maybe that.
+Someone said that people still working
+on crypto are like those Japanese
+soldiers on islands in the Pacific. You
+don't know the war's over. Um, but
+there's still people working on crypto.
+So, that's like another disruptive thing
+coming down the pipe. Who are the other
+incumbents? Um, Netflix is a TV company.
+It was a car company. Elon Musk,
+there's a there's a whole
+The Tesla conversation fascinates me
+because Tesla bears bulls think it's a
+software company and Tesla bears think
+it's a car company. And at the moment
+it's a car company. I mean, yes, they
+launched autonomous driving, but what
+did they launch? They launched half a
+dozen existing model cars with test
+drivers doing a geoence drive that
+everyone else was doing 10 years ago. Is
+that going to scale? Is are they finally
+going to get the flywheel of having all
+the camera data meaning that we'll work
+with just cameras?
+We've been I don't there's a
+conversation you could have asked 10
+years ago. In fact, I wrote stuff 10
+years ago. Are there winner takes all
+effect in autonomous cars? Will Tesla
+get it working with cameras before
+everybody else gets it working with LAR?
+Well, Whimo's got it working with 50
+grand of LAR or whatever that stat cost.
+It's tens of thousands of dollars of
+extra stuff on the car. So, they've got
+it working with all of that stuff. Tesla
+does not does not have it working with
+cameras. Will Tesla get it working with
+cameras before Whimo can get rid of the
+LAR?
+Uh, we could have had that conversation.
+I literally was on podcasts seven, eight
+years ago having those conversations. We
+don't know the answer. Maybe. We don't
+know. The interesting Tesla point is
+people always looked at it and said,
+"It's the iPhone of cars." No, it's not.
+What's happening is that cars are
+becoming Android with no iPhone. And
+then Tesla is just selling and is is in
+that metaphor Tesla is just another
+android phone maker and they're
+competing with the whole Chinese
+industrial policy to make more and
+there's going just going to be a flood
+outside the US is they're protected by
+tariffs. Everywhere else it's very clear
+what's happening is there just a flood
+of EVs with that are just as good as
+Teslas.
+&gt;&gt; We always end on the same question which
+is what is success for you?
+&gt;&gt; We live in the luckiest time. You know
+we are not worried about rockets landing
+on our heads. We're not worried about
+our children dying from diseases. We're
+not worried that the bank might be
+closed tomorrow and all of your money is
+gone. We're doing something interesting
+that we enjoy and that pays the rent
+that we want to be able to pay. I get
+paid to fly around the world and give
+slides for money. So, I think I'm doing
+okay. I could always be doing more. Um,
+but I'm always looking for the next
+question. Like, I'm always trying to be
+curious.
+&gt;&gt; This was a great conversation. Thanks
+for taking the time today.
+&gt;&gt; Great. Thank you. You've just spent your
+most valuable asset with me, your time.
+My commitment to you is that you get the
+best possible return on that investment
+moving forward. Subscribing and hitting
+that thumbs up button ensures my team
+and I can continue to bring you amazing
+conversations like the ones on your
+screen right now. Until next time.

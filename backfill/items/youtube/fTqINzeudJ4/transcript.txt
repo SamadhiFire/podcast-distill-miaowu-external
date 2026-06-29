@@ -1,0 +1,1676 @@
+Kind: captions
+Language: en
+15% on all goods coming from Europe, 0%
+on US goods going to Europe. So an
+opening up of Europe markets, paying us
+15% and on top of that getting
+commitments like $750 billion, almost a
+trillion dollars of energy purchases
+from the US. Or look at Japan, which
+they announced last week, another huge
+market. Again, similar. They're going to
+pay tariffs to the United States. No
+tariffs imposed on the United States.
+and they're going to invest $550 billion
+dollars into the US in a way the
+president gets to direct. So I would
+love I would I just think we need to
+give the president credit where credit
+is due. Everybody said this was going to
+lead to retaliation to trade wars was
+going to be disastrous for the US and
+all we've seen so far is deals deals
+deals deals. And I have to say, if this
+was the CEO of one of our companies,
+right, let's say we had a board meeting
+at the start of the year and he outlined
+these plans and we said, "Hey, we're
+really nervous about this. You know,
+this is a high-risisk, highreward
+strategy. It's either going to backfire
+and we're going to fire you or it's
+going to work really well and we give
+you a bonus." If we're measuring them
+halfway through the year, I would say
+that he's in line for a bonus.
+[Music]
+[Applause]
+[Music]
+All right, the summer pods back in
+action. Uh, good to see you guys. We
+have our good friend Sunonny Madra, the
+COO of Grock, joining from I don't know,
+Sunny, it looks like some fancy hotel in
+Saudi Arabia in the middle of the night.
+Good to see you.
+&gt;&gt; You picked it up. You picked it up. You
+have a good You have a good eye for the
+Middle East. And Bill, Bill, you got off
+your boat catching blue fin tuna. You're
+uh you look like you're in some office
+somewhere. So good to see you.
+&gt;&gt; I am uh borrowing Mitch Lasky's
+incredible podcast setup in in our
+Woodside office with the uh Oh, nice
+high highde SLR camera.
+&gt;&gt; Nice. You're looking you're looking
+good. Sunny, of course, our good buddy
+Sunny is the COO of Grock. Um I don't
+know, Sunny, probably a few hundred
+million of revenues, maybe doubling
+year-over-year. I just saw something.
+You're rumored to be raising 600 million
+at a $6 billion valuation. Maybe that
+has something to do with you being over
+in Saudi Arabia. Um, and of course,
+you're hosting all the uh open-source
+models in in your inference clouds
+around the world. Is that about right.
+&gt;&gt; Yeah, you got you got it right. You
+touched on all the key points. You know,
+we don't comment on speculation, but you
+touched on some good points.
+&gt;&gt; Well, it's great to see you in DC last
+week. Um, you know, our good friend
+David Saxs is really on a heater. First,
+it was the crypto summit a couple weeks
+ago. Of course, the Genius Act got
+passed, which really teed up these
+stable coins and and and now the Clarity
+Act around market structures making its
+way through Congress. And then of course
+last week was the AI summit where the
+president laid out um a multi-prong
+strategic plan for American AI that both
+extends the government's investment and
+and leadership um but also accelerates
+the distribution of the American AI
+stack around the world. Both of those
+things, both the crypto and the AI
+summit that he put together, I thought
+are key contributions really to the next
+generation of American technology
+leadership around the world. It's
+amazing to see that much progress in six
+months. Congrats to Sachs
+&gt;&gt; and the rest of the team. Catios, Dean
+Ball, Sriram, they really all kind of
+brought it brought the heat.
+&gt;&gt; Yeah, for sure. Of course, the AI action
+plan was focused on maintaining global
+AI leadership, particularly over China.
+And I hate to say it, but we have really
+been our own worst enemy. You know, it
+seems like excess regulation on
+everything from energy production to
+model development to semiconductor chip
+distribution. It's really been a bit of
+an unforced air by the US over the
+course of the last 24 months and handed
+a lot of momentum to China. and I think
+really threatened our leadership. So,
+this is kind of a 180 to get America
+back on track. You know, we've
+underestimated Huawei and the Chinese AI
+development, model development really at
+every step of the way. So, I want to
+kick off today talking about recent
+developments with the base models and
+reasoning models coming out of China
+because, you know, we had this freakout
+moment earlier in the year with Deepseek
+that we all remember. Remember, Nvidia
+stock plummets. Everybody in
+Washington's talking about it,
+&gt;&gt; but since then, you know, people kind of
+forgot about Deep Seek. But the reality
+is China's been on a roll. I mean,
+they're dominating the global landscape
+for open-source models. We've seen six
+to seven highquality open- source model
+providers, many of the fastest growing
+in the world. And this at a time when
+American open- source, right, Llama 4,
+has been sputtering a bit, really losing
+its mojo around the world. Um, so Quen,
+the open- source model out of Alibaba
+has passed, I think, 400 million
+downloads. Of course, that's released
+like these other models under the Apache
+2.0 open source license. So, very open
+as Bill's talked about. But, Sunny, you
+tweeted, and one of the reasons I wanted
+to get you on the pod this week is you
+tweeted, you know, that the all of these
+open- source models are really coming
+together in China. Um, they're
+leveraging one another. they can distill
+and generate synthetic data on each
+other's work. And you went so far as to
+suggest this might allow them to pass
+the best proprietary models coming out
+of the US um yet this year, maybe by Q4
+of this year. So why don't we dig in
+there? What is your theory of the case?
+Why is China, you know, doing so well in
+open source? And should US model
+companies like OpenAI and Anthropic be
+concerned?
+&gt;&gt; Yeah. So, uh, let let's kind of tie it
+into, I think, three important things
+that we see happening. The first one
+being, you know, the Chinese and and the
+president addressed this at the AI
+summit, right? He addressed um the the
+point around using copyrighted work and
+he says, you know, he used a great
+example. If you read a book and you use
+it, you're not violating the copyright
+there. And so, he addressed that concern
+and that was one of the major things
+that, you know, a lot of people didn't
+talk about, but I think it's important
+for the model makers. And so the Chinese
+just have been able to work around that
+because of, you know, their position on
+IP. And what we're really seeing here,
+and I think, you know, Bill teed it up
+even better off off of my tweet, which
+is, um, you know, they're able to
+compound. So what you're seeing very
+quickly is both the open- source nature,
+the open weights nature, uh, allow them
+to basically compound on each other. So
+instead of working in silos and instead
+of having to create giant training
+clusters um separately they can
+basically take each other's work build
+on top of it almost consider it like a
+remix of someone's model K2 sort of a
+well-known remix of what what Deepseek
+had done and now we're starting to see
+that happen really fast and we're seeing
+two dimensions of it going quickly. One
+we're seeing the leading edge models
+getting quicker and we're then seeing
+them distill down smaller you know turbo
+models really really fast as well. There
+was a a release today of a quen you know
+30 billion parameter model which is
+performing as good as GPT40. So think
+about that right and GPT40 was you know
+world class not that long ago. So those
+are the reasons that we're really seeing
+an acceleration right now.
+&gt;&gt; You know it I want to dig into this
+model development in particular. You
+know a year ago we were talking about
+these models being these you know
+stochastic parrots um you know and we
+really had to compress the entire
+internet. So you go back to GPT4, you
+know, and and and you're compressing,
+you know, the entire internet. But now
+we really don't need to do it because
+we've trained them to use tools like the
+internet, right? The they're true
+reasoning engines. When I ask a question
+today, you know, it doesn't just spit
+out an answer immediately. It goes and
+uses the tool and it searches the
+internet. Um, so if you don't have to
+compress all this wikipedia information,
+I don't know, take take a subject like
+World War II, you just need to know how
+to go out and use the internet to find
+the information to summarize it in real
+time. How has that changed the pace of
+progress and the balance between open
+and closed?
+&gt;&gt; Yeah. And so it's spot on, right, Brad?
+what we see now and you see it when you
+use these reasoning models and what I
+suggest everyone do is when you're using
+a reasoning model you can usually expand
+out its thought process so when you ask
+a question it'll say oh the person is
+asking a question about this what should
+I do let me go and maybe search the
+internet let me go do a few different
+things it can have a lot of different
+tools and so the push has been towards
+you know really really strong reasoning
+models and you know we have to give
+credit there openai really started that
+with 01 that was really the first
+reasoning model that was put out there
+but I think on the back of the research
+church in the back of what you know
+everyone talked about and you know the
+pod's good friend Nome Brown was the
+leader on that program everyone's been
+able to look at that and say let's
+reframe the problem and this allows us
+to build stronger reasoning models that
+don't have to compress like you said all
+the internet's information and once
+they're coupled with strong tools you
+start getting these really really
+incredible results that don't even just
+show up in benchmarks because none of
+the benchmarks really allow you to use a
+tool to answer the results and if they
+did we're going to see a whole bunch of
+new set of results that happened there.
+&gt;&gt; Hey Bill, just in many ways I think this
+validates what you were arguing over the
+last 6 to 12 months. You said this was
+likely to happen. Everybody knows you're
+you're one of the biggest proponents of
+open source in the world. Um and you
+were telling people don't make you know
+the Chinese are going to use open source
+to their advantage and now we're seeing
+that in a really profound way. Why is
+China so successful here and what we
+what what what can we learn from them?
+Well, I we've talked about it in the
+past. I won't dwell on it, but China got
+excited about open source about 20 years
+ago. It's not a new thing that's
+happened. And you can imagine when um
+most of the world accuses you of IP
+theft that that embracing something like
+Linux and all the other software open
+source products um seems very appealing,
+right? And so I think it became kind of
+a common way of operating within China.
+Um and it, you know, it's a country that
+hasn't prioritized uh IP protection the
+way we have, you know, around patents.
+And I I could make an argument that, you
+know, there's way more prosperity if
+ideas are shared instead of instead of
+protected. But um I don't know the one
+thing I don't know is in the in the
+current AI situation you know was the
+government promoting open source and
+encouraging it or did it just develop
+through competitive forces right
+&gt;&gt; but but now you have you know a scenario
+where these companies you know are you
+know are first of all there's new ones
+popping up and so you know I almost feel
+like an idiot when when Kimmy comes out
+and moonshot and and and And this week,
+I guess I don't even know how to
+pronounce it. Zippu, you know, releases
+a model and I go on Pitchbook and I look
+it up and they've already raised $1.4
+billion. So, shouldn't have been a
+secret, but I didn't know about it, you
+know. Um, and all of a sudden they're in
+the leader tables on Open Router and
+like, oh my god, you know, they're
+coming out of everywhere. Um, and what
+it shows you is just that when you have
+a competitive dynamic where every single
+player, and I think there may be seven
+or eight deep pocketed players with open
+models in China, they they all learn
+from each other extremely fast. And and
+in this case, unlike software, you can
+use one model to distill the other and
+make it better. So, it's almost like a
+accelerated, you know, form of that and
+you just get massive quick co-evolution.
+And I I came up with a a uh a little
+analogy for people. I'll try and do it
+quickly, but imagine you had two
+communities. They're both farming
+communities and and let's say there's 10
+to 20 farms in each. And in one
+community, they come into the farmers
+market once a week and they just compete
+by selling their products, but then they
+go back. in the other community when
+they come into farmers market they also
+in addition to competing and selling
+they they they're forced I don't know
+who would force them but they're forced
+to share all their best practices from
+that week
+&gt;&gt; with everybody and everyone does it and
+everyone shares their best practices and
+then if you ran that exercise over two
+years or whatever obviously the
+community where the best practices are
+shared across all farms is going to have
+a higher global output for the community
+than the one where you've just got
+proprietary ideas uh driving you know
+the individ and and just competition
+without the idea sharing and that may
+like even me saying that may cause some
+people to scream that's socialism or
+like you know they may not understand
+open source or how it works or why um
+but but I do think you end up with a
+higher fitness level for a community
+that's behaving that way overall you may
+end up with a lot less chance of a
+breakout monopolist
+like we've had in many of the the
+sectors in in American technology.
+&gt;&gt; Well, I mean, let's let's just assume
+the Chinese government is in fact
+encouraging this in whatever ways,
+right? I mean, if you look at the
+release of the AI action plan last week,
+the Trump administration, you know, had
+a section
+&gt;&gt; they did
+&gt;&gt; which which is about encouraging
+open-source and open weight models in
+the US
+&gt;&gt; saying that these could become standards
+in some businesses and academic
+workloads. And it's important they're
+built on the American AI stack. So, you
+know, as an aside, the Chinese quickly
+followed uh, you know, the the American
+AI plan. I think they released theirs a
+couple days later where they called for
+the establishment of a global AI
+cooperation organization,
+&gt;&gt; which I thought again is is is is
+interesting. So, you know, Bill, how do
+you feel about, you know, like we we we
+haven't seen that much traction in the
+US labs uh on open source? Obviously,
+Llama has been probably the market
+leader there, but this is for both of
+you. Uh, you know, handicap for me if
+you will, how you think this plays out.
+First, Sunny, maybe you start. What do
+you see at Grock? Do you see a lot of
+demand for these Chinese open-source
+models? And if so, what would it take
+for an American open- source model to
+catch up?
+&gt;&gt; Yeah, one of the uh things that we
+should pull up is the chart of
+intelligence to price. And one of the
+things that you see with the leading
+open source models now, which are the
+Chinese, is 90% of the quality in terms
+of intelligence, but at a 90% price
+discount. And I think whenever you offer
+that to anybody, you're going to see
+people want to use that, whether it's
+individual developers or enterprises.
+And so we're seeing that
+&gt;&gt; let me interrupt there real quick. So if
+you're looking at this chart, right, in
+the top right of that chart, uh you'll
+see a cluster of these Chinese open-
+source companies, right? And the
+vertical axes here being really
+intelligence, the horizontal axes from
+left to right being the cost per million
+tokens. And so you really want to be in
+the top right of of of that model. High
+intelligence, low cost. And what this
+model what what this uh uh chart shows
+is that you you know to Sunny's point
+you can get 90% of the intelligence
+right for 10 or 20% of the cost. And the
+result I assume Sunny is that you're
+seeing huge demand at Grock and in Saudi
+Arabia where you are right now for these
+Chinese open source models.
+&gt;&gt; We are. And then now just taking that
+forward. What do people want? They want
+some accountability. And that's what
+you'll get. That's what you sort of got
+out of Linux and say Red Hat, right? As
+as great as Linux was and Bill was
+touching on it, the majority of the
+enterprise was using, you know, a
+distribution which they could go and,
+you know, point to someone if they
+needed something. And so I think the
+world wants models that they can get
+from companies that they can go to. And
+so to answer your question, what
+happens? I think if we look at Q4 this
+year or Q1 next year, I'd be willing to
+say, you know, the a top three worldwide
+model will be a US-based open source
+model. And you know, we've got two big
+efforts happening there. We know we have
+the open AI open source which you know a
+lot of people have been working on and
+open AAI and even you know Sam has
+commented on that and its release later
+this summer and then we have all the
+efforts by meta and if you take you you
+combine both of those things together I
+don't think you end up with something
+that ends up further down the the list
+in terms of intelligence andor price.
+I um one thing I wanted to highlight
+about the China situation that I think
+might inform the US situation. I was um
+I was having a conversation with this
+extremely young AI uh entrepreneur that
+I know and he he he was pouring over the
+the Zippu I hope I'm pronouncing that
+right paper and um he asked me some
+information. I went on Pitchbook and
+sent it to him who had funded it. And he
+he he he asked me, he says, "Why is
+Alibaba funding all these things when
+they've got their own model?" And
+because they're in several of the other
+competitive plays and it reminded me of,
+you know, a lot of the the the points
+that I've made about open source is like
+if you're not if you if you're not
+confident you're going to win on
+offense, you want to play defense. And
+so for any large tech company,
+commoditizing a a potential threat is is
+actually quite valuable. You know, you
+look at what Facebook did with the open
+compute initiative inside of their data
+centers. And so, you know, it may just
+be very well be that that Alibaba just
+wants to make sure there's no bite
+dance, you know, that equivalent in the
+eye space. And that would be pretty
+rational. And the reason I think that's
+an interesting data point when you think
+about the US and you know there there
+are several big tech companies that seem
+to be not on the bleeding edge of AI.
+You know you got Microsoft maybe I mean
+they have access to open AI right now
+but they might lose that or whatever.
+&gt;&gt; You've got um Amazon, you got Apple. you
+know, if I'm at any of those companies,
+I'd be funding a open-source competitor,
+you know, rather than funding, you know,
+like Amazon with Antropic. I think
+you're in a much better position to
+encourage open source. And so, I
+actually think we may
+&gt;&gt; But Bill, are there are there are there
+a bunch of open source startup models in
+the US?
+&gt;&gt; That's where that's where I was going
+next. I I think you're going to see new
+entrance um pop up um that that that try
+to co-evolve with the Chinese models.
+You know, is Linux American? Is Linux
+Chinese? Like no one thinks of it as
+having a a doicile, right? And so um
+this is just me predicting. I don't you
+know I I just think you're going to see
+just like you saw um Kimmy and and Japu
+pop up. I wouldn't be shocked if you see
+other new entrance pop up that are
+trying to be um like sanctioned or or or
+you know cleaned you know use Redhead as
+an example Sunny version of these things
+because I think if you start with access
+to those Chinese models it wouldn't take
+you long to move into a near place and
+you wouldn't have to spend the kind of
+money the foundational model companies
+have. Um, and and then you may see a big
+fight around regulatory capture where
+they someone tries to say that's not
+allowed or whatnot. But I I do expect to
+see that. And if I'm the mistrol team,
+if you're not distilling on these
+Chinese models, I don't know what you're
+doing right now,
+but I don't have any data on that front.
+&gt;&gt; OpenAI is rumored to be launching their
+open source model any day. Sunny, what
+would they have to do? So to your point,
+you predicted, go back to the
+intelligence and pricing chart, right?
+So if open AI was in the top right of
+that chart, i.e. if they're able to
+deliver something at the the
+intelligence of let's call it Quen, and
+they're also able to deliver it to
+market at, you know, 20% of the cost. It
+would seem to me that actors around the
+world certainly actor it would be uh you
+know part of the American AI action plan
+we'd want everybody in the world to use
+that model and do you believe they have
+a shot at out competing being the upper
+right you know by the end of the year
+and and and if so do you think that will
+be the outcome like these companies that
+are using Quen on Grock do you think
+they would prefer to use OpenAI so long
+as it was equally capable and equally
+price performant
+So two things that we see is brand and
+you know the US doiciled or you know
+someone that they can kind of point at
+that wins and so if that shows up it
+will win because if you're a company
+&gt;&gt; and you know at some point you have to
+you know get your teams to sign off on
+what is it that you're using what are
+the risks associated with it and like
+you know who is liable if something goes
+wrong and so I sort of feel like um with
+OpenAI's release and if you know Meta
+charges back or even if some of these
+startups emerge that you know we can
+point at I think we'll see a huge shift
+back towards those models versus versus
+the Chinese ones.
+&gt;&gt; Yep. And we really don't know at this
+point unless you guys have some inside
+knowledge like when when Meta makes
+their second push with all these hires
+that they've made are they are they
+going to remain committed to open source
+or even be more open? We don't we really
+don't know yet at this point.
+&gt;&gt; Right. You certainly seen some of those
+rumors out there. Um you know, I've seen
+rumors that on Twitter that they were
+debating whether or not they should back
+away from open source. Um my hunch is
+that that's a misread. My hunch is that
+they're going to stay very committed to
+open source, but they may complement it
+with a proprietary model. That would be
+my guess. As opposed to scrapping
+open-source alto together. And Brad, can
+I throw one thing out there? I think
+part of the pitch to get everyone there
+is that it's open
+&gt;&gt; because everyone that they're pulling
+over are coming from closed places. And
+so if you're really passionate about the
+work you're doing and you're passionate
+about where this is going to come and
+there's only there's only one company
+that can fund that to that scale and do
+it open is is those guys. So I think
+it's part of the pitch.
+&gt;&gt; Yeah. Some of some of the researchers
+like have a religious belief in it which
+was evident in the in the interview with
+the Deep Seek founder like it's it's
+oddly like higher on their Maslov you
+know hierarchy than the money.
+&gt;&gt; Of course they're getting the money.
+&gt;&gt; Of course it's both. This is I I I think
+a really important point I want to come
+back to Sunny is that you're seeing
+massive demand for these Chinese
+open-source models today precisely
+because
+enterprises around the world can utilize
+them. They have 90% of the capabilities
+at 20% of the cost. 10 or 20% of the
+cost, you know. So it turns out if you
+deliver something really powerful and
+really cheap that's more important to
+these players than American values
+aligned. But if you gave them something
+that was super powerful and super cheap
+and aligned with Western values, right,
+that you think that would be uh the
+winning formula for an American OpenAI
+model to top the uh uh the distribution
+leaderboards around the world. Is that
+what I'm I think yeah on a place like
+open router you know where you can see
+where this is happening I see we we
+would see it rise to the top in a few
+days
+&gt;&gt; u that's music to David Sax's ears
+because you know clearly in the
+strategic plan they're worried about
+Chinese open- source models dominating
+uh globally and we're we're if you just
+watch the pace of releases the quality
+of the releases out of China the cycle
+time on the innovation in the open
+source community out of China. It's
+faster and better at the moment. So, and
+the only real big development, you know,
+we may see some of these new startups,
+Bill, Bill, we may see a reboot out of
+meta, but the the one that has, I think,
+everybody really holding their breath
+and hoping that we see something really
+capable and powerful uh is this open
+source model that's been promised out of
+open AI. Now, of course, Elon says he's
+committed to open source as well. Gro 4
+is a great model is impressive what they
+uh what they put out there. Any idea uh
+Sunny about the open source plans out of
+out of uh X?
+&gt;&gt; Yeah. So I think like Elon's been you
+know pretty said it on Twitter that
+they'll always open source one
+generation back and so while they were
+on three you know they should have
+gotten to two and now they're on four.
+So I think the the thinking is that they
+will get there. You know, my my only
+guess would be is that um you know,
+right now if they were to open source
+two or even three, it's so far behind
+that um you know, what's what's the
+purpose in doing it? It may not even be
+utilized and you'll maybe end up having
+to deal with just, you know, a bunch of
+internet or Twitter FUD. Just coming
+back to open AI, I I will tell you it's
+like one of those things that really you
+rarely see in the enterprise. It's
+almost like the demand for like a, you
+know, like a Tesla Roadster or something
+or or Model Y before it came out.
+Everybody asked for it. It's like that's
+the model that everybody wants to use
+right now. And so, you know, we can't
+wait till it it comes live and and it it
+it you know, one it's on Grock, one it's
+all over the world. I think it's going
+to be a real big one for everyone.
+&gt;&gt; While while we have you, Sunonny, um you
+know, there's really just been this
+explo explosion in the compute arms
+race, right? Um there was a big debate
+you were on the pod a year ago. We had
+with Bill, you know, had we topped out
+on compute demand, you know, were we
+entering an overbuild all Cisco 2000? Um
+and it's really been remarkable. I think
+now that's very clear. But just a couple
+tweets out of Elon and Sam Alman the
+last couple weeks on this compute demand
+has have really caught my attention. If
+you look at this one out of Elon talking
+about the X.AI AI goal is 50 million in
+units of H100 equivalent. And Clark Tang
+on my team tweeted something that broke
+that down. Um, which showed that that
+reflected something like, you know, 4
+million total GPUs and an energy
+footprint of like 11 gawatt, right? And
+then Sam Hoffman comes out and and and
+talks about their deal down in Abalene
+for 4.5 gawatt and the fact that they
+were going to come in well above the
+$500 billion estimate that they had
+promised to the government. So these
+compute clusters now that are being
+talked about being built over the next 5
+years, these are massively bigger than
+what we were even talking about a year
+ago. And I think they reflect this move
+toward inference time re reasoning
+agentto agent interaction reasoning
+engines you know Jensen's comment on the
+pod last year that inference was going
+to 1 billionx and the consequence you
+know what we were going to need in terms
+of compute power to power all that. Um
+maybe just reflect you're in the middle
+of all this you're building out your own
+inference clouds around the world. Um,
+is this a lot of hyperbole and chest
+pounding or do you actually see uh the
+dollars going into the ground in places
+like Saudi Arabia and around the US?
+&gt;&gt; Yeah, I'm going to I'm going to just
+quantify it with uh with Google for a
+second.
+&gt;&gt; So, you know, in the in in in the um in
+the Mary Maker bond deck, you know, they
+have a slide there that shows Google
+went from 5 trillion tokens a month to
+480 trillion tokens a month. And they
+had just put some press out that they
+crossed like, you know, 800 trillion.
+And I saw something today. They crossed
+a quadrillion. And I had to look that
+up. That's a,000 trillion. And so in a
+in a course of a year and a few months,
+they've gone from 5 trillion to a,000
+trillion. So that's 200x right there. I
+mean, that just shows it to you. Um,
+without having to look at anything else.
+&gt;&gt; Uh, the amount
+&gt;&gt; every single search query on the planet
+today is now an inference transaction.
+Correct. And so um you know and you see
+it uh you know in anthropic uh with you
+know their continued fundraisers going
+you know through the roof uh that's
+happening because they're they're seeing
+the amount of token consumption. And so
+anywhere we lay infrastructure um we
+fire up a rack it becomes fully consumed
+within a few hours.
+&gt;&gt; You're talking Grock.
+&gt;&gt; So you have demand far outstripping
+supply even at Grock. Yep, we do.
+&gt;&gt; So, Bill, you see these fundraising
+announcements that are being discussed.
+Just CNBC's reporting tonight. I think
+that Iconic is going to lead a $5
+billion round into Anthropic at 170
+billion. In the case of Anthropic, it's,
+you know, uh 170 billion on rumored $5
+billion in revenue. X has been rumored
+to be raising at 150 to$200 billion. So,
+you know, you've never in the history of
+venture, you've never seen fundraisers
+like this. One of the topics that is
+being hotly debated on on the Twitter,
+uh, is that there's massive intervening
+delilution in these rounds, Bill,
+because of the employee option grants or
+the employee RSUs that are needing to be
+granted to keep the employees uh, you
+know, uh, in these businesses. So just
+observing this a little bit from afar. I
+don't think you guys you're a direct
+investor in in any of these uh major
+labs.
+What what do you see? What do you
+observe? What are your warning signs uh
+you know about the size and and the
+demand that you see in these rounds?
+&gt;&gt; Well, I yeah, I've never seen anything
+like it. I mean, I saw you know, through
+the Uber andyft situation, I saw a
+precursor to this, but this these these
+dollars are even bigger. and the amount
+of money that these companies are
+willing to lose in a year. You know,
+it's I still think it's particularly
+interesting that Google has to compete
+with Open AI because OpenAI is going to
+lose 7 billion this year and Google
+won't like like they would never allow
+themselves to do that. And and this
+started back in that previous era where
+where for the first time ever you saw
+private companies have a competitive
+advantage and that they can be more
+risk-seeking with capital than the
+public companies are allowed to be.
+&gt;&gt; Um
+&gt;&gt; but I think in the past 12 months we I
+we've seen um OpenAI Meta and certainly
+X you know move into this place. I call
+them I call them the cost is no object
+the CNO group um where they're just
+they're just putting out press release
+after press release and opening data
+center after data center and you know we
+there there are other people I think you
+know you look at Microsoft you know
+choosing not to extend their capex
+budget you look at that Amazon example
+when we spoke to the the Levant brothers
+at codeu where they're they're not
+keeping up with the the Nvidia purchases
+relative to their AWS share. And so
+there are a few companies that are back
+on their feet and there's a few
+companies that are really pushing the
+gas pedal. And I can't there's a few in
+the middle. I can't tell um whether
+Anthropic has the uh audacity and the
+means to raise enough money to to start
+building data centers themselves. They
+haven't so far. Um but it's uh you know
+it's a sport of kings, you know. It's it
+is a sport of kings like there is um
+never been this amount of money spent
+right now. Nvidia and others building in
+the stack like like uh Dell that we we
+spoke to a few weeks ago like they're
+the winners um in a pick and shovel game
+that's got this amount of
+aggressiveness. It's uh and maybe maybe
+SK Heinik too. I don't know.
+Sunny, Sunny, do you see um you know
+going back to the well-worn cliche that
+every glut or that every shortage
+ultimately ends in a glut? Um do you
+have any evidence on the horizon where
+you see uh uh supply outstripping
+demand?
+&gt;&gt; No. I mean I I was going to ask this to
+Bill as he was just saying it. Bill,
+like on a daily basis, are you consuming
+more tokens or are you consuming more,
+you know, just traditional um you know,
+web lookups, right? And I'd be willing
+to guess you're consuming more tokens.
+&gt;&gt; Oh, it's insane.
+&gt;&gt; And and and tokens are are increasing
+like when you're using those reasoning
+models, you don't see all the tokens,
+right? They don't publish it, but
+there's Right. This is where totally
+Yeah. 10 to 100x more than the your very
+first AI search. Yeah, for sure.
+Absolutely. The one thing the one thing
+I will So you're right. I I'm doing
+&gt;&gt; Go ahead. You finish.
+&gt;&gt; No, no, no, no, no. And I just wanted to
+say even yesterday, Anthropic had to put
+this uh you know, press release plus,
+you know, product change out saying,
+"Hey, we've got to throttle everybody,
+right?" And this is like cuz we have all
+these people using way too much of our
+our services. So I think you know if you
+have intelligent models right and you
+have the capacity for it it's one of
+those things people are consuming Jven's
+paradox or whatever. Yeah. Sorry. Go
+ahead, Bill. You're
+&gt;&gt; No, I was just going to offer one caveat
+to to this uh super uh exciting line of
+of of thought, which is because of the
+amount of venture capital out there. Um
+companies are not pricing the cost like
+no one no one none of the model
+companies I don't think anyone even in
+the verticals like no one's pricing the
+cost because they're pricing to take
+market share. And you know, you and I,
+Sunny, we had a previous discussion
+about the unlimited pricing and
+inference has variable costs. So, is
+that even sustainable, right? And and
+even when people say to me, "Oh, well,
+we're going to run out of power." You
+wouldn't run out of power if you just
+took the price up. Like, like the thing
+that throttles demand is price, but no
+one here is raising price. Like
+Anthropic doesn't need to throttle. They
+just raise price, but they're not
+willing to do that because they're
+afraid to lose share. And so everyone's
+pricing to share. That means they're
+pricing under cost. There's rumors of
+even some of the best known brands in AI
+having negative gross margin. And so I
+don't know when that settles out, but
+that there that will create a bump in
+the supply demand curve if that ever has
+to be, you know, fixed. Um but for now
+it doesn't
+&gt;&gt; because because
+&gt;&gt; Can I ask a question there?
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. No, no. which is going back to the
+point that we made on open source, but
+if you know in the back of your mind
+that there's something that's 90% as
+good, but it's 90% cheaper. How does
+that factor in because we've also never
+had that that factor as we're going
+through this growth curve. I mean since
+almost since we started the pod you know
+I've I've routinely highlighted that the
+steepness of that price curve on you
+know as you as it kind of becomes you
+know less less cutting edge is something
+I've never seen before. I've never ever
+seen it. And I'm sure that a lot of um
+people sit around and say, well, it's
+okay if I'm losing money here because,
+you know, six months from now, I'll just
+use the older model. And we also talked
+in the past about how in the internet
+age all the startups began with Oracle
+and Sun and eventually they all moved to
+Linux and MySQL. And so there was a
+there was a we got to win at all cost
+phase and then there was a phase where
+you started worrying about cost and
+optimization. And so one day, one day
+we'll likely, you know, make that make
+that move. And and and I a few of the
+companies I've talked to that are
+running inference at scale, they are
+already starting to think that way. Like
+they're looking right they're looking at
+it, you know, from that from that lens.
+But I but
+&gt;&gt; well and and I think that's why Grock
+and Cerebras are doing so well. But
+Sunny, give us give give us an, you
+know, an an example. I would imagine
+that the wind surfs of the world and the
+cursors of the world and all these folks
+who are building these you know these
+coding agents they've got massive you
+know demand for their applications right
+but they're paying through the nose to
+anthropic or to these underlying
+proprietary model providers to be able
+to do that so what's the dynamic that
+you see there do you see them running to
+implement Quinn or some of these cheaper
+models
+&gt;&gt; yeah without kind of getting into
+specific any one of them, but like you
+know multiple folks are building their
+own models uh based off open source and
+&gt;&gt; right so they could just go distill any
+one of these models.
+&gt;&gt; Correct.
+&gt;&gt; Right. And you know given that they're
+these very uh lenient Apache licenses
+and eliminate the entire cost of sonnet
+that sits under it for 70% of use cases.
+&gt;&gt; Yeah. And and like Bill said, turn that
+into a premium offering, right? and say
+that's the you know the gold and you
+know the silver and the bronze are built
+off uh you know something that's like I
+said oneten the price
+&gt;&gt; that seems to me Bill you know if if I
+had to forecast
+you know if I'm open AI I'm running a
+consumer business with really high gross
+margins right because consumers are uh
+uh less sensitive to what they're paying
+their their their their intensity of use
+is lower. Whereas when if if somebody's
+writing code, you know, there's the
+variable intensity is high. And so, you
+know, for them, it would make sense to
+launch an open source model back to
+where we started the pod and price it
+really low to, you know, drive share
+knowing, you know, it reminds me a
+little bit of Amazon back in the day.
+Amazon had this monopoly retail business
+they could use to subsidize AWS gain
+share for a decade and then begin to
+take price. That would be a rational
+strategy for open AI to follow. So you
+take the profitable consumer business
+you use it to subsidize you know the the
+the market share in other applications
+that you hope to build.
+&gt;&gt; Certainly a reasonable strategy. I I I I
+I'm not inside that company. you have
+way more knowledge than I do, but um you
+know, I pay the $200 a month and I do
+every one of my searches on four or five
+and I'm probably I'm probably negative,
+I would think. Yeah.
+&gt;&gt; And so I do think there'll be some
+rationalization where these models um
+kind of self-pick which one they're
+running based on what you need. I
+probably don't need to be using
+&gt;&gt; and move to more of a consumption logic.
+Yeah,
+&gt;&gt; move more to more of a consumption
+logic. they're already uh they're
+already doing that in in parts of their
+enterprise business. Um and and you
+know, as they've transitioned to more of
+this consumption logic, I think it's led
+to some real unlocks. Uh you you know,
+for the business, I think it that makes
+it harder if you're in the the lab game
+and you don't have a consumer product
+and you don't own an application that
+you can drive high gross margins. I
+think then gets back to this question,
+how long can you run the your business
+for share, right? Hoping that someday
+because you know they all exist at the
+beneficence of the capital markets and
+the capital markets are willing to
+provide an incredible amount of capital
+to these businesses today. They sure
+are.
+&gt;&gt; Um but but but you and I have we've
+lived through these periods where that
+disappears quickly. And can I can I put
+something there just to kind of hear
+your feedback on it guys which is look
+at Google and the TPU and Google is
+clearly you know by these numbers that
+we're seeing right putting out more
+tokens than anyone else right do they do
+you guys believe they have a strategic
+advantage because they have their own
+hardware they're not having to pay you
+know 80% margin on something that they
+can generate tokens with like how do you
+guys look at that business and say
+clearly they look to be sort of the
+largest at least openly saying um the
+largest processor of tokens. I think
+look the key data point in that case
+which I don't have the data but I'd be
+glad to repeat it if someone shared it
+with us is how many non-G Google uh
+applications are running on the TPUs
+like how many third party customers are
+using because I what I've heard or what
+the you know the general perception is
+is that that most of their proprietary
+TPU transactions are their own
+applications.
+&gt;&gt; Yep. But that's probably where most of
+their tokens are being processed anyways
+at this point, Bill, right? Like
+transcribing YouTube videos and you know
+all in Google Meet you can turn it on
+and all the searches.
+&gt;&gt; I I was just inferring in your question,
+maybe I shouldn't have been that that
+they'll have an advantage for Google
+Cloud. And in in order for that to be
+true, they need to to have this
+crossover moment. One quick thing, Brad,
+on on Open AI, you know, I'm I've I've
+been writing a book, which I've talked
+about frequently, and I've been quite uh
+although I guess there's some privacy
+things now you need to be worried about,
+but I've been quite open with Open AI
+about the book and doing research, you
+know, along the way. it knows a
+tremendous amount about my book right
+now and I can ask follow-up questions
+without having to put the whole book
+back in the prompt again um because of
+that. And so I can I would I continue to
+believe that OpenAI's
+um most likely chance to long-term um
+success comes from switching cost and
+lock in more than it will come from
+staying on the edge of the of the model
+race because I think
+&gt;&gt; and the pricing and the pricing power
+that comes with that brand dominance,
+right? No doubt.
+&gt;&gt; Because the the fact of the matter is
+you said you're paying 200 bucks, you're
+getting more than $200 in value. I don't
+know what the price is, but I know that
+if it was variable, you would pay a hell
+of a lot more money to use that service.
+&gt;&gt; I would I would but but but the the the
+lock in once of these systems starts to
+truly understand you and have all your
+historic knowledge um I think the
+switching cost will be very high at that
+moment in time.
+&gt;&gt; Sunonny, back to your question about the
+TPU and the advantage of that vertical
+integration um you know to to Google. I
+think it's it's it's too early to know.
+What I would tell you is that uh they
+they've absolutely made some changes I
+think over the course of the last you
+know 3 to four months to accelerate the
+business. You you've seen the news about
+OpenAI uh leveraging TPUs for some of
+the inference uh you know uh demand that
+that they have. Um ultimately what I've
+said all along about Google is there
+many ways the best position company in
+the world but a lot of their advantage
+right is no longer much of an advantage
+right and namely that you know they were
+the dominant place where the consumer
+started every single query and we know
+today that's just not true in you know
+when people are looking for answers
+Bill's book is not in Google bill's book
+is in you know chat GBT and that's the
+&gt;&gt; actually it's in Google doc but but
+you're right you're Right. The knowledge
+of it, the knowledge of it,
+&gt;&gt; the knowledge of it and the interaction
+and the the token generation. So my only
+point is this,
+&gt;&gt; the battle for the consumer is
+ultimately where the value occurs,
+Sunny, not who runs, you know, what
+hardware. And so Google's dominance, the
+it's been the greatest b business in the
+history of capitalism for 20 years
+because they owned the consumer. They
+owned the verb in something that was
+extraordinarily high margin. And all I
+would say is the first real threat in 20
+years came about because in the chat GBT
+moment it's continued to accelerate. I
+think chat GBT will cross a billion
+weeklys
+like maybe this year. Um you know
+probably this year I would guess. Um,
+and so that to me has always been the
+case, right, for open AI. And when you
+look at the rest of these frontier labs,
+the case you've made throughout this
+pod, about seven of these models in in
+in in China, being able to open source,
+distill off one another, drive up
+intelligence, drive down cost. What that
+tells me is the model layer is being
+increasingly commoditized
+and that there's not going to be a lot
+of intrinsic value in in in that
+intelligence layer, that operating
+layer. You're going to have to build
+applications that guys like Bill Gurley
+and and you and I are using every day.
+And that's where the battle is on the
+consumer side. You're going to have the
+exact same battle when it comes to
+coding agents and general enterprise
+applications. And I've said there, I
+think it's going to be more of a uh uh
+you know, heterogeneous world. I think
+they're going to be lots of players that
+compete. I think the margins will be
+lower. Yeah.
+&gt;&gt; Uh in that world, but it may very well
+be that the tide is going up so much
+here, right? The whole world is
+transforming so much around this that
+you're still going to have lots of
+players who do incredibly well. I have
+to say I'm surprised if you would have
+told any of us a year ago or 18 months
+ago, right, that the combined enterprise
+value of Open AI and Anthropic together
+would be over half a trillion dollars.
+And you throw X.AI in there, it' be a
+trillion dollars, you know, across the
+the three of them roughly. um it's
+bigger and faster and the compute demand
+is higher than any of us I think
+anticipated. Sunny, hopefully we can
+keep you on here for a bit. We're just
+going to wrap up with a um you know a
+topic that I think has dominated really
+the conversation in the markets over the
+course of last year and that's been
+about tariffs and kind of the reordering
+of global trade. Bill, you I know you
+had some some questions, some thoughts
+about it and I'm I'm happy to dig in and
+talk about it as well. Well, I mean, I
+would I would really just love to hear
+from you, Brad. the the the markets got
+very nervous when the um what was it
+liberation day when when the kind of
+unpredictabilility
+of how big some of the numbers were and
+what that might mean and whether we were
+walking away from the notion of
+comparative advantage and and I think
+the markets got spooked and you know I
+think you turn around and look at where
+the markets are today and and we've
+really gone through an evolution of how
+the Wall Street is interpreting the both
+the initial um launch of the tariffs and
+the reality of where they're landing.
+So, how would you how would you describe
+that? And and why do you think the
+markets are getting um very comfortable
+with the where where they're landing? I
+mean, not only comfortable, we're at
+all-time highs,
+&gt;&gt; you know, and and April 2nd, I was uh
+going, you know, on CNBC saying the
+nuclear Navaro was going to be a
+disaster and I'm out, right? And that's
+this the the the amazing thing about
+this administration is there's really uh
+you know it's a team of rivals within
+the White House and you had Besset and
+Lutnik who were basically outlining this
+plan for you know let's call it 10 to 15
+to 20% tariffs across the board that
+would amount to about 300 billion in
+total tariffs up from 75 billion uh in
+2024. But you had Navaro who was
+basically saying we're going to replace
+the Internal Revenue Service. We're
+going to get rid of the income tax and
+we're going to have two trillion of
+tariffs. Okay? And I was very clear and
+I think the market was very clear. We
+all voted with our wallets and we said
+until the president tells us whether
+it's door one or door two, we're out.
+&gt;&gt; The market shot first and asked
+questions later. And that's where you
+saw that huge draw down in the market.
+The NASDAQ was down 21%
+right at its trough this year. Now the
+NASDAQ's up over 10. It's a 30% move in
+about 60 or 70 days, which is
+extraordinary even by the historical
+patterns that we've seen over the course
+of the last 5 years. But let me back up
+here for a second.
+&gt;&gt; I think the consensus view of all
+economists, right, 90% of economists is
+that tariffs are going to be bad.
+They're going to be a tax that gets paid
+by the US consumer. There was a small
+group led by you know Scott Bessant and
+Kevin Hassid at the National Economic
+Council that said no it's actually going
+to be different this time and the reason
+it's going to be different this time is
+their theory uh argued was that the
+world had become dependent upon
+exporting to the United States so that
+the total trade deficit to the United
+States of goods and services was about
+915 billion last last year a $1.2 2
+trillion goods deficit
+and that basically meant that China was
+selling a lot more to the United States
+than than they were buying of US goods
+and and so what Bessant and Hasset
+postulated was that these countries have
+no choice if we impose a tariff on them
+so long as it's not draconian 70% 80%
+what Navaro was talking about if we
+impose a 15% tariff on them they have to
+eat it the producers have to eat it
+because otherwise they're going end up
+laying off millions of people in
+Vietnam, in China, in these countries.
+And politically, they can't afford to
+lay these folks off. So that was their
+theory of the case. The consensus
+economist said, "No way is that true.
+You're going to see massive inflation."
+But what have you seen? You have not
+seen the in the the inflation percolate
+through. I will caveat this by saying
+yet.
+&gt;&gt; Okay. So here we are in July. The e the
+consensus economist said it would have
+already happened and the national
+economic council was out with a paper
+last week that deconstructed core PCE.
+So that's the uh uh uh what the the best
+proxy the Fed watches for inflation
+since the start of the year. And it
+showed this was really interesting.
+Import prices have been going up at a
+slower rate than domestically produced
+goods. Okay, so this is the exact
+opposite of what you would have expected
+from tariffs. Of course, you would have
+expected the imported prices would have
+been going up more than domestic uh
+goods. And so we'll show these charts um
+and we'll we'll put the link to this
+paper. People ought to take a look at
+that. But to me, um, when I look at the
+president's, uh, the deals he's landing,
+the deal he just got announced yesterday
+with the European Union, 15% on all
+goods coming from Europe, 0% on US goods
+going to Europe. So, an opening up of
+Europe markets, paying us 15% and on top
+of that getting commitments like $750
+billion, almost a trillion dollars of
+energy purchases from the US. Or look at
+Japan, which they announced last week.
+Another huge market. Again, similar.
+They're going to pay tariffs to the
+United States. No tariffs imposed on the
+United States. And they're going to
+invest $550 billion into the US in a way
+the president gets to direct. So, I
+would I would I just think we need to
+give the president credit where credit
+is due. Everybody said this was going to
+lead to retaliation, to trade wars, was
+going to be disastrous for the US. And
+all we've seen so far is deals, deals,
+deals, deals. And I have to say, if this
+was the CEO of one of our companies,
+right? Let's say we had a board meeting
+at the start of the year and he outlined
+these plans and we said, "Hey, we're
+really nervous about this. You know,
+this is a high-risk, highreward
+strategy. it's either going to backfire
+and we're going to fire you or it's
+going to work really well and we give
+you a bonus. If we're measuring them
+halfway through the year, I would say
+that he's in line for a bonus based upon
+the trillions of dollars that are going
+to be coming into the United States and
+the fact that we now have a 300 to a
+$350 billion recurring,
+you know, stream of revenues into
+Treasury in the form of these tariffs
+which are being paid. and and and I
+think Bessant said last week in the
+month of June we had our first surplus
+in the United States monthly surplus
+since 2015
+&gt;&gt; right because of the tariff revenues
+that are coming in. So I will say this I
+was on the fence I knew the nuclear
+tariffs the trillion or two trillion I
+knew that was a disaster. I said if we
+landed the plane where Bessant wanted to
+come in at 300 billion, I thought there
+was a decent chance that those prices
+could be passed on in the home countries
+and so far it looks like that's the
+case.
+&gt;&gt; Do you have any concerns? What's the uh
+anything you're watching out for?
+Well, I think the the number one thing
+is core PCE h did bottom last year and
+it started to tick up and so we have to
+keep our eye on inflation. And of
+course, I think it's almost impossible
+to conceive that we would have totally
+reordered the entire global trading
+system on the first pass with zero
+mistakes. So, we're going to have some
+some goods and some products that, you
+know, consumers are US consumers are
+going to end up paying the taxes and
+we're going to have to go back and fix
+some of these things. But, I will say
+that it's turning out massively better
+than consensus criticisms. I mean,
+remember Larry Summers at the CO2 event.
+&gt;&gt; I mean, this was just a few months ago
+and he was saying this is the biggest
+economic disaster of of his career. And
+I I don't think you can describe it that
+way. The markets are the voting machine
+is telling you and these are a lot of
+sophisticated investors. The voting
+machine is telling you that no
+retaliations, no trade wars, all these
+deals getting done um uh works for the
+US economy. And I will tell you that the
+Atlanta now Fed tracker which tracks
+real-time GDP has now ticked up back to
+3%. So after going down a lot in April,
+it's bounced way back up. So economic
+activity uh appears to be going up. And
+then one final thing here,
+remember one of the key reasons for
+doing this, right? Wasn't just because
+we were, you know, there was I mean the
+EU conceded in the trade negotiations
+that they that our relationship was
+unfairly balanced in the direction of
+the EU. I mean they said that's the
+starting point. So we have to rebalance
+it. But on top of that, a key reason for
+doing this was to support the domestic
+production of critical national
+industries and to make our supply chains
+more resilient chips, data centers,
+energy production. At Altimter, we just
+led the series A in a company, I don't
+even know if we've announced it, but
+I'll announce it here, which is an
+all-American producer of rare earth
+magnets. Right? So these are now viable
+investments because of the tariffs and
+the resolve of the government to
+reonshore these critical supply chains.
+So I mean that's a huge benefit that you
+would be willing to pay something for
+but we're getting the benefit and on top
+of that we're getting paid.
+&gt;&gt; Yeah. Can I add one thing guys like not
+on the economic side but like you know
+running the supply chain you know Grock
+and look we're we're fortunate that like
+the majority of our supply chain is US-
+ccentric including our chips but
+&gt;&gt; um you know we still have small discreet
+components and Brad exactly what you
+were saying is happening is that the the
+producers the manufacturers of those
+things are coming and you're negotiating
+and we've had pretty you know
+significant negotiations with those
+folks and that that was I think like not
+like you said wasn't anticipated. The
+other thing is it hasn't been um static.
+The one thing again I'll go back to this
+administration they moved like we've
+we've seen you know our tariff schedule
+move around probably six to eight times
+since this all has started because they
+keep evaluating they understand they
+listen and I think that's also a
+function of how this administration
+operates and we want to give them credit
+for that like people can go and share
+with them hey like these things are not
+available we can't replace them right
+away and I think that that's also
+helping with that last thing you said
+with the investment you're making is
+companies get established
+on shore to take advantage of what these
+tariffs are causing.
+&gt;&gt; Sunny, has your supply chain planning
+and that that dynamic nature, is that
+started to settle down? Do you see this,
+you know, are we reaching the end of the
+tariff negotiation such that everything
+can kind of settle down and operate?
+&gt;&gt; It's gone from week to week or even day
+to day when it first started and trying
+to figure out what happened to like now
+we're looking at it monthly. So, it's
+definitely settling. And Brad, we still
+have a big thing looming with a China
+discussion, correct?
+&gt;&gt; Yeah. You know, listen, so we landed
+Europe, we've landed Japan, we're going
+to have, you know, the long uh the long
+list is is is going to be coming out,
+but when you look at our big trading
+part partners, the EU, we do, I think,
+$900 billion of trade with them a year.
+With China, it's about 600 billion, but
+we have about a $300 billion goods trade
+deficit with both Europe and China. So
+they were the the the two big ones. Um
+China is the big enchilada because it's
+not just trade with China, right? It's
+strategic. It's national security and
+its trade. Um and it's the AI race. We
+know that, you know, the rare earth ban
+on Chinese magnets was devastating to US
+industry. We know the retaliation that,
+you know, where where H20s were cut off
+in terms of Nvidia's chips back to
+China. reading the tea leaves. I'm going
+to I'll go out on a limb and I'll say um
+the consensus still believes like that
+the China thing is going to be a problem
+or that it will be small. I think this
+president wants to do the biggest deal
+ever done with China. I don't think he's
+dogmatic at all. I don't think he's some
+big China hawk. He said at the AI summit
+last week, I'm a deal junkie. I like to
+do deals. You can't be the biggest deal
+maker in the world without doing a big
+deal with China.
+&gt;&gt; All right.
+&gt;&gt; Right. And I and I, you know, if you
+just look at today, the Chinese uh
+reciprocated in a way I think the the US
+government was looking for. They said,
+"Hey, we'll postpone all of our
+retaliatory tariffs." They've invited
+the president to China. The president
+has suggested he's going to go to China
+the first week of September or sometime
+between September and November. I think
+there is a very very big deal that's
+going to get done with China that's
+going to reorient the relationship in a
+big way. And let me just like tease
+this. The president said earlier this
+year something that caught all of our
+attention. He said, "You know, if I
+could wave a magic wand, I would cut the
+defense budget in half for the United
+States, for China, and for Russia."
+We've never heard a US president in
+history utter anything like that.
+&gt;&gt; Be amazing. That is a what I would call
+an extraordinarily flexible mindset. And
+if you go into this deal negotiation
+with China with that sort of flexible
+mindset, I think it could include all of
+the above. Rare earth chips, maybe even
+military cooperation, certainly a
+rebalancing of trade. I think China's,
+Listen, we entered the year with China
+paying 15% in tariffs. That was
+pre-Trump. They were paying 15% to the
+United States in tariffs. So I don't
+think we're going below 15%. I think
+they're going to pay
+&gt;&gt; that in in Trump for
+&gt;&gt; Trump won and Trump won, right? So I
+think that they will continue to pay at
+least 15%, but I think it's going to be
+much more structured, much more nuanced.
+You know, Besson's been very clear China
+has to rebalance to domestic consumption
+and away from an export economy that's
+really uh sticking it to the US in terms
+of the trades def trade deficit. I think
+China gets that. I think they want that
+for their own country. I think they're
+willing to do that. I think the United
+States understands that can't happen
+overnight. It has to happen over a
+period of years. I think that there's
+going to be a big Chinese deal done
+before the year's out.
+&gt;&gt; So So let let's close with this, Brad.
+You've you've often on the pod um been
+willing to speak about your your own
+temperature for the US markets and and
+and where you whether you're net long or
+net short. and you
+&gt;&gt; you've on this podcast been more
+enthusiastic than I've ever seen you
+both about uh about AI, but but this
+this China theory that you have, I
+think, would would cause the markets to
+rip, if you're correct. Um, but you also
+said we're at all-time highs, you know,
+and so you want to buy low and sell
+high. So, where where's your head
+hanging?
+&gt;&gt; Uh, we did a pod, I think, around May
+2nd. Well, we did the pod in March and I
+I I said we're out of the market. I
+remember.
+&gt;&gt; Right. And you and you said you're early
+and liberation day came and we were
+happy to be out of the market. On May
+2nd, I said we're all we're all back in
+because the Bessant consensus has won.
+It's going to be 300 billion. We're
+going to land the plane. And I outlined
+a flight path. I said you can land the
+plane, no inflation, you get rate cuts
+and you know, and it's kind of off to
+the races. And we're up 30%, you know,
+off of that bottom in the NASDAQ since
+then. So 30%'s a huge move, but when
+when you when you telescope out, we're
+up 10% for the year.
+&gt;&gt; Okay? And if I had told you guys on day
+one of this year, here's what's going to
+happen.
+&gt;&gt; We're going to rebalance global trade
+and we're going to land the plane around
+300 billion. We're going to have the
+economy grow at 3% accelerating. We're
+going to um uh you know have no
+inflation heading toward rate cuts by
+the end of the year.
+um you know that is the backdrop you
+know that I and we're going to have all
+of this AI demand and accelerating
+demand for AI compute I I would have
+said the market can be up at least 15%
+for the year I think we've captured a
+lot of the return for the for the year
+Bill I will tell you this though we see
+tons of opportunities and so I would say
+that we're also bullish on what we see
+happening in AI Sunny's going to raise a
+huge new round here we're happy to be
+investors with Sunny as well and and
+it's extraordinary to Watch watch what
+Sunny's uh No, seriously. He
+&gt;&gt; wasn't supposed to disclose that. He can
+edit it out.
+&gt;&gt; He has He has it, but his face is
+turning all red.
+&gt;&gt; Have a good week. And
+&gt;&gt; thank you, Sunny, for coming on with us
+today. Thank you so much. I know it's
+&gt;&gt; Thanks for having me. Thank
+&gt;&gt; Yeah. Thanks, guys.
+&gt;&gt; Byebye.
+&gt;&gt; Take care, guys.
+[Applause]
+[Music]
+As a reminder to everybody, just our
+opinions, not investment advice.

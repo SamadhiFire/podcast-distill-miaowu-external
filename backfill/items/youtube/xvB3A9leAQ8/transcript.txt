@@ -1,0 +1,1033 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the Odd Thoughts Podcast. I'm Tracy
+Aloway
+&gt;&gt; and I'm Joe Weisenthal.
+&gt;&gt; Joe, we're back in Jackson Hole.
+&gt;&gt; Jackson Hole. I love it here. I love it.
+&gt;&gt; It's beautiful. It's beautiful. And uh
+not only do we get a chance to enjoy the
+gorgeous scenery, we get a chance to
+talk economic policy.
+&gt;&gt; There's so much going on right now to
+say the least. We don't need to
+recapitulate. Everyone knows what's
+going on right now. There's so much
+stuff whether we're talking about macro
+situation, whether we're talking about
+whatever.
+&gt;&gt; I love how you say there's no need to
+recapitulate and then you immediately do
+it.
+&gt;&gt; But you know, there's just so much going
+on.
+&gt;&gt; I think you're hitting on like a couple
+things, which is there are these
+different themes floating through the
+conference. So obviously you have
+uncertainty over what tariffs actually
+do to the economy. Like what type of
+shock are they? Do they destroy demand
+and therefore maybe cause deflation or
+do they lead to companies passing on
+those costs and cause inflation? There's
+central bank independence which everyone
+wants to talk about and there's
+obviously the direction of short-term
+interest rates
+&gt;&gt; and then of course the formal and then
+of course the formal theme of the
+conference about labor markets and all
+this stuff. So yes, many different
+things going on.
+&gt;&gt; All right. Well, I am very pleased to
+say that there is in fact one paper that
+ties basically all these themes
+together. So, we have the author here
+and really the perfect guest to talk
+&gt;&gt; someone we've wanted to talk to for a
+long time.
+&gt;&gt; Absolutely. We're going to be speaking
+with Emmy Nakamura, a professor at
+Berkeley and the author of a paper being
+presented at Jackson Hole called Beyond
+the Taylor Rule. So, Emmy, thank you so
+much for coming on all thoughts.
+&gt;&gt; It's great to be here.
+&gt;&gt; Let's just start. What is the Taylor
+rule? before we can go beyond it.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Well, in 1993, John Taylor wrote a paper
+in which he showed that the behavior of
+the Federal Reserve could be described
+by this remarkably simple rule as a
+function of inflation and what people
+call the output gap, which is sort of a
+measure of how overheated the economy
+is. And this was very surprising to
+people because people typically think of
+what the Federal Reserve and other
+central banks do as incredibly
+complicated. And so the surprise was
+that you could actually describe it by
+something very simple. And since that
+time when John Taylor wrote his original
+paper in 1993, the Taylor rule has
+achieved more or less mythical status
+within economics and the policym world.
+The original paper was mostly
+descriptive. Like I said, it was
+pointing out that the behavior of the
+Fed, which seemed complicated, could
+actually be described by something
+really simple. But since then, it's
+really become a guide for prescriptive
+monetary policy. And when central banks
+deviate from the Taylor rule, they're
+often asked to explain why uh this was a
+major theme in the postcoid inflation
+for example.
+&gt;&gt; So on that note, could I ask why the
+Taylor rule specifically and talk to us
+maybe about the process of how these
+papers come into being ahead of Jackson
+Hole?
+&gt;&gt; Why we wrote about the Taylor rule?
+Well, it as I said, the Taylor rule has
+achieved this incredibly dominant status
+within not only the academic literature
+on monetary policy, but also within the
+policy community. And yet, when I teach
+students, one of the things that's
+somewhat uncomfortable is that the
+Taylor rule doesn't fit all that well
+over the past 20 years. So, it fit
+pretty well during the Greenspan period
+and all the way until about 2008 in the
+United States, but it hasn't fit very
+well since then. First of all, there was
+the zero lower bound period when
+interest rates were just at zero. But it
+also didn't predict very well either the
+timing or the magnitude of the liftoff
+from zero interest rates. So given that
+20 years is starting to be a long time,
+uh the question is should we still view
+this as the benchmark for describing
+monetary policy? And then there's this
+second question about how to think about
+good monetary policy. So when John
+Taylor wrote his original paper, you
+know, it was mostly descriptive paper,
+but he did point out that this was a
+time period. The time period he said was
+actually only 6 years. It was from 1987
+to 1992. But he pointed out that this
+was a time period a lot of people
+thought of as representing good monetary
+policy. So while the paper was mostly
+descriptive, he did say, you know, well,
+maybe this is a guide to good monetary
+policy, too. And that's a theme that a
+lot of people have picked up on since
+then. And and we thought it was
+important to sort of reinvestigate that
+theme. But this is funny, right? Like
+because there is this tension of whether
+it's a descriptive or prescriptive
+thing. And I've heard for years people
+on TV, it's like, "Oh, the Taylor rule
+says it should be a lot higher or the
+Taylor roll says it should be lower,
+whatever."
+&gt;&gt; But we just heard it from Jeff Schmidt
+at the Kansas Fed, right?
+&gt;&gt; And yet this is all based on basically a
+sort of backing out description of five
+years of monetary policy that six year.
+Okay. Sorry. Six years. Maybe not quite.
+So can you talk a little bit more about
+though this I don't know if it's a
+debate or like how people think about
+prescriptive versus descriptive within
+this role. So the tension that you're
+describing is exactly what motivated us
+to write this paper because it's
+interesting how you know a framework
+like this which is so simple and so
+powerful in terms of describing monetary
+policy and does say some things that are
+very true about what monetary policy
+should do in terms of leaning against
+inflation, leaning against an
+overhitting overheating economy can um
+end up becoming maybe more than even the
+author intended as a prescriptive rule.
+And one of the things that we want to
+remind people of is the historical
+context for when John Taylor's paper was
+written. So it was written in 1993. This
+was a period when the Fed was coming off
+some very difficult years for monetary
+policy. So the 1970s and 1980s were very
+difficult years for monetary policy.
+Inflation had been very high in the late
+1970s and early 1980s. The Fed's
+reputation
+was, to say the least, limited as an
+inflation fighter. inflation
+expectations were not nearly as anchored
+as uh they are today. So it was a very
+different time and I think some of the
+context for John Taylor's paper is
+saying that when you have those kinds of
+reputational challenges sometimes you
+kind of need to tie yourself to a mass
+and say we are not going by a
+mathematical rule.
+&gt;&gt; Exactly. Because the 1970s are also one
+of the time periods in history which is
+best known for political pressure on the
+Fed. And so in the context of that kind
+of political pressure, one of the things
+you want to think about doing is giving
+people a very simple observable metric
+for how you adjust interest rates. But
+then of course by you know several
+decades later the Fed's reputation had
+changed pretty dramatically. We had seen
+decades of low and stable inflation and
+you know the Fed and other central banks
+around the world had really uh developed
+a very strong inflation fighting
+reputation. And so then the question
+arises is the same kind of tying your
+hands approach appropriate even in the
+context of you know shocks like what we
+saw after co and so this is the sense in
+which I think you know this is a time at
+which we we want to ask these questions.
+It reminds me very much of the som rule
+and the arguments there that if you find
+like a specific number the idea is that
+you use a sort of simple formula and
+then you immediately jump into action.
+So on that note, one of the key things
+about the Taylor rule is that it
+suggests rates need to rise by more than
+one for one with inflation to properly
+offset inflation. Like you have to go in
+very very strong. But you found in your
+paper that that's not always the case.
+Exactly. So even beyond the idea that
+you want to raise interest rates more
+than one for one. So it's it's the
+coefficient is 1.5 in the Taylor rule,
+but there's the idea even beyond that of
+the Taylor principle, which is exactly
+what you described that you want to not
+only raise interest rates, nominal
+interest rates with inflation, but you
+want to raise real interest rates. And
+if you want to raise real interest
+rates, then you have to raise nominal
+interest rates more than one for one.
+Exactly what you said. And so that's
+kind of a core idea and it's one of the
+main reasons why the gap between the
+tailor rule prescription and what
+central banks actually did during the co
+inflation was so large. And actually for
+the United States this gap was about was
+over 10 percentage points. So we are
+talking about a very large gap. Uh and
+the co inflation saw the largest gap in
+history.
+&gt;&gt; So why does that not actually happen
+always in in monetary theory? Well the
+reason is because there are different
+sources of inflation. So the motivation
+for leaning hard against inflation um
+that is probably pretty intuitive to
+most people is uh demand driven
+inflation. So when inflation is coming
+from an overheating economy, then
+there's this notion in monetary
+economics that you can satisfy all
+objectives of both kind of calming down
+the economy but also keeping inflation
+in check by raising interest rates
+pretty aggressively. And actually
+optimal monetary policy theory implies
+you might even be want to be more
+aggressive than the tailor rule. But in
+contrast, when you have shocks to
+inflation that don't come directly from
+an overheating economy, but also come
+from um you know other sources of
+increases in costs, you know, so the
+supply shocks that people talked about
+during the co inflation period, then
+these same models can imply very
+different predictions. Um they can imply
+that you don't want to raise interest
+rates nearly so much in response to
+inflation associated with these kinds of
+shocks. So in our paper what we do is we
+use a very standard monetary model and
+we simulate data from this model where
+we assume that the monetary policy is
+actually exactly optimal. So the central
+bank is really doing the right thing and
+then we run regressions you know where
+we try to estimate what would what we
+get for the tailor rule in this context
+and then the interesting observation is
+that you find that actually a lot of
+times the coefficient on inflation is is
+is less than one. Um sometimes it's
+close to zero sometimes it's even
+negative. So really a lot of things can
+happen when you deviate only from this
+uh view of inflation is coming from an
+overheating economy.
+[Music]
+&gt;&gt; Did the Fed do a good job?
+&gt;&gt; The paper reads like vindication.
+&gt;&gt; Yeah. like cuz I I think in 2025 there's
+still plenty of fights about this
+question. What's your take?
+&gt;&gt; I think in so we don't know what's going
+to happen
+going forward but I think in in the long
+span of history if you look at what
+happened over the past 5 years I think
+this is going to look like a soft
+landing
+&gt;&gt; and that is typically exactly what the
+Federal Reserve is trying to achieve. So
+I mean obviously the Fed appropriately
+and and private sector forecasters took
+a lot of flack for saying that inflation
+was going to be very transitory when
+inflation was significantly more
+persistent. That said, inflation did
+come down very quickly and uh there
+hasn't been a recession and that is
+remarkable and not only has there not
+been a recession and not only did
+inflation come down very quickly, but
+longerterm inflation expectations really
+did not become unhinged despite this
+historic increase in inflation. We, you
+know, haven't seen large increases in
+longerterm bond yields. So this is all
+pretty remarkable and I would think that
+if if things go well over the next five
+years that in the longer span of history
+this is going to look like a big
+success. So this is where central bank
+independence and credibility actually
+comes into play when it comes to those
+longerterm inflation expectations. How
+did you actually measure credibility in
+this paper? Because you don't look just
+at the Fed, you look at a bunch of other
+central banks,
+&gt;&gt; right? So when we look at other central
+banks um one of the things we point out
+is that there was a huge amount of
+variation in terms of how different
+central banks reacted to the co
+inflation. So we've been talking about
+the United States and similarly
+countries like Japan, the UK, the Euro
+area. These countries all raised
+interest rates very gradually and by
+very moderate amounts relative to the
+size of the inflation increases they
+were facing. And so they all took a lot
+of flak for raising interest rates too
+slowly, for behind the curve, for not
+raising interest rates enough. And these
+are the countries we refer to in our
+paper as uh late risers um because they
+were a little late to the game, right?
+But there were other countries in the
+world we refer to as early risers who
+raised interest rates a lot more
+aggressively and a lot earlier. And the
+interesting observation, you might have
+thought that these countries would have
+suffered from the fact the late riser
+countries would have suffered from the
+fact that they were late to the game in
+raising interest rates with having
+higher inflation than the early risers
+who responded very aggressively. And in
+fact, we find the opposite. So the early
+risers did respond very aggressively to
+the co inflation, but they actually saw
+inflation rise by a lot more during this
+episode. So then we ask the question,
+well, what could explain that? That
+seems sort of backwards. You know, you
+have these countries that seem to have
+responded very aggressively with
+interest rates and yet they saw the the
+larger and more persistent inflationary
+surges. But then what we see is that
+those same countries are countries that
+have u much more checkered inflation
+histories. So you asked about
+reputation. Well, a very simple way to
+ask about the reputation of a central
+bank for controlling inflation is just
+to look at average inflation in in the
+recent decades. And so we look at
+average inflation over the previous
+three decades and we see that the early
+riser countries the ones that you know
+probably felt they had to respond very
+aggressively to the co inflation also
+had much more checkered uh inflation
+histories. had much higher average
+inflation over the past three decades
+previous to co. And so I think a natural
+interpretation of these facts is that
+for these countries they did not feel
+that they had the inflation fighting
+credibility of the central banks in the
+United States or in Japan or in the Euro
+area. They did not feel that they had
+the kind of strongly anchored inflation
+expectations that these countries could
+benefit from. And so for these countries
+it really probably was not an option to
+think that they could look through you
+know the inflation and yet keep
+inflation expectations anchored and but
+but yet that is actually what happened
+in in the United States and several
+other of these late riser countries.
+&gt;&gt; So I find this to be really fascinating
+and I want to get to the question of
+like whether the developed market or the
+US has like ground down its stock of
+credibility over the last 5 years but I
+wanted on this question of the early
+risers.
+I get what you're saying, but it's still
+not intuitive to me that the countries
+or the central banks with a sort of
+mediocre history of controlling
+inflation this time around were really
+on the ball in unison. I mean, I would
+think that if a central bank has a
+history of missing its inflation target
+or letting inflation rise that at least
+some of them would have done it again.
+They would have like come in late
+because that's what they do
+institutionally. like how consistent is
+this process around the world whereby
+the countries that have a bad track
+record were early risers this time
+around
+&gt;&gt; right so we're not including every
+country so there are some countries uh
+which are outliers in terms of their um
+in in terms of their response in terms
+of their inflation but I think one of
+the things you have to recognize is that
+in the world as a whole there has been
+quite a remarkable sort of triumph of
+central banks over inflation so back in
+the 1970s and 1980s almost every country
+was like what we see in the early risers
+today. So none of these countries had
+really strong credentials as inflation
+fighters. And more recently um there are
+a number of these countries which are
+kind of moving in the direction of
+having much stronger inflation fighting
+credentials but at the same time you
+know these are countries where it's a
+relatively fresh history. You know so
+you look at some of these countries
+where they had pretty high inflation in
+the past
+&gt;&gt; and you know and they're just sort of
+starting to be able to get over it. And
+then the question is, do you think that
+the public will be willing to watch you
+go through a period of say 10% inflation
+and say, "Oh, we're sure you're going to
+get it back to to 2%." Or do you think,
+you know, there's going to be a real
+question of whether you're going to be
+able to achieve that?
+&gt;&gt; Okay. So if on the other hand you do
+have good credibility, you do have a
+good history of inflation fighting, then
+you can kind of spend that social
+capital I guess and avoid having to
+raise interest rates by as much as you
+know maybe another central bank that
+doesn't have that credibility. Walk us
+through what exactly are the benefits of
+not having to do that
+&gt;&gt; of not having to uh raise rates early.
+&gt;&gt; Absolutely. Well, you get closer to to
+optimal monetary policy. So in the
+models you know the basic idea is for
+example if you have one of these cost
+push shocks where there's a shock that
+is going directly to inflation because
+of increases in costs or bottlenecks of
+various types or or you have a shock
+like during COVID to people's demand for
+goods versus services. If you raise the
+interest rate dramatically like the
+tailor rule might have predicted you
+raise the interest rate to 10%. So
+what's going to have to happen to get
+inflation down to zero in the short run?
+Well maybe you're going to have to have
+a big recession. You're gonna have to
+have uh one part of the economy
+completely collapse. You know,
+&gt;&gt; Trump will tweet at you more or post on
+truth social more
+&gt;&gt; probably. You're gonna have to have
+really uh negative inflation in some
+sectors of the economy and you're going
+to have to be have a big recession and
+potentially, you know, the other issue
+is that there's a lot of evidence
+suggesting that monetary policy has
+pretty delayed effects. So another
+concern and as I said you know in this
+episode professional forecasters and the
+Fed both thought that the inflation
+would be more transitory than it
+actually was. But another concern is if
+you think that the uh shocks that are
+causing the inflation are sort of going
+to dissipate on their own and you think
+the monetary policy has going to take
+some time to have an effect then one of
+the concerns is that by the time the
+monetary policy actually has a large
+effect then you know some of these
+shocks are going to dissipate. And then
+I guess the third thing I I would
+mention is that in theory the central
+bank actually wants to use a combination
+not only of current interest rate
+movements but also of forward guidance.
+So this is one of the big innovations in
+monetary policy over recent decades. We
+think about forward guidance a lot in
+the context of the zero lower bound when
+you can't do anything with you know Fed
+funds rate and so it's all about forward
+guidance but actually forward guidance
+is a much much more general phenomenon.
+It's really whenever the central bank is
+calling it shots about what it's going
+to do with interest rates even over the
+next year. So this was hugely important
+during the uh co inflationary surge
+because the Fed started talking about
+raising interest rates and longer term
+bond yields started rising pretty
+rapidly in late 2021 substantially
+before the Fed funds rate actually
+started to rise rapidly. And in in the
+in the theory, a central bank that has
+that power, it has the ability to affect
+the economy, not just through what it
+does with the Fed funds rate, but also
+through its words and the impact on the
+bond market through that channel will
+actually want to use both. And so that's
+another advantage of not being bound by
+these kinds of constraints.
+&gt;&gt; This strikes me as an incredibly
+important point, which is that you can
+tighten monetary policy by talking about
+stuff. So that just by looking at that
+overnight rate that the rule might
+anticipate etc does not necessarily
+capture the stance of monetary at that
+time if you're already indicated and
+you're pulling forward those rate hikes.
+So do we have less credibility today you
+know so okay maybe the Fed did a good
+job in this time. Nonetheless there was
+this very big inflationary episode etc.
+So after years of very cool inflation
+finally we got a big one going forward.
+Does that mean the next time around if
+there is another inflationary shock for
+whatever reason that the Fed might be
+impelled to be more of an early riser
+than it felt in this cycle?
+&gt;&gt; I would think almost definitely yes.
+Remember that going into the co
+inflation, you know, regular people
+hadn't seen significant amounts of
+inflation for years. It just wasn't
+really part of the mindset of anyone. um
+you know when you saw for example unions
+in wage negotiations or other context
+things where inflation should have been
+relevant it was sort of striking that it
+just wasn't on anyone's mind and it even
+took a while after the inflation started
+for people to even think about this
+because it had become so much of a
+non-issue for so many years that it was
+just not part of the mental frame of
+Americans I see this very much when I
+teach students because for American
+students typically I have to do a lot of
+work to just explain the difference for
+example between a nominal interest rate
+and a real interest rate.
+&gt;&gt; I did not earn interest on my bank
+account for most of my adult life. So I
+&gt;&gt; Exactly. But in contrast for Latin
+American students they get it
+immediately because it's just part of
+how they grew up right and I think that
+that distinction has probably blurred at
+least a little bit right because now
+people have gone through a few years
+where it mattered to pay a little bit of
+attention to inflation. And so my guess
+is that if we start to see inflation
+again, it's going to be, you know, a
+much more rapid transition to where
+people will start to ask whether this is
+going to uh last longer, whether now
+that we've seen, you know, two
+inflationary episodes in the recent
+past, whether this is sort of the new
+normal. You know, I think it's important
+not to forget how um hard one uh those
+expectations of low inflation were for
+the Federal Reserve and many other
+countries. you know, it's certainly
+something that can dissipate.
+&gt;&gt; So, because we're dealing with the
+Taylor rule, which basically, you know,
+suggests or describes either way what
+the central bank should do with interest
+rates in response to inflation and
+changes in the output gap. We're talking
+basically about like the impact of
+shocks to that output gap.
+There's a nuance here because like
+shocks can be different and have
+different effects on the output gap.
+What type of shock would tariffs be? I
+know this isn't the subject of your
+paper, but you know your gut instinct.
+How would you describe tariffs in terms
+of that economic shock and the impact on
+output? So, there have been a number of
+recent academic papers on this. It's not
+the focus of our paper, but I think that
+the overall message of those papers is
+that you do want to look through sort of
+the initial impact of the tariffs, but
+you don't want to look through sort of
+second round effects. So to the extent
+that you start to see an effect in terms
+of longer run inflation expectations
+becoming unhinged and so on, that's the
+part of the inflation that the central
+bank would want to be responding
+aggressively to.
+[Music]
+I have another question that may be
+outside the scope of this specific paper
+but no
+&gt;&gt; it has a lot of relevance to today.
+&gt;&gt; There's a lot when you think about
+around the world some central banks have
+more credibility than some others. Is it
+that the good central banks just had
+like smarter better economists do
+advising them better on policy than the
+other ones? Or does it have more to do
+with the political conditions that allow
+a central bank to operate separately
+from to essentially operate with
+independent agency and is that more of a
+thing that originates in the political
+sphere of those countries?
+&gt;&gt; I think clearly the politics is very
+important. I guess it would point to two
+things. One is those difficult decades
+of the 1970s and 1980s which occurred in
+many countries around the world and
+where people in these countries realized
+uh how much they hated inflation. We got
+a little bit of a taste of this uh
+during the COVID inflation. Inflation
+just is incredibly unpopular and it was
+for this reason that it was possible in
+the United States to appoint Paul Vulkar
+as chairman of the Fed even though it
+was known before he was appointed what
+he was going to do that he was going to
+raise interest rates aggressively that
+this was going to be painful. uh and so
+that's a remarkable thing that it was
+actually possible to make this
+appointment but of course similar things
+actually happened in other countries as
+well there were similar appointments of
+aggressive you know central bankers that
+controlled inflation so I think part of
+this did come out of you know sort of a
+public reaction to inflation but at the
+same time it didn't happen everywhere
+just like you said and could only happen
+in the context of political protection
+for the central bank uh central bank
+independence And perhaps in some ways
+it's just sort of a remarkable thing
+that it ever did happen uh that we've
+seen this long period of of low
+inflation in many of these countries. I
+suddenly realized I've heard all over
+over the years at various times where
+we're where deviations from the Taylor
+rule whether it was the zero lower bound
+era where we couldn't lower them or more
+recently how far were they off in the
+70s when inflation was going crazy is
+there is there a good measure of like no
+clearly they should have been higher
+this like what does the Taylor rule say
+about that
+&gt;&gt; the 1970 is very interesting because one
+of the things we point out in our paper
+is that the the predictions and the
+prescriptions of the tailor rule are of
+course only as good as the inputs you
+put into them. And one of the things
+that some of the academic literature's
+pointed out is that you don't
+necessarily want to use the data that we
+have today on something like the output
+gap because views about the output gap
+that is you know how overheating is the
+economy have changed over time and in
+particular in the 1970s the Federal
+Reserve was pretty optimistic about the
+potential output of the US economy and
+for that reason its judgment about the
+output gap was pretty negative and this
+helps to explain through the lens of the
+Taylor rule, why they had pretty
+doubbish monetary policy in the 1970s.
+So actually, if you take the real-time
+data on what the Fed said it thought the
+output gap was at the time along with um
+inflation, then you get more or less
+what they did. And what happened in
+terms of, you know, why many people
+think that the policy was too deficient
+in the 1970s has a lot to do whether you
+think those measures of the output gap
+were reasonable. And you know the
+current estimates according to the Fed
+you know are much less sort of doubbish
+than they than they were at the time.
+But it highlights the fact that even
+when you want to create a rule which is
+sort of very technocratic and doesn't
+give you any wiggle room that's not
+entirely true because something like the
+output gap is not something that you can
+just read off a statistic like
+inflation. actually you can um and so as
+a consequence you know it really matters
+what judgment you take about where you
+are relative to the economy's potential
+&gt;&gt; you can never escape human you never
+quite escape human judgment
+&gt;&gt; unfortunately I remember that the output
+gap debate was a big thing after 2008 as
+well
+&gt;&gt; okay just going back to the idea of this
+technocratic rule whether it's
+prescriptive or descriptive I know
+people have different opinions on that
+but supposedly one of the benefits of it
+being possibly prescriptive was that you
+have a central bank that like does a
+very expected thing like you know what
+the reaction function is and you know
+what they're going to do in response to
+inflation.
+How does that play into the credibility
+aspect? Because on the other hand, you
+know, more credible central banks, they
+can kind of go off and do their own
+thing, go beyond the Taylor rule as you
+put it in the paper. But on the other
+hand, does that unexpected behavior
+perhaps have an impact on their own
+credibility even if it's successful in
+the short term?
+&gt;&gt; Absolutely. I mean, I I think that the
+ta like that technocratic rules like the
+Taylor rule, they absolutely have a
+place in the cannon of monetary policy.
+And you know perhaps one could even
+argue that they should be the default in
+response to many kinds of inflationary
+episodes because there are many kinds of
+inflationary episodes like um those
+associated with excessive demand you
+know an overheating economy and also you
+even worse just sort of self-fulfilling
+worries about inflation that spiral off
+into really serious inflationary
+episodes. So, in response to all of
+those kinds of episodes, you know, it it
+may may be a very good idea for the for
+people to be able to expect that the
+central bank is going to respond
+aggressively along the lines of
+something like the Taylor rule. And
+there's a sense in which you might want
+to think about going beyond the Taylor
+rule as something that you don't do all
+the time, but that you recognize has to
+happen some of the time when you have a
+strong sense uh that a different kind of
+shock is hitting the economy. And in
+some of those episodes, you you might
+actually want to very explicitly use
+forward guidance. So, for example,
+during the Great Recession, that was a
+period when there was, you know, some of
+the most explicit usage of forward
+guidance to talk about the timing of how
+long the Fed was going to keep interest
+rates at zero. And that was a very
+powerful tool in terms of affecting
+longerterm interest rates. It's very
+easy to see that in the data. And that's
+the kind of thing where you know it's
+not about going away from reputation
+which it's it's true that core idea is
+that you want markets to absolutely be
+confident that the central bank is going
+to respond aggressively
+&gt;&gt; to any sense of deankering of inflation
+expectations and that is very important.
+But at times you may want to to use
+forward guidance in other ways and the
+response of the Fed to the Great
+Recession is an example of that.
+&gt;&gt; I just have one last question and it's
+kind of selfish. So you're talking
+about, you know, different sources of
+inflation, whether it's excess demand or
+whether it's supply. You know, Tracy and
+I did like a ton of podcast episodes in
+2021, 2022 about supply chains. We
+talked about the ports and all this
+stuff that you know, but someone could
+say you guys were missing the forest for
+the trees. The stress at the ports
+wasn't about supply chains. It was
+because there was too much demand. The
+stress at the X factory wasn't because
+of some supply chain or missing part.
+There was just too much demand. You guys
+were just disguising demand problems by
+focusing on choke points that are
+inevitably going to emerge when booming
+demand. I still think about this. I'm
+like, "Oh, should we have focus some?"
+You know, I'm like, but you have
+described a lot of this inflation and
+part of the reason for the immaculate
+disinflation is because a lot of it was
+supply defense. You know, I'm looking
+for a defense of all this focus that we
+did on the supply side.
+&gt;&gt; So, I think you're you're right that
+there's kind of a false dichotomy
+between talking about demand shocks and
+things like supply constraints, um, you
+know, like the ports and the Suez Canal
+and so on because you're right that if
+you have too much demand, then at some
+point, you know, these supply chains get
+clogged. And so it's it's it's
+absolutely right that those kinds of
+supply constraints are not quite the
+same as supply shocks, right? But there
+are other things which are just directly
+shocks.
+&gt;&gt; The the war in Ukraine was a shock.
+&gt;&gt; Exactly. And CO for example generated
+all sorts of sort of negative
+productivity throughout the economy that
+just made things more expensive to
+produce in a variety of ways. So these
+are some of the things that I think are
+genuinely basically negative
+productivity shocks which were sort of
+hard to find examples of previous to but
+easy to find examples of during CO.
+&gt;&gt; How good are policy makers at
+identifying types of shocks in real
+time? That is a very important question
+and you know I think my discussion of
+the 1970s and the fact that you know
+views have changed over time about the
+output gap during that period and also
+during the the co inflation you know
+views have changed shows that this is by
+no means perfect but at the same time I
+think there are times when there's a
+strong sense that you know the co
+inflation for example wasn't just about
+you know self-fulfilling inflation
+expectations or something like this and
+so that's where I want to emphasize this
+idea that there's a difference between
+saying that we can always identify the
+shocks with confidence which clearly we
+cannot and saying that we can never
+identify any shocks you know to the
+extent that we need to tie ourselves all
+the time to a mechanical rule which you
+know may deviate from from what theory
+really says is optimal monetary policy
+but again you know I think crucial ideas
+is all of this has to take place against
+a background where there's sort of
+confidence in the central bank's
+commitment to longer run inflation
+stability. All right, Emmy Nakamura,
+thank you so much. This was a real treat
+for us. I kind of want to go to Berkeley
+now.
+&gt;&gt; Yeah, I know. It's I do, too. That was
+amazing. Thank you so much. That was
+fantastic.
+&gt;&gt; Thank you. That was great.
+[Music]
+Joe, that was fantastic. I really
+enjoyed that conversation. And Emmy has
+a remarkable way of explaining like some
+complicated concepts very si simply and
+in a real understandable way cuz if you
+flip through her paper there's a lot of
+formulas and things like that. So it
+looks complicated but she explained it
+very clearly
+&gt;&gt; incredibly clearly. I had the same
+thought I was like oh man it would be so
+nice to just be like a student and like
+learn you know get to being a student
+sounds very fun. Um but um but
+incredibly clear and you know we're
+she's uh you know one of the foremost
+inflation experts in sort of academia
+and so to hear her sort of like sort of
+summation of how she thinks about the
+last 5 years and the lessons learned
+from it was like a real treat.
+&gt;&gt; Yeah. And obviously there are a couple
+takeaways there. So one, it is
+incredibly hard for policy or often
+incredibly hard for policy makers to
+identify shocks, you know, at the moment
+that they're happening, but sometimes
+they can like in co and I guess the
+second takeaway is the importance of
+credibility, right? And if you if you
+manage to successfully control inflation
+for years and years and decades or
+whatever, you build up that social
+capital which then allows you to be
+somewhat more flexible when you have
+another crisis.
+&gt;&gt; Yeah, I I thought that was really
+interesting. Um, also there are a couple
+other things that struck me. First of
+all, until reading this paper, and this
+is just my fault because I could look
+this up at any time. I had not realized
+that the Taylor rule was built up six
+years of data. There's like okay this is
+the rule that describes when a central
+bank is doing a good job
+&gt;&gt; monetary policy basically
+&gt;&gt; this is the rule that sort of describes
+what a well functioning central bank
+looks like is basically six years uh you
+know that's interesting that's
+interesting to me too and second of all
+this idea that even though it does look
+like a hard rule that you can't escape
+the fact that you have to judge the
+output gap and there were very big
+debates about the size of the output gap
+after 2008 and 2009 very sharp
+disagreements about the capacity or what
+full employment looked like. So even
+that doesn't fully solve you. Even if
+you do tie yourself to the lash of a
+hard rule or lash yourself to the mast
+of a hard rule, the tough problem still.
+&gt;&gt; Yeah, it's it's tough. All right, shall
+we leave it there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the
+OddLots podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Jill Weisenthal. You can follow
+me at the stalwart. If you want to read
+Emy's paper, go check out the Kansas
+City Feds website. Follow our producers
+Kerman Rodriguez at Kerman Arman
+Dashelbennet at Dashbot and Kale Brooks
+at Kalebrooks. For more OddLots content,
+go to bloomberg.com/odlotss
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+all of these topics 24/7 in our Discord,
+discord.gg/odlotss.
+And if you enjoy OddLots, if you like it
+when we go to Jackson Hole to interview
+prominent economists, then please leave
+us a positive review on your favorite
+podcast platform. And remember, if you
+are a Bloomberg subscriber, you can
+listen to all of our episodes absolutely
+adree. All you need to do is find the
+Bloomberg channel on Apple Podcast and
+follow the instructions there. Thanks
+for listening.
+[Music]
+Heat. Heat.
+[Music]

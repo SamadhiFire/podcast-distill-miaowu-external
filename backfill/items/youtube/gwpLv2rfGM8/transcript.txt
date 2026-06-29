@@ -1,0 +1,957 @@
+Kind: captions
+Language: en
+I would say even for professional
+investors, doing nothing is
+surprisingly often the right strategy.
+Welcome back to another episode of WSJ's
+Take on the Week. I'm Telis Demos
+&gt;&gt; and I'm Gunjan Bannery.
+&gt;&gt; This week we're dedicating our entire
+episode to our guest interview. Our
+guest is Cliff Aznes. He is the
+co-founder and chief investment officer
+of AQR Capital Management and he is one
+of the world's foremost quant investors
+and has done as much as anybody to bring
+those ideas and products to to the
+world. So, Cliff, welcome to the show.
+&gt;&gt; Well, thank you for having me. That's a
+wonderful start.
+&gt;&gt; Cliff, I'm really excited for this
+conversation. I I was telling you
+before, I've been following the options
+market here at the journal. Since I've
+been at the journal for around 8 years,
+and you know, back when I started, it
+felt like no one was reading my stories.
+No one cared about this this corner of
+the market. And what we've seen the past
+few years is options trading is cool on
+Robin Hood. And there's been this surge
+in options-based ETFs, you know, things
+like buffer ETFs or hedged equity ETFs.
+And there are $60 billion in hedged
+equity funds tracked by Morning Star
+today. It was half that just a few years
+ago.
+&gt;&gt; And the Morning Star category, I think
+you wrote the other day, is north of
+$230 billion these days. The options
+trading related
+&gt;&gt; funds.
+&gt;&gt; It's blown up so much and and a lot of
+these funds are promising to investors,
+hey, we can protect you from a market
+slide, right? When things like
+Liberation Day happen, we will fall less
+than the market. But it seems like they
+haven't always worked that way.
+&gt;&gt; Well, I consider my job to make it less
+fun for you because I think there some
+of these things have gone too far. Um,
+single day options don't even start me
+on. Nobody's ever needed that in
+history. Um, the broker Sally knows are
+laughing all the way to the bank. Uh,
+but buffer funds, we've written a few
+different pieces on this. I'm going to
+talk in generalities. Every single one
+is designed a little differently.
+Everyone says we're going to do it this
+way, but broadly speaking, you can think
+of them as getting a basic stock market
+exposure like S&amp;P 500
+&gt;&gt; and then trying to what's what the geeks
+would call shape the distribution in
+particular to modify some of the more
+extreme events. I'm not going to torture
+anyone with all the details, but the
+most common is probably buying four
+different kinds of options, puts and
+calls in and out of the money, but at
+its most simple, imagine you just bought
+S&amp;P and a put. Um, so you just cut off
+the downside. You would lose a little
+upside because if markets went up, you
+lose the premium you paid, but at some
+point if markets fell, the put would
+kick in,
+&gt;&gt; right? Because puts basically say, "Hey,
+we will give you the right to sell
+stocks at a specific price by a stated
+date." They're supposed to be like stock
+insurance.
+&gt;&gt; So if the price is much lower than that,
+you make money because you can still
+sell it at the the higher price. Um
+there are way to bet on a big downturn
+to ensure against
+&gt;&gt; a big downturn. But even before we
+looked empirically, we in theory were, I
+admit, a little cynical going in because
+there are multiple reasons to expect
+that buying a whole bunch of options to
+protect a stock portfolio
+might not be a great idea. You start off
+with the most basic. You get paid an
+equity risk premium to be in stocks
+because they have some downside,
+&gt;&gt; meaning that they return more than
+&gt;&gt; cash and things like that.
+&gt;&gt; Yes. on average they return more than
+bonds, more than cash. Not all the time,
+of course, that uh and that's somewhat
+the point. Sometimes you have to suffer.
+You have to always be a little
+immediately cynical when someone says
+you could have most of that without the
+scary part because the scary part is
+probably why you get paid. It's probably
+why you know there is an equity risk
+premium.
+&gt;&gt; It's the price you pay for the stock
+market returns, right?
+&gt;&gt; Yes. It well put. Uh I'm going to say it
+that way from now on. Um, and I think
+it's pretty intuitive that in a well
+functioning market, uh, if it were a
+break even, everyone would want this.
+You you'd say, "Hey, do do I want to
+make money in the extremes a little
+extra if on average it comes out?" I
+think most people, you know, it's like
+getting free insurance. Another way to
+get a lot of the upside of stocks but
+limit some of the downside is rather
+trivial. Combine it with some cash. Um,
+if you have 80% in the stock market and
+20% in cash, um, this will be the only
+math in our podcast, you get 80% of the
+upside, um, but 20% of the downside is
+is is reduced.
+&gt;&gt; And by the way, that's how like grandma
+and grandpa told you to invest, right?
+like put a little in stocks and a little
+in bonds and and
+&gt;&gt; and basically there'll always be
+exceptions when you're looking at lots
+of funds, but the vast majority of of
+buffered funds when compared to a very
+simple straightup mix of an index fund
+and cash didn't outperform it. They
+underperformed it and didn't have
+smaller draw downs. They had larger draw
+downs.
+&gt;&gt; So another flavor of these funds is the
+equity hedged funds and I do think this
+is kind of a disaster. I believe you
+guys looked at a slice of equity hedged
+funds with at least five years of
+performance and found that the majority
+failed to deliver either better returns
+or less severe draw downs than a
+portfolio of cash and stocks. You know
+that's that is not a great showing.
+&gt;&gt; I have very little to add to your
+comment. You nailed it. They um they
+again um there was pro I forget the
+numbers. Um there were probably a couple
+that did that did well. if you test a
+hundred things um and 90 are bad um are
+the 10 that are good really good or is
+it just you know something's going to
+get lucky
+&gt;&gt; but by and large um it's it's a bad bet
+to go down this this route I you know if
+I were given advice to someone in my
+family who was nervous about the stock
+market or thought they had too much
+either strategically or tactically I say
+sell some stocks real simple uh don't
+get this this is too cute by half is
+another way to put it. The really scary
+scenario for an equity investor is not a
+short sharp crash that largely reverses.
+It's a grinding bare market.
+Um it's, you know, in the extreme it's
+the GFC. In less extreme, it's 2022.
+&gt;&gt; GFC being 2008, 2009.
+&gt;&gt; Yeah.
+&gt;&gt; That crash.
+&gt;&gt; Exactly. Uh the global financial crisis.
+a grinding slow but never crashing bare
+market.
+That's I think the worst scenario for an
+option-based strategy because options to
+the extent that that the strategy would
+ever excel, it excels in really big
+moves because options start to do better
+as the extremes get bigger.
+A grinding bare market, you never get
+that extreme move and options premiums
+tend to go up and up and up because in
+bare markets insurance becomes more
+expensive. We think not only has the
+record not been particularly good, uh,
+but there are scenarios out there where
+stocks plus cash would dominate it by
+even more. So I I I won't mince words.
+We recommend against buffered funds.
+&gt;&gt; And is that partly because, you know, I
+mean, the way I think most of us are
+taught to invest is is some version of
+dollar cost averaging, right? which is
+like if you just invest a little bit all
+the time over the course of many years,
+you pay more for stocks during those big
+bubbly markets and then you pay less for
+them during those grinding bare markets
+and they sort of balance themselves out,
+right? When should an investor think
+about doing something different? When
+does it make sense to just deviate from
+that and and look for a product that
+either offers some form of insurance or
+some uncorrelated return? Like when when
+does it make sense to deviate? Oh, well
+now the second one is something I sell,
+right?
+&gt;&gt; So I I feel very differently about that.
+&gt;&gt; Okay.
+&gt;&gt; Um that won't be too self- serving, I'm
+sure.
+&gt;&gt; I mean, we asked you on the podcast, so
+here we are.
+&gt;&gt; When to hedge really, you know, it's
+it's kind of a smart sounding way to say
+when to time the market, right?
+&gt;&gt; Right. That's such a good point
+&gt;&gt; because a hedge is, you know, if you
+have a hedge on all the time, you're not
+timing the market. You're building a
+buffered product. But if you're doing it
+sporadically, you're timing the market.
+And you know there I have great cynicism
+that the average investor should be
+trying to time the the market. Um
+there'll always be someone who gets it
+right. Um you know in some cases I don't
+&gt;&gt; and they'll brag about it like on Reddit
+and
+&gt;&gt; the world's very good at expost finding
+the few people who got it right and
+telling you that they're the next
+geniuses. I I I think I've been been on
+the the good and the bad side of this PR
+over time. It's it's one's more fun than
+the other, but both are are silly. So I
+I don't think for the average investor
+there's really ever a time I would I
+would say time the market and certainly
+not to hedge the short term. I do
+believe that very long-term returns kind
+of 10-year returns are higher when
+markets are cheap versus history and and
+lower when markets are more expensive
+versus history. Doesn't always work.
+Even over 10 years it could be wrong.
+Um, and even there you don't seem to add
+a a lot of value. Very often if markets
+are expensive, the rational prediction
+is they'll make kind of half of what
+they normally make. I will now in a very
+different sense of the word hedge a
+little bit. We do believe in trend
+following strategies. Those do take
+market positions and you could call that
+a form of market timing. Uh, but they're
+based on an actual empirical
+relationship that when this happens,
+this usually happens. I think the
+average investor out there um when
+they're nervous, they they might
+actually be wanting to do the opposite
+of what they're feeling, but if they
+just do nothing, I'll be happy. I think
+that's that's pretty good. That's a win.
+&gt;&gt; I mean, I'm pretty good at doing
+nothing. That's that's sometimes my
+favorite thing to do.
+&gt;&gt; Can be extremely hard.
+&gt;&gt; Um doing nothing because the temptation
+stuff's going on and people are telling
+you, you're getting all kinds of advice
+uh in scary times. And I would say even
+for professional investors, doing
+nothing is
+surprisingly often the right strategy.
+Like for someone like us, it's like if
+there's a tough period, you want to make
+a change to your process.
+&gt;&gt; Yeah.
+&gt;&gt; Every once in a while you discover, hey,
+you know, we learned something. Maybe we
+should tweak. I think most of the time
+anyone ever does that, um, they're
+almost perfectly wired to make an error.
+And sticking with what we do, sticking
+with our process has occasionally been
+hard, but I think we've been successful
+at it. And we've come out the other side
+making well more back than we ever lost
+in those events. And had we caved in the
+wrong direction, it would have been very
+bad. So doing nothing in this case is
+white knuckled terror for about a a
+year. So you don't feel like you're
+doing nothing, but you're not doing
+anything reactive and stupid in the
+portfolio.
+&gt;&gt; Circling back to what we started to talk
+about before, which is we've been
+talking about the dangers of hedging, of
+trying to like insure yourself against
+outcomes, but your business is is about
+finding uncorrelated returns. So what's
+the value for someone thinking that well
+if I just stick with S&amp;P 500 I'm doing
+great. What's the value of thinking now
+about those uncorrel even if hedging is
+not the right thing to do? Why is
+looking for something uncorrelated
+a good kind of anytime strategy?
+&gt;&gt; First I'm I'm going to just hypothesize
+a good alternative. Okay,
+&gt;&gt; we often strive for true true zero
+correlation, but it doesn't have to be
+&gt;&gt; correlation just briefly like when
+something goes up this thing goes down
+or doesn't go up things that don't
+&gt;&gt; I would say uncorrelated means if you
+tell me this thing is up or down it's no
+information about this other one. Uh
+negatively correlated is a hedge.
+Negatively correlated is it moves the
+opposite. But imagine you found
+something and for us it might look like
+long 1500 stocks in the world around the
+world, short 1500 stocks in a balanced
+way. So if you do that well, you're not
+particularly correlated to the market.
+And if you do that well, and I'm I'm
+just assuming we're doing this well at
+this point, your longs on average, not
+all the time, but on average um
+substantially beat your shorts. That is
+always valuable to a portfolio to be
+able to add an uncorrelated return. And
+the math just says, "Yeah, you would do
+that if the stock market is so insanely
+great that any dollar taken out of that,
+even if the uncorrelated return makes
+10% a year, if you took it out of the
+stock market making 5% a year, there is
+a pretty decent chance you've lowered
+your total return
+but reduced your volatility." And this
+gets to your comment before which I've
+said before that you've improved your
+riskadjusted returns but you can't eat
+riskadjusted returns. There are simple
+ways around that. If you for instance
+just equitize the alternative meaning
+take some money out of stocks put in
+alternative but that alternative you
+really think of as the the uncorrelated
+long short fund but then you add an S&amp;P
+future on top. You're not doing that
+because you tactically want that in the
+alternative. you're doing that just to
+replace what you took it out of. Then
+you are simply adding and then if the
+uncorrelated alternative goes up, it's
+just gravy. The numerator goes up. So I
+think there are lots of ways to design
+this to to fix it. But I do think on
+average we've been in a pretty unique
+environment. Um US large cap equities,
+they've crushed bonds, they've crushed
+equities around the world, you know,
+&gt;&gt; not Pokemon cards.
+&gt;&gt; Okay. Okay. There are some exceptions.
+Uh though I think the capacity for us
+all to invest in Pokemon cards is
+probably probably limited. When that
+happens I it drives me crazy when people
+say diversification didn't work. I I I I
+get really geeky and I go, "Oh, sure it
+did. It just worked for different
+people." You know, you have a US large
+cap perspective. Uh anyone not from the
+US, for instance, found diversification
+work like a charm. Diversification
+always works. It just doesn't always
+work for everyone at the same time. So
+if you're in a unique environment and
+again if if 15 years ago anyone told us
+the US would crush the world and by the
+way a lot of that has come from what's
+called multiple expansion the US has
+outgrown the world so some of the
+performance you can call organic you
+know real stuff that you don't have to
+ever give back but a lot of it has come
+from the US going from cheaper than the
+world at least 25 years ago was cheaper
+I don't know about 15 years yeah
+&gt;&gt; to more expensive than the world now and
+that's a great way to outperform form
+it's just revaluation but expecting that
+to happen again from instead of starting
+cheaper from starting more expensive
+seems very naive so for a pure US large
+cap investor there were ways to do it
+smart again equization where um where
+diversifying still would have helped the
+top line but it was a tough time in
+general cuz it beat everything if you
+didn't get cute with that stuff you
+probably diversified into something that
+maybe improved your risk adjusted but
+not your total
+returned. I think um people looking at
+that are fighting the last war.
+&gt;&gt; Um I think the US is great. I'm a
+believer in a lot of US exceptionalism.
+Um but at substantially more expensive
+than the entire world, um do I think
+it's going to radically outperform? Um
+even if it doesn't regress to the mean,
+even if you don't forecast those
+valuations come back down, all they have
+to do is not expand again. and you want
+diversification again because it won't
+crush the world by the same by the same
+amount. So I think diversification's
+all frankly always something I'd
+recommend but I I I feel better about it
+now for a US investor than than normal.
+&gt;&gt; We'll be back with more with Cliff as
+the chief investment officer at AQR
+Capital Management.
+Cliff, I really want to take a little
+bit of time to talk about efficient
+markets. I think we've spent quite some
+time talking about how much markets have
+changed the past few years, right? And
+you've written about how with social
+media, derivatives trading, you know,
+one day options, technology changes. You
+think markets have gotten less
+efficient. Tell us why.
+&gt;&gt; Yeah, and I should start out saying this
+feels a little heretical for me. My
+guess is
+&gt;&gt; you're a Chicago school guy
+&gt;&gt; and and a guy named Gene FMA who is the
+godfather of the efficient markets
+hypothesis Nobel Prize winner but
+I probably think the market is less
+efficient than than he does and I've
+moved on that in the last call it 25 30
+years to be fair to Jean Gan tells his
+class which I I took three times I
+didn't fail it I was the TA for the next
+two years okay
+&gt;&gt; um about somewhere around the third week
+he tells the class they're almost
+assuredly not perfect. Perfection is a
+fairly insane hypothesis. So right there
+it's it's it's like some bad old jokes.
+All right, we've already established it
+and now we're just bargaining.
+&gt;&gt; You talk about why you think markets
+have gotten less efficient
+&gt;&gt; because and it feels contrarian to me to
+say that because we we we know that you
+know people look at satellite pictures
+of parking lots so they know what the
+foot traffic of a store is going to be
+before it reports earnings. short-term
+getting information into stocks, I think
+markets probably have gotten more
+efficient for the reasons you cite. Um,
+so I don't deny that technology and the
+speed of trading and whatnot has made
+markets in that sense more timely if you
+want to use efficiency in in in that
+way. And then what we were talking about
+before a valuation trade where are these
+stocks are these thousand stocks
+reasonably priced against these thousand
+stocks when you sort them? Technology
+has very little to do with that. How
+fast you trade, how cheap you trade.
+This is about behavioral biases. This is
+about market structure changes. And my
+two favorite
+hypotheses, and I have to admit they're
+hypotheses. The weaker one, I think, but
+one I still like is one you've heard a
+million times, the rise of passive
+investing. Um, I am not a a fanatic
+about this. There are there are people
+who think passive investing is the devil
+and is destroying the world. Um, but I
+absolutely acknowledge something that
+many people have looked at. Um, it's
+kind of obvious. We can't all be passive
+investors. So, I find it pretty easy to
+believe that more people doing passive,
+fewer looking at stocks and actually
+trying to evaluate their prospects could
+loosen the bounds of rationality and
+make us deviate bigger and more.
+That's actually my second favorite
+hypothesis. My first and here I know I
+sound like an old man on his lawn
+yelling at clouds. This is I'm I'm Abe
+Simpson here. Social media 247 online
+gamified trading uh the whole ecosystem
+of all these things. It started out um
+in the dotcom bubble with what it were
+called message boards, which again would
+probably be before your time, but this
+was like proto social media, but it was
+a big part of that bubble, which it's
+funny because it makes me think I might
+be on to something here. And here I I'll
+get a little dark here because I start
+with our politics and I'm not going to
+make a a politically partisan statement.
+I'm going to make a statement. I think
+most people, not everyone, would agree
+with that. The social media environment
+has probably made our politics worse.
+Has probably polarized us more, put us
+more into our own bubbles where we only
+see self-reinforcing things, has
+enforced a mob has has encouraged a mob
+mentality. Well, one thing about stocks
+is
+stocks are are are priced by a voting
+mechanism. It's not an arbitrage
+mechanism. It's never an arbitrage to
+short a overly expensive or buy a cheap
+stock. It's a bet. Um it could work out
+against you. The cheapest stock in the
+world could deteriorate so much that it
+was a bad buy. You know, you know,
+famous falling knives, the most
+expensive stock in the world, could turn
+out to actually be the next Nvidia. And
+it turned out that paying a 2,000p for
+that was actually not such a bad idea.
+So, it's not riskless.
+You vote. the more votes that go one
+way, the higher the stock price goes. Uh
+but if if this environment has poisoned
+our voting mechanisms in politics, why
+would it not affect our markets? And
+it's cheating to look at the most
+extreme example uh that makes your case,
+and I'm about to cheat. Um take the meme
+stocks,
+&gt;&gt; which are they're back this year.
+&gt;&gt; Yeah,
+&gt;&gt; they are.
+&gt;&gt; They are. They are. It's not quite as
+nuts as it was, but and they're
+different stocks. Um, but the meme
+stocks are completely online mob
+phenomenon. Doesn't mean one of them
+won't work out. Again, I do think the
+meme stocks are unfair in the sense
+that, you know, there a lot of I
+wouldn't call Nvidia a meme stock. They
+make a ton of money. They may be worth
+what they are,
+&gt;&gt; but I would say I would call Palunteer
+Tesla meme stocks. I think the meme
+stocks have evolved past this tiny group
+of unprofitable companies.
+&gt;&gt; They're on further on the spectrum. meme
+stocks. These are stocks that have a
+very meme-l like component where they're
+a little cultish. Um, so I actually I
+net agree with you. Um, again, I'm using
+the most extreme example, but you did a
+wonderful thing. I was about to say the
+rest of the market is a point on a
+spectrum. Palanteer makes money. Uh
+Tesla makes money. You You can't call
+them that. But are they on the spectrum
+to that where they're a little cultish
+and driven by a mob of people who feel
+so strongly and will shout you down.
+Yeah.
+&gt;&gt; And call you terrible names if you
+disagree.
+&gt;&gt; Yeah. So I do think these things have
+made markets
+&gt;&gt; maybe maybe not on average every day
+more inefficient
+but maybe more susceptible to bouts of
+extreme inefficiency where the world
+just goes somewhat mad. I want to drill
+down on that because I've I've followed
+I think one day options, right? Trades
+that expire within minutes or hours.
+They have been one of the hottest crazes
+in markets of the past few years. Why
+don't you think they're a good idea?
+&gt;&gt; Um I think if you back out what you're
+paying for those options in terms of,
+you know, the implied volatility, what's
+what's a likely outcome where it gets
+paid, I just think they're going to be
+very bad deals. They're very, you know,
+their popularity can be summed up with
+FanDuels is very popular, too. And the
+average, I promise you, the average
+player on FanDuels loses because
+FanDuels makes money. It's pretty easy
+to figure out. And I don't think single
+day options are really any different. I
+think the people who sell them are doing
+pretty well, and I think the people who
+buy them, like all gambling, there are
+fabulous success cases, right? and
+everyone posts there. I bought it was
+one day thing and went through the roof.
+&gt;&gt; Um,
+we don't deal with that. We deal with
+averages when we're given advice. If you
+assume you're the best in the world at
+something, more power to you. You'll
+probably do well.
+&gt;&gt; Yeah.
+&gt;&gt; But if you assume you're average,
+these are bad ideas. You're paying too
+much. You're you're making Wall Street
+some version of Wall Street rich and
+yourself poorer. So all these trends,
+right, the gamblification of traditional
+financial markets, I I think they're set
+to grow more extreme. You can literally
+place sports bets on Robin Hood right
+now, you know?
+&gt;&gt; Yeah, they're merging, right? You can do
+your stock, crypto, and sports bets all
+in the same
+&gt;&gt; in the same place. What does that mean
+for for financial markets? Does that
+mean these moves might get more extreme?
+&gt;&gt; They might. Markets equilibrate.
+geeky for return to some form of
+rational on their own. It's just a
+question of how long and how painful it
+takes. The old Warren Buffett in the
+short run the market's a voting machine.
+In the long run, it's a weighing
+machine. What he's saying is, yeah, what
+I said that it's a it's a political
+process and it's voting is right about
+prices today, but ultimately truth wins.
+Do not ask me to tell you when. We don't
+try to trade when we include both
+valuation, quality, and momentum in our
+model. So, we're trying to have the best
+of all worlds. Uh so, we're not trying
+to time this to the second. But for all
+the kind of scary things I've said, I
+will say particularly with new
+technologies, I think there's often a
+curve where the world goes a little nuts
+with them for a while and eventually
+learns how to deal with them more
+rationally. The question is, you know,
+how much damage is done between now and
+and and and my predicted return to the
+promised land of a of a of a more
+rational never perfectly rational
+market.
+&gt;&gt; I don't I don't see brokerages or Wall
+Street pulling back on these technology
+changes that have occurred and you can't
+undo them at this point.
+&gt;&gt; Hopefully, someone will ever trade with
+me again when I say bad things about
+Wall Street. Um, Wall Street's job is to
+sell you uh they're it's like a they're
+like a car lot. They're there to sell
+you new and used stocks. Um, they
+sometimes package them into very
+interesting things like um but they will
+sell these as long as there are buyers.
+There's never going to be the case where
+Wall Street's going to go, you know,
+we've been really successful selling
+these for the last 5 years. We made a
+ton of money, but frankly, the investors
+are having subpar performance, so we're
+going to pull back. I wish we were in
+that world. I do believe I'm going to
+brag that if AQR had a product where we
+were like finally convinced. We wouldn't
+do it if we if it didn't wouldn't take
+us a lot to convince us it wasn't good,
+we would never have started to begin
+with. But ultimately, if we think, you
+know, we're just not good at this, I
+think we'd stop. I don't think Wall
+Street is wired for that. So, it has to
+come from disappointed investors who
+slowly, you know, people said the same
+thing about every bubble. the.com
+bubble. People could not see how it
+could ever end. It kept going up. It
+kept going up. People are like, "It's
+the future." And then we got to a point
+where people were burning through cash
+in these companies. Um cuz a lot of like
+like uh new companies need a ton of cash
+to get to get going. We could see
+something like that happen again where
+eventually you just run out of money. Um
+so I don't know the precise form. I do
+know it won't come from the street
+charitably saying, "No, we're going to
+stop this. It's not it's it's it's not
+good for you." You know, it's like a
+restaurant saying, "We're going to only
+serve you really lousy tasting healthy
+food." Um, unless you're explicitly a
+health restaurant, most restaurants
+would go out of business doing that. And
+I don't think the street's going to do
+that. And I, you know, I'm being cynical
+about them. I don't think it's
+necessarily their job. They're brokers.
+They're not investment advisors. They're
+not telling you everything they're
+offering you is great. They're saying,
+"Here's the bet. If you want to take the
+bet, take the bet." I am simply advising
+people they probably shouldn't be taking
+that bet. So, I don't even want to be as
+critical as I'm sounding. Um, all I can
+tell you is the deeply unsatisfying this
+will end. Um, or at least we'll abate. I
+don't know if people in the audience
+should take away the idea though from
+this that you're saying that people
+should run away from risk, right, or
+volatility. In fact, you wrote recent,
+you've been critical of vehicles that
+kind of mask volatility from people when
+people try and think they're hiding from
+it.
+&gt;&gt; And you wrote recently, you said,
+&gt;&gt; "I'm advocating for it." Lean into
+volatility is the motto uh of that
+particular piece you were writing. So,
+why should embrace investors embrace
+volatility, but how do they avoid some
+of the pitfalls you've been talking
+about here? The way most of the world
+makes their money is markets going up
+over time. So if there's still a
+positive premium, the more volume you
+take in that, the more you will make
+long term. If you take too much that you
+can't take it, that you have to get out
+at a low, you've taken too much.
+&gt;&gt; Uh but volatility, it's the price of
+admission. It's what you accept to get
+the upside. So I'm certainly not anti-
+volatility.
+&gt;&gt; Um what I wrote recently was about alts
+in particular, uncorrelated
+alternatives. One criticism and we were
+we were talking around this a little
+before. One criticism of alts which has
+some bite to it is they again they can
+improve the risk adjusted return but not
+the top line. Um I
+I suggested then equitizing them which
+also works. Another thing you can do is
+be more aggressive in your alt. If you
+do double the alt you'll have double the
+swings. You have to be able to tolerate
+that, but you can get it probably to a
+point where it does move both the top
+line and possibly reduce the the the
+bottom line. And you know, as long as an
+investor does that with open eyes and
+knows what they're doing,
+&gt;&gt; I I think that's a tool to be able to
+take more volatility.
+&gt;&gt; We're going to take one last break and
+then we have a final question for Cliff.
+President Trump has advocated for
+getting rid of the requirement to report
+quarterly earnings and proposed moving
+to a six-month model instead. What do
+you think of his proposal?
+&gt;&gt; I um this is a hard one because my
+instinctive reaction is not to like it.
+Um because it feels a little like what
+we've been talking about with volatility
+laundering. Um you know, things will
+look less less crazy. There's there's a
+great uncertainty about whether this
+would make things calmer or less calm
+because people think quarterly stuff
+makes things less calm. But the stakes
+are raised if it's every six months.
+Suddenly that number that on a quarter
+can drive things. You're going to learn
+a lot of new information. Um though I
+have to be intellectually try to be
+intellectually honest. There's no magic
+to a quarter. We made that up in in the
+past. Um, if you told me that the right
+number is monthly and we should make
+this a more prefuncter thing that no one
+gets too razed about or you can make it
+annual,
+again, there's no proof. I personally
+prefer more information to less. So, I
+don't love it. Um, I think I I think the
+motivation on it is to get closer to the
+private world just like ju just like
+there's a move to put privates in 401ks.
+There's a move there's a movement to
+show less crazy just to damp it all. And
+I don't like that because I like closer
+to truth. But this is not the hill I'll
+die on because I have no theoretical
+world that says quarterly was right and
+and everything else is wrong. I do think
+the general knock of short- termism,
+which is part of the argument against
+quarterly, I think that's overdone. Um
+like the most expensive stocks in the
+world today are not short- termism.
+there because people think they're going
+to do this over the next 10 years.
+&gt;&gt; We often talk about how their quarterly
+reports don't even seem to matter to the
+trajectory of this.
+&gt;&gt; Um so I you know I think short- termism
+is generally uh overdone. I still think
+the stock market is mostly focused on on
+long-term. It'll react to short-term
+information. Um but it's part of a
+discounting process of what they think
+the next 30 years will look like. So I I
+can't get my back too too up on it. I
+probably wouldn't change it. But of the
+many things out there that if I I were
+um the demigod in charge of markets and
+got to set the rules, this would not be
+high on my list. I would I I'd be okay
+with it.
+&gt;&gt; And lastly, what do you think is the
+biggest risk to markets right now?
+&gt;&gt; Um
+I don't know. The the I'm not a monetary
+economist, but I think the Fed has at
+least a mild bind right now. Economy on
+some on some things I think is
+definitely at least a little slowing. Um
+I'm not a doom and gloomer. I I won't
+say it's, you know, we're about to to to
+fall off a cliff, but we see a little
+slowing and inflation is still at the
+high end of the range they want. Um, my
+my personal guess is they cut a little
+bit next time. We don't trade on this.
+We're not Fed watchers. I could be
+totally wrong about this and we could do
+very well or I could be totally right
+and we could have a lousy period. This
+is not how we make our money. So, this
+is purely me. Um, but I don't think they
+can do very much when inflation's still
+at the high end of of their range. So,
+that's a little scary. My biggest worry,
+uh, um, is probably, you know, some of
+the things we've been talking about.
+There is a lot of froth. There is, you
+know, the thing you and I talked about
+about how this ends. It will end, but
+how it ends. And the old Robert Frost,
+some things end in fire and some things
+end in ice.
+Financial things could be the same. Some
+things end with long slow lower returns
+than you expected.
+Some things end in a conflration and no
+one knows how to forecast that. So when
+we have the world that we've been
+talking about this whole time of mob
+psychology and and bigger moves, maybe
+you have a slow air out of the balloon,
+but maybe not. And I'm not making big
+bets on this myself, but I do find it a
+little frightening.
+&gt;&gt; Right. what what's happening in the
+political world is echoing what's going
+on in the financial world.
+&gt;&gt; So far, if anything, I've been shocked
+how little, aside from liberation day
+and the aftermath on how little some of
+the volatile politics around the world
+has affected markets. I I actually think
+most of that is actually fairly
+rational. I think politics actually
+matter less to company earnings, which
+is ultimately what's going on, than
+sometimes people think. But
+historically, they do react to it. Um,
+so you know, maybe I could view this as
+a positive that that in this sense maybe
+they're getting more rational. Uh, but
+it also feels a little weird um that
+they're acting different on that front.
+It feels a little like they're just
+whistling past stuff.
+&gt;&gt; Cliff, this has been so fun. Thank you
+for joining us.
+&gt;&gt; Oh, thank you. I really enjoyed it.
+&gt;&gt; Yeah, this is great.
+[Music]
+&gt;&gt; Well, actually, it's funny.
+A few weeks ago, we were prepping for um
+a podcast episode and Telus was like,
+"Did you see Cliff's tweet on Fartcoin
+was a while ago?"
+&gt;&gt; Yeah, maybe it was more than a few weeks
+ago.
+&gt;&gt; Had some fun. Um the very fact that the
+world is so weird that they have people
+like me discussing something called
+fartcoin.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; They've achieved something.
+&gt;&gt; It's a legitimate like financial right
+like it's worthy of coverage in the Wall
+Street
+&gt;&gt; and the bad jokes just write themselves.
+Um, you can just fart them out. Yeah, I
+say so.
+&gt;&gt; Moving on.
+&gt;&gt; Yes.
+[Music]

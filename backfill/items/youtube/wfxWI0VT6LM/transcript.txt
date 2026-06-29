@@ -1,0 +1,1350 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+Hello and welcome to another episode of
+the OddLots podcast. I'm Joe Wisenthal
+&gt;&gt; and I'm Tracy Aloway. Tracy, I was at a
+uh my cousin's wedding this weekend and
+I have a lot of uh lawyers in my family
+and every time I didn't know that.
+&gt;&gt; Yeah. Yeah. In my extended family, a lot
+of lawyers in there
+&gt;&gt; and I'm always asking them like what
+they do and stuff. Within like 5 seconds
+of any conversation, I'm like tell me
+about trials and like techniques like
+sway the jury and etc. The stuff I see
+on TV. I am aware though that that is
+actually not that big of a part of many
+lawyers like day-to-day. Mhm. Well, uh I
+have a lawyer in my family too, an ex-
+lawyer, uh my husband,
+&gt;&gt; uh who did big law, big corporate law,
+absolutely hated it and got out of it,
+um luckily. And so I have a feeling in
+this particular episode, I'm just going
+to ask a lot of work life balance
+questions based on my own experience, my
+husband's experience. Yeah. But it is a
+huge industry and it's one of those
+industries that I think all financial
+journalism actually doesn't do a good
+job of covering along with accounting.
+So we should talk about it.
+&gt;&gt; We definitely should talk about it. We
+should talk about it way more than uh we
+do within the AI conversation
+specifically. You hear a lot about the
+prospects of this being either like a
+force multiplier or a labor reducer
+because my understanding is that a lot
+of like especially like junior lawyers,
+they're up all night. What are they like
+looking for misplaced commas? Because
+those could be a big deal in contracts,
+right? And so in theory, and again
+Tracy, I'm sure you know way more about
+this than I do, but in theory that sort
+of seems like something AI might be good
+at like, oh no, if the comma is not here
+and it's there, then that totally
+changes the definition of this clause or
+whatever. There's a famous case
+involving a comma that did exactly that.
+Um, so many points to make here. First
+of all, I am vastly in favor of anything
+that makes corporate lawyers lives uh
+slightly more efficient and happier. So
+AI could be useful here. But I also
+wonder, you know, the lawyer profession,
+they have things like templates and
+standard forms and stuff like that. So I
+also wonder how much of an improvement
+AI will be here. So I'm excited to talk
+about it. You know that Tracy, when they
+get the AI tools really in place,
+they're just going to give them more
+work because they're like, "Well, AI,
+&gt;&gt; that's what I suspect."
+&gt;&gt; Yeah. Yeah. No one's actually.
+&gt;&gt; By the way, I have a lot of stories of
+like partners calling from their fishing
+boats on the weekend demanding that
+junior lawyers go into the office and
+like fix a comma and things like that.
+&gt;&gt; All right. Well, I'm really excited to
+say we do have the perfect guest,
+someone that I've known for a very long
+time, someone who just knows about a lot
+of stuff, someone who is a lawyer. We
+are going to be speaking with Joel
+Worerheimer. He's uh currently at
+Worheimer Fleer LLP, a civil rights uh
+firm here in New York City. He is
+previously at the White House. He's done
+big law in the past. He knows a lot
+about a lot of stuff. He knows a lot
+about poker. He knows a lot about AI.
+Someone I think we could just talk to
+about anything. He knows a lot about
+elections. He just sort of knows
+everything. Uh Joel, thank you so much
+for coming on OddLots. Thrilled to have
+you here.
+&gt;&gt; Thank you for having me. Um, why don't
+you real quickly tell us like who you
+are? What do you do? Why are we talking
+to you?
+&gt;&gt; I run my own civil rights law firm. I
+just partnered up. And we sue the
+government mostly uh for violations of
+civil rights. Sometimes that's false
+arrest or wrongful convictions. Uh
+sometimes that's wrongful removals of of
+kids in let's say child services for a
+shaken baby. That was a false
+accusation. That sort of thing. And we
+try to get people compensation for the
+wrongs of their constitutional rights.
+That's about 80% of what we do.
+&gt;&gt; Personal question. Are civil/criminal
+lawyers are they happier than corporate
+lawyers?
+&gt;&gt; I would say on average, sure, but the
+distribution is probably pretty wide for
+each,
+&gt;&gt; you know, I look, I do think on the the
+nice thing on the plaintiff side and as
+like I'm my own boss. I get to, you
+know, determine how much I work and each
+extra case is just more money or less
+money if I if I decide not to take it.
+And so I can sort of set my own work
+life balance when I do that, you know,
+and I'm it's it's constantly a decision
+of sort of what's the expected value of
+a case and and is it worth it to me in
+terms of the hours I have to put in.
+&gt;&gt; So let's talk about when you were at uh
+big law and you know I joked that you
+know people they're up at 1:00 a.m. and
+they're looking at commas. I know that's
+a little bit of an exaggeration, but I
+No, it's not. It really isn't.
+&gt;&gt; Yeah, I guess it's not. And I know that
+uh lawyers are really obsessed with
+billable hours, and I think they even
+like measure things in 10-minute
+increments, like so six minute
+increments.
+&gt;&gt; If you're a junior associate or you
+enter a law firm, whatever. What is the
+modal use of your time? What are you
+mostly doing when you're clocking those
+six-minute increments?
+&gt;&gt; Right. So it's going to I'm I can only
+really speak to litigation because you
+know corporate you're I think just
+reviewing
+&gt;&gt; contracts and deal points constantly.
+For litigator
+&gt;&gt; a lot of your your time is in discovery
+and that's true small law big law but
+you are reviewing documents
+uh synthesizing what they say. Maybe
+you're trying to do a privilege check
+and say okay this document we can't turn
+over. You know that's changed some
+actually with machine learning. The
+predictive coding has shrunk the amount
+of time that you know junior associates
+are spent doing that. Legal research
+fights with opposing council. You need
+to give us these documents. You're
+saying they're privileged. They're not
+privileged. That sort of thing.
+&gt;&gt; And then there's the smaller section on
+taking depositions, you know, briefing
+things to court. So that's a very broad
+overview of those six minute increments.
+And yes, editing and reviewing and
+looking for hanging commas, you know,
+hanging headers. That was always the
+bane of my existence was forgetting that
+there was a hanging header and getting
+yelled at for it.
+&gt;&gt; That sounds bad. You know the economics
+of a big law firm. It feels like this
+very big pyramid structure which I think
+is replicated in many industries around
+the world probably in finance to some
+extent and then uh I think even academia
+to some extent. But talk to us a little
+bit about like how that value acrus to
+the entire firm and the partners and the
+distribution of the uh the fees that the
+clients are paying,
+&gt;&gt; right? So you have what they call uh
+leverage in a law firm. So you have
+equity partners, some firms have equity
+partners and income partners who don't
+actually own a share of the firm, but
+the partners are trying to get leverage
+on the associates. a one partner to say
+four associate ratio. All of the big law
+firms uh basically pay the exact same
+amount to their associates. This is
+called the crevath scale. If you you can
+you can look it up and it'll say a
+thirdyear associate makes $250,000
+and gets this bonus each year. Let's
+just say for for uh the average
+associate bills $700 an hour and is
+expected to bill about 2,000 hours a
+year. So they're they're generating 1.4
+million for the firm in revenue in terms
+of build out and they're getting paid uh
+I'd say with taxes and and everything
+500,000. So the partners are making
+$900,000 for every extra associate. So
+if you have a 4 to1 leverage n you know
+uh 900,000 profits per partner 3.6
+million. And that's how they're trying
+to think of it. And the the big
+partners, the rain makers are the ones
+who can generate enough work to support
+those associates. Got it. Uh and if you
+can't support those associates, your
+leverage goes down, your profits go
+down, you might have to lay people off,
+that sort of thing.
+&gt;&gt; It's nice to be a partner at big law.
+But on that note, so my understanding at
+least in corporate law is that it is
+harder to make partner nowadays than it
+used to be. And this is part of the
+reason why it's a miserable experience
+because it used to be in the past, you
+know, you work really really hard,
+basically give up your life for like two
+decades or whatever and then you get
+rewarded with a huge salary and you
+don't have to do as much of the grunt
+work. Your job is basically sourcing
+deals and making the intros and stuff
+like that. Do you get that impression as
+well on your side?
+&gt;&gt; I definitely see from the outside that
+it seems harder to make partner. I think
+that's led to people more people leaving
+earlier to do their own firms. I think
+it's easier than ever to start your own
+firm. And so
+&gt;&gt; why is that?
+&gt;&gt; I mean, for one, I mean, for me, for
+example, I didn't need an office when I
+started. I started in January of 2021. I
+had a desk at a, you know, at another
+law firm that collected mail. I think
+the number of services are just easier
+to access. even things like you know now
+if you really wanted to like cut you
+could start with a cheaper uh legal
+research service than than Weslaw things
+like that I think and you've seen it in
+the in the business creation numbers I
+think you see a lot of professional
+services you know splitting off from
+firms but I definitely think it's harder
+to make partner they have had that
+they've added this income partner level
+so you make partner but you're not an
+equity member of the firm um I think
+&gt;&gt; consolation prize
+&gt;&gt; that's right and and you get to shop the
+title I think is the other reason you
+know so let's say you want to go
+in-house somewhere now you're a partner
+at this firm and you can say you're a
+partner at the firm even if you haven't
+bought in but I think that structure has
+been around longer honestly it feels
+like the same thing it's in academia
+it's harder to get tenure now it's a it
+just the the ladder's getting pulled up
+I guess in in these sort of industries
+[Music]
+would anyone go into a big law firm if
+they knew in advance that they wouldn't
+make partner like there's so like the
+angel of the future comes to them in a
+dream and says you know what you're not
+going to make partner would that still
+be worthwhile or is the prospect even if
+it's declining of making partner like is
+that crucial towards that decision if
+you knew in advance you weren't going to
+make it would anyone make that decision
+&gt;&gt; so they do have staff attorneys at big
+law firms that are people who are not on
+partner track
+&gt;&gt; okay
+&gt;&gt; and
+&gt;&gt; and those are fine careers
+&gt;&gt; and they're fine careers I think people
+you know but they also have less
+expectation of how much they're going to
+to work. You typically wouldn't do it.
+And the reason they have this upper out
+sort of system at the big law firms uh
+is because the prospect of being partner
+drives you to 2,2500 hours how many it
+is. You're showing how
+&gt;&gt; the light at the end of the tunnel,
+right?
+&gt;&gt; That's right. So, you know, I think
+look, the training is really good. The
+cases are really interesting. like I I
+actually quite enjoyed some of it, but
+that pressure to to bill and work is is
+you probably wouldn't want that
+&gt;&gt; when you say training like you know I
+don't like what's the deal like in law
+school you don't even learn about any of
+the things you actually do as a lawyer
+&gt;&gt; you you certainly learn you know how to
+think about the law but you're not
+learning in the and you have a legal
+&gt;&gt; I think this is actually important for
+the AI component of like okay what is
+how do you actually learn to be a lawyer
+if you don't really do it in law school
+and then you know AI is going to take
+over more and more of these functions
+like the pro where do you learn right
+&gt;&gt; so what is the learning
+&gt;&gt; so here's an example you don't learn how
+to have uh a dispute about discovery in
+law school okay you know I I sent out
+discovery demands you owe me documents
+right under in the American system of
+law somebody you get you end up in a
+lawsuit and each side is obligated to
+exchange documents with each other and
+you you send out demands and and you ask
+for a certain category of documents and
+they come back and say, "We're not going
+to give them to you. That request was
+overly burdensome or they're not
+relevant
+&gt;&gt; or they say they lost them
+&gt;&gt; or they say they they lost them." And
+you have to have a fight about getting
+the documents, what keys, what keywords
+did you search, who did you collect
+documents from, all of those sorts of
+things. And how to have that dispute,
+how to make the request so you don't get
+the the denial, those sorts of things.
+and what the writing looks like and
+feels like you just don't get in in law
+school. You just the and and even
+writing a brief and what's a persuasive
+brief you the edits those sorts of
+things you you learn how to do legal
+writing but it's just you can't do it
+until you're doing it.
+&gt;&gt; Got it.
+&gt;&gt; Okay. So on that note, I mean AI seems
+possibly most at home replicating the
+work done by say a mildly competent
+maybe not too tired junior associate and
+historically you do that work for many
+years and you build foundational skills
+of being a lawyer like attention to
+detail and issue spotting and I guess
+risk triage and that sort of thing. If
+those tasks, those formational tasks are
+now outsourced to AI, what do you see as
+the impact on junior lawyers?
+&gt;&gt; It's a great question. I think it's
+going to be hard for junior lawyers at
+big law firms uh to get their their sort
+of that training. On the other hand, it
+may just be that they are doing more
+work and so on the same things but more
+efficiently. Maybe they're they're now
+going to have more uh fights about
+documents uh and less time spending
+reviewing the documents. Maybe they can
+increase the volume of things they
+demand, that sort of thing. I certainly
+think that the the leverage model is and
+the build our model is going to run into
+some difficulty. It'll also make their
+lives easier just in terms of, you know,
+as an example, you get discovery
+requests. I talk about discovery a lot
+because it's truly like a lot of the
+work of being a lawyer. But they come,
+you know, the other side will send you a
+PDF with a bunch of demands and then
+you've got to respond to the demands.
+And even just the the moment where you
+have to convert the PDF into a word
+document and start editing the work word
+document is like the true bane of my
+existence. And I've actually started
+using this AI program. It's called
+briefpoint AI
+&gt;&gt; and and they it's also very templated,
+right? So you're constantly trying to
+find templates. Hey, other associate in
+this law firm, can you send me, you
+know, a previous document now? I can
+they have, you know, 80 different
+objections that you're used to making
+and they convert them and it's a lot
+more point-and-click. And of course, you
+have to know what you're doing when
+you're, you know, that these objections
+are valid, but just the document
+formatting and getting it through, you
+know, and it look to to look good and
+and not have to fight with Microsoft
+Word for 3 hours is really valuable.
+&gt;&gt; I realize I should have asked this
+earlier, but when we say AI, what does
+that actually entail in the legal field?
+Because as you point out, I mean,
+templates, standard forms, those sort of
+things have been around forever and a
+lot of law firms already use template
+software to quickly duplicate work or
+make document packages or whatever. So,
+when we talk about AI in law, what
+exactly would that be?
+&gt;&gt; I think it can be a lot of things. One,
+it can be making that template process a
+lot faster and uh, you know, that will
+free up labor time for sure. the you
+know JT GPT's 03 Pro is doing legal
+research now that is quite excellent
+&gt;&gt; this is really important people who
+think that this that 03 is dumb or is a
+hallucination machine are not or that
+CHBT is have not used 03
+&gt;&gt; that's that's my view and you know
+there's this professor at uh Georgetown
+I think his uh name is Danny Wiltown
+who's just sort of every time a new
+model has been coming out has been
+running sort of exam questions that he
+gives to his students. I think it's in
+his federal courts class about, you
+know, how how they do on each of these
+questions. And when 03 came out, not
+even 03 pro, when 03 came out, it was uh
+it it answered them all, some of them
+excellently, and even got what he it was
+it's called an issue spotter question.
+So, it wasn't on the face of the
+question. It was an appellet
+jurisdiction question. If you really
+were thinking hard about it as a
+student, you would have noticed this
+issue that he wasn't asking about
+explicitly, but there might not have
+been jurisdiction to even bring the
+appeal that he prompted you about. And
+03 caught that. And when I've used it,
+you know, you hear a lot of these cases,
+you lawyers getting sanctioned because
+they're, you know, submitting things
+with hallucinated cases. And
+&gt;&gt; there's some funny examples of that.
+&gt;&gt; They're they're amazing. And the thing I
+think to myself is you would never
+submit as a as a partner at a law firm.
+You'd never submit whatever the junior
+associate just turned over to you.
+Sometimes they didn't understand the
+case exactly right. And so you're that's
+the job is is checking the cases.
+Shepherizing is the is the I think the
+Lexus term for it. And and making sure
+the cases stand for what they say that
+there's still valid precedent. That's
+the job of being a lawyer. And now I can
+rely on 03 to start some of the research
+for me. Fi point me even just to point
+me to the cases and it's citing to the
+cases. And this is without access to
+Bloomberg Law or or Thompson Reuters or
+anything like that. I assume it's coming
+and and once it's going to be integrated
+with those databases of cases. Right now
+it's just trollling the the internet. Um
+I think it's going to do a fantastic
+job. And you spend so much time as a
+lawyer, as a litigator, thinking of the
+boolean search terms for Lexus, the and
+or these sorts of things and and you
+don't know the exact term that's going
+to come up in the case. You know what
+the all of the president use this term?
+Uh and
+&gt;&gt; not having to think about that. I can
+run it in the background as I'm doing
+another task and for 20 minutes and
+something comes back from 03, it's got
+the five cases that I need to to dig in
+and find the the right,
+&gt;&gt; you know, language to then go on Lexus
+and then to to chase it down.
+&gt;&gt; I've been using 03 more for just sort of
+my own like intellectual questions from
+time to time.
+&gt;&gt; Your own lawsuits? No, I haven't uh done
+any uh I haven't started any lawsuits
+yet, but this is really the way that
+I've been using it, which is that it's a
+fantastic tool for just like discovering
+the re the existing research that's out
+there. I was looking at something I was
+curious about like trade barriers within
+China between provinces, you know,
+something like that. There is a lot of
+research that's been done on the
+question of like, okay, if each of these
+provinces has some motivation to promote
+their champions, is there any tension?
+There's something I would have it found
+all of this uh all it it had the links
+to the academic research that's been
+about it. It had summaries of them. The
+summaries may have been wrong, but I'm
+not in the pos I'm not going to like
+copy and paste summaries and present it
+as my work. I could click on it most of
+the time. It is they are pretty correct.
+&gt;&gt; It's so what you say in terms of like
+just even like being able to find the
+relevant case law etc. seems extremely
+powerful and time-saving. It's truly
+been life-changing for me. I and and I
+like doing legal research. I like
+getting into the cases, but just, you
+know, if there's a new issue and and you
+just don't know where to start,
+&gt;&gt; you know, that's that was always, I
+think, for a junior associate, where do
+I start? And I think it will make their
+life easier in that regard, even if it
+might also make their lives, you know,
+hard.
+[Music]
+Okay. Uh, timesaving, making associates
+lives easier. That sounds great. Um,
+from a personal perspective, but what
+does that actually mean for billable
+hours? Because of course, the whole
+business model seems to rely on eking
+out as much work, as many billable hours
+as possible, right? And that includes
+grunt work, which theoretically could be
+done by AI now. And I'm not sure big law
+or any law is going to be necessarily
+incentivized to uh to use AI if it means
+a reduction in billable hours. I suppose
+they could make it up in volume. Maybe
+that's that's the idea. They can take on
+more cases. But is is that the
+expectation?
+&gt;&gt; They might be able to make it up in
+volume. I do think things like they call
+them, you know, ultim al alternate fee
+arrangements are going to become more
+popular. we get a flat fee of, let's
+say, $5 million to do this deal for you
+or something like that.
+&gt;&gt; And then you're incentivized to do it in
+the fewest hours possible. That's right.
+Keep going.
+&gt;&gt; Um, so so that's one possibility that
+the the model just changes. The billable
+hour, it stops being the model. The
+other thing is, you know, the way it
+works right now is I it's been a while
+for me. So, you know, the big partners,
+let's say they're they're billing out at
+$2,000 an hour or $1,500 an hour and and
+the associates are $700 an hour. I think
+in a lot of ways what the client is
+paying for is the is really like $5,000
+an hour for the partner and and 400 or
+300 for the associate and but it just
+gets build out se differently
+&gt;&gt; and I think one thing is that partners
+might just acrue a lot more of the value
+with fewer associates they still have
+the build hours they're just a lot more
+efficient and you know in particular I
+think for general councils who are
+hiring at The big law firms, they're
+hiring for safety. You know, nobody ever
+got fired for hiring Crevath. It's sort
+of like a way to to think about this or
+a big law firm. If something goes wrong,
+you want to have hired the best lawyer
+you could and say to your board or your
+CEO, look, I hired a great law firm and
+and they just they just missed it, but
+look, this is everybody agrees this is a
+great law firm. Which is all to just say
+that I think one possibility here is the
+build hour remains but all the value
+acrru to the to the the top top lawyers.
+&gt;&gt; I mean that seems like it'll have
+implications. We should talk about that
+further. Something I have done is I'll
+take episodes transcripts of oddlot and
+afterwards I'll do a little
+self-criticism session where I'll like
+say like where could we have pressed
+this? Uh where were the weaknesses in
+the guest's answer? where should we have
+pressed further and harder? What were
+some of the logical flaws? What would
+you have done differently, etc. And
+sometimes I found that to be useful.
+Have you been able to use AI for
+essentially like building better
+arguments or finding weaknesses in an
+argument or anything like that yet?
+&gt;&gt; I haven't done that yet. I'm sure I
+will. I have used it for taking audio
+and making it into transcripts. I mean,
+that's just like a foundational thing
+for me. Yeah, prison will produce an
+audio of
+&gt;&gt; a hearing or something like that and I
+need the transcript and I need to like
+just read it instead of listening to it
+for 40 minutes. But self-criticism,
+&gt;&gt; but yeah, but it also it does sound like
+you mentioned the issue spotter question
+like like actually being able to
+identify real legal questions,
+&gt;&gt; not just identify precedent.
+&gt;&gt; Yeah. Not just identify precedent, but
+actually logical sequences or where like
+it sounds like that's where you're
+getting at. I'm sure it is coming and I
+think as I um you know get as as the
+models get better and I have to produce
+a brief and and maybe I can start
+running it through. Of course lawyers
+all have huge confidentiality concerns
+with everything they do. So I'm very
+careful about what I'm putting into GPT
+u you know and
+&gt;&gt; you got to run your own DeepSk instance.
+I think that that's right. And I think
+the big law firms are having sort of
+servers on site with their own models,
+but those models aren't as good as 03
+yet. And so I think as you can start to
+have great models inhouse on your own
+servers, that's going to really be the
+the thing that that launches it. I can't
+do that cuz it's just me and and I'm not
+going to host a server farm. But I do
+know right the new Apple chips on these
+very nice the newest they can run you
+know things like llama very well and so
+it's coming. Uh but but I think for the
+top models I'm sort of reluctant to put
+everything up there.
+&gt;&gt; That makes sense.
+&gt;&gt; This is exactly what I was going to ask
+next which is how do clients feel about
+AI in the legal industry? Because I
+imagine, you know, nobody ever got fired
+for hiring Crevath, as you mentioned, or
+some other magic circle law firm. But on
+the other hand, if Kvath is now using
+AI, I imagine on the client side, maybe
+there's some concern over having their
+material contracts or employee data or
+financing documents or whatever getting
+uploaded to off-site servers. And then
+there's also the question of what if AI
+just makes a mistake? Although as you
+pointed out, no partner would ever
+submit something um done by a junior
+associate without actually reviewing it
+first. So maybe that's not as much of an
+issue. But are there any um qualms I
+guess coming from the client side that
+you see? So I I can't speak to the big
+law as much anymore and it's it's very
+different I think on my side and I think
+you know my my clients are their qualms
+are are much sort of bigger in terms of
+privacy and and much more you know
+focused on on the government and and are
+wanting to get just the best
+representation they can. So but for
+example I'm getting medical records from
+my clients a lot. That's a lot of the
+job of a plaintiff side lawyer is
+documenting injuries, thing like things
+like that. And they're certainly
+concerned about their medical privacy.
+And so I can't, you know, use AI yet to
+to take the medical records and condense
+them into, you know, the quick
+summaries. Um,
+&gt;&gt; but those programs I'm sure are coming
+where, you know, you have there's
+there's privacy and security and all of
+the things. They probably exist already.
+I'm just not using them yet to make that
+part feasible. Um, I am sure that you
+know if you are Goldman Sachs and you
+hire a big law firm and they've been
+doing your your deals or your IPOs such
+as they exist right now and you don't
+want the the law firm training on your
+documents to go use them in in other
+deals, I'm sure this is an an issue. On
+the other hand, you know, it might
+reduce your legal costs by by half and
+you can fight about that. And so, you
+know, what they're willing to do, I
+don't I don't know. Let's extend forth
+some of these economic questions because
+allowing the senior partners to acrue
+more value by not needing to allocate as
+many hours to the junior lawyers that
+makes total sense for this specific
+generation, right? Because okay, some
+people are lucky enough to have made
+partner before AI and then other people
+are going to be in this situation which
+their value maybe uh you know could be
+done more cheaply or for a few hours but
+10 years from now whatever a lot of
+those partners are going to be retired.
+etc. Like what is the downstream
+consequence of your view in your view of
+some of these shifts that are happen
+right now because you know eventually
+all the partners you know eventually
+everyone's going to die and there's
+going to be new like where does this go
+like what's the next what are the
+consequences
+&gt;&gt; so I think that uh the skills that will
+be valued in lawyers are just going to
+change a lot the interpersonal skills of
+client management walking your client
+through the risks that they have they're
+nervous they're getting sued. These are
+bet the company litigations. The lawyers
+who can make them feel safe and let them
+understand what's happening to them and
+what their odds are. Those sorts of
+things. The lawyers who are great at
+taking depositions and the lawyers who
+are great at oral argument, those skills
+are going to go up and up, I think, in
+skill uh in in value. and the scale of
+legal research or just being great at
+writing a brief. I do think that that's
+going to get maybe not the 99th
+percentile brief writing, the people who
+are going to the Supreme Court and who
+are just truly excellent. Maybe that
+will take time, but the sort of grunt
+work, you know, solid junior associate,
+mid-level associate, senior associate
+who are writing the briefs that I I
+question whether that skill will have
+the same value. But there's a lot of
+interpersonal
+skill that matters a lot for for being a
+lawyer and that's going to go up in
+value.
+&gt;&gt; Now the question with any new technology
+is does it cuz one argument is clear
+okay there's an x amount of demand for
+legal services and there's an x amount
+of people who supply them and maybe you
+you save you save some money. Could the
+market for legal services grow such that
+if capacity to do legal research and
+some of this other stuff gets cheaper
+that there are more areas it's like oh
+you know what maybe this is worth filing
+a lawsuit everywhere. This was actually
+going to be my my question as well but
+particularly for poor plaintiffs who
+normally can't afford a lawyer. What did
+they call them? In
+&gt;&gt; indigent and they sometimes will file
+prosay on their own behalf
+&gt;&gt; or maybe more lawyers like you take on
+cases take other cases that in five
+years ago the economics wouldn't have
+made sense but today the economics made
+sense like could it just be you know
+Jevans paradox but for law. I think
+that's absolutely going to happen. You
+know I can just sort of walk through the
+economics of one of my cases. you know,
+somebody comes in and they say they they
+had a false arrest case against the the
+NYPD and they spent, let's say, 5 hours
+in custody. We sort of know what the
+expected value of that case is. You
+know, you're doing what chance are you
+do you have to win and what are the
+damages you are going to get when you
+win and I can sort of and then I I a
+contingency fee typically a third in in
+New York. And you can sort of do that
+math of the expected value of the case
+and then think about how many hours it's
+going to take to to win that case or get
+to a settlement.
+&gt;&gt; And if I'm using AI to make myself more
+productive in my research, the number of
+hours that I'm expecting to put into
+that case goes down. Suddenly my hurdle
+rate of for, you know, what it takes to
+to take on that case has gone down and I
+can take on more cases for the same
+number of hours.
+&gt;&gt; And so that I definitely think is
+coming. It's also the case that right
+and because of that because lawyers have
+to think in that term of you know how
+much is it going to cost me to do this
+case in terms of labor there are a lot
+of cases brought prosay uh in in the
+court system right now I think it's like
+20 25% of cases are from prosay
+litigants
+&gt;&gt; these are the people represent
+themselves
+&gt;&gt; who represent themselves because they
+can't afford a lawyer or you know my
+cases are contingency people are paying
+out of pocket but so I can't afford to
+take on the case because the damages
+aren't potentially high enough that's
+how I have to sort of think about it.
+And so I think there's going to be a lot
+more representation of those people.
+It's also the case probably that prosay
+lawyers are going to start getting
+better that you know uh you said you
+were doing research on your own you know
+with 03. It's possible that you know if
+if it was just a little dispute with
+somebody over some amount of money you
+might think I can do this myself rather
+than trying to go find a lawyer. And so,
+you know, but for legal aid, for people
+who are criminal defense attorneys at
+legal aid, those attorneys, I think, are
+about to go on because of how overworked
+they are and underpaid they are, they
+they might get a lot more efficient and
+be able to represent a lot more people.
+&gt;&gt; Tracy, I'm imagining a lot of very
+annoyed judges by like prosay
+&gt;&gt; frivolous lawsuit. No, I mean, no, I
+mean like someone who did their own
+research cuz nothing's more annoying
+than someone who does their own research
+and then they're like they're like
+citing all these cases that they learned
+about yesterday and stuff like that.
+Like it just seems like you have a high
+potential for obnoxious obnoxious people
+who think they know.
+&gt;&gt; No, no, no. You're democratizing case
+law. That's what I say.
+&gt;&gt; I want to be clear. They're already
+getting that. The the judges are getting
+a lot of it. especi pro, you know,
+prosay prisoners who get to spend a lot
+of time
+&gt;&gt; in the legal librarian and are filing
+cases and some of them are are excellent
+and and but sometimes they're they're
+not so good. I clerked for a federal
+judge and and we saw a lot of this
+litigation, a lot of it prosay. I don't
+know that they're, you know, providing
+AI access in in prisons unfortunately uh
+in terms of litigation, but I I think I
+actually think there are going to be a
+lot of annoyed judges because there's
+going this is going to happen. It also
+might be the case that it uh raises the
+floor of
+&gt;&gt; you see a lot of bad legal writing even
+from lawyers and and I could see it
+getting it actually getting a little bit
+easier to be a to be a judge and a
+clerk.
+&gt;&gt; If everything becomes more
+volumeoriented or the business model
+becomes more about the volume rather
+than the billable hours. Do you see a
+situation where I guess the emphasis on
+sourcing deals in corporate law or
+sourcing cases um in plaintiff
+&gt;&gt; does that become more important like
+that's the skill set that you actually
+need that sort of like matchmaker
+process? I think that there's yes I
+think f look finding finding the deals
+making the the economics of the of the
+relationship work is going to go up a
+lot in value you know I think it's
+already the case you you all see legal
+advertisements for personal injury
+lawyers everywhere all the time
+&gt;&gt; pain law yo
+&gt;&gt; it's so I mean legal search terms on on
+Google are are the most expensive uh
+cost per click I mean these thousands of
+dollars for cost per click. Case
+acquisition, I think, is might go up
+even more because if you can just get
+the case in
+you're working less on the case, but
+you're still getting your third
+contingency fee, you might be willing to
+pay even more and more to just generate
+this volume. I mean, already mills
+exist. They call them, you know,
+plaintiffs mills. People who are doing,
+you know, 600 cases per, you know, every
+couple attorneys or something like that.
+the economics of that and just acquiring
+the case are going to go I think way way
+up until maybe they start competing on
+price because they can do so much more
+volume.
+&gt;&gt; I want to talk about advertising. Hey,
+have you Tracy Orel have either of you
+heard the radio ads for Top Dog Law?
+&gt;&gt; Yes.
+&gt;&gt; Um I have not.
+&gt;&gt; You every listener go to YouTube and
+just type top dog law ad. They're the
+most incredible, aren't they, Joel? Like
+they're really incredible.
+&gt;&gt; Yes. like just go search right now or
+when the episode and listen to some of
+these um ads. Do you buy ads on Google?
+&gt;&gt; I I've done some Google ad campaigns. I
+haven't really um
+&gt;&gt; This is actually another topic we're
+interested in.
+&gt;&gt; But a lot of I mean a lot of plaintiff
+side civil rights lawyers are are buying
+space. It's just not how I've chosen to
+compete. I do more referrals from
+defense lawyers, that sort of thing. But
+I mean I I actually have started to
+think about right we we know this stuff
+about young people are starting to use
+chat GBT and other services as their
+sort of portal to the internet. They're
+using it for search
+&gt;&gt; and so right all of these law firms
+spend a lot on SEO. Uh but what is SEO
+in a generative AI world is sort of an
+interesting question. What are people
+what are the the engines turning up in
+terms of search terms? What do you have
+to have on your website in order to get
+people to find you through GPT rather
+than Google?
+&gt;&gt; Is Lexus Nexus doing anything with AI?
+&gt;&gt; They are. I have not really used their
+AI products. Lexus and I know Weslaw is
+doing the same. I'm I use Lexus. I
+assume Bloomberg Law, which is also is
+doing something similar, but right now
+the the models that that they're using
+just aren't as good as 03. is basically
+and so if you're still calling to a four
+era GPT or or similar from from claude
+or whatever that sort of quality I just
+don't think that they're getting good
+enough research. I think it really was
+whatever that step change was to to 03's
+level I think has uh made the research
+so much better that I just use it and
+then I'll go look at all the cases on
+Lexus. the difference in what you can
+actually learn from 40 or whatever 40 I
+don't the naming convention versus 03 it
+really is a very big deal and I think
+like a lot of people formed impressions
+pre3 impressions what other tools are
+out there that are interesting or that
+come across your world whether it's like
+I mean yeah we've been talking a lot
+about 03 and you mentioned that other
+one brief something is there anything
+else out there that's exciting or
+interesting or promising
+&gt;&gt; there's one I looked at that looked
+promising thing uh it's like Iudis or IQ
+IQ ID something like that and they
+looked pretty interesting in terms of
+sort of being full Sweden wraparound
+there's Harvey AI but they're really
+focused on on big law firms but I know
+that they're working with a lot of big
+firms but you know the technology you
+know for me that looks promising would
+be people where I can safely upload
+medical records and get instead of
+trolling through 200 300 pages just like
+what was each progress note what did it
+say what's the injury, that sort of
+thing. And and I think that's coming.
+There are I think it's I maybe something
+from case text or that summarizes
+depositions. And of course, that's
+another thing where I've tried to use it
+in the past and it wasn't very good. I
+think just the context windows that they
+were able to use haven't been
+sufficiently large, but I think with
+with rag and with more with better
+models, I think that will get better and
+better. you know, like the this is the
+Ben Thompson line of this is the worst
+they're ever going to be. Yeah. Is is
+something that I'm constantly trying to
+think about because I've used these
+these products in the past or tested
+them and they haven't been very
+impressive. But I also used 40 and
+wasn't very impressed that it's legal
+research and have seen that that jump.
+And so I assume in terms of taking
+depositions and and getting concise
+summaries of the most important facts
+for your case, that's going to get a lot
+better. I just think the products aren't
+there yet. And maybe because the API
+calls for the LLMs just aren't to their
+newest models yet or it's too expensive,
+but I assume that's getting cheaper
+every, you know, Moore's law still
+applies.
+&gt;&gt; If you had to bet, if you had to put
+actual money on this question, would you
+say there will be more or less lawyers
+say 10 years from now?
+&gt;&gt; Uh, as a percentage of the population.
+&gt;&gt; Yeah, that's a great question.
+&gt;&gt; Thank you for the caveat, J. That's
+important.
+&gt;&gt; And I hadn't I hadn't thought about this
+one. I would I would bet on fewer, but
+not that much. I would say I I I don't
+think this is, you know, um uh going to
+wipe out lawyers. I think fewer and what
+they do will change a lot. Could you
+imagine? You know, tech people are
+obsessed with the mythical who will be
+the first person to have a billion
+dollar startup with no employees. Could
+that be like, okay, you have you hung a
+shingle out, I think is a phrase that
+sometimes people use. Could you imagine
+a mega firm with one employee?
+&gt;&gt; I could imagine
+&gt;&gt; a mega lawyer with,
+&gt;&gt; you know, so you you right you you think
+of Seleno, Seleno and Barnes, those
+sorts of firms, these big big plaintiffs
+law firms. I think
+&gt;&gt; lawyers that they have
+&gt;&gt; that I actually don't know, but it's a
+lot and it's all across the country. But
+so much of what they do is make the
+discovery demand, respond to the
+demands, do the the get the medical
+records, send out a settlement demand
+letter, negotiate with the opposing
+council for or the carrier from the
+insurer. You know, my client has a a
+torn rotator cuff and a torn meniscus or
+something like that from this car
+accident and they have an exact expected
+value of the case and it's just
+negotiating that. And I think they could
+go from, you know, let's say a hundred
+cases per attorney to a thousand or to
+2,000 because they could set up an
+automated workflow a lot easier, I
+think. And so, you know, that person
+could could start making 50 million or
+100 million a year per one lawyer than
+than the, you know, already 5 million
+that they're making or something like
+that. These top firms.
+&gt;&gt; One last little question. I mentioned
+you're a poker player. In poker, you
+know, big thing has been the emergence
+of solvers. and you go back and you like
+look at the did you play it very well
+but it's all about what you kind of what
+you described of like
+&gt;&gt; you're calculate your EV right and did
+you play it right and you don't always
+win and you may have calculated EV right
+and you took on the case but you don't
+get the outcome how scientific is that
+the uh calculating Eevee on a given case
+and has that is there technology that's
+working on that
+&gt;&gt; so it's not very scientific at all you
+know it's uh you can assess liability I
+think pretty reasonably. Is this going
+to be something where we're definitely
+going to win? You know, the personal
+injury uh car accident lawyers who say,
+you know, the police report says this
+person made an illegal left turn,
+perfect liability. I'm going to win
+instantly and then you're just
+evaluating the damages. One thing I've
+actually explored is is looking into
+whether LLMs can estimate the damages
+based on the injuries that you describe.
+Pretty well. go through the case law
+where there's cases, this is called uh
+remittitor cases where you you might
+hear like, oh, this person got a $100
+million for their, you know, hot coffee
+or whatever, you know, these sort of
+classic cases and a judge will knock it
+down. They'll say this case with this
+injury is only worth this much. But you
+could take all that language and start
+to estimate, you know, quantify uh
+because words are numbers with with
+these programs. You could start to
+quantify what what are the injuries
+worth in the in the case law and then
+multiply that by. So I think that sort
+of thing is going to get a lot more
+scientific and they're going to use it
+on the carrier side. So Geico is going
+to be able to say, you know, you've
+described these injuries. we have a
+database of a thousand cases just like
+this and this was what we you know and
+then you could haggle oh well this is a
+great plaintiff or something like that
+and um they're super sympathetic and you
+know have that negotiation but I think
+that process of evaluating the exact
+value of a of an injury or or of a case
+is going to get a lot uh more scientific
+and facilitate settlements to to happen
+quicker. I imagine AI might be
+especially useful in class action
+lawsuits as well where you're dealing
+with like finding thousands of people
+potentially to attach to a case and then
+actually contacting them and getting
+information from them.
+&gt;&gt; I that that seems reasonable to me.
+Also, in the class action cases, you
+just got a volume of of data that you
+have to do discovery on, but it it
+hadn't occurred to me. But, you know, I
+do know that sometimes class actions
+start because somebody finds a Reddit
+thread and they see on Reddit, you know,
+people all the people are all
+complaining about this same issue with
+this product or something like that and
+the the lawyers, you know, reach out to
+them. And so, it is entirely possible. I
+could I could see that that
+&gt;&gt; that's another thing where you could
+have AI just trolling the internet for
+possible cases.
+&gt;&gt; I I I think so. Or, you know, what are
+people posting about on on Twitter? What
+are they all getting harmed by? I don't
+know. So, it's it seems entirely
+plausible.
+&gt;&gt; Since you mentioned it, I just want to
+say you mentioned illegal lefts and
+Tracy and listeners,
+I had a issue last year where I I'm not
+going to get into it, but it involved
+taking an illegal left turn.
+&gt;&gt; Joe's a criminal.
+&gt;&gt; I'm not. But thank And
+&gt;&gt; were you found innocent?
+I am not a criminal thanks to a uh
+referral that our guest here Joel helped
+make for me. I'm not going to say we're
+not going to talk anymore about the
+case. It was super annoying. I'm not
+going to say anything more, but I just
+want to I'm it's my disclosure for this
+episode. So Joel Wortheheimer, thank you
+so much for coming on Oddlo. That was
+fantastic.
+&gt;&gt; Thank you for having me.
+[Music]
+Tracy, before we talk about conclusions,
+I must press upon listeners again to
+search for top dog law firm ads. In
+fact, after we do this episode, we walk
+back to our desk. Tracy, I'm going to
+insist that you watch a few of them.
+&gt;&gt; I love that your priority for this
+episode. The one thing you must get out
+of this episode is listening to Top Dog
+app.
+&gt;&gt; No, I swear I was driving. I was in a
+Uber home several months ago and this ad
+came on the radio and it was like
+nothing I had ever heard in my entire
+life. Nothing will prepare you for this
+this law firm's ads. Anyway, we could
+talk about
+&gt;&gt; I am very intrigued.
+&gt;&gt; All right. Well, that was a fantastic
+conversation. One thing I am wondering
+is, you know, in the US there there's a
+lot of talk about an overly uh latigious
+society and I kind of wonder if AI is
+potentially just going to make it worse.
+It sounds very plausible to me that it
+it will make it worse or better or
+worse, but I think like you know it does
+my guess is that there's going to be
+some sort of you know Jeff's paradox
+thing where like some existing labor
+will get really cheap or maybe
+completely unnecessary and then other
+you know the optimistic version is that
+defendants or people without a lot of
+money get better quality representation.
+I get, you know, it feels like it's not
+going to dis, it's gonna probably have
+very big distributional and qualitative
+shifts on the industry.
+&gt;&gt; Yeah. And this is the thing I'm also
+wondering. So, okay, junior associates,
+maybe they h they're doing less work,
+maybe they're slightly happier, but I
+guess the idea that more of the value
+just accrs to the partners at a time
+when it's harder to become partner, uh,
+that seems to be the downside if you're
+going into the legal profession, right?
+&gt;&gt; Yeah. No, totally. like it feels like
+we're at this moment and this applies to
+a lot of actually AI economics questions
+and we should definitely do more on them
+where people uh imagine or people maybe
+even rightly surmise that you know
+there'll be a lot of benefits for you
+know existing holders of wealth or
+companies could do layoffs right
+&gt;&gt; and I don't know the degree to that
+which is really happening but at least
+in theory and there's going to be firing
+of junior workers
+But that's like a temporary condition
+because you know first of all like okay
+a company saves a bunch of money by
+firing what eventually becomes
+characterized as grunt work. Well what
+do they spend that money on right
+because that's savings and so does that
+do they invest it? Does that turn into
+consumption for the partners? Like there
+are a lot of you know people's like oh
+it's going to be mass layoffs but I
+never find these questions very
+satisfying because the money doesn't
+disappear. It's someone's savings and
+someone's savings either becomes
+someone's consumption or someone's
+investment and anyone's consumption or
+investment becomes someone else's
+income. So therefore, you know, thinking
+through some of these next level things
+I think is really important and AI
+clearly seems like ground zero and I do
+think 03 is really good and everyone no
+seriously everyone needs to check it out
+and like update their views if they
+haven't yet on the quality of the
+research you can do. Um, it does sound
+like it's maybe solved the hallucination
+problem that was that everyone was
+making fun of earlier.
+&gt;&gt; Yeah, I mean like they're still there
+for sure, but because you can actually
+find links to documents and stuff like
+that, the speed with which you can get
+up to speed on anything is very
+impressive.
+&gt;&gt; All right, I'm going to go test it.
+Shall we leave it there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the Odd
+Thoughts podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Jill Weisenthal. You can follow
+me at the stalwart. Follow our guest on
+Blue Sky. Joel Worerheimer. He's at
+worthwhile. Follow our producers Carmen
+Rodriguez at Carmen Armed Dashel Bennett
+at Dashbot and Kalebrooks at Kalebrooks.
+For more OddLots content, go to
+bloomberg.com/odlots
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+all of these topics 24/7 in our Discord.
+We even have an AI channel on there.
+&gt;&gt; And if you enjoy OddLots, if you like it
+when we talk about the impact of AI on
+various professions, then please leave
+us a positive review on your favorite
+podcast platform. And remember, if you
+are a Bloomberg subscriber, you can
+listen to all of our episodes absolutely
+adree. All you need to do is find the
+Bloomberg channel on Apple Podcast and
+follow the instructions there. Thanks
+for listening.
+[Music]

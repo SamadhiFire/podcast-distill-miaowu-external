@@ -1,0 +1,664 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+Hey there, OddLotss listeners. You are
+about to hear a very special episode of
+the podcast. This was recorded live at
+our June 26th event in New York. We are
+talking with Charlie McGeligette. He is
+of course managing director and
+crossasset macro strategist for the
+global markets America's business over
+at Numora. We talked to him about
+volatility in the market. What else?
+Yep. It's been a kind of extraordinary
+couple of months with stocks basically
+at all-time highs despite so much going
+on in the world. What actually explains
+what's happening? Charlie uh does a
+pretty good job. So, take a listen.
+Thank you so much, Charlie, for being
+here. Awesome to be here. Awesome to see
+you guys. So, I didn't actually see
+where the market closed today, but like
+we're pretty close. Like either we're at
+record highs or we're very close to it.
+I didn't actually see. But it's crazy to
+me all that's happened in 2025
+and like we're sitting here at alltime
+highs. It's not intuitive. You have to
+admit it's kind of weird. the um you
+know I think the message I'm trying to
+remember the last time I was with you
+guys but probably the message I was
+communicating at that time was the the
+fixation and kind of the dooming
+with the left tail scenarios and um as
+so often is the case when people are not
+incentivized to see the world burn which
+might be debatable to some um but and
+you start seeing especially with regard
+to you know negotiating tactics and
+things like that where you start getting
+that not quite as bad as feared
+scenario. oftent times there's an impact
+certainly with the mechanical stuff that
+we so often talk about and you really
+underpric the less bad outcome and
+there's a mechanical impact there's a
+lot of you know v distribution stuff and
+it creates second order impact second
+order flows I think the most fascinating
+two points that I would say outside of
+the you know the the mechanical flows
+that we talk about and and the
+volatility component of this is is is
+two things I I think back to 2022
+um where we had our first kind of
+inflationdriven macrobear case, right?
+We just started the tightening cycle. I
+think there was nine or 10 months in a
+row of inflation upside surprises with
+CPI and um you know the macro bear case
+for equities at that point was this
+earnings recession where due to this
+price shock it was going to impact
+consumption topline sales go lower and
+you know so so on and so forth. What
+ended up happening is ironically because
+of the health of the consumer and tight
+tight tight employment with wages at
+40-year highs, you ended up actually
+getting a dynamic where the corporate
+world operates on aggregate consumption.
+They they operate in a nominal GDP world
+and that inflation perversely for the
+bears was the earnings catalyst and all
+those folks got stopped out in 2023.
+there is an element of that still to
+this day right now as it relates to
+earnings. Um even be even though like
+nominal GDP is is in a different place
+to a certain extent still kind of 5%ish.
+Um but the other point too is that as it
+relates to the capex spending
+uncertainty story, right? If you know
+corporates don't know what they're
+supposed to do with their cash because
+of the you know the the kind of range of
+outcomes with regards to you know where
+they where these you know uh tariffs are
+going to end up um the sand in the gears
+of the global economy. Well, the thought
+was of course, you know, if corporates
+don't know what to be spending on and um
+consumers are feeling that impact as
+well, you're going to get this eventual
+drag with regards to consumption. You're
+going to have corporates in a bad place.
+You either lose the topline sales
+because consumers are paying through the
+roof or you have to absorb those costs
+and your margins go lower. Um but what
+corporates have instead done have taken
+authorized buybacks to all-time highs.
+So we're not spending on, you know, R&amp;D.
+We're not spending on hiring or building
+that new plant. We're going to buy back
+more stock than ever before year to
+date. And that, you know, if you look at
+corporate buyback flows as a source of
+demand for equities over the past 1015
+year period, it's a magnitudes six,
+seven, eight times magnitudes largest
+source of demand. So you've had these
+two kind of unintuitive dynamics in the
+market that have actually kept us higher
+on top of all those kind of V scaling
+things that we like to talk about. Wait.
+So the other thing that's happened is
+people are back to actually selling V.
+So basically betting that you know
+things will stay relatively calm. Why is
+that happening? It seems like a weird
+time to bet against volatility. Yeah. I
+I think I think selling V uh has become
+a new form of fixed income in a world
+where bonds are no longer a risk-free
+asset. Now that you know can go wrong so
+many ways. In this case the
+proliferation of like premium income
+overwriting strategies within the ETF
+world, exotic structured products um and
+kind of you know more uh I would say you
+know complicated you know V selling
+strategies like uh dispersion things
+like that. The number of V suppliers out
+there very shortdated. It gets dealers
+stuffed on gamma, I always like to say.
+And in that sense, you know,
+particularly with the amount of
+shortdated volatility selling, um, you
+know, when dealers are stuffed on gamma,
+it compresses the distribution of
+outcomes, right? If the market's moving
+higher, you're selling into that
+market's moving lower, you're shock
+absorbing. Um, the thing that I would
+say back to that point about, you know,
+selling volatility as some sort of kind
+of fixed income product. back in 2022
+with that tightening cycle and all the
+the the bare dooming um with regards to
+you know we're going to break something
+um you know such a such a powerful you
+know ultimately over 500 basis points of
+t of hikes. Um the the trick was that
+okay you the Fed is telling you to be
+short assets. Mhm. You need to be able
+to sleep at night. Cash was an asset
+again. So, you know, market was down 30
+some percent. Bonds were down
+simultaneously.
+Still off that much. Yeah. S&amp;P and
+NASDAQ was you know, you know, even
+bigger than that obviously because
+remember it was like this tech ccentric
+growth kind of unwind. Um but what ended
+up happening was that you know the Fed
+was trying to create a negative wealth
+effect. We've talked about that before
+because they couldn't impact supply side
+disruption. They could only impact
+demand side. And by telling you to be in
+cash, you could sleep at night. Well,
+guess what? the next year you missed a
+50% rally in the NASDAQ. So what really
+smart marketers have done is say well
+I'm going to give you price appreciation
+of equities just capped and off the back
+of that too we're going to sell out of
+the money calls against this and you get
+this like little premium income thing
+and it's you know they're never telling
+you you're shorting options. The good
+news is with a lot of these products
+nowadays, like you're not shorting
+crash. You're not shorting downside. But
+um also too, sometimes they're they're
+contributing to their own demise in this
+kind of grinding market where you're
+stopping into the calls that you've been
+selling. There's so much going on. I
+totally forgot that we had such a big
+sell-off in 2022. I totally forgot that
+there was like a 50% like all of these
+things like oh that actually happened.
+Um zooming out big picture like it seems
+objectively true. you've been trading a
+long time. Like there are so many
+headlines these days and they're always
+changing and there's just so much to
+talk about. What is the trading like and
+how do you know does it feel different
+these days when there's just we're just
+facing this constant wall of news? Is
+there something that changes in the sort
+of complexion of how people trade? Well,
+there's there's certainly different like
+risk appetite regimes, risk sentiment
+regimes, you know, where um you know,
+there was a period of time I remember in
+those early discussions on like zero DT
+options where generally speaking at that
+time coming off the back of like you
+know, meme coins and and that whole like
+yolo phenomenon, you know, the
+speculative excess peak of that kind of
+2021, you know, sty driven madness, that
+was a very different world where people
+were kind of like, you buying, you know,
+optionality, creating gamma squeezes,
+the redder boards, Wall Street bats, all
+that jazz. Now that you're kind of
+settling into this world, we've been
+conditioned, we've been conditioned for
+15 years of moral hazard, right? Central
+bankers intervening, obviously
+politicians now intervening, and this is
+like, you know, party agnostic with
+regards to the fiscal stimulus where it
+has become conditioned into traders both
+retail and institutional. You know, this
+dynamic where you have to this is the
+expected behavior. you have to buy that
+dip and sell it, right? So, you're
+constantly trying to like kind of
+triangulate and kind of sanity check
+yourself with regards to this
+reflexivity. And you know, like August
+5th, August 2nd, August 5th last year
+were really interesting experiment cuz
+August 2nd, we finally got that first
+glimpse at what our market will
+eventually do. This time again, huge VAR
+event in, you know, within the fixed
+income space certainly. Um, and then it
+trickled down into all asset classes
+from there. It was the first time that
+labor, it looked like labor was
+cracking. Um, and we had that, you know,
+four zcore miss and the U rate and two
+and a half zcore miss and and the
+non-farm payroll print and that was
+after a week of already soft labor data.
+And that was the holy moment once the
+consumer goes this whole, you know,
+economic miracle goes. And what that
+then created was this um, you know, was
+this massive dynamic where at the end of
+that day, everybody said, "Okay, risk is
+dicey right now. There's going to be a
+lot of the leveraging off the back of
+this realized volatility shock. I want
+to go home and short Delta, like short
+the market, but I want to be short V
+because V squeezed. V exploded that day.
+That was both clients and options
+dealers. The problem was because of all
+these second order impacts and
+deleveraging impacts and um was that
+Nikke on Sunday night opened down 12%.
+So that short V position was going to be
+so smart because we always reflexively
+sell that, you know, and you've got to
+monetize your hedges in like two hours
+before people start leaning in. All that
+V supply, the back test says the higher
+V goes, the more I have to sell. And
+that's that sell the rip by the by the
+dip. Well, those people got their arms
+blown off, you know, by 8 in the
+morning. And that was the famous like
+VIX index, right, which is a a
+theoretical calculation based on like
+fake bidden offers from dealers
+basically. Um, you know, printed 63 or
+whatever it was. Um, not an actual
+ticking price, but then the VIX future
+was traded at 38, which is like
+realistic. But, you know, those are
+those scenarios where that conditioning
+is how things go really wrong because
+you think you got it figured out and you
+don't. The most recent example of course
+has been you know this this Trump collar
+dynamic where the market finally figured
+out what was the human vivix as I call
+him you know who who you know the
+volatility the only one who calls it
+you're the only one I need it on my
+coffee mug you know I have these like
+Nura coffee mugs with some of my
+favorite sayings like human vivix would
+have been a good one to trademark we'll
+trade you an oddls mug for a human vivix
+no more mug that's done that is done but
+like you know he has he views himself as
+having a mandate to disrupt the status
+quo of 80 years of pox americana like
+and that's clearly like the the approach
+here right so the prior distribution of
+outcomes is now out here the the quick
+learning from the market however after
+these initial series of wall shocks was
+that okay we found a pain point you know
+market sold off to such an extent the
+interest rate volatility particularly in
+the long end not just stocks all right
+you know we've activated the Trump put
+however upon those compromises the
+market rallies back it increases his you
+know willingness to then lean back in
+from a negotiating ploy. So he's
+basically selling the call to fund the
+put. And when you have that collaring
+effect, you get the opposite dynamic,
+right? You get this realize of all
+compression, which is frankly a large
+part of what the past 2 months has been.
+So, you're constantly reassessing
+how everybody thinks you're going to
+think, which is like you're anticipating
+the anticipators.
+[Music]
+So Joe asked you for basically color on
+the complexion of the market nowadays
+and I know you just got back from
+weren't you on some sort of crazy epic
+travel schedule where you flew around
+the world. Yes. What are you hearing
+from clients like what kind of questions
+are they asking you? People are so
+consensually macrobear
+you know on that stagflationary outcome.
+Um, you know, and I think like that's
+that's one of the tricks like it's, you
+know, at first it was like, okay, you
+know, let's let's expect, you know,
+these early return like mind you, you
+know, Smoot Holly tariff highs like
+90-year tariff highs, right? We, you
+know, prior to the the, you know, Trump
+2.0, the effective rate was 2.4%. We're
+17.3% right now as it stands, right? So,
+like, you know, how does that not bleed
+through to this, you know, eventual
+price shock or margin compression, all
+this stuff that hits, you know,
+consumption? Um, and you know, initially
+it was okay midsummer. I think part of
+what's happening right now is that, you
+know, from a corporate perspective as it
+relates to the consumer is that taco has
+changed their behavior too. Like why,
+you know, I'm not going to blow up my
+topline sales and, you know, rush to,
+you know, price shock my clients at a
+time, you know. So I think there's been
+a lot of holding off too as far as or
+willingness to even absorb a little bit
+of that the the price you know increases
+that are coming through. Um and you know
+so it's been getting increasingly
+uncomfortable. All these left tail most
+acute outcomes have have certainly been
+mitigated away and compromised away and
+kind of handed away. The market starts
+rallying in your face. You're expecting
+this very bearish outcome. It's starting
+to hurt. You've underpriced the right
+tail. get a fiscal deal seemingly close
+to being done even just today, right?
+Late in the day, section 8.99, which is
+this kind of like, you know, completely
+Tracy wrote a bunch about it. Now, it's
+all the revenge tax, right? Is there
+anything worse than like getting a bunch
+of work done and then having to trash
+it? All I'll say is it's good for
+content. Yes. There we go. Yes, it is.
+You talk a lot a lot about hypotheticals
+over the past couple months. For sure.
+Yeah. you know, you're you're well
+educated with your scenarios, but like
+in this case, you know, that was
+another, you know, this revenge tax
+escalation. Well, all of a sudden now,
+you know, cooler heads prevail that
+increases the likelihood that the
+digital tax, you know, stuff with Europe
+that was an impediment for deals goes,
+you know, right way. So, you've just had
+like left tails turn right tails and
+nobody has the exposure on. There's just
+so much chronic macro bleed. Now,
+perversely, you're seeing it with
+stocks. People are getting stopped in.
+You're buying the highs. you're having
+to take up your exposure, having to take
+up your nets after fighting it, kicking
+and screaming and grossly under
+capturing the rally. This is when it
+sets the table for crash. And that's why
+as you're forced to get longer, you have
+to start hedge. You have to start
+hedging. Do you think right now I mean I
+remember um well like right now today
+would you say there's still a lot
+there's a lot of discretionary money
+where people feel like they're underway
+at the market where they feel like
+they're still fighting this dynamic
+chasing and they're still feel like oh
+man every day the stock market goes up I
+don't have the exposure I wish I had
+right now those are the classic buyers
+are higher yeah you know and there
+that's still out there but they haven't
+the they haven't fully capitulated yet
+but It's, you know, what you're seeing
+with the market grinding higher every
+day. And by the way, through the
+straddle, like this is the interesting
+thing I always say like we can't crash
+until skew is steep. Skew is a relative
+measure of kind of downside demand
+versus upside demand. You know, put
+skew, you know, demand for out of the
+money downside versus out of the money
+downside. Both of those me metrics in
+the past week have hit 100 percentile
+over the past year. The past year has a
+lot of going on, right? So, you know,
+people are hedged because they are back
+getting long where things get spicy. And
+when you're hedged, that means dealers
+are, you know, short downside. They're
+going to be short gamma, short Vega into
+a sell-off. That's accelerant flow. Um,
+that feeds into the prevailing market
+momentum. The lower that we go, the
+more, you know, spot equities you have
+to sell. The higher the V goes, the more
+volume you have to buy. Bad scenario.
+It's an accelerant flow in this case. Um
+the trick now that's starting to happen
+and this is why I feel like we're
+probably getting closer to you know a
+crescendo um is that now you're getting
+spot the market up vault up and volivall
+going up and what that's telling me is
+that okay people are actually now being
+forced to chase into upside right and
+right now part that's our chart for the
+newsletter tomorrow stocks and vol spot
+up vol and and what that means is that
+people are being forced to grab into the
+upside side and that's also feeding this
+short gamma move to the upside because
+dealers are short calls now and this you
+know as we hit 6150 6200 things like
+that. Um, ultimately I always like to
+say when you get spot up volop in and of
+itself, it it, you know, creates kind of
+like a meltup like some sort of kind of,
+you know, squeezy rally on the way up
+that collapses under the weight of its
+own delta. Like collapses under the
+weight of the mechanical buying on the
+way up, the mechanical dealer hedging on
+the way up because you need to keep
+fulfilling that need and demand. People
+are getting longer. You know, you're
+finally seeing that dynamic. People are
+getting longer. that creates the the
+potential derisking flow on the way
+down, especially once you're talking
+about systematic V scaling strategies
+that as V goes higher, they have to just
+sell, you know, unemotionally. But what
+would be a reasonable catalyst for that
+to happen? Well, I think the the
+near-term one has been, you know, the
+the fact that, you know, July 8th, the
+original kind of reciprocal delay that,
+you know, and you saw a bunch of
+headlines today saying like that's
+flexible, morally flexible. Um, you
+know, I think that big surprise. Yeah.
+No, no, let's make a deal. I I would say
+that that right now that's kind of like
+the most obvious um you know one out
+there that you know there's still some
+element of of hard ball. My view is that
+that's somewhat overstated that that is
+somewhat overstated because he needs to
+get one big beautiful bill passed first
+before that and then potentially you can
+play the game. But the fact that this
+899 was removed tells me that they know
+that getting a deal with Europe is
+probably, you know, a larger, you know,
+u impediment to what they're trying to
+do. And that there still is now this new
+conditioning in the market where instead
+of like increasing the rhetoric at the
+highs, you know, Trump has capitulated
+back into Trump 1.0, which is like, you
+know, run hot, right? He's now and they
+are best in himself with the headlines
+out at the end of the day. They're
+they're trying to squeeze this thing
+higher and financial conditions are
+easing. The dollar is moving lower. Long
+and yield has started rallying
+ironically because the market is
+sniffing, you know, a dovish turn within
+the Fed, you know, in including recent
+comments from people that I don't think
+would have anticipated um necessarily
+outside of Waller um who's auditioning
+for the Fed job. Um and you know, why
+are they beginning to turn like that?
+Yes, there's a normalization dynamic
+with regards to where inflation is now.
+We think Jerome Pal is already at two
+dots are right, you know, for the end of
+the year. And there's just this modest
+turn, but they're turning for a reason.
+They're turning cuz, you know, quits
+rates and claims, you know, are starting
+to get a little wonky. And as I said,
+the whole American economic miracle goes
+wrong when the consumer cracks. And the
+consumer cracks is what, you know,
+becomes of, you know, the labor market.
+and that's starting to look um you know
+precarious at best. So I think I don't
+think it's going to be a tariff headline
+necessarily. I think it's going to be
+you know good oldfashioned data a nasty
+NFP print you know that type of a thing.
+Um is that an acute risk now? Probably
+not. Probably you know safe to say you
+know within by August um you know we
+could be getting spicy and I think
+there's real delta not just of like the
+first cut in September but you know if
+that happens you know it's not just
+going to be you know 25 bips right. So
+everyone needs to keep shopping, I
+guess, to maintain the rally. Do your
+duty. So the thing is though, this is
+what bothers me is everyone sees some of
+these dynamics. We talk about the labor
+market weakness all the time. We talk
+about the fact that per due to the
+tariffs and other factors, the Fed might
+be a little bit gunshy or less inclined
+to cut like than it otherwise would have
+given the set of economic conditions.
+And I think like Paul has sort of hinted
+at it before that there are conditions
+like we all can see this like the and
+yet like and yet people keep buying like
+it's sort of there's something
+intellectually unsatisfying about the
+entire environment. Well, cuz like all
+this seems very true that all this like
+the stagflation risk there is going to
+be a cost of tariffs. There is this
+cyclical slowdown and yet you know it
+goes back to those you know kind of
+counterintuitive observations that we
+started off with you know where you get
+so fixated on like the left side that
+you know perversely the corporate
+spending uncertainty becomes the biggest
+source of demand for stocks. Yeah. you
+know, um, and especially to the market
+structure stuff, which is just what I
+always come back to, like once those
+puts start roasting because the worst
+case scenario doesn't happen and dealers
+got to start buying back that short
+delta and then people start squeezing
+that short delta as the market starts
+rallying back and start buying short
+dated calls and dealers get short those
+calls and we go short gamma the other
+way. you know th those flows and you
+know frankly you know a world of um you
+know not just this market structure that
+feeds momentum right with leveraged ETFs
+um you know the prevalence of options
+trading the tail wagging the dog yeah
+and I don't even know if I can say tail
+wagging the dog now I just think it is
+the dog um I like that that's good you
+know options are the dog yeah um you
+know those type of real and synthetic
+gamma effects in the market are you know
+very high impact and I think at the end
+of the day a lot of this is just about
+career preservation. Yeah. And when
+you've kind of missed badly on a call
+people it feels good and you know in the
+macro space like I you know I'm super
+sensitive to this idea you know you feel
+smart to make a bare call because it's
+rare stocks go higher. Yeah, that's
+right. You know, when you run a back
+test, you know, and back testing, I know
+is like a four-letter word, but when you
+run a back test, you know, this if this
+happens and contingent on this, and you
+actually get negative forward returns
+over a series of average um you know,
+over a real number of sample set, um you
+know, it's an outlier. The problem is
+like sitting in a negative stance when
+again goes back to that point, people
+are not really incentivized to see the
+world burn. You know, it's going to be a
+tough thing. So, you got to be dynamic
+and pragmatic I think about these
+things. All right. Well, uh, Charlie,
+let me just say thank you for giving us
+a couple swear words to bleep out. It
+really helps keep our producers on their
+toes.
+[Music]
+This has been another episode of the All
+Thoughts Podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway. And I'm
+Jill Weisenthal. You can follow me at
+the stalwart. Follow our producers
+Carmen Rodriguez at Carmen Armano
+Bennett at D-Bot and Kellbrooks at
+Kalebrooks. For more OddLots content, go
+to bloomberg.com/odlots
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+these topics 247 in our Discord,
+discord.gg/odlotss.
+And if you enjoy OddLots, if you like it
+when we do these live recordings, then
+please leave us a positive review on
+your favorite podcast platform. Thanks
+for listening.
+[Music]

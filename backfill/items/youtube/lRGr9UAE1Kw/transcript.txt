@@ -1,0 +1,1301 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the OddLots podcast. I'm Tracy Aloway
+&gt;&gt; and I'm Joe Weisenthal.
+&gt;&gt; Joe, I've been reflecting on this year.
+It's been a busy year. Yeah, go on.
+&gt;&gt; In fact, we're recording this. We're on
+yet another trip.
+&gt;&gt; I know.
+&gt;&gt; We're in Huntington Beach for this
+year's Future Proof Conference, which is
+&gt;&gt; always a fun time.
+&gt;&gt; An event I always enjoy, but we have
+been on the road a lot.
+&gt;&gt; We have.
+&gt;&gt; And I feel like the entire year is
+starting to feel very surreal for me. It
+feels just very different to prior years
+for many different reasons. But I was
+also thinking one of those reasons is
+because
+&gt;&gt; it seems harder and harder to do
+portfolio construction nowadays. And I
+know that sounds really weird given that
+like markets are still at record highs
+and everything seems to be going
+reasonably well even though we had that
+terrible jobs number. But if I think
+back to the big leg down that we saw
+this year,
+&gt;&gt; it seemed really scary because basically
+everything sold off at once, right?
+&gt;&gt; You know what I really like? I like how
+you started this with this philosophical
+thing. It's like we're out on the road
+and all this
+&gt;&gt; and then I was like, how do I protect my
+portfolio? and reflecting and the
+surality of the times and now we bring
+it around to portfolio construction but
+no there's true and there's two a couple
+things going on so one is the sort of
+like cross asset class moves the other
+thing is and it's very related to that I
+mean it's the flip side of this which is
+correlation breakdown and then there is
+still this other element that I think is
+at play where at least like
+&gt;&gt; I would say there's two more things
+which is that one within US assets the
+winners are still the winners right
+especially a lot of these big tech names
+so you haven't gotten the sort secular
+&gt;&gt; and people have been talking about
+overvaluations for ages,
+&gt;&gt; forever.
+&gt;&gt; And then the fact that, you know, you're
+not getting paid much to take on
+volatility risk or volatility measures
+are still very low. So there's a lot of
+difficult unintuitive things going on
+&gt;&gt; and I don't even know what a tail risk
+hedge actually looks like at this point
+because I would have thought like well
+obviously maybe you diversify into
+longduration bonds or something like
+that but then in April when we had the
+big sell-off long duration did not do
+that well either. So, it kind of has me
+scratching my head about if you were
+worried about stuff both literally and
+figuratively perhaps blowing up at this
+point in time. What would you be doing?
+Like what does a tail risk hedge
+actually look like nowadays?
+&gt;&gt; You like buy gold? That's already a
+record high. So, yeah, it's confusing.
+&gt;&gt; Yes. Okay. So, on that note, I'm very
+happy to say we actually have the
+perfect guest to talk about tail risk
+insurance and just tail risks in
+general. someone who's been working on
+Wall Street for a really, really long
+time and has a very storied career. Lots
+of stories involving big names that you
+and I would definitely recognize. We're
+going to be speaking with Veneer Benali.
+He is of course the founder of a
+longtail alpha and again has worked at
+many, many firms previously. We'll get
+into all of that. Veneer, thank you so
+much for coming on Hot Thoughts.
+&gt;&gt; Thank you for having me. So I should
+just go ahead and ask you to give a sort
+of fiveinut summary of your career
+because it is kind of amazing. But the
+important thing is you didn't start out
+as a trader. You started out as a
+mathematician.
+&gt;&gt; Yep. I started out as a theoretical
+physicist. I was finishing my PhD at
+Harvard and this is 1991. The recession
+had just hit. I didn't know what a
+recession was. I wanted to be a
+professor. But my job evaporated because
+I was going to go work at the super
+colliders the superconducting super
+collider that got cancelled by Congress
+1990s.
+&gt;&gt; I had a postoc lined up in France and
+one I think it was in Texas in Austin
+&gt;&gt; and I got a call out of Wall Street out
+of Goldman. They were looking for quants
+like me to work on options trading or
+options model building rather I should
+say. So I went and interviewed mostly
+because it was a free trip to New York.
+So I went there, got interviewed by an
+elderly gentleman who was taking notes
+saying doesn't know any finance. Full
+disclosure, I knew no finance. I had no
+interest in it. It was Fisher Black who
+was interviewing me.
+&gt;&gt; Oh wow.
+&gt;&gt; I decided, you know, Black Scholes fame.
+Little did I know when I turned that job
+down from Goldman, I took another job at
+City Bank trading derivatives cuz in my
+mind it was a sabbatical. I was going to
+do this for about 6 months to a year and
+then go back to physics.
+&gt;&gt; Mh. Well, little did I know that my
+whole life would become basically very
+deeply connected with option trading.
+So, that's what I've been doing. And
+we'll talk a lot more about Taylor
+sketching in a second.
+&gt;&gt; Wait, I got to ask why did you decide to
+turn down Goldman given that Fischer
+Black himself was doing the interview
+and you chose to go to City at that
+time? Well, one was a research job at
+Goldman and the job at city was actually
+trading derivatives and uh since trading
+was so far away from what I knew and
+this was really supposed to be a
+vacation for me for about a year like
+sound like a good thing to do or fun
+thing to do rather.
+&gt;&gt; Did you ever feel like I'm always so
+curious about stories from the early
+days of physicists going to Wall Street
+was there a period where you felt like
+it was a bit bene I mean you call it
+kind of a vacation job. Did it feel
+intellectually beneath you for a while
+and then did it eventually become sort
+of genuinely intellectually satisfying
+in the way that maybe you had
+anticipated an academic career to
+become?
+&gt;&gt; So interesting. So the modeling
+certainly at those days seemed a little
+too naive. So for instance, I'll give
+you an example. Very first trade that we
+did large trade I was bank at the time
+and it was an interest rate cap on yen
+interest rates linked to the dollar yen.
+So it was basically a two-factor option
+called a hybrid option. And it turned
+out that as a physicist I was very easy.
+It was very easy for me and I was very
+able to write a Monte Carlo to write
+this knockout cap. But for the finance
+people it was kind of tough. So the math
+was very easy.
+&gt;&gt; But I also learned that trading is not
+just math. Trading is a lot of
+behavioral stuff and so on. And that I
+just obviously had to learn. And I have
+some great stories of stuff that I did
+really badly back in 199094.
+&gt;&gt; Tell us the story about something you
+did badly.
+&gt;&gt; Well, to 1994, if you remember, you
+know, 1993, the Fed had eased and rates
+were quite low and everybody was long
+the front end of the yield curve and
+buying EUR dollar futures contracts.
+&gt;&gt; Wait, didn't a town around here go
+bankrupt?
+&gt;&gt; Yes. Yes. Yes. We'll get to that.
+Exactly. So, February of 1994, the Fed
+raised rates by 25. And then very
+surprisingly April 18th of that year
+they did an intermeating increase and at
+that time bond market really sold off
+quite a bit and I just did what human
+beings do which is bet on mean
+reversion. And so I tried to buy the
+bond market and tried to buy the bond
+market again and again and again until I
+realized that there's something called
+trend following and exit and I think the
+bond market sold off a good 15 20 points
+and finally I recouped it all but it was
+a brutal few months of literally getting
+my face ripped off. So one other thing
+I'm curious about the sort of early days
+of quants but what exactly was the pitch
+to scientists whether they're you know
+mathematicians or physics guys when
+these big banks or big trading firms are
+trying to recruit back then because you
+know like quant was in the I know we had
+1987 by then but it was still relatively
+in the early days so I'm really curious
+like what they told you about what you
+would be doing. So in the from the
+modeling side it's pretty
+straightforward right the black shields
+equation and stochastic calculus
+stoastic finance is basically what's
+called the heat equation or the
+diffusion equation in physics and that's
+something that every physicist learns
+when they're in early graduate school.
+It's like solving a partial differential
+equation. So the math is exactly
+identical the math of finance. And maybe
+that's a problem actually in in
+retrospect now that having done this for
+30 years and 30 plus years and survived
+maybe that's a problem because the
+beauty can somehow hide the frictions
+that are underneath it.
+&gt;&gt; From the trading side when I first
+started trading I think it was very
+simply being mathematically sharp and
+quick uh and being able to answer
+quizzes just made interviewers feel like
+they were getting smart people on the
+desk that they could train, right? The
+blank canvas so to speak.
+&gt;&gt; Yeah. So once people on these desks got
+armed with PhD physicists and
+understanding of like Brownian motion
+and stuff like that, did that change how
+the actual markets traded from your
+perspective? Like sort of pre and post
+that did assets conform more to as
+models anticipated because of the model
+effect on them like what was your
+observation of actual existing market
+behavior pre and post the physics
+revolution?
+&gt;&gt; Oh, absolutely. And this is a very
+important question because if you fast
+forward to 2018, the big XIV debacle and
+the Volmageddon and a lot of things that
+happen now and actually fundamentally
+what we do now, what I do now is related
+to this fact that there's a very tight
+feedback loop between models and markets
+and models. So give you a very simple
+example, right? If you have an option
+that you've sold to somebody and you
+have to manage the risk, of course, when
+you sell the option, you're getting a
+volatility premium. That's why you sell
+it. You're getting an insurance premium,
+so to speak. But then to manage the
+position you have to delta hedge. But
+delta hedging means that you have to buy
+and sell the underlying asset and some
+higher order Greeks as well. Gamma,
+Vega, theta that you've all read about.
+But delta hedging requires people to be
+able to buy and sell so that they are
+the seller. The market maker is locally
+flat of course. So the market maker
+that's what you do and that's how you
+earn your keep earn your fees so to
+speak. The problem is that there's an
+idealization in mathematics or
+mathematical finance that you can do
+this at an unlimited size and size
+doesn't matter but it matters. Liquidity
+is actually not there. The basic
+assumption of black shores is that you
+can continuously trade with almost zero
+transactions costs. Well, that's just
+not true in real markets. As a matter of
+fact, in the last maybe two years even,
+you've seen liquidity in the E- mini
+futures contracts, which are possibly
+the I would say the zeroth order hedging
+instrument for the equity markets go
+down relative to the high levels
+frequently go down to maybe 120th or
+150th of it level. So people just can't
+get out. So what happens is that people
+sell options then they start delta
+hedging. Delta hedging results in the
+options market reacting to the delta
+then results in new hedges coming in. So
+this feedback loop gets tighter and
+tighter and tighter until something
+breaks. And when something breaks and
+the bot shut down, which is today's
+environment,
+&gt;&gt; you actually have no liquidity. And
+that's when you get these crashes like
+Liberation Day on April 2nd.
+&gt;&gt; Volageddon was definitely one of the
+more weirder events in markets because
+everyone could see what was going to
+happen when the VIX curve actually
+inverted. like you could see that all
+these products were going to go
+absolutely belly up and no one no one
+seemed to react to it until it was like
+much too late. That reminds me. So, one
+of the reasons that we are interviewing
+you here in Huntington Beach is because
+you used to work at Pimco with Bill
+Gross. And the last time we spoke to
+Bill Gross, I think was actually at
+Huntington Beach two years ago. And one
+of the things we spoke to him about was
+volatility selling.
+&gt;&gt; And Bill kind of became the poster child
+for a little bit of volatility selling
+at least in the bond market in the sort
+of like guess it would have been 2015
+around then, mid sort of 2010s area. I'm
+really curious who's selling V now and
+how has it changed over the course of
+your career?
+&gt;&gt; Yeah, so great uh little side point
+there. So Bill and I've been great
+friends as a matter of fact I went to
+Pimco because I heard Bill speak at a
+talk when he was advertising in book
+back in 2000 and Bill's an amazing
+genius, great investor. And one of the
+best compliments I got recently, I was
+communicating with him and he said, "I
+have your paper at the top of my reading
+list." And I said, "Which paper, Bill?"
+and he said this paper that I wrote with
+Larry Harris on the volatility selling
+ecosystem that basically you grew up
+before 2018. So yes, so Bill actually in
+in a sense invented this whole idea of
+selling volatility in fixed income
+especially through buying mortgages or
+explicit selling of straddles and
+strangles. And what we realized and
+again I was head of analytics at Pimco.
+over the last over 15 years or so I was
+there I got to see and help him manage
+the quantitative risks of those
+portfolios. We ended up educating a lot
+of our clients at that time about
+volatility selling harvesting vault
+premiums and so on which did end up
+adding quite a bit of as Bill calls it
+structural alpha to the PIMCO portfolios
+and you know 20 30 40 basis points every
+year. What happened is that everybody
+got educated and it became part of the
+academic lore and everybody realized it.
+There was a lot of crowding and it's a
+little bit like selling insurance right
+so when you find that one insurance
+policy selling works then you say why
+don't become multi-line insurance
+provider so you start selling insurance
+policy on everything and so what has
+happened now over my career it have gone
+from institutional selling where first
+it was hedge funds then it was large
+sophisticated mutual funds like pimco
+who could actually still fit it inside
+of the mutual fund complex because
+selling naked options is not really
+allowed unless you cash back it,
+&gt;&gt; right?
+&gt;&gt; And then over time it has now gone to
+all the do-it-yourselfers.
+So all the wealth offices and family
+offices and large endowments and this
+whole area what's uh which is now called
+alternative risk premiums is based on
+this idea
+&gt;&gt; that you can go and sell volatility in
+various forms explicit forms or implicit
+forms
+&gt;&gt; to generate income. So everybody's doing
+it.
+&gt;&gt; Yeah, that's the answer. everyone even
+more people are doing. So when we see
+alternative risk premia it's basically a
+wall selling overlay is that it
+&gt;&gt; yeah I mean you can make it more or less
+sophisticated I mean it's a little bit
+naive to say it's only wall selling but
+wall selling is a very important
+component of it and there were some
+great papers by people from AQR who took
+every asset class so equities bonds
+credit foreign exchange and then also
+sliced it down in various types of
+strategy style and quality and momentum
+and so on they made like a 16x6 matrix
+and then they recreated did this what I
+consider to be more sophisticated
+sounding
+&gt;&gt; ball selling but it really is false
+selling and what people do just to to be
+very clear is it's not just ball selling
+they also layer on other things like
+trend following on top of it
+&gt;&gt; to create a counterbalance to the ball
+selling because trend following is
+naturally
+&gt;&gt; a ball liking or ball long ball type of
+strategy
+[Music]
+going back to I hadn't realized that
+about the declining or the collapsing
+liquidity within the e- mini futures but
+is there some sort of I don't know law
+of thermodynamics or something I don't
+know if that's the term or that's the
+analogy in markets where such that when
+some instrument becomes the hedging
+instrument of choice, the more popular
+that gets, the less capacity there is
+for liquidity in that instrument. Is
+that sort of what's going on here?
+&gt;&gt; Yeah. So, in this case, the e- mini
+futures contract are basically a
+speculation vehicle. They're a cash
+equization vehicle. So, they serve a lot
+of different purposes. But I think the
+biggest thing that's going on here
+&gt;&gt; is that starting maybe about 10 years
+ago and somewhat surreptitiously, the
+market morphed from human market makers.
+So, when I started trading, it was human
+market makers. I still remember when I
+was, you know, in the 1990s, Tommy
+Baldwin on the pit of the CBOT floor,
+Chicago border trade floor, you know,
+you would do a trade and Tommy Baldwin
+and he was legendary. Obviously, he
+would lift his hand up and the market
+would stop and turn and go the other
+way. Human humans could do that. Yeah,
+what has happened surficially or you
+know very strangely over the last 15 or
+10 years maybe is that the human beings
+have sort of left this market making
+area and 90 plus% is being made by bots
+and what bots know very well self-s
+survival is extremely important to them
+is as soon as they see a liquidity title
+wave coming tsunami coming at them they
+just get out of the way the liquidity
+just becomes very episodic and Muhammad
+Alaran used to call it latent illquidity
+which is just the fixture of the markets
+today. It looks liquid
+&gt;&gt; and when you don't need it, it's there
+but if you need it, it's not there.
+&gt;&gt; So how do you actually deal with that as
+a trader?
+&gt;&gt; Yeah. So as a trader, so this comes back
+to the role of options fundamentally,
+right? So what do options I mean in the
+world of quantitative finance, you can
+take an option, you can replicate it by
+doing delta hedging and so on. Basically
+looking at the partial derivatives of an
+option pricing equation or you can say
+I'll just buy the option. So an option
+is a contractual agreement between you
+and the option provider. So if there's
+ill liquidity and you believe this is a
+fixture of the environment that we're
+going to live in, then there is no other
+way than to actually have a contractual
+agreement with somebody
+&gt;&gt; where you're delegating the uh
+illquidity risk to them and so you are
+buying it
+&gt;&gt; when the premium is cheaper. But trying
+to delta hedge it yourself is like
+literally trying to you know put an
+elephant through the eye of a needle.
+There's just people just cannot work
+out. I mean, I just can't
+&gt;&gt; I just can't imagine the market
+collectively trying to get through that
+needle these days.
+&gt;&gt; There is just nothing there. Let's talk
+about April for a second and maybe that
+period like between April 2nd and April
+9th because that was a a market event
+for sure and it was also a real economic
+event with many things going on that
+weren't just lines on a chart etc. and
+we know what sort of happened there with
+the tariffs and then the reversal of
+some of the tariffs and what so forth.
+Since then, we've seen some of these
+correlation breakdowns that some of our
+previous guests have talked about. From
+your perspective, you know, whether it's
+April 2nd through April 9th or April 2nd
+through now, what happened then such
+that maybe some maybe is it a new
+regime? What changed in that month? Yeah
+though I think one of the things that is
+going on is we are slowly undergoing a
+regime shift and I like to always paint
+this picture and I'll come to your
+question right after I give you this big
+macro picture from the 60s to the 80s
+60s to the mid 80s you had this period
+of rising inflation rising volatility
+noncredible central banks and stuff was
+kind of breaking and people were behind
+the curve then you had the bulker
+increase of interest rates starting in
+the 1980s and until the maybe late 20s
+2020 call it 2021 on covid was an
+accelerant you got negative yields and
+falling volatility credible central
+banks and so on and I think we've
+actually turned the corner again so
+starting in 202021 I think we are
+probably going to look more like the 60s
+to 80 than 1987 to 2020 now having put
+that backdrop you know in in front of us
+I think the issue really comes back to
+yes there is a regime shift both in
+terms of people's response function and
+how quickly things happen. So one data
+point that I can relay is since I
+started trading is in the past when
+crisis were would happen even including
+the GFC which I lived through and you
+know did fairly well it used to take
+months maybe weeks for things to correct
+and you had time to plan and time to
+execute. Then Volmageddon maybe took a
+few days. 2020 COVID it maybe happened
+in you know few days to few hours and
+then starting this year it feels like
+things are actually happening on an
+hourly to maybe minute basis. For
+instance in April when the you know big
+crash happened and the correction
+happened all the action including some
+of our trading happened in the pre- pre
+pre-market. So the markets had not even
+opened up and if you needed to do
+something you had to do it during the
+night session because that's where all
+the action was. So I think that's one
+fixture what's going on right now is
+that stuff is happening much faster and
+it does feel like the balance is tilted
+in the favor of more automated trading
+rather than human-driven trading. Let me
+ask a philosophical question about tail
+risk projection, which is whenever
+there's a blow up, we suddenly get all
+these stories about tail risk funds that
+have done phenomenally well out of last
+month's chaos or whatever it might be.
+And then no one talks about them for
+like the next three years.
+&gt;&gt; You don't know how they're bleeding you
+dry during those other months, right?
+&gt;&gt; That's right. Um until we get another
+blow up and then the cycle repeats
+itself. In your mind, what is the
+purpose of tail risk protection? Yeah,
+this is very simple and I've been trying
+to do this. This is actually one of my
+mission since I started our firm is not
+just managing the risk but also trying
+to educate people on what the purpose
+is. The purpose is very similar to
+insurance and not everybody needs it. If
+you don't live in California earthquake
+prone zone or in Florida hurricane prone
+zone, you don't need the insurance. But
+if you're going to run a large
+equityheavy portfolio, and by the way,
+equities have demonstrated over the last
+100 years and maybe going forward are
+the one way to create long-term wealth
+because people go to work. The first
+thing I learned when I was at City Bank
+from my boss told me was just look at
+log GDP versus log S&amp;P. The charts are
+aligned. Basically, if people work, the
+market goes up. So, what that means is
+that you need to be invested in the
+stock market. And the more you invest in
+the stock market, the more likely it is
+that you're going to make higher
+compounded returns over time. But also,
+you will suffer big draw downs. And one
+of the biggest problems with people's
+behavioral function is that when the
+markets collapse, they forget their
+plans and they liquidate. Right? So what
+tail risk fundamentally does, it's not a
+fund that you should look in isolation
+and say, is this fund a good performer
+or not? Just like you would not go back
+home and say, "Well, what the what was
+the total return on my home insurance
+policy?"
+&gt;&gt; Right? It's just a positive negative
+100%. Right? Every single year. So,
+would you quit buying insurance? You
+won't because home insurance or car
+insurance is not an investment. It is
+the cost of doing business. So that's
+the context in which one should think
+about tail risk hedging is it allows you
+to first protect yourself from yourself
+in the bad events and then secondly when
+the markets are down
+&gt;&gt; the value of those hedges going up
+allows you to buy assets on the sheep
+which results in compounded growth.
+&gt;&gt; Why hasn't Wall Street created an
+instrument where you could sell away
+your liquidity to protect you from
+yourself automatically? I'm going to
+invest in this fund and I cannot sell
+until the year60.
+&gt;&gt; Isn't that called lockups?
+&gt;&gt; But do those funds actually exist? Could
+I buy that? And then there's two things
+that intuitively seem that A you protect
+yourself from yourself. B, you diversify
+automatically by the fact that you're
+across time and then C presumably that
+would be more stable for securities
+lending and collect the little
+instrument. Has Wall Street created a
+fund that one can't get out of? I think
+like Tracy just mentioned uh hedge funds
+like to have lockups and and this
+&gt;&gt; I just I should just be able to buy an
+ETF that I can't sell.
+&gt;&gt; Yeah. Uh I think the if you can get over
+the regulators I think that we are
+living in a world where Marktomarket
+daily NAV etc for ETFs and full
+transparency is required. But I do think
+I mean one one very sophisticated
+institutional investor who was a client
+of ours actually said I would pay you
+more if you sold me a product that
+actually had a longer lock. because this
+is a question I have about portfolios
+and diversification in general and it
+goes back to the point that you made
+about how stocks have done very well and
+the expectation is that as long as the
+economy grows stocks will continue to do
+well for a while 6040 was a craze right
+and this was a good portfolio of your
+treasuries and your stocks balance out
+but why should like what is the case for
+diversification let's say setting aside
+the behavioral fact that people sell at
+the lows
+What is the case for diversification
+when there is this asset class that does
+so well over time?
+&gt;&gt; Yeah, so this is great. So if you could
+guarantee that this asset class would
+keep growing always then you would 100%
+be on stock only.
+&gt;&gt; Now what bonds traditionally used to do
+was they provided you with income that
+when the stock market wasn't doing well
+at least you wouldn't go completely
+broke because you would have some yield.
+&gt;&gt; But I think it got taken to an extreme
+right. I mean the greatest example and I
+wrote a whole book on this topic is is
+the European Central Bank followed the
+Japanese central bank and then they
+started buying at negative yields and
+they convinced all the indexers to keep
+buying bonds with them. Right? I mean
+think about this. You were buying bonds
+meaning you were lending somebody money
+and you were paying them interest
+&gt;&gt; and at that point diversification is an
+insult. I mean you don't want to buy a
+negatively yielding bond along with
+stocks because it does nothing for you.
+And we're living the consequences of it
+today because the bond market over the
+last five or seven or 10 years even has
+had absolutely dismal zero returns.
+&gt;&gt; Joe, do you think people who want
+positive yielding bonds are entitled
+still? That was your position for a
+whole year.
+&gt;&gt; I still think that I still don't think
+anyone is entitled to yield.
+&gt;&gt; No, I don't. If you want to take the
+risk, go get it. But the sort of moral
+demands that the government must provide
+you yield for what? For not spending and
+doing anything. Give me a break. Joe Joe
+spent a good year making fun of yield
+bugs as you call them.
+&gt;&gt; I don't It's great. Go out, collect your
+yield. I'm I'm happy for you, but don't
+pretend that it's some sort of moral
+insult that the government isn't
+providing you risk-free yield. That is
+my only That is my only stamp.
+&gt;&gt; That's I would argue the US government's
+most important role. Anyway, let's go
+back for a second. So, it's not just the
+insurance idea. you touched on this, but
+it's also the idea that like you can get
+a massive windfall when there's a market
+crash and then you can use that money to
+actually go on a buying spree at a time
+when markets are cheap and everyone else
+is, you know, short on cash and they
+can't do the same. How do you actually
+deploy that into practice and how do you
+scale for instance an expected windfall
+against the type of assets that you
+could potentially buy?
+&gt;&gt; Yeah, I think this this is where the
+first principles thinking becomes really
+important. So you have to look at every
+portfolio is different, right? So one of
+the other mistakes I think people make
+is they think you can just pick up a
+finance 101 book and say every portfolio
+is identical. It's all risk neutral and
+everybody is exactly the same. It's just
+not the case. Public fund that has a 40%
+or 50% funded ratio is very different
+than a 90% or a you know bank that's
+120% fully funded. Right? So everybody
+has different needs. The first thing
+that you do is you look at the
+underlying portfolio's posture. How much
+loss can you take? look at the systemic
+risk shocks that they can actually
+withstand. So you run a shock, you run a
+full distribution analysis and figure
+out what is the outcome under which they
+will be under so much distress or so
+much duress that they might end up
+having to liquidate assets. And there
+are actually quite a few like that right
+now where if the stock market went down
+20%. And privates went down about 20%.
+&gt;&gt; In order to raise liquidity for
+distribution, they would have to
+actually sell seed corn, right? So it's
+really really bad. So that's an
+existential risk that you want to
+quantify. So the first thing that you do
+is you figure out what that risk is. A
+full distribution of outcomes and then
+you look at the instrument set that's
+out there in the marketplace starting
+from the most reliable and surprisingly
+enough like Joe mentioned already the
+cheapest one which is equity option
+volatility. M
+&gt;&gt; you can buy those put options but people
+who are not willing to pay a lot of
+continuous premium you can do more
+sophisticated tricks where you can buy
+indirect hedges for instance credit
+default swaps today the CDX index if you
+don't see the charts it's actually
+tighter than it was pre the GFC it's the
+tightest it's ever been
+&gt;&gt; because people are buying it for
+cosmetic yield reasons so there are a
+lot of derivative inst cosmetic yield
+simply means that the total yield if you
+look at the yield of a corporate bond
+today.
+&gt;&gt; It is basically treasury yield plus some
+spreads. So the treasury yields are at
+call it 4 and a half 4%.
+&gt;&gt; But the spreads are actually very tight
+only 50 basis points on the CDX. So
+you're getting a 5% 6% yield
+&gt;&gt; which in the context of where we were 3
+years ago looks like an
+issue.
+You are taking much risk.
+&gt;&gt; Okay, keep going.
+&gt;&gt; Yeah, it's a cosmetic yield. Your
+decorated yield. So to me the yield is
+not justified by the risks that are
+underlyed. So there's various
+instruments that you can use and create
+a portfolio of these types of hedges.
+[Music]
+Is tailor risk hedging like insurance
+from a business from a structure of how
+people buy it? Is it like insurance
+where people sort of reload every year
+in a sort of okay start of the new year
+what is the tail risk I want to put on
+etc or something that renews and they
+have to keep paying a fee or is it just
+sort of something that can be set it and
+forget it a permanent allocation that
+sort of the tail risk hedge like talk to
+us about the business of selling a tail
+risk hedge
+&gt;&gt; yeah so definitely so it goes up to the
+highest level where this becomes part of
+where you guys started portfolio
+construction it's an asset allocation
+decision Yeah,
+&gt;&gt; it's not a trade. So the context has to
+be that if the agents are all lined up,
+meaning boards and trustees and so on,
+they think of this decision as
+protecting the portfolio, making a more
+robust portfolio as part of the DNA and
+the tail becomes part of the how you
+rebalance your portfolio over the long
+term. Okay. So that's how you set up the
+strategic portfolio. But then to your
+point, every year, yes, you have to
+renew this policy. You re have to
+recommmit premiums. Now you can preund
+for the next 5 years if you wanted to
+&gt;&gt; but because options decay
+&gt;&gt; in order to have this reliable hedge you
+sort of have to uh buy new options.
+&gt;&gt; Yes.
+&gt;&gt; What would be the worst kind of tail
+risk hedging in your view? Is it you
+know too expensive or does it not
+actually work when there is a big market
+crash? Like what is the ultimate sin of
+a tail risk strategy?
+&gt;&gt; Ultimate sin absolutely is the one which
+promises to work but doesn't work.
+Right. So a lot of people try to reduce
+your cost by creating synthetic
+strategies, right? I already mentioned
+futures markets aren't very deep when
+you need them, but there's a lot of
+strategies which actually use a futures
+replication strategy
+&gt;&gt; like the 1987 crash also purported to
+do. And those strategies typically don't
+work. And so there's many that promise
+and they look like they are cheaper and
+they don't cost any bleed but they also
+do not deliver which again going back to
+April 2nd the only thing that worked
+during that April 2nd to April 8th
+period was reliable hedging using index
+options nothing duration didn't work
+trend following didn't work a lot of
+other altruis premium strategies didn't
+work
+&gt;&gt; so that is the cardinal sin you just do
+not do not have the luxury to go to the
+constituent and your clients or
+whoever's bought it and said, you know,
+we were trying to be too smart and oops,
+it didn't work.
+&gt;&gt; Yeah.
+&gt;&gt; As you mentioned that to even talk about
+buying a tail risk hedge, you have to
+sort of understand is what is the
+existential risk for the fund and
+different funds have different flavors
+of existential risk depending on how
+funded they are. And so obviously an
+entity that's 120% funded is going to
+have very different risk scenarios than
+one that's 40% funded. But you said
+something interesting which is that and
+I've been thinking about this a lot in a
+different context which is how levered
+is the financial system or the real
+economy to an ongoing rise in the stock
+market? How important is that? And at
+what point does even a sideways stock
+market, let alone a decline become risky
+for something that could break? And you
+know, we used to think credit is the
+thing that breaks. But I wonder if it's
+in the stock area thing now where you
+really get the problem if the equity
+values don't go up. Tell us more about
+what you said about what happens to
+various types of economically important
+players. If the stock market one day
+stops going up for uh sustained period
+of time,
+&gt;&gt; I think you have a big problem, right?
+So, so not only is the stock the whole
+system 401ks and public pensions,
+they're all levered up to the stock
+market because that's the only way you
+can get to your 7 12 or 8% actual yield.
+So, if the stock market doesn't keep
+going up and keep delivering those kind
+of returns, it's very hard to get to
+that point. Maybe if inflation rises, at
+least again cosmetically, maybe the long
+bond gets up to 7% or 8%. And everybody
+can just lock it in and immunize and
+you're there.
+&gt;&gt; But in real terms, you're not going to
+have the income that you need 30 years
+from now to retire.
+&gt;&gt; I'm fine. I have a zer mortgage. So I I
+have I have a mortgage that's locked in
+from that one period of time.
+&gt;&gt; Yeah, exactly. So the system is very
+levered. And then corporate credit
+clearly is very very concentrated. We
+all read about payings and so on. But
+corporate credit based on the merrenton
+model again that connects equities
+&gt;&gt; to corporate credit spreads is also
+leveraged the stock market. that the
+stock market suddenly had a big
+sell-off, corporate credits widen out,
+which is the real problem, right?
+Because if corporate credit widens out
+and the cost of borrowing goes up for
+all the corporations, maybe not the fang
+stocks, but the 493 other stocks, then
+how does the system produce? Because our
+whole system is based on borrowing. And
+I don't think very many companies in the
+US can function if your cost of
+operating your business was 10% a year.
+&gt;&gt; Okay. Okay. Well, on that note, we would
+be remiss to have a tail risk person
+here and not ask what's the big risk
+that you see on the horizon in let's
+just say the short to medium term.
+&gt;&gt; I think for me the biggest risk right
+now is uh what people have been talking
+about is you know the so-called and I
+call it so-called the Fed independence
+paradigm shift because I don't believe
+the Fed was ever really fully
+independent but now it's coming to the
+four that the fiscal and monetary
+authorities are actually one. So what
+happens in the aftermath if the Fed
+actually becomes part of the central
+government, the fiscal authorities, I
+think at that point all bets are off
+because that's the one anchor that
+everybody whether uh realistically or
+not has held on to. But if interest
+rates can change just based on the need
+to finance something that totally upside
+downs the financial system. So to me
+that's the single biggest risk right
+now. So would that materialize into an
+inflationary risk for instance and then
+would you be focused on what you can do
+to offset that?
+&gt;&gt; Yeah, inflationary risk and I think one
+of the best option trades again this is
+not a direct option. So going back to
+what you were asking before you don't
+always just have to pay premium the
+yield curve steepener where you buy the
+short end of the yield curve and you
+sell the long end of the yield curve.
+Today you can do it through using swaps
+and all that for essentially zero net
+carry. So here's an option very similar
+to shorting the negatively bond market
+in Europe a few years ago where if you
+put a yield curve steepener on
+&gt;&gt; either in a hyperinflationary maybe not
+hyper but a lot high inflationary
+scenario or in an aggressive Fed cut the
+yield curve steepens. So yes, so that
+environment is an environment in which
+the curve steepener could work. And yes,
+my zeroth order prior forecast would be
+that if we lose explicit independence of
+the Fed, the yield curve actually
+steepens a lot more.
+&gt;&gt; Something I'm interested in. So, you
+know, you were talking about the recent
+eras and the the 60s and 80s and things
+may have gotten a little unglued and
+then the Vulkar era and then the
+postcoid era and now this question about
+whether what's left of Fed independence
+is at risk. You know, you're a physicist
+and or a lot of people in your space are
+mathematicians. Is there a limit to how
+much you can sort of math it out so to
+speak? because a lot of these questions
+are external to mathematics and so how
+do you think about the limits of
+quantitative analysis when we're dealing
+with things like will the political
+system allow the Federal Reserve to
+remain independent? Yeah, I think a lot
+of it is actually non-quantitative and
+what I've learned even though I come
+from a quantitative background, it's not
+the math itself, but it's the sequence
+of logical arguments that you can make
+to get to a conclusion. Right? So for
+instance, we knew even before fancy
+mathematics was discovered uh you know
+lrangeians and so on that gravity
+exists. Gravity's existence has been
+known before maybe math was invented but
+gravity has been there and so I think
+there's some central laws of finance
+which will still continue to exist uh
+regardless of the mathematical modeling
+of them and you know the bill gross when
+I used to work with him he used to say
+some things we can take for granted I'm
+paraphrasing it but the steepness of the
+yield curve the fact that the yield
+curve needs to be upward sloped for the
+financial system to function because
+people lend money in order to get
+something in turn. Those are not
+mathematical devices. Those are really
+just the way the capitalist system
+works. So I think you can take the
+quantitative modeling to its own limit.
+But there are certain things that have
+happened in our system where we're at a
+point now where gravity so to speak of
+the financial markets are going to have
+to take over.
+&gt;&gt; But presumably also if you can't predict
+the politics because it's very difficult
+especially nowadays. If you can't
+predict the politics then maybe right
+sizing your positions becomes more
+important. And so the maths actually
+becomes one way of dealing with the very
+uncertainty non-mmathematical element of
+what's going on.
+&gt;&gt; Yeah. Exactly. And I think to take that
+point one step further. So correlation
+has been the greatest gift since the 19
+mid 80s to to 2020. Right. So you got
+stocks and bonds just say 6040. Stocks
+went up, bonds went up and they were
+diversifying which is what a beautiful
+place to be in. Right. It
+&gt;&gt; sounds nice. So so that was a freebie.
+And again this goes back to financial
+gravity so to speak that state of
+affairs that free lunch should not
+exist. So I think we might be entering a
+phase where stocks and bonds maybe are
+actually not diversifying and you have
+to look at other things. Gold of course
+as you mentioned maybe Bitcoin who knows
+but I think the fact that reliable
+insurance or portfolio protection is so
+available today using the options market
+to me would be the place where I would
+look. When you look at the long end of
+the yield curve today in the US, is
+there an element in which these concerns
+about the loss of Fed independence are
+being priced in right now? If suddenly
+you could snap your finger and know for
+a fact that the Fed will operate as it
+has been for the last 20 years, for the
+next 20 years, would there be a change?
+Is there some margin that concern there?
+You know what? I don't know if the Fed
+is going to be a committed inflation
+fighter as well as it has been in the
+past. Therefore, I'm demanding extra
+yield today.
+&gt;&gt; No, not yet. I don't think so. Maybe a
+slight amount of premium has gone up.
+But one of the most striking features of
+the system is that if you look at the
+Treasury yields, look at the 30-year
+bond today is 470. But you look at the
+30-year interest rate swap, it's trading
+at, believe it or not, 389, right? So,
+it's almost 85 basis points under the US
+Treasury. Now, you ask, why would
+somebody take the uh swap market at a
+lower yield? And I've been trading swaps
+since its inception back in the 1990s.
+Swap spreads are negative 85. And that
+goes back to the receiving of interest
+rate swaps to hedge liabilities by a lot
+of large institutions. So they have
+certainly not priced in inflationary
+effects into the swap market.
+&gt;&gt; But at some point this has to also
+equiliiberate. So in my view it has not
+been priced in. Maybe it's too early to
+price in because maybe the Fed does not
+lose its independence and you know rises
+as phoenix from the ashes. But uh I'm a
+little bit pessimistic about it.
+&gt;&gt; Just going back to your storied career
+on Wall Street for a second, how good
+were you at playing Liars Poker?
+&gt;&gt; I was actually pretty good. I uh think I
+mean I learned it after I joined Solomon
+Brothers was a good group of people and
+I think the first year maybe I lost a
+bit but I think in the third year that I
+was there I won it and I was actually uh
+I think the one who took the biggest
+spot and I also my boss gave me his uh
+18 ft fishing boat but he was buying a
+new one as part of the settlement that I
+knew.
+&gt;&gt; Yeah in lie of cash. He was like here
+take my own.
+&gt;&gt; Well cash plus the boat I think. So yeah
+&gt;&gt; that's a really big pot.
+&gt;&gt; That was a big pot. Yeah. At that point,
+we used to spend after the trading day
+was over. Every day we would print out
+randomized liars poker sheets. Uh,
+usually about 24 or 30 of them, and we'd
+play about 30 30 rounds every day.
+&gt;&gt; Wait, Liars poker sheets. I thought you
+played with actual cash.
+&gt;&gt; Yeah. So, actual cash you play with
+dollar bills, but uh, you know, if
+you're playing 24 rounds, there are not
+enough dollar bills flying around.
+&gt;&gt; I never thought of that.
+&gt;&gt; Yeah. So, you randomize based on how the
+dollar bill numbers are generated. Yeah.
+Is there going to be a future in finance
+for a young physics student or a math
+nerd in high school today? You know,
+people worry about this with AI and so
+forth, but a young person who's
+quantitatively minded. Do you feel
+confident that there will be a role for
+them in finance in the future?
+&gt;&gt; Absolutely. I think finance has existed
+from the very very beginning because
+it's based on the two fundamental
+emotions, right? Greed and fear, right?
+So as long as there's greed and fear and
+there's smart people around uh and again
+going back to math and physics it's not
+so much that the toolkit itself is
+teaching you anything special. It's just
+it teaches you think in a discipline
+logical fashion
+&gt;&gt; and I think with tools like what we're
+seeing with AI and so on and coding
+becoming completely democratized. I
+think the ability to ask important
+questions rigorously becomes even more
+important. So I think it's going to be
+even better than it's been.
+&gt;&gt; Veneer that was absolutely fantastic.
+Thank you so much for spending time with
+us at Huntington Beach at the Future
+Proof Conference and that was great.
+&gt;&gt; Yeah, thank you so much. That was
+fantastic. Thanks for having me.
+[Music]
+&gt;&gt; Joe, that was really fun. We should have
+an back and just do like stories from
+Wall Street in the 1990s episode. We
+could do that.
+&gt;&gt; I love the stories. We could do a lot
+more on the stories and I'm also
+interested in like basically you know
+the philosophy of portfolio
+construction. I mean obviously there's
+the math of portfolio construction but I
+do have a certain dissatisfaction with
+many conversations about portfolio
+construction including this
+&gt;&gt; in what sense?
+&gt;&gt; Well diversified stocks have almost
+always gone up. Has every insurance I
+mean I guess another question that I
+could could have asked is has every
+insurance contract on the stock market
+essentially so far been a waste in human
+history because the stock market is at
+all-time highs. I have I have questions
+about that. The counterpoint to that is,
+and I've I've come to realize this as I
+get older in my life and in my
+portfolio, is there is something nice
+about like waking up during a sell-off
+and going like, "Oh, shoot. My 401k has
+been absolutely decimated today." But if
+I look at, you know, some other position
+or some other tail risk hedge that I
+have, like that's actually up a little
+bit and it's offset some of the pain.
+And if I actually had to cash out of my
+portfolio on that day because of
+whatever I had to make a mortgage
+payment or whatever, then I would have
+some extra cash to spare. And you could
+get an extra return by having that extra
+cash available to you to then go into
+the market and buy stuff on the cheap.
+&gt;&gt; I think that we really should have an
+odd lots ETF that is advertises its
+illquidity that you can't sell this. If
+you need cash now, this is not the
+instrument for you. If you are putting
+your money in this, don't expect to see
+it again for 30 years. But the plus side
+is it will keep you from making bad,
+irrational decisions on a day when
+everything is red.
+&gt;&gt; I mean, there's there's a value in that.
+There's a value in that. And there's
+also a value in being able to, you know,
+sleep at night a little easier because
+you have different positions. But
+anyway, should we leave it there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; All right. This has been another episode
+of the Odd Thoughts podcast. I'm Tracy
+Aloway. You can follow me at Tracy
+Aloway.
+&gt;&gt; And I'm Jill Weisel. You can follow me
+at the stalwart. Follow our guest Veneer
+Bonsali. He's at LongTail Alpha. Follow
+our producers Carmen Rodriguez at Carmen
+Arman Dashel Bennett at Dashbot and
+Kalebrooks at Kalebrooks. For more
+OddLots content, go to
+bloomberg.com/odlots.
+We have a daily newsletter and all of
+our episodes. And you can chat about
+these topics 24/7 in our Discord,
+discord.gg/odlots.
+And if you enjoy OddLotss, if you like
+it when we talk about portfolio
+construction, then please leave us a
+positive review on your favorite podcast
+platform. And remember, if you are a
+Bloomberg subscriber, you can listen to
+all of our episodes absolutely adree.
+All you need to do is find the Bloomberg
+channel on Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+Yeah.
+Hey.
+[Music]

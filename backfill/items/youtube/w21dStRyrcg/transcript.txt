@@ -1,0 +1,736 @@
+Kind: captions
+Language: en
+From the New York Times, I'm Rachel
+Abrams and this is the Daily.
+[Music]
+For decades, the government has
+struggled with how to police monopolies
+in the tech industry. And this week, a
+landmark ruling in a case against Google
+marked the most aggressive attempt in
+the modern era to level the playing
+field.
+Today, my colleague David McCabe on who
+won, who lost, and what this means for
+the race to dominate artificial
+intelligence.
+It's Thursday, September 4th.
+So, David, a year ago, a federal judge
+decided that Google had broken the law
+to maintain its dominance over search.
+That basically it had legally maintained
+its monopoly. And since then, everyone
+has been waiting to see what the
+punishment could be because the
+punishment in this case could have
+enormous implications for the tech
+industry. And here we are this week, the
+decision comes out, the punishment is
+clear, and it seems like a slap on the
+wrist.
+&gt;&gt; Yeah. So, on Tuesday, a little bit after
+4:00 p.m., I get a message from someone
+we work with that just said, "It's
+dropped."
+&gt;&gt; And I knew immediately what they were
+talking about.
+&gt;&gt; Basically, that your day was going to be
+completely scrambled. Yeah, we had been
+preparing for this for a long time and
+now it was go time and we start making
+our way through this ruling. It's 223
+pages long, but it becomes clear within
+minutes that this is really a win for
+Google and a blow to the government's
+efforts over now two different
+presidents to reign in the power of
+Silicon Valley. Google had avoided the
+harshest penalties in this case. It had
+not been broken up as the government had
+asked. So, it was not forced to sell
+Chrome, its popular web browser. It was
+forced to share some of its data and its
+search results with its rivals, but on
+terms that did not require it to hand
+over all of its secret sauce. And it was
+telling that despite the fact that
+Google was being mandated to do some of
+these things, it stock price actually
+jumped after the ruling.
+[Music]
+&gt;&gt; Well, I mean, earlier I mentioned this
+felt like a slap on the wrist. And I
+think that I felt that way because as a
+non- tech person, I guess the idea that
+you would have to share data with your
+rivals, like that doesn't seem like the
+worst fate that could befall a company
+as big as Google, which is what, worth
+trillions of dollars, something like
+that.
+&gt;&gt; Yeah. And especially after just a year
+ago, he issued a ruling that declared in
+no uncertain terms that they were a
+monopolist and they had acted illegally.
+Right. That was a big ruling and a loss
+for Google,
+&gt;&gt; right? So, how does this judge go from
+declaring that Google is illegally
+protecting its monopoly to basically
+delivering a penalty that is so lenient
+or benign, however you want to call it,
+that the stock price actually jumps?
+&gt;&gt; The answer to that question has a lot to
+do with artificial intelligence, which
+has for the first time in decades called
+into question whether Google will own
+the future of how people look for
+information online.
+&gt;&gt; So, tell me a little bit more about
+that. Like, where does the story start?
+It starts in 2020. So the first Trump
+administration had decided that they
+were going to investigate concerns about
+the power of the biggest tech companies,
+&gt;&gt; right? I remember that.
+&gt;&gt; Yeah. Not just Google, but Amazon and
+Apple.
+&gt;&gt; And they said that Google had amassed
+and maintained a monopoly over the
+search business. They said that its
+behavior had crushed its competition,
+made it hard for even big companies like
+Microsoft to build a search engine that
+could match Google's dominance. They
+said that it had led Google to make an
+inferior product and they said that
+ultimately this had hurt consumers
+&gt;&gt; because they were getting access to an
+inferior product or what was the harm
+exactly?
+&gt;&gt; The harm was that Google now outside of
+a competitive marketplace was able to
+make an inferior product and ultimately
+that consumers had less choice, right?
+That if they didn't like how Google was
+say collecting their personal data that
+they couldn't go somewhere else that was
+as effective at giving them the answers
+that they needed from the internet.
+That's actually really interesting
+because I think when we think of
+antitrust cases, we normally think of
+like a price harm, like consumers are
+getting harmed because they're paying
+more for such and such product. But
+here, it's that the product that they're
+not even paying for is inferior and also
+that it's about their data and their
+privacy, which feels a little bit
+unusual.
+&gt;&gt; Yeah, you're right. Antitrust law often
+in the last many decades has looked at
+is there a price increase for consumers
+and Google ultimately has a cost of $0.
+So what were the arguments on both sides
+of this case? What was the government
+saying and what was Google saying in its
+defense?
+&gt;&gt; So at the heart of the government's case
+were payments that Google has made for
+many years to companies like Apple and
+Mozilla that make web browsers and to
+companies like Samsung that make
+smartphones to basically make its search
+engine the automatically selected search
+engine that comes up when you open your
+phone or you enter a query into the top
+of your web browser. And these payments
+amounted ultimately in some cases to
+billions of dollars. In 2021, Google
+paid at $26.3 billion as part of these
+deals. So, it's not funny money, right?
+It's real money.
+&gt;&gt; And the government said that that set in
+motion a pernitious flywheel effect.
+Google paid for the prime placement
+which meant more people searched on
+Google which meant Google had more data
+about what people are searching for
+which they used to make their product
+better
+&gt;&gt; which in turn made it more likely that
+Google would get the prime placement and
+that effectively this pernitious
+flywheel spun and spun and spun and
+blocked out even big companies who were
+trying to compete in search.
+&gt;&gt; Google is so dominant it's using its
+dominance to crush competition, make its
+product better and therefore you're more
+likely to choose it anyway as a
+consumer.
+&gt;&gt; Exactly. This basically just entrenched
+their power over and over again.
+&gt;&gt; This feels like an argument that
+actually serves both sides of this
+lawsuit.
+&gt;&gt; Well, exactly. Google said people choose
+us because we are better. They argued
+that they have invested again and again
+in making search the best product it can
+be and that people chose not because
+Google was making these payments, not
+because it was the automatically
+selected search engine in their web
+browser, but because it had simply won
+on the merits. It seems worth noting
+here that Google obviously one of the
+biggest tech companies in the world, one
+of the most profitable tech companies in
+the world, a company that has come to
+define how we use the internet. This
+case seems to be existential for it in
+some ways. And it feels like that is a
+lot of power to put in the hands of this
+one judge who basically has like the
+future of Google in his hands and his
+hands alone.
+&gt;&gt; That's right. And once he ruled in 2024
+that Google had abused its power, had
+illegally maintained a monopoly, that
+pressure only increased because he had
+to figure out what to do about it. And
+that's a question that didn't just have
+implications for Google. It had
+implications for the entire industry,
+for the entire internet, and everybody
+who used the internet. And it seemed as
+though he might be poised to do
+something that would radically disrupt
+the technology industry.
+&gt;&gt; Right? And that was really crystallized
+for me in the closing arguments of the
+second phase of the trial, the remedies
+phase.
+&gt;&gt; Okay. And why why did that crystallize
+for you then?
+&gt;&gt; So the judge in this case, Amit Ma of
+the district court in Washington, he
+holds his cards close to the vest. He's
+very careful and he's had three weeks of
+testimony almost like a second trial. Uh
+he's had three weeks of testimony from
+witnesses. He's heard evidence and then
+he does closing arguments
+&gt;&gt; for a full day. He just drilled into
+these lawyers about the big picture
+issues in the case but also about really
+small questions and it just in some ways
+deciding that Google had broken the law
+&gt;&gt; was the simple part right it was a clear
+legal question it was about basically
+these contracts and now the questions
+before him had multiplied significantly
+&gt;&gt; basically it's like it was much easier
+and simpler to decide that they had
+broken the law than it was to figure out
+what to do about it.
+&gt;&gt; That's right. And fundamentally, there's
+a reason for that. The first phase of
+this trial was about the past. The
+second stage was about the future. And
+the future of finding information on the
+internet is murkier than ever.
+While this battle was playing out in the
+courtroom, there was a different battle
+playing out in Silicon Valley between
+titans like Google and smaller startups
+to dominate what had become an AI boom.
+And ultimately the fight outside of the
+courtroom made its way into the
+courtroom
+&gt;&gt; and the judge in this case had to adjust
+to this new reality. And ultimately it
+changed the course of the case.
+[Music]
+We'll be right back.
+[Music]
+So David, how is it that AI became so
+central to the outcome of this case?
+&gt;&gt; Yeah. So when this case was filed in
+2020, people probably had a general
+understanding that the data that Google
+had was valuable not just for search but
+for the development of artificial
+intelligence.
+Then that theoretical idea turned into
+reality.
+In November of 2022, as this case is
+barreling towards trial, OpenAI releases
+chat GBT. And I think people know what
+happened next.
+This explosion of AI chat bots. These
+products where you can ask it a
+question, it responds as though it's a
+human. They can spit out and generate
+images. And money starts pouring into
+this space. Companies start investing in
+the construction of data centers and
+other infrastructure that's required for
+this technology. venture capitalists
+start funding more and more of these
+startups.
+&gt;&gt; And it is exactly at this moment that
+this case, which is about how for a
+decade information had worked online,
+goes to trial.
+Can you just explain a little bit more
+what does the data that you're talking
+about have to do with Google's efforts
+with AI and what the remedy should be
+for whether it's legally enforcing a
+monopoly? So Google search is built on
+reams and reams of data and information.
+&gt;&gt; Basically a map of the internet.
+Generative artificial intelligence
+models are also built on data and
+information.
+&gt;&gt; Right? These large language models
+ingest a ton of information, a ton of
+text so that they can then generate
+these responses to your questions. And
+so suddenly there is a question about
+whether or not the advantage that Google
+has had and maintained in search can
+basically transmute into an advantage
+and dominance in artificial
+intelligence.
+But of course that hasn't really
+happened yet.
+&gt;&gt; Google really is under challenge from
+companies like OpenAI and Perplexity.
+They have their own chatbot Gemini but
+it is not the dominant chatbot.
+&gt;&gt; Right? There are a million AI companies
+or at least what feel like a million AI
+companies that have sprung up that
+people are asking questions to.
+&gt;&gt; Yeah, I was just in San Francisco and
+all the billboards and ads in the
+airport are about AI. And we know these
+products. There's Claude, there's Grock,
+there's Catch EPT.
+&gt;&gt; And we should just note here that the
+New York Times has sued Catch's parent
+company, OpenAI, and one of its
+investors, Microsoft, claiming copyright
+infringement of news content related to
+these AI systems. And the two companies
+have denied the suits claims. But please
+continue.
+&gt;&gt; That's right. And consumers have started
+to change their behavior because of
+these chatbots. They're now using them
+like they might have used a search
+engine. They're asking it questions that
+they might have previously asked Google.
+&gt;&gt; Yes, I'm I feel like I'm very frequently
+going to uh Gemini or Chat GBT and
+asking a question I might have normally
+asked Google.
+&gt;&gt; Right. And this transformation is
+starting to play out as this case gets
+underway, but it doesn't come up in the
+first phase of the trial.
+&gt;&gt; The first phase being when the judge
+says, "Yes, I've determined that you're
+acting illegally."
+&gt;&gt; That's right. But as soon as he
+triggered the second phase of the trial,
+the how do I fix this phase of the
+trial,
+&gt;&gt; suddenly he has to face this
+transformation of the tech industry head
+on.
+&gt;&gt; How so?
+&gt;&gt; Because now Google could come into the
+courtroom and say, "Look, the rise of
+these AI products proves that the market
+is working, that you do not need to make
+some radical intervention." And on the
+flip side, the government came into his
+courtroom and said, "If you do not act
+aggressively,
+&gt;&gt; Google will use the tactics it used to
+illegally protect its monopoly in search
+and use them to monopolize and dominate
+artificial intelligence."
+&gt;&gt; Basically, they will use one monopoly to
+create another monopoly.
+&gt;&gt; Precisely.
+&gt;&gt; What is the judge's actual remedy here?
+&gt;&gt; I would think of this in two different
+buckets.
+&gt;&gt; Okay. remember the deals that Google did
+with Apple and Mozilla and Samsung to be
+that automatic search engine that comes
+up in your browser or your smartphone.
+&gt;&gt; Yes, I do.
+&gt;&gt; So, this is at the heart of the case.
+Okay.
+&gt;&gt; And I think it's something that a lot of
+people thought the judge would ban
+outright because it was so central to
+the government's case to the monopoly
+that he had found that Google had
+illegally maintained.
+But he takes a slightly different
+tactic. He bars Google from entering
+into those deals in some cases, most
+notably when they are exclusive.
+But he does not ban them from paying for
+that great real estate entirely.
+&gt;&gt; So what does that mean? That Apple could
+just be like, "Okay, sure. We'll take
+your $20 billion and you can be the main
+search engine when somebody opens up
+their browser, but we're also going to
+have duck.go."
+&gt;&gt; Well, this is a big question. What is a
+non-exclusive default? It would seem
+that by the nature of a default, there
+is only one, right?
+&gt;&gt; Mhm. But it was for example discussed
+during the trial that Apple could offer
+a different default in the normal
+browsing mode and in the private
+browsing mode. Right? You could imagine
+that they would install a privacy
+focused search engine as the default in
+incognito mode. So perhaps that is an
+example of a non-exclusive default. But
+where the rubber will hit the road on
+this part of the remedies is exactly how
+these two things that seem like they
+might be in conflict resolve.
+&gt;&gt; Okay. So you mentioned there were two
+buckets. Sounds like that's one bucket.
+&gt;&gt; Mhm. The second bucket is requiring
+Google to share some of the data
+&gt;&gt; that makes it powerful.
+&gt;&gt; Okay.
+&gt;&gt; They will be required to syndicate their
+search results to quote unquote
+qualified competitors. Essentially that
+a qualified competitor to Google could
+display Google's search results which
+are seen as very high quality rather
+than their own maybe inferior search
+results. Right? erasing that quality
+advantage. Now, the government didn't
+get everything they wanted there because
+Google's going to be able to do so
+basically on the terms of commercial
+agreements that they already have to do
+this. So, it's not a huge change for
+them because they already offer deals
+like this, but of course, now they're
+being required by a court to offer them.
+The second part of sharing what makes
+Google Google is they are required to
+give those qualified competitors the
+sort of top level of what is called the
+search index.
+&gt;&gt; Hm. I have no idea what that is. Yeah,
+it's a a kind of wonky term, but it
+basically means the corpus of web pages
+and information that make up Google
+results. And so they have to hand that
+over to rivals who have said that it's
+very hard to build your own search
+index. And so this was this kind of
+insurmountable advantage that only
+Google had. But there's a catch. The
+judge said that Google doesn't have to
+share a lot of the data it uses to rank
+the popularity of those pages. the kind
+of one layer down that they use to make
+really quality results.
+&gt;&gt; Wait, that would seem like it's sort of
+the secret sauce as you mentioned to
+Google, right? Like the whole point of
+using Google is that you get the search
+results you want immediately like on the
+top page.
+&gt;&gt; Yeah. And the government wanted them to
+share all of the secret sauce and
+ultimately the judge did mandate sharing
+of some data like that, but not all of
+what the government asked for.
+&gt;&gt; But as you mentioned earlier, all this
+to say, he's not actually breaking up
+Google, which was one of the things that
+they were really worried about, right?
+like he's not forcing them to spin off
+Chrome or Android products or anything
+like that.
+&gt;&gt; That's right. And this was like the
+biggest ask that the government made
+that Google be forced to spin off
+Chrome. It's a wildly popular web
+browser. It's used by billions of people
+around the world. And potentially, if
+competition didn't improve after the
+remedies, that the court be allowed to
+make them spin off Android, their
+smartphone operating system. And the
+logic behind this was that those are
+both places where Google is able to
+absorb search queries, right? people use
+the Chrome web browser to search for
+information through Google. And so the
+idea was it was a source of web traffic
+which was really valuable to Google.
+&gt;&gt; The judge said no go. He said this was
+an overreach that the government was
+asking for something so aggressive that
+wasn't justified under the law set in
+previous antitrust cases. You know, as
+we talked about, it's a really unusual
+position for a judge to be in to have to
+make such a huge decision while this
+whole technological transformation is
+underway in the background. And I'm just
+curious if he ever addressed that or if
+that came up for you at all during the
+reporting.
+&gt;&gt; Yeah. So, in many ways, this is the
+broader framing of this ruling. He says,
+"I'm not an expert in search engines.
+&gt;&gt; I'm not an expert in artificial
+intelligence." He says it's not a
+judge's forte to look into a crystal
+ball and tell the future.
+&gt;&gt; And where that ultimately led him was
+this place. He said a court needs to
+apply remedies like this with humility
+and that's what I've done. And that
+logic led him to this pretty measured
+decision.
+&gt;&gt; So it sort of seems like this AI boom
+that we've been talking about in some
+ways reverse a thinking on whether
+Google is a monopoly at all because
+Google basically argued, hey look, we're
+not just competing against Duck Duck. Go
+or Bing were competing against Amazon
+and Netflix, etc. And that wasn't
+compelling to the judge at the time, but
+now they actually legitimately do have
+tons of competition in another realm,
+which is AI. And so I wonder if that is
+the reason in part why the judge
+essentially gave them something that
+feels like a slap on the wrist to a lot
+of people at least.
+&gt;&gt; He said that it was a motivating factor
+in how he reached his decision. We
+talked about how he didn't ban those
+payments to Apple and Samsung and
+Mozilla for that great real estate for
+the search engine.
+&gt;&gt; And he said that one reason he was doing
+that was he felt that the explosion of
+these AI chatbots could create companies
+that could compete with Google on the
+merits.
+&gt;&gt; Basically that perhaps Google's
+financial might when met with a real
+challenge from an innovative company
+would not be enough to ensure their
+dominance. which makes me just sort of
+wonder about where consumers fit into
+all of this and how consumers are
+likely, if at all, going to feel the
+results of this ruling or the remedy
+that the judge is recommending.
+&gt;&gt; Yeah. And I don't know that consumers
+will see an impact from this
+immediately.
+&gt;&gt; Google is almost certain to appeal this
+underlying liability decision
+&gt;&gt; which would take potentially years,
+&gt;&gt; potentially years. Uh the government
+could appeal this remedies decision. Uh
+so this will probably be mired in the
+courts for a long time which could very
+well lead to
+&gt;&gt; the remedies being paused while that is
+being hashed out. And then the remedies
+themselves are not immediately about the
+consumer experience. They don't mandate
+for example a choice screen which is a a
+wonky term for basically a a screen that
+pops up on your smartphone and says
+which search engine do you want? That's
+something consumers would see
+immediately. That's not the direction
+the judge went.
+&gt;&gt; Right? And so instead the question will
+be does this sort of basket of changes
+shift the arc of the technology industry
+enough that maybe several years from now
+consumers maybe do see more innovative
+products that compete with Google that
+offer them that experience of finding
+information online in in new and
+different ways and ultimately allow
+companies that produce those products to
+really thrive despite Google's size and
+might. So basically like it's not
+immediately clear how consumers are
+going to feel this if at all but it
+sounds like there could be downstream
+effects of this case that are
+unpredictable that consumers could feel.
+&gt;&gt; There could be and to understand how
+it's helpful to look to the past. So
+more than two decades ago the federal
+government sued Microsoft. This was the
+last big tech antitrust case to get this
+far
+&gt;&gt; over allegations that Microsoft had hurt
+competition when it came to personal
+computers and internet browsers. They
+were battling with I don't know if you
+remember Netscape.
+&gt;&gt; Yes, of course. Yeah. And ultimately the
+remedies in that case were not
+dissimilar from the remedies in this
+Google. But there has been a persistent
+argument that the fact of that scrutiny
+was enough to make Microsoft afraid of
+its own shadow precisely at a time when
+the internet was enabling a new
+generation of startups
+&gt;&gt; such as Google such as Google. And that
+as a result, Microsoft was not as
+aggressive in competing against Google.
+And that that case opened the door just
+enough for Google to become the company
+it is today.
+It's kind of interesting actually to
+note that Google took advantage of a
+cultural shift at a company that was
+scared because of a government lawsuit.
+And now the question is, could there be
+a cultural shift at Google that would
+then maybe change the future landscape
+of tech in ways that are unpredictable
+now, but that consumers certainly may
+feel down the line?
+&gt;&gt; That is one of the big questions. It was
+clear throughout this trial that Google
+has learned from the Microsoft
+experience. There were documents that
+came out that showed that they looked at
+the way the Microsoft had put itself at
+risk during its trial in order to guide
+their own policies around retaining
+documents and what people should say.
+&gt;&gt; A number of their lawyers in different
+ways had worked on the Microsoft case.
+One of their lawyers worked for
+Netscape.
+&gt;&gt; So it is clear they have learned from
+that history before. And I think a
+question is can they successfully avoid
+the trap that Microsoft may have fallen
+into.
+&gt;&gt; So in the Microsoft case the biggest
+effect of that was not necessarily the
+actual outcome but the fear of God that
+the government put into this company
+that then made it behave differently
+with its competitors. That led to the
+rise of this behemoth that is Google.
+And now we're having sort of a similar
+question, which is, will the very
+existence of this case affect the way
+that Google operates, affect its
+culture, affect how it feels spiritually
+about its competitors as we're on this
+sort of horizon of AI? And I just sort
+of wonder how you're thinking about the
+government's attempts to regulate an
+industry it has struggled to get its
+arms around throughout multiple
+administrations, Democrat and
+Republican. I mean, this decision is a
+blow to those efforts.
+&gt;&gt; And it's striking to me because the
+Justice Department undertook a
+monumental effort to bring this case to
+trial. These rulings are landmark
+decisions. And still, when people looked
+at the ruling yesterday, their reaction
+was that it pald in comparison to the
+speed and scale at which the technology
+industry is barreling ahead.
+&gt;&gt; Mhm. And I just read an interesting
+analysis by my colleague Steve Lure who
+covered the Microsoft case and he
+basically said that this decision is a
+new set of rules for the tech giants to
+play by, but the game's still going.
+&gt;&gt; And so the question is, has the judge in
+this case changed the rules of the game
+enough to give one of the rookie players
+enough space on the field to compete
+with Google? or have the rules changed
+too little and Google will just play the
+game again and win again.
+[Music]
+&gt;&gt; Dave McCabe, pleasure speaking with you.
+&gt;&gt; Thank you for having me.
+[Music]
+&gt;&gt; We'll be right back.
+Here's
+what else you need to know today. As the
+US Centers for Disease Control and
+Prevention deals with an exodus of top
+scientists, a number of states have
+decided to go their own contradictory
+ways on vaccines. California, Oregon,
+and Washington said they would work
+together to review scientific data,
+saying that the CDC could no longer be
+trusted.
+Florida, in contrast, said it would get
+rid of all vaccine requirements.
+The moves come at a moment of
+unparalleled turmoil at the CDC, where
+health secretary Robert F. Kennedy Jr.,
+a vaccine skeptic, has taken control of
+the AY's vaccine decisions.
+And Harvard University won a crucial
+legal victory in its clash with the
+Trump administration on Wednesday when a
+federal judge said the government had
+broken the law by freezing billions of
+dollars in research funds in the name of
+stamping out anti-semitism.
+The ruling may give Harvard more
+leverage in its ongoing settlement talks
+with the Trump administration, which
+Harvard had sued over the funding cuts.
+[Music]
+Today's episode was produced by Diana
+Wyn and Caitlyn O'Keefe. It was edited
+by Liz O Balin and Paige Cowittat and
+was engineered by Chris Wood.
+[Music]
+That's it for the Daily. I'm Rachel
+Abrams. See you tomorrow.
+[Music]

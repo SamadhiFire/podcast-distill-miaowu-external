@@ -1,0 +1,4476 @@
+Kind: captions
+Language: en
+[Music]
+The key driver of this bull market has
+been AI and tech. We're becoming still
+very dependent on a smaller handful of
+stocks.
+&gt;&gt; As investors, what we need to do is
+separate out what is the medium-term
+trend from the short-term cyclical
+trading trend.
+&gt;&gt; Next year, we do see earnings improving
+10%.
+&gt;&gt; We have Q3 earnings coming up. We don't
+have a beat and a raise. I think you
+will see a pullback in the market. This
+is Bloomberg Surveillance with Jonathan
+Pharaoh, Lisa Abramowitz, and An Marie
+Hordern.
+&gt;&gt; Live from New York City this morning.
+Good morning. Good morning. For our
+audience worldwide, Blimp surveillance
+starts right now. Coming into Wednesday,
+finding some stability. Equity futures
+inching higher after pulling back from
+all-time highs as Fed chair J Pal is
+suggesting stock markets are highly
+valued. Alibaba surging towards
+four-year highs after revealing plans to
+ramp up AI spending. those spending
+plans just keep on growing.
+&gt;&gt; Look, there's a lot to unpack here with
+Alibaba and the Chinese presence and
+where exactly they'll invest, but in a
+broader landscape. We were talking
+yesterday about the fear of circular
+investing and whether this is
+potentially 1999 type behavior in big
+tech. The real issue is there still is
+fear of not investing enough, not about
+wasting money. And Sam Alman uh the CEO
+of OpenAI yesterday was saying
+ultimately maybe people will get burned
+but there still is the promise that
+truly will come through.
+&gt;&gt; Evaluations are high but the spending is
+real. Listen to these numbers from Bara
+this morning anticipating overall
+investment in AI accelerating to some $4
+trillion worldwide over the next 5
+years.
+&gt;&gt; And it's not just Alibaba last night. We
+heard from OpenAI and what they're doing
+with Oracle in terms of SCAR Stargate
+and that expansion. Micron talking about
+a better forecast because of AI demand.
+What I find interesting is this morning,
+just in the past 40 minutes, Axio is
+reporting that a group of CEOs are
+getting together and as of today,
+they're starting a huge ad campaign like
+the Docu Sign CEO to push companies and
+governments to speed up their efforts to
+adopt AI. Well, in order to adopt AI,
+you have to have the infrastructure in
+place. You have to have the right
+individuals working uh these kinds of
+jobs. When is this going to be a ton of
+push back and maybe some regulation
+coming out of Washington? Just to put
+this into perspective, I keep going back
+to OpenAI, especially after our
+conversation with Gilurio yesterday,
+talking about how maybe this is
+excessive. The $850 billion expansion
+that they have planned is equal to the
+output of 17 nuclear plants. It could
+power 13 million American homes. This
+expansion is fast and furious. Some
+people say it's appropriate, other
+people say they're bottlenecks, other
+people saying ultimately it cannot be
+done. But this is the scale of what
+we're talking about. But talking about
+this circular market, one analyst had
+the best take yesterday. It's kind of
+like having your parents co-sign your
+first mortgage.
+&gt;&gt; The stock keeps climbing. Alibaba up by
+9% in the pre-market so far this
+morning. Equity futures up by about a
+tenth of 1%. Coming up this hour, we'll
+catch up with Peter Cheer of Academy
+with stocks looking to bounce back.
+Harold Pendris of City as global makers,
+global auto makers face a tough test
+from China. And we'll catch up with Neil
+Data of Renmak as Pal confronts a very
+divided Federal Reserve. We begin this
+hour with stocks rising as Alibaba
+becomes the latest tech firm to ramp up
+AI spending. Peter Cheer Academy
+writing, "AI is only the second or third
+inning, maybe even the top of the first.
+The issue is whether valuations are in
+the eighth inning." Pete joins us now
+for more. Pete, good morning.
+&gt;&gt; Yeah, good morning.
+&gt;&gt; Hey, good to see you. Let's just talk
+about the spending plans. What's your
+reaction been to the news that's come
+from Oracle in the last week, from
+Nvidia in the past few days, from
+Alibaba from this morning? You know,
+it's all clear that spending is still
+going away. You know, it's coming in. It
+reminds me a little bit though, too, at
+some point. Remember when you had to
+have a Chinese plan and if you had a
+China plan, you announce your China
+plan, your stocks spike 10%. So, we're
+in that sort of moment where everyone
+who announces plans to spend is
+rewarded. And if you announce that
+you're going to spend 10 billion, your
+stock goes up 20 billion. Why wouldn't
+you? So, I I haven't yet seen that
+change. I think at some point we're
+getting closer. People are starting to
+poke more holes in this. And separately
+from that though I am watching what Baba
+is doing separately because when I look
+at everything that's going on in the
+world trade tariffs etc. China has
+control over the rarest critical
+minerals we have control over the AI
+chips and data. Um China is trying to
+work their way in. It's encouraging that
+they're using Nvidia chips but I think
+that's going to be a real battle line to
+be drawn.
+&gt;&gt; Well let's build on that. Do you think
+the US is at a disadvantage?
+&gt;&gt; I think the US has a huge advantage
+right now in terms of chips. I think
+China has this big advantage in terms of
+the processing and refining of rare
+earth and critical minerals. We're
+taking some steps whether it's
+investments in ticker symbol MP there's
+noise about more investments of those
+sorts whether it's antinomy lithium I'm
+sure there's going to be insure you know
+enriched nuclear uh enriched uranium
+investments those are things that we're
+doing to try and defeat that but that's
+a multi-year product and then at the
+same time it felt like China was going
+to be very easy to work with in terms of
+dealing with Nvidia they seem to be
+setting a line in the sand where they're
+going to be we want to use Huawei more
+and more so that's what I'm watching
+most carefully
+&gt;&gt; there's a lot to unpack there. You
+mentioned that yes, the Chinese
+government has been pushing their tech
+giants to invest in domestic companies
+and domestic chips and yet what you just
+mentioned was Alibaba. They're using
+Nvidia supplies and they actually have a
+new project with robotics that they're
+also uh really uh relying on Nvidia for
+their supplies. So, how feasible is what
+the Chinese government asking for
+&gt;&gt; that? I don't know. And I think maybe
+part of it's just a negotiating ploy
+because again, everyone's now figured
+out maximum leverage. So you say these
+things and then you walk into a room
+with President Trump and try and get
+what you can. Having said that, you
+know, China plays a long game, right?
+And they were nowhere in AI a few years
+ago. They are working their way towards
+that. Whether it's a deepseek type
+technology, whether it's what the Huawei
+chips that are going on. So I would not
+completely dismiss them, right? They are
+starting this kind of steamroller
+effect. They're currently losing, but I
+think they plan to catch up and we've
+got to be very cautious of that. I do
+think this is a big win for Nvidia. I
+think it's awesome for us, but you know,
+this is not given. I think if we take it
+for granted that it's going to keep
+occurring, that's the risk.
+&gt;&gt; Going back to your initial point, the
+idea that we're in the eighth inning,
+even though we're just in the first or
+second inning, when it comes to the
+actual production, eighth inning of
+valuation, at what point does it get too
+far ahead of its skis?
+&gt;&gt; You know, I think it's when you start
+seeing these announcements and the
+stocks don't pop, right? When someone
+announced a 20 billion spend and their
+stock goes down by 30, 40 billion, then
+you're like, okay, people are now tired
+of this. People have kind of sensed the
+valuation. You know, I think
+&gt;&gt; I'm laughing because we had that for a
+hot second and then that reversed again.
+But carry on.
+&gt;&gt; And you know the other strategy that has
+worked so well is momentum, right?
+Momentum tends to work. These have been
+big drivers of momentum. If momentum
+starts turning around and you see the
+CTAs and people get forced out of
+trades, but we're nowhere close to that,
+right? Every dip gets bought right now.
+I'm not seeing what's changing that. The
+one thing that I found both encouraging
+and maybe worrisome for big tech is the
+Russell 2000's finally outperforming. I
+think, you know, not by much. I think
+it's up 3% in the past 5 days. NASDAQ
+100's up 1%. But that's where I'd like
+to see the shift is to a broader
+expansion to more stocks performing
+well.
+&gt;&gt; Peter, I'm glad you brought up the rare
+earths issue because Representative Adam
+Smith was in Beijing yesterday saying,
+"I don't think we resolve that." Is the
+US potentially willing in these trade
+negotiations to give up other issues
+they care about because they are so
+desperate for these rare earths.
+&gt;&gt; I think we might have to at this point.
+And again, I think we got to be really
+careful. It's not the rare earths and
+critical minerals themselves. It's the
+processed and refined versions, right?
+We could go and buy rarest critical
+minerals on the open market. Where are
+we going to get the process and refined
+versions? China controls about 90% of
+that. And so I think that is very true.
+And I always go back now to CO and I
+think it was the Whirlpool CEO said a
+washing machine that's 99% done is not
+done. And I think that's the problem
+with these rarest and critical minerals.
+They may only be a small component of
+each product, but they are literally
+critical, you know, no pun intended. And
+that's the issue. So we are going to
+have to give in until we build out our
+own industry. What do you think it is
+that the Chinese desperately want that
+we're going to have to be willing to
+give in?
+&gt;&gt; You know, I think it's probably going to
+be chips for now. I think they, as much
+as they say they want their own
+business, they're going to try and get
+as many chips in the door they can while
+they want it. And I think they're also
+just buying time. They're playing this
+while they try and solidify their
+trading relationships with other
+countries, right? While we're trying to
+sell chips into the Middle East, I'm
+sure Huawei right now is trying to sell
+chips in the Middle East. So some of
+this may be just a delay game by China
+till they get I think time is on China's
+side if you're China because they watch
+the US. We're very distracted. We have
+so many things going on internally that
+they can just keep their machine moving
+and if they can distract us that's fine
+by them.
+&gt;&gt; The White House is making a move MP
+materials being the blockbuster one of
+the last year or so and then you've got
+the potential for an equity stake in
+lithium Americas that cross in the
+Bloomberg this morning. The team has
+been reporting on that. How are you
+thinking about the prospect of increased
+intervention, an increase between public
+private partnership going forward from
+here?
+&gt;&gt; Well, my starting point would be I think
+I mentioned in this weekend it's you may
+or may not like what's going on, but you
+certainly have to trade it. So, if
+you're investing in this market, whether
+we like this intervention, whether we
+like, you know, this ability to play
+kingmaker, I'm not sure that's that's
+the right direction. Having said that,
+you know, in the old days, right, the
+chips act, right? It just gave grants,
+but the grants were tied with policy
+strings. So, I don't know, maybe we're
+better off investing. It's tricky, but I
+do think right now you're supposed to be
+scouring the universe for 5 to10 billion
+companies or smaller that do things. So,
+I've been involved myself directly in
+enriched uranium. I think there are
+other products like that. They're going
+to take off because this government
+needs to jump start it. And again, if
+you go back to what they did with MP, it
+was a relatively small investment. I
+think it's kind of the tip of the
+iceberg what we might be able to do out
+of a sovereign wealth fund. But they
+also helped provide, you know, 1.1
+billion of loan guarantees, right? And
+that to me, that's how we spur this
+growth. So if we go down that path,
+that's how we have a chance. But it's
+still a 3 to 8year process.
+&gt;&gt; This is the challenge, Pete. If you are
+a child of Reagan or Thatcher, you've
+got to park your feelings about this and
+let it go. This administration wants to
+pick winners. Are you saying that when
+they pick winners, you want to go along
+for the ride?
+&gt;&gt; I think so. I think, you know, to me, in
+hindsight, it wasn't surprising at all.
+And I owned Intel. I think I talked
+about owning Intel. And not a shock that
+Trump would maybe ask Nvidia to get
+involved because Trump wants Intel to do
+well. like Trump likes winners, right?
+That's all he's ever done. He's going to
+back winners. He's in a strong position
+to push these things. So whether you
+like it or not, I think you have to
+accept that this is the current
+administration's view. These things are
+going to get support. So you want to
+look for those and you've seen so many
+stocks take off. But I think we're still
+early stages and this is all without an
+official sovereign wealth fund, which I
+think something is coming down the pipe
+for that before the year end. This is
+something that David Rubenstein
+yesterday of Carlilele was talking about
+that essentially that is the model that
+we seem to be following with the stakes
+that we're taking in a number of
+companies and it seems like the United
+States is moving from fiscal dominance
+sort of the backbone of the US economy
+to something that looks more like a
+sovereign wealth fund and exactly what
+that looks like still remains to be
+seen. I just wonder how that changes
+investing, whether that shifts some of
+the macro investing landscape and shifts
+it over into deep value, looking for
+these specific sectors, looking for
+exactly strategically what makes sense.
+It's a very different framework of
+investing.
+&gt;&gt; Yeah. You know, one of the things we're
+trying to do is look at AI and look for
+companies that have been most impacted
+by regulation and say, okay, if you've
+been heavily impacted by regulation, is
+that an area we can get deregulation? I
+think finance companies are doing very
+well, right? I think people are looking
+forward to what can be done on this. And
+then I would say this is global, too. I
+know you know the UK prime minister
+didn't completely agree with Trump but I
+think this whole concept of production
+for security is global and every country
+has to be thinking what can you produce
+at a minimum level it doesn't have to be
+fully you need to make sure that you
+have energy you need to make sure you
+have a chip industry right England wants
+to be a data center capital of the world
+but they don't produce any energy and
+electricity how are you going to do that
+&gt;&gt; not exactly the traditional way of
+building a sovereign wealth fund is it
+&gt;&gt; no
+&gt;&gt; this isn't typically how you go about
+doing things
+&gt;&gt; well not especially if through a back
+door where people don't understand what
+the parame parameters are exactly what's
+going to go in or exactly how big it's
+going to be or exactly how the revenues
+are going to get distributed afterwards.
+Look, there's a lot of question marks
+around this. But fundamentally, from a
+philosophical perspective, it seems like
+maybe the limits of fiscal dominance
+have been reached and people are asking
+for something else as a uh as a tool of
+national security and the idea of taking
+stakes seems to be it whether you agree
+with it or not. And I think that that's
+a really interesting change in the
+investing landscape. They they haven't
+outwardly stated they want to do the
+sovereign wealth fund, but it's obvious
+everything is about national security,
+MP materials, when it comes to lithium
+Americas, when it comes to Intel. This
+administration doesn't like grants. They
+don't like loans. They want outright
+equity in a company.
+&gt;&gt; Big fun of what?
+&gt;&gt; Yeah. And I would just add that, you
+know, we're looking at these companies
+that we need to jumpstart and people are
+worried about if everything's just done
+via executive order, does it get
+overturned with some new administration?
+I think these stakes change that. It
+makes it harder to overturn some of the
+progress that gets made. So I think that
+might be kind of the secret sauce here
+is by investing owning giving the
+American people this. It you lets people
+push forward on deregulation and assume
+it's going to stay further longer than
+it might otherwise.
+&gt;&gt; Pete, you're going to stick with us.
+Pitcher of Academy equity futures this
+morning bouncing back by a tenth of 1%.
+Let's give you an update on news
+worldwide with your Bloomberg brief.
+Here's Yahara Arnard. Hey yhara.
+&gt;&gt; Hi John. During a meeting with Ukrainian
+President Zilinsky at the UN, President
+Donald Trump said NATO nations should
+shoot down Russian aircraft that violate
+their airspace. Separately, the
+president saying on Truth Social that he
+believes Ukraine can win back all of its
+territory from Russia. He also said
+Moscow is fighting aimlessly and even
+calling the country a paper tiger.
+Meanwhile, China says it will no longer
+claim developing country status in the
+World Trade Organization. It's a change
+long demanded by the US because China is
+is the world's second largest economy.
+The decision is seen as a significant
+gesture particularly as China looks to
+negotiate a more lasting trade deal with
+the US. And as you all were discussing,
+OpenAI is expanding its data center push
+under its plan dubbed Stargate. It plans
+to invest about $400 billion in invest
+$400 billion to develop five new US data
+center sites in partnership with Oracle
+and Soft Bank. This marks its biggest
+push yet to fulfill an earlier pledge to
+spend a half trillion dollars on AI
+infrastructure in the country. That's
+brief. John,
+&gt;&gt; I'm just losing track of the numbers
+now. Yhara, thank you. More from Yihara
+in about 30 minutes time. Up next,
+permission to defend.
+Do you think that NATO countries should
+shoot down Russian aircraft if they
+enter their airspace?
+&gt;&gt; Yes, I do.
+&gt;&gt; Team coverage up next with Bloomberg's
+Tyler Kendall and Holly Croak live from
+New York City this morning. Good
+morning.
+[Music]
+Live from New York City. Welcome to the
+program. Echor is doing okay. Up by 0.2%
+on the S&amp;P 500. Under surveillance this
+morning, permission to defend.
+&gt;&gt; Do you think that NATO countries should
+shoot down Russian aircraft if they
+enter their airspace?
+&gt;&gt; Yes, I do.
+&gt;&gt; Would you back up NATO allies?
+&gt;&gt; Depends on the circumstance, but you
+know, we're very strong toward NATO.
+NATO stepped up.
+&gt;&gt; So, here's the latest this morning.
+President Donald Trump encouraging NATO
+allies to shoot down Russian aircraft
+that breached their airspace. NATO
+pledging quote a robust response to
+Moscow's reckless actions. Our team
+coverage starts right now with
+Bloomberg's Tyler Kendall in New York.
+Ali Krook in Brussels. Tyler, a very
+different tone from the president
+yesterday.
+&gt;&gt; A very different tone, John. And really
+a main theme that we saw emerge was
+President Trump bolstering his support
+for Ukraine on multiple fronts while
+also urging our European allies to do
+more to pressure Russia. Now, you heard
+him there saying that he thinks that
+NATO allies should be able to shoot down
+Russian aircraft if they violate their
+airspace after a slew of recent
+incidents in the recent weeks, including
+in Poland, Romania, and Estonia. But
+then, President Trump did go on to say
+that uh it's unsure what the
+circumstances would be on whether or not
+the US would support NATO if it engaged
+Russian planes. Those uh those comments
+didn't really seem to bother much of our
+NATO allies. I did have the chance to
+sit down with the Finnish President
+Alexander Stub on the sidelines of the
+UN General Assembly yesterday. He said
+that he wasn't really concerned by that
+comment from President Trump. He
+believes that the president is firmly
+behind NATO, but that ultimately he
+urged caution against our allies
+engaging with Russia militarily, saying
+that there is a very strict protocol to
+follow. I can say though that there was
+this palpable sense of excitement from
+the Finnish president after President
+Trump posted on Truth Social what really
+felt like a stunning shift, a stunning
+development, saying that he now believes
+that Ukraine is poised to win back all
+territory concessions. This came after
+he met with the Ukrainian President
+Zalinsky on the sidelines of the UN
+General Assembly. But really, John,
+after months of this administration
+repeatedly saying that Ukraine would
+have to give up territory in order to
+end the war,
+&gt;&gt; Ali Croo, it feels like we're entering a
+new phase. And the first country I
+thought of was Poland. How did Poland
+respond to those comments?
+&gt;&gt; Yeah. So, there are a couple of
+different sort of strains to follow.
+When you think about what Trump was
+saying in terms of encouraging European
+countries to sort of shoot down Russian
+jets if they enter the airspace are kind
+of really different divided ways in
+which Europe have interpreted that. As
+we've, you know, been reporting over the
+last couple of days, Poland has taken a
+very hard line. They said, "Listen, if
+you're in our airspace, we will shoot
+you down. No question about it." I
+caught up with the Estonian prime
+minister who was really the source of
+this latest development where you had
+those Russian jets, three combat armed
+MIG31s that were in Estonian airspace
+right by the capital for 100 km. He took
+a much more measured approach. He said
+basically we have protocols in NATO. We
+were going to go engage with those, but
+we're not going to say that there's a
+red line here or a red line there. And
+then we also heard from the Germans, the
+German defense ministry who said that
+basically slapdash comments about taking
+planes out of the sky and all these
+sorts of things are actually really not
+that helpful. We need to be much more
+measured in our approach and we need to
+basically not play Russia's game.
+Russia, they say, are just trying to
+instigate the Europeans to shoot
+something down potentially and then
+basically have the Russians say that
+they are the victims of all this. But
+again, I think that for me and for the
+sort of reaction from the Europeans,
+though very po very very positive to
+what Trump has said over the last 24
+hours, there is a high dose of
+skepticism because as we know, 7 months
+ago, almost to the day, Jonathan, you
+had the two presidents sitting in these
+exact same configuration in a very
+different kind of meeting. It shows you
+how far we've gone in that relationship
+between Zalinsky and Trump, but it also
+tells you how rapidly things can change.
+So, I think very welcome here in Europe,
+that said, with a little bit of dose of
+skepticism as well. Ollie, I appreciate
+the update alongside Tyler. Tyler, great
+work yesterday. Thank you. With us
+around a table, Peter chair of Academy
+Securities for a fair few questions on
+this topic. Pete, let's continue this.
+Do you think Russia's going to test this
+new red line?
+&gt;&gt; Yeah, I think that these have not been
+accidents. We recorded a podcast
+yesterday at Academy Securities. We
+talked about this. They are pushing it
+right and we have to figure out what's
+an appropriate response. How do we push
+back? What do we do about this? And it
+will be a NATO state. It won't be the US
+attacking, but it's the US command
+command and control systems. You know,
+we're a integral part of any sort of
+defense and any action that takes place.
+&gt;&gt; Well, what's the difference? Trump said
+yesterday, we will continue to supply
+weapons to NATO for NATO to do what they
+want with them. The United States is
+NATO.
+&gt;&gt; You know, as an organization, that is
+true, but each country does have some
+degree of, you know, sovereign. It's,
+you know, reminds me a little bit. It's,
+you know, we all put up with Iran having
+these proxies, right? And we, oh, Hamas
+isn't really Iran. Well, it is. So, I
+think you're going to get into a little
+bit of these games where maybe Poland
+will behave differently than in Estonia
+because Poland feels more threatened.
+Maybe Poland feels more, you know, you
+know, up to speed on the ability to do
+something. Maybe Estonia doesn't. Um,
+but I think there is going to be a
+change where everyone's got to sit down
+and say, "Okay, this is a new thing for
+Russia. How do we respond? What do we
+do?" Because the one thing you don't
+want to have is something that becomes,
+"Oh, they're regularly incurring.
+They're regularly incurring. Oops, they
+went really allin this time and killed
+someone." So, I I think they are going
+to be red lines and this is going to be
+aggressive and it should be pushed back
+or else Putin's going to keep doing it.
+Is Putin testing the resolve of NATO or
+testing the response of the United
+States?
+&gt;&gt; Probably a little bit of both. And I
+think he's his hope though along the
+whole time has been to somehow fracture
+NATO. And maybe this is how he does it.
+It's like, okay, which countries will
+support this? Maybe a Turkey, for
+example, won't be comfortable doing
+this. Maybe a Hungary won't be
+comfortable doing this. Maybe Finland
+really wants to do this. But could you
+create some sort of divide? I think
+again he will fail. I think he has
+misread how you know his invasion of
+Ukraine coalesed NATO. And I think this
+will do that once again.
+&gt;&gt; That said, we still haven't seen the
+sanctions that have been threatened.
+Yes, there are uh some stiff sanctions
+placed on Russia, but not the secondary
+sanctions that would curtail a lot of
+the revenue still coming into the
+country via oil sales.
+&gt;&gt; You know, my starting point is we just
+need to enforce the sanctions that are
+already in place. Right. To me, there's
+two things. We've got a set of sanctions
+in place. Some are being defied by
+effectively, you know, India, China, and
+there's very little we can do about
+that. So, we can address that with
+secondary. But first, if Europe's going
+to continue to buy, you know, Russian
+oil, whether directly or via Kazakhstan
+or some other third party, they're not
+helping themselves. So, I think step one
+is enforce the sanctions that we already
+have in place. Let's see what that does.
+And then maybe you can go to secondary
+sanctions. How do you tell India, oh,
+we're going to put secondary sanctions
+on you. Meanwhile, half of Europe's
+buying energy on, you know, it's just
+doesn't make sense.
+&gt;&gt; It also uh was sort of mindboggling
+yesterday. President Trump was talking
+about how one way to counter Russia is
+to lower oil prices to reduce the
+revenues and you saw oil prices reduce
+uh go lower on the heels of that. How
+feasible is that going forward given how
+low prices are given the fact that we
+could be facing a global economic
+reaceleration?
+&gt;&gt; My working assumption this year has been
+it's going to be very difficult for oil
+to get much above 70. I think Trump has
+a handshake agreement with the Saudis
+that if oil goes higher they can come
+and push it on the market. That's what
+they get in turn in return. They get to
+buy Nvidia chips. They get to jump start
+their data center. So, I think there's
+all these, you know, transactions going
+on behind the scenes. So, I'm not too
+worried about oil prices going higher.
+&gt;&gt; Why are German stocks up almost 20% this
+year? Why European banks up almost 60%
+this year? The conversation we have
+about Europe is pretty dreadful still.
+And yet, here we are talking about major
+gains.
+&gt;&gt; You know, I think a lot of this still
+comes down to okay, will they actually
+spend to do the defense spending, which
+would be a new initiative. I think that
+helps. Will you start seeing deals in
+&gt;&gt; Can I just ask you help who? The ECB is
+forecasting 1% growth for next year.
+Who's it helping?
+&gt;&gt; That I don't know. I I I think though to
+me one of the big wild cards that we're
+looking at right now is and I think
+Trump mentioned this two weeks ago. No
+one's paid attention to it. He kind of
+gave the nod to Europe to go after
+Russia's frozen FX reserves. And about
+300 billion of that is in euros sits in
+the European system. If Europe starts
+going after that as part of this maximum
+pressure on Putin, right? One, it allows
+them to buy the US weapons. It keeps
+yields down because they don't have to
+actually issue debt when they get this.
+And I think that's the sort of thing
+that you know if you're taking a
+multi-pronged approach, you threaten
+Prudin with some war, which is one
+thing, then you really start taking away
+his money. That's another thing. I think
+that's the direction you go and that
+leads to some growth. And I do think all
+the things I've been talking about this
+whole, you know, production for
+security, people are starting to realize
+Europe's going to have to do some of
+that themselves, right? You can't rely
+just on wind, just on solar. You need to
+go through this. So I think those are
+the opportunities and banks are going to
+play a big role in that as there's going
+to be hopefully M&amp;A and transactions
+going
+&gt;&gt; well Pete they're certainly having a big
+year that's for sure a monster year for
+25 Peter of Academy Securities a monster
+rally for European banks and European
+equities
+&gt;&gt; there's been a lot of promise despite
+some of the uh slack expectations for
+growth and a lot of this comes on what
+Pete's talking about the idea of
+investment the idea of the investment
+fund fund from Germany but when you
+actually look at the data there have
+been more positive surprises to the
+economic data coming out of Europe
+negative ones. I don't know if that just
+tells you that the expectations are very
+low or that there is something going on
+that gives people a little bit more
+optimism.
+&gt;&gt; I'm not sure that massive defense
+spending was the main pillar of the
+draggy plan. I might be wrong, but I'm
+not sure it was.
+&gt;&gt; You're not wrong, and you know that
+you're not wrong. There is the issue is
+how do you get an entire region full of
+different countries to agree on
+deregulation and changing some of the
+culture around work and and job
+creation?
+&gt;&gt; Energy prices are too high. Germany, the
+UK, they're being consumed by Chinese
+auto makers. Seeing that in the UK, in
+various places across Europe, Europe is
+not in a good place. I know we're all
+excited about European bank stocks, but
+not in a good place. From New York City,
+this is Bloomberg.
+[Music]
+This headline just crossing just moments
+ago. It comes from the EU to propose a
+tariff increase on oil imports from
+Russia. Something's building, Kit. The
+president's been pushing for some
+action. The Europeans seem to be on
+board. We're heading in this direction.
+&gt;&gt; Well, the president pushed for it once
+again, even yesterday at the UN and
+Truth Social Post, saying, "I'm willing
+to do more when it comes to sanctions,
+but everyone needs to be alongside me,
+all our allies." And he's not just
+talking about India anymore. He's
+talking about the European Union.
+They've been talking about this for a
+number of weeks and months, and it looks
+like finally they are starting to put
+this together. they will have this
+increase because remember they are still
+one of the top five buyers of Russian
+fossil fuels
+&gt;&gt; and this war is happening on their soil.
+&gt;&gt; Check out the price move. We're up by
+about 0.9% on Brent so far this morning.
+Up by almost 1% on WTI 64 and $68
+respectively. That's the situation in
+the commodity market. Let's turn to
+equities. Equity futures shaping up as
+follows on the S&amp;P on the NASDAQ on the
+Russell and the S&amp;P pulling back from
+alltime highs in yesterday's session.
+firmer this morning by a tenth of 1% on
+the NASDAQ up by 0.2 in the bond market.
+2-year bond yields a little bit lower
+yesterday across the curve following
+four consecutive days of higher bond
+yields. We're back down to about 356 on
+twos on 10 just about unchanged on the
+session at 410. No real sign of what
+chairman Pal wants to do here at least
+yesterday. But I have to say over the
+last week he has picked a side and the
+side he has picked is the labor market
+and it's not inflation and you should
+follow what they do not what they say.
+They're cutting interest rates and
+they're going to continue cutting
+interest rates.
+&gt;&gt; Yeah, he gave more noise around that
+yesterday with respect to potentially
+the immigration impact on on on the
+labor market and it could be a false
+signal. At the same time, it seems like
+something has shifted for him. That
+comes along with Mickey Bowman saying we
+need to aggressively lean into saving
+the labor market and this is an
+important moment to do that. That I
+think got a lot of people's attention.
+&gt;&gt; We risk being behind the curve.
+&gt;&gt; Exactly.
+&gt;&gt; Yeah. Governor Bowman is no longer
+hawkish. Let's put it that way. I think
+that she's in the running is what I
+think.
+&gt;&gt; And now one of the biggest dumps on the
+committee by Governor Byron. Three hours
+away from the cash open. Let's get you
+some single names. Some morning movers.
+Here's Danny Burger. Hey Danny.
+&gt;&gt; Hey John. Alibaba shares flying this
+morning. The ADR is trading 9 and a3%
+higher. Alibaba CEO saying that they are
+going to not just be incrementally
+increasing their AI spend, but it is a
+whole shift. Before they had said
+something like $50 billion over the next
+three years, he said it will be more.
+also touting their full stack service.
+Everything from the data centers, the
+infrastructure, the software behind it.
+So that capex continues to be a good
+story for investors. Meanwhile, Micron
+also an AI boost for them. Expectations
+were so high for this company to
+perform. Share prices have nearly
+doubled year to date and they gave a
+forecast for this current quarter that
+exceeded expectations. So even though
+the move is only 6% that is good for
+Micron considering just how big of a
+runup it had been into this earning
+season. Now elsewhere lithium Americas
+it's a Vancouverbased company with one
+of their large mine operations in
+Nevada. People familiar telling
+Bloomberg that the uh Trump
+administration is looking at converting
+a $2.3 billion loan from the Department
+of Energy into a 10% equity stake in the
+company. Again, it is that Nevada mine
+which is set to become one of the
+biggest lithium producers in America.
+So, the administration looking at coming
+in there. GM had owned a stake in that
+mine with lithium Americas. And before
+this, they'd already been looking at
+renegotiating the terms of that loan,
+saying they couldn't meet the
+conditions. So, that possible equity
+stake has shares up 54%. John,
+&gt;&gt; what a move for that stock right there.
+Danny, thank you. Appreciate it. On a
+radar this morning, President Donald
+Trump saying NATO nations should shoot
+down Russian aircraft that violate their
+airspace. Trump adding on Truth Social,
+he believes Ukraine can reclaim all of
+its territory, calling Russia a paper
+tiger. Elsewhere, OpenAI partnering with
+Oracle and SoftBank on a massive $400
+billion investment to build five new
+data centers. The facilities located
+across Texas, New Mexico, Ohio, a part
+of OpenAI Stargate infrastructure
+project. And finally, Alibaba shares are
+surging to a near four-year high after
+the company said it would boost its AI
+spending beyond its original $50 billion
+plus target. The company's CEO
+predicting global AI investment will
+hit, wait for this number, $4 trillion
+in the next 5 years.
+&gt;&gt; It just sort of underscores how people
+are scared of not investing enough. Not
+that they're investing in a way that's
+going to throw away uh money, good money
+after bad. I will just say it's
+interesting that Alibaba is working with
+Nvidia. So despite some of the uh
+feelings that maybe the Chinese
+government is going to push Chinese
+technology companies away from US chip
+providers isn't exactly transpiring. But
+what this speaks to is this global wave
+of investment that is continuing despite
+some of the people here in New York City
+ringing their hands and saying it's a
+bubble. It's a bubble and they're coming
+out and they're saying look this is the
+future. You can get on board or you can
+leave for China. My big question after
+this story using those Nvidia chips is
+what's the goal? Is it strategically you
+want to win in the AI space? You're
+going to use all technology at your
+disposal or do you really want to push
+for chip sovereignty and at the end of
+the day make sure your national
+champions are the ones that are pushing
+into your own companies. And I think
+this is an interesting moment right now
+and I wonder if it sticks. Are we just
+here for this moment right now or China
+is going to force these companies to
+move inward?
+&gt;&gt; Important takeaway. We often say this on
+the program. You can learn something
+from the news, the declaration, the data
+point, and you can learn something from
+how the market responds to it. I think
+it's far more interesting that the
+market is responding still positively to
+these additional spending plans, which
+is something Peter Cheer reflected on
+about 20 minutes ago.
+&gt;&gt; Yeah, naysayers in New York aren't
+really doing anything for the share
+price because ultimately, if you can
+promise $10 billion of spending and you
+get $20 billion uh market valuation pop
+in your shares, well, you're doing
+something right. And he said that the
+real key that this had moved too far is
+if you don't get that kind of reaction
+in markets. And so far, we're nowhere
+near that.
+&gt;&gt; Investors like it, so the promises keep
+coming. Investors like it, the promises
+keep coming, and we'll see how long they
+can keep this going. Let's stick with
+China. Global demand for Chinese exports
+is surging as the world's second largest
+economy is on track for a record 1.2
+trillion trade surplus despite the
+tariffs that came from the US earlier
+this year. Harold Hendrickx, the
+European autos analyst, the city, joins
+us now on what all of this could mean
+for the auto sector across the
+continent. Harold, good to see you, sir.
+&gt;&gt; Good morning. Good morning.
+&gt;&gt; Thanks for being here. Let's just talk
+about the EV strategy from the
+Europeans. So, we had the news out of
+Porsche yesterday that they're tapping a
+brace, so to speak. Forgive the pun.
+You've got three options really. Double
+down, muddle through, back away. What
+are the automakers picking? What are
+they choosing in Europe? In reality,
+they don't really have a choice, right?
+Um you've got three completely different
+EV strategies across the world, right?
+The major markets, Europe, um US, and
+China. You know, China is surging ahead
+both technology wise, subsidy wise, and
+overall penetration of NEVs, right?
+Europe is muddling through um with
+frankly um very difficult regulations
+that um are a significant competitive
+disadvantage for the European car
+companies which are now potentially
+being renegotiated. Right? We we started
+negotiations on the 12th of September.
+So we'll see what comes out of that. And
+then the US as ever going completely the
+other way. So if you're a car company,
+you have virtually no EV penetration in
+the US. 53 54% NV penetration in China
+and maybe 161 17 in Europe. You have to
+basically cater to all people. So they
+have no choice. So what Porsche was
+doing was not so much cutting the EV
+model plan as basically prolonging the
+IC model plan, right? The the the
+initial plans were just too aggressive
+and they're just not achievable. The
+consumer demand just isn't there.
+&gt;&gt; I do remember when people were talking
+about Detroit here in the United States
+and saying ultimately it's uninvestable
+based on some of the regulatory
+concerns, the competitive landscape. And
+I wonder based on some of the Chinese
+EVs that are coming into Europe right
+now, also with some of the regulatory
+overhang whether the European auto
+sector is investable right now.
+&gt;&gt; Yeah, thank you. I'm asking
+I I often have this debate with
+investors and I'm like what other
+sectors do you do? Um
+I only have the one sector. Um look,
+it's a good debate. Firstly, you know,
+and again it goes to the the chip
+discussion you were having is to, you
+know, the the AI stuff growth, right?
+You know, growth is becoming harder and
+harder and harder and investors are
+looking for growth wherever they can
+they can find it, you know, and and so
+you're bifurcating the market also,
+right? The market's become very very
+narrow and unfortunately companies like
+autos and and a lot of the older
+industries are not getting the capital
+that they need. They have a much higher
+cost of capital and so that's you know
+um speeding up the decline. Um the
+answer to the question is look there are
+names you know Ferrari is of great
+quality name a lot of the tire companies
+have much much better fundamentals you
+know there are some companies I think
+Porsche with the brand name that they
+have potentially could you know get
+better fundamentals but globally you
+know the Chinese have done what they've
+done in so many industries right the the
+EV industry became a strategic growth
+asset for them they have essentially
+built almost twice the capacity that
+they need for electric vehicles in China
+itself the IC market the combustion
+engine car market in China have, but you
+still have the capacity from what we had
+before. So, China just has this infinite
+capacity which allows them to make super
+super cheap cars to sell in other parts
+of the world.
+&gt;&gt; And the place that's seeing a lot of
+them is the European automakers because
+ultimately that's where a lot of these
+Chinese autos are going. And I just
+wonder how much the European auto sector
+has to shrink to accommodate what really
+is coming onto its shores.
+&gt;&gt; Yeah. So, look, I mean, you have the
+Chinese strategy, right? And then and
+then you have Trump, right? And and
+unfortunately Europe is the weak spot,
+right? And so as soon as Trump put the
+tariffs on the US, where do you go? You
+go to Europe, right? And so we've seen
+that immediately. So it's not just the
+Chinese, but it's Hyundai, it's Toyota,
+everybody who needs to sell cars
+globally has gone to Europe because
+they're short of their budgets in the
+US, right? And so you're seeing a huge
+extra supply. You're seeing really good
+quality EVs coming into Europe from
+China. Um and the reality is the
+European industry is getting squeezed.
+Just a quote that I make with investors
+just to highlight the seriousness of
+this. So Volkswagen has just embarked on
+the biggest restructuring they've done
+in 87 years. They've cut 40 40% of their
+German Volkswagen brand capacity. So you
+build a business for 100 years and in a
+single decision you cut 40% of that
+business in Germany. Audi their second
+bigger brand right 25%.
+You know these are huge huge huge huge
+numbers and and it's not just China
+postco the market didn't come back the
+regulatory situation in Europe is
+terrible such that it is too expensive
+to make smaller cars in Europe right so
+the European OEMs have pulled out but it
+means that the European car market is
+now one and a half 2 million units
+smaller than it was pre-COVID so you
+have a smaller market more competition
+better quality competition and
+potentially regulations that are totally
+unreachable for 203035
+&gt;&gt; it's a very hard situation
+&gt;&gt; is this environment going enforce the
+commission to do an about phase.
+&gt;&gt; I think it is inevitable. So, I'm I'm a
+good Dutchman and so people always want
+me to be incredibly bullish about
+Europe. I I tend to have been always the
+other way around. Um, currently I'm a
+little bit more bullish about Europe
+today simply because the situation is so
+bad that that you know people are losing
+elections, right? You know, unemployment
+is a significant problem. You've seen
+some of the reactions to to some of the
+politics in Europe recently. You know,
+the European automotive industry in some
+countries is still representing 11, 12,
+13% of total employment. They have no
+choice. They can't kill it, right? And
+that's why I'm going around the world
+highlighting the 40% cuts, the 25% cuts.
+Wake up. Wake up. Right? You You can't
+restart an industry once you've closed
+it down, right? So, I think they have to
+&gt;&gt; Does Europe then need to choose what
+Mexico is doing and put up the walls
+alongside the United States to Beijing?
+&gt;&gt; Look, you know, I I did an interesting
+debate regarding exactly that recently.
+Again, Europe has no choice, right? And
+this isn't about, you know, particularly
+subsidies or cheating or anything like
+that. It's about the fact that China
+just has a much much better industrial
+policy with regard to all of these
+things. They've made better decisions 5
+10 years ago. They've created the
+conditions to have this industry and and
+we didn't, right? And lithium, we were
+going to talk about the lithium, you
+know, we don't even have the supply. We
+haven't secured our own supplies, right?
+75% of global lithium supply refining is
+in China, right? We don't even have it.
+So if you don't have lithium, you can't
+make batteries. If you haven't made
+batteries, you can't make EVs. Yeah. So
+this is about industrial policy and
+basically to protect the European
+industry. I think you're right.
+&gt;&gt; Do you foresee a future where China says
+we are no longer even going to sell
+batteries. It's buy the car or nothing
+because they have complete control on
+the supply chain.
+&gt;&gt; Yeah, really interesting question. Um
+it's actually their single most powerful
+weapon, you know, against the global car
+industry, right? The global car industry
+has become, at least on the EV side,
+very dependent on China. Um and at least
+so far the Chinese have not restricted
+access to those supply chains but yes
+that is potentially part of it and in
+fact we've seen this with the rare
+earths as well right and this is why to
+be honest thinking about the article
+that you highlighted to me you know
+regarding lithium to be honest the
+Americans are reacting and they finally
+understood that they need to secure
+their own supply and whether you do that
+with government investment or any other
+way frankly I don't care you know you
+need to supply and and to secure that
+supply for yourselves and so I read this
+stuff and I look at the Americans and at
+least they're doing
+Right. I want this to be coming from the
+EU and of course it's never going to but
+it that that you know we need to think
+about our own futures, don't we?
+&gt;&gt; I have to say what a pleasure it's been
+just to sit here and listen to you for
+the last 10 minutes. Thank you for being
+here.
+&gt;&gt; No problem. Thank you.
+&gt;&gt; The fact the Europeans are killing what
+you say they shouldn't be killing is
+just absolutely shocking. It goes back
+to the conversation we had 15 minutes
+ago, which is about European banks and
+European stocks.
+&gt;&gt; Put the stock market to one side. Just
+forget all of that. Look at the state of
+the economy. The ECB is forecasting 1%
+growth for the Euro zone next year, even
+with all this fantastic stimulus that
+everyone's excited about coming out of
+Germany and they are killing one of
+their own industries and there's no sign
+they're going to stop anytime soon.
+&gt;&gt; Yeah, what Harold just said there that
+this is an industry that accounts for
+more than 10% of the jobs in the region
+and it is squeezed on both sides and
+there is no end in sight and it is
+because of regulation. It is because of
+some other uh lack of investment
+earlier. It just raises a question, what
+is the plan going forward to uh really
+protect those jobs given the fact that
+right now they're under direct assault.
+&gt;&gt; Unfortunately, conditioned by
+experience, don't underestimate the
+European's ability to stick with a bad
+idea for a long, long time.
+&gt;&gt; Well,
+&gt;&gt; because most people would sit here and
+say this sounds terrible. Surely things
+will change. We've been talking about
+this for years, not months, years.
+&gt;&gt; Not to be overly philosophical, but you
+could see this in some of the political
+fractures right now. And you could see
+this with a question of are we reaching
+a boiling point in the politics around
+the world? And I think that that really
+has been the ultimate question. Yes,
+maybe that people don't want to make bad
+decisions, but right now there is
+serious unrest and I think that that is
+coming back uh to the table.
+&gt;&gt; Howard, appreciate this. Let's do it
+again soon. Next time you're in New
+York.
+&gt;&gt; Yeah, thank you very much.
+&gt;&gt; Thank you, sir. Thank you very much.
+Howard Hendricks there of City. Let's
+give you an update on stories elsewhere
+this morning with your Bloomberg brief.
+Let's cross over to Yahara for more.
+Hey, Yahara.
+&gt;&gt; Hi, John. The typhoon that has lashed
+Hong Kong in recent days is moving up
+China's southern coast where it's
+expected to hit the area with torrential
+rain. The storm has led to thousands of
+flights being cancelled along with
+school classes and train services
+suspended. The typhoon equal in strength
+to a category 2 hurricane has killed at
+least 14 people in Taiwan. Meanwhile,
+here, Democrat Adelita Grihalva has won
+a special election in Arizona, further
+shrinking the Republican majority in the
+US House, now leaving them with the 219
+to 214 majority. The victory is
+significant as it gives Democrats the
+final signature needed on a petition to
+force a vote on a measure that would
+release unreleased government files on
+Jeffrey on the late Jeffrey Epstein.
+And Jimmy Kimmel returned to air last
+night and addressed controversy over his
+remarks about Charlie Kirk's
+assassination.
+&gt;&gt; The truth is, I don't think what I have
+to say is going to make much of a
+difference, but I do want to make
+something clear because it's important
+to me as a human, and that is, you
+understand that it was never my
+intention to make light of the murder of
+a young man.
+It was the first time the TV host spoke
+publicly since ABC pulled his program
+off air for saying conservatives were
+trying to score political points from
+Kirk's murder. Just minutes before his
+show aired, President Trump floated the
+prospect of suing ABC over Kimell's
+return. That's Bloomberg brief. John
+&gt;&gt; Yhara, thank you. More from Yhara in the
+next hour. Up next, no risk-free path.
+Near-term risks to to inflation are
+tilted to the upside and risks to
+employment are tilted to the downside. A
+challenging situation. Two-sided risks
+mean that there is no risk-free path.
+&gt;&gt; A conversation up next with Neil Data of
+Renmack live from New York City this
+morning. Good morning. You're watching
+Bloomberg TV.
+[Music]
+Equities
+are bouncing back by 0.1% on the S&amp;P on
+the NASDAQ 100 up by 0.3.
+That's the market pricing so far this
+morning. Under surveillance this
+morning, there is no risk-free path. The
+unemployment rate is low but has edged
+up. At the same time, inflation has
+risen recently and remains somewhat
+elevated. Near-term risks to to
+inflation are tilted to the upside and
+risks to employment are tilted to the
+downside. A challenging situation.
+Two-sided risks mean that there is no
+risk-free path. So, here's the latest
+this morning. Fed chair J Pal
+reiterating the challenging path ahead
+as policy makers weigh further easing.
+Neil Data of Renmark is writing the
+following. Hard data for August has been
+mixed at best. Meanwhile, survey data
+for September has been soft. The
+evidence that conditions are sustainably
+turning a corner remains thin. Neil
+joins us now for more. Neil, welcome to
+the program, buddy. It's good to hear
+from you as always. You keep pointing to
+what's happening with housing. And I
+want you to explain to us all why that's
+such a key indicator for you and why it
+should be for the Fed, too.
+&gt;&gt; Well, it just seems to me that um you
+know, a lot of the uh strength in the
+economy is being uh driven, you know, by
+things like consumer spending. um you
+know that's what people have been
+pointing to a lot of enthusiasm for
+retail sales but it's important to
+remember that consumer spending has
+never actually turned down in front of
+an economic slump. I mean there are some
+economic recessions as an example where
+consumption is actually expanding. Um so
+that sector is not really the one that
+gives you the tell. Now residential
+investment by contrast does tend to turn
+in front of economic slowdowns and it's
+been contracting albeit very modestly
+over the last number of quarters. Um and
+as I mentioned, you know, the um this
+isn't the first time we've seen
+residential uh investment slowdown uh
+since co um obviously it happened in
+2022 when the Fed was rapidly hiking
+interest rates. I mean they basically
+broke housing without even uh hiking. Um
+they kind of use their words to send
+rates higher. It's different now because
+builders no longer have a backlog of
+housing of homes to work through. So
+units under construction were very
+elevated in uh 2022 2023. That's no
+longer the case and the pipeline of
+future construction keeps dwindling
+which is why construction employment is
+more at risk over the next several
+quarters. So uh that introduces
+additional downside to the labor market
+which is um you know obviously something
+that matters a lot for the Fed. So, you
+know, right now you have um declines in
+construction employment. It's likely
+that construction employment continues
+to decline because things like housing
+permits are weak. Things like um you
+know, new home sales that haven't been
+started are very low. Uh and home prices
+continue to decline. So, I think
+builders have kind of reached their
+pivot point on margins. And you know,
+that's something that hasn't been
+getting a lot of attention quite
+frankly. And I do think it's very
+important for for the broader US
+economy.
+&gt;&gt; Neil, I wonder just to sort of center
+the conversation whether you agree with
+the Steven Myron view of things where
+maybe neutral is more around 2 and a.5%
+rather than the 3 to 4% that the rest of
+the committee believes and that the Fed
+should really uh cut steeply. Is that
+kind of the way you look at things right
+now?
+No, I mean I think it's look if if
+neutral interest rates uh in real terms
+were basically zero, which is, you know,
+essentially where uh Myron, Governor
+Myin um said they were, then the economy
+and the financial markets would have
+already collapsed. That doesn't mean
+that policy is not restrictive. So, I do
+think directionally um he's sort of
+right. I guess the what I'm trying to
+get at, Neil, is what you're arguing is
+something that I think a lot of people
+would get would would get around, would
+believe in, and I'm just wondering how
+different the path, the corrective path
+is that you're laying out versus what
+the committee is poised to do uh on the
+Fed.
+&gt;&gt; Well, I mean, the committee only has one
+rate cut in between now and the end of
+next year. I'm not sure that's going to
+cut it. I mean, look at what's happening
+with mortgage rates. I mean, mortgage
+rates are um you know, uh still elevated
+and you know, while the Fed doesn't um
+control mortgage rates directly, I mean,
+obviously longerterm interest rates at
+some level are expectations of future
+short rates. And so, if all you're
+really going to get out of the Fed is
+two more rate hikes and then maybe I
+mean, you know, the likelihood is
+potential. I mean, there's there's a
+risk that they only go in October and
+nothing nothing beyond that. um they
+haven't really penciled in much for
+2026. So um you know I think the fact
+that the Fed path isn't really um
+anything beyond a sort of meeting by
+meeting approach um that's probably
+another sort of reason why uh why
+mortgage rates are sort of elevated are
+still elevated here.
+&gt;&gt; Neil, even though Jay Powell is talking
+about risk to both sides, Jonathan made
+a great point. Hasn't he already showed
+his bias? Hasn't he already decided he
+actually only cares for the labor market
+right now? That's his concern.
+&gt;&gt; Well, I See, I don't I mean I Yes. I
+mean, it depends what your time horizon
+is. I mean, I think he cares about the
+labor market for the next few months. If
+inflation starts um accelerating, I
+mean, you can't rule out that they skip
+December. I mean, why would anyone do
+that? The committee is so evenly split.
+People are are open are allowed to
+change their minds. Um you know, you
+still have I mean, you had a bunch of
+hawks talking this week, too, like
+Bostic and the St. Louis Fed president.
+Um so they're a little bit more
+circumspect about future rate cuts and
+you know Powell's job is to kind of
+forge some kind of consensus within that
+committee and you know if you get let I
+mean as I say if you get an upside
+surprise on on poor inflation between
+now and the end of end of the year um I
+wouldn't necessarily say that um you
+know riskmanagement approach as he's
+outlined it would mean uh you know some
+it could mean skipping the meeting alto
+together. Uh so um you know I wouldn't
+necessarily say that the path is locked
+in.
+&gt;&gt; Neil, good to hear from you. We'll catch
+up again soon. Let's get you in the
+studio. Neil Da there of Renmak Chad
+House said this yesterday in the speech.
+In addition to what he said back in
+Jackson Hole, one time increase in a
+price level will likely be spread out
+over several quarters and show up as
+somewhat higher inflation during that
+period. That's the Fed chair setting you
+up for hotter rates. Not in months to
+come, over the next several quarters. So
+it's pretty clear. I don't know if he
+gets spooked by it, but it's pretty
+clear what his argument is right now
+going into these Fed meetings.
+&gt;&gt; Yeah, he's going to look through it
+because he also said we do see
+meaningful weakness in the labor market.
+So, how much does that really matter for
+Fed policy?
+&gt;&gt; So far, he's picked aside. He can change
+his mind, but at the moment, he has
+certainly picked aside. Coming up next
+on the program, we'll catch up with
+Barbara Reinhardt of Voyer Investment
+Management, Ed Mills of Raymond James,
+the Charles Schwab CEO, Rick Worster,
+and Russell Brownback.
+[Music]
+Six months ago, it was all panic about
+who's the next Fed chair. That seems to
+have slowed down. A super dovish chair
+would have some influence on the path of
+policy, but not just going to come in
+and get their way.
+&gt;&gt; The Fed is cutting on risk management
+grounds into what may be the early
+stages of a cyclical reaceleration.
+&gt;&gt; In our view, the Fed rate cuts are one
+factor of many. If we see the labor
+market continue to deteriorate, that's
+something that will ultimately impact
+consumer spending.
+&gt;&gt; This is Bloomberg surveillance with
+Jonathan Pharaoh, Lisa Abramowitz, and
+An Marie Hordern.
+Live from New York City this morning.
+Good morning. Good morning. For our
+audience worldwide, the second hour of
+Bloomberg surveillance starts right now.
+And your scores look like this. Equity
+futures positive and bouncing back.
+We're high up by 0.1% on the S&amp;P. On the
+NASDAQ, up by 0.3. In the bond market,
+four days of high yields met with a
+single session of lower yields in
+yesterday's session. This morning, just
+about unchanged, the 2-year 356, the
+10-year 411. For the week ahead, it's
+shaping up as follows. Lots more Fed
+speak. And it concludes with some
+important data on Friday going into the
+weekend with a look at PCE.
+&gt;&gt; Yeah, the idea of personal income,
+personal spending, and then this key
+metric of inflation that the Fed does
+look at. Honestly, how much is the
+market caring about this given the fact
+that the Fed has said we probably are
+going to get hotter than expected
+inflation reads? And we probably are
+going to look through it. At what point
+is the headline number going to be
+important? At what point are we going to
+be talking about appliances,
+bars, and restaurants? I mean,
+seriously, how much are we going to go
+line by line? Is it going to matter if
+one type of industry is seeing price
+increases more than another?
+&gt;&gt; It was my biggest takeaway from the PAL
+speech in Jackson Hole, Wyoming. You
+were there. It's my biggest takea away
+from him yesterday. Setting himself up
+to look through hotter inflation prints
+that he believes might be spread out
+over the next several quarters.
+&gt;&gt; Right. And he said that again yesterday,
+reiterating it, a one-time increase does
+not mean all at once. He also went on to
+say when talking about inflation,
+especially since you have this split,
+Federal Reserve officials talking about
+those that are really concerned about
+the labor market and those that are
+concerned about a reaceleration of
+inflation. He says, "We can't leave that
+part of the goal unguarded. It almost
+feels like well you already are because
+you've already decided last month this
+month that you actually have a bias and
+concern about a weakening labor market.
+&gt;&gt; That's the Federal Reserve. Let's turn
+to some single names. Alibaba in the
+pre-market this morning by close to 10%
+announcing increased plans for AI
+spending and this stock market just
+keeps rewarding those headlines. There
+is this feeling that this is a
+transformative moment that AI will be
+the new future and could be more
+transformative than even the railroad or
+the internet or some of these other
+areas. So people are saying it is more
+of a liability to not be ahead of the
+game and that rhetoric is working in
+markets. What's the stopping point for
+that? I'm not sure. I keep going back to
+what Peter Shear said. When the market
+doesn't respond with a bounce, that's
+when you know something is a foot. We
+did see that for a brief second with
+Meta uh going back to their expansion
+followed by their restraint and
+discipline. I just wonder if there's
+something that's actually going to gain
+traction.
+&gt;&gt; So far, at least over the past few
+announcements, the market responding
+very positively. Oracle, Nvidia, and
+this this morning.
+&gt;&gt; Sam Alman of OpenAI had this to say
+yesterday. I thought it was really
+interesting. People will get burned on
+overinvesting and people also get burned
+on underinvesting and not having enough
+capacity. Smart people will get over
+excited and people will lose a lot of
+money. People will make a lot of money.
+But I am confident that long-term the
+value of this technology is going to be
+gigantic to society and that I think is
+what the market is coalesing around.
+&gt;&gt; Alphabet based on their comments in the
+last 12 months committed to
+overinvesting. That's the latest on
+tech. I want to squeeze this single name
+in two. Lithium Americas maybe a name
+you're not too familiar with. I can tell
+you this morning it's higher by 68%
+in the pre-market. And reports suggest
+this White House is getting closer to
+taking a stake. and also lithium
+Americas this morning talking about how
+they continue to work with the
+department of energy where they
+originally had this loan approved during
+the Biden administration and GM on these
+proposals. It sounds like the US
+government though they don't like loans
+they don't like grants. We've seen that
+before with already them taking stakes
+like they did with Intel that 10% stake.
+They are going directly into these
+companies that they think there's a
+national security concern and you can
+see that with the direction of travel
+lithium America's being the latest.
+&gt;&gt; This stock is flying. We'll spend some
+time on this a little bit later this
+hour. Coming up over the next 60
+minutes, we'll catch up with Barbara
+Reinhardt of Voya Investment Management
+with Wall Street tapping the brakes. Ed
+Mills of Raymond James as President
+Trump launches a blistering attack on
+the UN and the Charles Swap CEO Rick
+Worester as Pal suggests stocks are
+highly valued. We begin this hour as the
+record stock rally hits some skepticism
+following some big AI investment plans.
+Barbara Reinhardt of Voya Investment
+Management remains optimistic, writing,
+"We remain overweight equities have been
+all year. We remain overweight the US."
+Barbara joins us now for more. Barbara,
+good morning.
+&gt;&gt; Good morning.
+&gt;&gt; Let's start with that overweight. Let's
+start with why. What underpins that for
+you?
+&gt;&gt; Well, I think it's all been about
+earnings, right? So, everything that you
+think about in terms of the equity
+market, yes, it's had a a massive bounce
+off of the bottom, but more than 55% of
+it has been driven by earnings, only 45%
+has been driven by multiples. As long as
+companies are delivering on their
+earnings, the equity market seems to be,
+you know, poised to continue to go
+higher. The earning story for a handful
+of tech names has been absolutely
+phenomenal. The capex intention spending
+plans have been phenomenal as well. And
+as Lisa was talking about just moments
+ago, this market keeps rewarding those
+spending plans. Are we anywhere near the
+limit of investor tolerance?
+&gt;&gt; Well, I think you have to put it in
+context. A lot of people are starting to
+think about is this like the n late
+1990s bubble where we had spent a lot of
+money on overinvestment in fiber and you
+know fiber was being lit and there was
+dark fiber still to go. But you have to
+remember many of the tech companies that
+were just propelling the market forward
+on the NASDAQ in the late 1990s didn't
+have the earnings power, didn't have the
+free cash flow power that the companies
+today have. The AI investment, I think,
+is just starting to scratch the surface.
+We see it on our teams that we are using
+AI to help us with repetitive tasks, to
+help us with quarterly commentaries, to
+help us with earnings calls. So we're
+seeing it lift our business in terms of
+efficiency and in terms of
+productivities per workers. It may take
+a while for that to flow through the
+economic data. We may see the
+productivity boom 5 years from now on AI
+but we do believe it is indeed coming.
+Do you believe it enough to uh sort of
+uh wager on the broadening out trend,
+the idea that the tech advancements are
+not going to be isolated to a handful of
+large companies, but that there is going
+to be this ground swell of support for
+the equal weight?
+&gt;&gt; Lisa, that's a great point and I think
+you have to look outside of the US to
+talk about that. So this entire year,
+the emerging markets had been lagging
+behind the US and even coming off of the
+April bottom, a lot of global markets
+had come off the bottom, but the US was
+leading the way. Just in the past five
+to six weeks, you've seen this big trend
+that the emerging markets are starting
+to outperform the US. But if you look
+under the hood, it's really emerging
+market technology stocks are outpacing
+US technology stocks. It doesn't mean
+that they're not all going up together,
+but emerging markets seem to be taking
+the lead. I think in order to believe in
+a broadening out of the market, you need
+to see the Fed continuing to ease. You
+need to get past this inflation spurt,
+but you also need to get past this
+lowfiring, low hiring phase that the US
+is in. There is a little bit of
+nervousness under underneath the surface
+in terms of how long this can continue
+to go. We think that once you get to the
+beginning of next year, you got the
+fiscal stimulus boost from the big
+beautiful bill. You'll have the
+depreciation right down uh for
+companies. So, you're going to have a
+you know much bigger fiscal stimulus
+push once you start to get to the first
+quarter of 2026. This might be a
+difficult question to answer and this
+was something I was thinking about
+yesterday. Is it feasible to see a
+broadening out in terms of which stocks
+are doing better and inflation coming
+down? And I asked this because yesterday
+in the PMI data, it showed that actually
+companies were having a harder time
+passing along the cost to their
+consumers. That means shrinking margins.
+That means less profitability. That
+means something for investors that's not
+very positive. So are these stories kind
+of in conflict? Lisa, it's a great
+question, but I think you have to take a
+look not only at margins, but the level
+of margins. Margins are extremely high
+in the US
+and yes, companies have not been passing
+on all the price increases from tariffs,
+but I would say there's always room for
+negotiation for those to continue to go
+lower and that would be very
+wellreceived by the markets. So, I think
+you have to take these things in terms
+of context in terms of margins come down
+from 27% down to 25%.
+Is it really that big of a deal? But
+it's a great question. Barbara, you said
+you see productivity with AI actually
+being an enhancement. At the same time,
+you say we're in this low hiring, low
+firing regime when it comes to labor
+market. Do you see companies not hiring
+because specifically AI? No, I think
+it's more companies are not hiring
+because of a lot of uncertainty, right?
+You've had a lot of potential shocks to
+the economy over the course of this
+year. You had the tariff induced
+downturn in April which was really
+significant and very severe. I mean, you
+had very deeply oversold conditions
+within financial markets. There were a
+lot of crawls that the world was coming
+to an end. You know, big rally off of
+the bottom. But I think that this low
+hiring, low firing is just a matter of
+companies saying, "We need to get
+through to the end of the year to get
+some more visibility on earnings, but
+companies are holding on to workers. If
+they're holding on to workers, you know,
+it's because their sales are in good
+shape, their earnings are in good shape,
+their profit margins are in good shape.
+So as far as we see it, the low hiring
+is a lot of uncertainty regarding the
+tariffs, uncertainty regarding where the
+Fed finally settles, but in the end of
+it, we don't see that this is
+necessarily the beginning of a labor
+market unwind. But don't we already have
+certainty for the most part? The tariff
+levels are set. We know the direction of
+travel. We know the direction of travel
+of the Fed. What is so uncertain about
+this environment right now?
+&gt;&gt; I think that when you're thinking about
+the tariff levels, you know, there's
+been a lot of negotiating on them. They
+were set at very high levels. They're
+then they got renegotiated down. There's
+always room when there's negotiations.
+You've got to think that is there
+potential that they're going to go lower
+if the US hits much of a soft patch.
+Let's just say this low hiring, low
+firing starts to go into either an
+inflationary surge or if you get into
+this environment where you have maybe
+the low hiring and the firing starts to
+go up. I think that the Fed and I think
+the administration would likely respond
+to that. They have a midterm election
+coming up in 2026. The clock starts
+actually this November and they want an
+economy that is briskly growing uh for
+the midterm elections.
+&gt;&gt; I think it's already started to be fair.
+I was looking at the PMIs yesterday.
+Inventory levels not great. New orders
+not great.
+&gt;&gt; I was hoping things would pick up. Don't
+see many signs of it. The ability to
+pass through higher prices to consumers.
+Bit of push back there too.
+&gt;&gt; Yeah.
+&gt;&gt; Well, but consumer spending has been
+relatively strong, right?
+&gt;&gt; It has been. But I'm just looking at the
+PMIs yesterday. I think it was a hope
+that in September things would pick up
+and reacelerate. I just haven't seen
+that yet. I hope that it's backed up by
+other data points. Just don't see it
+yet.
+&gt;&gt; Well, I think the consumer has been
+acting like this. They kind of go
+through these spurts. They spend for
+back to school, then they kind of go
+into hibernation, then they spend for
+the holidays, right? So, the consumer
+has been looking for a lot of deals for
+a long time. This has to, of course, you
+know, think through this, you know, this
+period of where you've got some
+uncertainty around inflation and higher
+prices do scare consumers, right? they
+start to look for better bargains. They
+go for, you know, off label brands. But
+I would say once you start to go look go
+through for the holiday shopping, you
+may have a lull for October and
+November. But let's start looking at
+those kind of after Thanksgiving sales.
+&gt;&gt; We'll do just that. Barbara, it's good
+to see you. Thanks for dropping by.
+Thank you. Barbara Reinhardt there of
+Voya Investment Management looking for
+that pickup, that reaceleration into 26.
+&gt;&gt; Just saying. Household, if you're
+listening, I'm not saving my money for
+some sort of big present in December.
+No, I'm kidding. I just uh but I do
+think this is really the key question if
+you're looking for it the reaceleration.
+Right now it's not clear in the data and
+that's uncertainty is leading a lot of
+people to wonder which to weigh more
+heavily the labor market or potentially
+what you're seeing with growth.
+&gt;&gt; Barbara's right though. Retail sales
+have been really quite robust. Totally.
+&gt;&gt; The last print was fantastic. I want to
+see more of that and the reaceleration
+that this equity market is already
+priced for. We need to start seeing some
+real evidence of it into year end.
+&gt;&gt; Yeah. You talked to a CEO of an airplane
+uh provider, an airline and they are
+pretty optimistic. So, they're seeing
+it. They're saying people are are are
+looking to travel. And I will just say
+that if you want to book flights to a
+hot spot this winter during school
+break, good luck.
+&gt;&gt; What did Scott Kirby say about that to
+you last week?
+&gt;&gt; Well, that's normal. I mean, if you want
+to go to popular places, what do you
+expect? He didn't he didn't provide any
+particular
+&gt;&gt; from United Airlines.
+&gt;&gt; Well, that's okay.
+&gt;&gt; Bra still flying Delta. Let's keep an
+update on stories elsewhere this morning
+with your Bloomberg brief. Here's
+Yahara. Hey, Yahara.
+&gt;&gt; Hi, John. Shares of Alibaba and Nvidia
+are seeing a boost in early trading with
+Alibaba up nearly 10% after it announced
+it will integrate Nvidia's AI
+development tools into its cloud
+software plat platform that will give
+customers the blocks to build AI for the
+physical world which is of course spans
+everything from humanoid robots to
+selfdriving cars. Meanwhile, hundreds of
+federal employees who lost their jobs in
+a cost cutting blitz led by Elon Musk's
+Doge are now being asked to return to
+work. According to the Associated Press,
+employees of the General Services
+Administration who manage government
+workspaces have until the end of the
+week to ex accept or decline
+reinstatement.
+And Disney is hiking the price of its
+streaming service. The plan with ads
+will cost $12 a month, which is $2 more
+than before. And the adree version will
+cost 19 bucks. That's $3 more than
+before. Disney's Not Alone. Streaming
+services have been upping their prices
+to try and finally convert years of
+investment into returns. The new Disney
+pricing will take effect October 21st.
+Dr. Bloomberg brief. John
+&gt;&gt; Yahara. Thank you. Let's give it a
+minute. It's an important story
+&gt;&gt; for John.
+&gt;&gt; Hulu Premium live TV Disney Plus ESPN
+Select Plan. That's going to increase.
+So, I got this email last night to
+$99.99
+a month. Okay. So, I went back to my old
+emails cuz I've had this email a few
+times.
+&gt;&gt; I've seen the screenshots.
+&gt;&gt; So, I went back to like 2018 2019.
+This was the email I got from them back
+then. Your plan's going to increase from
+$39.99 to $44.99 on February 2019.
+So, in 6 years, I know the plans changed
+slightly in terms of what they're
+offering you now, Disney Plus, etc. But
+in like 6 years that thing has basically
+doubled and more.
+&gt;&gt; Do you feel like your enjoyment has
+doubled? Do you feel like your happiness
+factor has doubled?
+&gt;&gt; I feel like I'm just as locked in still.
+&gt;&gt; Well, that there you go. Paying double.
+&gt;&gt; Exactly. Well, their happiness factor is
+going up.
+&gt;&gt; Oh, we were talking about the ability to
+pass on higher prices.
+&gt;&gt; Evidently, it's effective.
+&gt;&gt; Hello, Mr. Ryer this morning. Okay, up
+next on the program, a presidential
+scolding.
+&gt;&gt; The United Nations is funding an assault
+on Western countries. Both the
+immigration and their suicidal energy
+ideas will be the death of Western
+Europe. Your countries are going to
+hell.
+&gt;&gt; A conversation up next with Ed Mills of
+Raymond James live from New York. Good
+morning.
+[Music]
+Stocks are positive up by 0.2%. 2% on
+the S&amp;P 500, up by a third on the
+Nasdaq, on the Russell up by 0.1. Under
+Sandus this morning, a presidential
+scolding.
+&gt;&gt; Not only is the UN not solving the
+problems it should too often, it's
+actually creating new problems for us to
+solve. The best example is the number
+one political issue of our time, the
+crisis of uncontrolled migration. The
+United Nations is funding an assault on
+Western countries. Both the immigration
+and their suicidal energy ideas will be
+the death of Western Europe. If
+something is not done immediately, your
+countries are going to hell.
+&gt;&gt; So, here's the latest this morning.
+President Donald Trump out with strong
+criticism of the UN, accusing the world
+body of creating new problems.
+Blindberg's Tyler Kendall joins us now
+for more. Tyler, welcome back. You were
+over there at the UN General Assembly.
+Just how wellreceived was that message?
+Well, John, if you were looking in the
+room at the UN General Assembly, it was
+really met with silence from the other
+countries who were really just taking in
+President Trump's message. Though, I
+think it might be fair to say that some
+of these countries at least were
+expecting the onslaught of criticism,
+though perhaps not to this extent. Take
+the Brazilian president Lula for
+example. in his remarks right before
+President Trump, he issued a sharp
+rebuke of US policies, prompting
+President Trump in his own speech to say
+that he intends to meet with Lula next
+week. Now, we knew going into this that
+President Trump was going to blast the
+United Nations as an institution. And
+our analysts at Bloomberg Economics do
+point out that since the early decades
+of the UN's founding, nearly all regions
+have actually shifted further away from
+the US when it comes to UN General
+Assembly votes. And the data shows us
+that it's actually shifted closer to
+China. However, with that said, UN
+General Assembly votes are non-binding
+and the US still wields substantial
+influence when it comes to the
+institution. President Trump really
+tried to use this speech to tout his own
+economic policies. That's how he started
+talking about domestic manufacturing and
+his tariff deals, calling this the
+golden age of America and then using
+that to try to draw what he would say
+are stark contrast to other countries,
+really abandoning any calls for unity.
+John, I do think it's worth pointing out
+though that President Trump didn't meet
+immediately after face tof face with the
+UN Secretary General and he told
+reporters President Trump did that while
+he often disagrees with the UN, he still
+stands firmly behind it.
+&gt;&gt; Ser Kendall with the latest. Tyler,
+thank you here in New York City
+following developments over at the UN
+General Assembly. Could this all have
+been avoided if the escalator worked
+properly?
+&gt;&gt; Not just the escalator. How does the
+teleprompter not work? I mean this is
+the president of the United States and
+the escalator is literally working two
+feet as he steps on it as he steps on.
+So it is curious and Caroline Levit
+shared a screen
+from the times of love London that said
+individual at the UN were talking about
+well maybe what we'll do is do something
+with the president comes like shut off
+the escalator. Was that a joke or is
+this for real?
+&gt;&gt; Yeah maybe if they hadn't done that he
+would have come out and said kumbaya
+let's all just get behind the UN.
+&gt;&gt; It's a joke Brammo. It's just a joke.
+&gt;&gt; This is the president of the United
+States. It's really embarrassing for the
+United Nations.
+&gt;&gt; I have to agree with you by the way is
+embarrassing.
+&gt;&gt; I totally agree with you. Joining us now
+to discuss not that but everything else,
+Ed Mills of Raymond James. Ed, welcome
+to the program, sir. I want to pick up
+on one line from the president. There
+was a few, but I want to pick up on this
+one. The suicidal energy ideas that will
+be the death of Western Europe. Now, it
+might be easy for some people to dismiss
+that, but we had an auto analyst on
+about 60 minutes ago, paraphrasing here,
+who essentially said the suicidal energy
+ideas that are killing the auto
+industry. Now, Ed, does the president
+have a point? Well, I think what I've
+seen from the president is a strong
+support of traditional hydrocarbons. Uh
+we look at the reconciliation bill that
+passed a couple months ago, uh that
+repealed a lot of the inflation
+reduction act, the green energy
+provisions. Uh so this is very on brand
+for him. When we go to Europe, he was
+very critical of uh the oil and natural
+gas that was coming from Russia into the
+EU. Um and when we look at these trade
+deals, he's looking to make sure that
+Europe buys our energy resources. Have
+the globe buy our energy resources. In
+his mind, providing US energy is equal
+to providing US defense support. Uh so
+I'm not terribly surprised by that. And
+I guess finally I think he is also very
+concerned about the Chinese uh German
+kind of car auto uh partnerships and he
+does not want to have supply chains
+going from Europe into China and then
+losing the industrial capacity of
+Europe. Those are really important for
+our NATO allies and our alliance. We
+need to make sure that industrial
+capacity absolutely remains in Europe,
+John. And so I think this is kind of
+very consistent with what he's been
+saying uh for more than a decade. And
+also on brand, we hear the US government
+is looking to take a stake at lithium
+Americas. What do you make of this new
+round of state interventionism?
+&gt;&gt; Well, I would look at the 232 tariffs
+and I would always ask the question, all
+right, if we are at war with China, if
+we have a another significant event
+where supply chains shut down, what are
+the things that we need? We do know that
+there was a huge concern about the lack
+of critical minerals, rare earth
+minerals, uh that China has a near
+monopoly or a monopoly on. Uh and we
+need to produce that here in the United
+States or we need sources that are not
+from China. And so I think this is just
+the beginning. We've had um you know
+kind of MP materials. We've had Apple
+invest in their own supply chain. Uh
+we're going to have this investment.
+We're going to see more and more of this
+because we are getting some of the
+domestic uh use of these or kind of uh
+availability for domestic production,
+but we don't have availability for
+military production of a lot of these
+rare earth and critical minerals. And
+that's a huge national security issue uh
+that is kind of bubbling below the
+surface here in DC and is a huge
+priority that only kind of gets more
+attention as this develops. Samy,
+&gt;&gt; is the national security concern bigger
+than the concern that most conservatives
+for decades would say that this creates
+market dissertations?
+&gt;&gt; Yeah, I mean it's a very different world
+when we look at kind of the uh stake by
+uh the US government and Intel um the
+kind of partnership with Nvidia
+potentially providing for uh 15% uh kind
+of royalties. U I've been kind of
+talking to clients at Raymond James, you
+know, kind of this week and this is a
+question and a theme that comes up.
+they're ask all right is it a good thing
+to kind of invest along with the
+government is this something that we
+have to look for uh more and more um
+there's an uncomfortability that I find
+with investors um but so far because
+they are national security related and
+these are areas where probably the
+private market does not operate on its
+own uh they're okay with it they
+probably prefer to kind of have the
+subsidy rather than the co-investment
+because of the traditional kind of you
+know barrier between commerce uh in the
+government, but this is Trump's style
+and so far he's going to kind of
+continue to push for this. Um I don't
+see a lot of opposition um especially
+when the dollars come with it. Amory
+&gt;&gt; Ed, do you expect to understand uh the
+frameworks of some sort of sovereign
+wealth fund in the near term that could
+potentially guide some of your clients a
+little bit better?
+&gt;&gt; Yeah, potentially. I mean, one of the
+questions comes is like, all right, so
+when we have the stake in Intel, when we
+make these investments in these
+companies, where does the money go? um
+to have a sovereign wealth fund, you do
+need a legislative vehicle that
+officially creates that. Um when we've
+had different investments in companies
+previously, usually you know look back
+to the global financial crisis where we
+made investments uh in the auto industry
+obviously investments in the bank. Uh
+when there are profits from that that
+just goes into the Treasury general
+fund. So it's hard to account especially
+when you have a debt and deficit as high
+as we do for the actual return on these
+things. So, if we have a sovereign
+wealth fund, if we have a guiding
+principle, maybe we get a better
+understanding of what that is, but I'm
+still waiting on that legislation, Lisa,
+uh, to occur. It just hasn't happened
+yet.
+&gt;&gt; Ed, you're one of the best a clinic as
+always. Thank you, sir. Ed Mills there
+of Raymond James. I know some of the
+policies are polarizing as politics is
+often the way, but I agree with Rick
+Reer of Black Rockck. This is probably
+the most interesting time for investors
+like ever. and he said it based on his
+career that it's the most interesting
+time for him ever in his career.
+&gt;&gt; Do you think he's going to be the next
+Fed chair?
+&gt;&gt; I've got no idea.
+&gt;&gt; Are you going to be the next Fed chair?
+&gt;&gt; If he becomes the next Fed chair, things
+get even more interesting for me.
+&gt;&gt; Yeah, that's right. Oh, is that an
+endorsement? I think that was just an
+endorsement.
+&gt;&gt; No, I don't think it was.
+&gt;&gt; Come on and talk about it.
+&gt;&gt; I don't think it was. We're not doing
+endorsements here.
+&gt;&gt; But if he gets it,
+&gt;&gt; then come on.
+&gt;&gt; From New York City, this is Bloomberg.
+Equity
+[Music]
+futures on the S&amp;P positive here by 0.2%
+on the S&amp;P 500. Pulling back in
+yesterday's session breakin snapping a
+3-day winning streak on the S&amp;P. No
+drama this morning by 0.3 on the Nasdaq
+100. As we count it down to the opening
+bell about 2 hours away. Let's get you
+some single names, some morning movers.
+Let's cross over to Danny for more. Hey
+Danny.
+&gt;&gt; Hey John. It doesn't m matter whether
+it's a US AI company or a Chinese one.
+If you spend more on AI, you get
+rewarded. And that's the case with
+Alibaba. You're looking at the US ADRs
+this morning, but the CEO saying that
+they will be spending more. The original
+target was for $50 billion over the next
+3 years. The CEO says that they need to
+keep up with the trillions that are
+going to be being spent by this industry
+over the next few years. So those shares
+up 9.1%.
+Elsewhere, a little bit of sellside
+action. Amazon getting an upgrade this
+morning. So those shares up by 1.4% 4%
+with the analyst there saying that their
+AWS is going to be looking better than
+expected with a growth of 22% in 2026.
+The expectations had been for something
+that looks more like 18%. Their price
+target now implies a 27% upside on the
+current Amazon price. Still surging this
+morning is lithium America's with the
+Trump administration reportedly looking
+at converting a $2.3 billion loan from
+the Department of Energy into a 10%
+equity stake. They're specifically
+looking at one of their minds in Nevada
+to which the loan is also held uh an
+interest is also held with GM. They were
+looking already at restructuring that
+loan. So you see GM shares also rising
+in sympathy with lith lithium Americas
+who by the way put out a statement just
+in the past hour just confirming that
+they were indeed talking with the Trump
+administration. So those shares up just
+under 69% John.
+&gt;&gt; So basically anyone in line for a loan
+approved by the Biden administration is
+everyone just going through those names
+seeing if they're listed and just buying
+those stocks now. Is that been the last
+month?
+&gt;&gt; That's actually very smart. I think you
+should make an ETF for that.
+&gt;&gt; I'm sure someone already has.
+&gt;&gt; I'm sure that someone has
+&gt;&gt; on our radar this morning. Fed chair J
+power reiterating there is no risk-free
+path for rate cuts saying labor market
+and inflation outlooks create a
+challenging situation this after newly
+minted Fed Governor Steven Marin called
+for aggressive rate cuts. Elsewhere,
+President Trump believes Ukraine can
+reclaim all of its territory from Russia
+following a meeting with the country's
+leader Vladimir Zalinski. Trump also
+saying NATO members should shoot down
+Russian aircraft that enter their
+airspace. And finally, let's get back to
+that story. Lithium America soaring on
+reports that the Trump administration is
+seeking up to a 10% stake in the
+company. The news coming as the White
+House negotiates loan terms for the
+company's lithium mine project in
+Nevada.
+&gt;&gt; Look, this is something a lot of people
+have talked about, especially after uh
+US auto manufacturing basically ground
+to a halt when the US uh China trade
+relationship soured to a really
+difficult degree. It is clear the US is
+relying on China for some of these
+precious uh min minerals. And at that
+point, how do you become self-reliant?
+You can say whatever you want, but there
+seems to be some sort of backdoor
+sovereign wealth fund that is emerging
+from the United States. And one thing
+that a lot of people want to get their
+hands heads around is what are the
+contours of that sovereign wealth fund?
+How big is it? How far is it going to
+go? And how do people get ahead of it?
+And this all has basically the US
+administration talking about the fact
+that they care more about national
+security than they do about basically if
+they look like they're having state
+capitalism right now. now and this
+intervention is because when you look at
+the companies they are going after it
+goes back to the raw materials and what
+we had the past few days is a group of
+lawmakers in Washington go to Beijing
+and they ended with a press conference
+saying this is one issue that's not
+resolved and it is the rare earths and
+raw materials that the entire world
+basically just depends on China. So for
+the United States this administration
+doesn't like grants. They don't like the
+loans from the Biden administration. So
+they're like we're going to do something
+different. We're taking 5 to 15% stakes
+in these companies that we think is so
+important to our domestic critical
+infrastructure.
+&gt;&gt; I think we're all sympathetic with the
+aversion to central planning. I'll leave
+that there. When it comes to this
+particular problem though, when we spoke
+to City about 60 minutes ago about what
+was happening with Europe, he was
+pointing to the US at least on a number
+of issues. They're listening to where
+the consumer is right now, the kind of
+things that they're buying and the
+automakers are responding accordingly
+and the government is giving them space
+to respond. In addition to that,
+lithium, we need to secure some of that.
+They're doubling down and making sure
+that we have access to those things. All
+these things happening in America that
+would arguably help some of these
+automakers. And I know there's other
+issues with the tariffs that are hurting
+them. I know there's other issues with
+immigration that might be hurting them.
+But on a number of issues, it's helping
+them. You're not seeing it take place in
+Europe.
+&gt;&gt; This is the reason why there was this
+question, is the European auto
+manufacturing sector viable right now
+for an investment? And the answer is
+unclear. I think that longer term there
+is this feeling that the US doesn't have
+the luxury and nowhere has the luxury of
+just standing still that inaction is a
+decision and it isn't one that people
+want to be taking at a time where the
+global order is shifting and I think
+that that is what's being recognized in
+the US too much controversy but maybe is
+a question of how quickly can other
+places do something similar.
+&gt;&gt; I'm sure they just love some cheaper
+steel now on top of everything else but
+that's a different story for US
+automakers. That's true. Lithium
+Americas up in a pre-market by about
+70%. Let's turn to the equity market.
+Chairman Pal weighing in on valuations.
+&gt;&gt; Equity prices will move up and down and
+we do monitor that, but we're not we're
+not targeting any level of of prices for
+particular financial assets. We don't
+have a view that we know what the right
+price of any particular financial asset
+is. By many measures, uh, for example,
+equity prices are are are fairly highly
+valued.
+&gt;&gt; What a run we've had for the equity
+market. 28 all-time highs on the S&amp;P 500
+and the rally just keeps on climbing.
+Rick Wor, the president and CEO of
+Charles Swab, joins us now to discuss.
+Welcome to the program, sir. It's good
+to see you,
+&gt;&gt; Jonathan. Nice to be here.
+&gt;&gt; Welcome back, Rick. It's always good to
+see you. What a year it's been already
+for 25. Still got three or four months
+left. Can you frame for us how engaged
+your clients have been over the last
+year?
+&gt;&gt; Our clients are very engaged. Our
+trading activity this year has generally
+been about 30% higher than last year.
+So, clients are in the market, they're
+invested. I I've I've been in about 15
+of our retail branches in the last
+couple weeks and I was in Princeton, New
+Jersey yesterday and I asked a client
+how they were feeling and I think they
+synthesized what our investors are
+feeling really well. They said, "I'm
+happy but I'm nervous." And they're
+happy because markets are at all-time
+high. Their balances have never been
+higher, but they're looking at
+valuations and wondering, you know, am I
+going to be okay? So, it's it's a great
+time because they're looking to us for
+advice and they're coming in and they're
+talking to us and they're hearing from
+our experts, but it's uh you know,
+overall they're happy because markets
+are up.
+&gt;&gt; What do you think the dominant anxiety
+is at the moment? We've been trying to
+ask this question. Is it the anxiety to
+get out? Do you have to do some
+handholding or is it the fear of missing
+out? Are they looking to lean in a
+little bit more aggressively?
+&gt;&gt; I think our clients are generally
+engaged and invested. So, I think it's
+more, hey, I I have more wealth now than
+I anticipated. Markets have done better
+than I thought. Do I need to be worried
+about valuations and should I be getting
+out? I think interestingly, as it
+relates to the bond market, we're seeing
+a lot more interest in bonds now because
+with rates coming down, investors are
+wondering, do I need to go out the
+curve? I've been living off my purchase
+money fund, but the yields on that are
+coming down. Do I need to go out the
+curve and lock in higher yields? So
+that's that's been a topic of hot debate
+among our clients as well.
+&gt;&gt; The sort of elusive money on the
+sidelines that we talk about that's
+supposed to rush back into everything
+else, particularly the long end of the
+yield curve. Is that actually happening?
+&gt;&gt; Well, I I think if if you look at our
+clients, the percentage that they keep
+in either cash or purchase money funds
+has stayed relatively stable. Now when
+the dollar amount has grown because
+their wealth has grown so significantly
+with the market increase in the last
+couple of years. So from a dollar
+standpoint, there is a lot of cash
+sitting on the sideline. But at the same
+time, it's roughly the same percentage
+that they've always kept because they
+want it for safety needs or they wanted
+to um you know, they're purchasing a
+house, whatever it may be. So, I I don't
+see a big story around cash sitting on
+the sidelines at the moment.
+&gt;&gt; Do you notice a really big difference in
+how your clients trade depending on
+their age, depending on their
+generation? For example, older uh
+individuals tend to go to mega caps,
+younger individuals just straight
+Bitcoin.
+&gt;&gt; Wow. We we we spend a lot of time
+talking with our younger investors and
+we have 35 hours a week of live
+education and training to try to get
+investors to think about the difference
+between an equity and a coin and to make
+sure they're making the right investment
+decision for them. You know, I I I do
+worry about
+younger investors and you know, crypto
+has been something that has done
+exceptionally well, but I want to make
+sure we want to make sure that young
+investors also know about the power of
+equities over the long term and that
+investing generally is something that
+you want to do for the long term.
+Certainly, you want you can trade and
+take on positions, but you shouldn't
+expect quick hits all the time. And I
+and I think we want to make sure that
+young investors are are aware of that.
+But I really appreciate in this country
+the bias to invest, the bias to act, the
+bias to take a bet. In the UK, I saw
+some numbers recently about how much
+consumers were investing, but how much
+of it was just going to really, really
+low yield stuff,
+&gt;&gt; like cash funds, stuff like that. There
+isn't the same bias to invest in
+equities and risk that I've seen growing
+up in the UK that exists here. Where do
+you think that comes from in America?
+And how do we continue to nurture it?
+&gt;&gt; Well, I think it's great. And and not
+only has it been great, it's getting
+even better. If you look at millennials,
+uh, they're 40% more likely to be
+invested by the age of 21 than than
+Jenzers. So, it's it's happening with
+younger investors as well, and we're
+trying to engage them where they are. We
+go to YouTube, Tik Tok, Instagram, and
+we put out videos about the power of
+compounding, and and we try to get them
+interested in investing because if you
+start young and become an investor,
+you're hopefully you'll stick with it,
+and you'll build wealth. It's the single
+best way to build wealth in our country
+is to be an investor. And young people
+today are embracing it far more than
+prior generations, which is outstanding
+to see. It used to be that all those
+opportunities were in public markets
+that you'd get that blockbuster IPO that
+you'd want to get exposure to. Now, a
+lot of it staying private. How are you
+thinking about offering opportunities in
+private markets for customers coming
+forward from here? What kind of things
+are they looking to do?
+&gt;&gt; Yeah, it's it's an interesting question.
+there there's a lot more private
+companies than there used to be and
+fewer public companies. And so I do
+think it makes sense to think about
+providing direct access to retail
+investors to private companies. And
+that's something that we're we're
+looking at and thinking about how we
+participate in but these some of these
+companies are huge. You look at the
+Stripes Open AAI uh 500 billion.
+&gt;&gt; Yeah. They're they're billiondollar
+companies. And so I do think retail
+investors ought to be able to uh ought
+to be able to invest in them and and at
+the same time there's probably people
+sitting at that company that would love
+liquidity for their stock position. So I
+think there's a market to be made there.
+&gt;&gt; How much do you think that it's isolated
+in companies versus real assets and I
+say that at a time when we're talking
+about the re-industrialization of the
+United States and the idea that there
+could be actually some oomph behind it
+for the first time in a long time. I
+mean, how much is that part of what
+you're looking to give access to
+clients?
+&gt;&gt; Real assets.
+&gt;&gt; Yes.
+&gt;&gt; Well, I think um
+real assets have been a great way to
+invest in our country and uh the main
+thing we focus on is differentiating
+between productive assets and
+speculative assets. And I think real
+assets are productive assets. Um and so
+it's a great way for a client to get
+invested. Are you concerned about you
+keep talking about the coin and you're
+concerned about it and actually the
+productive versus unproductive. Do you
+think that that's actually a point of
+concern right now in markets the amount
+of involvement in the crypto space?
+Well,
+&gt;&gt; I think I think crypto could end up
+being very very valuable and there's a
+role for it to play and and there's a
+role for tokenization and the
+blockchain.
+What's important to us is that
+investors, particularly young investors,
+know what they're investing in and know
+why it makes sense for them to be
+invested in it and understand the
+difference between say an equity and a
+bond which have some positive expected
+return and and they're a productive
+asset. And just understanding the
+difference between that and a more
+speculative asset like art or baseball
+cards or or crypto where you don't know
+what the what the future return is going
+to be. We it's not that we we don't
+judge people's investments and we can
+see a world where crypto is very very
+valuable but we want clients to
+understand the difference between those
+investments.
+&gt;&gt; Do you think next year's you're going to
+have more opportunities for either
+hiring or strategic opportunities
+because you think policy is clear now
+out of Washington?
+&gt;&gt; You know what what's driving our hiring
+is the growth of our business. We're
+we're growing at a at a really strong
+rate. We're seeing a lot of engagement
+from clients. Uh increasingly they want
+advice from us. They want our help in
+their financial life. Uh and because of
+that, that that's what's driving our
+growth growth. It's not about what's
+happening with policy.
+&gt;&gt; Can I just finish on the potential for a
+partnership on private markets? I wanted
+to ask you that. Is that something you
+consider a partnership with another firm
+to offer that kind of access?
+&gt;&gt; I think we we would love to see retail
+investors be able to participate in the
+growth of private companies in our
+country.
+&gt;&gt; So would Apollo. I've heard the same
+thing from them. I'm trying to make a
+market now. and and and we have yeah we
+and we have KKR on you know f u firms
+like KKR on our platform. Yeah. And uh
+that that our retail investors can
+invest in and that's a great way to get
+access to uh private markets that
+they're experts. They they started the
+market. They've been forever. That's a
+very thoughtful way for our investors to
+go be a part of private markets.
+&gt;&gt; Seems like this is the direction of
+travel at least for retail.
+&gt;&gt; Well and it seems like the uh regulatory
+landscape is open opening up to to pave
+the way for that. The question is just
+what form that will take and whether
+private markets the new public markets
+whether there's any difference like
+Apollo has said maybe not and this is
+sort of the new uh path ahead for a lot
+&gt;&gt; are we mediating trying to broker a deal
+&gt;&gt; I think we that was a good try by the
+way
+&gt;&gt; and Rick really effectively navigated
+that
+&gt;&gt; Rick appreciate your time thanks for
+dropping by thank you sir Rick Worester
+the Charles Schwab CEO if you are just
+joining us equity futures on the S&amp;P
+positive here by a tenth of 1% with an
+update on stories elsewhere this morning
+with your Bloomberg brief Here's
+Yahihara for more. Hi Yhara.
+&gt;&gt; Hi John. Micron shares have now turned
+lower in the pre-market down 1.3%.
+That's despite the chipmaker topping
+revenue estimates for the current
+quarter due to high demand for its AI
+hardware. The outlook validates the idea
+that Micron has become a key beneficiary
+of AI spending due to its high bandwidth
+memory products. Micron said it expects
+supply of memory chips to remain tight
+into next year, but as I said, shares
+are lower. Meanwhile, the Bloomberg
+Philanthropy's Global Forum takes place
+today alongside the United Nations
+General Assembly in New here in New
+York. The event hosted by Michael
+Bloomberg brings together top leaders,
+including the ones you can see behind me
+from the public, private, and nonprofit
+sectors to address the world's most
+urgent challenges and opportunities. You
+can tune in starting at 9:15 a.m.
+Eastern. And the RDER Cup opening
+ceremony has been changed to today at
+400 p.m. Eastern. It was originally
+scheduled for Thursday, but was moved up
+because of inclement weather in the
+forecast. United States Captain Keegan
+Bradley and European Captain Luke Donald
+will still announce the Friday morning
+forsomes pairings on Thursday. So, we
+will have to wait. That's your Bloomberg
+brief. John,
+&gt;&gt; looking forward to that one. Yahara,
+thank you. Up next, passing on tariff
+costs.
+&gt;&gt; There's a lot of uncertainty about the
+direction of public policy and so
+companies are holding off. That may be a
+way of passing on tariff costs. The pass
+through to consumers has been later and
+less than we expected.
+&gt;&gt; Up next, Russ Branach of Black Rockck
+live from New York City this morning.
+Good morning. You're watching Bloomberg
+TV.
+[Music]
+Equity futures on the S&amp;P positive here
+by 0.1% on the S&amp;P 500. On the NASDAQ up
+by 0.2 two in the bond market. Treasury
+stabilized at the front end of the curve
+on a 2-year bond yield this morning
+around 357 on 10s around 411 under
+Savannah this morning passing on tariff
+costs. There's a lot of uncertainty
+about the direction of public policy and
+so companies are holding off that may be
+a way of passing on tariff costs. It is
+something that is and driving up uh
+inflation a bit and the question is are
+companies then are they going to
+eventually be able to pass that stuff
+through and then that might drive
+inflation up a little higher. The pass
+through to consumers has been later and
+less than we expected. So here's the
+latest this morning. Fed chair J Pal
+calling the current environment a
+challenging situation with risk to the
+labor market and inflation. Russ
+Brownback the deputy CEO of global fixed
+income at BlackRock joins us now for
+more. Russ always good to catch up with
+you.
+&gt;&gt; Morning.
+&gt;&gt; Thanks for being here. How are you
+capturing the division at the Federal
+Reserve and thinking about how to apply
+that into ideas to invest in fixed
+income?
+&gt;&gt; Yep. So, we agree with where the markets
+are pricing uh forward Fed policy rather
+than the dots. Um we've talked about in
+previous appearances here, we talked
+about the suboptimality of uh the policy
+setting today. And you know, we look at
+an economy that's doing fine. You know,
+if you look through the noisy GDP
+measures, you look at gross domestic
+income, you look at private final
+demand, you know, it's humming right
+along at 2%. But beneath the surface,
+there's dispersion. Millions of
+low-income, lowwealth households
+suffering from floating rate debt, all
+the credit card debt, all the auto loan
+debt, student loan debt, and like small
+companies which employ 40% of the people
+in the labor force today. That's where
+the floating rate debt is. And the
+housing market is really suffering. I
+mean the the turnover in the housing
+market approaching you know sort of GFC
+kinds of levels today. And so that that
+policy setting today while not you know
+denting the overall uh economy is my
+analogy is it's like you can run your
+car at 70 m hour if you have 3/4 tire
+pressure but your fuel efficiency is not
+optimal and your ride isn't as smooth as
+it could be. Why not pump the the tires
+all the way up to full pressure and have
+a better ride?
+&gt;&gt; So pumping up the tires is what? cutting
+interest rates by another 50 basis
+points.
+&gt;&gt; So, listen, I think, you know, I I I'm
+uh I think there's too many modern
+contemporary influences today to for
+anybody to have a real guess at what
+what uh neutral is. Um but a forandle on
+the overnight rate when forward uh
+inflation markets are telling you
+inflation's headed to the low twos is
+too ownorous. Um, and so I I think
+ultimately the as the data unfolds, it
+will become clear that the Fed can
+deliver what's priced.
+&gt;&gt; If you have a smoother ride, you can go
+a lot faster. And that is one concern.
+If you cut right uh cut rates to smooth
+the ride, I'm really going far with this
+analogy. I think we can stop it here,
+but I just am wondering how much this
+actually makes you not want to invest in
+the long end of the yield curve.
+&gt;&gt; So I don't think there's dissonance
+between the idea that the Fed can be
+easing at a time when the economy is
+fine. I don't believe we live in a
+secular disinflationary environment. We
+lived for a decade into the pandemic
+with too little inflation. The central
+bank was fighting inflation from
+beneath. I understand the scar tissue
+from what happened in the pandemic. When
+you pump $5 trillion into the bank
+accounts of the private sector at the
+time that the supply chain is shutting
+down, you get too much money chasing too
+few goods. That's inflation. You need to
+lead against that. They did, but they've
+rung that out of the system today. If
+you look at core PCE on a trailing 3, 6,
+12-month basis, two and a half years, it
+looks like a black diamond ski slope
+coming straight down. That descent has
+slowed because tariffs are making goods
+prices tick up. But when you move goods
+prices up one time, that's not
+inflation. Inflation is a recurring
+phenomenon where goods get marked up,
+people pay more, then they ask for
+higher wages and so on, that's not what
+hap what's happening today. You've got
+price stability, which is actually the
+Fed's mandate. You look at the
+volatility of inflation. One last
+statistic I'll give you. We measure the
+variability of the rate of change of
+$100 basket of PCE consump consumption
+items over the last year. That's 37. Two
+years ago that was $3. So the Fed has
+won the battle of price stability. So
+aside from running for Fed chair
+yourself, I am wondering going forward
+uh whether this just means that you're
+going to invest wholesale in duration at
+this point given the fact that right now
+there's a lot of concern in markets
+about a very different view than what
+you just put out there.
+&gt;&gt; So it's a great question. The markets
+though have priced the view that I just
+laid out. And so that's priced.
+&gt;&gt; So we think that the yield curve is kind
+of in equilibrium here. As I've said
+before, the front end's anchored to Fed
+policy. The longer end sort of
+gravitates toward nominal GDP outcomes.
+So in the fixed income portfolios today,
+we don't see a big directional trade in
+rates. We've called it the golden age of
+income. It's about just harvesting the
+yields today that sit so far above
+inflation.
+&gt;&gt; You're sound like you're talking about a
+pro productivity boom next year. And I'm
+interested because we're going into a
+midterm election where most polls
+continuously show that Americans are
+concerned about inflation. Even if it's
+a one-time price adjustment, it is still
+going to be higher in terms of cost of
+goods. Or do you think corporate America
+is going to absorb as much as they can?
+So I I think sometimes, you know, these
+surveys probably capture sentiment about
+high prices as distinct from inflation.
+You know, we we have inflation that's
+come all the way back down into the two.
+It would be in the mid-2s if it weren't
+for tariff increases. So when people are
+talking about, you know, trading down
+from hamburgers to hot dogs, it's in
+deference to high prices, not inflation.
+So I think that's conflicted in the
+surveys. Productivity, we we after a
+decade of a pro a productivity bust,
+we're looking at 2% productivity today.
+Think about what that means. Means you
+can grow the economy at 2% real without
+adding one minute to the hours worked
+during the work week. Um, and there's
+many uh prognosticators that suggest
+that's going to be inflecting higher
+still to 3 or 4%. Uh, I happen to be an
+optimist in that regard. So, I think you
+can have your cake and eat it too.
+&gt;&gt; Russ, I want to finish on this.
+Something that your colleague, our
+friend Rick Reer, has said recently.
+Said it a few times. This is the most
+interesting time for investment that
+he's ever seen. I imagine you agree with
+that. What's so fascinating about this
+moment in time?
+&gt;&gt; So, worked with Rick for 33 years. We've
+seen all the eb and flow of everything.
+You know, about a decade ago, we stepped
+off the efficient frontier of unbridled
+globalization. You've got generations
+worth of norms in geopolitics, in trade,
+in fiscal policy, in monetary policy
+being shattered. So, that creates
+moments and bouts of uncertainty. But
+that's what we live for in markets. You
+know, when you get the dislocation and
+you can go in and tactically trade
+around that, that's nirvana for us.
+&gt;&gt; Russ, it's good to see you. Thank you,
+sir. Russ Brownback there of Black
+Rockck. I couldn't agree more. All these
+different things happening. Don't follow
+the VIX. That kind of burries the story.
+You've got all this volatility elsewhere
+to take advantage of.
+&gt;&gt; There's sea changes in technology, see
+changes in trade flows, see changes in
+just demographics and how much uh people
+are aging and how they're investing. And
+I just am really stuck in the idea of
+trading down to hot dogs from
+hamburgers. That made me a little sad.
+&gt;&gt; That is sad, isn't it?
+&gt;&gt; I just I hope that that's not happening
+because I personally
+&gt;&gt; No, that's real.
+&gt;&gt; But that is real and that's there's also
+that issue and how you actually factor
+that in as well. Not to bring it to
+that, but I have to bring it to that.
+&gt;&gt; Okay. Coming up on the program, Daryl
+Crock of Wells Fargo, Greg Tartto of
+Goldman Sachs, Nathan Sheets of City and
+Vishy, Philipur of Morgan Stanley. All
+of that in the third hour of Bloomberg
+Surveillance up next.
+[Music]
+The key driver of this bull market has
+been AI and tech.
+&gt;&gt; We're becoming still very dependent on a
+smaller handful of stocks. As investors,
+what we need to do is separate out what
+is the medium-term trend from the
+short-term cyclical trading trend.
+&gt;&gt; Next year, we do see earnings improving
+10%.
+&gt;&gt; We have Q3 earnings coming up. We don't
+have a beat and a raise. I think you
+will see a pullback in the market.
+&gt;&gt; This is Bloomberg Surveillance with
+Jonathan Pharaoh, Lisa Abramowitz, and
+An Marie Hordern.
+&gt;&gt; 90 minutes away from the opening bow.
+Live from New York City this morning.
+Good morning. Good morning. for our
+audience worldwide. The third hour of
+Bloomberg Savannah and starts right now
+and your scores look like this. Equity
+futures on the S&amp;P 500 just about
+positive by 0.2% bouncing back from
+yesterday's losses. Some big AI spending
+plans we can talk about in just a
+moment. The NASDAQ up by a quarter of 1%
+in the bond market. Light on data
+through to Friday. Looking for jobless
+claims tomorrow on Friday. PCE yields
+down by a basis point at the front end
+357 up to the long end 412. the curve
+steepening somewhat going into that data
+this week, Thursday and Friday for
+claims and PCE in between tons more
+Fedspe and look out for Costco earnings
+too just to get a flavor of where
+companies are at right now and their
+ability to pass on higher costs.
+&gt;&gt; Yeah, yesterday in the PMI data that we
+got out of the United States, there was
+a sense that maybe companies were having
+a harder time passing along those costs.
+So maybe this is actually a positive
+signal when it comes to just how much
+inflation can accelerate, albeit maybe
+less positive for margins. That said,
+the likes of Costco, the likes of
+Walmart, the likes of Home Depot, how
+much are the giants in the retail space
+consolidating market share with
+efficiencies of scale, with efficiencies
+of technology that put them in a
+different a different realm. And that
+actually is also what I'm listening for.
+&gt;&gt; They should just announce some big AI
+spend. If Bloomberg Surveillance was a
+stock, I'd be announcing an extra $10
+billion this morning. Alibaba up by 9%
+in the pre-market after announcing
+they're going to spend more on AI.
+&gt;&gt; Yeah, maybe you could just say you're
+replacing me with an AI bot and all of a
+sudden the shares sound that stock.
+&gt;&gt; Oh, that's so sweet. Look, yes, we have
+seen a huge I'm going to move on because
+I was just so touched. That's so sweet
+of you. I am thinking that this is
+something that the market is endorsing
+the spending plans for artificial
+intelligence and that ultimately will be
+a self-fulfilling prophecy until it
+isn't. It's sort of the uh Dan
+Greenhouse school of thought that it can
+be a bubble but you still want to keep
+buying until you don't and then you
+don't want to be buying and that's sort
+of what AI investment plans have looked
+like.
+&gt;&gt; This circular trend on the way up it
+feels great. It makes a lot of sense
+with the way down. How big is that
+downside could it potentially be? But
+this number, and you mentioned it a few
+times, Jonathan, this morning when you
+have the CEO of Alibaba talking about
+overall investment in AI, $4 trillion
+worldwide over the next 5 years, and
+Alibaba needs to keep up. And now you
+see just the absolute arms race between
+Beijing and Washington.
+&gt;&gt; I think Pete Cheriff Academy was great
+earlier this morning. He talked about
+the difference between early innings and
+late innings. The spending plans are
+early inex. The valuations are late
+inex. That's the problem market
+participants have got right now.
+&gt;&gt; Yeah. But not ending, right? So at a
+certain point you might bring it all
+forward and then look at the percolation
+of those investments as the rest of the
+sphere. This is a very difficult thing
+to really get your hands around on any
+level. The one quote that I keep
+thinking about is when Microsoft and
+Meta were saying that the risk is not
+investing enough, not investing, it's
+not necessarily investing too much. And
+that is clearly what we're seeing across
+the entire industry. How many innings
+are there?
+&gt;&gt; How many are there? There's nine.
+&gt;&gt; No, it depends. It depends. Extra
+innings.
+&gt;&gt; Yeah, there could be extra innings, but
+overall, let's let's say don't worry.
+Nine. You really wanted to start this
+conversation.
+&gt;&gt; Yeah, I just wanted to
+&gt;&gt; Well, yeah, because the Yankees are now
+in the playoffs. Squeeze that in. Why
+does the Mets? What's happen to the
+Mets?
+&gt;&gt; Mets are Mets in.
+&gt;&gt; All right, this is good. Okay, coming up
+on the program, Lisa might be gone.
+Daryl Krunk of Wells Fargo on the latest
+AI spending plans. Greg Torto of Goldman
+Sachs asset management on the small cap
+breakout. and Nathan Sheets of City
+Global on a divided Federal Reserve. We
+begin this hour as Alibaba becomes the
+latest company to ramp up AI spending
+plans. Daryl Kron of Wells Fargo
+writing, "We are closer to the beginning
+than the end of a new capex super cycle.
+The additional power and energy needs
+alone to fuel the AI revolution may be
+the largest constraint." Daryl joins us
+now for more. Daryl, good morning.
+&gt;&gt; Good morning, John.
+&gt;&gt; Are we going to keep on rewarding these
+companies making these big
+announcements?
+&gt;&gt; I think in the near term, yes. I mean, I
+don't see any slowdown to that. I mean,
+I quite frankly, I think the Alibaba CEO
+with his comment this morning might be
+light on the 4 trillion. I mean, there's
+a lot of estimates out there that it's
+actually six to 7 trillion. And in fact,
+if you take every dollar spent on just
+AI alone, it's estimated there's
+probably three to four dollars needed to
+be spent on the infrastructure to
+support that AI, right? So, if you don't
+want to own and pick the next winner in
+the race, right, who's going to win that
+ultimate AI race, you own the picks and
+shovels, right? you own the the stuff
+that that pulls into that, right? It's a
+safer play. It could be through the
+energy mix. It could be through data
+centers, could be through utilities.
+Like, there's a number of ways to play
+that.
+&gt;&gt; Well, there is a company that owns the
+shovels. It's Nvidia and now they're
+buying gold mines or at least taking
+stakes in them. Isn't that confusing?
+&gt;&gt; It is a little confusing, right? I mean,
+I don't I don't know that that's where
+you need to be, but when you have that
+much free cash flow, you got to do
+something with it, right? Um and so I I
+think you're going to continue to see
+that trend. I think what people miss
+here is you talk about these big seismic
+trends, you know, in history, you know,
+industrial revolution, the development
+or or or birth of the internet, all this
+stuff. It's when founders and disruptors
+show up at the same time and they
+collide and they change the landscape,
+right? And I think that's a moment that
+we're in. So, you can we can look at the
+stock market and say, look, you know,
+the market has lived since April without
+more than a 2.7% S&amp;P correction. The
+longest duration of that correction is 4
+days. We're a little exhausted. We're a
+little tired. If you look at the
+advanced decline line, like we could we
+could move sideways, but I think if you
+back out and see the secular trends that
+are at play, I think that's what's
+important here, right? It's the super
+capex cycle. It's the AI revolution.
+It's the onshoring manufacturing
+renaissance, it's deregulation, right?
+It's all these things happening
+simultaneously that I think are a
+powerful concoction.
+&gt;&gt; I think what Pete Sher was getting at is
+everyone's stepping back. Everyone's
+appreciating the awe of this moment and
+valuate valuing it very highly without
+getting there yet even if we're in the
+early innings of the actual investment
+and the actual execution of this grand
+uh technology and technological
+disruption. So how do you sort of bridge
+that gap of valuation and everyone
+stepping back appreciating the awe and
+not necessarily seeing it get done?
+Well, for us in portfolios, you know,
+we're we're on the wrong side of the
+trade the last 30 days of being
+unfavorable small caps, right? Which
+have been, you know, ever since the
+Fed's going to cut interest rates and
+this is going to go wild. It it's
+ironic. I was looking last night. So,
+last year, the Russell 2000, $67 of
+earnings, right? This year, it's on
+track for $72 of earnings, $5, so call
+it 7%. Next year, $102.
+That's a 42% increase in earnings by
+Bloomberg's own estimates of what the
+street has. No way. No way. I mean,
+you're not getting that out of small
+caps, you know, next year. So, so I
+think to answer your question is you can
+still play this trend in a number of
+ways. Picks and shovels is one. You can
+go up market um in quality and stay with
+a large cap where they are generating
+that free cash flow, where they are
+truly generating the earnings. I'd be
+really careful about the dash for trash
+right now. I think that looks
+overextended to us. Places where
+everybody just decided, okay, this this
+rally is going to live forever and I'm
+going down the quality spectrum. That
+just doesn't make sense to us right now.
+&gt;&gt; So, and what you're what you're
+discussing is something people have been
+debating. Do you stay with the high-f
+flyers or do you look elsewhere? And
+you're saying you can look elsewhere,
+but be careful, but also stick with the
+high flyers. Is that kind of what I'm
+hearing?
+&gt;&gt; Yeah. I mean, we're we're overweight
+tech and the portfolios, but but tech is
+not a vertical, right? Tech is a
+horizontal now, right? It's touching
+every obviously sector and and industry
+that's out there. So I think you can
+have that. We love financials. Our our
+best idea is financials right now
+because I mean obviously as the yield
+curve steepen that's great for NI
+there's no early signs of delinquencies
+defaults right the M&amp;A and IPO world is
+picking up ex I mean IPOs are up 63%
+year to date. M&amp;A is up another 35% year
+to date year-over-year on run rate
+numbers. I mean that's all great for
+those types of industries. Industrials
+are doing well. Utilities are doing
+well. So, everybody's talked about the
+equal weight S&amp;P 500. I won't drain
+that, you know, conversation again, but
+but it is true the breath is expanding
+out, right, when you look at it. And I
+think you can own some really great
+companies at reasonable valuations here
+and not be afraid about chasing the uber
+high valuations all the time. When you
+say sticks and shovels and you're
+looking at potentially the AI buildout,
+are you looking at companies that have a
+loan or a grant from the US government
+because you think this administration is
+going to take an outright stake?
+&gt;&gt; Um, you can, but I I would still re
+that's where I would go back, Emory, to
+the fund fundamentals. I'm not sure
+those are the greatest fundamental
+companies. There's a reason that equity
+injection is coming, right, for the
+support and the, you know, cornerstone
+of the industry. I would still look for
+companies that could do it on their own,
+right? and not necessarily um need that
+type of of support in the equation. Um
+it is it is odd that we're doing it
+through equity, right? I mean, history
+tells you there's examples where that's
+come through through loans and debt and
+other ways of repayment. Um the true
+equity stake in those core industries, I
+think, is a is a little bit of a game
+changer.
+&gt;&gt; Do you think this could distort the
+market, what the US government is doing?
+Um, I think the only way it really
+distorts the market if there's a if
+there's an in and an out and an in and
+an out and it's very episodic, right, in
+the in the way it's done. If it's a true
+sustainable long-term investment,
+probably not other than the the moment
+in time that it's announced, right?
+&gt;&gt; They are attempting to backs stop the
+Argentine market right now. So, I'm
+going to bring you some breaking news
+from the Treasury Secretary Scott Besson
+just moments ago. The Treasury is
+currently in negotiations with Argentine
+officials for a$20 billion dollar swap
+line with the central bank. We're
+working in close coordination with the
+government to prevent excessive
+volatility. The Treasury Secretary going
+on to say in addition, the United States
+stands ready to purchase secondary or
+primary government debt. And we are
+working with the Argentine government to
+end the tax holiday for commodity
+producers converting foreign exchange.
+The most effective backs stop, the best
+kind of backs stop is one you don't
+actually have to use. And we'll see what
+happens next with this one.
+&gt;&gt; Yeah, especially given that this is
+almost a threat to what Scott Besson,
+Treasury Secretary, calls the
+speculators and that Argentina has all
+of the tools to defeat the speculators.
+Is this something that will get called
+upon or is this the vote of confidence
+that Javier Mle needed, especially given
+some of the recent losses in recent
+elections?
+&gt;&gt; Absolutely. We're going to, I think,
+know at the end of October whether or
+not this worked or not. at least
+politically to backs stop MLE and his
+government um when it comes to really
+tough race in terms of the austerity
+measures he has put in place that are
+now starting to backfire a bit
+politically.
+&gt;&gt; This of course is very different but I
+always remember what Mario Draggy did in
+the Euro zone debt crisis when he first
+took over and came up with the unlimited
+bond buying plan which eventually was
+known as OMT. I think it was outright
+monetary transactions or something like
+that. It was so effective that he never
+had to buy a single bond with it. It was
+a plan that was never activated and it
+scared the speculators off. I imagine
+for the Treasury Secretaries coming up
+with a plan that you don't want to be on
+the other side of at the moment and
+we'll see how effective it is for the
+weeks and months to come because it's
+not just about getting through the next
+couple of days. It's providing some
+longerterm stability.
+&gt;&gt; Yeah. And Argentina has an unusual
+amount of hair on it considering the
+fact that it's defaulted on its
+sovereign debt nine times.
+&gt;&gt; You bring the bazooka, right? That's
+&gt;&gt; Do you think this is the bazooka this
+morning?
+&gt;&gt; I I think it is. Um because again to
+your point, you want to make a big step
+in there. And remember remember the old
+adage about um financial markets stop
+panicking when central banks start
+panicking, right? So when you bring the
+bazooka, it usually means central banks
+are engaging and that's when financial
+markets usually make that inflection
+point.
+&gt;&gt; Daryl, it's good to see you. Thanks for
+dropping by. Thank you, sir. Daryl Kron
+there of Wells Fargo. Let's give an
+update on stories elsewhere this morning
+with your Bloomberg brief. Here's
+Yahihara with more. Hey yara.
+&gt;&gt; Hi John. During a meeting with Ukrainian
+President Zalinski at the UN, President
+Donald Trump said NATO nations should
+shoot down Russian aircraft that violate
+their airspace. Separately, the
+president saying on Truth Social that he
+believes Ukraine can win back all of its
+territory from Russia. He also said
+Moscow is fighting aimlessly, calling
+the country a paper tiger.
+Meanwhile, President Trump has canled a
+government funding meeting with
+Democratic lawmakers. It comes as a
+shutdown deadline is just one week away.
+Trump stated he wouldn't meet until
+Democrats become realistic with their
+demands, which currently include
+extending Affordable Care Act tax
+credits and rolling back some of the
+president's earlier policies included in
+his big beautiful bill. And OpenAI is
+expanding its data center push under its
+plan dubbed Stargate. It plans to invest
+about $400 billion to develop five new
+US data center sites in partnership with
+Oracle and Soft Bank. This marks its
+biggest push yet to fulfill an earlier
+pledge to spend a half trillion dollars
+on AI infrastructure in the country.
+That's your Bloomberg brief. John
+&gt;&gt; Yara, thank you. Appreciate it. Up next
+on the program, the morning cause plus
+Greg Schwartzo of Goldman Sachs Asset
+Management on the small cap breakout.
+That conversation up next.
+Our
+[Music]
+trading activity this year has generally
+been about 30% higher than last year. So
+clients are in the market, they're
+invested, they're happy because markets
+are at all-time high. Their balances
+have never been higher, but they're
+looking at valuations and wondering, you
+know, am I going to be okay? I don't see
+a big story around cash sitting on the
+sidelines at the moment. Charles Swap,
+CEO Brick Worster, joining us in the
+last hour or so. Investors have
+re-engaged in such a massive way post
+April. Now, we're looking for
+corporations to do the same going into
+2026 and hopefully start to stimulate
+this economy. If you are just joining
+us, welcome to the program. Equity
+futures on the S&amp;P 500. firmer here by
+0.1% on the NASDAQ up by 0.2 for the
+small caps. The Russell up by 0.1 also
+that's the price action. Let's get you
+some morning calls. First up, Bank of
+America raising its price target on
+Alibaba to 195 as it increases its
+investment in AI, seeing it as the
+world's leading full stack AI services
+provider. Your second call from Wells
+Fargo, upgrading Amazon to overweight,
+expecting greater conviction in the
+Amazon web services division. And
+finally, UBS upgrading General Motors to
+buy holding an above consensus view for
+its North American margins. That stock
+is up by 2.4%. Let's stick with equities
+and turn to the Russell 2000. Seeing
+all-time highs as the stock market rally
+broadens into small caps. That index has
+rallied more than 13% since the
+beginning of August. The moment we had
+that payroll report for July, this stock
+market has taken off as it reprices
+what's going to happen with rates and
+ultimately what that means for small
+caps. Joining us now to discuss is Greg
+Torto of Goldman Sachs Asset Management.
+Greg, good morning, sir.
+&gt;&gt; Thanks for having me.
+&gt;&gt; It's good to see you. We've seen a few
+head fakes for small caps before. A lot
+of people are conditioned by that. How
+do you understand the difference between
+a head fake and a real deal? Something
+more sustainable.
+&gt;&gt; Yeah, I think the the uh the backdrop,
+especially the economic backdrop for
+small caps right now, is is probably the
+most transparent it's been in that three
+or four year time frame since we had the
+last, you know, record high. you know,
+the financial conditions index, which is
+really important for small caps, is is
+quite easy. We know we have a couple of
+more rate cuts in the offing. And if you
+look at some of the bottoms up
+indicators for the economic activity,
+we're over 3% for GDP growth in the
+third quarter, which is well ahead of
+where the e where the, you know, the
+sellside economic forecasts are. So,
+those are really, really good. And I
+think that they've, you know, people
+have wanted to see it before they before
+they place their bets. And I think
+that's what you're seeing right now in
+the marketplace. Well, some people are
+worried that this is a K-shaped economy.
+There are a lot of people who are very
+much feeling the inflation uh that has
+been percolating for the past five, six
+years. People are definitely having a
+harder time and feeling less confident
+about the labor market and that small
+caps are disproportionately affected by
+these trends.
+&gt;&gt; What's to say that's ending in enough of
+a sort of ground swell to give support
+economically fundamentally to these
+smaller companies? Well, I think you
+have seen some of that, you know, trans
+transposed into the market, especially
+on like the restaurants sector. It's not
+done well, especially in the last month
+or two. August and September have not
+been good for that for that space.
+You're you're seeing a little bit of a
+wobble in some of the retailers,
+especially at the low price area. So, I
+do think there are some consumer-driven
+parts of the market that may not be in
+the best shape. However, some of the
+things you that you see that are capex
+driven, you know, especially we heard
+from Micron last night that they're
+going to spend more money. they need to
+spend more money. That translates into a
+lot of, you know, kind of opportunity
+for small cap companies. There's a lot
+of companies out there that have that
+either direct or indirect benefit from
+their capital spending that we hope to
+take advantage of.
+&gt;&gt; Do you think that the Russell 2000 as an
+index is the best representation of the
+story that you're telling? or do you
+think that it's other indexes that have
+different cohorts of companies that
+might be smaller or midsized but that
+the Russell 2000 has a number that have
+been left behind kind of and that
+haven't done as well for a long time
+which is why they've remained in sort of
+the smaller bucket.
+&gt;&gt; A lot of lot of interesting thoughts
+came into my mind with that question. I
+I do think that there are some
+construction issues with the Russell
+that have gone on over the over the
+course of the last few years that have
+brought in some things into it that you
+know that are not representative of what
+we're talking about. I do think that you
+know in terms of you know just talking
+my own book you know which I know I am
+you know the active manager in the small
+cap space has a significantly larger
+menu to choose from to kind of to kind
+of you know kind of weave inside and out
+of those things. You know like think
+about the biotech space. the biotech
+space in 2021 compared to today. You
+have to be so much more selective, but
+you can find some really good
+opportunities. If you just bought
+biotech or biotech and the Russell 2000,
+you're you're you're taking a lot of
+chances there. And I and I do think
+that's the that's the difference as the
+Russell 2000 has tried to cast a broad
+net to do these things. It's kind of
+caught some things it probably didn't
+want to catch.
+&gt;&gt; Where else do you see opportunities
+outside of biotech as one?
+&gt;&gt; Yeah, biotech's one. You know, I
+mentioned semicap equipment, you know,
+as an area, especially after what Micron
+talked about. You know, I think medtech
+is starting to reemerge. I've talked
+about it for a while, but I do think
+that, you know, outside of outside of
+some of the areas in medtech, you
+haven't seen a lot of life in
+healthcare. Healthcare has been tough. I
+mean, I think, you know, the the SP500
+healthcare got to its lowest level in in
+decades. And I do think medtech is
+starting to see some you know some some
+some recognition for the growth that it
+has which is well above you know kind of
+the last three or four years kind of
+moving towards mid- teens like that like
+that area a lot asset managers I mean
+you know just just in terms of you know
+kind of what's gone on in equities many
+asset managers are equity heavy you know
+and then finally capital markets banks
+you know we like you know Piper Jaffrey
+Piper Piper Sandler a lot um you know in
+terms of it exposure to not just sort of
+what's happening in the equity capital
+markets but also in the at capital
+markets with their MUN business.
+&gt;&gt; How much M&amp;A do you see in small caps?
+&gt;&gt; It's starting to really pick up. You
+know, I think you're it's happening in
+much smaller companies right now. I
+think it's because it's, you know, the
+private equity guys are so flush with
+cash and they're wanting to put things
+together. So, you're starting to see a
+lot of two billion $3 billion deals. Um,
+more PE than strategic. The strategics
+will start to come, we think, as we get
+closer to the end of the year. I think
+that they've been waiting for this all
+clear along with us. You know, price
+plays a difference. And I think that,
+you know, you're starting to see price
+pick up off the bottoms. And that's when
+strategic start to start to kind of dig
+in because they're like, "Yeah, I'm not
+going to get those bottom prices that I
+had hoped for, so I'm going to have to
+pay what what the market's dictating."
+&gt;&gt; Greg, you're super dialed in, focused on
+the fundamentals. And I respect you for
+that. I think a lot of people treat
+small caps differently, though. They
+treat small caps like they treat EM.
+It's like in and out and not for long.
+And I just wonder if it's the
+characteristics of the investments that
+drop in and out of the asset class, if I
+can call it that, that leads to these
+moments where we get these head fakes,
+these moments of outperformance that
+don't last long. Is the money typically
+faster that gets into small caps? What
+is it about those investors that play in
+that area of the equity market?
+&gt;&gt; It's a great point and I think that you
+know the la I've done this for almost 30
+years and and it's so if you think about
+the last three years prior to the you
+know kind of the the prior 27 years of
+my career, it wasn't like that as much.
+I do think that there's been more
+transition both in and out of the small
+cap asset class like you discussed which
+has kind of caused some of that tourist
+action that we've seen but I do think
+that you have a really good chance for
+both beta and alpha in small caps right
+now which you may not have in some of
+the larger caps. People are very worried
+that the larger caps are expensive. And
+small caps are, you know, 25 to 40%
+cheaper with better earnings revisions
+characteristics right now. So they could
+be even cheaper if our 26 numbers are
+right
+&gt;&gt; and a million times smaller. I don't
+know by definition, but the very fact
+that the Russell's 3 trillion and so is
+a single name on the S&amp;P 500. Isn't that
+dictating the style of investor that
+gets involved in your world?
+&gt;&gt; It is. In some instance, you've seen a a
+significantly larger, as the CEO of
+Charles Schwab said, you know, kind of
+proponent a proportion of retail
+investors in in this move, you know,
+recently. But I do think it's not always
+consistent over cycles. I think they do
+find other places to go. Um, especially
+when there's thematic opportunities in
+in other areas. I do think that just
+some of the themes, whether they be
+artificial intelligence, nuclear power,
+uh, quantum computing have all been in
+the Russell. So it's really kind of you
+know it's it's coalesed in there and
+it's made it harder for active managers
+but I do think it's more opportunistic
+going forward because there's some some
+other things that are happening right
+now that we're getting excited about.
+&gt;&gt; How many rate cuts do you need to stay
+excited about small caps in the next say
+12 months?
+&gt;&gt; I think you probably need two to three
+at least you know which I think is you
+know kind of in the priced in camp. um
+if you got four, you know, I think which
+you'd bring you down to, you know, a
+nice healthy three, right? I think that
+that would be something that combined
+with say a two plus GDP is is sort of a
+if I can use the term from earlier in my
+career, Goldilocks type scenario. Um
+right, you know, I think that that's
+that's what we'd all hope for. You don't
+always get what you hope for, right? But
+I think that as directionally we're
+going in the right in the right place
+with rate cuts and and uh the economy
+seems really really stable. It was nice
+to talk to you about small caps without
+talking too much about interest rates on
+the Federal Reserve, which is typically
+all it's about. Greg, it's good to see
+you. Thanks for having Thanks for being
+here. Appreciate it. Greg Ta of Goldman
+Sachs Asset Management, a clinic there
+on what's happening beneath the surface
+in small caps.
+&gt;&gt; Yeah. At a time when a lot of people do
+think it's just an interest rate bet. I
+just am struck by how much energy has
+been put to some of the large caps, how
+wide open capital markets have been to
+them. at the same time that a lot of
+small caps are still looking to extend
+maturities and and deal with their
+balance sheets and that's one reason why
+it has been so tied to rates.
+&gt;&gt; Lower interest rates help helps a lot.
+We've seen a massive move since early
+August off the back of the repricing of
+the Federal Reserve. Coming up, we'll
+catch up with Nathan Sheets of City on a
+divided Federal Reserve. Chairman Pal
+trying to unite the impossible over on
+the FOMC. We'll get into the details of
+the Fed speak so far this week in the
+equity market on the S&amp;P 500 futures
+positive by about 0.2%. 2% and in the
+bond market bond yields just a little
+bit higher at the front end 357 and up
+by 2110s to 413 from New York City
+you're watching Bloomberg TV
+[Music]
+the open about 60 minutes away stocks
+are positive across the board up by 0.15
+on the S&amp;P 500 on the Nasdaq 100 higher
+by 0.2. Let's get some single names some
+morning movers with more. Here's Danny.
+Hey Danny.
+&gt;&gt; Hey John. Aadia Health to the downside
+this morning down 11%. It's been jumping
+around that despite the fact that Engine
+Capital the FT reporting taking a stake
+in the behavioral health company.
+Initially shares were higher. They have
+turned around the uh point of this stake
+taking according to the FT in a letter
+that they've reviewed is they want to
+change some of their activities. They
+want them to review their portfolio uh
+hold back on some of their capital
+intensive projects and rework this
+board. A little bit of sellside action
+also moving things this morning. Adobe
+shares those are also falling this
+morning down 1.2%. Morgan Stanley
+downgrading the company to a hold,
+saying that some of its decelerating
+sales are a warning flag when it comes
+to their Gen AI, the promise of it and
+the ability for that to really generate
+a return. Those are the concerns for
+Morgan Stanley. So shares are down 1.2%.
+Elsewhere, we are looking at PayPal
+moving higher by 1.1%.
+This morning, Blue Owl affirming that
+they are taking a $7 billion chunk of
+their buy now pay later assets. Uh,
+PayPal will continue to run the client-f
+facing versions or the client-f facing
+activities for those buy now pay later
+loans, but it allows them to move more
+capital light and it's a trend we've
+been seeing. Clara and a firm also been
+selling some of their loans to non-bank
+entities. Blue Owl just up by 7% off the
+back of that. John,
+&gt;&gt; Danny, thank you. Looking forward to the
+program. Open interest 30 minutes away
+with Danny and Matt. Look out for that a
+little bit later. Canning, you're down
+to the opening bell. Let's turn to the
+Federal Reserve. Fed chair J Pal
+reiterating the challenging path ahead
+as policy makers weigh further easing.
+Limit Mike Key joins us now for more.
+Good morning Mike.
+&gt;&gt; Good morning John. I think there are
+three points that people on Wall Street
+may not be getting completely. So let's
+go through those. When you look at the
+dot plot you see that the Fed when you
+compare it to the last time uh the Fed
+has definitely moved down but also look
+at if you're looking at the white dots
+look at the dispersion for 2026 and how
+much that has widened out. If you
+compress some of those smaller uh the
+individual dots uh in the previous
+forecast, what the Fed is telling you
+there and what Powell was trying to say
+yesterday is we don't know whether we're
+going to be able to cut rates and by how
+much next year because the economy is
+evolving in ways that we can't predict.
+So it's not that they're saying we're
+not going to do this. They're not saying
+we're going to do just one cut in 2026.
+They're saying that right now it looks
+like we know we could do that probably,
+but let's wait until we get all the
+data. Second thing is what the dispute
+between Steven Myron and the rest of the
+board is all about is the neutral rate.
+What is our star? He's not out of bounds
+completely. If you look at the range of
+estimates from the September SCP, it was
+between 2.6% and 3.9%. He says he's in
+the mid 2% area. So give him credit
+could be 25 26. He's at the bottom end
+but he's not out of b bounds completely.
+But the real issue is that as J Pal has
+said many times we cannot identify with
+certainty what the neutral rate is. And
+therefore he makes the case you should
+not make policy based on the neutral
+rate. Whereas Steven says you should.
+That's what the dispute about uh at this
+point. And finally, one thing that uh
+hasn't gotten as much publicity that uh
+I thought it would yesterday when J Pal
+said, "By many measures, equity prices
+are fairly highly valued." Is that an
+observation or is that a warning? Uh
+we've seen that from Fed officials
+sometimes in the past when rates uh when
+when levels get pretty high, they don't
+like to talk about the stock market, but
+in this case, he did. And then Alibaba
+today said, "Hold my beer in terms of
+pushing markets higher." Well,
+precisely.
+&gt;&gt; We'll see.
+&gt;&gt; Mike, thank you, sir. Appreciate it.
+Some rare insight comments from the
+chair on valuations, and some people
+might just snap back and say, "Yeah,
+thank you. You're a big part of that."
+&gt;&gt; Well, and it's only going to continue,
+right? I mean, to that exact point, I'm
+sorry, I'm distracted by this Oracle
+deal. I have to just mention it. Oracle
+is selling uh $15 billion of bonds,
+including a 40-year trunch, and they're
+looking for capital at 6.4%. That's the
+cost of it for 40 years for a company
+that is engaging in tech. Why can they
+do this? Well, a lot of this is because
+spreads are so tight. Why are spreads so
+tight? Because the economy and the
+market is being underpinned by the
+Federal Reserve. So, it raises this
+question of are we getting over our skis
+or does it even matter because by and
+that's what everybody seems to be doing.
+&gt;&gt; It's a K-shaped debt market. Not
+everyone has that kind of access in
+fixed income. Let's put it that way.
+Let's turn to Nathan Sheets, chief
+global economist, the city, writing the
+following. US firms appear to be
+absorbing 60 to 70% of tariff costs
+today. However, we doubt that this will
+prove sustainable as a longerterm
+strategy. Nathan joins us now for more.
+Nathan, good morning.
+&gt;&gt; Good morning.
+&gt;&gt; Good to see you, sir. Which way do you
+think it breaks if it's not a long-term
+strategy?
+&gt;&gt; Well, I think that the firms have been
+able to absorb as large a share of the
+tariffs as they have largely because
+they frontloaded inventories and they're
+drawing down those inventories. But I
+think over time uh they're going to have
+to pass it uh pass it through uh to
+consumers and I think we're going to see
+it in the CPI to the extent that that
+doesn't happen then firms margins are
+going to be compressed and they're going
+to be thinking about how do I cut costs
+and then that's bad news for the labor
+market.
+&gt;&gt; So the question again which way does it
+break? Is it an inflation story? Are
+they passing it on or a labor story? Are
+they cutting cuts?
+&gt;&gt; Uh the Fed has cast its vote on that
+one. Uh this is a tough period. The
+economy is absorbing a stagflationary
+shock. The Fed's got to choose between
+its mandates and J Pal's telling us,
+well, it's painful. It's complex. It's
+difficult. But on balance, they're
+signaling greater concern about the
+labor market.
+&gt;&gt; The market agrees with them. The market
+agrees this is this the prudent route to
+take because essentially people are not
+pricing in a real reaceleration of
+inflation. Do you think that's correct?
+I was very concerned about how the long
+end of the the the curve was going to
+respond uh to signals of Fed uh cuts and
+uh as you say the long end of the curve
+has responded very well uh as the Fed
+has shifted more in the direction of an
+easier monetary policy and of course the
+the equity market is thrilled uh about
+uh an easier Fed. So at least so far it
+very much seems that the markets are
+with the Fed and they also uh at least
+uh the preponderance of investors are
+more worried about the labor market. One
+other angle on this that's helpful is in
+the Fed's view and I'm persuaded they're
+right. They see uh the stance of policy
+is still being restrictive. And so what
+they're doing is not providing out
+outright stimulus, but they're just
+reducing the constraints on the economy
+as associated with monetary policy.
+&gt;&gt; As an economist who's tasked with trying
+to put together all of these disperate
+trends and themes, how do you understand
+the moment we're in? Is it
+disinflationary? Is it reinflationary? I
+mean, I've heard an argument on all
+sides, and every time anyone makes an
+argument, I'm like, "Yes, you're right."
+And they're always the opposite sides.
+Well, for the for the United States, I
+think uh it's stagflationary,
+and that's the reality of these tariffs.
+They're putting upward pressure on
+prices. They're putting downward
+pressure on real incomes and spending uh
+in the economy and the and uh and the
+Fed's trying to react to that. Now, for
+the rest of the world, the tariffs have
+a different implication. For the rest of
+the world, they are an adverse demand
+shock, reducing demand for exports,
+putting downward pressure on wages and
+prices. So, I would say disinflationary
+uh for the rest of the world,
+stagflationary for the United States.
+&gt;&gt; But in your global economic outlook, you
+talk about how consumers and companies
+were actually able to absorb it pretty
+well. Do you think that story is going
+to change?
+&gt;&gt; Uh, so far, absolutely. particularly
+here in the United States, we've seen uh
+we've seen resilience. Now, part of that
+I do think is a transitionary phase and
+specifically
+uh what's happened is uh the tariffs
+have come on gradually and as we've seen
+the tariffs coming on we say well prices
+are going to be higher tomorrow. What do
+you do if you think prices are going to
+be higher tomorrow? You buy more today.
+And so the economy has been supported
+through the first six, eight months of
+the year through a front-loading cycle
+that's now gradually abading. And when
+you get to the other side, all that
+stuff that we bought during the first
+half to get ahead of the tariffs, we
+won't be buying during the second half
+of the year. And that's where the
+payback comes in, we'll see the higher
+prices. And I think at that point, we
+are likely to I don't think we're going
+to see recession. I don't think we're
+going to see a collapse in economic
+activity, but a further slowing in the
+pace of growth is our expectation.
+&gt;&gt; If inflation though is a concern pushed
+down the road then in 2026, what does
+that mean when we have a new Fed chair
+that is going to be very different than
+how JPL views the world?
+&gt;&gt; Uh this is we are learning about how
+tariffs affect economies in real time.
+And for me, one of the big surprises has
+been that the pass through of the
+tariffs into inflation has just been a
+lot slower than what I'd expected. The
+correlary to that is, yeah, we'll
+probably still be talking about tariff
+pass through into inflation during the
+first part of next year, and it may be
+an issue uh even in the spring when we
+get a new Fed chair. Now, uh there's a
+lot of issues surrounding where a Fed
+chair uh uh appointed by President Trump
+may ultimately go, but uh managing the
+uh uh fallout of the tariffs is likely
+to be one important issue that they're
+struggling with.
+&gt;&gt; When do you begin to ignore Shaman Pow?
+&gt;&gt; I think he's got his, you know, he's got
+his hands on the steering wheel
+&gt;&gt; for how much longer?
+&gt;&gt; You know, I'm going to I'm going to
+argue uh until he leaves the the the
+Absolutely. I think he's still going to
+be the one who is largely going to be
+dictating the direction of policy as
+long as he's uh chairman of the Fed. And
+I think part of that is he's got uh
+credibility with the other members of
+the committee and I think that gives him
+uh influence and the capacity to shape
+policy. Can he shape markets
+&gt;&gt; uh to
+&gt;&gt; he can at the moment of course but once
+we get closer to May the reason I add
+this as you know
+&gt;&gt; the policy is not the interest rate it's
+what happens in the market
+&gt;&gt; that we all understand that and at some
+point later this year there's going to
+be someone else who gets to say you know
+what I'm next and his views or hers who
+knows might carry more weight than
+chairman pals
+&gt;&gt; yeah to the extent that policy is
+influencing the economy today and over
+uh uh the near term and as you say the
+horizon where his policy will be
+relevant is shortening and will continue
+to shorten uh as we approach May. Uh uh
+then we're left to speculate on what uh
+a next Fed chair may do. Uh but I think
+in terms of of setting the table and
+determining where rates are uh I think
+that uh Pal's in control until May.
+&gt;&gt; Nathan, it's good to see you as always.
+Thank you, sir. Nathan there of city
+global chairman pal doing his best to
+unite a very very divided Federal
+Reserve at the moment. Let's give an
+update on stories elsewhere with your
+Bloomberg brief. Here's Yahihara Arnand.
+Hey yhara.
+&gt;&gt; Hi John. Treasury Secretary Scott Besset
+says the US is discussing a 20 billion
+swap line with Argentina and is ready to
+buy the country's dollar bonds. The move
+is a vote of confidence from President
+Trump for leader Jav Millle after the
+two met yesterday here in New York.
+Argentine dollar bonds trimmed losses on
+the announcement.
+Meanwhile, we are seeing shares of
+Oracle down 1.7%
+after the company announced plans to
+raise $15 billion in investment grade
+bond sales. People familiar with the
+matter say the software maker is selling
+debt in as many as seven parts,
+including a rare 40-year bond. The deal
+comes as Oracle begins to fulfill
+massive cloud infrastructure deals with
+the likes of OpenAI and Meta, which are
+boosting expenses.
+And robot umpires are coming to the
+major leagues. MLB's competition
+committee approved the use of the
+automated ball strike system for the
+2026 season. Human umpires will still
+call balls and strikes, but the robot
+will be introduced in the form of a
+challenge system in which the human
+umpire makes each call which can then be
+appealed to the computer. That's
+Bloomberg brief. John,
+&gt;&gt; it's a bad time. Honestly, don't%
+absolutely agree. I mean, honestly,
+&gt;&gt; some people might say it's going to
+remove the beauty of things like the the
+history, the heritage
+fans just super super frustrated with
+this at the moment. I mean, honestly, at
+a certain point, as an ump, wouldn't you
+rather outsource it to a robot rather
+than get blamed and have people use your
+face as a meme?
+&gt;&gt; And also, there's there's nothing really
+subjective about this. Like, this is not
+doing well in European football at the
+moment, but there really isn't anything
+subjective about this. Like, there's a
+box and the ball needs to be inside it
+and that's it.
+&gt;&gt; Simple. Is the coach going to start
+screaming at the robot? Can you imagine
+the coach coming out gets thrown out by
+the robot? I just don't want stale,
+sterile games. Like were we going to
+outsource everything to robots and then
+just have players?
+&gt;&gt; One thing you can outsource quite easily
+I think. Anyway, for all my baseball
+knowledge. Up next, setting you up for
+the day ahead. We'll catch up with Vishy
+Trapur of Morgan Stanley following
+Oracle's $15 billion investment grade
+debt deal with a 40-year piece. We'll
+get into that in just a moment. Live
+from New York City, this is Bloomberg.
+[Music]
+Interestingly, as it relates to the bond
+market, we're seeing a lot more interest
+in bonds now because with rates coming
+down, investors are wondering, do I need
+to go out the curve? I've been living
+off my purchase money fund, but the
+yields on that are coming down. That's
+been a topic of hot debate among our
+clients.
+&gt;&gt; It's going to keep Kathy Jones busy.
+That was Rick Worester, the president
+and CEO of Charles Swap. As we count you
+down to the opening bell, here's the
+trading diary. Few things to look for.
+400 p.m. Eastern time. Some Fed speak.
+Not much today, but it builds later this
+week. You'll hear from the Fed President
+Mary Dailyy later on. On Thursday,
+another round of jobless claims. Look
+out for that. Results from Costco, too.
+And a host of Fed Speak. This time from
+Goulsby Bowman Williams Friday PC data
+you consumer sentiment to round out the
+week going into the weekend. Got a few
+more days to go. Let's turn to the
+Federal Reserve. Vishyur, the chief
+fixed income strategist at Morgan
+Stanley writing, "We think the market
+pricing of Fed policy will move well
+below the September 24 low. They should
+skew towards a more dovish path." Vishy
+joins us now for more. Vishy, good
+morning.
+&gt;&gt; Good morning.
+&gt;&gt; Got a big credit offering to talk about
+with you in just a moment. I want to
+start with your view on the Federal
+Reserve because credit spreads are
+already super super tight. Are you
+suggesting this market's not aggressive
+enough on rate pricing? I think the path
+the way I think the terminal pricing
+with you suggesting is not aggressive
+enough.
+That's basically we're saying that we'll
+end up in a a terminal pricing that will
+come down more than what we are
+basically suggesting. My colleague Matt
+Hornbach and team are calling for the
+terminal pricing to come down by about
+50 basis points further down. So that's
+uh much more even uh more accommodative
+than where we are from a rates
+perspective at a time where credit
+markets are wide open. John was
+referring to the credit offering. Oracle
+selling $15 billion of bonds this
+morning, including 40-year debt, which
+is rather rare, especially given the
+fact that this is a technology company
+that's touting things that haven't fully
+been developed yet. What does that say
+to you about just how accommodative this
+credit market already is?
+&gt;&gt; The credit market is accommodating. The
+way I look at it is, you know, from a
+fundamental basis or technical basis,
+but perhaps the best thing way I would
+capture it is comative spreads are
+tight. Undoubtedly spreads are tight.
+They're tight since 1998. Tights, but
+the spreads are tight, but yields are
+right is is the line I would like to go
+with because if you look at the G,
+you're still able to get to somewhere in
+the five 6% yield. at that level of
+yield there is actually pretty
+substantial demand particularly from
+insurance companies selling sort of
+fixed annuity type of products. So that
+yield of demand is insatiable as so as
+long as the curve is steep you know the
+steepness of the curve stays uh I think
+we expect continue to see that technical
+demand coming through and I we we think
+we are in a good place. I'm going to put
+you on the spot and be a little more
+specific. That this 40-year trunch is
+being sold at about a yield that Oracle
+would be paying for the privilege of
+borrowing for 40 years of almost 6.5%.
+That might be decent for some of these
+insurance companies. Is it a good buy
+given that we don't know the technology
+that we don't know the rates picture? We
+don't know inflation. How can you
+measure out 10 years? How can you
+measure out 5 years, let alone 40?
+&gt;&gt; I'm I'm uh I'm not going to cop out. I'm
+not I'm not copying out but I can't I
+won't talk about a particular issue that
+I don't know what our involvement is and
+I don't know if you've written it yet or
+not on this so I will I I will pass on
+specifically commenting on on this
+particular bond deal but overall all I
+want to say is that as long as we have
+you know if you look at the fundamentals
+the we have not seen any substantial
+deterioration in leverage we've not seen
+substantial deterioration in coverage uh
+cash to debt ratios have somewhat come
+down but overall We we we think that the
+credit fundamentals are in a pretty
+decent shape. So we have not seen you
+know since postcoid we've not seen
+excesses in credit that we would you
+know the credit market is prone to doing
+excesses really haven't seen a lot of
+that also issuance total is insurance
+volumes you know there's net issuance is
+effectively flat not a we're not seeing
+this abundance of issuance not seeing an
+abundance of debt driven M&amp;A LBO type of
+activity that will sound caution you
+know then the raise caution um from the
+investor perspective we're not seeing
+any of that. So, uh this month we might
+end up with something like 160 170
+billion of issuance and no uh which
+basically sits the average September
+from 20 post postcoid to now we are just
+sitting right there. So we're not seeing
+that that exuberance. I know where I
+would see I would be watching is if we
+start seeing a lot of debt driven M&amp;A uh
+you know a lot more LBOs and you saw
+equity contribution come down debt
+contribution go up. That's something we
+are watching very closely. We're not
+seeing any of that yet.
+&gt;&gt; Vishy I think about this in really
+simple terms. When you say the credit
+spreads are tight but the yield is
+right. The way I see things is when
+credit spreads are tight the greater
+percentage of the yield comes from the
+risk-free asset. So why wouldn't I just
+own that instead of assuming the
+additional credit risk when I don't feel
+like I'm really being rewarded for it?
+How do you sort of confront that
+question from clients?
+&gt;&gt; Absolutely. We we get that question a
+lot. So the kind of products that are
+driving the liabilities that these
+assets are supporting um simply are
+looking for yields in the 5 to 7%
+levels. So below that you if you're an
+insurance company you're not
+competitive. You can't offer a
+competitive rate just purely relying on
+on uh on the on the treasuries. You
+can't get get that number. So you need
+to get to that a competitive rate that
+you need a spread product whether it's
+corporate credit, securized credit, etc.
+You need that spread product.
+&gt;&gt; Isn't that a different question though?
+That's like saying that these
+institutional investors right now are
+being forced into the product because
+they've got no choice. But as an
+individual investor, I've got a choice,
+haven't I? I can sit here and say I
+don't want to be forced into anything. I
+don't like that. As an individual
+individual investor, what people are
+responding is buying these annuities
+which is basically are effectively
+giving you that like uh above you know
+keep up with inflation uh above
+meaningfully above money market rates
+and you know annuity products are very
+popular you know now their annuity
+product sales have quadrupled from the
+pace of post GFC to COVID levels we have
+in the last few years we have seen it
+quadrupled and that's basically saying
+we want something better than a money
+market, something safe, uh something
+that could be relied on and to defeat
+that liability, you need a product that
+has a spread product in the as I said,
+you know, five six% yield product. And
+that's precisely what uh credit is
+offering. And I I I mean credit in a
+broad sense, not just corporate credit.
+&gt;&gt; What I'm struck by is there hasn't been
+a lot of issuance at the long end of the
+yield curve. And I'm talking about
+corporate and and a whole vast uh number
+of of credit uh issuance. If there is
+demand, Wall Street will create it. You
+said that you're worried about debt
+driven M&amp;A, debt driven transactions.
+Isn't this market begging for that given
+the demand and the lack of supply that
+really can feed that demand?
+&gt;&gt; So, what I I would maybe I should I
+should state it this way. I think we are
+we'll be watching how much of debt
+driven demand uh how much of debt driven
+M&amp;A, how much of deaddriven LBO happens
+and what are the multiple things are
+being done at. So at the moment we are
+what we are seeing so far doesn't say
+you know you know doesn't wrankle so
+far. So if we start seeing things like
+that then we will we'll be more worried.
+At the moment we are not I am more
+worried about a flat y a bull flatter
+yield curve. A bull flattening is going
+to be much more of a challenge for this
+yield driven environment and that would
+be much more challenging.
+&gt;&gt; We had that at the start of September.
+Is there a reason why that's just a blip
+doesn't continue? it it we need
+significantly more bull flattening than
+we've seen. So we need basically if we
+saw you know yields come down to the the
+levels that we saw during in the you
+know before 20 2020 in the post GFC
+precoid levels where we really didn't
+see that it was a flatter curve and that
+really was was not the the driver what
+that it's become today. So I would be
+much more concerned about a significant
+bull flattening more so than what we saw
+last year. Vishy always a clinic. It's
+good to hear from you sir. I appreciate
+it. Thanks for breaking it down in
+simple terms. Vishyur there of Morgan
+Stanley on fixed income and the latest
+developments in the credit market.
+&gt;&gt; Yeah, not concerned even though we are
+seeing a lot of issuance. It's not
+enough issuance to really meet the
+demand. The idea of a 40-year trunch
+&gt;&gt; from Oracle which a lot of people
+raising questions for. But you know
+&gt;&gt; I have the same questions that you do.
+40-year tech is it a 40-year bet? How
+many people are buying that and holding
+it for 40 years? Well, maybe some of
+these companies or maybe some of these
+insurance companies, if they're getting
+six and a half% yield on it, do they
+even care what's underlying it as long
+as they keep getting paid?
+&gt;&gt; Coming up tomorrow, bigger debate on
+this one with Matt Miskin of John
+Hancock Investments, Scott Croner of
+City, Brent Shulie of Northwestern
+Mutual Life Insurance, and Nila
+Richardson of ADP from New York City
+this morning. Good morning for our
+audience worldwide. Thank you for
+choosing Bloomberg TV. This was
+Bloomberg Surveillance.
+[Music]

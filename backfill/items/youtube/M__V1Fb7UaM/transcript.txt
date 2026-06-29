@@ -1,0 +1,1243 @@
+Kind: captions
+Language: en
+Big American trucks on the moon digging
+stuff up, hauling it to rockets, and
+sending it back to Earth. All in the
+dream of making the average Earth person
+affluent in a way few can imagine today.
+Thanks to an endless supply of critical
+minerals and also the key ingredient for
+limitless energy from fusion. This week
+we're talking about something that
+doesn't exist yet, but that our guest
+insists will exist someday. The lunar
+economy. Justin Cyrus is the founder and
+CEO of Lunar Outpost, a company that
+makes space trucks. It's one of three
+companies that have been selected by
+NASA to build a lunar terrain vehicle or
+LTV for its Aremis missions. Ultimately,
+NASA expects that it will select one
+company for the demonstration.
+Cyrus says he wants his company to be
+the mobility provider for the lunar
+economy. In other words, he wants to
+build big American trucks for the moon.
+Let's roll the tape.
+&gt;&gt; Can you name the truck with four-wheel
+drive? Smells like a steak and seats 35.
+Can you narrow?
+Can you marrow?
+&gt;&gt; Oops, wrong clip.
+&gt;&gt; The value that the moon can bring as the
+naturally largest orbiting satellite of
+Earth to the Earth economy right now is
+pretty massive. Even if you start
+discounting the resources and the future
+of the resources in space. So right now,
+America is going back to the moon. The
+next time someone asks why the USA went
+to the moon just long enough to plant a
+flag and leave some footprints, you tell
+them America is going back this time for
+good.
+&gt;&gt; The moon is Earth's naturally largest
+orbiting satellite. If you think of it
+just as a giant satellite in the sky,
+think about the Earth observation
+equipment you can put on there. Think
+about the weaponry that hopefully never
+gets put on the lunar surface, but it is
+the ultimate high ground in near Earth
+space. There is no better strategic or
+military positioning.
+&gt;&gt; From the Wall Street Journal, I'm Tim
+Higgins. And I'm Christopher Mims. This
+is Bold Names, where you'll hear from
+the leaders of the bold name companies
+featured in the pages of the Wall Street
+Journal. Today we ask, why are the US
+and our biggest rivals all in a race to
+build permanent bases on the moon? And
+how will we do it?
+Welcome, Justin. Looking forward to
+talking about your moon truck and your
+moon robots and your first mission to
+the moon earlier this year. But let's
+first zoom out or maybe zoom in to
+Earth. To paraphrase JFK in 1962,
+why the moon again? I say that because
+the US of course was the first to set
+foot on the moon in 1969 with the Apollo
+mission and hasn't set foot again since
+1972.
+I think a lot of people it's sort of
+been there, done that. Really just a big
+gray rock, a harsh place with not a lot
+to offer. So, what is there to gain
+going back?
+&gt;&gt; Yeah, thanks for having me, Tim. Uh,
+really excited to be here. There's a lot
+uh there's a lot going on on the lunar
+surface. There's a lot going on in space
+that's going to contribute to what we
+are doing here on Earth and how we
+operate as humanity. So of course uh the
+science, the exploration, that kind of
+innate uh quality of being a human
+being, we want to push the boundaries to
+go where we've never been before. And
+that's all part of it. Again, you know,
+that hasn't gone away. But in terms of
+what we can do economically, that is a
+very important question that I don't
+think the broader public is aware of
+quite yet. When you start looking at the
+lunar surface, you have many of those
+resources readily available and
+accessible that have been deposited by
+asteroids over the course of billions of
+years. Uh you have your platinum group
+metals, you have many other resources
+that have been implanted on different
+locations in the moon because of that
+asteroid bombardment. In addition, you
+have solar wind implanted volatiles. So
+you have these really rare uh isotopes
+that we don't get here on earth because
+we have a magneettosphere and we are
+protected by our atmosphere. So you have
+these uh think solar winds like uh
+volatiles, hydrogen, your heliums.
+&gt;&gt; And let me stop you there. I
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; I'm obviously a huge fan of going to the
+moon for helium 3. I mean because we can
+use that for clean fusion
+&gt;&gt; and Mims is always talking about helium
+3 here off behind the scenes of bold
+names. So we'll get to that. Yeah, we we
+can use it for cooling quantum
+computers. I'm serious. The future's
+helium 3 from the moon. But I got to ask
+you, um, setting these resources aside
+because it is going to take a long time
+to build up to the point where we can
+economically extract those from the moon
+as opposed to the deep ocean where we
+can get rare earth elements or existing
+gas wells where we can extract helium 3.
+um in the near term it is government
+contracts right and and and NASA has
+this Artemis program to go back to the
+moon could you talk about that what are
+the near-term
+government efforts that are going to
+bridge the construction of uh building
+this lunar economy getting us from where
+we are zero to the point where it's like
+this is self- sustaining economically.
+Yeah, and fair enough, Mims. It is going
+to take a little bit of time to set up
+the infrastructure to access these
+resources at scale. Uh, one thing I like
+to uh point out is it's actually easier
+to go to the moon than it is to mine the
+deep ocean. If you start thinking about
+the bureaucratic and environmental
+challenges that basically drag mining
+the deep ocean is going to present and
+the damage that can be done with that
+type of resource extraction, it's a lot
+easier to go to a lifeless body such as
+the moon or asteroids and actually
+extract resources from there. But to
+your point, we don't have the
+infrastructure right now to actually go
+and extract the resources from the lunar
+surface. So it is a lot of government
+contracts um and it is complimentary
+customers that are either doing
+technological demonstrations uh science
+and exploration missions or using it as
+uh branding and marketing campaigns. So
+to talk a little bit about our first
+missions and then I'll I'll get into uh
+what we're doing with the Artemis
+campaign and what we're doing with NASA
+more broadly. Our first mission just
+went to the moon a couple months ago. So
+we actually landed at the lunar south
+pole. Now, it wasn't a perfect landing
+from our landing provider. It was an off
+nominal landing.
+&gt;&gt; That was the intuitive machines landing.
+&gt;&gt; The intuitive machines landing. Exactly.
+I
+&gt;&gt; And for those who don't know, it landed.
+It had all these great payloads on on
+board, including yours
+&gt;&gt; and it tipped over. And this was I think
+the second time it happened. They have a
+real tipover problem. And there's nobody
+there to just like push it back.
+&gt;&gt; Exactly. Like if something happens, you
+are on your own. you have to figure out
+how to uh operate in that extreme
+environment all by yourself. I am
+confident they'll nail the next one uh
+learn from the first two missions. Uh
+but with that being said, we were
+trapped under the lander so we couldn't
+deploy our rover. Uh but as a part of
+that mission to talk on the
+commercialization because this was a
+fully commercial rover, we had uh
+payloads from MIT. We had a resource
+camera that was actually going to help
+us map the lunar south pole. We had a
+tiny little Astraan, so like a 20 g
+robot that was going to R2-D2 its way
+around our rover and basically give us
+feedback and analytics on how our rover
+was performing. We had brand partners
+back here on Earth.
+&gt;&gt; Were there any brand stickers on your
+rover?
+&gt;&gt; No brand stickers on our rover. Um, but
+we did have uh a lot of payloads on
+board. So, one of my favorites, Mims, is
+we have our own Lego set. So, we are the
+first space company in history to have a
+Lego set. The inner 5-year-old in me is
+like extraordinarily ecstatic about
+this. But that Lego set, it's a Lego
+Technic set, has a miniature of our
+rover that actually flew to the lunar
+surface. So, of course, that is uh
+commercialization at a smaller scale,
+but in terms of the awareness and
+getting people familiar with what's
+going on as part of the Aremis programs,
+that is massively invaluable.
+&gt;&gt; Yes. And but to but to get to the bigger
+picture though, ultimately we're
+building a base on the moon. Like we're
+going back to the moon, human
+habitation, permanent human habitation,
+not just, you know, uh what do they call
+it? Boots and flags or whatever. You
+show up and you go
+&gt;&gt; flags and footprints. Exactly.
+&gt;&gt; Flags and footprints. So we are going to
+have a base on the moon. This is NASA's
+stated goal. And if we don't do it, then
+the um like upside down version of the
+Artemis coalition, which is like Russia,
+China, Venezuela, and a bunch of other
+funloving countries, they're going to do
+it, too, because they've said they're on
+their way to doing it as well.
+&gt;&gt; And that's it, Mims. And the reason
+that's important is think about think
+about it this way. If nothing else, even
+if you don't believe anything with the
+resources on the moon, even if you don't
+think that's going to happen for two or
+three decades, the moon is Earth's
+naturally largest orbiting satellite. If
+you think of it just as a giant
+satellite in the sky, think about the
+Earth observation equipment you can put
+on there. Think about the weaponry that
+hopefully never gets put on the lunar
+surface, but it is the ultimate high
+ground in near Earth space. there is no
+better strategic or military positioning
+if you look at it in the worst case
+scenario. So that's that's what we don't
+want to happen. Now if you look at it
+from the other side, the value that the
+moon can bring as the naturally largest
+orbiting satellite of Earth to the Earth
+economy right now is pretty massive.
+Even if you start discounting the
+resources and the future of the
+resources in space. So right now America
+is going back to the moon. there is
+nation state competition and it is
+critical for our national defense uh for
+us to have a continuous presence in
+system or space and to keep pushing it's
+it's important for us uh for that
+long-term goal of resources to get our
+footprint there now
+&gt;&gt; we reached out to Intuitive Machines and
+NASA they did not respond to a request
+for comment coming up after the break
+the mantra failure is not an option
+doesn't apply to the age of private
+space missions. That's because every
+mission is so much cheaper than a
+typical NASA one that companies can
+afford to fail. Though that doesn't mean
+it's not tough to accept. You know, if
+you guys see the live stream, uh it it's
+just kind of like a shock moment when I
+think the Intuitive Machines folks saw
+the lander go on its side. You know, for
+us it was it was a bit of a heart drop
+cuz you spend a couple years on this
+first mission and it's it was it was a
+bit heartbreaking, but at the same time
+it was it was exciting because we made a
+rover that got all the way to the moon.
+&gt;&gt; Stay with us.
+[Music]
+Okay, so we know the the the universal
+picture here. Uh let's talk about where
+your company fits into this economy. Who
+are you guys and what sort of
+opportunities are you seeing right now?
+&gt;&gt; Yeah. Uh our company Lunar Outpost uh we
+are the leader in mobility uh and
+robotics for extreme environments. So we
+focus in space. We have seven missions
+going to space. Uh five of them lunar
+surface. Uh two of them in cis lunar
+space. Uh a mix of customers from NASA,
+the department of defense, European
+Space Agency, Australian Space Agency,
+Luxembourg Space Agency, and many
+others. Now, where we're at at the
+moment, we're about 150 people. Uh our
+headquarters is in Golden, Colorado,
+right outside Denver.
+&gt;&gt; Close to Kors, I hope.
+&gt;&gt; Close to Kors. Yep.
+&gt;&gt; You're fueled by Kors beer. I hope you
+don't need rocket fuel.
+&gt;&gt; We we do not work with them yet. So I I
+won't say the tagline of fueled by Kors
+beer, but we'd love to work with them.
+Uh I'm pretty sure NASA would say no
+drinking and driving on the moon,
+though. So it's uh
+&gt;&gt; But how do you get to the moon? I mean,
+you're not working on rockets. I mean,
+who's who's getting you up there?
+&gt;&gt; So I think a big shift in the space
+industry is you don't have to work on
+rockets anymore to be relevant. Uh it
+it's very similar to the internet in the
+'9s when you had the network and the
+infrastructure in place. Uh thousands of
+companies sprung up around that baseline
+transportation or baseline communication
+infrastructure the same
+&gt;&gt; the fiber optic companies the Cisco of
+the world
+&gt;&gt; exactly n exactly
+&gt;&gt; and now we have those right SpaceX and
+Blue Origin and the rest
+&gt;&gt; 100%. And there's a dozen launch
+companies that are pretty good right
+SpaceX obviously is dominant. Blue
+Origin's coming up. They're figuring
+things out. Uh you have Firefly that's
+launching and then you have Rocket Lab.
+So you have a lot of good companies out
+there that are working on that
+infrastructure layer. So now us as a
+company, we have to ask what's next? How
+do we make this a viable long-term
+growing uh sustainable uh sustainable
+economy? And that's where our company
+comes into play. For anything you want
+to do in space, you have to have robotic
+systems. For anything you want to do in
+space, you have to have advanced
+spacecraft. Uh realistically, putting
+humans up in space is a very uh
+expensive and arduous process right now.
+We're hoping to make that easier over
+time. But that means all of the power,
+all of the communications, the launch
+and landing pads, the habitats, all of
+that is going to be built and maintained
+by robotic systems. And that's what we
+do at Lunar Outpost. So that's what
+we're doing now. And when you look at
+our first seven missions that are going,
+including the one a couple months ago,
+these are scouting missions, these are
+exploration missions, and then they
+start transforming into infrastructure
+missions. So, we are setting up uh on
+our first mission, we actually flew
+Noia, uh the 4G LTE, their 3GPP
+technology.
+&gt;&gt; Yeah, they were going to make the first
+cell phone call on the moon, but once
+again, this rover tipped over and they
+couldn't do it.
+&gt;&gt; The lander tipped over.
+&gt;&gt; That's right. Not the rover. Your rover.
+Your rover was fine. It was trapped
+inside though.
+&gt;&gt; Maybe paint us a picture a little bit.
+So the lander gets there and it kind of
+falls over. So what?
+&gt;&gt; Yeah. So our rover is like in a garage.
+Um so it's a thermal garage. Keeps us
+nice and toasty along the way. And it is
+kind of ready to be deployed. So we did
+full checkouts in this space. Uh and two
+of the machines did a great job of
+getting our uh packets back if you will.
+uh we got to test our advanced compute,
+our radiation hardening, a lot of our
+important subsystems, and so we know
+everything's ready to go. And so we're
+like
+&gt;&gt; stuck in that garage essentially, right?
+&gt;&gt; Yeah. So when we were cycling uh around
+lunar orbit, uh we're getting excited,
+you know, everyone's everyone's getting
+ready to go. Um we see the thermal
+cycles as we get closer and closer to
+the moon. Uh, and then, you know, if you
+guys see the live stream, uh, it it's
+just kind of like a shock moment when I
+think the Intuitive Machines folks saw
+the lander go on its side. You know, for
+us it was it was a bit of a heart drop
+because you spend a couple years on this
+first mission and it's it was it was a
+bit heartbreaking, but at the same time
+it was it was exciting because we made a
+rover that got all the way to the moon,
+survived an off nominal landing and got
+to test all these critical components.
+So, we got stuck um in our garage. The
+lander because it's landed on its side
+is actually on top of our garage. So we
+were like a little kickstand more or
+less for the lander that allowed them to
+communicate back to Earth still. So we
+served our purpose, you know, we we
+helped them get packets back to Earth.
+Uh but unfortunately because the lander
+was on top of us, our garage couldn't
+deploy and we couldn't actually get out
+of the uh get out of the garage.
+&gt;&gt; Now I got to ask about this failure in
+the context of NASA's new strategy
+because your background for those who
+don't know, you were at Loheed Martin,
+right?
+You're you you know you have family
+members working on this company with you
+like your dad was a vice president Lheed
+Martin you've talked about growing up
+close to a space center when you were a
+kid and NASA has shifted in a way that
+makes your company possible right
+they're contracting um private companies
+of course the challenge then is that uh
+unlike when it's all under one big roof
+everybody gets to move fast but maybe
+those learnings don't get carried over
+mission to mission it does feel like on
+this particular out of the last I think
+four landings from the US on the moon,
+three of them failed. One was a huge
+success, it does feel like, well, what
+do you expect? Like this is a bunch of
+startups. No shade on you again. But I
+mean, would this have been better if
+NASA had been responsible for this and a
+bunch of engineers who knew what they
+were doing, who'd been on five previous
+missions could land this thing? You
+know, I I'll push back a little bit and
+say you can land tip 10 clips landers uh
+for the price of one NASA lander. So,
+even if you get one of them down, which
+if you saw Fireflies landing uh a month
+or two ago, Austin, Texas company,
+beautiful, absolutely beautiful. We got
+great images, we got great video down,
+that one landing would have cost at
+least 10 times the amount if NASA had
+run this by themselves instead of
+partnering commercial industry. So in
+just in terms of the investment like the
+capital deployed versus scientific
+return, the eclipse program has already
+given a return on investment higher than
+uh historically run NASA mission. Now if
+you look at the future and if you look
+at the groundwork that's being laid now
+by startups and commercial companies
+like ours, it it's going to have a few
+failures and and that's um inevitable.
+But at the same time um if you are able
+to continue uh making progress, if you
+learn from your mistakes, if you iterate
+on it and keep the capital flowing,
+right, if you have real revenue as a
+space company uh moving forward and keep
+that growth profile, we have seen a lot
+of companies be extremely successful.
+So, of course, uh you have the new age
+of companies. I think Voyager just uh
+you know, went public via spa a couple
+weeks ago, uh that are doing well on the
+open markets. Um but then hearkening
+back to the most successful yet, which
+is still in the private uh private
+markets, SpaceX, those types of failures
+are okay as long as you learn from them.
+Now, you can't repeat the same mistake
+two, three, four times and expect NASA
+to keep funding you or the DoD to keep
+funding you. uh there there's a lot of
+competition out there. There's a very
+high bar and expectations because of all
+the amazing things we've accomplished in
+space so far. So there is pressure on
+these commercial companies to succeed.
+Not only from a market uh standpoint if
+you're trading publicly, from an
+investor standpoint if you're trading
+privately uh but also from our largest
+customers.
+&gt;&gt; One of the big contracts you're working
+on uh is for NASA. It's a space truck
+and I'd love to hear more about that.
+Because when I think of a lunar rover, I
+think of one from the 1970s, like a
+lowprofile golf cart with really big
+wheels. Uh, what does yours look like
+and what's it going to be doing on the
+moon?
+&gt;&gt; And how much was the Cybertruck an
+inspiration?
+&gt;&gt; I like the Cybert truck. I know it's
+it's very polarizing. Some people hate
+it, some people like it. Uh the profile
+reminds me of the F-17A from Lockheed
+back in the day when like the computers
+just couldn't make the well- modeled
+stealth technology, so they did these
+big flat angles. Um so that that
+probably biased me a little bit, but uh
+the LTV, the lunar terrain vehicle, uh
+this is a pretty critical program from
+NASA. Uh our Eagle lunar terrain vehicle
+is going to serve as the backbone of the
+Eagle.
+&gt;&gt; The Eagle. Yeah, we we had
+&gt;&gt; it's better than like it's better than
+uh the pony or the Mustang. Maybe the
+Eagle.
+&gt;&gt; It's It's pretty American. It's And I
+got a golden eagle here on my vest. It's
+uh I I don't know that that call out
+from Apollo, the Eagle has landed. Still
+is still is the golden age of American
+space flight so far.
+&gt;&gt; That's the inspiration. So for for
+gearheads, just lay it on us like what
+are the specs on this thing? 0 to 60.
+How much can it tow?
+&gt;&gt; Cup. How many cup holders? How many cup
+holders? No cup holders, but this is a
+heavy duty truck. Uh, this can tow
+thousands of kilograms. This can carry
+two fully uh pressurized suited
+astronauts. Um, over 800 kg of payload
+in the bed. It can tow thousands of kg.
+Now, it has a fully autonomous and
+robotic arm on the back. Uh, so when
+astronauts aren't there, it can be used
+to build and maintain the infrastructure
+of space. So, as I was talking about a
+little bit earlier, the power
+communications, uh, the habitats, all of
+that is going to be set up robotically
+and autonomously with this heavyduty
+space truck. So, Eagle's not only meant
+as the new age of transportation for
+astronauts, uh, it's not only meant to
+enhance the science and exploration
+we're getting from the Aremis campaign.
+This is the vehicle that makes a
+sustainable presence in space possible.
+So these the Eagle LTV is going to set
+up the first outpost on the moon and the
+Eagle LTV a variation of it is
+eventually going to help set up cities
+on Mars.
+&gt;&gt; How long is this thing going to last?
+Cuz because of course that's a big issue
+with equipment on the moon,
+&gt;&gt; which is hard.
+&gt;&gt; Whenever I hear how harsh the
+environment of the moon is, I think to
+myself,
+&gt;&gt; this is hell. No one should ever go
+there.
+&gt;&gt; No one should ever try to build there.
+You're better off trying to build at the
+bottom of the Mariana's Trench because
+you have you have a dust that sticks to
+everything that is ultra sharp that will
+shred anything that will destroy any
+gearbox
+and it's ubiquitous and you can't escape
+it or brush it off. And oh by the way,
+the temperature range is like what minus
+200 C to plus 200C day to night
+something like that.
+&gt;&gt; You're partnered with GM, right? Why
+don't you take a Hummer up there? Yeah,
+&gt;&gt; we're partnered with General Motors,
+Goodyear, Lidos, and NBA Space. Um,
+General Motors and Goodyear actually
+helped with that original Apollo moon
+bugging. Not many people know that, but
+they have spaceflight heritage with that
+Apollo LRV, but as you were saying,
+Memphis, this is a brutal environment.
+Like, it's an absolutely brutal
+environment for humans or robotic
+systems. This contract wouldn't have
+been possible a decade ago just in terms
+of the advancements we've made in
+robotics, artificial intelligence,
+material science. So there are very high
+standards from NASA on this. They call
+it like class A mission. If astronauts
+are going to drive around this in this
+vehicle, it has to be absolutely
+bulletproof. So the validation and
+verification campaign, the testing that
+we're doing is extraordinarily
+extensive.
+&gt;&gt; Okay. You've also mentioned using GM
+battery technology. So, this thing's
+going to be like on the same Ultium
+platform that's in the electric Hummer.
+&gt;&gt; We leverage a lot of the heritage from
+the Ultium platform. Um, we do have
+different cells and so I'll leave it to
+GM how they want to talk about the cell
+technology. Uh, but a lot of that
+learning and the research and
+development that has gone into that, a
+lot of the uh control electronics, all
+of that is being reutilized and then
+qualified for space. And going back the
+other way, the lessons learned that
+we're going in this uh like extreme
+testing campaign, as you said, negative
+200 degrees Celsius to plus 200 degrees
+Celsius that is being brought back to
+the General Motors vehicles we have here
+on Earth. Uh so it's a pretty cool
+mutual benefit because uh it is such an
+extreme environment because it
+necessitates technological advancement.
+Those learnings are being brought back
+to Earth.
+For now, companies like Lunar Outpost
+rely on government agencies to fund what
+they're doing, which seems precarious.
+But what larger things are at stake in
+the new space race?
+&gt;&gt; Nation state competition is critical for
+space. It always has been. Um, and for
+good reason. You know when we start
+looking at the moon, when we start
+looking at the asteroid belt, there are
+those near infinite amount of resources
+available in space which if we can
+access that, that is a fundamental step
+change for humanity. Whoever controls
+those resources will control the future
+of where we go as a species.
+&gt;&gt; More on that when we come back.
+I I listen to you uh say all that stuff
+and it makes me think, gosh, this is
+going to be expensive, right? How much
+money what's the sticker price on one of
+these eagles? Or maybe another way of
+asking it is how much money do you need
+to make this happen? I mean, not just
+become profitable, but to to fund what
+your ambitions are.
+&gt;&gt; If you're looking at the lunar terrain
+vehicle services program, it's an Idiq
+contract with NASA. All three vendors
+are publicly uh posted pricing. So, you
+have one vendor in at 1.69 total. Like,
+this is the absolute maximum the
+contract can hit. Uh we're at 1.72.
+Another vendor is at 1.9
+&gt;&gt; $1.72 billion.
+&gt;&gt; $1.72 billion. Uh yeah, exactly right.
+&gt;&gt; And so it's it's just a uh spread in
+terms of who NASA's going to down select
+on. NASA's only going to pick one of
+these vendors uh to provide services
+long term. Now, just to be clear, that's
+not the price for one truck. So that's
+the price for us to provide services for
+a decade on the lunar surface. It could
+be multiple vehicles and it could be
+many different mission profiles. Uh
+realistically the pricing is going to be
+lower than that. Uh but just because we
+are in a competitive phase, I'm not
+going to say exactly how much lower than
+that quite yet.
+&gt;&gt; Well, I mean I asked because you know
+obviously a lot of nostalgia is seeped
+into the DNA of this new space race,
+right? Ar the Aremis program, the sister
+of Apollo uh in in mythology. Uh it
+Artemis hasn't gotten the the greatest
+start, right? It's super behind
+schedule, right? And now there's
+concerns about NASA's budget being uh
+dramatically cut by the Trump
+administration. Where does that where
+does that put things in this this race
+to the moon?
+What's pretty cool about where we're at
+and just to look at I would say the
+opportunity,
+we as a space industry for the first
+time have reached a critical mass that
+we're moving forward uh regardless of
+where the government funding is. Now
+that being said, the cy lunar market and
+the cis lunar economy absolutely needs
+government funding to help us get to
+that tipping point. But the broader
+space industry is making rapid progress.
+That being said, we are huge proponents
+of what NASA is doing, not only in the
+human space flight and exploration uh
+portion of this, but also the science
+and exploration piece. So, we are um
+looking forward to seeing how the
+budgets shake out. Obviously, that
+influences our strategy, but I will say
+there's a lot of great people uh in the
+NASA community and there's a lot of
+strong support amongst the public for
+NASA. We are sending our lunar terrain
+vehicle Eagle to the moon regardless in
+2029. So, we are going to be on the
+moon. If astronauts are there at the
+same time right away in 2029, perfect.
+You know, we'll we'll start providing
+those services to NASA. If astronauts
+are there a year later or two years
+later, that's okay as well. We'll start
+providing the robotic services to build
+out the infrastructure to get the
+surface of the moon ready for astronauts
+when they arrive so that those habitats
+and the launch and landing pads and the
+powering comms I was talking about
+earlier.
+&gt;&gt; I mean, it seems like the friction of
+the cold war really helped funding and
+interest in going to the moon the first
+time.
+We are kind of at a point where maybe
+we're, you know, it's not quite a cold
+war yet, but we are definitely some cold
+tensions between some major companies,
+major world powers out there. And I I'm
+curious, what do you see in the current
+geopolitical situation that does that
+gives perhaps hope of renewed interest
+or a potential to to kind of return to
+that space race? I think China, I think
+Russia. What's your read on this?
+&gt;&gt; Nationstate competition is critical for
+space. It always has been. Um, and for
+good reason. You know, when we start
+looking at the moon, when we start
+looking at the asteroid belt, there are
+those near infinite amount of resources
+available in space, which if we can
+access that, that is a fundamental step
+change for humanity. Whoever controls
+those resources will control the future
+of where we go as a species. Now, it is
+going to take some time to get there.
+So, hearkening back to the national
+security and defense side of things, the
+moon is a giant satellite in Earth
+orbit. Whoever controls that has the
+biggest satellite in Earth orbit. So,
+think of it as a spacecraft.
+nation state competition is certainly
+the downside of um or it can be seen as
+a downside in terms of how we utilize
+space but it is critically important to
+drive funding into the space and
+aerospace economy. Um if you look at it
+from the opposite way the flip side of
+the coin uh space is also the ultimate
+soft power play. uh if you look at the
+Artemis Accords, the nation state
+cooperation
+uh that's happening, I think we're above
+50 countries that are working with the
+United States of America.
+&gt;&gt; This is the international kind of
+essentially like treaties among uh
+countries such as the US and and other
+uh allies out there.
+&gt;&gt; Yeah, exactly. It's it's 50 countries
+allied together for common purpose to go
+to space and make it sustainable. like
+just doing that together uh bolsters our
+cooperation internationally to the point
+where now it starts uh trickling into
+other parts of society and other parts
+of the ecosystem. So you start getting
+that technological cooperation, you
+start getting that political
+cooperation, you start getting that
+economic cooperation in space, it has
+multiplied benefits across each of these
+countries that are a part of the Artemis
+Accord. So, as I said, over 50 countries
+allied with the United States to do
+this, which is massive. Um, of course,
+you do have Russia and China on the
+other side, and realistically, it is
+serious competition. China has made a
+massive amount of progress in a very
+short period of time. Um, they're going
+to continue their campaign and they're
+pressing hard to get astronauts on the
+moon by 2030. So, we are competing with
+China. We are competing with Russia. Uh,
+and there's a lot at stake, whether it's
+resources or whether it's national
+security.
+&gt;&gt; A big player in getting your moon truck
+to the moon is SpaceX's giant spaceship,
+Starship,
+&gt;&gt; that's currently under development.
+We've seen several versions of the ship
+explode in recent months, and it's still
+very much a work in progress.
+&gt;&gt; Can you continue to rely on Musk's
+company to get the Eagle to the moon, or
+is there a backup? are are basically on
+hold as they figure it out.
+&gt;&gt; Yeah, I mean, as any good company does,
+we have uh alternate paths. So, we're
+getting to the moon no matter what in
+2029. Um, I love Starship, the vision
+behind it. I think it's a really
+exciting launch platform that's an order
+of magnitude more in capabilities than
+we currently have. Uh, what I love about
+the space industry though is like we're
+no longer um just one path, right?
+There's many paths and sometimes they're
+competing, sometimes they're working
+together, but it's providing all of
+these variations uh to a point where
+there isn't that uh hey, one thing fails
+and then we're all we're all kind of
+screwed if one thing fails. SpaceX is
+dominant. There's no doubt about it,
+right? Like with their Falcon platform,
+they are dominant. Uh but you do also
+have Blue Origin and Blue Origin,
+they're working in the background. you
+know, I I think they're getting things
+uh in place to be a serious competitor
+long term. And then, as I said, you do
+have Rocket Lab uh and you do have these
+other medium launch and landing uh type
+capabilities that are out there that are
+viable alternatives. Uh not quite to the
+scale of Starship or what Blue Origin's
+doing with Blue Moon or their HLS
+platform. Uh but there are other
+options. I find Blue Origin fascinating
+because it feels like a a classic Jeff
+Bezos play where uh you know it's the
+turtle and the hair but you know never
+bet against in this case you know the
+turtle the the slow build being really
+careful about uh you know each stage of
+getting to what comes next. You were at
+Remar. I'm just curious, you know,
+that's a that's a an Amazon Jeff uh
+event. Have have the two of you met?
+Have you gotten a chance to talk about
+this? What does he think about your
+vision?
+&gt;&gt; I have met Jeff. Uh I have no idea if he
+remembers me or not. I'm I'm sure he
+meets many people.
+&gt;&gt; How how could he not?
+Um he he was a very very cool guy and
+you know obviously like talks like an
+expert about talks as an expert about
+what I was just talking to him about in
+a general sense. So you can never
+underestimate Jeff. You can never
+underestimate Elon. I think the space
+industry is very lucky to have two
+people that are extraordinarily
+competitive that want to succeed that
+are competing against each other. I
+think there's nation state competition,
+but we also have two of the greatest
+entrepreneurs of our time that are now
+competing against each other in space.
+So, what Jeff is doing with Blue, what
+Elon's doing with SpaceX, it is going to
+be an exciting next decade in space to
+watch these two compete. And I think at
+the end of the day, us as humanity,
+we're going to win.
+&gt;&gt; And it's interesting because they have
+they have two very different visions,
+right? Musk very much wants to go to
+Mars. He thinks the moon has been done
+essentially. I mean, he's talked about
+the moon, but Mars is his priority.
+Bezos is about the moon. Do you think
+we'll actually see man missions to Mars
+in our lifetime?
+&gt;&gt; I do. Um when we start looking at the
+pace and this is just a kind of base
+analysis from my side. when we start
+looking at the pace of how quickly not
+only we're moving uh at at lunar outpost
+but that other companies are moving
+SpaceX, Blue Origin, Stoke Space, many
+others. How quickly other nations are
+now moving, China uh and Russia in
+particular, we are seeing a completely
+different ecosystem than we saw for the
+last 50 years. like we had Apollo uh
+then we had you know the Mars
+Perseverance Rover and you know a few of
+the other Mars rovers and we had the
+International Space Station and those
+were all great accomplishments but the
+pace actually slowed down pretty
+drastically in the space industry like
+the pace at which we're involving uh the
+pace at which we were evolving uh was it
+was slower. we have increased that pace
+and increased that pace to now an
+exponential curve over the course of the
+last decade. Uh so if we can continue
+that pace, if we can continue to attract
+investment as we have and produce
+results like so at Lunar Outpost, we've
+uh I think our average revenue growth
+over the last seven to eight years is
+like 2.4x each and every year. And so if
+we can keep showing that value to our
+customers, to NASA, to the Department of
+Defense, to the Australian Space Agency,
+ISA, if we can keep growing the
+commercial side of the lunar economy,
+and adding value back here to Earth, I
+do think there is going to be the
+funding. I think there's going to be the
+vision, and I think there's going to be
+the technology that allows us to get to
+Mars uh within our lifetimes.
+&gt;&gt; Okay. I just got to ask you one really
+quick followup, though. Yeah,
+&gt;&gt; you're bringing trucks to the moon. Uh,
+you know, do we really need car culture
+on the moon? Why why couldn't we have a
+walkable moon or like moon bicycles?
+&gt;&gt; Moon bikes.
+&gt;&gt; Oh, man. I
+&gt;&gt; moon scooters.
+&gt;&gt; What happened to moon urbanism, Justin?
+&gt;&gt; Yeah. Jeez. Taking big car to the moon.
+&gt;&gt; It is a massive truck. It is 100% a
+massive.
+&gt;&gt; Are we gonna have cars cars and coffee
+in the south pole of the moon?
+&gt;&gt; You know what? I've been trying to
+convince NASA to let me like have a
+radio that you can control with your
+hands that pipes in music directly to
+the astronaut's helmet, but um I haven't
+convinced them yet. So, I I want to have
+a radio. I I'd love it if I could hook
+up to their life support system. They
+can get some coffee, but I don't think
+NASA's going to let me do that anytime
+soon. Like, you guys got to come out and
+drive a space truck. If you're ever out
+in Colorado, please let me know because
+it is fun. Like, it it's a mix between a
+dune buggy and a heavy duty truck. So,
+it is actually an absolute blast to
+drive. It's enjoyable, really smooth
+suspension. Um, but it's also just kind
+of a new and novel way uh to traverse on
+the moon. So, very much a truck, but it
+has like zero point turns. Uh, you can
+go over these massive like rocks or
+rocks and obstacles. You can go in and
+out of like these pretty steep craters.
+So, very much a truck, but mixed with
+the dune buggy.
+&gt;&gt; That's appealing, but I don't I don't
+think Tim even has a driver's license.
+&gt;&gt; Well, not for the moon. Oh, no. I have I
+I have a driver's license. I think we
+got to leave it at that. Uh Justin,
+thank you. Uh I can't wait to drive this
+vehicle on the moon uh and and talk to
+you some more.
+&gt;&gt; Yeah, absolutely. Tim Mims, thanks for
+having me.
+&gt;&gt; We reached out to the Chinese embassy in
+Washington DC. A spokesperson said the
+Chinese government has always adhered to
+the idea of using and exploring outer
+space for peaceful purposes. We reached
+out to the Russian embassy in Washington
+DC. They did not respond to a request
+for comment. We reached out to Blue
+Origin, which declined a comment. We
+also reached out to SpaceX, which did
+not respond to a request for comment.
+Stick around. Tim and I unpack what we
+just heard from Justin Cyrus, and talk
+about whether we're really in a new
+space race.
+[Music]
+So, Justin Cyrus compares the space
+industry to something like the internet
+in the 1990s. What do you think he's
+getting at there? Well, for one, you've
+got the government funding propping up
+the whole thing because of course that
+was key to building out the original
+backbones of the internet,
+&gt;&gt; right? The Alore money.
+&gt;&gt; That's right. The Al Gore money. Get all
+that fiber in the ground. But of course,
+what we're doing instead is building
+this physical infrastructure uh on the
+moon and in, as they like to say, cis
+lunar space. So, not a week goes by that
+I don't get a pitch about somebody
+trying to basically set up literally the
+internet but in space 4G on the moon.
+But of course, uh you know what Justin
+Cyrus and the other folks who are
+competing for this NASA gig for a truck
+want to build is a physical
+infrastructure. Well, you know, one
+thing I want to disagree with is I don't
+think we're quite to the 1990s yet. Uh
+because we don't we're not yet on the
+moon, right? But what gives all these
+folks so much hope is that they can get
+there in a more affordable way, right?
+They look at what SpaceX is doing and
+they're betting huge on the idea that
+that Elon Musk's giant spaceship
+Starship is going to work and is going
+to make taking giant pieces of
+machinery, parts of life that are going
+to be needed to on the moon to the moon
+in a rather affordable way. So I think
+that is one of the big differences on
+this kind of bigger dream of the lunar
+economy that you know people have
+dreamed of going and living on the moon
+and outer space for a long time but it's
+been super super expensive and the kind
+of the vision that Musk and Jeff Bezos
+with Blue Origin are kind of putting
+forward is uh making accessing outer
+space more common more affordable.
+&gt;&gt; Yeah. What do you make of this idea that
+sooner rather than later there will be a
+lunar economy that is self- sustaining
+or at least a break even because this is
+all government contracts right now. So
+Justin's company and the others are all
+competing for this NASA contract for a
+moon truck, right? The moon truck
+doesn't happen without taxpayer money.
+What do you make of this claim that this
+is going to actually be commercialized?
+Yeah, it's a it almost feels like a
+chicken or egg sort of situation. Is
+there an economy on the moon? Well, not
+currently, right? You you hear the
+dream, right, that essentially there's
+going to be all this mining potential in
+Helium 3, which I know is a big uh topic
+of fascination for you. Yeah. And don't
+forget those those critical minerals.
+It's right there in the name. They're
+critical,
+&gt;&gt; right? I thought it was funny when I
+said to Justin, you know, aren't we
+going to go to the bottom of the ocean,
+dig these up first because of course
+deep sea mining is getting big. And it's
+a lot easier to go to the bottom of the
+ocean, it turns out, than to go to the
+moon. And he said, well, we wouldn't
+want the environmental destruction. But
+now I'm picturing, you know, we all look
+up at the moon, its iconic face, the man
+in the moon. I mean, are we going to
+have giant open pit mines on the moon?
+What's it going to take? There's going
+to be I guess there won't be a brown
+cloud of pollution up there, but we're
+ready to start tearing it up, right? You
+know, this is like like the the plotline
+of uh Expanse, right? Or some of these
+science fiction movies where kind of
+industry takes us into the outer reaches
+for all these kind of messy materials
+and and we send people off to get it. In
+my own research for this interview, the
+experts that I found the most credible
+said, "We actually don't know what the
+killer app for the space economy or the
+lunar economy is yet, and hopefully we
+will discover it." So, I guess somewhere
+out in space there's a mystery substance
+or some chain of events that helps us
+leverage
+travel within our solar system in a way
+that we find economically advantageous.
+But I really don't think that we are are
+there yet. That said, I do admire the
+folks who are trying to get us there
+because as much as they are private
+companies, they're really taking on the
+role of creating an infrastructure that
+allows for the same kind of scientific
+work and scientific exploration that
+NASA has done forever, but now of course
+it's being privatized. I guess that's my
+last question for you, Tim. What do you
+make of the way that NASA has moved
+toward
+private contractors for what used to be
+core functions of what the agency did?
+&gt;&gt; Well, that's kind of the the the
+vision that Musk has laid out, right?
+That uh NASA was too bloated, too
+expensive that he wanted to show and get
+excitement for going to space with
+SpaceX. So, that was kind of the idea,
+get people excited about going. So, in a
+lot of ways, SpaceX has been hugely
+successful, right? There are a whole
+bunch of copycats wanting to do the same
+thing. Justin mentioned that the moon
+is, you know, in terms of nearby space
+anyway, it's the ultimate high ground,
+which of course is a is a an old term
+when you think about taking the high
+ground with your archers or your
+artillery. Do you think that the moon is
+going to get militarized? Is that
+inevitable? Well, we've already seen
+space in some ways become that way,
+right? Uh a natural place for a cold
+war. In some ways, it's probably good
+for those who are prospet
+uh somebody else. That's what helped the
+the Apollo missions back in the day
+trying to beat the Russians. Um so, in
+some ways, having an adversary like that
+is good. Uh, I don't think some would
+see it as a good thing to be wanting to
+find a new place to fight that. Let's
+take peace to the moon.
+&gt;&gt; It's really too bad. But I want to paint
+an alternate picture here. It is
+possible to imagine a future in which
+space is once again a place where
+combatants on either side of a cold war
+can collaborate. Right? We saw that uh
+at the end of the last cold war with the
+US and Russia collaborating on the
+international space station with Russia
+being the sole way to bring American
+astronauts to space for a long time. So
+imagine a world in which Sam Alman's
+Helon or one of these other fusion
+companies actually makes it work. They
+need a ready supply of helium 3. The
+best place to get it turns out to be the
+moon. The US and China collaborate on an
+international mission to establish a
+moon base so they can send regular
+packages of helium 3 back to the earth
+and we get that unlimited fusion energy
+we were promised. We use it to solve for
+and adapt to climate change. There could
+be a bright future here. It doesn't have
+to just be, you know, moon tanks
+shooting at each other while we fight
+over the high ground and the dwindling
+supply of critical minerals that are
+available on the moon.
+&gt;&gt; Or
+how about this? We just send all the
+politicians to the moon
+so they can rule us from afar in luxury.
+And that's bold names. We're wrapping up
+this season, but we'll be back with new
+episodes on Fridays starting September
+12th. We'll also be posting videos of
+our episodes on YouTube starting then.
+So, make sure you subscribe to WSJ
+Podcasts and follow Bold Names. Our
+producer is Ariana Aspiru. We had
+additional help this week from Danny
+Lewis and Kasha Brousalian. Our fact
+checker is Aperna Nan. Michael Lval and
+Jessica Fenton are our sound designers.
+Jessica also wrote our theme music. Our
+supervising producer is Katherine
+Milsam. Our development producer is
+Aisha Al-Muslim. Scott Saloway and Chris
+Sinsley are the deputy editors and Fana
+Patterson is the Wall Street Journal's
+head of news audio. For even more, check
+out our columns on wsj.com.
+We've linked them in the show notes. I'm
+Tim Higgins
+&gt;&gt; and I'm Christopher Mims. Thanks for
+listening.

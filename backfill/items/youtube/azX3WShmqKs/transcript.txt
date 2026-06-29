@@ -1,0 +1,2477 @@
+Kind: captions
+Language: en
+He said to me, "What makes you think you
+can be the CEO of Clear Art?" In my
+mind, I was like, "Good question." I
+leaned over the table and I said,
+"Because I am a complete [&nbsp;__&nbsp;]
+animal."
+So that was that meeting
+and he still said no.
+[Music]
+So Karen, I think a great place to begin
+is to just talk a little bit about clear
+first. We're going to rewind the clock
+in a few minutes and go back to the
+beginning and tell your entire story.
+Everyone knows Clear because they've
+experienced it in the airport or at a
+stadium or something else. I more want
+to know uh the version of Clear that
+people might not appreciate the business
+and the product having just experienced
+it that way. Um so maybe let us in on a
+little bit of like the surprising
+elements of Clear the Business and the
+product that get you excited about it
+today and in the future. So when we
+started Clear 15 years ago, what we said
+is today it's a travel ccentric company
+and tomorrow it's the de facto secure
+identity platform and leisure, access,
+commerce. We didn't say healthcare. So a
+kind of ballsy vision um but one that
+really came from my experience on Wall
+Street of watching products become
+platforms and the concept of identity to
+make experiences safer and easier
+physically and digitally was the
+foundation of clear. And so again, this
+concept of enroll once, use everywhere.
+As a woman, I'm like always digging
+through bags for all these plastic cards
+to prove who I am and what I have access
+to. And I think that's ridiculous
+because nobody ever really looks and
+it's incredibly clunky. It's incredibly
+expensive and inefficient, not secure
+and a bad experience. So that is the
+foundation of Clear and we're really at
+the earliest stages. So when you think
+of I think uh the magic or the secret
+opportunity, it's that over 30 million
+people today have enrolled uh and again
+I what I love about that is it's opt-in.
+It's privacy protected. It's data
+secure. Um we will not sell or share
+your data. We're here to deliver you
+amazing experiences and we're here to
+deliver our partners enhanced security
+um a reduced fraud which has become a
+big problem. So I think that the basic
+secret to clear is that identity is
+foundational across so many industries
+and people don't think of identity as
+the problem. They think of fraud or
+compliance or frictionless experience
+right or whipping out cards or insider
+risk. Now, there's actually a story
+today in the Wall Street Journal about
+North Koreans infiltrating workforces,
+which is a real problem. That's all
+identity and uh bringing it to life both
+um with the government and a public
+private partnership and airports and in
+other sectors uh like health care and
+online where anonymity rules and that
+creates all sorts of problems uh or to
+secure workforces I think is the secret
+and the opportunity at clear. What did
+you learn about the product to platform
+uh switch or flip that happens for in
+companies from your Wall Street days?
+Yeah, so I invested in a broad spectrum
+of companies. Started out in risk
+arbitrage and then went on to asset
+management and hedge funds. And in 2002,
+we started Arians Capital, which stood
+for art and science, which is my view of
+investing. It's highly quantitative and
+highly qualitative, art and science. Uh,
+and so we had the good fortune, although
+every day didn't necessarily feel that
+way, of investing in Apple, Amazon, and
+Priceeline in 2002. And when you looked
+at Apple, u, they used to have signs in
+their boardroom that said five down and
+95 to go. And that was their market
+share. They had candy colored Macs and
+this iPod with a big, you know, white
+uh, dial in the middle that people
+thought Zoom might, you know, ultimately
+crush. Or you thought about Amazon,
+which was books and books, music, and
+video. then a few more categories, but
+lots of people thought they were going
+to go out of business. He was on the
+cover of Time magazine, right? I think
+it was Amazon Bust or something of that
+nature. Uh, and then Priceel Line was
+opaque travel
+and almost went bankrupt after 911. And
+those were all products that you watched
+become platforms, right? Priceeline
+turned into bookings and a global OTAA
+offering you a lot more than Opaque
+Travel and Apple and Amazon speak for
+themselves. And I saw unconventional
+leaders as sort of the old GE leadership
+kind of went. Um unconventional leaders
+delight consumers, innovate, do really
+smart acquisitions and capital
+allocation and create these platforms of
+which they could build multiple
+verticals on top of. And so when I
+looked at Clear, which was bankrupt, I
+saw the same thing. I saw this identity
+platform. Travel was where it died and
+where we brought it back. And I thought
+where security, identity, and customer
+experience absolutely collided, but that
+you could use it in so many other places
+and connect you to all the things that
+make you you. Identity is completely
+contextual. I'm always Karen, but when I
+check in at the doctor's office, I'm
+Karen with United Health with an ex
+copay with a medical record that, by the
+way, I should own and have access to and
+be able to share anywhere I want. I go
+into a building, I'm Karen. I'm an
+employee and I have access to the 10th
+floor. or I'm Karen and I'm a visitor
+and I'm going to the 48th floor today
+from noon to 3, but I'm always Karen but
+I'm having to do all these things. My
+favorite is when they take your picture,
+they give you a sticker like this is
+useless. Um, so this concept of a secure
+identity platform was definitively
+modeled off what I experienced as an
+investor.
+The old Bill Gates line definition of
+platform was this idea that more
+economic value was created on top of the
+platform than was captured by it. And at
+that point is when you became a real
+proper platform or something like this.
+And it's evolved a lot where there's
+there's third party platforms in the
+sense that it enables outside businesses
+to build. And then there's more first
+party use of the install base, you know,
+fundamental identity layer in your case
+uh that you've created through a product
+that lets you create a all sorts of
+other things. How do you think about
+that difference like opening up identity
+as like an API to outside developers
+versus owning the experience yourself?
+So here's how I look at it. Um I think
+there's again I like analogies and I
+would look at American Express as a
+vertically integrated financial service
+company, right? They have the customer,
+they have the merchants, they have the
+bank. Certainly American Express I think
+is some of the best experiences when you
+uh lose your credit card or I had fraud
+on mine yesterday. you send a new one,
+the bills go right through because
+they're vertically integrated. It's a
+better customer experience. Um, I look
+at Clear and think we're a vertically
+integrated identity platform. So, we
+have our members on the platform and
+then we have different we have the
+enrollment, we have the verification. We
+have APIs and SDKs for our partners to
+connect into them. We have real estate
+in airports. We have awesome ambassadors
+at airports. We have hardware. we have
+software and so the opportunity to have
+all those assets and be able to use them
+in different ways uh I think is really
+important and I would argue it's a
+little bit open in that we are right
+connecting for our partners and bringing
+that member to a partner whether it be
+Home Depot whether it be LinkedIn
+whether it be a hospital either for the
+workforce or the patient um but I like
+us bringing our different assets like
+some of our partners want hardware they
+want someone to check in at the front.
+Some of them, right, were really working
+on e-gates and automated endto-end lanes
+in real estate in our airports to drive
+that end to end frictionless, more
+secure experience. How could we use our
+ambassadors and our concierge product?
+So, I like having the assets being
+vertically integrated and being able to
+disagregate them. Um, and so that's how
+we're looking at clear.
+Maybe it'd be fun to break the story 15
+years now into chapters and talk about
+each chapter a little bit. I I now
+everyone knows clear but like obviously
+you bought it out of bankruptcy so
+not everyone
+we're getting there a lot of people
+listening will know clear um
+we welcome them to the platform
+we'll welcome them all the the origin
+stories are super interesting to me and
+how these things get started so you were
+a professional investor I remember the
+first time you talked you said uh you
+didn't want necessarily some of your IR
+or something to be on your tombstone and
+have that be the thing you were known
+for
+I didn't want to die and have people say
+I pick good stocks that wasn't good
+enough
+it wasn't good enough so maybe talk
+about that the the or the pure origin of
+why you went searching for a business in
+the first place, how you found this one,
+what it's like to buy something out of
+bankruptcy that first couple days.
+First, so I will say in media's race,
+bankruptcy is a completely surreal
+experience. And I talked to a few uh
+CEOs who I had invested with through the
+years like Bobby Kodak or Martin
+Franklin at Jordan and they said, you
+know, bankruptcy is decided on the
+courthouse steps and it's true. But I
+definitely believe and I tell my kids
+that, you know, life is a journey. And I
+started off in risk arbitrage in 1994
+when I graduated the University of
+Michigan. I didn't even know what
+proforma or EBIDA was, but I figured it
+out real fast. And that was the uh M&amp;A
+period of aerospace and defense under
+Secretary Les Aspen. And so I really got
+to know the aerospace and defense
+industry of which biometrics has been in
+the defense industry for a long time. So
+that was my first understanding of
+biometrics. Also in the 90s we invested
+in cable wireless and satellite
+subscriptionbased businesses. Again we
+were buying wireless spectrum in the
+90s. Direct TV was really starting to
+grow and Echoar cable companies.
+Microsoft invested in Comcast with a
+billion dollars in 1997. That was a
+really big deal and they started to do
+broadband. So I understood the power of
+subscription-based businesses. Also did
+bankruptcy when I was doing risk
+arbitrage and uh so love a turnaround. I
+like to say happiness is a low bar and
+there's not a lot lower than bankruptcy.
+And then you get into the 2000s with
+after the.com bust and the turnarounds
+that we saw in products that become
+platforms and incredible companies like
+Apple and Amazon and Priceeline that
+were built. And so I had all that
+experience which meant I believed right.
+I saw the art of the possible. I'd also
+seen giant failures like Tao and Enron
+and WorldCom. So the thing that everyone
+thought was going to be great and
+wasn't. And so um ultimately had
+invested in Laurel which got sold to
+Loheed Martin which turned into L3 which
+was a management buyout of Lheed it. It
+stood for Lonza, Laenta and Leman. We
+invested in that. Biometrics were there.
+Lenta left and started L1 and he was
+rolling up the biometrics industry and
+we helped fund that. And so just a big
+believer in biometrics on top of
+everything else. It was used in in the
+early 2000s in Brazil for voting for
+Asia for financial services. So the
+consumerization of biometrics was
+happening outside the US whereas I had
+only seen it in the defense area in the
+US. I believed in the consumerization of
+biometrics. So that is like the whole
+journey put into clear shuts down on
+June 22nd 2009. We went to cash at
+Arians Capital in September 2008. A
+little late, not too late. And then
+investors said, "Well, when are you
+gonna like, great, you're in cash, when
+are you going to invest again?" We had
+never been in cash or either 120%
+invested, 200%, 80% long, short. We were
+nothing. I had three little kids. I had
+a one-year-old, a three-year-old, and a
+5-year-old. And I was like, I don't know
+if I want to do this anymore. I did done
+it 247 for 15 years. I loved it. I
+thought it was the greatest industry. I
+met the greatest people. It's a front
+row seat to business.
+My late husband was in private equity at
+Apollo and I was like that looks
+awesome. Buying companies, controlling
+cash flows, uh really able to um create
+and build. And so I was like, I want to
+buy something. I want to buy something
+that makes the world a better place. Uh
+my parents were in the government. I'm
+originally from DC. 911, I was 29 at the
+time, really changed me. I felt a
+responsibility and a moral obligation to
+help make this country a better place
+and that we were lucky to be here and
+that we were all responsible for it as
+citizens. And so when I found Clear,
+which L1, the company we had invested
+in, had um been a subcontractor to for
+the first goound, I was I was like
+product that could become a platform
+that could make our country safer, make
+consumers lives easier. Um it was
+biometrics which I believed in the
+consumerization. Subscription-based
+businesses are incredible. It was the
+convergence of my entire professional
+career. So we being uh myself, my
+husband, uh some advisors uh at the time
+my co-founder uh went into a room in a
+law office and um we're bidding against
+another group of people who were former
+employees of Clear and we had money in
+escrow and it was like you're reading
+other people's documents trying to
+understand what you should do. you have
+a maximum number and we bid $6 million
+in cash which I think was a little lower
+than the existing bid but it was 100%
+cash that night given to them and uh we
+won and you're in this room going back
+and forth with the documents and
+strategy and talking um for like I don't
+know 10 hours couldn't eat barely drank
+and then you leave and it's almost like
+bringing home a new baby you're like I
+won
+have this company now
+shoot what do I do with it and uh We had
+a doublesided five-page list of things
+to do because it was all shut down and
+the hardware was um in different storage
+areas and there was 190,000 members who
+were like where's my data and I didn't
+get service and airports who were mad
+and TSA who was mad and at some level
+here ignorance might be bliss. I was
+like we've got a great idea. We've got
+some capital. We've built the business
+model makes a tremendous amount of
+sense. We've seen other leaders. We've
+seen what to do and what not to do. Off
+we go.
+We'll call that the prologue. Before we
+before we get to chapter one, I have a
+couple questions from everything else
+you said. The first is a little bit
+abstract and away from clear
+specifically, but you said uh that you
+didn't know what proforma and IA were.
+You've over and over again in your life
+and career immersed yourself in new
+areas and seem to learn quite quickly.
+What can you say about uh that
+experience and getting better at that
+over and over again and not being afraid
+of not knowing performing of the other
+fields that you explore?
+Um I'm a voracious reader. I think my
+team knows I send them articles now from
+somewhere between 3:00 a.m. to, you
+know, midnight. I am enormously curious.
+Um I there, you know, I grew up there
+was no internet, but I read in my room
+every night from Sports Illustrated to,
+you know, books, magazines, newspapers.
+And I I love learning like you I love
+the question why and trying to get to
+the bottom of it. And so um I also think
+when you went to public school in
+Maryland in the University of Michigan,
+I was a political science major. I don't
+know that people had, you know, enormous
+expectations of me. I did of myself, my
+parents did of me, my grandparents
+certainly did who were immigrants. So I
+had no fear of failure because there
+wasn't, you know, too far down to go.
+And so um you know my uncle who was an
+investment banker lived in New York City
+his his whole life and I would come here
+from Maryland and he would take me
+places and I just thought he was the
+smartest, most interesting man. And and
+then I love the movie Working Girl and
+you know Let the River Run and the Coach
+Briefcase and the coffee and the Wall
+Street Journal. I'm like that's what I
+wanted and so I just like that's what I
+wanted. So that's what I was going to do
+and I think I have blinders on when I'm
+focused on something. So whether it be
+proforma ibida or learning the hurandol
+index when you're in risk arbitrage I
+believe that everything x a few really
+scientific things are learnable and now
+with AI I'm like I'm not sure what's not
+learnable. Um I actually just signed up
+for an AI design class that I haven't
+fully immersed myself in yet.
+I just think life is about curiosity and
+I'm a lifelong learner and I have no
+fear of not getting it and no fear of
+asking questions and
+I was going to ask later but I'll ask it
+now because it's relevant uh about how
+your ancestors show up in your life. You
+said something which was uh there was
+high expectations across
+multi-generations. Can you say a bit
+more about about that? So my
+grandfather, who was my idol, Hyman
+Seidman, uh came to the US at 17 years
+old in 1922. There's actually enormous
+documentation about him coming here
+because they he almost got sent back. Uh
+his family stayed or most of his family
+stayed in uh Eastern Europe and
+ultimately uh died. He had one sibling
+who went to Israel and one sibling who
+was here. And so to come at 17 years
+old, the bottom of a boat, the USS
+Constantinople, Constantinople,
+uh to work, to not speak the language,
+to have no money, um to work in a
+hardware store that he ultimately took
+over, Sidman Hardware, which was across
+from the Barkley Center. Um like that's
+hard.
+Everything else seems a lot easier when
+you have that perspective.
+And so he used to tell me to pull
+yourself up by your bootstraps and like
+keep on moving. And that's just very
+empowering when you see what he'd been
+through and lost a lot of family and was
+optimistic, loved this country, had
+enormous gratitude, positivity, joy,
+fun, you know, never angry um a at sort
+of what had happened to his family. And
+so I believed in the art of the
+possible. He put his family through
+college. They were all successful, went
+on to, you know, build families and and
+my dad served in the military. My uncle
+did like to do right by our country.
+You know, I have gratitude and I have
+belief in the art of the possible
+because I've seen it.
+You I think optimism versus pessimism is
+such an interesting thing. Are you just
+wired optimistic?
+I am. Um, you know, one of my favorite
+sayings that I keep on my cell phone, I
+saw Shimone Perez speak right before he
+died. Uh, and he said, "Optimists and
+pessimists die the same way, but they
+live very different lives." And I
+thought that that was a very powerful
+statement. Um, I don't know how if you
+don't have optimism, if you don't have
+hope,
+what do you have?
+Well, you needed it going into the Clear
+thing with your six million bucks. I but
+I'm curious about what was going on with
+Clear prior like how did how did it
+itself start before your involvement and
+why did it ultimately fail the first
+time?
+So clear started as a response to 9/11
+when uh Congress at the time stood up
+TSA. It was a Republican le Congress.
+They wanted public private partnerships.
+If you look at, again going back to
+curiosity, the founding of the
+Department of Homeland Security, which I
+think is one of the like largest and
+fastest startups, uh I might have these
+numbers slightly wrong, but it's like
+250,000 total employees of the
+Department of Homeland Security, which
+has all these, you know, sub areas,
+whether it be CBP, ICE, FEMA, TSA, those
+are a lot of subsidiaries, if you will,
+under one corporate umbrella. Uh, you
+know, I think that Congress wanted to
+make sure that there were public private
+partnerships to drive innovation to
+expedite the traveler experience. And so
+they put this program together called
+the registered traveler program. And so,
+uh, TSA gave out a few licenses for the
+registered traveler program for people
+to, you know, try and see what they
+could come up with in the world of
+public private partnership and
+innovation. uh Steve Bril had written a
+book 912 uh which was I think the you
+know day after 911 and he uh received
+one of those licenses and started clear
+and there were a few other companies who
+started as well and ultimately he was
+the most successful. He got into 16
+airports. uh I think he raised about
+hund00 million dollars of capital and
+then had um some debt on top of that and
+uh was building this concept of a
+trusted traveler program a registered
+traveler program with biometrics on a
+smart card right so it's this onetoone
+match and it had 190,000 customers then
+I think two things maybe three things
+happened one being the 2008 downturn
+came so it started in 2003 but didn't
+launch in Orlando to till 2005. Um, the
+highest percentage of first-time
+travelers in America go through the
+Orlando airport. Strollers, balloons,
+the whole thing. It creates a little bit
+of a customer experience and security
+challenge. So, that was the first place.
+People are like, "Why'd you start in
+Orlando?" I'm like, "Because they wanted
+us."
+He launched in 2005. The economic
+downturn hit in 2008, which
+significantly hit business travel. And
+also uh he had debt coming due in 2009
+uh in the middle of uh a lot of other
+people being bankrupt and having debt
+like GM and Chrysler. And so ultimately
+the company shut down. I think that the
+technology they were sort of before
+their time from a cost on the tech side,
+not to mention the economic downturn,
+not to mention I think it was probably
+hard to convince some airports that they
+wanted biometrics. Um and uh and so it
+shut down. It it went into bankruptcy
+that
+I know obviously Clear is in lots of
+places beyond airports, but it's like
+the visceral thing that we can all call
+to to our minds and have probably used.
+If if I think about the airport, it's
+such an interesting physical supply
+limitation. You know, you mentioned the
+public private partnerships and the
+certain number of licenses. Like it
+would be I can't imagine what it would
+be like to launch a clear competitor in
+an airport. like it just um maybe it's
+possible but there's not real estate
+like there's certain number of lines and
+whatever. What are the pros and cons of
+having a business that has such a unique
+physical supply bottleneck and both
+barrier to entry but also barrier to
+scale like if everyone signs up for it?
+Is there like a disconomy of scale where
+now now the clear line's longer than the
+TSA line or something? It's such an
+interesting business dynamic and I would
+love you to just riff on it as many
+angles as you can. Yeah, you know, I
+didn't know going back to what I didn't
+know lots. Uh I didn't know much about
+airports when we started, you know,
+clear in 2010. But you're right, there
+are these really interesting structures.
+There's 400 and change in the US, but at
+the end of the day in the world of 8020,
+right? 80% of the traffic goes through
+sort of the top 60 80 airports in the
+US. And they're um there are these
+houses and within them are municipal
+employees, airline employees, federal
+employees with TSA or if there's custom
+CBP, local police and fire departments
+play a role here. And so you don't
+necessarily have all the constituents
+going in the same direction because
+everybody has, you know, their own
+stakeholders and uh their own
+priorities. And so airports are a really
+interesting place to do business and
+they are capacity constrained both on
+runways and physical real estate. So a
+few things which is one we always viewed
+clear as a force multiplier bringing
+technology in that could help the
+throughput and enhance the security not
+to mention bringing badged and trained
+employees into the building to help
+partner. And we viewed ourselves as
+Switzerland with the federal government
+to help security, with the airlines to
+help get their passengers through
+happily and safely, with the airports
+and the municipalities to help uh
+enhance the experience to help drive
+revenues because we pay them a
+percentage of our revenues to create
+jobs in cities that are great jobs. So
+we viewed it as like a win-winwin and
+that as the volume grew both we would
+have technology like we just launched
+our NV technology that's five times
+faster but over time you could create
+new opportunities if you will. So, for
+instance, we invested in a company
+called Landline, which is replacing
+regional jets with buses and able to go
+to the back of the um airport as opposed
+to the front door. Because you're right,
+you can't put millions of people through
+the front door. And today, there's three
+million people every day going through
+airports. Our numbers are by 2030 you're
+going to have four million, another
+million people a day. And again, most of
+them are coming through the major
+buildings. You couldn't put them through
+today. And so the question is what other
+doors can you put them through? Can you
+do off-site screening and bring them
+through on buses? Can you create we're
+trying to launch endtoend automated
+lanes so you can have greater
+throughput. Can you privatize the
+physical screening uh opportunities and
+so that you can have greater throughput
+because oftentimes it's a staffing
+issue. The equipment is there but
+there's not enough people to staff it.
+And airports are also super interesting
+because you have these peaks. Like I if
+you watch an airport, which I never
+thought I would be doing, but I do,
+right? It sort of the volume goes from
+this to this to this. And so you have to
+staff for peaks, which is really hard in
+a staffing business. And so you do need
+automation. You do need e-gates. You do
+need off-site screening. You do need
+people to come to the back as opposed to
+through the front. So I think there's
+all sorts of opportunities if you're
+innovative and creative and partner
+oriented to drive secure throughput with
+a better customer experience at airports
+and at any time you get you know a
+little stuck and then you need to move
+and try new things.
+What is the NV tech like? What is it
+specifically?
+So the envy is our new face first
+technology is now uh in all of our
+airports. Well we start look we started
+at smart cards. So going back to
+chapters, our first six years were smart
+cards until we went to the cloud. And
+then we went to the cloud in 2016 at the
+same time we partnered with Delta and
+that was a really transformational
+moment for clear both in terms of scale
+and technology because you didn't need a
+smart card. You could enroll and use it
+immediately. But that was fingerprints
+and eyes. You know to to us it's clear
+that face is one of the winners, one of
+the really important biometric winners.
+And so we are face first with our NVs
+which makes it you know five times
+faster to verify and yeah you know uh
+many people don't have good
+fingerprints. Little known fact if
+you're a teacher if you're working with
+chalk um certain ethnicities don't have
+great fingerprints. Um eyes can be a
+little bit of a chicken dance even
+today. So um face first is we call it
+envy and enrollment and verification.
+How do you think about this problem that
+like with success? So there's there's
+sort of two uh there's two things that
+happen with scale. Like I had the
+experience recently of using clear at
+like an NBA arena and it was amazing
+because there was this incredibly long
+line to get in and then I just literally
+walked right in. No no line at all. And
+then the converse is so many people have
+cleared an airport that there's been
+times not often but there's been times
+when I've been and had to skip the clear
+line because it was literally longer
+than the other lines. How do you think
+about that problem maybe in airport
+specifically that like you're a victim
+of your own success when more people
+have it because you don't control the
+whole airport so you're subject to some
+constraints that you can't change. I
+think there's a really important point
+which is um working with the government
+can be hard and I would say that um the
+last four years with the Biden
+administration was really hard and in
+fact that they put some policies in
+place that really challenged our
+throughput and the customer experience
+and we're on the other side of that and
+so when you can innovate to drive
+throughput when you can leverage
+technology at the speed that the private
+sector is capable of. You can solve
+bottlenecks with willing partners. Um we
+did not have that in the Biden
+administration. We certainly feel like
+we have that in the Trump
+administration. They definitively care
+about making airports great. They
+definitively care about throughput and
+the customer experience and security and
+believe in innovation in the private
+sector and partnering together to do
+that. So I would say uh and I've been
+very public about it that our customer
+experience degraded in 23 and part of 24
+which caused throughput uh issues. It
+wasn't because of volume. It was because
+of um some policy decisions that were
+put in place that impeded the customer.
+What were those? I'm curious like what
+what like the literal nitty-gritty of
+it. What I can say is that they put in
+some physical escorting uh policies so
+that a clear employee who verified you
+had a stand with you which created all
+sorts of challenges. All of your team
+members are standing in line. Also they
+um wanted to recheck at a extremely high
+level um identity documents and that
+created kind of
+defeats the purpose
+all sorts of backups and I think that is
+about building trusting relationships
+with the public and private sector and
+being able to communicate and I would
+say there's a lot of great people at TSA
+and at DHS who do believe in innovation
+and public private partnerships. Um, but
+as I like to say, debanking didn't just
+happen in crypto. And it was a very
+eyeopening experience to be on the other
+end of that to not have uh transparent
+and and partners who wanted to work
+through things together, but instead
+just wanted the government to do
+everything. And that was very eye
+opening. um and also I think made us
+better, made us more innovative and I
+think has positioned us to work really
+well with an administration who sees
+infrastructure
+um as a major need here in the US and in
+order to be competitive you shouldn't
+have better travel experiences in
+Singapore, Dubai, Tokyo and London than
+you have here in the US when we have the
+greatest tech companies. I was in
+Singapore on Christmas. My kids were
+like, "What are you doing?" I was taking
+pictures of Egates and banks of Egates.
+You go to Dubai, it's the same thing.
+you absolutely should have endto-end
+automation and there's so much you can
+do to transform the travel experience.
+So on a very personal and professional
+level, uh watching our customer
+experience degrade when I knew we could
+do so much about it was horrifying and
+not being able to say much about it
+because they were pretty retaliatory was
+also um you know pretty painful and I
+think we're on the other side of that
+and there's so much you can do to drive
+throughput. The airport experience
+should be and can be amazing. People
+love travel in the US, quite frankly
+around the world. And I actually give
+huge credit to Airbnb. I think that they
+transformed the travel industry by
+creating infinite capacity. And I don't
+think people have fully wrapped their
+heads around that. Like it used to be
+like, oh, I want to stay at the Marriott
+and wherever and it's full, so I guess
+I'll have to wait. There's always a room
+somewhere for you if you want to go. And
+I, you know, you see what's happening
+with air traffic control. Like our
+systems are rigid and a little bit
+analog. They have to be invested in. We
+have to partner. Travel is such an
+important part of the economy and I
+think it's also an incredible part of
+families and experiences and growth and
+learning and curiosity. I know for my
+family it's been our best memories and
+our time together feel really fortunate.
+So, um, you know, we're hellbent on
+driving innovation to make travel safer
+and easier and also learned a lot from
+our experiences in 23 and early 24 to
+make sure that we move forward and not
+backwards.
+Can we go back to chapter one? You no
+longer have your six million bucks. You
+now have clear.
+What was the process like of figuring
+out what the business could or should
+be? development of the business model,
+go to market, like all the basic basic
+stuff. What did you do and what did you
+learn in that first chapter?
+That is a great question. I wish I
+documented more of it. Um, so number
+one, you had to find where the inventory
+was. Like let's go to the real basics.
+It was like, where's the equipment? And
+we would go to the San Francisco
+airport. We were like, hey, where did
+you put the clear equipment? And they
+would take us to a storage facility and
+it was like, you know, all the way back
+there. One airport threw them away. I
+was like, "You threw away the hardware
+because in it we bought $10 million of
+PPD. We about $10 million of hardware."
+So, I was like, "For $6 million, we
+bought a brand that we were too cheap to
+change." People were like, "Why don't
+you change it? It's really sullied." I
+was like, "I don't know. I think it's
+pretty good, and we don't have a lot of
+money, so people know what it is, and
+we're sticking with it." Ultimately, we
+changed the logo. Um, and I love the
+name. We bought 190,000 members,
+biographic and biometric data. they had
+to opt back in um to clear. Yes. Um they
+had to come back to clear and we would
+give them whatever months they had left.
+I think in aggregate about 75% of them
+did come back. Uh and then we bought $10
+million of hardware. I also say we
+bought a hard drive of what to do and
+what not to do. Bankruptcy is really
+interesting. You get the hard drives of
+the company. So you were like looking at
+their old documents and learning. But
+first it was um finding the hardware
+that was left because you were we were
+going to reuse it. Number two was
+actually rebuilding the software from
+the ground up because we didn't buy
+software. They didn't own their own
+technology. So, we had a rebuilt and we
+wanted to rebuild the software from the
+ground up. Um, number three was finding
+Orlando airport. We closed in April and
+the Orlando airport wanted Clear to come
+back and you need one person to go first
+and they wanted to. So, we had to win
+that. So, we wrote the RFP for the
+Orlando airport. Other people did too.
+Um, and then they protested our win. So,
+you had to go down to the Orlando
+airport and uh and share with the board
+and the community why Clear would be
+good and um serve them well. From a
+marketing perspective, I wrote the
+emails. I signed my name to them. I was
+in customer service. So, we said clear
+is coming back. It was to, you know,
+90,000 people. Uh, we knew who they
+were. One of the beauties of being an
+identity company, you actually know your
+customer. Um, and we told them we were
+going to do right by them and make them
+whole. And uh, we got some nasty emails
+back. I was like, "Wow, people will
+really write anything in email." So then
+I would call them and I was like, "Hi,
+I'm Karen from Clear. I got your email."
+This one guy said, "Um, how blunt can I
+be on this podcast?" Oh, blunt. He said,
+"Uh, you know, my grandma had big balls
+and you have bigger balls than my
+grandma." And I was like, first of all,
+interesting. Okay. So, I like called him
+because like, you know, you're an owner
+operator. And I was like, "Hey, it's
+Karen from Clear. I got your email." And
+he kind of shrunk. And I was like,
+"Well, people will write anything in
+emails cuz it's totally anonymous."
+Going back to identity, we, you know,
+told people we were relaunching at the
+end of October and that they could come
+back. We then hired um 20 people in
+Orlando, 10 for each uh lane. And we
+hired I had read setting the table is
+amazing book. Danny Meyer, one of my
+great heroes. And he became an investor
+in Clear. And that was awesome. And uh
+so we hired Union Square Hospitality um
+I think it was called Hospitality
+Quotient to do the training of our team
+members in Orlando. So you know again
+it's like okay I read the book. I like
+that we want to be hospitality and
+serviceoriented. I think it's missing in
+the airports. We got to rebuild the
+software. We got to find the equipment.
+We got to hire some people. I don't even
+remember how we hired them. I went down
+to Orlando. I participated in the
+training. I got to know all the people
+at uh the Orlando airport. We
+communicated with you're making it up as
+you go along and then every day you're
+like, "Fuck, didn't think of that." I
+mean, that's just like what it is. And
+so, I wish I had, you know, we have a
+playbook now that we're in 59 airports
+and more to go. But you fake it till you
+make it. And then, you know, I would
+just keep talking to people and I had
+seen great operators and I would ask
+them questions. Ed Breen is one of my
+great heroes. We had invested in General
+Instruments which then got sold to uh
+Motorola and then he became the CEO of
+Tao to turn it around after Dennis
+Kuzlowski. So I would ask Ed lots of
+questions and and uh these leaders were
+so generous with their knowledge and
+their experience. And so, you know,
+every day you're just hacking at it. And
+then I was at the on the floor of the
+Orlando airport at 4:30 in the morning
+when we launched and you know, you're
+people would hug us and then you knew
+you had something like when we were
+rolling out the old kiosk from storage
+and people were hugging us um that we
+were bringing it back. That was the
+greatest feeling because to know that it
+meant something to people um that they
+were rooting for your success. There's
+plenty of people rooting against your
+success, but that that gets you up every
+morning to know that you can make a
+difference in someone's life. That you
+can security is job one. And then that
+someone could have breakfast with their
+family because they had a more planful
+and less stressful trip at the airport.
+I happen to be a neurotic flyer, so I'm
+worried about turbulism turbulence and
+terrorism and and I didn't like leaving
+my kids. And so it's just like to know
+you could change that for someone,
+that's a giant win.
+I'm curious to hear a little bit about
+thinking versus action in your business
+life. Like you you exude this intense
+bias to action and
+Oh, yes. That's one of our core values.
+That's great. You I didn't know I didn't
+know that. I promise I didn't know that
+or look that up. Um but it sort of just
+like uh comes off you. I'm curious when
+you've needed to stop that if at all and
+like retreat and think like I'm very
+interested in this dichotomy of like uh
+Brian Armstrong from Coinbase has this
+great simple phrase which is that action
+produces information. Um and so actually
+you can learn faster through action than
+through thinking you know is one way of
+thinking about it. Um say a little bit
+about action orientation versus um
+stepping back to think. I have a very
+busy mind. So, at some level, I'm always
+thinking. Um, I guess being a girl, the
+power of blowing your hair gives you
+like 20 minutes to think.
+It's like our shower.
+Showers. Well, I have the shower plus
+the haird dryer. Um, so I am always
+thinking, my friends will laugh. I can
+be a little spacey sometimes. Like, if
+I'm driving, they're like I'm like, "Oh,
+I didn't know how did we get here?" And,
+you know, it's like my mind was 20
+different places. Um,
+yeah. Look, I think bias for action can
+sometimes lead to impulsivity and I
+think you need to guard against that. Um
+I have consistently surrounded myself
+with people uh including my late husband
+who was like you got to stop like just
+push pause on that for one second. Uh
+slow your roll. Uh and I think that I
+respond very well to that. But one of my
+sayings is that every week is 2% of a
+year. So when someone's like let's meet
+on that in three weeks. I'm like, we're
+going to wait 6% of the year to have
+that conversation. That's insane, right?
+I mean, and if you believe life is
+short, and I definitely believe that, I
+don't want to waste time. I love data. I
+love information. Look, I think working
+in the stock market makes you more
+decisive. You're never going to have
+perfect information. So, you got to put
+together the mosaic. You have to
+understand your thesis. You have to see
+how that is, you know, weighing relative
+to your thesis. And you need to move
+out. Maybe you don't need to take an 8%
+position. Maybe you want to start with a
+2% position. Um, and you better do I
+think that Wall Street gives you
+incredible discipline. You better have
+done your work before you need to do
+your work. So when I head into a
+meeting, I'm like, we should, you know,
+know them better than they know
+themselves. We should really understand
+and have warmed this 10 ways from Sunday
+because it's all about the preparation,
+right? Kevin Durant, the basketball, all
+the practice that he does before the
+game. Uh, and so I do feel that I I
+think a lot, probably too much. And so
+that actually my bias for action is
+because I've been I you know I'm playing
+chess in my head all day long. Well,
+what if? Well, what if? Well, what if?
+And look, you can never you know, things
+are always coming out of left field. And
+but I am I've seen a lot of this in my a
+lot of these scenarios in my head
+before,
+which I've actually never articulated
+that. Uh but that's real. So I'm like,
+well, what if we did that and what if we
+did that and how would that and then you
+have the data and you're like, well,
+that would make that go up by 500 basis
+points. That would have a negative
+implication over time that could drive
+my margin to this.
+Um, but yeah, I like I like to move, you
+know, I think Bezos talks about, right,
+the the door and if it's a really big
+decision,
+Yeah. one or two doors.
+Yeah. And so I I buy into that. Uh, and
+like my middle daughter always tells me,
+it's just not that deep, right? like can
+you go back and make and change that? I
+think if you raise your price and then
+you have to lower your price, I don't
+think that's good. I think sometimes
+doing things that would make your
+workforce feel not stable. So, you want
+to be thoughtful. But one of our other
+core values is embrace change. I think
+the only thing constant is change. And
+so, I'm really good with that. I
+sometimes forget other people are not as
+good with it. So, it's something I'm
+trying to be more thoughtful of.
+I love the 2%. I won't forget the 2%. It
+is true. It's it's it's crazy.
+Well, let's meet in a month. Really?
+10%.
+Um, back to like chapter two or
+whatever. I'm curious how you originally
+thought about the tradeoffs in the
+business model itself and maybe just to
+hear a little bit more about the
+business model itself of margins and
+pricing and product and I'm always
+fascinated by the things left on the
+cutting room floor that like maybe you
+almost did but didn't do and you went
+this way instead. So, in the early days
+as you were thinking through how could
+this be a big sustainable business and
+I'm also curious to hear about like how
+you financed all this like you started
+with 6 million but everything else
+you're doing costs a lot of money too.
+Um what were you what were you working
+through in those early days as you got
+your arms around what the business model
+should be? So I think a few things we
+had built a model when we started right
+you you know we come from finance we'd
+built models garbage in garbage out um
+but we did think that this could be a
+good business if you own your own
+technology
+um if you own your own labor which the
+other company didn't it had outsourced
+the labor and the technology which
+really impeded the margins but again
+going back to the power of a
+subscriptionbased business right and
+cost per gross ad and LTB to CAC like
+those things were in my blood and I
+understood them deeply. So understanding
+what we thought it would take to break
+even from a subscriber basis looking at
+every MSA understanding Denver and
+Orlando and San Francisco and New York
+how many you know what was the volume of
+the airports what percentage of that
+volume did you need or what percentage
+volume of that population seemed
+realistic you know we owned wireless
+companies nexttel actually was one of
+them and it was like what percentage of
+the city is on nexttell and what do you
+need to to break even so we had done I
+like coming at things bottoms up and top
+down and sideways, right? At different
+ways. What percentage of we said that
+the TAM was 35 to 40 million people that
+traveled five or more times a year. What
+percentage of those people did you think
+you would have? Then looking at the
+cities then, right? So all sorts of
+different ways. So we thought that this
+could be a good business model um if you
+got to certain penetrations
+um of certain cities.
+All that being said, it took longer and
+it was harder. Um I did not take a
+salary for the first five years and uh
+you know got paid in stock and to me
+that was a privilege. Um
+and we turned cash flow positive six and
+a half years in and we had burnt through
+$53 million of cash to get there. We
+were very cheap, very efficient.
+Airports are a really interesting place
+because again think of it like
+concentrated shopping malls. I didn't
+think oh I wanted to start a business in
+an airport. I thought I wanted to build
+a secure identity platform, but airports
+are the great place to start a business
+because you have millions of people
+coming through these buildings every day
+that see your brand. Our ambassadors, I
+would say a tipping point for us was
+when we allowed our ambassadors to do
+the selling for us. Um, the internet or,
+you know, social media is a really noisy
+place to try to get someone's attention
+and certainly getting noisier. having an
+ambassador who gets a commission so that
+they can make more money and they're
+awesome people say sir would you like to
+learn about clear sir would you like to
+be a clear member or you coming over and
+saying it sometimes we put out candy
+bowls we did different things to try to
+like who doesn't want to mint when
+they're traveling u or hand sanitizer in
+the 20 2020 time frame uh and so it was
+great ways to get the word out and to
+educate and to have uh team members who
+could make more money and to have people
+bring technology to life, right?
+Innovation is about bringing people what
+they did not know they wanted. And
+people don't Google like biometric
+security at airports specifically, not
+at the beginning. And so having people
+explain the technology, explain the
+privacy, that was crucial. And so um we
+believed it to be a very efficient and
+powerful business model. Um we run the
+business for members bookings and free
+cash flow. I have said that for 15
+years.
+Members bookings, free cash flow.
+Members bookings, free cash flow. Free
+cash flow is the ultimate measure of a
+business as a girl who comes from Wall
+Street.
+Like a good hedge fun,
+it ain't eyeballs. Uh and so that's how
+we ran the business. and when we turned
+positive in 2017. So we raised capital
+in 2010 from myself uh the gentleman who
+started it with me and some outside
+investors mostly here in New York City
+and Bill Miller who was uh a strategic
+partner at Arians Capital and one of my
+great mentors and partners and he was on
+our board for the first few years and as
+an early investor in Amazon. It was
+certainly great to get his wisdom and
+his advice. And then in 2012, we raised
+some capital. Again, I think from those
+same outside investors, really
+individuals, went to Silicon Valley, I
+came back with zero in 2012 and zero in
+2015. Um, which was fine. One of the
+guys said to me, I won't say the name of
+the fund. He said, "What makes you think
+not going to, but I do keep his picture
+in my photos." He's no longer there, so
+it's fine. Let your haters be your
+motivators. Um, so he said to me, "What
+makes you think you can be the CEO of
+Clear?" And in my mind, I was like,
+"Good question." Uh, but but I leaned
+over the table and I said, "Because I am
+a complete [&nbsp;__&nbsp;] animal."
+So that was that meeting
+and he still said no.
+He still said no.
+Wow.
+He still said no. Look, I think that
+it's, you know, we're creating a new
+industry in identity, but even before
+you get to identity, we started here in
+2010. Pre-check started in 2011. People
+thought that was going to kill us.
+Little did they know we could integrate
+and now we actually sell pre-check. Our
+view was great. You want to start other
+kinds of trusted traveler programs.
+We're a great enrollment mechanism. This
+is exactly what we do. And uh for the
+past year we have been enrolling people
+in precheck and it's a great partnership
+and I think there's so much more to go
+there. So then they thought precheck was
+going to kill us. There's always
+something else and it's like guys some
+dead end
+guys people love traveling. You need
+innovation in airports. You need public
+private partnerships and when you have
+willing partners in the public sector
+you can do great things together and if
+you go through airports they don't look
+materially different than the p you know
+past 20 years and so such a huge
+opportunity to be frictionless from home
+to gate. What if you knew you had a
+reserved parking spot or where the Uber
+should drop you off and a concierge
+could meet you and you went through an
+automated end to end lane and then you
+had your coffee waiting for you on the
+other side or you knew you could get
+into a lounge like Shanganger and then
+you knew that uh you know that you were
+on the flight and that it was two hours
+late and Uber sent the car for you as
+opposed to everyone doing this when they
+land and what if you used it as a mobile
+key. Those are all the things we're
+doing like Yeah.
+You said great investors. it was the
+name of your firm is art and science.
+It's qualitative, quantitative together.
+Um, so many investors are trying to
+analyze things when ultimately the
+creation of new net new value can't be
+analyzed ahead of time other than in
+very broad strokes. You know, you're
+betting on the airport or this you being
+a complete [&nbsp;__&nbsp;] animal and the
+airport being a great place to apply
+that energy. Um, now having done it from
+both angles being the investor and the
+founder, builder, CEO, h how would you
+invest differently than you did
+prior to the experience?
+I think about that and truth be told, I
+have not bought a single stock since uh
+we ended Arians because if I can't like
+focus and do it, I'm not doing it.
+Uh, and I own a lot of clear stock and
+and you know have investments in other
+places, but I'm focused here. Um I think
+I would be such a better investor.
+So okay, here we go.
+Yeah.
+Uh number one,
+so we invested in Amazon. They announced
+Prime and it went down. The stock went
+down, right? And we were like, oh, you
+know, you know that okay, what do we
+like? And then the shipping and what are
+the losses? And it is like let's start
+with the TAM. Let's start with the total
+addressable market of if you had Amazon
+Prime and like let's start with the art
+of the possible and if those people
+signed up and if they were stickier and
+if they did more so like what could that
+be? What could the incremental margins
+be? I would also spend I did analyze org
+charts. I would spend a lot more time on
+org charts and people and systems you
+know like we are in the midst of
+changing our billing system to stripe
+and we are super excited about it and
+the opportunity set there is important.
+I remember every time someone had an SAP
+transition like the stock blew up,
+right? And so it's like understanding
+the culture and the people and the
+systems and the total addressable market
+and their penetration and then all the
+second derivatives of that and at any
+time one metric can be a little wonky,
+right? But that is the question is what
+is your ultimate thesis and is that
+derailing of it or is that just like
+nothing is straight up and to the right
+almost nothing. uh maybe open AI is
+right now but like you know there's a
+lot of girrations along the way and to
+understand that those girrations are
+part of business but also to understand
+look you know we would go visit Kodak
+and right ultimately under Kodak and
+Kmart and lots of companies they can go
+away I live with that paranoia every day
+for 15 years right you can go away you
+can become totally irrelevant so what
+what are you doing what is your product
+roadmap, what is your innovation
+roadmap, when will you get there, what
+will the impact behoo
+and say where can we go? You know, those
+are things that I think I did at a but
+not with as long a term perspective as I
+think was required and to really map out
+the art of the possible and then
+probability weight the getting there
+like what can Amazon Prime be? what can
+the iPhone be in the ecosystem of the
+apps and then the economy that that's
+going to create can't just be like yeah
+they're creating an iPhone and they're
+going to set it you know 10 10 million
+or 10 billion it's like what can that be
+and I think to really map that out and
+then the impact on the margins is you
+know gamechanging and allows a lot more
+patience
+does that boil down to uh imagination
+about market and belief in leader like
+are those the two things that uh you
+would focus more on as a result of this
+experience?
+Yes. And and again I would focus on free
+cash flow and optionality which we did
+but and I think those two things create
+that free cash flow and optionality like
+look at Priceel line they bought
+bookings and active those were
+transformative acquisitions right but
+you need the free cash flow or the
+balance sheet to be able to do those
+things and you need the management who
+has that kind of foresight. So I also
+think you got to be decently paranoid.
+So I think you know I prefer management
+teams that are humble um nose to the
+grindstone.
+The answer to this will be a lesson for
+every business owner. What does
+optimizing for free cash flow feel like
+as a leader?
+I used to tell our management teams when
+I was an investor like you should just
+lever up and buy back stock. I don't
+know why you're not more lever. The
+optimal capital structure is X. when you
+run the business and you're responsible
+for all the employees and you're wanting
+to invest in the business or you know
+leave cash on the balance sheet for
+potential M&amp;A or whatever levering up
+doesn't necessarily feel like the great
+thing. Um so free cash flow and the
+optionality it creates allows you to
+think more clearly. Like when COVID hit
+that was a transformative time for
+clear. We went uh we took $20 million
+which at the time was our marketing
+budget to zero on February 26th or 25th.
+Um and we were we create we took our
+salaries to zero and we created a leave
+of absent plan for our ambassadors so
+that when it really happened on March
+12th uh we were prepared and pivoted to
+creating health pass and connecting
+people to their test information and
+ultimately their vaccine information and
+connecting those data packets to
+professional sports leagues like the NHL
+so they could have the Stanley Cup which
+they've never missed in all of their
+history or to open table and resi for
+dinner reservations. Um, it allows you
+to be offensive, not defensive. And that
+is a massive mindset shift. I believe in
+the growth mindset. And so to be
+thinking offensively about what you're
+going to build or what you could um, you
+know, buy or what you it's just it's uh,
+it's really freeing. I imagine being
+very levered could be constraining
+specifically in difficult times. And
+again going back to embrace change, you
+get tariffs, you've got, you know,
+pandemics, you've got um financial
+markets. It's it's incredibly freeing.
+What are the sorts of things that you've
+done that have most positively impacted
+your free cash flow, your free cash flow
+margins?
+Um I think it's an output of the
+business quite frankly. Uh you know, we
+run the business efficiently. It's a
+capital efficient business and we are
+really thoughtful on resources. Uh I
+think we continue to get better at that
+like how do you drive efficiency? How
+can AI impact member care or you know we
+have a little sign like AI to impact
+every work stream every day for everyone
+whether it be legal or finance or HR
+recruiting or member care or scheduling
+or coding like it's always looking for
+efficiencies and I guess I was the girl
+who got all A's and a B and my dad would
+say would you get the B in um and now so
+it's like well okay how do I do better
+and every day I do think we can do
+better so how can we do better. How can
+we rethink that? How can we drive a
+better marketing campaign?
+And I think when you're it's it's
+everything everywhere. And so that that
+and the subscriptionbased business model
+with high incremental margins
+generates strong free cash flow. And
+we've invested some of that back into
+our enterprise identity platform, which
+is a here and now opportunity to reduce
+fraud and prevent insider risk and drive
+compliance and efficiency and automation
+on the enterprise side.
+It's just it's awesome.
+What does Wall Street lease understand
+about the business? What do you get the
+least credit for in the price or
+something like that?
+Well, we've bought back um let's see, we
+were I think we peaked at 155 million
+shares. We're at 133 and change. So,
+we've bought back a lot of stock. All
+the stock that we went public with at
+31, we bought back at a lower price if
+you want to talk about arbitrage. Um so,
+I think there's a lot they don't
+understand. I don't think they
+understand the opportunity in the travel
+business. I think they think it's like a
+zero sum game and that um we've long
+known that biometrics were going to go
+mainstream. That's been our view.
+There's a TSA report from 2018 on their
+biometric roadmap. We read it. Uh and so
+understanding that we believe biometrics
+are going to be everywhere. The question
+is what kind of experience are you going
+to build around biometrics? Biometrics
+are a feature not a product. The product
+is the experience. So, I think that
+biometrics going mainstream is like new
+news to people, not to us. Um, I don't
+think that they believe necessarily in
+our enterprise identity business. Um,
+and that's fine. I appreciate Show Me
+when when we were on the buy side, we
+called that evidence-based investors.
+When you show them the evidence, they
+get excited. Um, and so in the meantime,
+we buy back stock. We have a dividend
+and um, we just keep building. So look,
+I think in fairness and and I laugh a
+little bit in that I was on the buy side
+and I think I haven't done a great job u
+telling the story or on the IR side and
+I think we can do a better job of
+creating consistent metrics um that we
+can be measured on. So I think that you
+know we have to execute and we have to
+do a better job of um really sharing
+um good metrics that people can measure
+and value the business on.
+What is like the bare case on biometrics
+the extent to which there is one?
+I think there's quite a few quite
+frankly I think privacy and data
+security are a big one right and so you
+see uh some folks in in on Capitol Hill
+negative on the government doing it. I
+think there's certainly a concern about
+big brother biometrics in lots of
+countries from you know again Estonia is
+a leading country on biometrics India
+with Aadhar um you know Brazil with
+voting China there's biometrics but I
+think that that also has another side of
+it which is concern about privacy
+concern about big brother concern about
+data security um so I think that's a big
+one and I think again us being so
+transparent about privacy and data
+security and our ambassador
+sharing um the story, us having a
+privacy policy that is very transparent.
+You can control your own data. You can
+purge at any time has been really
+important, but I think that that is a
+big one. Um
+I I think that's the biggest one quite
+frankly, which is also why I like being
+a private company doing it. But it, you
+know, from some countries and our
+history would say that it can go ary.
+What is the biggest thing in between us
+today and a future where my face just
+does everything for me? Where I can pay
+with my face and I can I can sort of opt
+into not taking stuff out of my pockets
+and just move through the world and get
+what I want with my face. Like what?
+I don't think a lot I don't think
+there's a lot. I mean, look at your
+iPhone or your Google phone, Samsung,
+right? First, Touch ID started, I think,
+in 15 or something of that nature.
+Um, and then Face ID. So I don't think
+there's a lot in between that. I think
+it makes perfect sense. I think you need
+trusted companies to do it. But I think
+the level of fraud has gotten so high
+whether it be financial fraud, right?
+You look at peer-to-peer, who are you?
+Who am I? You look at teleaalth. Who are
+you? Who am I? And it's not just, you
+know, a document is not an identity. An
+ID is not an identity. You need total
+identity integrity. You need identity
+with depth. You need connecting you to
+all the things that make you you. And
+so, you know, I think as as this
+anonymous online world rises, which
+creates all sorts of problems, I think
+as the world goes more digital, you
+know, we just did this partnership with
+Docu Sign, like of course pushing enter
+is not a secure, you know, thing when
+you're wiring a million dollars or
+getting a title, you know, or deed like
+that doesn't make sense. Your face
+should be it. Uh, and so I I just think
+that when it makes that much sense and
+when it's that feasible and when you're
+doing it in other areas, it's a here and
+now moment. And I think as long as it's
+opt-in, if you want to do it, if you
+don't, you know, you do it the
+oldfashioned way and that's a choice.
+It's like my mom cash checks at the
+grocery store for a really long time. I
+still don't think she's used um an ATM
+card. We're working on her. So, I I just
+think it's it's a moment and I think
+used appropriately and in a trusted way.
+Look at crypto. How could you get locked
+out of your account if you can't
+remember, you know, your 12digit hash?
+Like, these things just don't make
+sense. And then you look at the
+workforce side of the house and people
+are coming in the front door with fake
+credentials or credentials that aren't
+theirs, real credentials because they
+got it from the call center or, you
+know, they did it through other scams.
+You got to know who people are and what
+they should have access to and you need
+to make people's experience more
+frictionless in so many different ways.
+So I think the next five years will be
+transformative.
+I would love to talk about where the
+business can expand to physically next
+and is so airports I talked about the
+NBA arena experience you know that I had
+more recently. What is like currently
+happening and where will that
+proliferate in the coming you know
+couple of years? So um enterprise
+identity first of all I think there's a
+lot more we can do in travel. So I think
+going for an endto-end experience what
+we call home to gate is the opportunity
+whether it be a reserve parking spot or
+your Uber whether it be the ambassador
+and our new concierge program taking you
+either to our automated lanes which
+we're working on or ultimately to the
+gate. I know when I had three little
+kids and all the suitcases like all you
+want is somebody to help you. Uh and so
+putting together that journey is still
+an opportunity in travel, creating
+off-site screening, privatized
+screening, lots of opportunities to
+transform travel in stadiums and arenas.
+With the World Cup coming in a year and
+with the Olympics coming two years after
+that, I think that there are some big
+opportunities to enhance the experience
+and enhance security in stadiums. We're
+partnered with the Clippers where you
+can use your face for age verification
+to buy a beer. Steve Balmer did build
+the arena of the future and I think
+there's a lot to be learned from that.
+But like why should you need anything
+when you go into a stadium? You're a
+guest and you should have a great guest
+experience and you know there's long
+lines to get a hot dog, long lines to
+get a beer. You pass your driver's
+license and your credit card down.
+That's super private to have it come
+back. Like none of that makes sense. And
+so creating better and safer experiences
+in sports stadiums ahead of the World
+Cup, but certainly around the World Cup.
+Uh we have this new capability to uh
+read your passport and the echip. And so
+that's both real ID compliant which is
+we didn't even talk about real ID which
+is you know a little bit of a hub out
+there. And so uh both for domestic but
+for international fans as well. We want
+to be welcoming for all the fans who
+want to come and create safer and easier
+experiences. But then after that like I
+think health care is an extraordinary
+opportunity both for workforce and for
+patients to create safer and easier more
+compliant more efficient experiences at
+check-in at trying to you know uh
+recover your account and get the
+information on digital health records.
+You know I like to say in healthcare
+that it was professional. until it
+became personal when my husband was
+diagnosed with cancer and trying to get
+his health records. You had to go to the
+fourth floor to get a CD ROM at Memorial
+Sloanketering. You then brought the CD
+ROM back to your office so you could
+digitize it so that you could send those
+scans to other hospitals whether it be
+Hopkins in Baltimore or in Israel or
+Japan or Italy. And it was so incredibly
+hard. I thought this is crazy. This is
+his data. This is our data. And it was
+so hard to get on the portal if I lost
+my password.
+Maddening.
+It's insanity. And once you've seen it,
+you can't unsee it. So I think the
+opportunity to transform health care,
+you know, employees who, you know, it
+takes minutes to log on a system because
+there's different systems and they have
+to do it multiple times a day. Those are
+times that they could be helping their
+patients. Not to mention, you look at
+cyber attacks on healthcare data. Um, so
+there's so many ways to transform the
+workforce and the patient experience.
+Uh, you know, medical bankruptcy is, you
+know, a big problem because you don't
+know what you have coverage for and you
+don't know what you're going to be out
+of pocket for. Uh, you know, it's crazy.
+My husband passed away 20 months ago. I
+still get bills and I'm like, such a bad
+experience on so many fronts and it's 20
+months later. So I know that our health
+care system needs extraordinary help to
+create safer and easier experiences. Um
+and to connect it all, you think about
+tellaalth, you think about rural areas,
+you think about are you the doctor? Do
+you have those certifications? You think
+about temporary staffing. Like you just
+keep going for the opportunity set for a
+secure identity platform that is not a
+point solution but can be used in
+multiple ways in that industry. Um, and
+it it's an industry that operates on
+pretty slim margins. Clinical trials,
+you know, I always said, I would love to
+put my husband's data up there and you
+find us versus I go find you. It is a
+maddening experience to go through
+nih.gov,
+which has thousands of clinical trials,
+to see which ones could apply to you,
+only to find out that he had a procedure
+or something that then meant it couldn't
+apply to you. So the opportunity for
+transformation for better outcomes in a
+more costefficient way are here and now.
+So those are just a few I could keep
+going. It's identity is foundational
+across so many industries. We want to
+make sure clear we're not boiling the
+ocean. So there's a few areas we're
+really focused on right now. Um but I
+think over time they continue to expand.
+H how how were you able to lead
+through
+the experience with your husband and co
+like how did you yeah how did you do it?
+You know sometimes I ask myself the same
+thing. Uh again, I think I have these
+blinders on and I'm very focused on
+what's in front of me and um you know
+for co
+you've seen you know you saw 911 right
+like people are like well how could that
+happen here you saw the financial
+downturn of 2008 you see co it's like
+you see challenges every few years going
+back to embrace change you saw the dot
+bust like every few years. It's
+different. But it was just like this is
+it. What are you doing about it? I don't
+get sort of
+wrapped up in the how could this be? I,
+you know, I
+it just is. And [&nbsp;__&nbsp;] happens in the
+world that you would not expect on the
+positive and the negative.
+I believe that it can and I believe that
+you need to be prepared. and I seem to
+do best under uh pressure and stress,
+which I should probably try to flip
+that. Um, and so I am prepared for
+crisis. I guess also working in the
+stock market, it's like crisis is all,
+you know, people, you know, they're
+like, can you believe in the market's
+down? And and I actually sent my son a
+few weeks ago, he's 17, a list of stocks
+that for the first time I thought were
+interesting because I wanted to show him
+the buy low, sell high, right? It was
+down during the tariffs and everyone's
+freaking out. I was like this is the
+moment right um and it happens all the
+time you know they only are happy when
+the stock market goes up it's like
+that's not that's not the rule so I
+think you know co it was just head down
+and have your priorities which is first
+of all lead from the front take your
+salary to zero right and put that money
+in a fund for the people I think that
+sets a tone from the first day that
+we're we're going to make it through and
+we're in we're here for you um and we're
+also going to have to make some hard
+decisions. So, communication key. Um, my
+husband, that was a different kettle of
+fish. Um, I'm the paranoid one who was
+always like, "Is this lump? Do you think
+this is cancer? Do you think this is
+cancer?" And he was like, "Stop." And
+then it was, but it wasn't me.
+Um, you know, in the in the heat of the
+moment,
+it was fixing him, right? There's a 3%
+chance of survival with pancreatic
+cancer. So going back to blind optimism,
+like why can't we be one of those 3%. We
+can be 49 and a half years old,
+incredibly healthy. Um, so there's that.
+There's being there for your children,
+which is your job, right? Like got to be
+there for them. This isn't about you. So
+I think I like helping other people. And
+so you just blinders on. This is the
+mission and we're going to tackle it and
+failure is not an option.
+We didn't win that one. Um, and then
+it's okay. Well, how are we going to
+make sure that other people with the
+Brocka genetic mutation are aware of it?
+How are like, how are we going to honor
+Mark's spirit and his life? And how are
+we going to make a difference in the
+world? I send my kids off to school
+every day with the saying, make the
+world a better place. I think that
+that's all of our jobs. And so, um,
+really now fighting for genetic
+screening and really wanting everyone to
+be genetically screened. In Finland,
+they screen umbilical cord blood for 75
+cents when a child is born and tell them
+their genetic situation when they're 21.
+Like, that's smart. We should be doing
+that here. Um, so I just I'm very
+missionoriented.
+Um,
+I care about people deeply, the clear
+people and especially my family. And so
+I feel like you have to be a difference
+maker and you got to lead from the front
+and you just do.
+Thanks for talking about it and telling
+us about it. Um I'm fascinated to learn
+more about genetic screening and and
+it's probably something that you
+mentioned before we started recording
+that there's this strange like ignorance
+is bliss tendency that we have around
+our health. Um maybe you can say just
+one degree more about what you've
+learned about that and how we might
+change it. Yeah, you know, in a world of
+I I'm incredibly curious and um I was
+not curious about the Brocka mutation. I
+didn't know much about it besides I had
+heard about it from an about Angelina
+Jolie a while ago. Um and my husband's
+brother was diagnosed with pancreatic
+cancer in April of 2021 and it was the
+first time we found out that he was broa
+positive. So my husband was uh screened
+and I remember he peakedked his head
+into the study in June of 2021 and said
+I'm broa positive and I was like okay
+we're going to deal with this like so we
+went and we had him you know tested for
+we had him scanned for skin cancer and
+we had a cat scan to make sure that you
+know his organs to baseline it because
+he was 49 and a half. His brother was
+eight years older. It all came back good
+in July 2021. Turns out they missed it.
+Um, and he was diagnosed in January 2022
+with stage four pancreatic cancer
+that had metastasized to his liver. And
+what we learned about the brocha
+mutation at that point was that two and
+were Ashkanazi Jews that two and a half%
+of Ashkanazi Jews are Brocka positive.
+That is one out of 40 people. That was a
+shocking statistic to me. We had no
+idea. And to know that if you're
+genetically screened early, you can
+monitor it. you can be on top of it.
+There's all sorts of things you can do.
+It uh significantly raises a woman's
+chance of ovarian cancer and breast
+cancer, uh skin cancer, pancreatic
+cancer, and for men, prostate cancer.
+Mark's dad had prostate cancer, you
+know, 17 years ago, maybe more than
+that, but nobody bothered to test him
+for BA. And so our family is on a real
+mission with our Warrior Mench
+Foundation in honor of my husband and
+his legacy um to get the word out on
+genetic screening. We bought 2,000 kits
+for our synagogue thinking if we just
+give them to you, you'll go home. All
+you have to do is spit
+and send it in. Easy. Um and so we
+bought 2,00300 were picked up uh for the
+high holidays. And the rabbi who was a
+dear friend of my husband's my husband
+was chairman of our synagogue uh spoke
+about it. We had little um flyers on
+everybody's seat. I mean, what else are
+you doing on the high holidays? You
+could read it. Um I mean, you can also
+pray. Uh and 320 or so have been turned
+in. So only 25% of the tests that were
+taken have been turned in. Of those 320
+and change, seven of them are positive,
+which means that 2 and a half% is
+actually there. And of those seven that
+were turned in, then somebody had their
+sister tested and she was positive.
+Somebody had their kids tested and they
+were positive because you have a 50%
+chance of passing on the Brocka mutation
+if you have it. And so, you know, right
+now I think the count is 10 or 11 people
+who will be proactive in their health
+screening and can hopefully avoid,
+you know, uh, cancer or get it really
+early, which is the name of the game.
+Um, but for the thousand people who
+didn't turn it in, we made a video,
+including my son. I thought, well, if
+they see an incredible kid without a
+dad, they'll be motivated.
+Our rabbi has spoken about it. But to
+think that a thousand people took it,
+$250,000 of, you know, capital that went
+into it and that they don't want to know
+after that two and a half% that means
+that, you know, 25 people have it and
+haven't done anything about it. That's
+devastating. So really figuring out ways
+that people can save their children,
+save themselves, um early intervention.
+I I think genetic screening is so
+important not just for cancer but for
+other things. I don't think ignorance is
+bliss. I think people think it can't
+happen to them. And I understand that
+feeling. I used to look at people who
+lost someone and be like, "Oh, that is
+so sad. They lost someone." And now I my
+kids and I laugh like that's us. People
+look at us that way. Um,
+and we don't want to be victims. We want
+to be change makers.
+I I have this question I did not expect
+to ask. Um, what what is the most
+powerful uh idea or ritual derived from
+your religious tradition and faith?
+I would say it is two things. Um, it is
+the morning and night prayer that we do
+with our kids that I thought um and it
+was really Mark led the way on that. the
+best way to sort of ground ourselves in
+the morning and to help go to bed in the
+evening. I would say the other thing is
+Shabbat dinner, bringing people together
+on Fridays for Shabbat. Um, when I grew
+up it wasn't that much fun. It was like
+the four of us at a table, but we have
+lots of people and lots of fun and
+flowing wine and we do high lows and act
+of kindness. So, everyone goes around
+the table and talks about the best part
+of their week, the worst part of their
+week, and something nice that they did.
+Some people call it happy crappy. Um, so
+you know that's been a great way to get
+our kids to talk to share our own
+vulnerabilities with each other. Um, and
+it, you know, I will say
+when my husband died, our friends all
+created a sign up and everyone hosted a
+Shabbat and it held my family up in a
+really hard time.
+Incredibly beautiful and powerful. Hard
+to know where to go from there.
+I know. Back to biometrics. Say back to
+back to free cash flow. Even dog.
+What do you got?
+Pro for
+the name of the guy at that VC fund.
+Yeah,
+maybe the right question is the power of
+relationships in leadership. One of the
+things that about you that interests me
+most is this just incredible
+energy that you bring to the situations
+that you're in. and um you've now led
+this business for a long time. You've
+led a lot of people. You've led them
+through really hard times. You've led
+them through a lot of success. Maybe the
+fun way to ask it is what you respect
+most in other leaders. I'm sure you've
+also spent time with, you know, so many
+of the great, you've mentioned a lot of
+them already. Um so many of the great
+leaders. What do you most respect when
+you see leadership in others?
+I do love energy. It's it's what I'm
+drawn to like positive
+big daring energy. Um I love leaders who
+also can take that energy, stay quiet in
+a room and empower others to speak. So
+like when you went to Amazon or when you
+went to Apple back then there were other
+incredible leaders who you know would
+share their stories. Ron Johnson was
+running the stores at Apple when he
+spoke like he was the man. And so you
+felt like, God, there's so many big
+brains around the table. Uh the power of
+a team. I love sports. I used to want to
+be a sports reporter. I thought Brent
+Musberger was all that. So I wor for the
+Michigan Daily, but I never quite got to
+football. I was more on like the club
+soccer and volleyball. A team, the power
+of a team, the joy of winning as a team,
+the like I always am I marvel when
+somebody screws up and they just help
+each other up. They cheer each other on.
+Um, I aspired to do that as a leader.
+They're tough and they're dedicated. Um,
+they're creative. They're nonconformist.
+Those are the leaders that I like. And I
+think if you look at Ed Breen and Jeff
+Boyd and Bob Milad and Jeff Bezos and
+Steve Jobs and a bunch of other leaders,
+they're all very different. I don't
+think there's a cookie cutter way uh to
+be a leader, but I think it's
+authenticity and humility and big
+thinking and discipline and you know the
+5 a.m. thing and I you know I just I
+love it all and I love that each one is
+different and what makes them tick.
+I have a couple questions about company
+building just like a retrospective on 15
+years of doing this kind of categories.
+What have you learned about hiring?
+That I'm not as good as it at it as I
+would like.
+Oh, say more about that.
+I assume historically that everyone
+wants to win and that
+wired like you.
+Yeah. Like of course, aren't like And I
+have three kids and I show up at the
+field trip and I don't miss a soccer
+game at a birthday party, but I'm also
+sending emails at 2 a.m. So, of course
+you can make it all happen
+and like you want to, right? and you
+just want to run and you're curious and
+it's not just a job, it's a way of life.
+And I'm often disappointed and I go in
+with that bias and I don't ask the right
+questions because I go in with this
+positive bias that you know, you want to
+live it and you want to do it and
+customer says jump and you say how high
+and I'm not right. Um, and that is
+consistently disappointing to me and so
+I'm working on that. I'm attracted to
+people who have humble beginnings, who
+have overcome adversity,
+who don't fear failure, who want to be a
+team player, who are straight shooter
+and non-bureaucratic. Clear's the
+biggest company I've ever worked at. Um,
+and so, you know, again, hiring those
+people,
+great success, but I need to work on my
+bias of everyone wants to do it my way.
+And I would say also, I'm on the Home
+Depot board and I have learned so much
+about growing people internally from
+Home Depot. I've learned great leaders.
+I mean, incredible leaders, an
+incredible company. They grow people
+internally and in the most magnificent
+way. They take talent development really
+seriously. And so I've learned a lot
+from that. And so we have great success
+stories of clear of people who have been
+here eight and 10 years on a 15-year-old
+company started you know in one place
+have had five different jobs and are
+significant leaders at clear and so I
+love those stories but people are
+motivated by very different things and
+you have to understand their motivation
+and their incentives and uh then where
+they fit in the organization. You don't
+want everyone like me. Do you have a
+theory as to why more people aren't
+wired in uh this way about I don't know
+how to describe it like a this is not a
+drill type you know attitude towards
+life. Do you have a theory as to like or
+or like when were you always like this?
+Did you like wake up or was there like a
+moment or a precipitating thing like
+I I know no other way. I don't this
+you just don't get it why others are not
+like this.
+I don't get it. My kids don't get it.
+happily. They're all sort of wired like
+uh like me and Mark. And life is for the
+living. I mean, um this is a great
+country. I have a lot of gratitude. I
+didn't start with much of anything. My
+first job, my salary was $24,000 a year.
+Um my sister was FedExing me cash, you
+know, because I didn't have enough to uh
+you know, pay my bills. So, I don't I
+don't know any other way. Um, you know,
+I used to watch the last lecture by
+Randy Pouch and you know, he talks about
+Tiger and Eeyore and one of my
+anniversaries my husband bought me a
+tiger stuffed animal and it's like
+energy, positivity, be tiger. Who wants
+to be around the WW? Yeah,
+life is full of challenges. Life is full
+of disappointments.
+I've experienced more than my fair share
+and I have gratitude and optimism. And I
+also think when you see the other side,
+you know this is it. So live your best
+life and make a difference for others
+and pay it forward. Be a change maker.
+It's I don't know any other way and I
+don't understand others who don't.
+Nothing gets me more energized than
+someone who cares and loves their the
+thing they're building so deeply. Uh
+James Dyson just was making the rounds
+on the internet for like an 8 minute
+keynote. He's 70 or 80 years old.
+There's something beautiful about the
+marketing advantage that comes just from
+that, just from the passion that that
+just oozes off these people creating
+these things. And I get that from you.
+And so that's part of the answer is just
+like care deeply and love the thing that
+you're building. Um, what else have you
+learned about marketing? Since you're
+running a consumer subscription
+business, you have to reach a lot of
+people. What are the good and bad
+lessons that you've learned about what
+to do and not to do in marketing?
+You know, it's interesting. I would say
+the same thing for genetic testing that
+your biggest competitor is inertia.
+Yeah.
+Getting people to
+to do anything.
+Move is hard. Like again, the test was
+free. All you have to do is spit.
+Like not hard. Yeah.
+So hard. Yeah. Save your life. Save your
+kids' life.
+Really freaking hard.
+So inertia is really a tough thing to
+overcome. So trying to get incent people
+to move and to do things takes a little
+bit of time. You got to cut through the
+noise. I do think having humans bring it
+to life like we did uh with our
+ambassadors,
+but um word of mouth is powerful, but
+also it's a fragile world we live in. So
+a fund manager used to say it's the
+elevator, it's the staircase up and the
+elevator down, right? And we've
+experienced that, right? somebody tweets
+something negative, it's one person's
+opinion in a moment in time goes viral
+and that's the story. So, um it's
+fragile. I think I could do a better job
+quite frankly. I think I was saying
+before on the uh investor front of
+sharing our story and telling our story
+and humanizing our story. Um, I
+certainly think we have opportunities on
+that, but
+it is hard
+and it is fragile.
+And I also think you live in a consumer
+world of what have you done for me
+lately? It's like, you know, I used to
+say with Nike, they they changed the
+game like there used to be one sneaker
+every I don't know year and then they
+started speeding up, you know,
+innovation and it was like what's the
+new sneaker? Consumers want to be
+surprised and delighted
+all the time
+often. Yeah. You know, it's like what
+have you done for me lately? And so
+living in that world, you have to be
+launching features and products. You
+have to have an accelerated product
+roadmap. You have to talk about it. I
+think Uber and Airbnb have done a really
+good job of talking at sort of having
+two launch points a year to talk about
+their products and innovation. Uh we
+just sort of put it out there. Somebody
+was saying the other day like the
+heavenly bed that I think the Weston
+did, right? They did some event in Time
+Square and it was a big deal. They said,
+"We have better beds in some of our of
+hotels, but we didn't tell anybody."
+Right. You've got to capture people's
+attention and you've got to surprise and
+delight them and you also have to
+apologize when you do wrong and make it
+right.
+Anything you've learned about investors
+that's interesting to you being a
+company rather than a colleague?
+Sometimes I'm surprised at the lack of
+big picture questions.
+um really like we're right here. And I'm
+like, well, you know, the long term is
+made up of a bunch of near-terms, but I
+feel like you would want to understand
+the long term to understand how the
+near-term fits into it. Uh there's a
+lack of questions on free cash flow and
+how we spend the free cash flow. Um I
+don't even know that one looks at the
+cash on the balance sheet. You know,
+people tell me that I wouldn't
+understand how people invest today
+because there's all these pods and
+quants and that wasn't there when I left
+15 years ago. So, I was a valueoriented
+investor, which means different
+businesses have different return and
+growth characteristics and should be
+valued accordingly. That's how I looked
+at it. So, I thought Apple when we
+bought it for $14 with I think $9 a
+share of cash on the balance sheet was a
+value stock. Um, and the street thought
+they could earn 60 cents and I thought
+they could earn a dollar and then from
+there here's where we go. Apparently,
+that doesn't happen as much. So, but I
+still think that long-term valueoriented
+investing is the thing that yields the
+greatest fruit. I had the um pleasure of
+sitting with um Charlie Munger uh two
+years ago in his backyard and like he's
+mesmerizing, right? And I believe that
+that is how you create long-term value.
+What what most stood out from that day,
+what did he say that most
+I mean probably the fact that he still
+lives in that house. Yeah.
+Um and he was just in his backyard. Um
+his grandchild was in the house.
+uh the stories that he would tell, the
+crispness of his mind, his humor and his
+humility. Uh for someone with that kind
+of storied success, uh he signed his
+almanac. Um I I think it was his
+humility and his curiosity like tell me
+about your company, right? Tell me about
+what you think biometrics can do. What
+can the margins be? What's the you know
+total market? Could it go global? He was
+just grounded in basics. Um, and he was
+funny.
+I felt lucky.
+I guess I want to ask the same question.
+Two more questions for you. The first
+is, uh, tell us about your company.
+Where, where could this go? Like, if you
+really put your dreamer hat on, what
+happens in the next 10 years for and
+because of Clear?
+I think the world is safer and more
+frictionless for consumers and for
+enterprises. Uh I think that we should
+have tripledigit uh members on the
+platform using it for various use cases.
+That contextual identity is really
+powerful and identity with depth, what
+we call total identity integrity is
+unlocking all sorts of experiences and
+that you could actually leave your home
+with nothing, not even a phone, and be
+able to really transact in the world.
+And that that makes uh companies more
+compliant. It makes cost more efficient.
+It drives automation. It reduces stress.
+It delights people. And everyone is more
+productive. I think so much of what we
+have in this world is because we don't
+trust each other. I think identity is
+about building trust physically and
+digitally. So um both in the US and
+outside the US for clear.
+What part of the next 10 years for you
+personally gets you the most excited?
+Like you're going to be leading from the
+front. Which aspect is the most
+energizing?
+Making Clear's vision a reality with
+awesome team members. And so we're
+spending a lot of time on on enterprise
+leadership and one team, one dream. And
+that is very energizing working with
+really smart, dedicated, motivated, high
+integrity, creative people who all come
+together with different skill sets. I
+think that's awesome. Um, and then I get
+both excited on the art of the possible
+with travel because I think travel is
+going to continue to boom and we are
+really going to start to unlock
+innovation to transform it. And on
+enterprise identity, you know, I think
+the way you apply for a job and then
+onboard for a job and then reset your
+password and get onto your computer and
+transact is going to be transformed. And
+I think that that is a really important
+need in a world where cyber security
+challenges have risen significantly. So
+I get excited about the people that I'm
+doing it with. Um and the fact that then
+I can be open to doing other things. I
+don't have to be sending the emails and
+uh talking to the guy about his
+grandmother. Uh I can I can do more.
+I I thought of one more. What is
+happening in the world in the next
+couple of years that most opens us up to
+innovation that entrepreneurs could take
+advantage of and make us better as a
+country?
+I think the World Cup is a real forcing
+function for our country and it's only
+one year away. I think you know it was
+in Doha last time uh and in the middle
+Middle East. I think the opportunity to
+bring it to the cities in the US, major
+cities in the US, LA, New York, Atlanta,
+Miami, um is huge and that creates a
+real need in travel. It creates a real
+need in sports stadiums and ticketing uh
+to make experiences safer and easier. I
+think we want to be a showcase for the
+world on what we can do, how we can
+entertain, how we can drive security for
+the World Cup. Then two years later,
+it's the Olympics in LA, which just had
+these incredible fires. And so, how we
+drive mobility and security and
+hospitality in LA for the Olympics, I do
+not think is any easy feat. I think it
+will require real leadership and
+innovation. And I think those are
+forcing functions. You know, you need
+forcing functions to galvanize people
+say we got to make it by this date. Not
+to mention the 250th birthday of the
+United States, which comes at the same
+time. And I I think that we have not
+moved fast enough on innovation in this
+country. And I think that we need
+reasons and pushes to move faster to
+drive private sector innovation and
+private sector capital. I think it
+aligns with the needs right now. And I
+think that those will really create
+opportunities for great companies.
+I think you're right. I think we're
+lucky to have people like you driving
+this innovation. And I find you to be
+just like a total force of nature. And
+this is a total blast and a privilege.
+When I do these, I ask everyone the same
+traditional closing question. What is
+the kindest thing that anyone's ever
+done for you?
+Probably the letters that my husband
+left me with.
+Beautiful.
+Thank you so much for your time.
+Thank you.

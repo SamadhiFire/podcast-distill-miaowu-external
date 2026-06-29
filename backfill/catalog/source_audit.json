@@ -1,15 +1,620 @@
 {
-  "generated_at": "2026-06-28T15:58:26.432984",
-  "total_items": 0,
-  "total_duration_seconds": 0,
-  "total_duration_hours": 0,
-  "youtube_items": 0,
-  "youtube_duration_hours": 0,
-  "xiaoyuzhou_items": 0,
-  "xiaoyuzhou_duration_hours": 0,
-  "days_covered": 0,
-  "estimated_asr_count": 0,
-  "sources": [],
-  "monthly_breakdown": [],
-  "by_category": []
+  "generated_at": "2026-06-29T15:07:39.488158",
+  "phase": "C",
+  "total_items": 2903,
+  "total_duration_seconds": 8542694,
+  "total_duration_hours": 2373.0,
+  "youtube_items": 2711,
+  "youtube_duration_hours": 2109.5,
+  "xiaoyuzhou_items": 192,
+  "xiaoyuzhou_duration_hours": 263.5,
+  "days_covered": 387,
+  "estimated_asr_count": 1818,
+  "sources": [
+    {
+      "source_id": "xyz_zhang_xiaojun",
+      "name": "张小珺Jùn｜商业访谈录",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260126",
+      "newest": "20260612",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_business_is",
+      "name": "商业就是这样",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260514",
+      "newest": "20260629",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_gao_neng_liang",
+      "name": "高能量",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260210",
+      "newest": "20260626",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_mian_ji",
+      "name": "面基",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260309",
+      "newest": "20260622",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_wu_ren_zhi_xiao",
+      "name": "无人知晓",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20231114",
+      "newest": "20260303",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_xian_sheng",
+      "name": "先声",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 12,
+      "oldest": "20250609",
+      "newest": "20260618",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_du_shu_bu_cheng_lin",
+      "name": "独树不成林",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260505",
+      "newest": "20260625",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_luan_fan_shu",
+      "name": "乱翻书",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260128",
+      "newest": "20260624",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_ruby_insight",
+      "name": "Ruby的洞察",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20250806",
+      "newest": "20260617",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_late_talk",
+      "name": "晚点聊 LateTalk",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260331",
+      "newest": "20260629",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_42zhangjing",
+      "name": "42章经",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20251108",
+      "newest": "20260627",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_the_prompt",
+      "name": "the prompt",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20231012",
+      "newest": "20260611",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "xyz_whats_next",
+      "name": "What‘s Next｜科技早知道",
+      "platform": "xiaoyuzhou",
+      "status": "complete",
+      "items": 15,
+      "oldest": "20260401",
+      "newest": "20260626",
+      "stop_reason": "web_next_data",
+      "error": null
+    },
+    {
+      "source_id": "yt_knowledge_project",
+      "name": "The Knowledge Project Podcast",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 132,
+      "oldest": "20250708",
+      "newest": "20260625",
+      "stop_reason": "api_paginated_3p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_lennys_podcast",
+      "name": "Lenny‘s Podcast",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 309,
+      "oldest": "20250629",
+      "newest": "20260628",
+      "stop_reason": "api_paginated_7p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_sv_girl",
+      "name": "Silicon Valley Girl Podcast",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 40,
+      "oldest": "20250704",
+      "newest": "20260619",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_acq2",
+      "name": "ACQ2",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 3,
+      "oldest": "20250819",
+      "newest": "20251208",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_acquired",
+      "name": "Acquired Podcast Full Episodes",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 13,
+      "oldest": "20250630",
+      "newest": "20260624",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_bloomberg_china",
+      "name": "Bloomberg The China Show",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 329,
+      "oldest": "20250630",
+      "newest": "20260629",
+      "stop_reason": "api_paginated_7p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_bloomberg_originals",
+      "name": "Bloomberg Originals",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 325,
+      "oldest": "20250629",
+      "newest": "20260627",
+      "stop_reason": "api_paginated_7p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_bloomberg_surveillance",
+      "name": "Bloomberg Surveillance Full Shows",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 248,
+      "oldest": "20250701",
+      "newest": "20260627",
+      "stop_reason": "api_paginated_5p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_business_breakdowns",
+      "name": "Business Breakdowns",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 16,
+      "oldest": "20250712",
+      "newest": "20260508",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_invest_like_best",
+      "name": "Invest Like The Best",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 78,
+      "oldest": "20250701",
+      "newest": "20260624",
+      "stop_reason": "api_paginated_2p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_leaders_lacqua",
+      "name": "Leaders with Francine Lacqua",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 8,
+      "oldest": "20260316",
+      "newest": "20260622",
+      "stop_reason": "api_paginated_1p",
+      "error": null
+    },
+    {
+      "source_id": "yt_masters_in_business",
+      "name": "Masters in Business",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 44,
+      "oldest": "20250912",
+      "newest": "20260627",
+      "stop_reason": "api_paginated_1p",
+      "error": null
+    },
+    {
+      "source_id": "yt_odd_lots",
+      "name": "Odd Lots",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 89,
+      "oldest": "20250901",
+      "newest": "20260625",
+      "stop_reason": "api_paginated_2p",
+      "error": null
+    },
+    {
+      "source_id": "yt_odd_lots_audio",
+      "name": "Odd Lots Audio",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 121,
+      "oldest": "20250630",
+      "newest": "20260627",
+      "stop_reason": "api_paginated_6p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_cannonball",
+      "name": "Cannonball with Wesley Morris",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 49,
+      "oldest": "20250704",
+      "newest": "20260625",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_lex_fridman",
+      "name": "Lex Fridman",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 24,
+      "oldest": "20250713",
+      "newest": "20260530",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_revisionist_history",
+      "name": "Revisionist History",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 19,
+      "oldest": "20250927",
+      "newest": "20260626",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_interesting_times",
+      "name": "Interesting Times with Ross Douthat",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 56,
+      "oldest": "20250710",
+      "newest": "20260625",
+      "stop_reason": "api_paginated_3p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_mishal_husain",
+      "name": "The Mishal Husain Show",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 38,
+      "oldest": "20251017",
+      "newest": "20260626",
+      "stop_reason": "api_paginated_1p",
+      "error": null
+    },
+    {
+      "source_id": "yt_the_daily",
+      "name": "The Daily",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 204,
+      "oldest": "20250630",
+      "newest": "20260625",
+      "stop_reason": "api_paginated_5p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_the_interview_nyt",
+      "name": "The Interview - New York Times",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 44,
+      "oldest": "20250705",
+      "newest": "20260627",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_wsj_bold_names",
+      "name": "WSJ Bold Names",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 37,
+      "oldest": "20250702",
+      "newest": "20260327",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_wsj_take_on_week",
+      "name": "WSJ Take On the Week",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 48,
+      "oldest": "20250629",
+      "newest": "20260628",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_bg2pod",
+      "name": "Bg2 Pod",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 10,
+      "oldest": "20250711",
+      "newest": "20260612",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_dwarkesh",
+      "name": "Dwarkesh Podcast",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 28,
+      "oldest": "20250711",
+      "newest": "20260617",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_no_priors",
+      "name": "No Priors Podcast",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 232,
+      "oldest": "20250703",
+      "newest": "20260626",
+      "stop_reason": "api_paginated_5p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_openai_podcast",
+      "name": "The OpenAI Podcast",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 20,
+      "oldest": "20250701",
+      "newest": "20260617",
+      "stop_reason": "api_paginated_1p_date_stop",
+      "error": null
+    },
+    {
+      "source_id": "yt_sequoia",
+      "name": "Sequoia Capital",
+      "platform": "youtube",
+      "status": "complete",
+      "items": 147,
+      "oldest": "20250701",
+      "newest": "20260624",
+      "stop_reason": "api_paginated_3p_date_stop",
+      "error": null
+    }
+  ],
+  "monthly_breakdown": [
+    {
+      "month": "2023-10",
+      "count": 3,
+      "duration_hours": 1.0
+    },
+    {
+      "month": "2023-11",
+      "count": 3,
+      "duration_hours": 2.8
+    },
+    {
+      "month": "2023-12",
+      "count": 2,
+      "duration_hours": 2.1
+    },
+    {
+      "month": "2024-01",
+      "count": 1,
+      "duration_hours": 1.0
+    },
+    {
+      "month": "2024-02",
+      "count": 2,
+      "duration_hours": 1.7
+    },
+    {
+      "month": "2024-03",
+      "count": 1,
+      "duration_hours": 1.5
+    },
+    {
+      "month": "2024-05",
+      "count": 2,
+      "duration_hours": 1.6
+    },
+    {
+      "month": "2024-06",
+      "count": 1,
+      "duration_hours": 1.3
+    },
+    {
+      "month": "2024-07",
+      "count": 1,
+      "duration_hours": 0.5
+    },
+    {
+      "month": "2024-10",
+      "count": 1,
+      "duration_hours": 1.8
+    },
+    {
+      "month": "2024-12",
+      "count": 1,
+      "duration_hours": 1.7
+    },
+    {
+      "month": "2025-05",
+      "count": 2,
+      "duration_hours": 2.9
+    },
+    {
+      "month": "2025-06",
+      "count": 5,
+      "duration_hours": 2.9
+    },
+    {
+      "month": "2025-07",
+      "count": 230,
+      "duration_hours": 183.2
+    },
+    {
+      "month": "2025-08",
+      "count": 203,
+      "duration_hours": 195.6
+    },
+    {
+      "month": "2025-09",
+      "count": 199,
+      "duration_hours": 164.0
+    },
+    {
+      "month": "2025-10",
+      "count": 253,
+      "duration_hours": 189.1
+    },
+    {
+      "month": "2025-11",
+      "count": 268,
+      "duration_hours": 185.8
+    },
+    {
+      "month": "2025-12",
+      "count": 214,
+      "duration_hours": 171.8
+    },
+    {
+      "month": "2026-01",
+      "count": 226,
+      "duration_hours": 182.1
+    },
+    {
+      "month": "2026-02",
+      "count": 222,
+      "duration_hours": 171.9
+    },
+    {
+      "month": "2026-03",
+      "count": 242,
+      "duration_hours": 214.1
+    },
+    {
+      "month": "2026-04",
+      "count": 257,
+      "duration_hours": 226.6
+    },
+    {
+      "month": "2026-05",
+      "count": 299,
+      "duration_hours": 249.0
+    },
+    {
+      "month": "2026-06",
+      "count": 265,
+      "duration_hours": 216.8
+    }
+  ],
+  "by_category": [
+    {
+      "category": "产品 / 创业 / 管理",
+      "count": 496,
+      "duration_hours": 223.0
+    },
+    {
+      "category": "商业 / 财经 / 投资",
+      "count": 1346,
+      "duration_hours": 1475.0
+    },
+    {
+      "category": "文化 / 社会 / 人文",
+      "count": 137,
+      "duration_hours": 183.8
+    },
+    {
+      "category": "新闻 / 时评 / 全球议题",
+      "count": 442,
+      "duration_hours": 282.5
+    },
+    {
+      "category": "科技 / AI / VC",
+      "count": 482,
+      "duration_hours": 208.7
+    }
+  ]
 }

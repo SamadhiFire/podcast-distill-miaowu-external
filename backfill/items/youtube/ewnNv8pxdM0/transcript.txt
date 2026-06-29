@@ -1,0 +1,3341 @@
+Kind: captions
+Language: en
+Hello, Acquired listeners. Since we did
+our episode on Shopify 6 years ago, they
+have turned into a giant public company.
+They went public in 2015 for less than
+1.5 billion dollars, very cute by
+today's standards. They're worth nearly
+200 billion dollars now and doing about
+10 billion dollars a year in revenue.
+We've gotten to know Toby and the team
+pretty well since then, and Toby is an
+incredibly unique thinker. We originally
+thinking, let's do an ACQ2 episode on
+Shopify's recent developments, sort of
+everything that's happened since, which
+ended up turning more into a
+philosophical conversation about the
+state of computing, how AI changes
+everything, and what's possible to build
+in the future because of AI. Yeah. We
+also got into some of the more insane
+moments for Toby as a CEO over the past
+few years, like when the company almost
+became a meme stock, going from trading
+around a 20x revenue multiple before
+COVID up to 70x, then crashing back down
+after COVID and insert. Today though,
+they're nearly back at an all-time high,
+but this time because the business and
+the revenues are actually doing great,
+not because of a COVID insert fueled bet
+on the future. Yes. So, please enjoy our
+conversation with the founder and CEO of
+Shopify, Tobi Lütke.
+Where have you spent a disproportionate
+amount of your mental cycles in the last
+month?
+It is a privilege of a lifetime to to be
+part of an another platform shift. And
+man, like it's just every single time I
+think I have my head wrapped around it,
+it's like
+it it's remarkable how quickly one
+normalizes to um
+uh completely
+futuristic new things appearing. They're
+all kind of like, yeah, I guess I can
+just paste this into chat GPT and like
+ask it questions about it. I'm still
+hung up on like
+there's software that no one wrote, and
+I have to interview it to figure out its
+capability. So, my my time is like
+really just interviewing uh
+at like these um
+like new models that are coming out for
+their capabilities and like I'm just
+trying to figure out how to um
+um make them idealized non-judgmental
+teachers for people. They keep getting
+better and how to create structure
+around
+uh judging new models for their
+capabilities, figuring out where the
+edges are of what they can do right now,
+but also make it so that I can very
+quickly retest any new model coming
+against those edges to figure out if if
+if if we've crested another Do you have
+your own personal like test harnesses
+built to try to understand capabilities
+of
+&gt;&gt; That's exactly it. This is sort of what
+I'm describing, but you're like nailing
+it. Like I I I now um have um
+like a uh like a Tobi eval that they're
+like it's it's like literally a folder
+of um prompts um with uh expected and
+judged results. And I'm like I I run it
+against every model. Like if at some
+point I'm like
+yes, I have these chats and I have these
+standard questions, and then I sort of
+make decisions based on this. I can
+write code that does this for me and run
+this against every model. And like it's
+just like it's funny how your thinking
+evolves while engaging with these tools,
+right? Like this is like not how I would
+have approached this before, but like
+speaking with um a lot of machine
+learning um
+uh experts um
+this is how they have been doing this.
+These these ideas of um
+building evals, uh they're called,
+right? Like
+um that's not a term to most people and
+it's sort of a niche product of the
+machine learning world because it's
+essentially just batch jobs which just
+try to do the same thing over and over
+again and then judge results. Yeah, I
+know that there's unit tests
+&gt;&gt; Exactly. So, yeah, exactly. So, you you
+you you unit tests were around and were
+were like kind of a revolution um in um
+early 2000s, end of '90s. The I I
+remember when people sort of proposed
+automated unit tests as a as as a thing
+and
+I talked um with you before about my um
+uh wonderful uh Meister at where I where
+I did my apprenticeship um with at
+Siemens and he always said like you have
+2 years um to develop software after you
+start, and afterwards it's like someone
+pours cement into it, right? Like you're
+never going to change it again.
+And um
+that was like that was true at in the
+'90s. That's how people thought about
+software. Um Right, software engineering
+was like civil engineering. It's like
+you build the bridge, the bridge is
+done. Exactly. It was as an end date to
+it. And then um
+um if you wanted to evolve it, you
+rewrote it, right? Like um uh you know
+like Windows was a rewrite every
+every major version was actually start
+from They took some of it, but like it's
+mostly start from scratch. Software
+evolves forever. Um I mean, I still
+can't really explain why bit rot exists.
+Like why does a great piece of software
+is really really bad like a decade
+later, right? Like it's like it doesn't
+changed. We have changed, right? Our
+expectation have changed maybe, but like
+um As soon as the new iOS is announced,
+the old iOS feels like garbage.
+&gt;&gt; Right. And it's not that your phone got
+slower, and it's not that those it's
+those you UI paradigms sort of expired.
+That's right. And and and and I see this
+like really vividly. This is a good
+example because you know, I do all these
+product reviews and um I'm also like
+I mean, it's so it's it's such a bad
+thing to do, but I I just I I physically
+can't restrain myself from hitting that
+update to latest beta button when it
+appears anywhere. Right? Like it's just
+like I cannot. I I
+like it's like this is siren's call.
+There's no amount of
+&gt;&gt; Do you Do you run beta software on your
+phone and Yeah. First version. Like I
+just I can't. I can't not. I'm like and
+I I I have I have a single phone and I'm
+like I'm I'm just going to
+I I find all the bugs that are waiting
+for me as interesting constraints that I
+can like play with. You know, just like
+You have Craig Federighi on speed dial
+and you're like sending him screenshots
+of Nope. Nope. No externalities. Uh I'm
+just like I own it. I own my own
+problems. I I'm going to the first
+developer beta, and if five of my apps
+that I need every day don't work, I use
+it as delightful opportunity to learn
+about new apps, right? So, it's just
+like You're a public company CEO and
+sometimes your phone is just randomly
+crashing.
+&gt;&gt; work. But that actually is avoidable and
+but not for you. Yeah, it's it's
+Whatever the consequences on This is why
+Tobi is special.
+So, anyway, I just like live in um you
+know, uh as much as you know, iOS is
+just updating to a new UI paradigm
+called liquid glass, which was very much
+maligned right off the bat by uh people
+um and some somewhat rightfully so in
+some instances. But to be fair, like
+Apple has an uncanny ability to figure
+out like introduce things that
+afterwards seem that was clearly the
+right thing and actually have an like
+it's not even clear that they are
+better, it's just they clear that they
+make everything else It's it's induced
+bit rot on everyone else in a way. It's
+like just So, I I I've been living with
+this
+changed you UI for for a while and I'm
+in these product reviews with my own
+teams and
+um you know, we're looking at designs
+which are clearly sort of uh s- um good
+designs in the context of the world that
+we are now leaving, you know, in a way.
+And like it it's incredible what it
+does. Like because I'm like, hey
+designers, I know you
+I need you on betas. You kind of you
+need to design for um the device as it
+will be experienced by people in the
+future, right? And so um I find that is
+just like the biggest job
+that um
+uh you know, I personally can do for the
+company and then my company can do for
+my customers, which is like living
+everyone else's relative future.
+You don't even need to predict the
+future that well. If you just live in
+everyone else's relative future, which
+really is just a couple of um
+high conviction high courage uh update
+to beta
+clicks. It's not that hard to live in
+the future. It really isn't. Yeah. Yeah,
+exactly. You just go experience, you
+know, develop taste for it and figure
+out how to make your own decisions. And
+this is of course extraordinary through
+making, you know, sidekick inside of
+Shopify and like having the AI assistant
+which is now like massive.
+&gt;&gt; Okay, so yeah, tell us about that and
+like back to bit rot. I mean, that was
+what I was going to ask before.
+Uh
+a lot of code is now not written by
+humans and it's trivial to just be like,
+yeah, update this, make this better.
+What's going on in Shopify?
+&gt;&gt; exactly. Like what what a what a
+incredible change. Code used to be by
+far the most expensive thing and uh to
+produce, right? I think um
+really really good code for low-bearing
+things is still exactly like this, but
+like around around the margins there's a
+lot of a lot of a kind of code that
+glues together um
+inspired infrastructure is uh can can
+can now just be treated as
+like like a like a first draft, right?
+Like for for something. And I think
+that's actually extremely healthy. Like
+this is a property of almost every great
+piece of software. Um there's a thing
+there's there's a very clear split um
+somewhere. There's a layer like the
+Linux kernel needs to be developed in
+one way, and and and then the Linux
+operating system is like
+just uses the kernel's infrastructure
+and pretends like every computer is the
+same because you don't you can you can
+like it it creates a pretend world
+that's easier to reason about so that
+then
+the software can be implemented.
+Abstraction. It's a beautiful thing.
+Yeah. Abstraction, but inspired
+abstraction. Abstractions can also be
+bad because like
+abstraction is a just another word for
+uh pretension. It's it pretends like
+everything that abstracts something just
+pretends
+um it's different from how it actually
+is.
+And so, abstractions can be incredibly
+powerful and uh there there there's some
+one could name which have like really
+stood the test of time. But a lot of
+abstractions are um lossy abstractions.
+They actually pretend the system is
+something um
+uh it it it is a lot less powerful than
+it what it actually is, which really
+really matters if you have both things
+on top. And then you end up on this like
+tower of uh um
+abstractions you sit on top. You want
+something for which you would actually
+have to go down here and connect. And
+then you have this sort of
+a spider web of cables left and right,
+and it's just like it's it's it's all
+it's all like spaghetti in the end. Um
+This was like the world of uh to make it
+concrete for listeners, the uh write
+once, run anywhere mobile idea where oh,
+we'll just cross-compile to all of the
+different phones back in 2012 or so. It
+was PhoneGap or Xamarin. Yeah, and the
+the abstractions ended up being too
+lossy where you didn't actually be a
+have access to the capabilities.
+&gt;&gt; debacle of like, "Oh, great. We'll just
+write for HTML5 and then it'll run like
+a native app." And you know, like
+no. Yeah, and and and you know, very
+very good software companies believed
+that to be the way, right? Like hybrid
+applications were all the rage in the
+beginning. And you remember the phones
+were really really slow back then. The
+phones are insanely quick and even today
+hybrid apps are not that great. So, you
+know, Facebook famously was all in on
+this idea and
+Xamarin is a good example. So, there's a
+lot of these kind of um
+picking the wrong abstractions early
+really constrains
+uh the um what you can do on top. Uh
+But and very often when the abstraction
+is wrong,
+it means you can't actually reach great
+software anymore. More you you actually
+pretended the world is simpler, but like
+you don't actually allow all the
+most load-bearing uh pieces into this
+pretension a pretended world um that uh
+at some point required to making the
+software just really really good.
+And so, you know, again, I'm a tool
+maker, right? Let's keep beating on this
+Xamarin thing that no one's heard of,
+but like just I think we've described it
+enough so that people might have an idea
+for what it might be. Just imagine you
+use very bad software and um the team
+that started the project decided early
+to use Xamarin and then they never had a
+chance of making this
+as good as all the other things you
+really appreciate on your phone due to
+this decision no matter how good they
+are.
+It's like building your house on top of
+your kitchen table instead of on the
+foundation of your house. That's a very
+good analogy. Um it's it's you can't
+They They are early decisions that will
+constrain how good you can make
+something. In our parlance at Shopify,
+that means
+certain ideas, certain abstractions,
+certain choices um
+uh bring the ceiling down as in like if
+you have a scale from 1 to 10 of how
+good something can be. A 10 is
+world-class masterpiece and a one is
+like like horrible. Um
+what you hope to do is that you use
+abstractions to make it easier to which
+to to to reach a good number. It brings
+the floor up. It's at least this good,
+right? That's what most abstractions do.
+And from business value, this is a lot
+of businesses choose tools to make it at
+least this good because that is sort of
+a passing grade, right? Like it it
+clears the hurdle. Why why would any
+customer use Shopify? It's like, well,
+okay, I could go build my own e-commerce
+checkout payment system. My store's
+going to be at least this good even if I
+do zero customization. Right. And well,
+if you set out to do your own like um
+from scratch,
+and this is not your your core business,
+what you get back might actually be like
+completely underperforming what you
+wanted. Right? Like so you can't even
+use it. It might be will be. Yes. Very
+very very likely. And um it becomes one
+of those ever like death march projects
+that you just pour resources in. It
+takes incredibly good people to rescue a
+bad project, which is like hard to even
+convince good people to do this. Windows
+Vista uh Yeah. Yeah. So, um you end up
+in this world where you know, so bring
+bring the floor down is what people hope
+for. What a lot of people miss is very
+often the same systems bring the ceiling
+down.
+And so, um what you are try like trying
+to do as a tool maker, as an
+infrastructure builder, um as a product
+maker
+is you want to make a uh tool that
+brings the floor up significantly,
+but doesn't constrain the ceiling. And
+that is extremely hard. I think it takes
+sometimes it takes um
+it it might not take decades to build
+it, but it does take decades to
+build the mental um
+picture to really understand all the
+aspects of a problem domain um in such a
+way that you know you you you have to
+look around five corners to know am I
+going to restrict someone's potential
+with making this sort of choice that's
+here ahead of me. Uh modern operating
+systems are wonderful. They don't
+usually lower the ceiling. Um uh they
+like you you can build any amazing piece
+of software on top of uh you know,
+Windows, Linux, and all the 6 now. We we
+figured out how to do this because we've
+been building operating systems for a
+very long time and there were clearly um
+attempts that were wrong.
+You know, there's many such spaces,
+e-commerce software being being being
+one of them. Um like there it's just
+like yes, we want we want to build
+something that's that looks like this.
+However,
+it also matters how likely it is. Like
+what is the distribution inside of you
+the users of the system of who people
+who hit 10 out of 10 versus like if your
+floor is 7 out of 10, which is really
+good,
+is is is everyone clustered there and
+one or two people managed to take it to
+the storied heights? That's also bad.
+And again, this is why I think um
+um
+AI is so exciting because I think it's
+its principal ability is really to help
+um massively shift the sort of scatter
+plot of where people end up in as
+compared to their own vision. I want
+people if they have like whatever their
+vision is unencumbered is a 10 out of 10
+um on the scale. I want them to hit it.
+And I just like
+if they don't, there needs to be good
+reasons and ideally their own. Like um
+the choices they made may may made
+mistake. Maybe their product's not good.
+&gt;&gt; Not that the platform constrained them
+into not being able to make something
+great.
+&gt;&gt; Computers should never to constrain
+people. It's like this is not the
+computer's role. The computer is to get
+people to build things that they could
+not possibly imagine putting having
+having solved otherwise. It's like this
+is like this is the sorting. This is the
+ordering. Like computers are there to
+make
+humans better, never to constrain what
+humans can do. What does that look like
+from a product? I could imagine, but
+what sort of products are you building
+that take advantage of that? Usually
+when it is a 10 out of 10, very often um
+um
+people have broken with, you know,
+experts. Some people will really
+dedicate themselves to really really
+understanding all the ins and outs of
+of a really complex piece of software.
+In many cases, that's the only way we
+could get there. Although I think this
+the role of software is to minimize the
+need for this kind of thing. And we want
+to make it approachable so that people
+can sort of
+again, accomplish their initial goal,
+get online, have a checkout, be able to
+sell the product that they spent a lot
+of time with. And if they have
+additional time to invest, be able to
+start um
+we call this hill climbing, right? So,
+now with
+like
+you have now AI you can ask. In fact, we
+are going to increasingly ask you
+um
+what your goals are, right? Or at least
+we we have to try find ways to uh deduct
+that from what people are doing with the
+software or just straight up ask. My my
+my theory is that people are very happy
+to tell us what their goals are. And a
+lot of software just doesn't do it
+because it can't action it. But it
+maybe it a lot it has a We could put a
+to-do list there and
+help you with the record keeping,
+but it can't be uh
+we can't do anything about a to-do list
+before AI. And now again, with these
+gigantic flows, we increasingly can. So,
+um
+yeah, like in like I think the way to
+get to 10 out of 10 is just like really
+sit on the same side of the table, have
+an like we have an intake. We we you
+very naturally tell us what you're
+trying to accomplish,
+and then we can show you here's what a
+prototype would look like of this idea
+that
+that you have. And just like
+also implement just these obscure best
+practices, right? I've spoken with one
+of our customers. They're selling rugs
+and um Rugs? Like sorry, rugs. Oh, rugs.
+Okay. The woolly stuff on the floor.
+&gt;&gt; Yeah, yeah, yeah. Like beautiful
+carpets, really. Um I should I should I
+should use the word carpets because that
+works better with my accent.
+They were just not making progress in um
+in in with their Europe strategy and
+kind of about to pull out and then they
+used some tools that uh we we we rolled
+out not really knowing what it would be
+used for to um
+just change the pictures. Like literally
+just
+upgrade update the the images of all
+their products away from Malibu beach
+houses to Parisian apartments. Um like
+this was not a new photo shoot. This was
+actually just like do this for me. Wow.
+And their sales tripled because 4 years
+ago, 3 years ago, this would actually
+technically not have been possible to
+do. Now it's about the most boring thing
+you can imagine, right? Like this is how
+much the world has changed. I mean, at a
+minimum it would have been like, "Okay,
+let's book a photo shoot in Paris and
+let's like, you know, yeah. Like
+allocate some capital, organization,
+like it's it's needs some attention,
+probably someone
+&gt;&gt; product there. Let's try out the yeah.
+And so now now now this is just done and
+like this has proven out. And again, I'm
+I'm sure they don't run these
+AI changed
+product pictures now um in production.
+I'm sure they did the shoot afterwards.
+Um
+but
+they also discovered something over
+their business which would have been
+entirely obscure to it. But this is a
+applicable lesson across the entire
+platform and something we can absolutely
+help. There's more businesses that don't
+have the resources to go reshoot all
+their pictures. Well, and and shoot,
+like the stuff is now so good that like
+you probably don't need to do the shoot.
+Right? Like even if you are uh
+the biggest business in the world, like
+differences is indiscernible. Yeah. I I
+I and you know, like if when you talk
+about the biggest business in the world,
+they they already operate like this.
+Like IKEA does not um
+that is like the IKEA catalog is not has
+no photos in it. It's all renders. Um
+they they just like they create really
+really good versions of Oh, car
+commercials are not videos of cars
+driving. It's renders of the cars. And
+you only know because um
+the uh professional drivers on on on
+closed roads has disappeared, which was
+required before, right? Like so that
+that just doesn't They don't need to
+show us anymore because I hadn't noticed
+that. Like there's no one actually
+driving.
+&gt;&gt; giveaway. Yeah, yeah, yeah. So, I think
+the way this really like hits for me the
+most is um again, I grew up on like all
+the sci-fi books that uh everyone in my
+generation really grew up on or many of
+many did anyway. Um The sort of like
+very very optimistic, but also far
+future like
+Asimov and so on. What What's your
+favorite, by the way? Um I I I I'm my
+favorite. That's actually
+My I think Snow Crash is my favorite.
+It's just And And Neuromancer is uh I
+recently reread Neuromancer. It's a good
+really really good book.
+&gt;&gt; That's a giveaway. Yeah, I know. Yeah.
+In so many cases,
+like
+especially Heinlein did this. Like
+there's usually like a catch-up chapter.
+Here's how the
+we get to the starting point of a book.
+And um
+one of the events is always
+in 20
+uh 2110
+we pass the Turing test. And like there
+are celebrations in the streets and then
+something turns out right usually right
+after, right? Like um to set the stage.
+And you know what no sci-fi author dared
+to predict is that the Turing tests
+just passes by.
+&gt;&gt; We just blow by it and nobody noticed.
+&gt;&gt; No one can There was no New York Times
+front page article that we passed the
+Turing test. There's no It's not even
+like the tech community was exploding
+about it. We all were just like, "Oh
+yeah, we're in the generative AI era
+now."
+&gt;&gt; But if you just think
+clearly GPT 3.5 which is like like it's
+significantly worse than something you
+can run on your phone right now locally
+like pass the Turing test with flying
+colors. And it's it's it's this is
+crazy. Like this is this is the craziest
+thing about the actual world if you
+think about It's interesting that
+uh if I
+maybe I'll take back my previous
+comment. What was actually happening
+when we passed the Turing test and no
+one cared was we were all so focused on,
+"Oh, is this the path to AGI?"
+I kind of wonder if AGI will be the same
+thing where we do actually achieve ABI
+AGI but we'll actually be talking about
+some other future milestone that we're
+wondering about.
+&gt;&gt; I think humans are incredibly good at
+moving the goal post.
+Yeah.
+&gt;&gt; It's like the there's some kind of
+expectation-related version of a
+hedonistic treadmill that we sometimes
+talk about which is like just like it
+moves forward. It's like we adjust we
+adjust to our circumstances incredibly
+quickly. Um and so um
+like I mean
+almost everyone listening lives uh um
+their own dream life from many years
+ago, right? Like people accomplish their
+goals and um
+we we kind of never stop to think about
+it. And I think this is like it's really
+really hard for us to judge our
+our own um our own environment and
+what's going on around us. So I think in
+a in a like on a societal level this
+even seems to replicate. And
+again, the Turing test was one of the
+best takes we've had and people can like
+now people criticize it because it's not
+good enough because of I suppose it
+wasn't.
+But like um it was still the best test
+uh that that people generally refer to
+about figuring out if something is
+intelligent. And we passed it and um
+there was no
+no parades no
+uh front page news
+No no no ticker tape parades. You know,
+it's like it's we should have Yeah. Um
+&gt;&gt; seem though that there are like there
+are a few CEOs of which you are one
+that
+uh
+noticed this. And like you're behaving
+You started this
+by saying you have the privilege now of
+living through another platform shift. I
+don't think any the world has quite
+realized yet that it's a platform shift.
+Yeah. I um
+I I I but I wish people would. And I
+wish people would like sort of seep in
+the remarkableness of it. Like it's just
+like I don't like
+I don't know if you've ever done this.
+Like I mean I love the the the VR Google
+Meta Quest and so on. Um
+I I I
+uh
+use it more than most because I use it
+for like um
+uh
+uh racing simulator preparations and so
+on. It's it's it's a it's an incredible
+device which also like VR was another
+one of those things which we thought we
+would get at some point and then it came
+and like it's kind of like there. People
+use it sometimes for like their fitness
+work or whatever. It's just like it's a
+like it it just folded into uh the
+ambient world
+&gt;&gt; at least for some.
+&gt;&gt; it wildly for granted that that
+technology is cheap and plentiful Yeah,
+exactly. $299 or whatever like for for
+like remarkable device, right? You know,
+augmented reality. Like also something
+people talk about. You you you can buy
+them next week. Like it's just like the
+event next week
+after we film this and then afterwards
+you can just purchase VR goggles video
+thing.
+&gt;&gt; Yeah, the Meta glasses. Yeah, yeah. It's
+amazing. Um uh and so um
+that's all around us. And you know, one
+thing that really struck me is when when
+when you play with the um
+uh Meta Quest um and then and the VR
+goggles, there's one game that I really
+highly recommend people. There's
+It's called Job Simulator. Have you Have
+you ever encountered Job Simulator?
+Okay, you have to try it out. Job
+Simulator is like this sort of satirical
+take of like a like it pretends we're in
+the far future and there's museums
+um where uh uh people go to figure out
+what a job was.
+Yes. And it starts you on a cubicle. And
+you know, like you have to turn on the
+computer. And uh you have to like to
+turn it on you actually have to plug a
+um
+uh uh power cable into the wall, right?
+And it's like otherwise it doesn't work
+and you just think it's broken. And it
+it it it's it's so wonderful because
+like it plays on the future historians
+and robots kind of getting details
+wrong. I actually think it's like
+profound uh
+um and and actually brilliant commentary
+on on on on on on on on the world. But I
+think what idea this nailed is that
+I think we will have um VR simulations
+of these times. I think we do like I I
+think this is golden age of humanity
+right now. It's the I think it's the end
+of the beginning. And and so I think we
+will um I think people in 1,000 years
+will um study these times uh the way we
+are studying um Cicero's times of the
+end of the Roman Republic and um as as a
+significant part of history. And um
+because it's kind of where we
+figured ourselves out in a lot of ways.
+And yes, there's like people look at you
+know, you look at the news there's lots
+of
+um uh
+like there's a lot of current affairs
+and bends. I I think they will um
+um fade out um
+uh behind
+simplistic terms like obviously there
+was like strife in any kind of time
+doing uh doing great change. But it's so
+unmitigatedly good. It's like there's so
+many things we are we are um
+bringing to the world these gifts of
+incredible technology um and progress um
+that are coming rapidly that are all
+kind of the types of things that are
+going to make um
+uh give individuals with vision so much
+more agency which is like the thing that
+like it's always at the top of a funnel
+of anything
+like that people truly care about. Like
+it's it's I everything that people
+really love are the products of
+experiences uh other people's uh like
+it's I think that people fought for as a
+passion the results and the residue in
+museum of
+uh it's a museum of other people's
+passion projects as John Collison put
+it. Um Such a good quote. Such a good
+one.
+&gt;&gt; I think that is probably the best tweet
+on the entire X platform. Like he's uh
+is so good. Um We'll we'll we'll link to
+it for listeners who haven't seen it.
+The
+I'm sitting here thinking if if I could
+kind of describe your life you started a
+company in the previous technology era,
+the web era, and then you know, took it
+into the mobile era.
+Um you have a family.
+Uh you have hobbies. You talked about
+racing. Um
+and
+the entire world is going through what I
+think you think is the most
+transformative change in the last
+hundreds of years.
+&gt;&gt; Yeah.
+What should you do with your current
+life in reaction to that knowing that
+you live at one of the most like
+crucible moments in history when we look
+back at it.
+&gt;&gt; or is my advice
+&gt;&gt; and then like generalize it. What should
+people do if they believe this? It
+sounds like you're interviewing models
+every day. Yeah, like like but but but
+but once the floating points in them
+just to be clear.
+Cuz uh Oh yeah yeah yeah yeah.
+You were interviewing
+foundational models.
+&gt;&gt; Exactly yeah yeah. Good
+important uh distinction. Good
+distinction. So yeah, like
+I mean here's I
+here here is what I'm doing. I I am very
+much uh
+this comes fairly natural to me and I
+think it's a little bit a job for me to
+transmit some of the awe I feel um about
+the times, right? Like I
+I think that um
+what we think of history currently is
+wrong um and again, the people in 1,000
+years from now who are also going to
+play 2020 simulator um
+Uh uh I'm never going to get this image
+out of my head. I love it. They they
+they will think about uh
+these decades and this time differently
+because what we will
+do
+in due time is reintegrate um
+uh technology into our own history. Our
+own self history is one of sometimes
+decline, right? Like it's
+we are talking about um
+uh the Golden Gate Bridge being built in
+in in whatever two three years. We we we
+are rightfully saying we can't do this
+anymore. Um we um
+we are looking at great works and
+infrastructure projects and our like uh
+the great generation, the wars, and
+these kind of things. And look at this
+and say, "Well, um
+uh we we can't experience a world right
+now where um
+people built Bethlehem Steel or people
+built Henry Ford's factories or um uh
+they they are just like physical
+manifestations of the incredible
+uh uh power of you know, human beings
+coming together and creating things is
+sort of manifest for us to see in front
+of our eyes.
+Um and so therefore people judge that we
+no longer do this. However, we are
+actually absolutely doing this. It's
+just the great works are
+kernels of operating systems, the
+browser, the um
+lots of the software platforms, the
+phones, the um the incredible advances
+in uh silicon lithography and the um the
+the again, the models that we create and
+train and uh the data centers that
+support them.
+&gt;&gt; of it is actually physical building,
+laying the energy infrastructure and the
+power the power generation, the power
+transmission, the building themselves,
+the heat management, the cooling. I
+mean, less than 3 years ago ChatGPT
+didn't exist.
+Yeah.
+But but it is physically not as
+imposing. So like like the data center I
+I I love a blinking light down the
+aisle, but man, have if you have been to
+a what a what a what a refinery looks
+like or or or natural gas liquidation
+plant.
+Um
+It like it just hits you on a level that
+is it it's it's
+it requires zero analogy to understand
+how incredible
+of an achievement each of these things
+is. Like the bridges we drive over um
+are like they they're just like man,
+this is this is this is humans being
+their best selves creating
+you know, shaping things not just like
+and like very often not stopping at
+utility, but also going for for for
+for just beauty by itself. Like the
+ornamentation is load-bearing in because
+we're not just recreating things.
+So, like there's no ornamentation on the
+outside of a like of a of a data center
+that eventually will
+train superintelligence if that were to
+In fact, we hide it. We we don't put
+logos on it. We don't even we we try not
+to be have on maps. Yes, exactly. It's
+it's going to be as obscure as you can
+make it.
+So,
+so I think this is one of those things
+in the world that makes that sends
+people astray. So, back to what I like I
+I want I I love to transmit um
+this because I have cultivated
+um like every technologist has to an
+appreciation for the abstract in the
+same way that people naturally come
+preloaded with an appreciation for the
+concrete. Like I I can look at a
+piece of software and appreciate it in
+the same way how I can look at at the
+Pantheon. And unfortunately, that is not
+something that comes easy. In fact, that
+is that requires
+in like and is also probably not value
+worth the time that it takes. You really
+have to rewire your brain in a very
+significant way. People who build tech
+tech companies
+&gt;&gt; can look at the Pantheon and be like
+but not any human can look at a piece of
+software and say well. Exactly. And we
+can we even have the thousands of years
+of um
+understanding about why the Pantheon is.
+Like we can we can we can we can start
+with math to tell you why the ratios are
+correct.
+Um
+We are now we are close in the
+in the in the abstract realm. We we we
+like we we can't describe why software
+is good truly. We like it's taste. It's
+it's some people know it when they see
+it. It's something you cultivate. Um
+And so it's it's just abstract on top of
+abstract. If you build a tech company,
+you kind of have to do what I'm talking
+about to yourself because again, I I see
+this in my customers when they
+The reason why my customers love
+building physical stores, retail stores
+is because they can stand in them. They
+can see them. They can
+they can judge every piece by like
+touching it. They they can they can they
+can watch their customers come in and
+like look at things. They look at they
+they learn what the first thing is they
+look at um
+and
+how they handle it. Do they pick it up?
+Is it clothing? Does it feel right? And
+and do they put it down? Is that
+something for them?
+And they will rearrange the store every
+day. They they will climb inside of it
+because they can judge everything. It's
+concrete. With a with an online store,
+it's not. Like
+we we try really hard to tell you sort
+of live how many people there are and
+tell you stats about it. It's always
+abstract. It's numbers. It's it's it's
+not real. It's not it doesn't hit us. It
+Even if you cultivate an an appreciation
+for looking at the numbers and looking
+at stats and become data-driven um if
+some if you would do an analysis of how
+a day went um um in your mind while
+sitting while being in a in an fMRI
+machine, it would be a very small it
+would be neural frontal cortex only that
+would light up. If you would think about
+your day in the shop talking with
+people, it's the entire brain lighting
+up. It's just
+we we are predisposed to appreciate
+the concrete, of course of course we
+are. We we have this exact thing with
+Acquired. We release an episode. Numbers
+instantly hit hundreds of thousands and
+then over the course of months hit
+millions. And like I look at the
+dashboard and I feel nothing. Yes. And
+then David and I do
+&gt;&gt; But then then we do an event
+&gt;&gt; an in-person thing at Radio City Music
+Hall.
+&gt;&gt; tiny fraction of those people and it's
+like
+&gt;&gt; And it's like my whole
+&gt;&gt; blows up the whole brain.
+&gt;&gt; Like every emotions I've never
+experienced before, memory is created,
+nostalgia is created, relationship is
+created. You're on cloud nine for weeks
+and you're like that was nothing
+compared to what was in the dashboard,
+but Yes. is so true. And it's it's like
+I I don't know how to solve it and I
+think it might be not solvable because
+it kind of depends on like it might it
+might honestly depend on our hardware at
+some point. Like it's just like
+the the the the we can convince our
+incredibly malleable
+frontal cortex of anything and it can
+learn to appreciate the abstract, but
+the lizard brain is not convinced. Uh is
+the age of
+VR the answer? Like is the next stage
+after charts and graphs and tables to
+like create
+full like abstract experiences?
+&gt;&gt; there there Yeah, like this is how many
+people if you were standing in your
+store right now, this is what it would
+look like as people were shopping.
+&gt;&gt; your Shopify store would be. I feel like
+I I I actually think I think it will be
+get better and then uh
+not nearly the same. I just don't think
+it's reachable. I don't I don't I don't
+not think you can replace it. And I
+think that's that
+that's a real constraint and we just
+have to like look at our data.
+&gt;&gt; though that you were saying a minute ago
+about like part of your job and part of
+the industry's job is
+to
+convey that Yes. and describe that to
+the world. Okay, so what do other people
+what should other people do if they
+agree with you that this is this moment
+of great historical significance? The
+actual thing I I do is I found myself a
+thing I really really care about and try
+to bridge from the future to people I
+like I care about. It's like
+I built Shopify.
+I I I try to understand what future
+looks like in any with any trick I I in
+the book um and I want to
+I I I I want to help with what's going
+on and I
+having finding a task that you care
+about inside of the change is is I think
+the best position anyone anyone can
+take. It doesn't have to be a software
+company like
+so much of
+music is going to change because we can
+generate quite extraordinary music from
+neurons directly.
+That's seen as a threat and like similar
+to how words can be generated with with
+AI in a even more obvious way.
+It's integration. Like what like help
+everyone figure out
+what is like the
+the clearly human part because here's a
+funny thing. Like there's a couple of
+worlds where AI has already massively
+you know, obviously math. Like the
+calculator has been there for a long
+time and the best calculations and
+fastest calculations were clearly not
+done by humans any for ever since the
+calculator came around, right? So,
+chess is such a good example of this.
+Like the best
+game of chess in every year of the last
+20 years has been played by machine
+against machine.
+And no one gives a No one no one
+no one watches those matches. No one
+looks at it. We know it. Studies them.
+About everyone knows who who Magnus
+Carlsen is, right? Like we we actually
+care not about chess. We care about
+humans playing chess. And
+that's this is the one thing we people
+really do get very wrong here.
+We need to figure out how how how how to
+treat what the new capabilities as
+instruments that we can play um and then
+um
+uh
+like explore that space and teach
+others. And I think that's I think
+that's going to be the most fulfilling
+and fun position because it it it it it
+allows you to
+um
+steep yourself in the things that were
+um
+previously impossible
+um while they are still hard
+and and figure them out, which is always
+one of the most fun things and then
+teach others. I can highly recommend it.
+It is incredibly fulfilling.
+All right, listeners. This is a great
+time to thank friend of the show Plaid.
+Yes. Odds are you've used Plaid without
+even realizing it. If you've ever linked
+your bank account to apps like
+Robinhood, Venmo, or Chime, you're one
+of the millions of people, like one in
+every two Americans, who've already used
+Plaid. I feel like I've grown up in the
+tech industry alongside Plaid. So many
+modern experiences are powered by them.
+And at its core, Plaid isn't just about
+making it easier to connect to your
+bank. It ends up being the backbone of
+thousands of companies building faster,
+safer, and more seamless financial
+experiences. Whether it's reducing
+fraud, speeding up onboarding, or
+turning old-school banking processes
+into something that feels instant and
+effortless, Plaid is making it happen.
+So, last year Plaid rolled out some
+powerful tools. Think cash flow data for
+better credit decisions, anti-fraud tech
+with AI, and analytics for bank
+payments. And this year, they're
+leveling up again with major updates
+across all three of those products. And
+they're even helping businesses manage
+things like direct billing for your
+subscription. So, the bottom line is
+Plaid is making it easier for companies
+to build smarter, safer, and more
+personalized financial experiences that
+just work. If you're building financial
+tools or infrastructure, Plaid's data
+analytics can give you a serious edge.
+Whether it's fighting fraud,
+underwriting smarter, or managing
+payments more efficiently. And if you
+want to learn more about how Plaid
+created one of the biggest networks in
+financial services today, listen to our
+recent ACQ2 episode with Plaid's founder
+and CEO, Zach Perret. Our thanks to
+Plaid.
+It's funny. We were talking to another
+CEO yesterday who um
+is a huge football fan. Uh American
+football fan. And uh last year wrote an
+AI agent to do his fantasy draft for
+him.
+And like scour the whole internet, take
+into account all the likelihoods to be
+injured and all that.
+&gt;&gt; great that people generally First, he
+was like, "What do people not
+incorporate in their fantasy drafts?"
+Well, first it was what do people
+incorporate but they actually don't know
+all the information. Go great. Go and
+just all that information. Now, what are
+the factors that I think people aren't
+thinking about?
+&gt;&gt; Yeah, yeah, yeah. And so like one of
+those was like propensity to be injured.
+Like
+Yeah, that does seem really important.
+Most people don't account for that.
+Great. Write an AI agent does that. Like
+Or if they do, they have incomplete
+information and you could go get more.
+Yep. So, wrote it, crushed it, you know,
+like won the league, you know, all that.
+Like
+this year
+everybody in his league is using an AI
+agent. Yes, yes, yes.
+I mean, so then they were like, you
+know, well, shoot. Shouldn't like NFL
+head coaches do that, too? Like
+One one thing on this
+this like well, great. Now everybody's
+doing it. This thing I've been thinking
+about is
+um
+when you really see
+the full capabilities of the latest
+thing in AI and you you you get a demo
+of something or you get to use something
+for the first time that you're like,
+this isn't how I was using it before and
+this is not how other people use AI. You
+think
+whoa, I have an edge. Yeah. I actually
+can do something that people didn't
+think was possible.
+It it's become clear to me that even 5
+years from now, people who are
+successful
+it's not going to be people that are
+making things in an unassisted way.
+Everything is going to be
+assisted. And so, the best people in the
+world at anything necessarily will be
+the people who best know how to use
+these tools. Mhm.
+Do you agree that like
+this is this is the new bar to be a
+human out in the world is understand how
+to best be a user of AI tools?
+Yes, uh but like I think for a bigger
+reason than just the
+like AI tool. I think in terms of
+stability, which even our industry had,
+like the things were just like not
+changing that much.
+&gt;&gt; 2015 to 2021.
+&gt;&gt; Exactly. So, that's that time like I
+think that entire 2000 like 2010's
+decade in tech was
+I mean, obviously people will rattle off
+a couple of things that changed. But
+like we had the mobile phone, we had the
+platform and we just sort of scaled. Um
+the ideas that all come from a previous
+decade.
+Um
+there it's pretty obscure, but when when
+things become change faster, it becomes
+very obvious. And there's two groups of
+people are people who fundamentally have
+fallen into in in love with problems and
+people who fundamentally have fallen in
+love with solutions.
+And I think that sometimes like of
+course the people who really fall in
+love with solutions obviously then grief
+if our solutions and become unideal.
+That makes perfect sense and I'm sure it
+sucks.
+It's happened to me, too. I love
+computer programming like like low-level
+stuff for just like for for for for no
+reason. I I will never implement most
+algorithms again because I can just like
+when I type of the function name
+there's gray text already and I can hit
+tab and then it's implemented.
+And sometimes better than probably my
+naive first implementation would have
+been anyway. So, like there's some
+artistry
+lost and some skills that I no longer
+need. Um
+But again, the people who love to solve
+problems are the ones who are just so
+enabled right now and I think everyone
+starts there. No one is falls in love
+with solutions at the beginning of their
+careers.
+It's like you can't.
+And so, I think people need to remember
+how they got to where they are right now
+and
+realize that um
+this is just a bit of a calcification of
+who they were and they need to take a
+step back and realize
+probably life was more fun when I
+was walking around looking for how I
+will do my craft, right? Like how I will
+do my my my thing.
+Like like this even gets so far like
+even in the corporate world like jobs,
+job descriptions, like job titles. We've
+gotten incredibly we are almost pushing
+people into this like in into falling in
+love with solutions. Like
+um you know
+you you are you are a sales operations
+expert, right? Like what is that? That's
+that's that that's
+like a title for a particular way how
+companies end up solving a particular
+operational problem they had at some
+point.
+What you actually are like is like
+you're an amazing human being that
+got hired into a company and the company
+wants you to add as much of what you've
+got to the mission, right? And like
+clearly
+you can you can zoom out. Everyone does
+of us been going out with friends and
+venting, right? Like it's like you you
+talk about how the place could be
+better. Well
+forget about the title. Like let let
+figure out like how can you contribute?
+Like and and everyone who's like really
+immersing themselves like in in in in
+these tools,
+I I sent a memo to my company
+like and we set the expectation that
+we require that people reflexively reach
+for AI now and and we require it because
+it's unfair not to because the people
+who do otherwise going to be the people
+who sequester all the best careers to
+themselves, right? Like and
+I think it's fair to tell everyone that
+that's what it takes now.
+&gt;&gt; for everyone who didn't see or or forgot
+the memo from like just a couple months
+ago but feels like a few years ago, uh
+you're now required in Shopify to use AI
+as your first pass at everything, right?
+&gt;&gt; Which was controversial when you sent it
+and now seems obvious. It's like yeah,
+exactly. I didn't think I was sending a
+terribly controversial message to begin
+with, but then someone told me that it's
+like being leaked in bad faith. I think
+so and then I just like posted it so
+that I think it worked quite well at
+least
+there.
+I was surprised how many people cared
+about that.
+And cuz it it says a couple of things.
+Don't don't
+if you if you said at the beginning of a
+project use AI to prototype it
+and then if AI is really bad at
+prototyping, it make fun of AI. I just
+want it's not about what you
+make with it, it's what that you did it
+because it might surprise you and also
+very earlier in the conversation we
+talked about Evals.
+If AI is bad at the thing that you asked
+it to do, now you have an Eval for the
+next AI that's coming out. So, you're
+building your quiver of tests. What are
+what are some of your Evals? Like you
+you you mentioned you have this like
+folder of instructions. What are some of
+your tests?
+&gt;&gt; of this is like things where you know,
+like from coding for instance where I
+just like misunderstand a certain prompt
+which it had enough context. I I like
+the term context engineering because
+I think the fundamental skill of using
+AI well
+is
+to be able to state a
+problem
+with enough context in such a way
+that
+without any additional piece of
+information, the task is plausibly
+solvable. Right? That's actually
+a really tricky thing and now with a lot
+of agents, the agents end up being
+pretty good at figuring out what's
+missing and go get it themselves.
+But I think that's
+I mean, the crazy thing about AI is like
+it can do this.
+I think I think the skill people should
+build is trying to not require it to to
+do it. Why is this a useful skill to
+build? First of all, it makes it much
+cheaper to use AI, it makes much higher
+likelihood of
+success. But
+this is really funny. I think it makes
+you better in so many other ways that
+has nothing to do with AI. I write much
+better emails since I became a good
+context engineer. I just like I now
+realize how much is unsaid in
+instructions.
+Why is so many things so much of what
+people describe in companies as politics
+is actually bad context engineering.
+It's really funny that like because I I
+I so often end up doing the what is the
+root note of a problem here that that we
+all have. And you realize
+after digging one two layers down,
+there's just a fundamental dis
+disagreement on an assumption about how
+to do like what is good what is good
+look like for for this area. David and I
+have just finally started
+taking some things that we previously
+thought, oh that's part of the secret
+sauce of acquired and who knows why my
+neurons fire that way, it just comes out
+and it's part of the magic.
+We started actually writing down
+instructions so that AI can do things
+that we previously thought were like
+part of our magic and it like it's it's
+less magical than you think. We've just
+never had to actually codify how the how
+we do the job before and I think that's
+probably a lot of people who are like
+it's a failure of introspection of what
+actually makes the work that you make
+good
+and once you actually write down your
+process and all that, you actually and
+have an evaluation framework for what
+makes it good, it actually is quite
+executable by AI. 100% and and
+you're I don't know how far you're down
+this journey now, but like
+there's an entire world that opens
+itself up to you when once you start
+doing this because
+like I
+I have this tool and we have this at
+Shopify. We we we
+um
+use Anthropic's term for we we call
+these things constitutions
+which is maybe a little bit too grand,
+but like
+figuring out a document that is actually
+like sort of
+all the things that are not platitudes
+whereas like all the things where
+someone else like some other company
+would plausibly take the other side of
+and
+but that's but those are the real
+choices, right? Like if no one would
+take the other side, it's a platitude.
+But teamwork is clearly something every
+company wants, right? Usually the
+company values end up being just
+platitudes. It's very funny. Um
+So so you end up like creating a list of
+these kind of things that you uniquely
+would pick a side on.
+The trade-offs that you're choosing.
+Yeah, exactly.
+What makes you know, basically like
+write down your uniqueness.
+And then you get in an absolutely
+fascinating world because first of all,
+you can use it. You can hold up to your
+work and just saying, okay, well, help
+me here with this and these are things
+you need to know in your again, context
+engineered window.
+But it it It way more interesting when
+you use
+you know your favorite episodes
+transcripts. You add this and say
+what what's missing from the document.
+And you get suggestions. And you're
+like, could we have made Costco better
+in some way?
+Yeah, right. It's scary, right? Like
+yeah. And and so um
+um
+what you will realize is this sort of
+this is another hill climbing exercise
+because this constitution will get much
+much longer. And you actually have a
+collaborative AI on it. Um because
+um these things are incredibly valuable.
+They they are um
+um you know, just like
+you know, anyway, there's so many
+This gets too much into the weeds, but
+like like inside of Shopify there's so
+many things that can be done like this.
+We have product principles which I wrote
+at some point and have since been hill
+climbing this all
+in a in a in a in a loop like this. Um
+And any project in our internal systems
+now like when it goes into like to
+review time is like we can run against
+the product principles and and also
+specific principles against office area.
+And it's not like
+some control mechanism. It's in fact
+it's it's honestly just like here is
+where
+um interesting discussion should happen.
+It guides the conversation because they
+often what we find is
+product principles are wrong or
+imprecise or stated too broadly with not
+enough provisos.
+And because you want to write for a
+large audience in generalities, but like
+when you do work with AI can actually
+say, okay, well, actually let's write
+all these statements next to the
+convictions, right? Like because
+It's interesting you need deterministic
+instructions for a non-deterministic
+machine. Right. Because yeah, like and
+um
+um and they are of course
+non-deterministically interpreted in in
+the end. But this is also the beauty of
+it because sometimes it's like
+it it it tests you. Sometimes it says,
+hey, this is contradictory and it isn't.
+And then you have to have a conversation
+with it about it. And like you realize
+you know what? That mistake in the way
+you wrote that you made probably is
+that happens non-zero times with humans
+too, right? Like so finding a more
+precise version of stating the thing
+that you're trying to go for or better
+examples is also really valuable. All
+All this to say
+increasingly I find that um
+um
+And this is why I'm saying you have to
+interview these things. Like one thing
+that I'm really noticing with the latest
+series of models is specifically GPT-5
+thinking and
+is that um
+you know, I I feel like I'm pretty good
+at asking questions and I I can have
+like I can take these conversations with
+AI into very very very interesting
+places.
+I have started now asking the AI what my
+next question should be. And I get
+better ones very often. And that's
+pretty impressive. Um
+because again, it is it wants to
+predict.
+And they have no memory very often with
+all your private conversations. So they
+they are some like
+you know, I probably
+when I'm at my absolute best I ask
+better questions when I'm at my average.
+And so it can uh
+execute against my
+like against a idealized version of
+myself
+like
+it's it's really really fascinating and
+and and really valuable. I have run
+a like a keyboard logger
+and a sort of what is the active window
+and take a screenshot of a window like
+of my of my machine every 10 minutes.
+And archive this for going on 15 years
+now. Like it's it's something I've
+always been running and it's just for my
+own purposes.
+&gt;&gt; archive of
+your daily digital activity of the last
+15 years.
+&gt;&gt; Yes. Yes.
+&gt;&gt; Holy crap. Wow.
+&gt;&gt; And and I also I
+&gt;&gt; What a gift. Like
+&gt;&gt; Yeah. Nobody has that.
+&gt;&gt; I I would never imagine this ends up
+being as valuable as it is. Um
+um and It's like how Tobi became
+Shopify. How Shopify became Shopify.
+&gt;&gt; It's basically that. And I now I um
+it's my all of my weekend projects are
+actually just like you know, running
+through all of this and putting it
+together because of course it's
+dispersed keyboards. Lots of noise in it
+and Different formats over time.
+&gt;&gt; Yeah, and like every once in a while I
+use Vim at which point there's a lot of
+like a lot of what's in the keyboard
+buffer is complete nonsense.
+But like the nice thing is
+with enough uh
+um
+AI tools you can turn this into pretty
+clean timelines.
+&gt;&gt; Right. Without you having to write a
+script that's like, okay, every time I'm
+hitting Q that disregard.
+&gt;&gt; Yeah. And and and of course the format
+changed a million times and has missing
+bits and pieces. And then I have my
+calendar which I can
+which I'm now adding to it over the
+times and a lot of emails
+like what just headers of
+who I converse with and so on. So
+do you have that in a repository and
+then you can just like whenever you say
+like
+whatever AI model you're using like,
+hey, I need you to make something like
+Tobi just look at this. And then do it
+like this. Yeah. This is exactly it. So
+like it's I mean I the actual format was
+I just always turned it into text files
+with which are like the most lasting
+bits of artificial like It's it's the
+best format in the world because it
+lasts forever. And now I've like
+been working on doing more and more work
+on just like analyzing it and and
+cleaning it and adding more things
+because the value of this is getting
+incredibly
+high. Um I've also been like always
+doing like my notes I kept them and so
+like there's their times and so on. So I
+have a
+I'm I'm I have a lot of digital
+artifacts about myself which
+you know, again I'm
+&gt;&gt; you to start doing that? My initial
+thing was I just wanted to know what I
+meant spending my time on in general.
+And
+there were some tools that came out
+&gt;&gt; kind of stuff. Like
+&gt;&gt; Exactly. That's like I forgot the names
+of them. But there were some tools. But
+then I I
+I've always been
+like the things directly about me
+personally I want to keep on my machine.
+That's been sort of a bias which
+probably comes from when I started using
+computers. Um So um and these are
+interesting challenges, right? So
+anyway, so so I have always I don't even
+know how I specifically got there.
+But um What's the most useful thing that
+you found to input that into? I have a
+period of time where I went from
+full-time programming to um
+uh fundraising to To CEO. company things
+more more clearly.
+And just like charting it as a time
+spent in different applications is
+interesting. It's also like um
+I mean I from seeing what I typed into
+what applications like text
+a docs and stuff like this. I also like
+um
+I can I can track some of my beliefs
+changing which is that's a really
+interesting experience because it's it's
+I mean the brain is fundamentally
+thought to be a backwards facing um
+uh narrative consistency optimization
+device rather than actually a
+chronological data bank. I read a great
+book recently that described a key
+element of the brain as the press
+secretary. When anybody asks you why you
+did something, the book's called The
+Elephant in the Brain.
+&gt;&gt; Yeah. Uh you have this like press
+secretary that comes up with the
+rational answer of why you probably did
+it.
+&gt;&gt; Yeah. But that part of your brain was
+actually not present at the time of
+decision. Yeah. Yeah, and I think that's
+very very funda-
+ex-
+like the brain optimizes for narrative
+consistency. Um
+and so um having some of the
+you know, just like things I typed um
+you know, like I I
+like on on on many issues that that face
+face a company it's just like
+fascinating. I don't I I haven't come to
+real conclusion, but I have ability to
+do it. I might be a bit
+um slow to really do the study well.
+Like it's it's like it's
+you you just have to kind of
+eat a bit of humble pie. Like like it's
+&gt;&gt; What an amazing at at a minimum what an
+amazing archive, right? Like you think
+like companies have archives, right? And
+it would be like board minutes, you
+know, like you have
+a moment by moment source of truth of
+how this happened. Can I ask
+I'll ask you the question and then I'll
+give you some context or try to lead the
+witness a little bit.
+What are some of those things that you
+think you changed your mind on over time
+that you used to feel strongly on and
+you feel differently now? And maybe to
+give the the context uh everyone
+remembers 2021
+Shopify is like the media darling, you
+know, crazy stock run up. Multiple goes
+I think revenue multiples went from 20x
+to 70x. Something crazy like that.
+&gt;&gt; narrative, you know, human brains and
+narratives. Covid happens, people at
+home.
+Shopify. Yeah, right. Does this then
+does that and you like slowly, you know,
+you're you're within
+I think you have an internal rule at
+Shopify you don't talk about the stock
+price. Will you talk about it here on
+air?
+Spitting distance of all-time highs
+again. Yeah. Um I just want to throw
+that out as some context if you choose
+to adopt it for the answer to the
+question of what is what are some things
+you used to believe that you no longer
+believe?
+Yeah, I I um so this is interesting
+because now
+I can do like I've been talking about my
+archive. I can now go and check this.
+But like here's what my brain
+potentially narratively lays out for me
+um is that
+um
+I was quite
+uh
+I have always seen the stock price
+extremely different from like I work on
+the fair market value of a company and
+which is an unknown thing, but the stock
+is essentially trying to the stock is a
+betting market on the on the fair market
+value, right? So so it will oscillate
+over the thing. And so so I I I
+personally didn't like I I I felt the
+company was
+like I mean obviously fits better in the
+times because now e-commerce is more
+important and I think that is like
+actually increases the fair market value
+of a company. We basically It was like
+we trained for this moment for us,
+right?
+Um but you know, I I
+it went really really high and it went
+really really low. And and this is like
+the oscillations over this. It's it's
+it's whiplashy inside of companies,
+but it's
+um I don't know. I feel I feel like
+through this I ended up um
+have it like my convictions were pretty
+uh
+The thing that what happened is um where
+I got caught up is there was like a a
+bubble of uh
+a belief that uh we just had to like
+massively increase
+the size of a company, the headcount,
+and so on to like to to to deal with
+this and for that it would be okay to um
+um change like the the the hiring
+standards. But I I I I changed my mind
+on a lot of things. In fact, I think I
+changed my mind on
+I I I would change my mind on every
+opinion I have if if someone shows up
+with good um
+data on it. And I think that's actually
+really really important. Um so um Can
+you remember something from the sort of
+early founder type days before you
+became like a manager and an executive
+and a leader that you've that you've one
+done a 180 on?
+&gt;&gt; Like straight up, I didn't believe in
+leadership. I I I I just didn't think
+leadership was important. I I I felt um
+um that uh
+it's if if you get really good
+individuals um and and um can point them
+in the same direction or even without
+that like all right things will happen.
+And um
+I I I I I I thought this partly because
+um
+people really disliked uh
+leadership. Um so clearly the right
+people would show up.
+I believe those things are utterly
+incorrect now. I I I I think people love
+leadership. Like they like they they
+love complaining about it, too, which
+they should. And it like it deserves all
+criticism it gets, but like there's
+something absolutely wonderful being
+part of a group that's being led. And
+obviously I'm not obviously a leader,
+like especially outside of Shopify. Like
+I love just being part of a team. And
+nothing more fun than having someone who
+has a vision um like and and and and and
+building something. Every hackathon I
+go, I'm just like "Hey, I'm taking a
+vacation from leading. I'm just like you
+tell me what to do." That's so good. Um
+so you know, that's a that's a that's a
+distance traveled. That's an almost 100%
+swing on on on on this particular issue.
+Um
+at the first version of Shopify,
+everyone made the same salary, right?
+Like just like we we kind of like "Hey,
+let's not have difficult conversations
+but just paying everyone exactly the
+same. We'll figure this out." I I mean
+&gt;&gt; How long did that go for? Well, like
+like not long.
+Uh but like my first 10 people or so I
+was going to say "Bet that I do the
+same." Yeah, yeah. We were just like
+"Hey, everybody at the company makes the
+same." So so it's like it's it's just
+like and and and you know, I think
+that's it I actually really like this.
+Uh
+I now know how uh egalitarian socialist
+that's coded, but like I love starting
+there, right? Like because
+I think that would be cool if that would
+be perfect way a good way of doing it.
+But like actually rejecting these things
+one step at a time is actually perfect
+because now you don't have a derivative
+idea of something. Now you actually have
+some uh uh you've you've run the test
+for you. It strikes me that when you
+started the company, you knew nothing
+about building a company or leadership
+or having anything of this scale. And
+you had to sort of from first principles
+have go from doing it wrong to doing it
+right Uh along the way. Where are some
+places where you found shortcuts where
+you didn't have to learn it yourself and
+you could look to some other leader or
+bring in someone great and that person
+actually just had like a whole bundle of
+shortcut. One of my my my most important
+realizations at some point um like I I
+found myself at some point uh only doing
+things I dislike doing um and
+I I'd like to think that even the things
+I dislike doing, I can learn to like I I
+I think everyone can get sort of to 80%
+of state of the art pretty quickly on
+any topic.
+But like I was just a kind of miserable
+at doing this. And the reason why like
+everything I like doing
+I I had no problem delegating to other
+people because I I know it's fun.
+Everything I didn't like doing Mhm. I
+did myself because I didn't feel like I
+should ask people to do it. And luckily
+I did it I overdid this to a degree that
+I had to um that it broke. It's really
+really it's really good to overswing,
+right? Like it's I find that if
+something just sort of works, you don't
+have to counteract. But if something
+really breaks you, then you just like
+have to examine the entire picture. And
+I I just ended up like realizing
+everything I don't like is someone
+else's dream job.
+And that's like incredibly liberating.
+So so since then I've been creating lots
+of
+beautiful dream jobs of stuff that I
+don't want to
+So and that's like it it this is People
+ask me a lot about "Hey, Tobi, why why
+do you actually still like do
+programming and why do you find it
+valuable?" Like
+I my I mean I have a mind I can't find
+things that aren't valuable um fun
+either. Like it's sort of ends up being
+the same to me. Um I did I do trust that
+if my mind wants me to go in a certain
+direction that there's a premonition
+that it will be valuable in some odd way
+and uh even as analogy or so
+as like perspective um or because I meet
+people um that are just um That's
+probably the successful founder
+archetype, by the way. If if it really
+comes down to one thing, I think it's
+having that intuition where the overlap
+of things that are interesting and
+exciting to you and value creative just
+like happen to be perfectly overlapping.
+&gt;&gt; Mhm. And um for instance, the leadership
+thing a lot of this came from uh
+learning an instrument um
+and uh I really like playing guitar. Um
+I'm very bad at it, but like the funny
+thing then is um
+I got fascinated with music theory and
+different genres and I got so much more
+out of music um
+and eventually we uh got to spend some
+time with um uh jazz musicians who were
+um very high near the top of the pecking
+order in that in that world, especially
+guitar related.
+Um and so
+only after I understood how a jazz band
+works, did I realize what leadership
+actually is. Mhm. Because the because
+this is where like the business world is
+just incorrect, I feel. Like it's it's
+so chain of command um
+But it but it but a jazz band is you
+have a clear leader and sometimes the
+leadership changes and shifts around.
+But like what the leader does is not um
+dictatorially say what is we're playing
+and how we're spending our time and
+what, you know,
+what to eat. They just invite other
+people uh that that have merit for what
+we want to do. In fact, it may be not
+even just invite any people and ask
+everyone to add what they've got to a
+very basic set of con con con con um
+uh conventions where it's it's going to
+be in a key um it's going to be a tempo.
+It's emergent. It's it's like the piece
+of music is being created at the moment.
+And the next note is entirely dependent
+on the on on on the merit, skill, and
+taste of the of the people who are
+showing up. And I think this is the best
+metaphor for the great team is like.
+Like a a lead like there got to be
+constraints. It needs to be in a key. It
+needs to be at a tempo.
+But sometimes even the members of a
+group propose changes. We go to a
+different core set of cores. We go to a
+different key. We go from major to
+minor. We like people play um
+dissonance to um create tension, which
+is against the rules to then cause like
+an like a
+um
+merging back of the music. Like like
+bringing it back home feels incredibly
+powerful to everyone listening. And And
+that's mastery. Know knowing the rules
+so that you know when you can break them
+and why. Well, this sounds like this
+sounds to me like the definition of a
+technology company. Exactly.
+&gt;&gt; Like uh
+Henry Ford couldn't set up the assembly
+line like this cuz every, you know,
+worker needed to do the same thing and
+every car needed to come out the same
+way. And it had to be any color you want
+as long as it's black. But like yeah,
+software doesn't work that way. Software
+doesn't work this way. People do try to
+build software um this way and really
+really uh
+give like try to turn it into something
+that actually resembles what a
+car assembly line looks like after it's
+created. Like that's really really
+dialed in and like everyone has like
+does one widget.
+And you get like
+2% out of the individuals that you
+hired, right? Because like they are
+incredible. They have a lot to give.
+They have a lot of priors. They they
+like give them the room to contribute.
+Uh but then hold them to it. But you
+would be amazed how often this happens.
+I've learned so much from video games
+about business. Yeah, yeah. You talked
+about this a lot. I Okay,
+when you said
+asking for personal research here. When
+did you start playing video games with
+your kids? And how did you do it? Just
+basically as soon like I I mean we I
+think we didn't do screens until they're
+2 years old, which is sort of picked um
+um
+uh and I don't think that's necessarily
+even good advice. I think maybe it's
+it's fine.
+&gt;&gt; a 2-year-old kid playing video games.
+Like uh my daughter's four and it's like
+she's just on the cusp of where we
+started. So just so so like the way we
+played video games was um we used an
+iPad. We were lying on the couch
+together um and uh I I start Minecraft
+and they tell me what to build. They
+point at things, I build them. Right? So
+that's this is us playing video games
+together. Um and those are some of my
+most fun memories because even
+2-year-olds who just basically just know
+words, like letting them
+choose what we built. Like we I I I
+played Minecraft a lot before before
+that um in various instances. I never
+built such interesting things as the
+kids told me to do. Like we built tree
+houses and uh like things on top of tree
+houses. Like it's just I wouldn't have
+imagined this because there's so much
+creativity there. And so um um you know,
+that's already a small team. Like I I
+let them to be the jazz director of our
+play session. And I think I I think
+video games are like very maligned and
+like again,
+nothing is
+like some of it deserves criticism. But
+it's always a question what does it
+replace, right? Like um
+in the in those moments
+it um
+I probably needed some downtime. Right?
+Like and this was some way for us to do
+this. Like I have a I have a tricky job
+and sometimes I need to shut off my
+brain, too. I'd rather do it doing
+something together with a 2-year-old um
+being creative than um being upstairs
+playing Minecraft or so. You know, like
+what I mean not exactly what I would be
+playing, but so I think I think this is
+the most important question. So we We
+this very early.
+And then it became much more intensive
+uh during COVID because uh um
+I was really worried about how could
+cool and everyone was. I was um
+like really worried about like the
+lockdowns and what they would do to
+kids, especially in that Well, my boys
+were like in that in in ages where
+um
+failing softly was just really important
+for them. Like you just like have to
+kind of make mistakes. Like I I I I I've
+gotten where to a where I'm at by just
+having failed more than others most of
+the most of the time. And I I I invited
+a I like failing at things. I like being
+bad at things. So, um
+uh which is something I want to
+cultivate with them, too. I would be
+very authentic and avoid making lots of
+choices where you would stretch
+yourself.
+It's over. I I don't like such I was so
+pre-biased this way anyway, but uh my
+daughter's like just just at the this
+age. She's about to turn four. And like
+even just in the last week, she's We
+have a Steam Deck. I'm going to
+previewing my carve-out for the next
+episode. This this ongoing saga of
+David's carve-outs about Will he or
+won't he get a Steam Deck?
+Uh and it's gone from like me playing
+this thing to her being like I want to
+move the character. And then like
+watching her figure out how to use a
+joystick. And like the first night is
+like
+you know, it's like watching a monkey
+try to use a joystick. And now she's
+like moving the character around and
+it's all like whoa, you know. It's so
+cool. And it's so it's so important to
+not jump in and do it for them. If you
+like you obviously you you can do
+everything better, but like this is such
+an important thing to let them actually
+like
+They they ask me for help and I I give
+them pointers of how to do it better and
+it's like it it takes a lot. Like it's
+so hard. Awesome. Yeah. You want to
+short circuit it. Um Last night she was
+like, "Oh, I want to talk to these
+people." And I was like, "Okay, hit the
+A button." And she's like, you know,
+it's then watching her figure out what
+the A button is. And first she's just
+like spamming the A button. And I'm
+like, "Okay, no no no no like
+Did you see her figure it out? precise
+instructions Hit the A button.
+Need better context into it.
+The funny So, like I just like a recent
+thing is I I'm dyslexic. Two of my kids
+are also dyslexic and it's it's
+frustrating because like it just sort of
+gets you um like it makes some things
+quite harder.
+Then in school it's wonderful. Um
+My middle kid finally got frustrated
+with just not being able to type well.
+I'm like, "Okay, well, what are you
+going to do about it? Um let's build a
+habit somehow to do it." And then, you
+know, he he was doing a typing trainer.
+And it's just my god, I
+he was very good at it, but
+with it and
+do it for 10 minutes a day, but man is
+that boring.
+So, then I went out and like clearly
+someone has must have solved this. Um
+and so
+ended up finding on Steam a game called
+I I
+um
+can't remember the name, but it's like
+it's like a rogue-lite typing game.
+They're like you're in the middle and
+like words come at you in enemies and
+you need to type them to shoot them. And
+then you can choose upgrades and like
+it's like
+Now, all my kids are playing this type
+trainer. Yeah.
+And it's just like even though the other
+ones don't need to learn how to do it.
+Yeah, like now like the the the younger
+one's also getting good at typing now
+because they were all like doing 10 10
+finger typing and getting to like he's I
+think I think he went from 16 words a
+minute when he started. He's now at like
+70. Like he types like
+average speed of most people.
+And that was like a month. And I'm like,
+"Man,
+how many people think like I wish I
+would have learned to type better?"
+Well, I let me tell you there's a video
+game you're going to fall into this
+thing and you come out on the other side
+being an excellent typer. And just like
+again, we have not integrated video
+games correctly into our society ever.
+Like we are just like we're treating
+them too frivolously. And as a family
+who solves problems with choosing video
+games as a thing that we've done
+periodically, um
+this has been just one of those
+talk about it parenting hack. It's like
+amazing. So, it works super well. Okay,
+so I have a to bring it back to Shopify.
+Is that okay? So, I have a company
+specific or company journey specific
+question for you. If if you're an
+outside observer to the company, it
+seems like
+this
+meme stockification thing that happened
+in 2021
+is a very consequential event to the
+company. And like then you have this 80%
+drawdown, you're in this like public
+market valley of despair situation.
+What is it like living through that? And
+if you could build a time machine, what
+would you go tell yourself?
+Um
+Yeah, so like look I I this is it is
+very hard for me to
+I'm trying to like key an interesting
+answer to almost any question um because
+that makes it sort of that's sort of a
+puzzle of a good conversation, right?
+Like how to how to take this in the most
+interesting direction. I I find this one
+is really kind of stumping me very often
+because it just wasn't that interesting.
+And maybe maybe the most interesting
+thing about what you're describing is
+that it wasn't interesting um in in in a
+significant way. If I would have a time
+machine, I would make I would tell I
+mean, I guess the only thing I would
+tell myself is that um
+I should get like
+quickly get the credit rating and the
+sort of
+facilities done to do a buyback where
+like what once it goes down
+But like
+it just like
+like I would be up to opportunistic
+about it. Um Like I think that um I love
+that. Spoken like a true entrepreneur.
+Uh it's like
+Own more of my company. Yeah, yeah, it's
+awesome. Love love this company. Best
+investment I ever made for sure.
+I don't think it was interesting. I I I
+think it was um um inside of a company
+We we were
+fair market value of a company, it was
+something it actually didn't go down in
+this time that the stock went down.
+Right? Like it it did did not change.
+So, um it was all other people
+Yeah. Everyone in the market are
+wonderful because people buy and sell
+and someone buys it with
+a high conviction and someone sells it
+with low conviction. If you have a lot
+more people with low conviction, um then
+price is going down because the clearing
+price shift. And
+the
+low conviction is
+not due to the companies what the
+company do very often. Low conviction
+might be just because the vibe changed.
+And because people's conviction that
+they will be biased tomorrow changed.
+And interest rates changed. Interest
+rates changed.
+Russia invaded Ukraine and every stock
+moved in the entire market. But none of
+those companies has shifted in fair
+market value outside of maybe military
+contractors. So, um
+it just doesn't it it it isn't that
+interesting and it isn't it doesn't
+affect um
+I I think the company a lot. But it sort
+of hangs over company comes up a lot.
+And the group I'm sort of
+usually someone upset with is um
+uh you know, sell-side analysts who gave
+buy ratings at these ratings. Right?
+Like it's just like they are the only
+professionals whose job is to inform the
+public with good advice. And like
+telling people to continue buying if
+companies go to 70 something times
+revenue like feels um
+I mean, I feels like an asset test for
+your quality of your predictions. Right?
+Like so I but like somehow ends up being
+entirely
+unproblematic for people doing that
+where somehow the fact that
+they did that and made
+some people purchase at these valuations
+which then lost a lot of money
+afterwards,
+you know, on the sell side was probably
+you know, Goldman Sachs because they do
+fundamental analysis and say and and
+realize that it's probably overvalued
+and sell it to people who then lose
+their shirt.
+That feels bad. I I want um you know, I
+I I love the fact that I've made a lot
+of money for a lot of people who had
+conviction in the company and um
+um you know, who purchased Shopify
+early. I made sure I I
+The most different thing I've probably
+done to most companies of my cohort is
+that I went public very early. Right?
+Like I went Right, right. It's like over
+10 years ago.
+2015. Depending on how you count, it's
+like a really Shopify sort of 2006
+launched the product Shopify which
+really is the beginning of
+Like of that we were public um
+I guess 9 years later from from from
+there. Um But again, Yeah, short. Yeah,
+today it's like you know, well, maybe
+maybe in decade three we'll go public.
+Yeah, yeah, yeah. We went public with
+every dollar that we ever raised still
+in the bank and uh
+um at at a
+billion and a half valuation. Right?
+Like so You went public at a $1.5
+billion valuation.
+Yeah. Yeah. And I I
+&gt;&gt; we did a Shopify episode and I that is
+still not
+That's a crazy low number by standards.
+Yeah, and I love it because it means
+like, "Hey, uh I I I love the facility
+of public companies. I think it's so
+cool
+You're public. What means people
+participated in your growth? People can
+buy it on conviction and like say, "I
+like what this company's doing. I like
+its positioning." And um
+I'm going to put this into you know, my
+hopefully tax-free savings account for a
+long time. And um
+I
+am very motivated by building something
+that becomes of more and more value to
+the people who have high conviction. And
+um so so I I I I
+love it. I
+I'm the person trying to convince
+everyone else to
+uh
+take their companies public because I
+think it's just like the right thing to
+do. Again, it's it's also valuable for a
+company in in many ways and it's like
+again, it's it's not difficult. It's
+just like sometimes it's annoying.
+That's true, but everything is What you
+point about like for every job you
+dislike, there's somebody else whose
+dream job that is. Exactly. Exactly. And
+frankly, I thought we were data-driven
+before we went public and we really got
+data-driven through process of taking
+the company public. And I I learned a
+lot. Again, 20% of the process was like
+I felt pretty sorry for myself for
+having to do, but 80% ended up being
+utterly valuable and just like every
+challenge you set yourself. What are
+some other things in this 2021 period um
+sort of as historians, David and I can't
+help but zoom in on these moments of
+like great tumult for companies and see
+how they changed. So, I'm curious
+uh one thing you shared with us before
+is that it
+even though everyone's issuing all these
+buy ratings, you actually felt like
+we're not a very well-run company, and
+you actually had to change a bunch of
+stuff, including people. Can you walk us
+through some of the things in that 2021
+forward period where you look back and
+go, "Okay, we're a much more resilient
+company today because we took XYZ
+actions?"
+&gt;&gt; Yeah. Well, I I mean, I'm I I changed
+the way I work inside of a company
+because I I I I just felt like I need to
+like I I I have special um
+um
+uh special privileges uh in Shopify's
+history, such as I've seen every version
+of it, and therefore I have an enormous
+amount of context. Like, I my own
+context engineering is like easy because
+it's all pre-loaded with
+uh every important decision that I've
+been doing Shopify for 21 years. That's
+helpful. Um that helps a lot in product,
+and it helps a lot in strategy, and it
+helps a lot in these kind of things. So,
+um anyway, but during this time, I I
+mean,
+Harley uh who I've been working for 15,
+maybe 16 years now, is uh um
+um He's the president of He's president
+of Shopify. He's uh
+absolutely wonderful uh human being, and
+incredible storyteller, and uh you know,
+just creates lots of capacity for me to
+um
+um be more internal focused. And um um
+uh other than Harley, uh every other
+executive is uh more recent now, and
+it's um um it's a combination of things.
+Like, I I'm like
+it's not because anyone's bad people,
+but like the the everyone of a previous
+team, it became a really, really good
+optimization function to learn a
+particular way to make me look another
+way. Like, like, like, like, to speak
+about your area in a way that
+I was
+this sounds really rigorous and good. I
+probably you're probably not presiding
+over my current biggest problem, which
+is one I want to work on. Therefore, I'm
+going to look elsewhere. Mhm. And and
+what what the thing that um COVID did is
+like there was just no uh possibility of
+uh me being devoted in attention because
+I just went through everything. And
+like, went through every project, every
+spoke with every team directly. When
+when something was really like stuck in
+engineering, I talked with engineers,
+and so on. Um this is how I used to run
+the company um before I got into like
+taking like a little bit more of an
+abstract view of a company.
+Um um and so, I I I I did more of it.
+Listen, realized this is what I love
+doing. I I it's incredibly
+it's tons of work, but
+I would probably do it if you wouldn't
+pay me for it. No, Shopify works like
+this. I Every 4 weeks, I review every
+project. We have internal ledger like
+this GSD thing where like every project
+goes in, AI analyzes it against all um
+uh our product principles. It's we are
+cooking with gas now, and it's just like
+building a company that's just like
+fundamentally built around a certain
+conviction about how like a cohesive way
+of how great products are created. Um
+and getting to explore if if if you're
+right about it and finding figuring this
+out, is is this actually a good way to
+work together? It's cool, and it's
+something that is unique to I think
+founder-run companies that are
+they are which are enabled in such a way
+that like you can really build them
+differently. Yeah, that was the thing
+when when you you when you started the
+answer of like, well, the thing about
+this uh period in history was it
+actually like wasn't that big a deal,
+and it was it just smacked me in the
+face of like only a founder-led company
+could say. Yeah, cuz if you weren't a
+founder-led company, you would have
+gotten fired. Yeah. Like
+&gt;&gt; Yeah, exactly. Exactly. 100%. That's the
+craziest thing. Again, I really make a
+massive distinction. Like, founder-run
+companies, ideally we find a different
+term than companies even. They they just
+they're just so different from uh more
+managerially run companies, than more
+traditional companies. They're just
+completely crap in so many ways if if
+you judge them basically just from the
+perspective of companies. They they
+Companies are all like have their
+figured out and are professional and
+like
+And yet, all the most valuable companies
+in the world are founder-run, or look
+kind of founder-run in some way.
+&gt;&gt; Yeah, because there's playbook for
+managerially run companies, and
+and they are bad at adapting to the new
+things because they're fundamentally
+again, no one carries the full
+legitimacy inside of a company.
+Legitimacy is a currency in a companies.
+No one carries the full legitimacy in a
+company, even the CEO. The CEO just has
+a lot of input on the plan. The plan
+carries the legitimacy. Right? And so,
+um uh the the in in a managerially run
+company, the the plan for the next year
+or years, if they're in a good one, um
+it's the thing that everyone defers to,
+and the CEO is an avatar, an advocate
+for the plan.
+And so, um uh
+changing anything requires enormous
+activation energy, where like again, if
+if if the legitimate legitimacy is
+invested in an individual,
+then you can pivot on a dime. And um the
+people who don't like this don't work on
+these in these companies. So, you have
+like broad agreement on on like on
+that's that's the way to work. Um that
+leads to bad outcomes often, but like
+you know, if the individual who's
+playing this role is very conscientious
+and is
+very open to feedback, and like change
+mind their mind, like have strong
+opinions weekly held if better data
+shows up, and so on, it can operate at a
+quite a good batting average, which
+makes the the the highlights and the
+accomplishments will end up making up
+easily for the for the downside.
+&gt;&gt; I'm remembering it. Maybe it was a Don
+Valentine thing, or maybe a Mike Moritz
+thing. That's right. We're sitting here
+folks who are watching. Yeah, we're
+we're recording in Sequoia's offices
+because
+my home is under construction, so.
+So, here we are.
+Uh and uh but I think Sequoia had a rule
+or one of their, you know, playbooks of
+evaluating founders of um
+has to be right a lot. Like, that that's
+the that's the judgment you need to make
+as a shareholder in a founder-led
+company. Like, do I believe this founder
+is going to be right a lot? Mhm.
+If that's the case, then like Yeah,
+exactly. That's that's that's what you
+need to aspire to. Which actually I
+guess that was borrowed from Bezos,
+right? That's a Bezos-ism.
+&gt;&gt; I think be right a lot is an Amazon
+leadership
+&gt;&gt; That's right. I think I think that's
+right. Which and it's it's it's a really
+good one. Like, it's it's it's so to the
+point.
+Um what do you think? Let's draw a
+clearer distinction between managerially
+led companies and founder-led companies.
+Cuz I would argue, you know,
+Satya is not Microsoft's founder, but
+it's starting to feel a lot like a
+founder-led company.
+&gt;&gt; Mhm. Or um
+I'm trying to come up with another good
+example.
+&gt;&gt; is a thing. So, Satya Satya is my go-to
+example of someone who's transcended it.
+Jamie Dimon. Yeah, right.
+Both of them have like and this maybe is
+a bit cute with language, but here's the
+way I would I would frame it just to to
+to have some term to hang um
+an analysis on which can incorporate
+people uh in extraordinary individuals
+like this.
+I think both of them have given
+re-founding events to their companies. I
+think they are actually um
+uh they have made such large changes
+with such clear breaks from the past
+that they are actually are the authors
+of their companies' cultures now.
+&gt;&gt; Certainly, certainly in JP Morgan's
+case. We went through the whole thing
+with him with like the Bank One. This is
+Jamie Dimon.
+&gt;&gt; I I think also like I I I know lots of
+people uh have from Microsoft uh and
+absolutely like um like Satya did, too.
+Yeah. And uh these things aren't as
+significant as like what Warren Buffett
+did to Berkshire Hathaway. You know,
+it's like completely unrecognizable.
+Microsoft still resembles the Microsoft
+of old. Um but it's it's it's it's
+diametrically opposite on many
+convictions. It's like
+using um WebKit for its browser, not
+Internet Explorer. It's it's like it's
+very pro open source. It's more open
+source uh than
+I mean, Apple is, for sure. It's
+shocking that they've become a great
+business without owning the important
+platform of the era. Yeah. Like, that
+was the entire thing that their success
+was predicated on in their heyday. They
+don't have
+that importance now, that relevance, and
+yet it's still a great business.
+&gt;&gt; Yeah. Yeah. Yeah. I mean, they
+you could argue Azure is actually more
+of a platform now. I I don't know.
+I
+I mean, this is not the episode about
+Microsoft. I appreciate Microsoft
+deeply, and and and
+full of incredible like individuals, and
+it's like hard to find fault there.
+Like, it's it's just like such an
+incredible company, and such a storied
+business, and again, I aspire to build a
+company that lasts for a long time. So,
+like um Microsoft has been incredibly
+successful at this, and and managed to
+reinvent itself. And it's like second
+most valuable company in the world, I
+think, for you for you or something.
+&gt;&gt; like there's
+um it's interesting to hear you like you
+know
+include CEOs like that in the category.
+There's there's there's a group there's
+a group of
+&gt;&gt; Yeah. Frank would be would you need a
+better Frank would go in companies and
+turns them into like like sufficiently
+more spam um
+to be given re-founding events. So, I
+think I think this is actually an
+employable strategy. It requires
+enormous intestinal fortitude, and it
+probably not work often. And the
+existing shareholders handing over the
+control for someone to Yeah. like
+in a one-way door manner, take the
+company over. Yeah. My sense is you'll
+see a lot more of it.
+I um like, you know, one of my
+executives, Cass, is like going to
+OpenDoor, and um you know, like again,
+obviously that story will have to be
+written about how this goes, but that's
+a
+that I think that is a business that
+everyone agrees requires a re-founding
+event to have a have a shot. And
+you'll see more um
+recognition of that coming of with them
+coming in, and like
+I think uh your compensation system even
+set up to uh facilitate this kind of
+thing. So, it's It's $0 salary, and it's
+all based on the the if the stock does
+well. Something like that.
+&gt;&gt; Which is I mean, again, that's that's a
+founder type conversation like a
+conversation that's similar to start.
+Yeah, I mean, I was seeing it with Jamie
+Dimon of like, I'm going to put half my
+net worth into this company that I've
+just joined as CEO. That's right. Yeah,
+like
+like all in this. Like people
+people underestimate how uh uh
+uh
+expensive hedging is.
+But all this to say, so we we've come
+here to talk about like
+founder-led companies and and and and
+managerially companies. Currently,
+people don't unders- understand how
+stratospherically different they are. I
+think the thing that will contribute to
+um
+understanding this in the future is
+because we actually I think will um
+determine that there's sort of a middle
+ground here that is sort of
+you can get it from both sides that is
+um
+like super highly enabled um
+uh individuals
+and with an acceptance for
+um
+things going wrong as long as the
+balance arcs towards great success uh um
+is is is is what you want. Right now,
+the only people who are
+in a position to ever get there are the
+founders of companies because the
+shareholders didn't traditionally let
+them, right? And and so I think like
+Jobs got back there but wouldn't have if
+he would have come in as a new hire,
+right? Like at Apple. Um so
+I think uh I think we'll find new tools
+and then I think people will
+&gt;&gt; appreciate this now
+in a way that they didn't before. Yeah.
+I mean, hell, the playbook of VCs used
+to be step number one, fire founder, you
+know. It's like we've seen enough
+iterations of the simulation now where
+you can say, "Oh, actually it it is
+worth it to vest all of our trust into
+this one person."
+&gt;&gt; Yeah. But Yeah. And and there's going to
+be plenty of individuals who are not
+worth that trust, right? So this is
+again, it will fail and it's risky and
+people don't like taking risks,
+especially investors, cuz again, like if
+if open door not isn't working, the
+people who um you know, made this deal
+with Cars are going to not look very
+smart, right? Like so um
+um so it's it's it's high alpha
+upside downside which many people avoid.
+But like I think again, we will see this
+being de-risked um
+and so anyway, it'll be more common.
+Um But we're also, you know, we're
+operating in the
+More and more companies are operating in
+the technology world. Yeah. Uh
+which is going through this ridiculous
+crazy platform shift as we talked about
+in the first half of this
+conversation.
+And this is the Yeah, you have to
+operate this way as You have to. Right.
+So in this is super important like
+because we're not talking about a
+generic um like there's no question of
+where in the spectrum you want to be if
+you're if if if your business is making
+um is is is a widget supplier to uh you
+know, General Motors or something. Like
+it's like
+like just operational effectiveness
+like sweat every detail, Frederick
+Taylor stopwatch everywhere. Like being
+founder-run beta doesn't do anything. It
+just like adds chaos and adds hard to
+predict like quality control, I imagine.
+So
+um
+um there might be some someone hearing
+this that might be an industry that's
+being reinvented right now. And like
+may- maybe, but like
+I think the default position should be
+you want these to be actual companies.
+Um this is why I also feel like
+it's actually better to call the
+founder-run even public companies kind
+of
+ventures or missions or something. It's
+like
+probably nonsensical to make try to make
+that change and make that stick cuz
+it'll never stick, but like
+&gt;&gt; 30-year process of discovering that like
+leadership is important and uh
+for you and for Shopify. Yeah, yeah,
+absolutely because
+I feel like I
+um
+I felt very very dumb the moment I made
+this realization. Like I I feel like
+I've had everything basically through
+most of my life to to to make this
+realization very very early and uh
+it took me way too long.
+But it's that
+um
+leadership
+and consensus are two sides of the same
+spectrum.
+Like they don't intersect at all. It's
+like
+every time consensus makes a decision,
+it's the absence of leadership. And so
+um
+I also think I I not enough people know
+this and I don't think I I I still feel
+like it's a bit of a secret um because
+even in our language, consensus is a
+positive term. It's
+maybe it's fine, but consensus is always
+the absence of leadership. No one like
+everyone abnegated their
+um
+uh leadership responsibilities to cause
+a consensus um to to emerge and
+prioritized um
+the the presence of a consensus
+um to finding a best solution. Some
+people are so clever that they can
+manufacture consensus around what they
+would have chosen anyways and operate
+this way, but like in that that's sort
+of the only time these things combine
+and usually it's you decide one thing or
+another. So do your alarm bells go off
+if you start sensing consensus around
+something in Shopify?
+&gt;&gt; even worse than that. I I actually use
+it when I don't want decisions to be
+made. Like if I if I Like if you want to
+punt something, you're like, "Kumbaya,
+we're all going to get in the room and
+like I I think most companies play too
+much with pricing all the time. It's
+like it just like causes all these
+problems with data and like it makes it
+hard to predict and then suddenly you
+you do you AB test discounts and then
+you cheapen the product because now
+people are just going to wait for the
+next discount and stuff like this.
+Um I mean, obviously all these things
+are valuable strategies, but like I I
+think people overdo it um and make like
+full-time positions
+changing pricing and so on.
+And I I I I I basically like every 5
+years I say, "Okay, let's look at
+pricing. Let's from first principles
+like um
+uh get to a pricing. If it happens to be
+the same we have today, we don't do
+anything. In other cases, we we we we
+make changes and then it goes back into
+firmament and we're not looking at
+pricing again for 5 years just because
+otherwise it's uh too distracting to a
+company and um
+I used to just forbid it from doing
+pricing. Now I have a much better way. I
+create a pricing council.
+And the council the council can if if it
+could if it if it come to a consensus
+that something is a better idea, they
+can then pitch me on it. It's like super
+easy to say no at this point and they
+don't get to a decision anyway, so like
+I don't have to deal with it anyway.
+Which is perfect. You're not going to
+get to a decision. And then you still
+have Yeah, yeah, yeah. Once you once you
+once you see through metrics, you can uh
+there's moves become available to you
+which are highly efficient. This is like
+whenever a company tells us that there's
+a V team forming to look into something
+or some sort of like a committee or like
+What? So it's nobody's job.
+&gt;&gt; Yeah. No, I think that V teams can super
+work. It just you have to have a leader,
+right? Like that it but needs to be
+extremely clear who's responsible and
+who This is the old Apple thing, the
+DRI, the directly responsible individual
+and like it has to have someone's name
+next to it. Is it Yeah.
+I mean, Apple might be too, but like
+Amazon is definitely big on the DRI
+thing, yes. Um
+Exactly. So so yeah. I'm I'm a fan of
+making this quite fluid. I think it's
+like
+like I said, I'm I'm going to be a team
+member in a hack day project. I'm I'm
+I'm not the leader. Um
+um I I think very often it's
+it it
+like if not in
+commonly the person who's the leader of
+an area is
+different from the highest paid person,
+you're not actually uh making the choice
+uh of of leadership sufficiently is my
+is is is one test I apply.
+Cuz uh by default MO in every company is
+the highest paid person is making
+decisions, right? This is actually why I
+take a $1 salary because I'm not so just
+to like
+Well, but that I mean
+you benefit by far the most of the
+company as well.
+&gt;&gt; of course and of course it's like I can
+and like it's fun and anyway, whatever.
+Um What's the term? The HIPPO, the
+highest paid person in the organization
+is always the person that's right in
+right in a room. Yeah. I want to signal
+that I I have a conflict of opinions. I
+want everyone to give me better ones
+because that's fun. Um
+So anyway, um so consensus
+decision-making and leadership uh I
+think a spectrum. If you see instance of
+leadership, you also saw um a company
+that has ability to avoid needing to
+make every one of its decisions via
+consensus.
+The problem with consensus decision is
+on that um spectrum from 1 to 10, it's
+usually a six or seven. Mhm.
+You just like you by the very process of
+um
+making it
+need for making a consensus, you
+optimize for lack of downsides. So
+people are almost always better than
+five. The because
+they really like they they don't get the
+middle. You get like some
+the the best version that everyone can
+agree on.
+It's like back to the floor and the
+ceiling thing. I'm like, "Yeah,
+consensus will get you a floor, but
+it'll
+cram that ceiling down."
+&gt;&gt; Floor, exactly. Exactly. That's exactly
+what it does. While in the presence of
+leadership, you can hit any number 1 to
+10.
+Um and if you're a company that wants to
+hit
+8 9 10
+or die trying
+then you kind of have to in Rule by
+fiat. It's the only answer.
+&gt;&gt; only answer. Or but but more and more
+charitably like um
+uh
+we are
+when we're looking at creating the best
+products and the biggest companies and
+the most successful organizations, what
+you are looking to do is create an
+extreme outlier. And extreme outliers
+can only be created you know, pick your
+term whether it's by an auteur designer
+or rule by fiat or leadership, you know,
+rather than consensus.
+Uh
+Outliers come from
+like a single vision
+executed by a team of people not an
+agreed-upon vision executed by a team of
+people.
+&gt;&gt; That's that is 100% true and that's this
+is like
+very very very consistently demonstrated
+in every area where it's quantifiable
+how good things are, right? It's just
+like
+I don't think a great book has been
+written
+as a big collaboration between multiple
+people. It's like
+books are hit it are as good as they are
+because they're always single author. Um
+there's a
+supportive agent in a in the in the
+editor, clearly. Um, but that's a that
+is a supporting role.
+&gt;&gt; This is so interesting cuz I completely
+agree and I'm like obsessed with auto or
+driven things.
+And yet, we operate a partnership where
+neither of us are the boss. Yeah, but
+but we're the it's it's a totally
+different thing. We're a two-person
+partnership. We are one person.
+&gt;&gt; I suppose a two-person committee. We're
+like a married couple at this point.
+It's like a fused brain.
+&gt;&gt; I I don't I I doubt that you wrote by
+committee. I I I I think you like every
+single time I see a great partnership,
+it's when I it's when I see people who
+are actually learned to respect and
+trust whoever other person like the like
+each other over in which areas they tend
+to have a bit higher batting average.
+That's actually true.
+That's not it. We don't operate by
+consensus at all.
+We operate by if one of us wants to do
+something, we do it.
+&gt;&gt; We should search our iMessage thread for
+for you. Yeah, yeah, that's just like
+anytime one of us wants to we do so
+we're both we're both, you know,
+founders and so anytime one of us wants
+to do something, we do it. That's just
+what it is.
+&gt;&gt; Exactly. Exactly. And I work very
+closely with lots of people that that
+were just over
+were given rights over ruling me. Like
+my my co-founder of Shopify Daniel
+Weinand was a
+um brilliant designer, chief design
+officer eventually. And
+he had um veto rights over every feature
+we shipped. And like this this was I
+made the decision on what was what we
+were building and I wrote most of the
+code even especially because we were I
+mean, at some point it was just the two
+of us only.
+And um
+he said no to features that I wrote and
+was wanted to ship because we couldn't
+figure out how to make the UX good for
+it. And and that was important because
+Shopify's killer feature in 2006 was we
+had brilliant UX. Like this was, you
+know, we we were the linear of our time
+with Figma. Um, and uh it's always been
+incredibly important. I I I giving um
+the people who have a highest context
+and greatest over off of ship over
+aspects of a company is also that's not
+consensus. That is actually straight-up
+leadership again, right? Like you the
+the leader on that aspect becomes that
+person. And so um it it it's it's
+important that uh you need to be able to
+realize
+&gt;&gt; listen to this and be like, "Oh, I need
+to be like Tobi and I need to be the
+leader on every single thing." And
+become like that's not the I'm not.
+I I I I I absolutely am not. I I I uh
+what I don't believe in is pushing
+decision-making outwards, sort of this
+grassroots or down in organization idea.
+I also don't believe in top-down idea. I
+believe in pulling decision-making
+inwards. I I I create um the highest
+idea liquidity environments in which we
+can make very good decisions quickly,
+but that's very clear who's making
+making decisions and who's consulting on
+it. And this is again these like review
+cycles I talk about are that. Like we
+are going through a thousand projects.
+It is a crazy thing to do. It's like
+takes starts at like 8:00 a.m. and
+usually runs to 10:00 at night three
+days out of every month. And um
+uh and and and the follow-ups from this
+are probably for a weekend I do
+follow-up reviews and stuff. It's just
+like I like I have happened to like
+working, which is good. And and and
+&gt;&gt; locked It's like it's good. It's like
+this is what I want to do. And like I
+think it's uh
+it's it's I I
+I'm doing a thing that I didn't set out
+to do. I'm trying to build at massive
+scale like a societally important piece
+of software. Like it's like there's a
+lot of if you subtract Shopify out, like
+like if it disappears overnight, there's
+a lot of uh countries which would have
+no GDP growth. Second order GDP because
+of Shopify is massive from all of our
+customers.
+&gt;&gt; Yeah, it's like it's just like plain uh
+GMV uh like gross pro- profit dollars,
+like just sales across the platform is
+like I think a third or more of the
+Canadian entire GDP. I mean, I if you if
+you calculate it, it's like 400 billion
+kind of things. Like it's it's just
+absolutely crazy. I Again, I didn't
+hardly makes it so I I I don't I think
+that would make you either the second or
+third largest retailer in the world if
+all of that GMV was accredited to one
+retailer instead of Yeah, but but
+obviously it isn't. So this is a highly
+virtualized uh uh way to think about it.
+But like in terms of the checkout that
+Shopify ships, it is the
+in the top three busiest checkouts on
+planet Earth. Um, um and and at a growth
+rate that it might end up being the
+biggest. And so um it's uh
+that's a that's a that's a tremendous
+responsibility which I
+man, I don't operate too much like on
+regret minimization. I actually like
+like slightly different framework where
+um
+Bezos famously um talked about uh
+um future regret minimization. What is
+the nuance? Um I I I'll I'll get into
+this because it's fun. Um, and um but
+it's uh
+my my my biggest regret would just be
+like, "Hey, I didn't
+take it seriously and like
+responsibility seriously enough." Right?
+Like I I I um I think it sucks when
+people use bad software. I think it
+sucks when uh anyone's underperforming
+their own potential due to tools. I I
+like I I can do so much here, so I
+of course I'm dedicating myself to
+um to this kind of thing. Very early we
+talked about founder run companies uh
+versus managerial companies and how in
+in management uh
+like a CEO is is being fired when
+results are bad, which I think is
+fundamental that's multiple levels of
+wrong. Um, but like
+the way to judge a CEO is like out of
+what opportunity did you carve what
+company?
+Um and maybe even for what reasons. Um
+and uh you know, like you you look at
+something like um
+uh you know, eBay which
+by rights should have all of commerce on
+the internet, right? Like they were they
+were first and had everything figured
+out.
+O- owned PayPal. Um, like Incredible
+business model, asset light. Shopify
+does not own Stripe. It's like it's like
+they had the entire thing. They In the
+PayPal acquisition, like think of the
+staff. It's like Peter Thiel coming in,
+Elon Musk, you know, Max Levchin, and
+like a million others besides. Um
+David Sacks started YouTube. Yeah,
+exactly. So it's like like think about
+the talent density that they've got. So
+from that moment um
+what what's eBay now? So Not that. Yeah.
+&gt;&gt; Right. And so um I mean, you can even
+play this with the craziest thing. Um,
+you can even play that game with
+Microsoft, right? Like it's like
+obviously the
+courts have now said that Apple can
+charge 30% um
+on all the economic activity on those
+platform with, you know, some emergent
+provisos um and maybe carve-outs. Um
+that means Microsoft could have done
+this with a PC.
+Right? Um
+uh they got in antitrust over shipping
+of that product, which is so insane if
+you think about it, right? Like it's
+like they what they should have done is
+have an app store and charge 30% of
+literally all the money on planet Earth
+right now, right? Like that So what kind
+of trillion-dollar company would that
+be? So obviously I'm not advocating for
+this particular reality. I'm very glad
+this didn't happen. Uh
+uh and I think maybe entire all of
+planet Earth is
+off better because this didn't happen.
+&gt;&gt; Well, we have a Ben you have you have
+your theory that uh every great company
+has latent uh economic value within it
+that it chooses not to exercise. Stored
+potential energy. Stored potential
+energy.
+&gt;&gt; 100%. So um so out of what opportunity
+did you carve what is actually the right
+question. Of course, much harder to
+judge, but at least for purposes of
+every CEO evaluating themselves on the
+job, that is the question they should
+ask themselves. So I certainly the
+question I ask myself. Okay, give it
+give us your version of the regret
+minimization framework.
+&gt;&gt; Okay, well, I mean, so I I I
+I do agree with it. Like like in in in
+general, I think it's just lossy and I
+think it's much to um
+enhanced. So
+the way I I before I knew that was the
+way uh um Jeff talks about it. I I
+always
+somewhat maybe more sort of
+um philosophical. I I I just feel at the
+end of life you meet the people the
+person you could have become. Um, and uh
+I So so you I think the work in life is
+try to minimize the difference between
+um that person and and who you actually
+ended up being. Um, so that's certainly
+what I do.
+I I think one ingredient in this um Say
+that one more time. At at Is it at the
+end of life?
+&gt;&gt; Yeah, at the end of life you get the
+essentially like the game over screen is
+like you you get this like you get to
+meet the person you could have become if
+you would have um The best version you
+could have been.
+&gt;&gt; Best version you could have possibly
+been been. And I think your your goal on
+planet Earth is to minimize the
+difference between that and that
+potential. So I like
+again
+do
+this is not uh I I I don't think this is
+a truth of any kind, but it's a very
+very valuable story to believe. And sort
+of the thing that I I I get a lot of
+value out of.
+I think one of the most important
+ingredients is not just think about
+future self regret. Don't think about
+what you at a deathbed you would have
+wanted to. You need to consult your
+inner 16-year-old, too. This is it's so
+important. We live in such amazing times
+and in in we have accomplished so much.
+Many people like everything we currently
+have is something that we dreamed of at
+some point. Um, and uh um it's it's it's
+it's important.
+That's certainly what a perfect place to
+end in a Yeah, couldn't agree more. It
+feels like such a
+cheap way to make better decisions, but
+I wish more people would do it. Yeah.
+Well, Tobi, thanks for doing this with
+us. This was good fun. Loved that. It
+was great conversation. Thank you very
+much. Thanks for your platform. I again
+keep saying this, but I love your
+podcast. So Great book. Thanks.
+&gt;&gt; Thanks for letting us be a fly on the
+wall on
+your own discovery journeys on these
+storied companies and uh people.
+Thank you.
+&gt;&gt; Thanks, Tobi.
+&gt;&gt; Awesome. All right, listeners, we'll see
+you next time. We'll see you next time.
+Mhm.

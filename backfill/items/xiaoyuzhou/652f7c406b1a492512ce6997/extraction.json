@@ -1,0 +1,14 @@
+{
+  "status": "retryable",
+  "method": "",
+  "language": "",
+  "attempts": 1,
+  "duration_seconds": 1564,
+  "last_timestamp_seconds": null,
+  "coverage_ratio": null,
+  "text_chars": null,
+  "sha256": null,
+  "completed_at": "2026-06-29T17:51:29.595471",
+  "error_type": "whisper_failed",
+  "error_message": "error: input file not found 'D:\\Users\\AS\\Desktop\\podcast-distill\\backfill\\temp\\652f7c406b1a492512ce6997.wav'\nerror: no input files specified\n\nusage: D:\\Users\\AS\\Desktop\\podcast-distill\\whisper-bin-x64\\Release\\whisper-cli.exe [options] file0 file1 ...\nsupported audio formats: flac, mp3, ogg, wav\n\nopt"
+}

@@ -1,0 +1,2628 @@
+Kind: captions
+Language: en
+Half an hour away from the opens in Hong
+Kong, Shenzhen, and Shanghai. You're
+watching the China Show. I'm Ivon Man
+with David and Glenn.
+&gt;&gt; Good morning. Let's get to your top
+stories today. Stocks across the Asia
+Pacific. US futures continue to remain
+under pressure as you can see on your
+screens. It's after Nvidia uh leds a
+Wall Street tech selloff. A new survey
+finds China's equity rally is prompting
+money managers to turn less bearish.
+&gt;&gt; Earning season rolls on in China. Xiaomi
+announcing plans to sell its first EVs
+in Europe by 2027 after its China auto
+sales help offset slowing smartphone
+demand.
+&gt;&gt; More on EVs ahead. We speak exclusively
+to XPOM's vice chair and president Brian
+Gul about their latest results and also
+their expansion plan.
+&gt;&gt; Plus, toy maker PopMart posting robust
+revenue and profit growth thanks to the
+Laboo Frenzy.
+[Music]
+We start with some breaking news when it
+comes to the LPR in China. So, we're
+hearing from these commercial banks
+keeping those rates unchanged for the
+month of August. So, the one-year LPR at
+3% that remains 5-year loans, that's the
+one that's linked to mortgages as well.
+That also is starting at 3 and a half%.
+So, there you go. No change there for a
+third straight month. Of course, you got
+to wonder when they're are they
+pressured to act though policy makers
+given what we saw in that week credit
+data back in just recently here. But you
+know, maybe we'll have to wait until
+September possibly for any sort of yeah
+movement on that.
+&gt;&gt; Uh a further deterioration maybe in the
+data and of course we get a move on the
+MLF and we probably get a move on on the
+low prim rates as well. So we can set
+that aside for now. this time the next
+hour though we are likely going to see a
+change and just to mention one of the
+big things we're tracking of course is
+that RBNZ rate decision coming through
+in the next hour so we are expecting a
+cut there all that said the approach to
+that and the market opened today and of
+course the interesting dynamics that we
+had overnight where most stocks actually
+closed higher in the uh in the in the US
+session but of course you had the big
+heavyweights and tech u doing most if
+not all the damage so you get the nicke
+down about 1.3 the costby tech AI heavy
+You're also getting the TX tech heavy as
+well. We're down about 1% on that. TSMC
+bottom of the screen is down about two.
+We were down over 3% I believe in the
+overnight session. NASDAQ futures are
+still extending the losses from
+overnight. A stronger dollar broadly
+speaking is what you see on your
+screens. Flip the boards as we look at
+some of the moves overnight. X Pong, NEO
+UP, those two, but of course we're
+looking at likely declines in the likes
+of Alibaba going into the open today uh
+because of the tech selloff that we're
+looking at as well. Right. future should
+be pointing down, coming up on your
+screens. There we go. A third of 1% and
+of course on a 30-year yield. I think
+we're about four basis points
+thereabouts there from hitting the high
+would be that high that we hit I think a
+couple of months ago. And we do have a
+5-year bond auction to talk about. We
+can get to that later on.
+&gt;&gt; Yeah, it's interesting, right? You talk
+about what really triggered this sell
+off on the NASDAQ. It was the second
+worst decline we've seen since
+Liberation Day essentially. Um, and you
+got to wonder what really kind of
+triggered that, right? I think there was
+some talk about Sam Alman and what he
+said a few days ago about maybe an AI
+bubble is forming perhaps why we saw
+such a steep sell off in some of these
+names and maybe just brings up the whole
+concentration risk once again in this US
+rally.
+&gt;&gt; Yeah. So that that fell quite
+substantially. Nvidia had meta
+&gt;&gt; Palunteer which has done phenomenally
+well of course has almost gone up
+vertically was also one of the big uh
+decliners overnight. In fact, just on
+that very note, right, so we were
+talking about this the points drag drags
+on the S&amp;P, you could almost close your
+eyes and guess and guess correctly which
+most uh which those were. But again, the
+breadth of the market overnight was
+actually quite good. 350 of the S&amp;P 500
+actually closed higher. So it was really
+the concentration on the tech space, S&amp;P
+futures down bottom of your screens. Uh
+the other big theme of course is this
+Asia market and turnover which has been
+just also punching
+&gt;&gt; punching through the ceiling. Was it was
+above two trillion again, wasn't it?
+&gt;&gt; Second straight day. I think 2.66 I
+think is the the average for Monday and
+Tuesday, which is by, you know, a level
+we've we don't normally see as far as
+Asia market turnover is concerned.
+&gt;&gt; Yeah, perhaps we'll see a bit of shelter
+then maybe potentially given what we're
+seeing broadly speaking in this Asia's
+textile up. Can China continue to gain
+momentum here given the liquidity and it
+seems to be still quite intact that
+story and earnings as well. I mean
+that's going to be a big big mover here
+today given what we saw overnight in the
+US with some of these tech names.
+&gt;&gt; Absolutely. app. So, we're going to look
+at the likes of Xiaomi and Xiaoong uh
+later later as well. And just to also
+mention the Hibbor is one thing we're
+tracking and reason we're bringing that
+up is because that is uh indicative of
+liquidity conditions which might be in
+favor of the Asian market. Anyway, uh we
+can table those things for now, revisit
+that later on, but of course the big
+story of course what's happened with
+tech overnight. Uh and who better to
+talk us through the context there. Bell
+is here with us on set to take us
+through what exactly was behind the sell
+off. Well, I think you kind of mentioned
+it there with with those Sam Alman
+comments for instance, but I think
+overall it's just that that general
+concern you have that maybe it's this I
+mean it's sort of been a similar story
+that comes up every few months or so,
+but about going too far too fast. Is it
+too much overhyped right now? And and
+some of the stocks you mentioned
+Palanteer that drop them in. It's one of
+the stocks that has seen the most short
+interest so far this year. I think only
+second to Meta. So, it really just sort
+of tells that broader story. I think
+really what's going to be the key test
+of course and we're going to get it in a
+week is is the Nvidia earnings because
+they're confirmed for the 27th of this
+month. It will certainly be that big
+reaction that we get in the market. Is
+the sort of spending and and the
+interest really justified right now?
+&gt;&gt; It seems like when it comes to Intel is
+a different story. The bulls are finally
+being rewarded for their patience after
+it's been quite a stunning rally that
+we've seen even just this month. We're
+up around 30% for the stock. the
+catalyst. I mean, we've kind of
+telegraphed those pretty well, but it's
+it's the US government looking at taking
+that 10% equity stake. Uh the other one
+as well, of course, is what was reported
+yesterday that that Soft Bank is
+investing $2 billion. So, it's sort of
+that vote of confidence in the company.
+You can see here though, uh that even
+with that big rally, you're looking at
+valuations now that are at the highest
+going back to 2002. But the fundamentals
+for the business are very different
+because you're at the start now of what
+could be a multi-year restructuring
+effort led by the new CEO Lib Bhan.
+whether they can actually realize that
+of course we don't know just yet and so
+analysts are sort of saying look we it's
+it's really gone too far too fast really
+the story we had for broader techch
+overnight even though Intel bucked that
+uh but but of the analysts for instance
+that look at this stock only 8% uh
+tracked by Bloomberg have got a buy
+rating right now 80% neutral instead
+&gt;&gt; uh can I ask you about Meta what
+happened there and the restructuring
+that they're looking at for their AI
+division
+&gt;&gt; yeah so this is sort of just a
+reflection I mean meta we know and we've
+been also are following this just how
+many billions of dollars they've been
+spending on recruiting the top AI talent
+in the market. And so they're just sort
+of this is what we understand is it's
+more like a
+trying to capitalize on that spending
+and make sure they're in the best
+position. So Alexander Wang, he's
+someone who's recently joined the
+business in a formal capacity. He's the
+head or the chief AI officer and he sent
+out this internal memo overnight
+announcing the restructure. So there's
+four new business divisions for this. Uh
+the first is that uh one that's going to
+be overseeing the large language models.
+You have the second one which is sort of
+the the ongoing it's been around for a
+decade but the internal AI research lab
+that's going to be staying uh but
+looking at longerterm projects. The
+third business division will be looking
+at how to really capitalize that put
+them into consumer products. And the
+fourth as well is looking at the AI
+infrastructure all that expensive
+infrastructure that's needed to fuel the
+AI AI ambition. So not any headcount
+losses but just a sort of restructuring
+again to try and make the most out of
+the spending they've had in this space.
+&gt;&gt; All right, Bel. Thank you. B there with
+an update on all things tech here this
+morning. Let's bring in Harold
+Vanderland, head of Asia-Pacific equity
+strategy at HSBC. You're starting to see
+this global equity rally seeing some
+signs of strain. Is it just a symptom of
+slow summer or something worse?
+&gt;&gt; Slow summer could be a reason for it,
+right? Um a lot of traders are off and
+we know August, December are months
+where liquidity is uh is a little bit
+less sometimes, but doesn't seem to be a
+problem at the moment, but maybe fewer
+people at the at the trading desk and
+therefore you get sometimes.
+&gt;&gt; So there wasn't really any difference
+really. Yeah.
+&gt;&gt; But yeah. Yeah. No, but I think
+sometimes this is the odd thing and the
+difficulty I guess for you as well is
+sometimes markets roll over on no
+particular news. It's just a gradual
+sort of process. I mean I once long time
+ago we looked at why did in 2000 was it
+2001 the tech bubble uh it's a long time
+ago why did it peak in March and there
+was nothing that happened in March that
+caused it it just it's a sort of market
+process that does it itself and I think
+that's going on now. I mean the S&amp;P has
+rallied very strong can't really come
+back since April right um so positions
+probably got stretched people said well
+let's take some of these positions off
+and before you know that a lot of people
+start to do that and the market rolls
+over and
+&gt;&gt; do you get a sense that this might
+continue short term in other words if
+nothing has changed fundamentally or
+structurally with any of say the AI
+story for example is is this a buying
+opportunity or do I wait until maybe on
+on the other side of the weekend after
+Jackson Hole
+&gt;&gt; yeah maybe it's Um I think this this can
+go over if this is a sort of uh
+repositioning in the market might take a
+few weeks or something like that. Okay.
+Uh but ultimately if you look at the
+fundamentals the earnings growth uh that
+comes through the US but also interest
+rates interest rates there's talk about
+them cutting the Fed starting to cut
+maybe over Jackson we get ideas of it
+but normally that's not the the stage
+where they really set interest rate
+policies. more broader longerterm
+thinking there. But if we get an
+indication that they are more inclined
+to start cutting interest rates, yeah,
+that would be supportive again. But I
+suspect that will take a bit of time. So
+we'll be well into September then again.
+&gt;&gt; What's position looking like to you in
+Asia right now?
+&gt;&gt; So in Asia, it's a little bit what you
+spoke about with the US market. Um it
+looks like everybody's in the same
+corners and we we know it's uh
+semiconductors in Taiwan. Korea was
+underpositioned at the beginning of the
+year. a lot of people have now gone into
+Korea into the um into the DRAM names
+there. Um so I I I we felt we've
+actually for example downgraded Korea on
+the back of that because we felt that
+people were overly positioned there now.
+So uh uh yeah it's um it's everybody's
+in the same corner. So when you get a
+rush for the door, yeah, it's uh
+everybody rushes at the same time.
+&gt;&gt; And do I differentiate between Korea and
+and Taiwan?
+&gt;&gt; Um I think a lot of people don't so
+much. Yes, there are different drivers
+in Korea and Taiwan, but ultimately it's
+the AI story and um companies like TSMC
+give you great exposure to that, but
+there's a limit to what you can own. Uh
+most funds own about 10% uh on average
+in an Asian portfolio in that particular
+company. You can't really own more
+because your risk managers say, "Hey,
+you're running a portfolio. What are you
+doing? What are you doing? It's
+basically one company here. You can't do
+that. There's there's a so people have
+then started to look for other ideas
+that are mimicking that performance and
+also in the AI
+&gt;&gt; difficult though with a stock 40% of the
+index.
+&gt;&gt; Exactly. So but you can't buy more so
+you need to do something. So what you
+then do is you buy something that is
+correlated with it has a similar sort of
+dynamics and you can find that in Korea
+as well and I think that's that's that's
+that's one of the reasons why people
+have gone into Korea.
+&gt;&gt; Uh we've been talking about this earning
+season. It seems like things are looking
+resilient so far. What what's your take
+so far on how things have have looked so
+far?
+&gt;&gt; So far, it's good. It's early, so it's
+really next week when particularly you
+guys going to be busy with lots and lots
+of results coming through. Uh it's the
+last few days of the month when most key
+companies are coming through. But for
+example, this morning I was talking with
+Michelle, which is our uh real estate
+analyst, and she says, well, you know,
+for us it starts really on Friday, so
+we'll see what the numbers are. she she
+has the impression that the confidence
+that the companies have in the earnings
+that they're going to present um
+presumably some of them might know it
+already but she says the confidence that
+they're talking about is something she
+says I haven't seen literally for 18
+years she said so it's um last year she
+says people didn't want to talk about
+the numbers and was like China we don't
+know China property is in this case
+sorry she says they didn't want to talk
+about it but now she says they seem to
+be confidence to give guidance that's a
+very different sort of mood and I think
+that that we see this a little in other
+pockets in China as well. People feel
+there's a sense of confidence there and
+the market is expressing that to a
+certain extent. Yeah.
+&gt;&gt; Yeah. I mean we have been hitting higher
+and higher lows and we're certainly past
+peak pessimism I think is the point that
+we were just making there. We'll have
+more with her Vanderland of course on
+this Chinese market in a moment here.
+Head of Asia Pacific equity strategy at
+HSBC is staying with us. Still ahead
+here on shows. We'll dive into the
+latest earnings. Speaking of uh with
+Xiaomi and also PopMart looking at a pop
+going into the open today. Uh plus of
+course XPong president Brian Google will
+be joining us to talk us through their
+outlook. Ross margins they beat on
+almost every metric. Are they finally on
+track though is a question to
+profitability. We'll ask that question
+of course to Brian Goo when he joins us
+later at those times on your screens.
+And yeah we are counting down to the
+open of trade. Futures are pointing
+lower finally. I was going to say the
+sun is out but at least there's no rain.
+We're halfway there, as Bonjovi would
+like to say. There we go. 16 minutes
+away the opening. Well, this is the
+China show.
+[Music]
+Your agenda out of greater China here
+today. We talked about that CGB auction
+coming up for the 30-year uh and we're
+also the 30-year levels I should say
+they're watching. Turnover obviously has
+been quite hot as well. Still watching
+those CSI 300 levels there. 42 39 is
+sort of the level to watch here as well.
+Sectors include tech, solar and steel
+and lithium. There was some news uh when
+it comes to tariffs there when it comes
+to steel and lithium. Solar was also
+something that we heard here about solar
+stocks in particular that are in focus
+here uh from the government. So
+certainly one to watch in terms of
+sectors that h highore surge. Yeah.
+Surge we're talking about in the last
+few days. So certainly one to watch and
+Wongi now continuing his trip in India
+but now coming next now to Pakistan.
+&gt;&gt; Yeah. And of course there's a big
+earnings theme as well this Wednesday
+and of course there's a big interview
+coming up and you can stay tuned for
+that of course in one of the uh company
+set to report and maybe Ivonne can talk
+a little bit more about this. HKX is
+coming through with earnings today. And
+the reason I bring that up is because
+&gt;&gt; Oh Bonnie Chan.
+&gt;&gt; Yes. There we go.
+&gt;&gt; Talking to Johnny Chan later on this
+afternoon. I mean, obviously they're
+expecting a great set of earnings for
+the second quarter. Once again,
+obviously the southbound flows that
+benefit them very, very closely. They're
+going to talk about the IPO pipeline. I
+believe there's still more than 200
+applications active right now that we
+could look ahead to as well. One thing
+to ask about is Hibbore, which has
+actually potentially could hurt their
+investment income, too.
+&gt;&gt; Yeah, it's sort of funneled some money
+back into the Asia market, if you will.
+Uh, looking at that. Okay. Okay. Well,
+speaking of earnings, Xiaomi came out uh
+well, the company's planning to sell its
+first EV. This is in Europe specifically
+in 20 by 2027, taking on Tesla and BYD
+globally with its year old EV business.
+It's also reported about what 30 31% pop
+in quarterly sales. Let's bring in Danny
+Lee, our transports
+man of the hour, to talk us through what
+we know about these plans in Europe.
+Yeah, I mean this is the level of
+competition we are seeing and now with
+Xiaomi having relatively good success in
+the China market in a short space of
+time, it now wants to take on Tesla and
+BYD on a different territory. And so by
+pushing more global with its ambitions
+to go global, you know, Europe is
+consistent with that message by 2027 and
+it's this $10 billion bet it has made to
+push into the EV industry. So with
+relative success over a small kind of
+set of models it has produced. So far
+it's gaining increased confidence and
+you see that in the earnings you see
+that in the earnings strength and
+particular at time its main business is
+seeing a bit of a slowdown. Xpung that
+was quite interesting right so you're
+talking about record sales shrinking
+that that the losses uh and margins were
+pretty solid as well is profitability in
+its sights now
+&gt;&gt; well this is something that I'm sure you
+guys will ask Brian Goo when you speak
+to him not too long from now but I think
+just the way it's been able to narrow
+the losses and particularly really
+accelerate the the level of sales it has
+seen coming from what previously was a
+difficult period I think for for you
+know for X punk there is a bit more of a
+a kind of tailwind win. Given the
+regulatory concerns across the wider
+industry, it is in a much better
+position than some of its peers. So, I
+think you know the the losses it has
+been making. It's only a matter of time
+before it starts turning into into
+profitability.
+&gt;&gt; Okay, Danny, thank you. Danny Lee, we're
+expected to hear uh more from Brian Goo,
+of course, and we'll see how the stock
+reacts in the Hong Kong session here.
+But ADRs did jump on the back of that
+earnings report. We'll have more from
+Brian Goo, of course, and the EV
+landscape when we speak to him about
+their earnings outlook, expansion plans,
+and of course, uh, what what to do
+amidst this whole new pricing from Tesla
+that did move the market a few days ago.
+That's coming up the China show at the
+times on your screen. 10:30 a.m. Hong
+Kong time. Let's talk about PopMart now.
+&gt;&gt; Yeah.
+&gt;&gt; Oh, no.
+&gt;&gt; I mean, that's
+&gt;&gt; I know where this is going.
+&gt;&gt; Oh, he's got to talk about it, right?
+Huge numbers, right? It's time of huge
+revenue and profit growth boosted of
+course by the global demand for its
+hugely popular Laboo Doll. That's a lot
+of huges in one sentence. Let's bring in
+our China correspondent M low to walk us
+through some of the key highlights from
+those results. M.
+&gt;&gt; Yes, traders had really skyhigh
+expectations for the company, but POPMA
+not only met them, but beaten them as
+well. We're talking about 400 or nearly
+400% when it comes to net income about
+200% when it comes to revenue and I
+think what really impresses me is when
+you look at the over overseas expansion
+plans right it's expansion into US is
+about 1,100%
+if you can show the chart of the
+regional expansion in Europe it was
+about 700% and in China is about 130% or
+so so huge expansion especially in the
+Americas um and of course I'll be
+attending ending the earnings call later
+today in about half an hour from now
+when the CEO Wanging will be speaking.
+He already previously had said he
+expects overseas sales to go beyond
+China sales this year. So investors will
+definitely be looking out for the profit
+guidance for the second half of the year
+as well as whether the company can give
+us the longerterm uh expansion and
+growth plans for the next three to five
+years. How are they going to keep this
+up sustainably and whether there are any
+sort of IP creation diversification plan
+as well as the supply chain plans given
+the strong demand overseas as well as
+the tariff uncertainties
+&gt;&gt; and and Midman I think one of the things
+we talked about before shows was how
+analysts had been struggling to keep
+their keep up with the rally in the
+stock price. So currently how much more
+upside on consensus is is is seen right
+now in the share price.
+Yes. So, according to what analysts are
+looking at in terms of price targets,
+currently PopMart is still trading at
+about 90% of the 12 month average in
+terms of analyst price targets. And if
+you look at this chart that you actually
+created, David, you can see that, you
+know, over the past uh year or so, we
+can see, you know, there are some quite
+a long period where there was a period
+when basically the the traders were
+chasing this rally that we are seeing on
+POTM. uh and starting from June we start
+to see POPMA trading below that
+pricetotarget ratio and that is when uh
+POPMA had given out its preliminary
+earnings and perhaps there's been a
+revision up in terms of the price
+targets from analysts. So yes about 10%
+upside that we are seeing here but some
+analysts are uh talking about certain
+downsides they're looking out for and
+they're coming from a few places right
+one is if there is more regulatory
+scrutiny from China there have been some
+you know uh commentary from state media
+talking about this anti-addiction
+campaign for uh young adults who are
+buying into all these blind boxes. Uh
+the second downside risk if is if there
+is more uh competition from new emerging
+players given that we already see a lot
+of counterfeit products out there that
+actually see pretty strong demand as
+well. Um and of course the third one is
+whether or not the company's able to
+replicate the success of Labubu with its
+other new IPs as well. The Laboos by the
+way part of the Monster series that
+really contributed to about a third of
+the company's revenue. It's up about 600
+over percent uh in the first half of the
+year.
+Oh, night. Oh, nightmares there. Minman,
+thank you so much. Minman Lo, of course,
+will be attending the call later on and
+she'll be giving us an update there.
+Just a quick word on Labu and earnings
+and maybe this new consumption theme.
+Harold Vander Lind is still here with us
+here on set from HSBC. What do you think
+about this, you know, the this new
+consumption favorites, whether that's
+&gt;&gt; cheap cheap coffee, Lapu Gold, is that a
+theme that resonates among global
+investors? First time I heard about
+Labubu, I uh I'm I'm not your
+traditional customer, I would say, for a
+lab. I don't have one. Yes. No.
+&gt;&gt; Preaching to the choir.
+&gt;&gt; So, um if I would be an analyst for this
+talk, it I would really struggle. Uh I
+mean, the sales are phenomenal. Look at
+these numbers, right? And I guess
+there's an enormous reach for it. I was
+in London not long ago and in Paris and
+saw people lining up for uh for these
+products. So um fast growth interesting
+product but yeah you're right we should
+put it in a bigger picture why why is
+this happening and our suspicion is that
+this is a sort of affordable luxury
+we've come out of co we've come out of a
+really difficult period people have lost
+money they want to feel good and for a
+lot of people it's um it's
+&gt;&gt; unboxing a blind box
+&gt;&gt; exactly
+&gt;&gt; for a little bit of surprise
+&gt;&gt; yeah it's uh it's it's these sort of
+things we see this in in maybe some
+other products as Oh, so it's it's an
+very affordable way of treating
+yourself. My colleague calls it the
+lipstick phenomena. She says it's in
+recessions, lipstick sales do relatively
+well because it's affordable luxury.
+Now, I'm not into lipstick either, but
+um neither in labu.
+&gt;&gt; All right. Well, then Harold, let let
+let's wait until we introduce you to our
+makeup people. They might recession
+indicator.
+&gt;&gt; They might change your mind, of course.
+Okay. A quick preview of markets coming
+up next. This is the China show.
+[Music]
+All right, this tech selloff seems to be
+going a little bit more here in the Asia
+session. So, we're watching some of
+these tech names like Xiaomi that's down
+some 2%. Um, that's despite what they
+said, right? Declaring this foray into
+Europe in 2027. Uh, Xpong is certainly a
+good story there. We talked about those
+earnings as well. PopMart though, that's
+the negative news story there. We're
+down about 2%. Uh but despite those
+explosive numbers that we saw, but Wooi
+was also a beat. So we'll see how the
+market open goes. You're watching the
+China show. This is Bloomberg.
+[Music]
+Good morning. Welcome to the program and
+it's actually pretty quiet in the news
+front today. Perhaps why we are getting
+a repositioning out of some crowded
+trades. Uh we're coming up the loan
+prime rates out of China. No change
+there. And top of the next hour will be
+of course the RBNZ. We are expecting a
+rate cut coming through there of the
+RBNZ. And might that be the same story
+as far as the the Fed conversation goes?
+Yeah, as we count down to Jackson Hole,
+certainly still waiting, of course,
+whether JP Pal does solidify those
+speculation out there of September cut,
+but yeah, that's still a few days away,
+right? Right now, as you mentioned, are
+we starting to see cracks or things
+wakening here in a slow summer or are we
+starting to see something a bit more
+sinister when it comes to this tech
+selloff, right? Given the fact that we
+saw these big mega cap names in the US
+sell off for not really any big news in
+particular, right? So, that's certainly
+one thing to watch here whether we're
+seeing that play out through in Asia.
+You are seeing uh a little bit of that
+here on in some of the greater China
+markets as well. So there you go. Entre
+markets are doing this. We're down about
+4/10en of 1% here right now. You're
+seeing a slight bid back into bonds. So
+a little bit of that rotation now. Uh
+that has reversed right before it was
+taking money out of bonds into stocks.
+That's now going back to that now with
+your 30-year yield down some two basis
+points, but we're still well above that
+2% threshold here right now for that
+30-year yield. Uh commodities are
+selling off. We're watching of course
+some of these big names like Quow. Uh,
+CATLA shares are down some 9/10en of 1%
+here. Made Group is also down some 1%.
+So, it seems like it's a pretty
+broad-based sort of sell-off here right
+now. Of course, it makes us focus on
+earnings a little bit. Maybe we'll see
+some more idiosyncratic moves here. But,
+there you go. HS Techch is down some 1%.
+So, it really is seeing this tech spell
+selloff here spread to uh some of these
+China names and Alibaba is down some 1%.
+Hong Kong Exchange, they come up with
+earnings later on. That's the next one
+to watch though. But we're still
+expecting a pretty decent second quarter
+for them. And now that we're on track,
+it seems for Hong Kong to be the the
+take up put the crown for the number one
+when it comes to IPO markets, right? Um
+but yes, there you go. It's not looking
+too pretty here right now. Property is
+also on offer here and we're watching
+some of these, you know, earning
+stories, right? Popart was it was a
+phenomenal set of numbers when you talk
+about, you know, sales actually tripled
+in the first six months of this year,
+but we're still seeing that stock down
+some 3%. Not sure if it's an earnings
+story or just overall tech and you know
+these big names that have actually led
+this rally are now seeing a bit of a
+pullback here. Wooi Biologics they also
+beaten their earnings as well. Xiaomi
+this is the one to watch right so
+they're talking about entering into
+Europe maybe possibly in 2027 to compete
+with the likes of BYD and there in
+Europe. So certainly that's one thing to
+watch as well. Xpong though it seems
+like me that you know we're starting to
+see that fourth quarter break even
+target. analysts are saying we're on
+course to hit that right now because you
+take about what the earnings did
+operating losses narrowed you talk about
+you know when it comes to gross margins
+also we're pretty solid as well and
+they're seeing record sales so maybe
+things are pointing higher for XP as
+well solar stocks we're watching very
+closely this is a more of
+anti-involution theme we did hear from
+the government talking about they need
+to regulate competition more in this
+space so some of these solar names are
+rallying this morning Dave
+&gt;&gt; yeah and I think HSBC um has some
+interesting thoughts on what this
+actually means anti-involution as well.
+Right? So, speaking of just a little
+survey here, we'll talk about the
+context of these numbers in a moment
+here, but the headline tells you
+everything you need to know. Less
+bearish on the Chinese market. Point
+number one. Point number two is when you
+flip the flip the page please and have a
+look really at still overall allocations
+are generally about 340 basis points I
+believe uh underweight. when you talk
+about that right now where are we seeing
+the allocations come through as well and
+I think e even when you look at say
+southbound data across the stock connect
+HKX website has that of course right
+what are the top names that are sucking
+in all that money you know you have the
+10 cents of the world in this case of
+course based on a survey from HSBC it's
+the three names you see here on your
+screen so yeah there's a lot to talk
+about in the Chinese market what really
+is Ivon going on
+&gt;&gt; yes so this is Harold Vanderland to
+answer that question head of
+Asia-Pacific equity strategy at HSBC. Do
+you think that this equity rally in some
+ways is really at odds with what we're
+seeing in the economy in China right
+now? This divergence do you think can
+continue?
+&gt;&gt; I think it can continue.
+&gt;&gt; Um
+I think the ultimate driver here is not
+so much the economy, but it is actually
+a reallocation of money from households.
+Chinese households over the last three
+or four years haven't done anything with
+the money because they thought they
+would lose their job in Corona in the
+COVID time. They thought if I put in
+property I'm going to lose money as well
+and I can't put in the stock market
+either and prices were falling
+deflation. So what do you do? What is
+the best way to do you put it in a bank
+you don't get a lot maybe 2% or
+something now even lower but if prices
+are falling anyway in real terms you
+maybe make 3 or 4%. And that's safe. So
+that's what they've done. Now Chinese
+are um avid savers already but over co
+they have saved even more than what they
+normally do. So they sitting now on 22
+trillion US dollars of cash. That's I
+mean that's the size of a couple of
+largest uh global asset managers
+together, right? And that's what they
+have in cash.
+&gt;&gt; A lot of that cash they will hold on to
+because that's for their retirement. So
+we think about six trillion of that is
+too much savings about excess cash,
+excess savings and they might start to
+feel more confident as we saw with labu
+we just spoke about they feel more
+confident to spend here and there. um
+maybe the property here and there does a
+little bit better. So gradually they're
+going to invest that and that explains I
+think the strong southbound flow seen.
+So although southbound has been
+phenomenal this year I think it's 110
+120 billion US dollars year to date that
+is nothing compared to the 6 trillion
+that they might have at place. Not not
+all of that will go into equities but I
+think that ultimately is the driver.
+It's actually some sense of confidence.
+I don't know. I don't say that people
+are confident, but they're less worried
+than 12 months ago.
+&gt;&gt; Is that sticky money though?
+&gt;&gt; Does that does that does that go out?
+I'm just playing the devil's ad. Does
+that go out as quickly as it's come in?
+&gt;&gt; Potentially. But Chinese households have
+too little equity in their portfolio. An
+average American household has 40%. In
+Europe, it's probably 30. In Japan, it's
+over 20. In China, it's 10ish. So you
+could argue that they have too little
+equities anyway. So in that sense it
+might be uh it might be even more
+sticky. We we'll have to find out over
+time. But good point.
+&gt;&gt; Um anti-evolution. We have to find out
+over time too if this this works.
+&gt;&gt; Yeah. H
+&gt;&gt; how does it work across markets do you
+think?
+&gt;&gt; I think the focus is initially now on um
+anti-involution. I mean you probably
+when you saw the first the word for the
+first time. Yeah. Exactly. Yeah. It's
+supply side 2.0. They did supply side
+reform 10 years ago. Now they're doing
+it again.
+&gt;&gt; But I actually think the way it will
+work is actually not only through supply
+side and industry consolidation, but
+it's through consumption.
+&gt;&gt; Because why they're doing this now?
+Because prices are falling, deflation.
+And why is that? We have over supply in
+nearly every industry in in China. So
+they're now trying to steer or I
+wouldn't say regulate it but steer it or
+massage it if you want to put it like
+that to create better sort of healthier
+industry dynamic so you don't have
+deflation. Now deflation if you have a
+little bit of inflation let's say that
+they get there that changes consumption.
+If you think prices are falling you want
+to buy a car but next month is going to
+be cheaper. You're going to wait. And if
+then the month thereafter is cheaper you
+say well let's wait another month. I
+don't need it yet. But because it is for
+you it makes sense for you to do so. But
+if you think prices are rising, you need
+to buy now. So that could change
+consumption in China quite uh quite
+importantly. And maybe actually the
+ultimate driver of this anti-involution
+uh policy is to bring consumption back
+and have China consume more. And in the
+bigger scheme of things that the
+geopolitics that's something that they
+said that they would work on as as well.
+Um so that's it might well play
+ultimately to the consumer sector. is
+have you noticed any early indications
+that's showing up in earnings estimates
+margins?
+&gt;&gt; No, not not in the numbers yet. We've
+looked at it but not in the numbers yet.
+I think that is too early.
+&gt;&gt; Okay.
+&gt;&gt; Um but we will see news I I think you
+guys would be on top of it. First time
+that companies hearing about an M&amp;A or
+that in an industry companies are
+raising prices. That sort of news flow.
+That's what I'm looking for because that
+would be that would tell me how maybe
+this is going to work into earnings. And
+if that then works out in earnings and
+profitability and companies are doing
+better with dividend payments as well,
+then you actually have a decent sort of
+uh earning story uh supporting the
+Chinese market as well.
+&gt;&gt; Have has your team been able to sort out
+the winners and losers potentially out
+of this theme?
+&gt;&gt; Uh we're struggling really with that
+because it's so early stage that we look
+at all these different industries but we
+say are they going to do this or not? We
+don't know. It's not a clearcut
+framework. gets more of as I use the
+word massaging, right? Policy makers
+say, "Well, you know, company A and
+company B, why why don't you do this
+together? Why why did you do an M&amp;A and
+stuff like that?" So, we'll have to see
+how that's going to work out. Um, but
+probably on the supply side, it's going
+to be those industries that are really
+uh in massive overupp. So, you're
+talking some of the basic materials
+where stateowned companies are
+prominent. That's where you would expect
+things to uh to move first. Yeah.
+&gt;&gt; And just your broad thoughts on the
+rally. It's it almost came out of
+nowhere particularly in the Asia market.
+Right. So clearly it's there's
+liquidity. That's a key.
+&gt;&gt; Yeah.
+&gt;&gt; Uh part of the formula there. What's the
+best leading indicator you think now?
+What what do I need to watch? Margin
+debt, US dollar weakness.
+&gt;&gt; What do you think is going to drive
+that?
+&gt;&gt; Um I would normally say let's look at
+bond yields, look at US dollars because
+that's what global flows would do. But
+for me actually the key is what do these
+Chinese households do? They sit on this
+202 trill US cash power, right? of which
+six trillion we just said might be
+something they would be willing maybe to
+put into markets. So we're we're trying
+to see what they do. That's very
+difficult to see but it is margin
+trading. It's uh mutual fund openings.
+It's these sort of things that I'd like
+to look at as well to see what are they
+doing. And for them A is still more
+expensive than H. So um it makes sense
+to go to H. So but at some point in time
+they might say well maybe I should buy a
+for if you're if you live in Changdu or
+something like that it doesn't matter.
+you can go to your broker, you buy a
+mutual fund in either either of these
+two markets.
+&gt;&gt; So, I'd like to see what they do. So,
+that's account openings, liquidity, what
+happens with their cash pile, um, and
+these sort of things.
+&gt;&gt; And I know you guys watch mutual funds
+data closely as well. What are you
+seeing as far as positioning there?
+&gt;&gt; So, there the funny thing is, although
+the Chinese are putting more money into
+it, global funds are still very slow.
+So, the Asian funds, they've gone
+overweight on on China, they're actually
+pairing back a little bit after the
+rally. the GEM funds, the global
+emerging market funds, they're still
+underweight.
+&gt;&gt; Um, but I was in Europe a couple of
+weeks ago and there you see growing
+appetite. More people saying, well,
+maybe the overall numbers they said are
+underweight, but we're actually neutral
+or we are thinking about being
+overweight or or something like that. I
+think in the US it would be very
+different. That's why a lot of funds are
+still very underweight.
+&gt;&gt; You mentioned what Chinese houses are
+doing. It kind of fits into this mega
+trend you've been talking about Asia
+buying Asia.
+&gt;&gt; Yes. and China seems to be leading that
+along with India, right? You know, what
+do you see as sort of the the sectors or
+or maybe parts of this market that are
+better positioned for this sort of
+trend?
+&gt;&gt; I think so. Asia based Asia is is is
+trying to get savings from households
+and put that into the equity market
+instead of in India for example, people
+would buy gold in the past, jewelry,
+that's the way to save. In the past, it
+was also property, but getting that into
+the stock market because that's good.
+You can use that productively for
+companies. Um, China leads the way,
+India as well. I think this is going to
+be a very important sort of trend in
+Asia because we are still very aligned
+on US dollars for funding. But the US
+says now publicly we don't want to be
+the last. We don't want to give
+everybody our dollars or um we don't
+want to bear the the the cost of being
+the reserve currency in the world. It
+might well be that at some future point
+in time in a crisis, the US says, "No,
+we're not going to provide you dollars.
+this is your problem. This is not our
+problem anymore. Um, so Asia needs to
+prepare itself for that. We can't just
+rely on dollar funding. So we need to
+mobilize our own savings in the region
+and invest in the region as well. That's
+happening in the different countries,
+some faster China and India than others,
+but that's very important sort of things
+to do.
+&gt;&gt; Fantastic. Yeah,
+&gt;&gt; Harold thank you so much. Asia Bes Asia
+2025 there with Harold Vanderland and
+his team
+&gt;&gt; his new book maybe too.
+&gt;&gt; Yes, exactly. That will come out. That's
+next year.
+&gt;&gt; That's next year
+&gt;&gt; and that's Indonesian history. for you.
+So I'm not quite sure that's right.
+&gt;&gt; You got to wear the batique as well,
+right?
+&gt;&gt; I'll wear the batique. That'll do that.
+Thank you.
+&gt;&gt; That's a pinky swear. Okay. Okay.
+&gt;&gt; Uh Harold, fantastic. Thank you so much.
+Out of HSBC. This is actually
+interesting that this just actually came
+up because we were looking for signs of,
+you know, has reflation started to show
+up and you know, Ivon and I were talking
+about this about two weeks back. Becky
+Leo actually pointed this out, right?
+That the swap spread between the five
+and the oneear has turned positive. This
+happened a couple of weeks back. And
+what effectively means is that the
+five-year rate is now above the one-year
+rate which effectively is does this map
+out the path out of deflation? I think
+this was a a chart that I think you
+brought up.
+&gt;&gt; Did I? I might have. Yes, we we look at
+lots of charts, but yes, I mean it seems
+that the market's pricing that in that
+this whole anti-involution is going to
+lead to some sort of reflation out there
+that is enough for for me to, you know,
+take it out of bonds and put it into
+equities or, you know, look in, you
+know, other ways to to find some more
+income. So, certainly, I think it's
+going to be a very interesting trend
+moving forward here. as well. We talk
+about earnings.
+&gt;&gt; Um, yeah, I talked about, you know, Hong
+Kong X, right? I mean, as Harold
+mentioned, this liquidity side of things
+is really going to benefit
+&gt;&gt; and and maybe we'll start to see that
+come into the numbers here. Um, but
+certainly it's going to be a key focus
+on how they can extend the streak of
+IPOs, right? Obviously, CL was a big
+one, the world's biggest that we saw uh
+this year. You know, you know, are we
+going to still get those jumbo jumbo
+names in the second half? Weren't they
+toying with the idea of I think was it
+reducing the minimum float? I think that
+was one of the things that they were
+talking about.
+&gt;&gt; They announced on Friday, right?
+&gt;&gt; 15% to 10% is already what's been
+announced.
+&gt;&gt; Okay.
+&gt;&gt; If they can there's now a public
+consultation where to bring it down to
+5%.
+&gt;&gt; Oh, okay.
+&gt;&gt; Which does raise some eyebrows too for
+some people when it comes to liquidity
+side of things as well. But certainly
+they're looking at many other ways to
+really attract more companies to list
+here too.
+&gt;&gt; Yep. So that's uh if Bonnie Chan's team
+is listening in that's maybe a heads up
+of some of the things that Ivonne might
+be bringing up later during the
+interview as well if you guys are
+listening. So yeah, lots of other
+earnings to discuss as well. U so yeah,
+HKX and I think Canino also is reporting
+today and we'll be speaking with them as
+well uh on the back of the earnings
+report. Yeah, so plenty to discuss as
+far as that's concerned and uh there's
+actually some cool data that we've
+showed you. We'll show you that later on
+on what we've observed so far from this
+earnings season so far. We're in the
+early innings, but we're getting into
+the thick of things. This is the China
+show.
+[Music]
+Right, welcome back. You're watching the
+China show. Something we're tracking
+very closely, this pivot, this changing
+of the guard. If you think about it,
+Indian Prime Minister Narendra Modi is
+hailing closer ties with China as
+Foreign Minister Wang wrapped up a
+two-day visit amid Trump's tariff
+threats. The two sides confirming that
+Modi will meet with Chinese President Xi
+Jinping later this month in China. Uh
+chief North Asia correspondent Steven
+Angel is here with us to talk us through
+the significance of of all these
+developments.
+uh geopolitical chess going on obviously
+with Trump and Putin meeting and then
+Xiinping obviously going to now be
+meeting uh Narendra Modi uh at the end
+of next week or next weekend the August
+31st and September 1st is when the
+Shanghai Cooperative Organization or SEO
+it's a regional uh grouping security
+grouping that includes India, Russia,
+China and many of the Central Asian
+former Soviet republics. uh and they
+meet every year and the last time she
+and Modi met was in Kazan, Russia at the
+SEO. So this would be the first time
+that they're going to meet. So Wangi
+went there to New Delhi the last couple
+of days to set the ground rules if you
+will set the tone for that meeting and
+China and India have confirmed Modi will
+make his first trip to China in 7 years
+uh to talk about all the different
+geopolitical uh issues that are at hand.
+Keep in mind India and Russia, excuse
+me, India and China but also Russia as
+well are part of the growing block
+called bricks uh but also SEO is being
+used to kind of coalesce uh their mutual
+interest at the time of added pressure
+from the United States. Keep in mind
+India is facing that 50% tariff 25
+reciprocal 25% reciprocal an added
+secondary tariff of 25% for India buying
+Russian oil. India has all along said
+look we we can buy oil from the cheapest
+supplier as we like. I'm paraphrasing
+obviously. So there's a bit of a
+standoff that is forcing the hand of
+India to kind of come a little bit
+closer to China. They've had some
+differences. They had a border dispute 5
+years ago. They're trying to work
+through that. That also China is very
+close with the enemy of India and that's
+Pakistan. And guess who's going to
+Pakistan later today? Wongi goes from
+New Delhi to Afghanistan to Kabell.
+There's a trilat by the way hosted by
+the Afghan Taliban and then he's going
+to Pakistan after that. So a lot of
+interesting movements going along here.
+&gt;&gt; You mentioned about the 50% tariffs on
+India for buying Russian oil. Scott
+Besson, the Treasury Secretary has kind
+of re reiterated this a little bit.
+What's his take on it now?
+&gt;&gt; Yeah. Well, he's essentially saying that
+the Indian conglomerates for the most
+part are engaged in profiteering.
+Essentially, uh he claims Bessant, Scott
+Besson, the Treasury Secretary, that
+before the 2002 Russian invasion of
+Afghanistan, India bought about 1% of
+its oil needs from Russia. Now, he says
+it's upwards of 42%. Remember, there's
+price caps put on Russian oil. Uh so
+he's saying essentially the Indians are
+buying and the conglomerates a company
+like uh Mukesh Amani's Reliance
+Industries has the biggest refinery in
+western India uh they've been buying
+Russian oil. So Scott Bessant is
+alleging that the Indians are buying it
+cheap and then reselling it to the tune
+of some 16 billion dollars in profit. So
+Bessant saying the Indians not only uh
+the government but through their
+conglomerates which have close ties to
+the Indian government are profitering.
+So that is one of the reasons why they
+justify adding this extra 25% tariff to
+50% tariff and then that is why the
+Indians are cozying up a little bit more
+to the Chinese. If you go back to Kazan
+back in October of last year when Modi
+and uh she met this is just an
+acceleration. They're saying they've had
+steady improvement in their bio uh
+geopolitical relations, bilateral
+relations.
+&gt;&gt; Okay.
+&gt;&gt; It's a lot of info.
+&gt;&gt; Yeah. Um yeah, just a bit of a
+clarification. It was the 2022 Russian
+invasion of of
+&gt;&gt; What did I say?
+&gt;&gt; 2002.
+&gt;&gt; Oh, yeah. 2022. Of course, seems like a
+little bit longer.
+&gt;&gt; Yes, it does. Okay. All right. Steve,
+thank you. Our chief Asia correspondent
+there on the latest of course of these
+warming ties between uh China and India.
+Some other global headlines this
+morning. A package of security
+guarantees for Ukraine could take shape
+as soon as this week with European
+leaders looking to leverage President
+Trump's backing for a plan involving
+troop deployments. Now, sources say a
+gathering of European officials focused
+on a plan to send British and French
+troops to Ukraine as part of a peace
+agreement. We're told around 10
+countries would be ready to send forces.
+The Trump administration says it will
+step up scrutiny of imports of steel,
+copper, lithium, and other materials
+from China. seeking to enforce a US ban
+on goods allegedly made with forced
+labor in the Shing Jang region. Under a
+2021 law, the US assumes anything made
+even partially in Shing Jang is produced
+with forced labor, but companies may win
+exceptions if they can present evidence
+that proves otherwise.
+&gt;&gt; Right, a quick glance at markets and the
+story is fairly simple. Equity markets
+are down. It's not so much a tantrum,
+but it is getting tame. We're talking
+about tech. Plenty more ahead. SS
+Bloomberg
+[Music]
+right for a look at these markets right
+now. SIC that's a Huawei backed of
+course and as you can see it's uh
+trading debut. We're doing well. Suffice
+to say, I think the story really is
+beyond what the first day looks like.
+And so certainly it's something to to
+watch, but really underscores the uh the
+the pickup in fundraising and that
+really brings to mind the HKX and Hong
+Kong Exchanges earnings that are set to
+come out today and certainly more
+context than that certainly coming
+through tomorrow as well. Right. This is
+a big story um has come out I would say
+out of nowhere but certainly out of
+nowhere in terms of the price. massive
+move up yesterday and then we had that
+lower close. Substantial volumes coming
+through 11 and a half%. There's a full
+write up by the way here on the
+Bloomberg terminal for you. Um so so
+volumes are indicating right now we're
+looking at easily right now. So we've
+cleared the 30-day average as far as
+this is concerned, right? And we're now
+looking likely at a couple tens of
+billions in fact. So we'll show you this
+graphic in a moment here. But yes, uh
+it's busy trading as far as East Buy is
+concerned.
+&gt;&gt; So valuations have been quite frothy.
+There has been some speculation about
+the company CEO being investigated, but
+Eastbite denied that on their social
+media accounts. There's a lot going on
+with that stock in particular. But yes,
+uh here are some of the big moves that
+we're seeing across these markets and
+earnings of course on tap coming up
+listed there on your screen. This is
+Bloomberg.
+[Music]
+All right, welcome back to the China
+show. A live look out of Wellington here
+this morning as we countdown to that RBN
+zed decision. The Kiwi dollar is doing
+this here right now just seconds away,
+but certainly they are likely to cut
+according to the market here today. All
+but I think one or two have signaled uh
+that they are likely to take the cash
+rate down by 25 in a couple of moments
+and certainly we'll find confirmation of
+that soon. Uh what's going to be more
+interesting is the guidance really on
+where they think the cash rate will be
+in a couple of months time right so will
+they revise even further uh that one and
+I'm just going to bring
+&gt;&gt; James McIntyre our Bloomberg economics
+economist you know thinks that you know
+they really have to deliver this further
+dose of easing uh because it has been a
+pretty naent recovery right keep in mind
+this is an economy that came out of a
+recession of course just a few months
+ago uh so you know we're likely to see
+uh that cut here today here we go so
+cash rate at 3% %. There you go. So that
+is a cut by 25 basis points. Uh and that
+basically was seen by most economists as
+we mentioned here as well. Uh they're
+talking a little bit more about the
+average overall. Uh
+&gt;&gt; yeah, this is the projection now coming
+through
+&gt;&gt; for the fourth quarter of the end of
+this year at 2.71%. So maybe there's
+further room for cuts. Uh second quarter
+2026, they see the official cash rate at
+2.56%.
+So it seems like they're laying out, you
+know, a pathway of more cuts moving
+forward. to talk about the scope to
+lower that official cash rate further if
+they see inflation pressures ease. Yeah,
+I'm looking I'm comparing what we're
+looking at here to the previous
+guidance coming through and it it does
+look like they are opening up ever so
+slightly that they're sneaking in a bit
+of a dobish tone here really that
+obviously it's contingent on where
+inflation goes but certainly when you
+look at their inflation forecast so they
+now see 4Q inflation at 2.7 there is
+scope there we go that's now gonna
+redhead on your Bloomberg terminals as
+well annual inflation 3Q3 and and fork
+down to 2.7%. There we go.
+&gt;&gt; You saw the data out of July. It did
+suggest that maybe you are seeing some
+upward pressure when it comes to prices
+as well. But you know, economists have
+also cited what they've been seeing is
+deterioration in the labor market as
+well that seems to be gathering
+momentum. It sounds like what the Fed's
+dealing with right now too, this dilemma
+which does pose some down risks to the
+RBNZ. So for James McIntyre and his
+team, they're saying, you know, it they
+think further cuts including taking the
+cash rate below neutral are a matter of
+when. now, not if.
+&gt;&gt; Okay, the Kiwi dollar on your screens
+right now moving perhaps not so much on
+what was nearly a consensus call on the
+cut, but perhaps the guidance coming
+through. Kiwi dollar is down about over
+1% over two days. And we're looking also
+I'm looking at just my Bloomberg screens
+right now as I speak. The Kiwi dollar is
+down against every single one of its
+peers with the exception of the South
+Korean one, but it's across the board
+weakness coming through right now in the
+Kiwi dollar here. Ivon.
+&gt;&gt; Yep. So now they're saying the data on
+pace of economic recovery to influence
+the rate cuts. So basically what they're
+forecasting now is a good chance of two
+more 25 basis point rate cuts uh in the
+foreseeable future here as well. So
+there you go. You see the Kiwi that is
+selling off here today. We're also
+extending the gains though on the equity
+market.
+&gt;&gt; Yep. The dovish tailwinds coming through
+and showing up across assets. Kiwi down.
+Yields not on your screens likely should
+be showing down as well. Equity markets
+on the way up. Broadly speaking, the
+picture across the region and not that
+of course the the New Zealand equity
+market is a bellweather of the global of
+the the benchmark here in the region,
+but all that said, it's really a the
+follow through pressure we're seeing
+across the tech space. And yeah, some of
+the very techheavy benchmarks are
+certainly reflecting what the move that
+we had overnight on the NASDAQ.
+&gt;&gt; Yeah. And there was no news, right?
+There wasn't any key news. I think I was
+looking at the FT and they cited some
+MIT research
+&gt;&gt; of all things uh that mentioned
+something about when it comes to the
+number of of AI investments out there
+95% of organizations are getting zero
+return from investments in generative
+AI. So you have to really kind of dig
+into something like that.
+&gt;&gt; Yeah.
+&gt;&gt; Um which is quite few and far between
+and quite you know
+&gt;&gt; I'm not even sure what to do with that
+information.
+&gt;&gt; Exactly. Right. And and so people are
+saying it's not even that news news that
+really kind of triggered this selloff
+but you know then again it was quite a
+steep selloff. I mean, look, take a look
+at the likes of Palunteer, Nvidia, uh,
+Meta as well. So, you're seeing that
+still reflected in the NASDAQ 100
+futures here as well, which already saw
+one of the biggest selloffs since
+liberation day.
+&gt;&gt; Yeah, we were waiting for when Palunteer
+was going to give, right? That stock
+just has gone parabolic really in many,
+many cases. In fact, we had a look at
+the numbers overnight. So, if you woke
+up and just had a look at the index
+itself, you'd think it was a broadband
+sell off on the S&amp;P. was not capital N
+uh OT uh 350 stocks on the S&amp;P actually
+closed lower but because of the sort of
+index heavyweights Nvidia Microsoft
+Broadcom Palunteer and Meta you add
+those things together pretty much sums
+up what you got as far as the index drag
+entire net drag on the S&amp;P uh was
+concerned so good breath but certainly
+bad concentration risk
+&gt;&gt; it brings it up to that right have we
+too reliant on these megga cap names to
+really uh continue with this rally as
+well. Um you take a look at what
+earnings though maybe you know yes
+there's a lot of individual stories that
+are going around but perhaps what's
+going on broadly speaking with this tech
+might actually brush all those you know
+earning stories aside. We're seeing that
+in some of the tech games here for at
+least today but there were some pretty
+interesting sort of you know names. I
+think Xiaomi certainly is one thing
+where they were able to show that the
+growth in EV sector is certainly is
+helping to offset some of the slowdown
+you're seeing in smartphone sales.
+&gt;&gt; Yeah. In fact, they're now looking to
+challenge PYD and Tesla, of course,
+going going into Europe, right? Um
+there's that PopMart with but PopMart
+perhaps selling on the back of what's
+really been a strong rally too. Uh and
+Xpong of course will be joining us on
+shows later uh in about 30 minutes from
+now. So yeah, stay tuned for those
+interviews coming up. But yeah, to get a
+sense of where we are in rally, so we've
+taken a look at that Southbond flows,
+high bars picking up again the last
+three days, quite a punchy number. Yes.
+And of course, the amount of turnover
+that we've seen in the onore markets,
+right? What's the average 2
+&gt;&gt; 2.6 trillion 2.6 6 trillion daily Monday
+and Tuesday. Uh that's rem by the way.
+So uh yeah, so it's we've really seen a
+pickup in trading activity uh in greater
+China. Where does a rally go from here?
+It's a key question. Let's put that
+question to Wendy Leo, chief China
+equity strategist at JP Morgan. She's
+here with us on set to help us
+understand what is going on.
+&gt;&gt; Um I think the retail sentiment has been
+picking up and that's showing up in the
+turnover numbers, the margin numbers,
+new account owners. uh but is a little
+bit more measured uh than the past rally
+we've seen last September, October and
+then certainly visav the past rallies in
+2015 and 2007.
+Um so
+&gt;&gt; you're comparing this to then now?
+&gt;&gt; Um this is more like uh 19 to 21.
+&gt;&gt; Okay. Okay. I thought you were drawing
+parallels to that because that that was
+a vertical up and down,
+&gt;&gt; right? So the valuation isn't as
+excessive. Um I would say that Asia's
+earnings have uh held up better. So this
+year, next year 15%, 12%. And then MSCI
+China actually has seen some downward
+revisions to for 2015. Now it's only at
+4.7% year-over-year growth and beginning
+of the year it was closer to nine. Uh
+but next year we're consensus looking at
+12%. So I think it's in response um to a
+um solid uh earnings number and then
+this rising confidence of the PBOC put
+on Asares uh among the retail and then
+also uh not so uh great returns from
+deposit insurance policy wealth
+management product bonds yeah and the
+volatility has risen uh so I think it's
+not just retail but some institutional
+money that's been shifting allocation
+which has happened for some time and it
+just caught the retail attention I think
+starting in July and we're seeing that
+in the tape. Yeah.
+&gt;&gt; You mentioned the PBOC put
+&gt;&gt; are are you expecting more stimulus to
+to come through given how weak the
+numbers that we've seen so far in July.
+Um I think there are definitely a lot of
+questions being eased and then when we
+look at the gap between M1 M2 growth I
+think there is some anticipation that
+liquidity will be coming through
+incrementally. Uh there's also the
+question raised about the fiscal clip
+because fiscal spending uh from Jan to
+July has been quite robust and what is
+left for the remainder of the year. When
+we do the numbers, there's around five
+trillion that could yet to be issued in
+the long-term bonds and there's about
+1.3
+uh that is available without having to
+go through additional approval through
+the MPC uh that's under the existing uh
+government debt ceiling. Um so our macro
+team's view is that you don't have to
+use that entire amount of 1.3 to get to
+the 4.8% 8% GDP growth target uh that we
+have for 2025. So it it will soften in
+terms of uh fiscal spending momentum uh
+but it won't go into a you know a a you
+know more serious situation.
+&gt;&gt; We've put your bold call on a chart ah
+premium JP Morgan valuation gap may
+close in 2026 to 2027.
+&gt;&gt; What gets us there?
+&gt;&gt; What gets us a parody? Yeah.
+&gt;&gt; Yeah. Uh three things. One, ACE earnings
+continue to be quite solid. What we
+found is that when CISI earnings
+revision is positive, that premium gap
+closes because people will be buying the
+cheaper uh Hong Kong lag.
+&gt;&gt; Okay.
+&gt;&gt; Um so I think we're seeing that in the
+25 numbers. Um 26 it's really about
+anti-evolution. Uh which is my second
+point. kind of anti-evolution does come
+in. It's a bit of a mentality shift that
+in an Xgross world revenue demand is not
+that strong. So if there excessive price
+cuts uh it goes right into the earnings
+which we're seeing in the result season
+in EV and home delivery right and
+liquor. Uh but where prices are better
+like home entertainment things are quite
+good. Okay so that's the second point.
+The third point is continued rise um in
+southbound flow where we found that is
+that uh southbound they'll go for upward
+EPS revision names within the ah pair
+and they seek out the sematic place okay
+so it's a pretty uh active money and
+southbound is now about 28% of the
+turnover and they own about 20% 19 20%
+of the connect uh uh stakes. Um and then
+there's an optionality uh which is Hong
+Kong dollar R&amp;B
+uh due circulation scheme
+&gt;&gt; that doesn't have too many stocks in it.
+I think it's like two dozen stocks in
+it. But if it gets applied at some point
+in time over the entire connect program,
+the cost of buying Hong Kong stocks by
+the mainland investors will come down
+because they can buy Hong Kong shares in
+R&amp;B. And there's a dozen brokers that
+that are right now um you know like
+ready to provide the quote. Um so I
+think um three drivers um and one
+optionality will probably get us there
+at 20 26 to 2027. Yeah.
+&gt;&gt; Okay.
+&gt;&gt; Quite some runway there.
+&gt;&gt; Um I think the first the first time we
+even talked about in a while of of H you
+know eight shares actually having that
+premium was the ATL right when they
+first listed. thing. Yeah.
+&gt;&gt; And how they price that.
+&gt;&gt; And how they price that. But it seems
+like we're seeing it across many sectors
+as well. You know, what's the best way
+where are we seeing most of that a share
+premium narrowing across this market?
+&gt;&gt; Um it's really the earnings momentum. So
+we see biotech um and then some of the
+financials and materials.
+&gt;&gt; Yeah.
+&gt;&gt; Okay.
+&gt;&gt; Um and so I think it's we it's it's
+sematic and then uh earnings momentum
+those two. Yeah. So we're the top four
+warming sectors that we've seen in the
+year. They tend to do well. So this is
+uh healthcare uh materials right and um
+communication services but utilities
+would be more muted. Yeah.
+&gt;&gt; Do banks continue to do well?
+&gt;&gt; Uh banks I think it's somewhere in the
+middle. Non-bank financial will do
+better because I think even in the
+offshore market people will buy
+insurance and brokers as a proxy for
+Asia enthusiasm. Yeah. if they can buy a
+shares and then when you look at these
+turnover numbers is definitely positive
+for brokers. So we've been putting
+brokers on a short-term buy call about
+two and a half weeks ago. Yeah.
+&gt;&gt; Okay.
+&gt;&gt; Um what do I do with with tech? I mean
+I'm looking at the sell off in Nvidia
+and these big mega tech names that are
+selling off here. It seems to be kind of
+spilling over to this to the Asia side
+of things. Is China tech that whole AI
+play is that still intact? Um AI is a
+theme that I think will continue into
+2027 because we look at the overall AI
+capex. It won't be robust this year and
+next year and maybe softing a little bit
+in terms of year-over-year growth rate
+in 2027. Uh within China tech there are
+different buckets. There's the global
+supply chain, there's the hardware and
+then people sometimes put in um internet
+broadly under tech, right? Although
+there are consumer proxies right where I
+think um things look most certain is
+really communication services uh people
+are optimizing their purchasing budget.
+Uh when Japan was going through the
+adjustment over the two decade at one
+point people stopped traveling they just
+stay at home and play computer games. So
+um these inexpensive home entertainment
+options I think they continue have uh
+you know space to run and there's not a
+whole lot of price competition among the
+majors and the second one I think the
+global supply chain related to AI they
+should continue to do well uh in within
+the China tech um and where there's a
+bit of a valuation challenge is the
+domestic uh import substitution names uh
+but I think onore are holding uh tend to
+hold those names in very high regard.
+&gt;&gt; These are the semiconductor names
+&gt;&gt; uh semiconductor names and etc. Uh the
+multiples are higher uh than what you
+would see in the US market uh in
+anticipation of very large revenue
+growth and I think um the debate is
+really about the home delivery platforms
+you know where the earnings are going to
+be is it signaling the worst and we
+could come in. I think there is a
+possibility that when the results
+announced, people get an understanding
+of where the subsidy is going to be and
+then make a decision from there. So
+that's been the drag.
+&gt;&gt; Well, what do you think of the
+valuations now? Do you think they're
+fair given the is everything in the
+price now on these home delivery
+platforms? Because a lot of these things
+have been punished substantially.
+&gt;&gt; Um, I think it really depends on the
+dynamics. some, you know, can more
+afford to do the subsidies, others could
+be less afforded in those positions. And
+I think it's about what other uh
+investment opportunities there are. And
+I think there's quite a bit of a good
+selection. And so year, the best
+performing has been biotech, right?
+CXO's done well, uh biotech out all
+licensing deals have done well. And then
+the recent addition has been materials
+because anti-evolution. So there are a
+lot of things to pick from and I think
+people will be dynamically allocating
+their uh portfolio. Yeah,
+&gt;&gt; Wendy, great to have you. Wendy Lou
+there, chief China equity strategist at
+JP Morgan. We're watching Xpunk shares.
+Uh they are up about some 5% uh across
+this market here right now. Of course,
+on the back of those earnings. So
+narrowing their losses, solid margins,
+and then really talking about record
+sales. So certainly lots to talk to in
+our next interview with Brian Goo from
+X. He's going to be joining us there,
+the chairman and president about their
+earnings outlook. And of course, global
+expansion plans. This is Bloomberg.
+[Music]
+The president um has spoken to both
+leaders about this and both leaders have
+expressed a willingness to sit down with
+each other. Um and so our national
+security team will help both countries
+do that. Ultimately, the president has
+always said that there are areas of
+disagreement in this war that will have
+to be discussed and decided upon by
+these two countries. And so, he wants
+these two countries to engage in direct
+diplomacy.
+&gt;&gt; That was White House press secretary
+Caroline Levit there of course on
+President Trump's push for a this
+meeting between Vladimir Putin and
+Vladimir Zilinski. Now this a package of
+security guarantees of course for
+Ukraine will certainly shape will take
+shape as soon as this week with European
+leaders offering troops as part of a
+potential peace deal. Now Ukrainian
+allies are hoping to strengthen Ke's
+position ahead of any potential meeting
+of course between the two leaders. Let's
+bring in our news desk editor Jill Dis
+to help us understand where we are
+really as far as the security guarantees
+are concerned and what we know about
+what might be proposed.
+&gt;&gt; Right David? Well, I think um you know,
+obviously everything is still in flux
+here. Um and it it seems like a lot of
+things are still being solidified, but
+what we know so far is, you know,
+obviously we had um this meeting at the
+White House on Monday with European
+leaders uh Zalinski there. Um seemed
+like there was a lot of good vibes that
+came out of that meeting and the idea
+that maybe uh we could be moving towards
+some kind of a potential peace deal,
+although a lot is still uncertain. So,
+what we've heard so far is that on the
+European side, it's uh British and uh
+and French troops could potentially be
+stationed on the ground in Ukraine to
+sort of help as any sort of, you know, a
+part of a a peace deal there. Um I think
+the US's involvement in terms of
+security guarantees is a bit less clear.
+So, at this point, it seems like maybe
+there's some conversation around the
+potential for air support from the
+United States. Um but we don't know
+entirely what that is going to look
+like. It seems like what US President
+Donald Trump is really focused on at
+this point is making sure that these
+continued talks are actually happening.
+So he's certainly talked as and I think
+as you heard is press secretary Caroline
+Levit talk about um just now um this
+idea of having a Trump of having a
+Zalinsky Putin bilateral uh maybe within
+the next couple of weeks is what we've
+heard and then after that potentially a
+trilateral summit between Trump Zalinsky
+and Putin. Obviously all of these things
+are still very in flux but um it's does
+indicate at least a level of progress
+that really didn't exist a couple of
+weeks ago.
+&gt;&gt; Yeah. So, and he's urging for
+flexibility. Uh, what would that mean?
+Uh, you know, what what do you think he
+meant by that?
+&gt;&gt; I mean, Yavon, when it comes to Trump, I
+think, you know, it's it's always really
+kind of difficult to interpret that a
+little bit. Uh, what we do know is that
+I mean, Trump has been open to this idea
+uh in in just even within the last
+couple of weeks about territorial
+concessions on Ukraine's part, right? So
+I think you know Putin has has made it
+clear uh that you know he is interested
+in in in obtaining territory including
+the eastern Donbas region of Ukraine
+right um obviously Zalinsky has uh you
+know pushed back against that idea of
+those concessions being part of any
+peace deal and that's really kind of
+what's led us to the situation right
+now. I think um you know on Trump's part
+certainly in recent days he's talked
+about the need to potentially seed some
+territory. He's also focused on Crimea
+which of course uh um you know Russia
+went into in back in 2014. Um and the
+other thing that Trump has really
+focused on is this idea of um you know
+Ukraine essentially having to get up the
+idea give up the idea of NATO
+membership. Um again I think you know
+we've discussed this on the program in
+recent days. But um still a little bit
+difficult for me to square though this
+idea of Ukraine not being a member of
+NATO with this idea of um Ukraine
+potentially receiving some kind of NATO
+uh guarantees um which has been
+discussed in recent days. So I think you
+know all of that really does kind of
+show you that you know Trump says
+flexibility. I think that that still is
+is kind of what's leading to this lack
+of clarity over what exactly this peace
+deal looks like. But again uh the fact
+that these conversations are already
+having are certainly happening. uh that
+meeting at the White House was certainly
+a lot more positive for Europe and
+Ukraine than Zilinsk's earlier visits to
+the White House earlier this year. So
+maybe that does indicate some level of
+forward direction, but as always with a
+lot of these kinds of things, it's
+really tough to say and um you know,
+things can certainly change very
+rapidly. So we'll have to see uh whether
+we do get those bilateral trilateral
+meetings in the coming weeks.
+&gt;&gt; All right. Uh we'll see if you know
+wearing a suit and up the charm works in
+some ways as well. Jill D is there our
+news desk editor joining us with the
+latest when it comes uh to of course a
+potential me between Putin and Zalinski.
+We got plenty more ahead. This is
+Bloomberg.
+[Music]
+Just want to check when it comes to some
+of these New Zealand assets here this
+morning after what seemed to be a pretty
+dovish statement coming through from the
+RBNZ. So they did cut that official cash
+rate here and did also mention the
+possibility a good chance as they say of
+bringing that cash rate to uh about 3%
+or I should say 2.56% the second quarter
+of 2026. So another two B 25 basis
+points cuts could be in the offing
+there. Certainly, that's why we're
+seeing the sort of doubbish sort of uh
+risk on sort of feeling that you're
+seeing uh in stocks here right now. So,
+we're up some 1%. The Kiwi though has
+broken out of that trading range that
+we've seen of late. So, we're now
+weakening some 1% or more on that
+doubish statement. And basically, when
+it comes to the yield curve, we're
+basically talking about yields heading
+lower across the curve here. So, 10
+basis point move or so on the New
+Zealand 10-year, the 2-year is also on
+the move too, Dave.
+&gt;&gt; Yeah, classic adjustment there to the
+new reality, new information that we
+have. Uh yeah, we'll certainly get more
+details on that. And certainly one other
+market that's benefiting from that is
+also Australia, which is sort of similar
+index constituency. One stock we're
+tracking about an hour into the session
+here in Hong Kong is East Bay. As you
+can see, massive rally in the stock
+yesterday and then it collapsed into the
+close. Earnings are out on Friday. We're
+up 10%. Have a look at the volumes right
+now. So obviously very very heavy number
+one. Point number two is compared to
+what we had yesterday though, it doesn't
+seem we're extrapolated to take out an
+enormous amount of trading that took
+place yesterday. In fact, that's where
+we are currently. This is where we ended
+up yesterday, right? Currently, current
+trajectory is already quite substantial
+based on current compared to averages,
+but it doesn't seem we will take that
+out. Obviously, we'll track it very
+closely uh throughout the course of the
+session. Ivon.
+&gt;&gt; All right. We're checking Xung shares.
+They continue to edge higher here this
+morning, and this was one of the
+standouts when it comes to the earnings
+picture here as well. Well, we're
+checking liquor stocks first. Uh one
+thing to watch very closely when it
+comes to liquor side of things is uh I
+think Langier is set to report as well.
+Uh profit there to stay flat on the back
+of some of these curves as well. But
+Xpong the EV sector very much in focus.
+Brian Goo coming up.
+[Music]
+Where was the react?
+11:29 a.m. in Tokyo. Japanese markets
+are heading to lunch break in just a
+moment. Of course, we're still tracking
+the sort of tech selloff that seems to
+be really hurting Japan here this
+morning. We're down about one and a
+half% on the nicke as well. Topics is
+all following some fall of half of 1%.
+Uh the yen's not doing too much. We're
+hovering on those 147 levels as well and
+obviously we've been tracking of course
+what happens with SoftBank, right? So
+they are sort of being dragged down from
+this tech selloff and falling for a
+second day. Um there's been also
+concerns over this investment in its
+intel in Intel that continues to weigh
+in the company. So it's the stock
+SoftBank down some 7%.
+&gt;&gt; Okay. Right. Uh as we look across the
+region. Yeah. I mean certainly tech is
+the main pain point across these
+markets. And certainly the bigger you're
+waiting on tech, the bigger the drag
+you're going to see, the bigger the
+decline we're seeing percentage-wise.
+All things equal, we're down about 810
+of 1%. There are some bright spots
+though. So we talked about consumer
+staples right within that. We talked
+about it. Liquor makers in China are
+doing well. That's a big constituency as
+far as that's concerned. Financials are
+doing well. That's an Aussie story when
+you look at the banks traded in Sydney.
+Apart from that, yes, you have property
+for one, but everything else and as you
+can see, it is down about 2%. In terms
+of sector movers there as well, right?
+Uh now, as far as uh these earnings are
+coming through, XP's actually when you
+look at shares right now, we're doing
+quite well.
+&gt;&gt; Yeah, against the the grain really of
+what you're seeing against the sell-off
+that we're seeing in Asia, right? So,
+we're up some 6%. The Chinese EV maker
+did narrow its second quarter losses by
+63% year-onear, but also gave third
+quarter revenue guidance that missed
+analyst estimates. But then again, you
+talk about solid margins, uh, record
+sales alike. There's plenty of good news
+there around that company. Perhaps
+that's why we are seeing the price
+action here today. Joining us
+exclusively now is Brian Goo, vice
+chairman and president at Xpong. Brian,
+always great to have you here. the
+market seems to be cheering some of
+these numbers here right now and really
+particularly when it comes to the
+narrowing of your of your losses. Can
+you tell us, you know, what stood out to
+you and do you think that you're now on
+track to break even in the fourth
+quarter?
+&gt;&gt; Yeah, very happy to be back on the show.
+Um, yes, we actually very pleased to
+announce uh the second quarter results
+yesterday uh which actually set a record
+uh a number of key operating matrices
+for the company. We hit historical
+records uh quarterly delivery, quarterly
+revenue, gross profit margin as well as
+our overall cash on hand has also hit a
+historical record. Um also the growth is
+not just from China. We saw over 200%
+growth outside outside of China as well.
+Uh and for the third quarter we have
+provided a guidance again well more than
+double from the year ago levels. So I
+think things are are moving pretty well
+and also it's consistent with our view
+early in the year that we are entering
+into a super product cycle that will
+drive further growth.
+&gt;&gt; Understood. I just want to ask I want to
+ask you actually about the product cycle
+and whether or not you see that
+shortening. But before I get to that
+though, Brian, the expansion in your
+gross margins, that's something that I
+noticed. Could you talk to us a little
+bit more about why we did see that
+expansion there and do you expect that
+to continue uh moving forward, Brian?
+&gt;&gt; Well, I think the expansion g profit
+margin is a result of a number of
+factors. First of all, we have a better
+uh product mix. Um the second quarter we
+have launched uh uh the facelift of G6,
+G9 as well as the X9. Uh those are high
+profit margin products. Um so with their
+uh product mix is increasing our profit
+margin overall. Um so for the next two
+quarters we're actually aiming to launch
+also new products in the more premium
+segment. The G7 was launched last month
+and then uh next week we'll be launching
+the P7 is actually behind me in the
+showroom. Uh that also is going to be a
+premium product. So all of them will
+drive better margins and on top of the
+product mix you also see significant
+scale uh component factors coming in
+with our better scale better control of
+the supply chain uh management. We also
+seeing cost reduction measures coming
+into play and then the contribution from
+overseas market which is always a higher
+profit margin uh uh component of our
+business. Uh all of those factors kick
+in. I think we'll see continued
+improvement of our margin profile into
+the next two quarters.
+&gt;&gt; Brian, there's a lot going on in your
+industry obviously with anti-involution
+and from the top down the sort of
+guidance for private companies like
+yourself to to maybe end this
+competition that you're seeing in the EV
+space. You you add that to, you know,
+subsidy programs that might be phasing
+out in the second half of this year. And
+then you have Tesla just a few days ago
+announcing this new product that is
+pricing at the same range as some of the
+local players in China. You know, have
+you seen signs that this price war and
+the competition actually easing in your
+industry?
+&gt;&gt; Well, I think all these factors you
+mentioned are really important uh drive
+driving factors for our industry at the
+moment. Uh let me just take you know one
+one at a time. uh if you talk about
+anti-involution, I think it's something
+that I think the Chinese government has
+uh decided that it's time to bring in uh
+some of the competitive measures that's
+being used by some of the players in the
+industry that uh really focus on pushing
+the volume and also focus on really
+squeezing uh the partners. But on the
+other hand, I think uh it does not take
+away government's effort to encourage
+long-term innovation, focus on quality
+and building a better ecosystem. I think
+that's exactly what I think Xplanet
+stands for. We stand for innovation. We
+stand for quality. Uh we actually are
+the ones probably going to benefit from
+this uh new measure, renewed focus on
+industry. Um and I think you know the uh
+the change in the landscape uh you
+mentioned that some of the subsidy also
+some of the uh advantages that will
+probably uh start to go away by the end
+of this year or the early next year. I
+think it will be an industrywide
+phenomena. Uh may cause short-term
+blips. Uh but we saw you know a year or
+two years ago when the Chinese uh state
+subsidies for consumer level uh EV
+buying when it's phased out, it did not
+really necessarily you know dampen the
+long-term growth prospect of the
+business. So I think it's actually
+healthy. uh and I think the Chinese
+government probably is also want to make
+sure that any measures does not put
+shocks into our consumption patterns uh
+in our industry and in the long run I
+think uh you know the uh industry I
+would say will be you know focused more
+and more on innovation on quality and
+also building a business that has a
+global footprint all of those are uh
+strategies we're pursuing at the moment
+&gt;&gt; and Brian has it has this and you know
+The answer could likely be no. Has this
+affected your way of the way you look at
+pricing strategy at all?
+&gt;&gt; Well, I think uh we have always uh uh
+focused on providing
+product that has innovative and
+differentiated technology. So we price
+it accordingly. So for example, our
+boner here, it was actually competing in
+the uh uh the 150,000 R&amp;B and below
+segment. uh it's not necessarily the
+cheapest product. In fact, it's actually
+10,000 or 20,000 R&amp;B more expensive than
+the comparable size product because it
+has the best technology because it has
+the most advanced pumps driving or ADIS
+functions in the class in that class.
+It's selling very well. It's actually
+one of the you know product leaders in
+that category. That is kind of you know
+I think competition we're focused on is
+providing superior product and
+technology rather focused purely on
+price.
+I was going to ask you about Mona
+because the Mona MO3, you know, seems to
+be one of the biggest contributors to uh
+your sales. I believe it accounted for a
+third of your sales. So, it's really,
+you know, your volume group was driven
+by this one model. Is there any sort of
+risk of, you know, being too
+concentrated or too reliant on just one
+model alone?
+Well, I think Mona is a first indication
+of what we call, you know, the the the
+next product cycle. I think uh you will
+see we're launching our new P7 uh next
+week. Uh we also have successful
+launches of P7 plus after Mona last
+year. Um we actually have multiple
+products I think that we believe will be
+able to drive volume and more
+importantly those are actually higher
+price and higher margin products. So I
+think uh you know going to next year we
+actually are not only launching uh the
+the the P7 as I mentioned but also we
+are going to be offering a slew of dual
+mod powertrain module for example the
+super electric models for our existing
+pipeline. So all of those I think will
+contribute a very meaningful volume
+drive. Um so I think Mona will be a very
+important uh I would say bedrock for our
+overall volume but you can see that
+higher margin and better parts also
+coming and will continue to add to our
+volume momentum.
+&gt;&gt; Yeah and Brian I'm looking at the
+guidance you guys just put through as
+well. So in terms of deliveries for this
+for the this current quart I believe
+it's about let's call it 150% increase
+year revenues let's call it about 100%
+increase year-over-year. If I follow the
+dots when do I get to profitability
+overall for the business?
+&gt;&gt; Well we have uh told the street uh long
+ago that we are focused on reaching a
+quarterly profitability by the end of
+this year. So we're still maintaining
+that guidance. We think uh uh confidence
+actually in fourth quarter we'll be
+hitting our um profitability mark as a
+whole.
+&gt;&gt; Okay. I was going to ask you about
+global expansion as well. You just set
+up a production in in in Indonesia.
+&gt;&gt; Yeah.
+&gt;&gt; Uh what what's your plan now for for
+other markets like Europe?
+&gt;&gt; Well um I think as a company has global
+ambition I also want to be global leader
+in international regions. You have to
+think about local uh capabilities. Uh
+Indonesian plan is the first step. Uh we
+actually were happy to deliver our
+locally made X9 to our customers
+Indonesia just last month. Uh we will be
+increasing that pace. We think that we
+need local strategies for Europe uh for
+other markets in Southeast Asia and
+perhaps in Latin America as well. So we
+will you know do it you know step by
+step but uh the overall global expansion
+is very important and core strategy to
+us and we see that not only it's a
+volume uh contributor but I think on a
+profitability basis and also for future
+uh product categories I think global
+presence is very important to us.
+We were also just talking about another
+Chinese company, Xiaomi, who's basically
+declared that they're going to be
+entering into the European market uh in
+2027 and really kind of competing the
+likes of Tesla, BY and and Xpong as
+well. Brian, I'm just wondering what
+does that mean overall for for overall
+your competition? You know, the
+companies that you're seeing abroad.
+Well, I think uh you know um it's you
+know we ex you know really welcome um
+our friends and partners uh to really
+you know focus on uh the same category
+and offering the good product to
+customers. At the same time I think uh
+you know we think that the automotive
+and EV market is big enough. Uh it's not
+a winner takes all market. uh we think
+there's plenty of room for others to
+compete in and also we're taking shares
+from a lot of legacy OEMs. I think you
+know this wave of of change or
+conversion is what we're focused on. So
+driving a bigger pie accelerate that
+catalyst for change for conversion is
+what we're focused on.
+Brian, I think a few days ago you guys
+filed with the HKX, this expanded collab
+with with with VW. Could you just help
+us understand what that exercise is
+about and where where that fits into the
+broader strategy? What do you want to
+see from that specifically?
+&gt;&gt; It is actually the fourth uh strategic
+partnership agreement we have entered
+into EW. uh this one actually is
+actually very interesting and very
+important because that expands our
+collaboration on electric electronic
+architecture uh agreement uh to more
+than EV. So now uh the IC's uh also phs
+in China for Volkswagen will start
+adopting the same electric platform uh
+that's using our technology. So I think
+uh uh first of all it expands our scope
+of collaboration immensely because as
+you know um C and HBS bigger segments
+for Volkswagen products than the EVs. At
+the same time, I think it also allows us
+to do more, you know, sort of um uh
+share more synergies from existing
+agreements. So we can actually have a
+better more efficient uh product and
+also collaboration that will drive uh
+the the business for both sides. So I
+think you will see meaningful
+contributions of this agreement starting
+in next year and that will also be you
+know lasting for many many years.
+&gt;&gt; I was your take on regulations as well.
+I mean there's been some scrutiny around
+advanced driver assistance technology.
+Um and certainly you know is does that
+in any way impact your you know
+technology development at Xpong and how
+do you see the whole regulatory
+environment evolving over time?
+&gt;&gt; Well one of the things I think we saw on
+the uh consumer side is that you know
+people are you know embracing the
+advanced driving technology on their
+vehicles. Um so it's a trend. I think
+it's not stopping. we see that
+continuously uh was being improved in
+peace uh you know this year but at the
+same time I think that they also are pro
+players I think because uh the the way
+that they trying to market and over
+market some of their products and has
+cause problems I think that what the
+government is trying to reing is to
+standardize and also to control the you
+know some of the practices that
+overpromise uh technology but I think
+overall it's actually going to be
+healthier for the overall development uh
+for this industry because I think that
+long term I would say you know drivers
+want to feel comfortable and also safe
+inside this vehicle with these
+technologies and then with this improved
+uh uh monitoring and also improved uh uh
+you say uh standards I think you will
+get more penetration acceptance from uh
+drivers and customers to embrace this
+technology so I think it's long-term
+it's going to be I would say beneficial
+to the development
+Brian, as always, thank you for taking
+the time to speak with us. I think we
+covered a lot of things. We're looking
+forward to hearing more updates from the
+company. Brian Good, their vice chair
+and president at Expang out of Guangjo.
+Uh, and for Bloomberg subscribers, by
+the way, you can check out that
+interview if you didn't catch it live.
+You can scroll back on TV go and catch
+parts of the interview or the whole
+thing if you missed the entire in its
+entirety. And of course, check out other
+functions that you may have missed here
+on our shows. Check it out. TV go. This
+is Bloomberg.
+[Music]
+Right, welcome back. In about 30
+minutes, we're going to get the latest
+iteration of Hibbor and certainly
+following the massive move up relatively
+speaking of course the last let's call
+it last 4 days that's taken us from
+let's call it half of 1% to now about
+two and a half. Um where do we go next?
+Does this continue to move higher?
+What's the ceiling? Do we retest some of
+the highs that we had earlier this year?
+Because that's a nightmare if you have a
+mortgage out right now. It's been good
+though for the last few months or so.
+Let's get let's get a sense of things
+here. Stephen Chu, our uh Bloomberg
+intelligent chief Asia FX and rates
+strategist is we're with us. Do you
+think we'll get another pop today?
+&gt;&gt; Yeah, slightly higher because I'm sure
+everybody in market will tell you like
+when we'll highball search it's a matter
+of time. Everybody said that and um at
+the beginning of the year we assume that
+the Fed will cut rates by 50 basis point
+and even with that the fair values for
+one month and three month high balls is
+around 3%. So it's a matter of time that
+we get 3%. Now we at two and a half. So
+we are very close to that ceiling. And
+usually there's an indicator when will
+this stop is when the one month and the
+three month invert. Now it's still like
+positively stop upwards but we are very
+close. Once the one month is a lot
+higher than 3 month then we go back to
+775 and we get the other way around in
+terms of intervention.
+&gt;&gt; Does it matter what the Fed does if they
+cut or not? unless they cut 100 200 but
+uh I think they're going to stay put for
+now. So it's the same story. The problem
+this well it's not a problem it's an
+observation is it's very rare that we
+see the US dollar and US rates go in
+different direction because of what
+happened with the trade war in Trump
+which is why we're seeing so frequent
+firstly in May 775 more recently 785
+intervention in both ends it's very rare
+&gt;&gt; well so so at what point will rate
+differentials matter then given the
+small steps that the Fed is likely to
+take if at all of course
+&gt;&gt; I think um the fact that we are 785 is
+because of rate differential. So the
+carriage trade positive carriage trade
+in the dollar and now we're going
+backwards. So once the Hong Kong rates
+are more in par with the US dollar then
+of course we get all the carriage rate
+unwind and then 775 liquidity injection
+here and then carriage trade again all
+the way again.
+&gt;&gt; All right.
+&gt;&gt; Um yeah okay we'll need to watch what
+happens there. But what what should we
+suffer honky dollar though? Are we are
+we likely to step away from the weekend
+of the trading ban for now? Are some of
+the interventions that we're seeing from
+the central bank essentially now
+working?
+&gt;&gt; I think uh now obviously they haven't
+intervened yesterday like after last
+week. Now it's the market unwinding the
+carriage trade. So that will sort of
+push the honky back to 775 and high
+ballore will rise until they step in at
+775.
+&gt;&gt; Okay, Stephen Chu, thank you from our
+Bloomberg intelligence team there on
+what to expect out of highore coming up.
+Plenty more ahead. This is Bloomberg.
+[Music]
+I think the ultimate driver here is not
+so much the economy, but it's actually a
+reallocation of money from households.
+Chinese are um avid savers already, but
+over co they have saved even more than
+what they normally do. So they sitting
+now on 22 trillion US dollars of cash.
+That's I mean that's the size of a
+couple of largest uh global asset
+managers together. So gradually they're
+going to invest it and that explains I
+think the strong southbound flows. I
+think the retail sentiment has been
+picking up and that's showing up in the
+turnover numbers, the margin numbers,
+new account owners, uh, but is a little
+bit more measured uh, than the past
+rally we've seen last September, October
+and then certainly visav the past
+rallies in 2015 and 2007.
+Um, so
+&gt;&gt; you're comparing this to then now? Um
+this is more like uh 19 to 21.
+&gt;&gt; Okay. Yeah. Okay.
+&gt;&gt; Some of our guests this morning giving
+their outlook when it comes to markets
+and you know this equity rally in China.
+When it comes to Chinese media as well,
+they continue to tout this recent rally
+in stocks here as well. And the front
+page article in the Securities Times
+says foreign investors are increasing
+their holdings of Chinese stocks as
+optimism rises. And it says more than 70
+companies have qualified foreign
+institutional investors among their top
+10 shareholders with combined holdings
+of get this $947 million. Now the report
+says the sectors they favor include the
+likes of auto pharma and FnB.
+&gt;&gt; Yeah. And I think once you get down that
+list and that list that Ivon just
+mentioned is getting longer and longer.
+We have a fantastic piece right now that
+looks at
+a broader base in the rally taking
+place. a broader participation whether
+that's the number of stocks at 52- week
+highs
+&gt;&gt; advances over decliners effectively the
+number of margin trading for example and
+that's going to be on the Bloomberg
+terminal you can check this out as well
+in terms of a function you can check on
+this it's we actually takes you to that
+as well there's the plug there's the
+plug for you okay um yeah there good
+charts as well to follow to follow that
+okay u now as far as the story uh here
+and now is concerned it's really just
+tech drag right so baba 10 cent are
+falling in tandem with what we've seen
+globally from peers.
+&gt;&gt; Yeah. So, we're seeing some of those
+falter here in the face of what we saw
+with Nvidia, Palanteer overnight as
+well. Popart, that's an interesting
+story, right? It's turned around. It was
+initially lower.
+&gt;&gt; Um, there was some concerns of what you
+know this whole longerterm popularity of
+Laboo and and the like. So, despite
+coming out with some pretty robust
+numbers with revenue and profit growth,
+that earnings call is happening this
+hour. Perhaps maybe we're hearing
+something from there. Uh we'll hear a
+bit more, but revenue basically
+increased 204% from a year ago as well.
+So still high uncertainties according
+Morning Star when it comes to the
+long-term popularity of Laboos.
+&gt;&gt; Okay. Well, so it looks like we'll have
+to
+&gt;&gt; they can they outlast Hello Kitty, you
+know.
+&gt;&gt; Well, Hello Kitty's still around, right?
+&gt;&gt; Yeah. For decades.
+&gt;&gt; Who's the cousin? Is it Karpi?
+&gt;&gt; Uh Komi.
+&gt;&gt; Ki.
+&gt;&gt; There's also Cinema Roll. There's a lot
+of friends now.
+&gt;&gt; Care Bears. There was the Smurfs. There
+was What other toys are we looking at
+here? Anyways,
+&gt;&gt; Barbies.
+&gt;&gt; Barbie. RB and Zed's coming up later on.
+Check it out. This top of the hour is
+Bloomberg.
+[Music]

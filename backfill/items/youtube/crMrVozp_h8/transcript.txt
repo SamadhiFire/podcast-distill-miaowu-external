@@ -1,0 +1,2814 @@
+Kind: captions
+Language: en
+The business you're building, the team
+you're building, the way you're
+operating is the very bleeding edge of
+how companies are trying to operate in
+this AI era.
+&gt;&gt; We have a head of AI operations. She's
+just constantly like building prompts
+and building workflows so that I and
+everyone else on the team are just
+automating as much as possible.
+&gt;&gt; What are some things that you believe
+about AI that most people don't?
+&gt;&gt; I hate the headlines that are like
+entry-le jobs are taken away by AI.
+Whenever I see a kid with ChetBT, I'm
+like, "Holy [&nbsp;__&nbsp;] they're going to go so
+much faster than any other person that
+I've worked with, we have this guy, he
+made like a year's worth of progress in
+like two months because every time I sat
+down with him and told him, "Okay,
+here's how you tell a story. Here's how
+you think about a headline." Like, he
+recorded all of it, put it into a
+prompt, and he never made the same
+mistake twice.
+&gt;&gt; There's this sense we're getting to a
+place where you don't have to write any
+code. Like, you have a product team not
+writing code at all.
+&gt;&gt; No one is manually coding anymore.
+organizations like ours, people who are
+playing at the edge. We're doing things
+that in like three years everybody else
+is going to be doing today. My guest is
+Dan Shipper. Dan is the co-founder and
+CEO of Every which is a company that is
+at the very bleeding edge of what is
+possible with AI. Their team of just 15
+employees has built and shipped four
+different products. They publish a daily
+newsletter and they have a consulting
+arm that helps companies adopt the
+latest AI best practices. On their
+product team, their engineers don't
+handw write a single line of code and
+instead use an arsenal of agents who
+help them craft requirements and build
+their products. Their editorial arm uses
+AI to publish better work faster. And
+they even have a person whose entire job
+is to help every employee at the company
+become more efficient using the latest
+AI workflows. In our conversation, Dan
+shares a bunch of tactics that they use
+internally to increase the leverage of
+their own employees, his personal AI
+tool stack, the one predictor that he's
+found for whether a company will
+successfully find huge productivity
+gains through AI, how he's building his
+company in a really unique way, a bunch
+of predictions for where AI is going,
+and so much more. If you enjoy this
+podcast, don't forget to subscribe and
+follow it in your favorite podcasting
+app or YouTube. And also, if you become
+an annual subscriber of my newsletter,
+you get a bunch of amazing products for
+free for one year, including Superhuman,
+Linear, Notion, Perplexity, Bolt,
+Granola, and more. Check it out at
+lenny'snewsletter.com and click bundle.
+With that, I bring you Dan Shipper. This
+episode is brought to you by Code
+Rabbit, the AI code review platform,
+transforming how engineering teams ship
+faster with AI without sacrificing code
+quality. Code reviews are critical but
+time consuming. Code Rabbit acts as your
+AI co-pilot, providing instant code
+review comments and potential impacts of
+every pull request. Beyond just flagging
+issues, Code Rabbit provides one-click
+fix suggestions and lets you define
+custom code quality rules using a GP
+patterns, catching subtle issues that
+traditional static analysis tools might
+miss. Code Rabbit also provides free AI
+code reviews directly in the IDE. It's
+available in VS Code, Cursor, and
+Windsurf. Code Rabbit has so far
+reviewed more than 10 million PRs,
+installed on 1 million repositories, and
+is used by over 70,000 open-source
+projects. Get Code Rabbit for free for
+an entire year at.ai
+using code Lenny. That's
+codeabrabbit.ai.
+Today's episode is brought to you by DX.
+If you're an engineering leader or on a
+platform team, at some point your CEO
+will inevitably ask you for productivity
+metrics. But measuring engineering
+organizations is hard. And we can all
+agree that simple metrics like the
+number of PRs or commits doesn't tell
+the full story. That's where DX comes
+in. DX is an engineering intelligence
+solution designed by leading
+researchers, including those behind the
+Dora and space frameworks. It combines
+quantitative data from developer tools
+with qualitative feedback from
+developers to give you a complete view
+of engineering productivity and the
+factors affecting it. Learn why some of
+the world's most iconic companies like
+Etsy, Dropbox, Twilio, Versel, and Web
+Flow rely on DX. Visit DX's website at
+getdx.com/lenny.
+Dan, thank you so much for being here
+and welcome to the podcast. Thank you
+for having me. I've obviously been a
+huge fan for a long time and so it's an
+honor to be here.
+&gt;&gt; It's my honor, Dan. I feel like this is
+a podcast that was meant to be. Uh I'm
+so happy we're finally doing this.
+There's so damn much that I want to talk
+about. There's so damn much we can talk
+about. I thought it'd be fun to start
+with just some hot takes. And the reason
+I want to start here is I feel like you
+spend more time thinking about AI, uh,
+building with AI, using AI, evaluating
+AI than anyone else I know nearly. And
+so I really respect your insights and
+your, uh, perspectives on where things
+are going. So, let me just ask you this
+kind of question and see where this
+goes. What are some things that you
+believe about AI using AI AI tools that
+most people don't believe? I'm going to
+go with my hottest take and this is the
+take that I have the least evidence for.
+So, let's just start with that. I have
+other more well-reasoned takes to give
+you, but this is my hottest one, which
+is I think that AI may be a one of the
+biggest force for reshoring American
+jobs. And so, I think everyone is
+worried about it unemploying people. And
+for sure, it will change the skills
+needed to do the jobs that you're doing,
+but I think it may actually reshore a
+lot of jobs. And it'll do that in two
+ways. Um, one is there are a lot of
+expensive services that uh rich people
+and big companies uh are pay for right
+now. So like a you know in-house counsel
+or like you know uh call center or
+whatever. Um and what cheap intelligence
+does is it makes those kinds of things
+affordable for small companies and
+individuals. So it stimulates demand.
+The other thing that it does is it
+allows people um who are in those jobs
+to serve more people cheaply. So if
+you're uh so it may not get rid of
+customer service, for example, but it
+may allow you know 10 people in the
+Midwest who would normally be working at
+a call center to serve hundreds of
+thousands or millions of people. Maybe
+maybe that's maybe that's too much, but
+like a lot more people than they would
+ordinarily if they were the ones on the
+on the phone all the time. And so it
+becomes much more cost-effective for
+American companies to hire people in the
+US. And I think the people in the US are
+going to be better in a in in a lot of
+cases at using these AI tools to um do
+work. I so I think it may actually make
+it more effective to have job those jobs
+in the US run by people sitting in the
+US who are using it to get to get work
+done and also the model companies are
+here too. So there's there's a lot of
+American stuff happening and you can you
+can decide whether or not you think
+that's a good thing but um I think it's
+quite it's quite lost in the
+conversation over whether AI will get
+rid of jobs. I like optimistic takes
+about AI. So this is great. And like to
+your point one TBD if this was good for
+other countries but good for the US.
+What else? What else you got? What other
+hot takes?
+&gt;&gt; Another another big hot take and this is
+this is less like contrarian and more
+just like I think people are truly
+sleeping on it. I think people are truly
+sleeping on how good cloud code is for
+non-coders.
+And I'll extend this to not just cloud
+code, but Google just came out with the
+Gemini CLI command line interface. Um,
+so things like that. And I'll tell you
+about um for people who are listening
+that don't know what cloud code is.
+Cloud code is just a command line
+interface. So it's, you know, those
+black terminals that programmers use.
+Um, it's a command line interface that
+you can boot up. Uh, it has access to
+your file system. It knows how to use
+any kind of terminal command and it
+knows how to like browse the web, all
+that kind of stuff. you can give it
+something to do and it will go off and
+it will run for like 20 or 30 minutes
+and complete a task like autonomously
+agentically. It's a uh especially with
+Cloud Opus 4 that just came out. It's
+like this gigantic leap forward in AI's
+ability to um work by itself and and
+Cloud Code can even spawn multiple sub
+aents that do a bunch of tasks in
+parallel and it's incredibly useful for
+programmers like everybody inside of
+every is using it all day every day.
+like everyone's agent pill. They've got
+like 15 agents doing all this kind of
+stuff. It's crazy. But non-programmers
+don't use it because it's intimidating
+to use the terminal. But you can like
+download, for example, you can download
+all your meeting notes and put it in a
+folder and just be like, "Okay, I want
+you to read every single one of my
+meeting notes and tell me something that
+I do for example is tell me all the time
+that I subtly avoided conflict." And it
+will it writes a little to-do list for
+itself. It can have like a little
+notebook. it can like go and read each
+little thing and then like write into
+his notebook, go down a to-do list and
+give you a summarized answer over
+multiple turns. So it's not just like
+stuffing everything into context, which
+is what you'd be doing with like a, you
+know, chatbt chat or a regular quad
+chat. It's like actually processing
+every single file that you give it. And
+so I think it's incredibly powerful for
+um any kind of task that involves
+processing a lot of text. So, as a
+simple way to think about this, you
+basically have an agent on your local
+computer that can read your local files
+and do your bidding.
+&gt;&gt; Yes, exactly. And um it can do that for
+long amounts of time without going off
+the rails.
+&gt;&gt; Interesting. And so there's like a small
+hurdle that non-technical people have to
+overcome, which is using their terminal
+and giving commands, but once they get
+it running, it's just you talk to it in
+English and ask it to do stuff.
+&gt;&gt; Exactly. So the hot take here is just
+claude code which most people think is
+for engineers is the most underrated uh
+tool for non-technical people.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; What are some other ways you imagine
+people seeing this? This meeting note
+example is really cool and I could see
+people do using this. What else have you
+seen or think?
+&gt;&gt; Um something that I've done a lot. So
+I'm a writer for a lot of my job and um
+for example I love um and I know you're
+going to ask me about books I love so
+I'm going to give you a sneak peek which
+is I love War and Peace. I just read it
+for the third time.
+&gt;&gt; Wow.
+&gt;&gt; Um,
+&gt;&gt; that's a long book.
+&gt;&gt; It's so It's so long, but it's so good.
+I think Toltoy is a brilliant writer.
+And one thing that I wanted to do was I
+was like, I want to inflect some of my
+writing with some of Toltoy's style. And
+the way I did that is um I think he's
+incredible at these little subtle
+sentences where he shows you what a
+character is thinking and feeling just
+by how they behave, like how they move
+their face or like the mismatch between
+the intonation in their voice and the
+expression in their eyes. Like all that
+kind of stuff. He's just like a an
+incredible student of human behavior and
+psychology. And so I just downloaded War
+in Peace to my computer, which you can
+do because it's public domain. And then
+I had Claude read like the first three
+chapters of War in Peace and pull out
+all of those descriptions and make then
+make a guide for itself for like how to
+do des like character descriptions like
+Pulsetor. And you could totally do this
+with like a regular like opus command,
+but you couldn't put all of War in Peace
+into it. it would take a lot more
+handholding to get it to do this and it
+just sort of did this by itself like
+without my like really intervening. It
+also ended up like downloading I I had
+it download a Russian version of War in
+Peace and the English version and then
+start comparing different scenes that I
+love to like tell me about things that I
+might have missed in the translations.
+So like you can get as deep and weird
+and nerdy for whatever sub field you
+care about as you want to. Same thing
+for like if you've got tons of customer
+interviews or or like tons of customer
+data you want to go through. It's like
+incredibly powerful for for going and
+figuring stuff out stuff out from big
+data sets like that.
+&gt;&gt; You actually inspired me to use this is
+not what you're describing, but it's
+also something that's very cool. This
+going to sound so nerdy. I'm reading an
+Karen right now based on
+&gt;&gt; also Toltoy. And this is uh recommended
+by a previous podcast guest and so I was
+like, "All right, I got to read this."
+Also very long. I'm on my Kindle. I'm
+just like, "All right, 13% in. I've been
+reading for months."
+&gt;&gt; Hot take. I think Warm Piece is better
+than Anacronina, especially for like a
+tech person. But they're both good.
+&gt;&gt; Okay, there there we go. There's my
+year. Um,
+I saw you tweet this use case that I
+love that I've been using, which is just
+while I'm reading, having chatbt voice
+sitting around and then just asking it
+questions because you don't actually
+have to feed it the book. It knows the
+whole book. Uh, and Anthropic just
+shared this. I don't know if they shared
+or someone found this in their legal
+briefings that they actually bought tons
+of books and scanned them themselves.
+Yeah.
+&gt;&gt; Is how they did fair use. And so it has
+all this context. So just sitting there
+asking it like what the heck is this
+thing in Russian society uh is super
+fun.
+&gt;&gt; Okay. So this is awesome. So the tip
+here is just coming back to your hotic
+uh the tip is uh you basically can have
+an agent using local files and doing all
+kinds of cool stuff on your computer
+versus having to upload it into into
+projects or into your prompts and things
+like that.
+&gt;&gt; Yeah,
+&gt;&gt; super cool. So the I guess the bet here
+is that people are going to discover
+this and start using this just
+dayto-day.
+&gt;&gt; I think they absolutely will. And I also
+think probably the model companies are
+going to start
+&gt;&gt; making this more accessible. Like I
+think one of the things that will just
+come from cloud code and other things
+like it into the everything else you use
+whether it's on the web or wherever is
+the original all the original AI apps
+were pasting a chat box into an existing
+UI. So you know you've got co-pilot it's
+got a little it's got like the
+autocomplete in the in the IDE. You've
+got cursor. It's got a little sidebar
+with a little chat. And the difference
+with cloud code is you never look at the
+code. It's not meant for coding. It's
+not meant for coding by hand. It's meant
+for you to say, "I want you to get
+something done." And it goes and does
+it. And I think we're just getting to a
+point where for pretty much all of
+these, you know, all the usual
+applications, AI is going to be good
+enough that we can get rid of the
+interfaces more or less where you're
+like digging into all the things that
+it's actually doing and and it's you're
+you're sort of interled with its um
+execution and you're more just like I'm
+delegating. is gonna go do it.
+&gt;&gt; Yeah. I had uh cursor CEO Michael
+Terrell on the podcast and this is his
+big vision is what comes after code
+&gt;&gt; and we don't be like exactly exactly and
+I also just had the founder of base 44
+on the podcast who sold you know built
+this company sold 80 million bucks to
+Wix and he shared that for the so he's
+been around for six months the company
+for the last three months he hasn't
+touched a single line of front-end code
+all base 44 and or sorry all cursor and
+other tools he's using. So this is
+happening.
+&gt;&gt; Same thing for people inside of every
+like no one is manually coding anymore.
+&gt;&gt; Okay. Definitely need to talk about that
+before we do. Uh any other hot takes
+that you want to throw out there?
+&gt;&gt; I have one other hot take um which is I
+have a definition for AGI and so AGI is
+like famously hard to define like what
+it what does it mean for it to be
+artificial artificial general
+intelligence? The turning test was one
+but like we pretty much blown past the
+turning test in a lot of ways. So
+we have no good one. Um and so what I
+have noticed is that you can tell how
+much better AI is getting by how long uh
+a leash you can give it to do work. So
+with copilot it was like a you can tab
+complete and that was like the
+beginning. Um with chatbt you ask it a
+question and it it returns a response
+and that's like maybe slightly better
+than a tab complete. And then now with
+with cloud opus 4 and Gemini and all
+that kind of stuff like it can go off
+and and work for also with deep research
+it can go off and work for like 20 or 30
+minutes. So that leash is getting longer
+where um where you have to intervene and
+I was thinking about this and it
+reminded me of Winnott who's a child
+psychologist. He wrote this book called
+Playing in Reality. And his
+conceptualization for what it means to
+become an adult, uh what it means to go
+from being an infant to a child to an
+adult is when you're when you're first
+born, you're effectively fused with
+usually your mother, your caregiver.
+Like there's no difference between you
+and her or you and whoever your
+caregiver is. And growing up is this
+process of being gradually like let down
+in certain moments where you can handle
+being let down. So you learn that
+there's a separation between you and
+your caregiver. So for infants, it's
+like instead of being like fused at the
+hip for like every hour of every day,
+you get left alone. U maybe it's like
+you get left left alone to cry it out.
+Like who knows if that's like the right
+thing to do with infants. a lot of
+consternation there, but like that's
+teaching you that there's a separation
+between you and your mom or you and your
+dad. Like there's there's not going to
+always be someone to pick you up. And
+raising a child is about knowing when
+they're ready to be let down a little
+bit and have to stand up on their own.
+So I think there's that same leash with
+human development. It's like you get
+longer and longer periods of time where
+you can be on your own. So, we're still
+in the kind of like 20 to 30 minutes is
+like maybe maybe I don't know. I guess
+you probably can't leave a toddler alone
+for 20 to 30 minutes, but like, you
+know, it's a little bit older than a
+toddler.
+&gt;&gt; Maybe 20 30 seconds.
+&gt;&gt; Um, you you can with a toddler it's like
+uh you can be in the same room but not
+interacting with them total like every
+single second um for for 20 for 20
+minutes sometimes.
+&gt;&gt; So, it's it's around there. And I think
+there's a similar I think that we have
+that a similar leash with AGI. And so I
+think a good definition of AGI is when
+does it become economically profitable
+for people to run agents indefinitely?
+So it just never turns off. It's a cloud
+code that's always running. It's always
+doing something. You just never turn it
+off and you don't need to because like
+you know that it's worthwhile to keep it
+to keep it on. It's never waiting for
+you to be like, "Okay, next thing."
+It'll always respond to you when you're
+like, "Okay, next thing." but it's off
+just essentially living its life like a
+teenager. And that is profitable for
+you. You'd rather have it do that than
+just wait for you to tell it what to do
+next. And I think that's a good
+definition of AGI.
+&gt;&gt; And the profitable piece is also just
+the cost of running that thing and
+having it.
+&gt;&gt; It's it's partly the cost and partly the
+value. Um, and obviously you can like
+game this a little bit and be like cool,
+I'm just going to like tell Cloud to
+like run in a loop forever. But like I'm
+talking about more than that. like a
+more widespread
+more widespread adoption of agents that
+that work all the time. And um and I
+like the profitable thing because if it
+costs a little bit of money and we're
+the bar is profitability, then there's
+like a it has to actually be doing
+something useful for you to keep it on.
+It's interesting how that also is very
+the metaphor of a of a senior employee
+and autonomy and essentially the more
+autonomous they are, the less
+instruction you have to give, the less
+reviews you have to do is also just
+directly correlated with how senior they
+are.
+&gt;&gt; Totally.
+&gt;&gt; Okay, great. Uh, anything else along
+these lines?
+&gt;&gt; I mean, I have plenty of them. I think
+I'm generally
+like I hate the headlines that are like
+it's going to replace jobs um or like
+it's gonna unemploy twothirds of the
+workforce. Like I don't think that's
+true. I hate headlines that are like you
+don't use your brain when you use chatbt
+or like there another another good
+headline is like um uh doctors alone
+doctors plus AI or just AI like which
+one is better? AI is better. Therefore
+like doctors are um going to be outmoded
+like all that stuff is I think pretty
+dumb. So for the doctors plus AI
+example,
+um I think it's important to recognize
+that using AI is a skill. And so if you
+study doctors in a vacuum that like
+don't really have a lot of experience
+with AI,
+yeah, you could probably create a
+situation such that like it's better to
+just to just use an AI and sometimes it
+is going to be better, but there's a lot
+there's like so many contexts that
+doctors need to make decisions and do
+things that it's really hard to take one
+study and make any sort of conclusion
+about that. And it's especially hard
+when you're dealing with a technology
+that's developing so rapidly that
+doctors can't really be like expected to
+be experts at it yet. But I would guess
+in five or 10 years that will be totally
+and completely different. For the
+student example um or like the you know
+AI turns your brain off example.
+I think it's really important to
+understand that in the history of
+technology it has always been the case
+that you give up certain skills in order
+to get other ones. So, for example,
+Plato was famously very skeptical of
+writing because he thought it would harm
+your memory, and it did. Uh, we don't
+remember things quite as well as they
+did back in the day because they had to
+remember long epic poems to entertain
+each other. But I think writing is a
+worthwhile trade for having a slightly
+worse memory. And I think something
+similar is going on with with with AI
+where yeah, you may you may be slightly
+less engaged in certain tasks, but if
+you use it right, you're going to be way
+more engaged in other tasks where you
+have much more power. And so you can
+construct a study that says brain
+connectivity goes down when you use AI
+in the same way that you could construct
+a study that says people's memory is
+worse when they have writing skills. But
+I don't think anyone would want to go
+back to a world where no one was
+literate. That is super interesting.
+There's all these studies that are
+showing the benefits of AI to students
+with these studies in Nigeria and just
+how fast people progress. So I I think
+it's really important this context
+you're sharing of that you will lose
+some things but the gain the hope is the
+gain is much higher and so far it seems
+like it will be.
+&gt;&gt; Yeah. Yeah, I think people always,
+especially at the beginning of a tech
+hype cycle or a revolution paradigm
+shift, it's always easy to underestimate
+how quickly things are going to change.
+And the example I always use is I live
+in Brooklyn and the tailor down the road
+down the street from me like doesn't
+accept credit cards.
+Like credit cards have been around for a
+long time. So, uh it takes a long time
+for technology like this to be adopted
+even in the best case. And I think it's
+really easy to underestimate
+how
+complex specific contexts are that
+humans know how to like deal with. And
+just because you can get a really good
+score on a test, it it it's incredible.
+I love AI. It's so incredible, but it
+doesn't it doesn't actually give you an
+intuition for um how difficult it is to
+actually be replacing specific parts of
+work or activities that you would do. I
+think a really good thing to give you a
+um maybe like a little bit of an
+intuition for it um is I built this
+thing over a weekend like a month ago
+that was
+um can 03
+can it predict what I'm going to say in
+a meeting?
+It's like we it's a benchmark. It's a
+it's the CEO benchmark. And the reason I
+did that is because OpenAI's the gold
+standard for OpenAI um for testing how
+powerful a model is is they test they
+they test it on their internal codebase.
+So they say how good is the new model at
+predicting what comes next in our
+internal codebase because that's that's
+not anywhere out out on the internet. So
+it's a really good um it's a really good
+benchmark for that. And so I was like
+well my meeting transcripts aren't
+anywhere on the internet. a lot of what
+I say is on the internet and some of the
+there's some overlap but be kind of
+interesting and so I ran a bunch of the
+frontier models on this on just like my
+granola transcripts and they're pretty
+bad. They are pretty bad and it's not
+because they're not smart. Um there's a
+real there's this real push now. Um Toby
+from Spotify uh coined this term called
+context engineering which is like
+getting the context to the model uh the
+right context at the right time like is
+at least half the performance. And I
+think that's 100% true. It's something
+that I've been writing about for like 3
+years. At the time I called it knowledge
+orchestration. Um, I think context
+engineering is is a better probably a
+better term, but like uh it's totally
+true and and and it's that's a very very
+hard problem to solve. It's not just
+like a oneshot problem where it's like,
+you know, gigantic context bundle and
+we're done. It's going it's I think it's
+going to get better over time, but the
+minute it gets good at predicting what's
+what's gonna what I'm going to say next
+in a meeting, I'm just going to use it
+as a tool and that's going to change the
+entire dynamic of what I say next in a
+meeting. So, it's not as easy as it
+seems.
+&gt;&gt; Interesting. I imagine you can build a
+GPT from that and then instead of having
+a meeting with Dan now, just talk to
+this thing and he'll make decisions.
+&gt;&gt; Definitely. And I I I mean, we do this a
+little bit. It's not the same as it's
+not the same as having being able to
+predict exactly what I'm going to say in
+a meeting, but I think if you're a CEO
+or founder or manager, it's really
+stunning how much of your job is just
+repeating yourself.
+And that is one of the best things about
+this AI particular AI revolution is that
+you don't have to repeat yourself. And
+so we had it like last quarter. I I tend
+to set like one or two quarterly goals
+and like one of my big goals for us last
+quarter was don't repeat yourself. So I
+don't want to ever say the same thing in
+a meeting twice if I if I can help it.
+Um, so for us, um, at every like one of
+the big parts of every is we have a
+daily newsletter
+and I'm spending a lot of time like
+giving feedback on headlines or giving
+feedback on how do you write an intro or
+like how is what is this idea any good?
+Like that kind of stuff. And we've
+started to codify all that into prompts
+that basically it's not the same as
+mimicking me. It can't exactly say
+exactly what I'm going to say in a
+meeting, but it pushes my taste out to
+the edge so that
+um writers who are not able to talk to
+me, like by the time I see it, they've
+already talked to like some simulation
+of a simulation of me. And that's
+incredibly powerful. Let's follow this
+thread. This is exactly where I wanted
+to go. I feel like the business you're
+building, the team you're building, the
+way you're operating is the very
+bleeding edge of how companies will
+operate and are trying to operate in
+this AI era. You guys are trying to be
+super AI first. Uh it's and it's super
+aligned with just so much of how of your
+writing. There's just like so much
+reason to study what you guys are doing.
+&gt;&gt; Yes. And this is benefiting all of us.
+So, thank you.
+So, first of all, just tell people what
+the heck every is and then share a few
+insights into just how you operate. Uh,
+it's funny that you laugh, but whatever
+is.
+&gt;&gt; Everyone asked that cuz it's just it's
+like a it's a very it's just it's a very
+weird shape of a company that
+&gt;&gt; you can actually see other companies
+that have this shape from earlier eras,
+but they're
+&gt;&gt; it's a little bit it's less common. It's
+it doesn't make as much sense and I
+think it's newly enabled by AI and and
+we can talk about why. Um but the way
+the way that I typically talk about um
+every is um we do ideas and apps at the
+edge of AI. So the core of the business
+is we have a daily newsletter. We've
+been doing it for about 5 years. We have
+about 100,000 subscribers. All the
+people from the top AI labs read us. Um
+anyone who's who's basically interested
+in or working in AI at the frontier and
+wants to know what's going on uh reads
+us. We do a lot of like for example
+whenever um whenever OpenAI or or
+Anthropic drop a new model like we get
+our hands on it early and then we get to
+play with it and write about it which is
+it's like my ideal job. I love it. It's
+the best. I don't know if I can curse on
+this podcast but it's the
+&gt;&gt; perfect excellent use. Uh and you call
+those vibe checks. Is that the
+&gt;&gt; Yeah, we call them vibe checks. Um
+&gt;&gt; which I think is really important
+because and this gets to the next part
+the the apps part of of what we do. I
+think it's really important to do vibe
+checks and and to call them vibe checks
+because they're about how does it feel
+to use this thing and how does it feel
+to use it for work for things that you
+would normally use it for um uh uh like
+in your job or in your life because I
+think um that captures something that
+standard benchmarks just don't capture
+and really can't. And the best people to
+tell to write a vibe check are people
+that are actually at the edge using it
+for stuff. And so what we found over
+time is we have we we love we think the
+best writing and content about
+technology is from people that are
+actually using it and building with it.
+And so we've always had this sort of
+function where we're always building
+little experiments um in addition to our
+writing. And that that helps us write
+great stuff. And that has turned into um
+a suite of apps that we run internally.
+And the people who uh are uh people who
+are building those apps are also writers
+and they're contributing to things like
+vibe checks. So you get a really inside
+look into how is this stuff being built
+from people who are actually using it
+every day and the suite of apps that we
+have. Uh one's called Kora. We just
+launched Kora publicly on the day that
+we're recording this which is really
+awesome. Um
+&gt;&gt; congratulations.
+&gt;&gt; Thank you. Uh you can think of it like a
+chief of staff, an AI chief of staff for
+your email. It helps you manage your
+email with AI. It's very cool. We can go
+into more of it later. Uh we have
+another one called Sparkle uh which is
+an AI file cleaner. We have another one
+called Spiral that does content
+automation with AI. We originally
+incubated um Lex which is an AI document
+writer which we spun out into its own
+company and my every co-founder Nathan
+runs that um and uh basically we bundle
+everything together. So you pay one
+price and you get access to all of the
+software that we make and we're
+constantly putting new stuff in the
+bundle and I can tell you more about
+like what kinds of things we like to
+incubate and how do we like to incubate
+it because I think there's there's a lot
+of there's some really interesting
+special things in there but I've been
+blabbing for a while so I'll stop there.
+There's also consulting firm which I
+want to talk about, but let's hold off
+on that.
+&gt;&gt; We have consulting. We also do that. Um,
+and that that is another that's like the
+third leg of the stool in the business.
+It doesn't fit quite as nicely into my
+ideas and app streaming, but we um we
+spend a lot of time with big companies
+where we teach them how to basically how
+to be AI first. We train all the people
+on how to use AI and it's it's very
+cool. It's it's really um it's really
+fun and very a very important part of
+what we do.
+&gt;&gt; That feels like a billion dollar
+business right there. I want to come
+back to it. I think so because everybody
+wants to learn this. Um, okay. So, share
+a few ways that you guys operate. You
+mentioned that you your team doesn't
+write any code. Uh, what are just some
+ways that allow you to operate this
+efficiently? I know your team's really
+small. You have daily newsletter. You
+have three four products. You have a
+consulting arm. How big is the team of
+everything?
+&gt;&gt; We have 15 people.
+&gt;&gt; 15 people. Okay. So, just give us
+insight into some of the ways you
+operate that are kind of at the bleeding
+edge.
+&gt;&gt; Okay. So, a couple things. Um, one, and
+I think everyone should do this, is we
+have an AI, a head of AI operations. I
+sit with her once a week, and every time
+I'm doing something repetitively, I'm
+like, we put it in a to-do list and
+she's just constantly like building
+prompts and building workflows and stuff
+like that so that I and everyone else on
+the team is are just automating as much
+as possible. Um, and I think that has
+been a big unlock because it's really
+hard to if you're working in a job all
+day, you're fighting fires and like
+you're you're like, "Okay, am I going to
+do this in the way that I know how or am
+I going to do it in the new way that
+might not work? Like, I'm going to spend
+a bunch of time in Zapier like building
+some no code automation. I don't want to
+do that." And having an AI operations
+lead lets you basically identify those
+things and have them solved without
+people who are doing the work actually
+getting in uh getting like having to
+take time to do it which I think makes
+it much more likely it happens. There's
+always a trick with that where it's like
+you have to make sure it gets used. So
+it's basically you're developing little
+applications internally. Um but if
+you're good at making applications
+people use it's great. Highly recommend
+having an AI AI operations lead. I
+imagine you saw the CF Kora tweeted
+about this wanting to hire exactly this
+sort of person.
+&gt;&gt; Yeah.
+&gt;&gt; So clearly this is a trend. So the idea
+is this per like your point that this
+needs to be somebody who's who's outside
+of the day-to-day work of the company
+and is specifically focused on helping
+the team be more efficient with AI?
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; And then is this person mostly just you
+automating you or can they help other
+people?
+&gt;&gt; No, she helps she helps everyone
+basically. Okay, where we're starting
+right now is with the uh editorial
+operation. So, there's so much stuff in
+the editorial operation where I or our
+our editor and chief Kate like Kate is
+constantly doing like little small copy
+edits to make sure everything is like in
+every style and it takes like hours
+hours a day. Um, and so now Opus is at a
+point where you can give it a style
+guide and a prompt and it'll go through
+uh go through anything you're writing
+and copy edit it, which is amazing. Um,
+the trick is it's not just building
+that. You also have to get Kate to be
+like, "Did you put this through the
+prompt yet?" Um, anytime someone gives
+her something. So, there's a little bit
+of like behavioral update too that has
+to happen, which I think is a really
+interesting organizational challenge.
+And I think for us it's a little easier
+because everybody inside the org is like
+very AI first and just like wants to go
+do it. Um we don't have anyone really
+who's like I don't know I don't really
+want to do this and and that's that's a
+whole that's a whole different challenge
+which I think a lot of organizations
+face but there's always a problem of
+getting people to use it.
+&gt;&gt; That is super cool. What is her
+background this AI operations person?
+&gt;&gt; She her name is Katie Parrot. Um she
+does a lot she actually does a lot of um
+ghost writing for us. So she also when
+um when people inside of every who are
+builders um often they just write
+themselves but like sometimes they want
+help and she'll help um help them write
+about like whatever whatever they're
+working on. So that's that's how she
+started with us. She still does that but
+she also spends a lot of time doing the
+AI operations stuff. Um
+and then before that she was she worked
+at Animals which is a content marketing
+agency like one of the top content
+marketing agencies and they're very
+processoriented. And I think the reason
+Katie is so good is because she's she's
+incredibly good at at that kind of
+process stuff or like thinking about
+that. Um, but she's also a great writer
+and she's also um just incredibly uh
+excited about AI. She just like wants to
+tinker and wants to use it and like that
+was a thing that got me to be like,
+okay, you should just come and do that
+instead of just ghost writing. We should
+add this to your plate. And it's it's
+been really fantastic. So I think that's
+a at minimum you really just want
+someone who's just like I want to
+tinker. I want to build stuff. Um
+there's also people who have a little
+bit more of that process orientation. I
+think that is important. Um and to the
+extent they understand the craft of the
+thing that they're trying to build for
+that also helps a lot.
+&gt;&gt; This is an amazing tip. I feel like
+everyone's going to start hiring these
+people.
+&gt;&gt; I I think so. There's there's a couple
+other people who talk about this. So I
+heard Rachel Woods who's another um sort
+of she thinks a lot about AI stuff. she
+she's talking about I think it's
+becoming like it's becoming a thing and
+and I think it's I think it's really
+important and and it just like bleeds
+out into every other part of the org. So
+like we're doing this inside of the
+editorial or but there's a lot of copy
+that goes out on Kora and by the way
+Kora is spelled C O R A so it's
+different from q o um slightly confusing
+there's a lot of copy that goes out in
+Kora or spiral or sparkle that we want
+to have that same every quality bar for
+and so we have you know engineers
+sending Kate like here's the Figma file
+like can you go and like do copy edits
+and that sucks for everybody and Kate is
+one person and it's just really hard to
+to do that. So one thing that we did um
+Nateesh who's one of the programmers uh
+engine engineers on Kora built a cloud
+code command that just uses that prompt
+and checks through the entire codebase
+um for for all the copy edits and then
+creates a pull request on GitHub and
+then sends the pull request to Kate. So
+she's just like looking at the pull
+request and being like does this make
+sense? And so you can translate that
+prompt into, for example, a format that
+engineers can use and suddenly your
+engineering team is writing marketing
+copy in the style you want. I think
+that's so cool.
+&gt;&gt; That is extremely cool. Uh I want to
+take I'm going to take us on a little
+tangent. You keep mentioning Claude and
+I'm I'm curious just what is kind of in
+the stack of tools that you find
+yourself using that your team ends up
+using. It seems like Claude is a core
+part of it.
+&gt;&gt; I do love Claude. I would say I'm
+generally
+my first thing that I open is 03. I'm
+like a chatbt boy. Um and I think 03 is
+super high quality. I think um it's
+great for writing. It's great for
+coding. It's great for all that stuff.
+And what it has that really makes a
+difference still from from Claude is it
+has memory and I just love that. Like
+I've spent so much time yelling at
+Chacht about like I need my writing to
+be punchy and concise, you know, and it
+just knows that now. So I think when I
+ask it to write something for me, it's
+like actually better than yours or maybe
+not yours but like you your average your
+average CHBT user and I also find like I
+use it a lot for self-reflection and
+personal growth type stuff. So it knows
+me so when I send it a meeting trans I'm
+like how did I do? It's like well you
+did that thing that you normally do but
+you're way better on this other thing
+and I I like that. I think that's I
+think that's really great.
+&gt;&gt; So dayto-day 03 that's my that's my
+go-to. I think claude opus is first of
+all cla code everyone inside every
+that's basically what we use um if
+you're building something you're using
+cloud code it it's crazy it's so good um
+Gemini just came out with something so
+I'm very excited to try that um because
+I think that that's the model that we
+use most for the apps that we build like
+inside the apps u it's incredibly
+powerful and it's incredibly cheap which
+is great so I want to try the CLI tool
+they came out with we also use codeex a
+bit um which is OpenAI's coding tool.
+And that's for like I want a one-off
+self-contained like I want to pick off
+this little feature. What else do I use?
+Uh going back to Claude, Claude Opus 4
+can do something that no other model
+except one other model that I can't talk
+about. Um
+&gt;&gt; it can do something that no other model
+can do.
+&gt;&gt; We won't go there. We don't want to get
+you in trouble. Okay, go on.
+But yeah, no other model can do this,
+which is
+earlier versions of Claude and I think
+generally versions of other models when
+you ask them, is this piece of writing
+any good?
+Claude, for example, would always give
+it a B+ and then if you change if if you
+did another turn of the same
+conversation, you're like, I updated
+this, it would always go to A minus. And
+then if you give it another turn, it
+would go to like A, you know? So it like
+doesn't have the same kind of gut. It's
+like it's sort of thinking about what
+you probably want to hear too much. Um,
+and there's various methods that you can
+use to like prompt prompt engineer
+around this, like give it a template or
+like whatever. And they sort of worked,
+but it just still doesn't doesn't have
+that thing where it's like can it tell
+if writing is interesting or any good?
+Does it have that gut sense? And Opus 4
+has it. Uh, it's really wild. And I
+think that's I think that's super
+important because it opens up all these
+use cases where you might want to use a
+language model as a judge. So for us for
+example um we're working on a new
+version of our product spiral which does
+content automations. You've used that in
+the past and we're doing a essentially
+cloud code but for content um style
+product where you know you say I want I
+wanted to write a tweet. You give it all
+the documents. It has a bunch of
+memories. It creates a to-do list for
+itself and then it goes and writes. And
+one of the things that is so interesting
+is now because it can um it can judge
+things. Part of its to-do list is okay,
+I wrote three tweets. I'm going to like
+judge whether I think these are any
+good. And then it can improve before it
+comes back to you. And that's just like
+a huge huge unlock that we were
+struggling for like three months to like
+build this like crazy system to like try
+to get it to judge writing and then Opus
+4 just like one shot at it and we're
+like great this product works. Let's
+like let's start shipping it. Um so
+yeah, I love it for that.
+&gt;&gt; Are there any other AI tools that you
+just use regularly? You mentioned
+Granola even outside of the bottles. So
+what are what are some that you think
+maybe people are sleeping on?
+&gt;&gt; I use Granola. So I used to use uh Super
+Whisper and Whisper Flow which I think
+are fantastic. We have an internal
+version of that uh called Monologue that
+will be shipping in like a month or so
+that I I use now but you can think of
+them as roughly equivalent and I think
+like generally speechtoext interfaces
+are the future and more people should be
+using them and more people should be
+building them as affordances. Um I use I
+use we use notion all the time and I
+specifically use their meeting
+recording. I think that's most I think
+that's mostly the stack.
+&gt;&gt; Okay, that was really helpful and super
+interesting. This episode is brought to
+you by Postthog, the product platform
+your engineers actually want to use.
+Post Hog has all the tools that
+founders, developers, and product teams
+need like product analytics, web
+analytics, session replays, heat maps,
+experimentation, surveys, LLM
+observability, air tracking, and more.
+Everything Post Hawk offers comes with a
+generous free tier that resets every
+month. More than 90% of customers use
+Post Hawk for free. You are going to
+love working with a team this
+transparent and technical. You'll see
+engineers landing pull requests for your
+issues and their support team provides
+code level assistance when things get
+tricky. Posthog lets you have all your
+data in one place. Beyond analytics
+events, their data warehouse enables you
+to sync data from your Postgress
+database, Stripe, HubSpot, S3, and many
+more sources. Finally, their new AI
+product analyst Max AI helps you get
+further faster. Get help building
+complex queries and setting up your
+account with an expert who's always
+standing by. Sign up today for free at
+postthhog.com/lenny
+and make sure to tell them Lenny sent
+you. That's postthogg.com/lenny.
+Let's go back to ways that your team
+operates. You mentioned having Kate, was
+that her name?
+&gt;&gt; Yeah.
+&gt;&gt; Okay. Uh what else? What else do you do
+that you think other companies should be
+doing or will eventually start doing? So
+the Kora team uh which is Kieran and
+Nateesh basically that's the team two
+people
+&gt;&gt; that's the team. Yeah.
+&gt;&gt; Well it's Kora it's it's Kieran Nateesh
+and 15 claude code instances. So it's
+you know it's more powerful than you
+think.
+&gt;&gt; This is I love that this is just again a
+glimpse into the future.
+Um, one of the things that we do that I
+think is really cool and they basically
+invented this like I had nothing to do
+with this is um, they invented the idea
+of compounding engineering.
+So
+basically for every unit of work you
+should make the next unit of work easier
+to do.
+So an example is um
+in a clawed code world where you're not
+coding a lot, you end up spending a lot
+of time essentially typing PRDs. Like
+here's a document with exactly the stuff
+that I need to I need to do, right? Um
+and so you could just be like, "Okay,
+cool. That's my job now. I'm going to
+just like write PRDs." Um and so each
+successive PRD, it's the same amount of
+work. Or you could spend a little bit of
+time being like, there's a sort of
+platonic ideal of a PRD, and what I'm
+going to do is write a prompt that can
+take my rambling thoughts and then turn
+that into a PRD. And so you spend a
+little bit of work to make all of the
+next like PRDs that you're doing easier
+to easier to write because you're
+writing le less of them. And so finding
+those little speedups where every time
+you're building something you're doing
+you're making it easier to do that that
+same thing next time I think gets you a
+lot more leverage in your engineering
+team. And so like yeah we have Kieran
+and Nesh and you know Kora has it just
+came out of it just became public. It
+was in private beta has 2500 active
+users and like there's like millions of
+emails going through it and like that's
+one of the products that we do as a 15
+person company. It's It's kind of crazy.
+&gt;&gt; It It is crazy. How do you do this speed
+up thing? Is it um prompts that they
+continue to refine?
+&gt;&gt; A lot of it is prompts and automations
+and stuff like that. Yeah.
+&gt;&gt; Got it. For automations, what's the
+tool? What's the tool used for
+automating automations?
+&gt;&gt; What they're using a lot of is is Cloud
+Code. So, you can do slash commands in
+Cloud Code, which are like repeated
+prompts that you're that you're doing.
+&gt;&gt; Got it. Okay. So basically they're
+building a library of prompts that make
+the process of here's what I want to
+build to a good solid PRD that you can
+feed into cloud code. Yeah. More correct
+and more efficient.
+&gt;&gt; Exactly.
+&gt;&gt; Super interesting. And and they just
+keep like a file or they put this into a
+project. Is that how they store?
+&gt;&gt; It's a GitHub. It's like a GitHub. It's
+like in their GitHub where they they can
+like share it with each other. Another
+thing that they do which I think is very
+cool is they they use a bunch of clouds
+at once, but then they're also using
+like three other agents. So they love
+there's there's an agent called Friday
+that they love.
+&gt;&gt; That's like a that's a that's an AI
+Asian product called Friday.
+&gt;&gt; Yeah.
+&gt;&gt; Heard of that. Okay.
+&gt;&gt; Um there's another one called Charlie
+that they really love. And in
+particular, I think the thing they like
+about Charlie, we have a whole video
+about this which um I can send to you.
+&gt;&gt; Yeah, I'll point to it.
+&gt;&gt; They did like a you know S tier through
+Ftier of AI agents which I think is so
+funny. Um, and um, one of the things I
+really like about about Charlie is that
+it lives in GitHub. So you can when you
+get a when you get a pull request, you
+can just be like at Charlie like can you
+can you check this out? Um, and that
+seems to seems to work really well to
+have like different agents that have
+like maybe slightly different
+perspectives. It's like different
+people, you know, that have different
+perspectives and have different taste.
+Like you can I Kieran is he's like a one
+of those like ra like serious Rails
+files who are just they just love Rails
+and they love the way that Rails feels
+and so I think he has a real sensitivity
+to okay this agent you know Chukg for
+example it's very it feels very tur and
+minimal and and professional and so and
+it has a particular kind of style that
+maybe he likes versus I don't know quad
+is a slightly different style and I
+think that's I think all of that is so
+interesting that that these things have
+personalities and that those that that
+changes what you might want to use it
+for or why you might want to use three
+of them at once.
+&gt;&gt; That is so fascinating. Uh it makes me
+think about Peter Deng's conversation
+again where he talks about his hiring
+strategy in one of his key lessons and
+he ended up hiring like the current head
+of product for JT GPT the current head
+of marketing at JGPT the current head of
+engineering like because he hires the is
+incredible people and his philosophy is
+to hire a team of Avengers where
+everyone is strong at certain things and
+together they are the perfect team
+versus everyone versus like the best at
+everything and it's interesting that you
+can always do that with different
+product different agents from different
+companies.
+&gt;&gt; You definitely can.
+&gt;&gt; And it makes me feel like there's a
+bigger market than people think
+potentially where people will want
+different companies agents, not just all
+Devons or not all Codex.
+&gt;&gt; I think there really is. It's definitely
+not like one one agent to rule them all.
+So
+&gt;&gt; interesting.
+&gt;&gt; Yeah.
+&gt;&gt; Oh my god. The two people on the Kora
+team are what's their background? Are
+they both engineers or what are they?
+&gt;&gt; They're both engineers. Kieran's got
+this like crazy background where
+&gt;&gt; they both have really interesting
+backgrounds. Karen's got this crazy
+background where he was previously like
+VP and ange at uh at a startup. So like
+was effectively like the CTO of a of of
+a startup or maybe two startups. Um and
+uh and was was one of the founders and
+then but before that he was like a
+composer like a professional composer
+and before that he was a baker. So we
+did like a team retreat in France last
+year and he like taught us all how to
+make croissants. My croissant was
+horrible. His was like beautiful. Um,
+&gt;&gt; seems that
+&gt;&gt; and generally I think like that kind of
+multi-dimensional type of talent is the
+kind of person that I love having at
+every like because we're all
+generalists. We all want to use AI for
+all these like weird awesome creative
+things and someone who has that
+background is going to have a good taste
+for not only agents but what should the
+landing page look like or whatever which
+I think is increasingly important where
+you're trying to scale a team of
+generalists of 15 people to like five
+products. So that's Kieran's background.
+Natasha's background is I'm jealous
+because he only started learning to code
+when Chachu came out. Um he had wanted
+to learn to code forever and he's only
+known how to code in an AI era. And I
+keep telling him, dude, like I I learned
+to program in middle school from books.
+Like I had to go to Barnes &amp; Noble and
+like buy a book. And there was nothing I
+couldn't Google anything about like how
+this how this why this function wasn't
+working.
+&gt;&gt; Tag overflow even back then.
+&gt;&gt; Yeah. Yeah. There wasn't tag overflow.
+there's like weird BBNet forums and
+stuff that like I was like 12 and I
+probably shouldn't have been on there or
+whatever. So uh it's he has gone so much
+faster than any other engineer I think
+like in a preAI era and I see the same
+thing in the rest of the company like I
+think there's this huge question about
+um what happens when kids uh like entry-
+level jobs are taken away by AI and my
+take is like that that's worth thinking
+about and it's it's possible that that
+might be a problem at some point but my
+take is whenever I see a kid with CHBT,
+I'm like, "Holy [&nbsp;__&nbsp;] they're going to
+go so so much faster than any other
+person that I've worked with, like we
+have this guy, Alex Duffy, who works
+with us. Um, he writes for Context
+Window and he he just launched um we
+taught AIS how to how to play diplomacy
+with each other. Um, which is really
+cool. And he did that whole thing and
+he's I think he's really really really
+really talented. And when he came to us
+like I guess almost a year ago now it
+was one of those classic cases which
+I've seen like over and over at every
+which is you have great ideas but you're
+not a good writer yet and it's really
+hard for me to do anything with you
+until you're good enough at it. So I
+have to give you like small little
+things until you get better and blah
+blah whatever. And what I noticed with
+him is he was just making a year like he
+made like a year's worth of progress in
+like two months because every time I sat
+down with him and told him, "Okay,
+here's how you tell a story. Here's how
+you think about a headline." Like he
+recorded all of it, put it into a
+prompt, and like he never made the same
+mistake twice. And I think he's so much
+accelerated from where he would have
+been because of this stuff. And I see
+that in lots of other parts of the or
+so. So Natasha is another good example.
+And so I think generally people are
+going to figure out that like some
+20-year-old with CHBT subscription is
+like super powerful if you just like
+mentor them. And I think that's great.
+Man, there's so many threads I could
+follow here. Like there's all this fear
+of entrylevel people will never like the
+roles are disappearing for entry level
+people and so how will we ever have
+senior people if these people can't
+learn to do things as an entry- level
+person? And what you're saying is chat
+GPT and these tools help you accelerate
+really quickly. So you don't really need
+to be at the bottom rung for a long
+time.
+&gt;&gt; Yeah. You're effectively like learning
+how to be one level above um the entry
+level from the beginning. And you have
+to and this is sort of my my whole
+allocation economy thesis where when you
+look at what skills are going to be
+valuable in the AI era. Um one big group
+of skills are the skills of managers.
+Today they're human managers. Tomorrow
+everyone's a model manager. right now um
+AI um is not like right now management
+skills are not broadly distributed
+because it's very expensive another
+expensive thing that um so 8% of the
+workforce is managers it's now going to
+be much cheaper to manage um so more
+people are going to have to do it and so
+that's the thing that um
+kids 20-year-olds whatever I see now are
+going to start to have to learn in
+addition to you know they're it's not
+like you can just say like, "Okay, go do
+it." And then come back. Like, you have
+to be able to go into the work that's
+being done and help make it better. But
+they're learning both at the same time.
+They're learning how to manage and how
+to do the actual work so that they're
+they're good at it.
+&gt;&gt; And the managing here is managing
+agents, right?
+&gt;&gt; Yeah. You're managing AI. Yeah.
+&gt;&gt; And so this is a good coming back to
+your point about how this this core team
+and I guess you said everyone every
+doesn't write code, zero code written.
+Now it's just managing agents that are
+writing code for you.
+&gt;&gt; Yeah.
+Okay, I don't I've never heard of a
+company at this stage. So, this is
+extremely cool.
+So, the workflow is they give it here's
+what I want. I refine it using this cool
+prompts library that they've that they
+build on and agents build code, write
+the code, then basically the time is
+spent reviewing code and then reviewing
+the output. What does it look like? What
+does it feel like? And then continuing
+to refine.
+&gt;&gt; Yeah.
+&gt;&gt; Wow. So, you guys are at where Michael
+from Cursor said we will be. So we I
+chatted with him a few months ago. He
+said in a year this is where he thinks
+thing will be. We're we're not looking
+at code anymore. You guys are already
+there. Although you're looking at code.
+Okay. You're still looking at code.
+&gt;&gt; They they definitely are looking at
+code. Um so you know you're doing a code
+review before you anything. Um and I do
+think like Danny who runs spiral which
+is the uh cloud code for content tool I
+was talking about that we're building.
+&gt;&gt; You know he spent a couple of days like
+digging into the internals of some third
+party library that we were interested
+in. um just because it's like it's
+helpful to know. It's helpful to like
+understand those things, but then he's
+not actually like writing any code once
+he understands it. He's just like off
+telling Cloud Code what to do. And I
+think that's um I think that's that's
+really that's really important. This is
+an insane milestone we're hitting here.
+Like there's this, you know, sense we're
+getting to a place where you don't need
+to really understand code. You don't
+have to write any code. Like we'll get
+there and like you guys are there. I
+think this is like so easy to overlook
+how wild this is. You have a product
+team not writing code at all.
+&gt;&gt; It is really wild. I think it's really
+wild in particular just like having a
+small group of people that have
+everyone's multi-dimensional, everyone
+like has all these different skills.
+Everyone's a generalist. Um everyone's
+AI forward. So what you can do in an
+environment like that with a just still
+a small team is crazy. And you're kind
+of inventing all these new principles
+for like how do we work together, how do
+we do engineering, all that kind of
+stuff. Um, and I think that's what makes
+the writing like that that's why I like
+doing that is because the writing that
+we do from that I think is really good
+because we can talk about it from a from
+a sort of position of experience. Um,
+and but I do want to say something else
+which is we're not at a point yet where
+the people that work at every could do
+what they do if they didn't know how to
+code.
+&gt;&gt; Yeah, this is what I was going to ask.
+which is a a different bar and I think
+for a long time it's going to be
+valuable to know how to code for a long
+time. Um but this has been this is this
+is like a a progression that is not a
+new progression. So for example
+when I was in middle school learning to
+code the the new hot thing was scripting
+languages which is like Python and
+JavaScript. And if you were but if you
+were a real programmer, you would
+understand the language underlying
+Python and JavaScript which was which is
+that's written in C. Um and scripting
+languages like weren't like weren't
+totally real. And in order to like
+really do anything interesting, you had
+to be be able to learn both parts of the
+stack. Same thing for C programmers. Um
+when I guess in the 70s C was invented,
+it was like you got to learn you got to
+be able to write assembly.
+Um and English is just like a layer on
+top of scripting languages. So, I think
+all those all of those things were right
+in the sense that there's um especially
+during transitions, there's a lot of
+reasons why it's important to be able to
+go down a layer in the stack. And it
+gets less and less frequent over time,
+but that still takes a long time. And
+there's sometimes when even if you're a
+JavaScript or Python programmer, it's
+useful to know like how how all that how
+that stuff works, how it's written, and
+see how it's how it's implemented. It's
+today it's much less important than it
+used to be, but that took like 10 or 20
+years. And I think that's the same thing
+is going to be true for programming.
+Like having that skill is super
+important and will accelerate you
+significantly. It will sort of start to
+get less important over time, but we're
+not close to that yet.
+&gt;&gt; Okay, that's a really important point.
+I'm glad you went there. So, do you have
+a sense of how far we might be from you
+hiring someone to build another product
+that isn't an engineer,
+&gt;&gt; like a real SAS product? Because
+&gt;&gt; Yeah. So, like, hey, we have this idea.
+We want to bring someone on to actually
+lead it
+&gt;&gt; very far. like not even not within
+sight. But there's a lot of things that
+could be products that are a layer a
+level down from that that I think that
+you could do almost now. So like an
+example um we were talking about DIA um
+the browser uh from the the new AI
+browser from the browser company. Dia
+has these things called skills um which
+are effectively like little you know AI
+apps that you can run in the browser.
+You can prompt them and and they run on
+the web page and do work for you. a
+nontechnical person could build that.
+Same thing for like um custom GBTs from
+chat GBT. Um the non techchnical person
+can definitely build that. So I think
+while I will I will definitely maintain
+that we're not anywhere close to anybody
+being able to like build a conventional
+SAS app with zero programming knowledge
+aside from just like a demo. There are
+going to be other forms of software. Um
+one of my things is like software is
+becoming content. There's going to be
+other forms of software that don't look
+like the software of today, but you can
+run start and run as a business as a
+nontechnical person even if you don't
+know how to code and that'll happen very
+soon if I mean it's already kind of
+happening. It's just it doesn't look
+like the thing that you're asking about.
+It's like it's sort of like the
+difference between a Hollywood movie and
+like a YouTube video.
+&gt;&gt; Okay. I think that's really reassuring
+to a lot of people. Basically, what
+you're seeing is AI just supercharges
+people who have a skill and allows them
+to do a lot more.
+&gt;&gt; Yeah.
+&gt;&gt; Okay. Is there any other way that you
+guys operate that is really interesting
+that might be worth sharing that helps
+you operate really quickly, helps you do
+more with less?
+&gt;&gt; I I mean I I would love to talk about
+our like how we think about building
+products. Um like what products to build
+like what do we end up building because
+I think that there's something
+&gt;&gt; sort of special about it that
+&gt;&gt; probably there's a playbook that is
+useful for people.
+&gt;&gt; So when I think about this is this has
+only sort of snapped into focus
+recently. So a lot of this was just like
+doing it intuitively without really a
+thought for it. But when I think about
+the kind of things that we have ended up
+incubating, it's basically it goes back
+to something I said at the beginning
+which is there are these things that
+were historically really expensive um
+that only rich people or big companies
+could buy. So a chief of staff for your
+a chief of staff for your email. Um I
+think a therapist or like a lawyer is
+another interesting example. um uh
+someone to like organize your closet or
+organize your organize your computer is
+another example, someone to ghostrite
+for you. Um that are uh becoming orders
+of magnitude cheaper so that everyone
+can use them even if you're at a small
+startup. Um and so basically like when
+you're running like we are sort of this
+AI first company,
+you're running into these all these
+little things where you're like I wish I
+had a ghostriter right now. But ghost
+writers are really expensive. Or I wish
+I had a lawyer, but it wouldn't cost me
+like $25,000. Lawyers are really
+expensive and and there's a lot more
+demand for those services than can be
+fulfilled because they're so expensive.
+And what AI does is it allows you to be
+like, "Oh, I could just use cloud for
+that. I can use CHBT for that." Um, and
+so you're
+uh you're able to you're able to use the
+the demand that you have that like we
+can we can afford a lawyer. we have
+ghost writers, but like there's a lot
+more that we can't do because we can't
+afford it. So, we still have our lawyer
+and we still have our ghost writers, but
+we just do a lot more of that stuff. Um,
+and um, so we notice that we start to
+then use like CHBT and Claude first,
+these general purpose tools to try it
+and see is this useful? Does this
+actually work? All that kind of stuff.
+And then if it does, we will like
+unbundle it into its own separate thing
+that um becomes an app. And and I think
+what's really special about this time is
+the entire game board has been like
+totally reset in terms of things you can
+build where you know 5 years ago it was
+like you're going to build another notes
+app like we've been building notes app
+for forever like another B2B SAS app
+like it's all the same stuff like
+slightly different packaging and now
+it's like totally new territory no one
+knows what's going on no like everyone's
+inventing it as as as it happens right
+all these new workflows are being
+created in a very similar similar way to
+I don't know for example when
+spreadsheets were first a thing on
+computers like we were figuring out all
+these new workflows on spreadsheets they
+got unbundled into B2B SAS same thing
+for CHT and cloud
+um and what's really cool is you can be
+like cool I'm using I'm using CHG for
+this it's really useful for me and you
+might be like one of the first people to
+like really notice that um and then
+because everybody that works at every is
+AI first and came to us because they
+reads every they read every so they all
+have the we all have the same vibe and
+we're all kind of doing similar stuff.
+They become our first our first users.
+So, we measure the success of the
+product by like is it a banger inside of
+every um like monologue the the the app
+that I was talking to you about like
+everyone just started using it and we're
+like okay we've got something here. Um
+and what's what's really interesting
+then is if everyone inside of every uses
+it and people read every they have a
+similar vibe to us too. So they become
+the next set of users. And that's a
+really I think interesting like pipeline
+for building applications or building
+apps. It's a totally new like green
+field so that all the stuff you're
+thinking about like it's probably new
+which is really cool. And over time what
+I think is organizations like ours
+people who are playing at the edge we're
+doing things that in like 3 years
+everybody else is going to be doing. So
+it may be kind of niche for now but it
+will be a big deal in 3 years when
+everyone else has the same needs that we
+do. That is really cool. Uh what I'm
+hearing is GPT rappers are a good idea
+and are worth building.
+&gt;&gt; I I 100% think GPT rappers are amazing
+and they've been much maligned for
+absolutely no reason and um people don't
+understand how absolutely valuable they
+are.
+&gt;&gt; I think there's also just uh you guys
+are you raised the sip seed round. Uh I
+want to so this is a good time to maybe
+talk about that just like these products
+don't have to become some mega billion
+dollar hit. Yeah,
+&gt;&gt; you kind of have this portfolio of
+companies, you have the content
+business. So, I think there's a really
+interesting approach to the how big
+these need to get to be successful.
+Maybe just talk about that.
+&gt;&gt; Yeah, I I really want every to be an
+institution um that teaches people um
+how to live a better, more human life
+with technology, particularly with AI,
+and both like teaches them how to do it
+with writing um and the content we make
+and then builds tools for them to do
+that. And um but I think fundamental to
+building an institution is at least for
+me the way I would like to do it is um I
+want internally it to feel like this
+creative playground where we have the
+opportunity to like take risk and do
+stuff and do weird stuff that like just
+doesn't make any sense. We can't justify
+anyone but we just feel like it would be
+fun. Um and so I think I'm always
+playing with that dynamic tension
+between institution serious. We want
+this to be like lasting and important
+and it should just be fun. Like let's
+play around. And I think having that
+tension is like really valuable. And so
+I've always been like sort of hesitant
+to raise a lot of money because I think
+it locks like locks you into like having
+to be that serious thing that's like
+totally going for it. And there's lots
+of companies that figure out that
+balance, but just for me like personally
+as a founder, I'm like I want to keep
+the optionality alive and I want to keep
+the kind of playful feeling alive. And I
+think part of that comes from I know
+like I have the control to do what I
+want more or less. Um there's probably
+also some like deeper psychological
+things going on there which I'm happy to
+talk about if you want to get into it.
+Um but you know I think there's also
+just that that's that's kind of what I
+want. And so when we started every we
+raised like a very small 700k preede
+round and this was at the the height of
+the creator economy. So we both we both
+started our newsletters. You and I
+started our newsletters around the same
+time. It was like the hypiest, craziest
+thing. People were throwing money
+around. It was like wild. Um, so but we
+raised 700k because it was like, I want
+to raise enough for us to be able to
+experiment, have a little cash cushion,
+but not so much that it locks us into
+anything. And we like sent an email to
+all of our investors being like, and
+you're one of our investors, so you've
+probably got this email.
+&gt;&gt; Tiniest tiny investor, but I'm I'm in
+there. I'm in there.
+&gt;&gt; Uh, we sent an email to everyone being
+like, "This is probably not a venture
+business, so you should not expect us to
+raise again." And we even raised on this
+slightly modified safe that gave
+everyone the option to convert to equity
+in three years even if we didn't raise
+more money. Um so we we did it in a way
+that allowed us the option to get really
+big and do the traditional thing and
+also the option to do the do it the way
+we want to do it. Um maybe it's not a
+huge business but we love it. That's
+great. Um, and we did the same thing for
+this recent round where we raised up to
+2 million from Reed Hoffman and um,
+Starting Line VC. And we did it as what
+I've been calling a SIP seed round,
+which is basically they've committed $2
+million, but we can pull it down
+whenever we want. And it's we just do it
+on a safe at a set cap. Um, and for me
+that was that's really helpful because
+it allows me psychologically to take a
+lot more risk. like I don't if we go to
+zero on the bank account I can get more
+money great I don't have to think about
+it but what's also really helpful is I'm
+not and the rest of the team is not
+staring at a gigantic number in the bank
+account being like cool like we can burn
+this let's burn it um and also for our
+investors like
+I I think Reed very much wants us to
+succeed but like I don't think he he
+cares like what what size of business
+this is like I think he's more
+philosophically aligned with the thing
+that we're trying to do and if it
+becomes a huge business, he's psyched
+for it. Um, and I think that kind of
+alignment is what I was looking for
+because I think there's this core
+creative spirit to the thing that I want
+to maintain and I really care about
+having um a big impact, but I think
+there's a lot of ways to have an impact
+and one of them is building a $10
+billion business. I think um another way
+is like really changing how people see
+the world, see themselves in the world.
+And I think that's what stories do. And
+um you you don't necessarily sometimes
+you do that by building a gigant
+gigantic company, but you don't
+necessarily always have to do that. Like
+a lot of the stories that we care about
+most are from people who maybe they
+maybe they weren't rich at all. Um and
+so I really like creating this place
+where we can make a really good business
+and I care a lot about that, but also
+the the core of the soul of it is um
+changing about changing how people see
+themselves in the world. I love that
+you've kind of uh innovated a new like a
+middle ground way of fundraising, not
+bootstrap and not just regular VC. It's
+a six seed.
+&gt;&gt; And I love that this two mill like you
+know if I raise 50 million it'd be like
+okay I get it. Let's not put 50 million
+in our bank account. But you do that
+with 2 million.
+&gt;&gt; It's too much for us. We can't we don't
+want to see that in our account.
+&gt;&gt; That's another thing and you know we'll
+see how this ages. Like I might be back
+here in two years crying the blues
+because like we didn't raise enough
+money or whatever. Who knows? Um but
+that's the other thing is I do think we
+can get so much further with with very
+small amounts of money like Kora I think
+all in to build Kora we've spent maybe
+300k maybe that's crazy because
+&gt;&gt; includes salaries. Yeah.
+&gt;&gt; Wow.
+&gt;&gt; This product
+&gt;&gt; um was not even technically possible
+even if you had billions of dollars like
+three years ago. not possible because
+you can't do email summarizing and like
+automatic responses and all that kind of
+stuff without GBT. So, not only was it
+totally impossible, but now we can get
+with two engineers like we can get, you
+know, the the amount done that would
+would have taken a team of like 20
+people.
+And I think that's, you know, that means
+that we need less money. And I don't
+think that VC has really caught up to
+that.
+yet. Um, and I think there are other
+companies that are doing there's like a
+term called like seedstropping. So,
+there are other companies that are like
+kind of starting to wake up to this too.
+And I'm curious about how it changes the
+VC model for sure. For us, like we have
+a specific like incubation model, which
+is a bit different from from a VC model.
+And I think um there's some
+differentiation in the stuff that that
+we can do with founders, which is kind
+of cool. But um yeah, we're we're I'm
+just trying to figure out like
+a shape that works for me and that's
+different from other people and we'll
+see how this goes.
+&gt;&gt; We'll revisit in a couple years.
+&gt;&gt; Yeah, seems like it's going great from
+the outside. I want to ask about a
+couple other things before we wrap up.
+One is around this consulting arm that
+you have. I think it's really
+interesting because like I said, I feel
+like this could be a billion dollar
+business. I feel like every company
+right now is trying to figure out what
+the hell what the hell's everyone else
+figured out that we're not doing. Uh
+I've had so many emails from chief
+product officers at companies being like
+can you introduce me to some chief
+product officers that have done cool
+things with AI that we should learn from
+like so many people all and I just
+introduce them to each other and it's
+cool because you guys are basically
+solving that problem for a lot of
+companies. So uh one is just maybe share
+a bit about what that side of the
+business for folks and then two I feel
+like you I imagine you've seen companies
+that have done this really well have
+adopted AI things have worked really
+well they found really good productivity
+gains and then you found companies that
+don't what do you find is the difference
+between those two I love this question
+um and I have a very specific opinion
+about this um so one yeah the consulting
+arm basically like we spend all of our
+time playing around with new models
+writing about them and building stuff
+with them and we have a big audience So
+naturally like we've gotten companies
+over time being like can you just come
+and teach us how to do this and so we
+started to do that. This is you know
+pretty nent. It's probably been over the
+last like 6 to9 months but like it's a
+pretty big business now. Um like it's
+our it's it'll probably double this
+year. Like last year we did about a
+million. Um maybe it'll be maybe it'll
+be more this year. We'll see. It depends
+on a couple we have a couple big
+contracts out so it might be way more
+than that. Um
+&gt;&gt; billion. I I predict a billion dollars
+in a few years. But yeah, basically
+people are like, can you come help us
+learn how to do this? So what we do is
+um we spend some time going and
+researching your organization. So we go
+in and try to understand like what is
+what are all the different teams doing?
+What are the repetitive tasks? Some of
+like some of the stuff we were talking
+about earlier. Um and then what we will
+do is uh first we present a little
+report tells you like here's everything
+that we found. Here's um not only that,
+but you have a chatbot where you can
+chat with all the interviews that we did
+and you can pull out your own insights.
+We have a whole dashboard where it shows
+you like here's here are the teams that
+are really into this. Here are the teams
+that are not. Here's like how much um uh
+how much leverage you might be able to
+get on different teams based on the
+interviews and based on the AI analysis.
+It's pretty cool. Um and this is like
+that's an app that I like vibe coded
+like over a weekend with Devon like a
+year ago and then um Alex runs the part
+of the consulting like has helped
+upgrade it. Um uh then what we do is we
+have a training curriculum. So we go in
+and train each team that and we
+customize it based on um the interviews
+that we do because one of the
+interesting things about AI is it's such
+a general purpose technology and I think
+people who work inside companies 10% of
+them are like I'm super curious about
+this. 10% are like I will never touch
+this and 80% are like if you tell me how
+to do it for my job I'll do it. And so
+we customize the training to be like
+here are the exact prompts you're going
+to use um and here's the exact
+situations you're going to use them. And
+that really I think helps drive the
+adoption. We spend four weeks with each
+team, an hour a week, that kind of
+thing. Um it seems to be really cool and
+then we'll often also after this go and
+build automations and do some of the AI
+operations stuff we were talking about
+earlier. Companies really like it. Um I
+think the we work with a lot of like big
+hedge funds and PE firms and um big
+companies all that kind of stuff. Um to
+your other to your your second question
+which is like what separates the good
+companies from the bad or the companies
+that end up adop adopting this. I think
+the the number one predictor is does the
+CEO use CHBT
+or insert your own chatbot. If the CEO
+is in it all the time being like this is
+the coolest thing everybody else is
+going to start doing it. If the CEO is
+like, I don't know, this is for someone
+else. Like, no one else is going to be
+able to lead that charge. Um, and
+they're either going to have uh either
+they're going to be negative on it and
+so definitely no one's going to do it or
+they're going to have way unrealistic
+expectations
+because they have no intuition for
+what's possible and they're just going
+to get really disappointed. But the CEOs
+that are using it all the time are able
+to like both drive the excitement and
+set reasonable expectations for what can
+be achieved. And so those things end up
+working really well. And the people that
+do this really well. So for example, we
+um we work with a hedge fund called
+Walleye, which I had the founder on my
+podcast AI and I um a few weeks ago.
+They're gigantic $10 billion hedge fund.
+Like one of the things that they do,
+which I think is I think they're
+basically the model for like how to do
+this.
+First thing he did, which a lot of CEOs
+are doing, is send the we're an AI first
+company email. Everyone's got the memo.
+You just got to really do it. And one of
+the things he said in his memo, which I
+love, is I wrote this I wrote this email
+with ChetT and you should too. So like
+you got to like
+&gt;&gt; in the memo
+&gt;&gt; you got to like lead from the front in
+that way. And then what he does and I
+think what a lot of other like really
+cool companies do is they're doing like
+weekly uh meetings where people share
+prompts and share use cases. They're
+doing um they do like a weekly email to
+their entire company being like, "Okay,
+here's our here's our usage. Here are
+our usage stats for CatchBT. Here are
+the here are the people that like um
+uh here are the people that came up with
+a new prompt and contributed to it."
+Like create this this sort of like
+awareness and momentum because what's
+going back to the point I made earlier
+about you know 10% of people are early
+adopters. Those are the people inside of
+a company that you need to find and
+highlight because they're going to just
+go spend all this time like figuring out
+what works and then all you have to do
+is like translate what they learn into
+the rest of the organization. And so if
+you create forums for them to be
+rewarded, you're going to automatically
+transfer a lot of their learnings to
+everybody else and encourage more of it.
+And I think that's kind of this the
+secret.
+&gt;&gt; That is awesome. I love this advice. So,
+just to reflect back what you just
+shared, a few kind of uh tactics you
+find that you encourage within
+companies. One is just send send this
+memo, the Toby memo. I don't know if
+that's the right way to describe it, who
+I think was first along these lines.
+Just we're AI first. It's going to be
+part of your performance review. It's
+going to be asking can you do it in AI
+before you could you talk to anyone
+else? All these things and then just
+note I help I wrote this using chat
+JBTs. It's a great idea. Uh this idea of
+a weekly meeting. So, it's like a live
+or Zoom meeting where people share,
+here's the thing I've learned about
+using AI. Uh, and then this weekly stats
+email of here's how much we're using
+Chatbt across the or here's some people
+that did some awesome work.
+&gt;&gt; Yeah,
+&gt;&gt; amazing. And I especially love this very
+simple heristic of if your CEO uses
+chatbt or cloud or whatever daily that
+you it's going to work out.
+&gt;&gt; Yeah,
+&gt;&gt; that is super cool. Uh, I know it's
+early, but what kind of impact have you
+seen from a company kind of leaning into
+this and adopting AI widely? Any
+anything you've seen either anecdotally
+or numbers wise?
+&gt;&gt; It's early. It's really hard to say
+other than um I think generally
+people who do this well now feel like
+they can do way more work than they used
+to without having to hire more people.
+Um, and so they're they're just they're
+just going further faster um at the same
+budget. I actually don't see, you know,
+I don't see a lot of people being like,
+"Cool, we're going to like fire a bunch
+of people." Like, also, I don't really
+want to do consulting like that. Like,
+that sucks. Um, but we've never had to
+say no. Um, mostly people are like,
+"Cool, I'm just going to go further with
+the with the people that I um that I
+have." I think also back to kind of the
+first point I made about reassuring
+American jobs. Um, I have seen some
+companies, not the ones that we worked
+with, but I have seen some companies of
+people that I'm friends with where
+they're like, "We have a call center
+somewhere." Um, but I think I can get
+the same amount done with like two
+employees in the US that have that use
+like one of these, you know, customer
+service platforms. Like they're still
+not totally automatic. Like I think that
+Clara CEO thing that was [&nbsp;__&nbsp;] Um
+uh but yeah, you can have a couple
+people in the US that maybe uh maybe you
+pay a little bit less to than you would
+for like 100 people somewhere else. And
+obviously, you know, those are that's a
+calculus that everyone has to make for
+themselves. But I've definitely seen
+that happen. And um
+yeah, I think I think that's that's the
+you get more done with the same amount
+of people. Maybe to close out our
+conversation, I want to come back to
+this idea that you referenced, but I
+want to spend a little more time on
+this, which is this idea of the
+allocation economy. Uh, if I understand
+it correctly, we've been in this
+knowledge economy where people get paid
+to do a thing. And your thesis is that
+we're moving to this allocation economy
+where skills become the manager skills
+become more important and we're going to
+be spending more of our time managing.
+And I think what's amazing about this is
+it also tells you which skills will
+matter more in the future, which is
+something I think a lot of people are
+thinking about. So, so maybe just answer
+that question and share whatever you
+think is important to share to give
+people sense of what you're thinking.
+&gt;&gt; Yeah. So, this is uh based on an article
+I wrote like two two and a half years
+ago. So, this is back before like
+agents were even like thought of as
+viable.
+Um, and I was like really trying to
+think about
+how do I express
+um what in my experience using this
+every day like what what skills are
+useful for me. Um because I think
+that'll be the case for for a lot of
+other people and I think that's that's
+the kind of the best method I think to
+do these sorts of predictions is you
+have to be doing it all the time
+yourself and then that informs your
+opinion about this stuff. So, um, what I
+noticed using at the time like GBD3 or
+maybe GBD4,
+um,
+was that I was spending a lot of time,
+uh, for example, thinking about how do I
+communicate the problem? How do I gather
+the right information for the problem?
+How do I put it in the right way so that
+the model that I'm working with gets it?
+How do I pick which model to give it to?
+And how do I maybe divide up the task to
+be like, "Okay, this model does this,
+this model does this." Um, based on what
+I know to be like what's good and what's
+bad? How do I give them feedback? Um,
+how do I have like a um a vision for
+what I want and a set of criteria for
+whether it's good? All that stuff is
+exactly how I found myself using these
+tools. And I was like, "Oh, that's just
+managing."
+And and once that like once that clicks
+for you, I think you'll start to see a
+lot of other things. So, a really good
+example is there's a big complaint that
+it's like, "Well,
+how can I have AI do this? Like, I can't
+trust that they're going to do it well,
+so I just I should just do it myself."
+And I'm just like, "Yeah, that's exactly
+what every first time manager says." You
+always have this problem where you're
+like, "Okay, if I delegate it, it's not
+done in the way that I want it to be
+done. If I do it myself, I get no
+leverage." And so that's how a manager
+has to learn how to be a manager is like
+when do I lean in and and maybe
+micromanage a little bit and when when
+can I delegate and how can I trust it
+and how do I divide up the task and all
+that kind of stuff and so I think
+there's a lot of overlap in those skills
+and um it just those skills are not
+broadly distributed right now um but
+they will be in the future because it
+will be so much cheaper to be a manager
+&gt;&gt; and specifically I was looking at the
+article you wrote the skills that you
+highlight will be more valuable table is
+evaluating talent, vision, taste, and to
+your point, when to get into the
+details, when it makes sense to dive in.
+&gt;&gt; Yeah.
+&gt;&gt; Awesome. And then there's also kind of a
+connected point you made that you
+referenced, which is that generalists
+will become more and more valuable in
+the future. You mentioned that everyone
+at every is a generalist.
+&gt;&gt; Yeah.
+&gt;&gt; Uh share a little bit about that.
+&gt;&gt; Yeah. I find I mean, maybe it's because
+I'm a generalist, so you should take
+this with a grain of salt.
+&gt;&gt; Same. But I think that's one of the
+things that has made AI so awesome for
+me is like I love to dabble in different
+things. So it's like in one day I can be
+like coding an app and like making a
+video and like making images and writing
+and like all that kind of stuff and Chad
+is right there with me. Um, and
+I think what we've basically what has
+happened as civilization has progressed
+from like ancient Greece to now is uh
+what we've discovered is the more that
+we specialize the the better we can
+coordinate across many different people.
+And so it's sort of it's like the Adam
+Smith, you know, like there's a pin
+factory and someone's making a pin or
+whatever his thing is is um
+specialization engment trade. And uh
+there have been a lot of really good
+impacts of that. And I think you can
+like one of my favorite examples of this
+is is back to like ancient Greece,
+ancient Athens. Um Athens is was a
+civilization of generalists at least for
+citizens. It was there's like they have
+some, you know, a bad history with women
+and people who are slaves. But like
+let's just put that to the side for a
+second. If you were a citizen
+generalist, you could you could be
+expected to be um a uh a fighter, uh a
+judge, a juror, um uh maybe a general.
+Like there's you could expect it to have
+um many different roles inside of your
+society um in your lifetime.
+That changed though because Athens
+became an empire and as it became an
+empire if you're going to send like a
+general off to like go and invade Sicily
+or whatever um you you want that person
+to be like pretty skilled and so it
+started to break the general kind of
+thing into people start to have specific
+roles and they coordinate with each
+other and all that kind of stuff. And I
+think that that pattern has actually
+been really good for developing
+civilization, but it's also in a lot of
+ways like it's not as fun. Um, it's
+actually really cool to be a
+well-rounded person. And I think the
+interesting thing about AI is that it's
+a little bit like you can think of it
+like having 10,000 PhDs in your pocket.
+It's like it knows so much about every
+little branch of human knowledge and
+every art form and every, you know, way
+of making things or building things and
+you just have access to that. So, it's
+doing a lot of the it's good for doing a
+lot of the specialized tasks that you
+might have had to spend like 10 years
+getting good at, you know, learning
+about this particular species of cicada,
+so you know exactly how they like, you
+know, reproduce. Um, but now you've got
+this thing in your pocket that can tell
+you all about that in any given context
+at any given time. And so, um, you're
+empowered to jump a lot more between all
+those different domains of skill. And uh
+and you can get more done as for example
+like a founder where um I think we can
+stay at 15 people much longer um than we
+would be able to. So the people inside
+of every can stay generalists for much
+longer. And I think that that may like
+sort of ripple out into the rest of the
+economy where instead of like gigantic
+massive corporations where like each
+person is doing like one little like
+button turning, you have many more
+smaller organizations with more
+generalists. And I think that would
+actually be a really good thing. This uh
+reminds me I was uh talking to my
+personal trainer that I'm trying out for
+a little bit and she said that she's a
+very big vision kind of high level
+person and not good at executing
+executing getting like we're staying
+organized and GPT is such a godsend for
+her because she's just like here's what
+I want to do roughly just help me get it
+done.
+&gt;&gt; That's great
+&gt;&gt; and so yeah and it really made me think
+about just how much value all this stuff
+is going to unlock.
+&gt;&gt; This was amazing. It was everything I
+wanted it to be. But with that we
+reached our very exciting lightning
+round. Dan, are you ready?
+&gt;&gt; I'm ready.
+&gt;&gt; Here we go. What are two or three books
+that you find yourself recommending most
+to other people?
+&gt;&gt; Well, I already recommended one, which
+is War in Peace.
+Um, definitely got to read that. Uh, if
+you want like a Tulsoy primer, I would
+read The Death The Death of Ivan Ilitch.
+Um, another good one is A Swim in a Pond
+in the Rain, which is by George
+Saunders. And that's a collection of
+Russian short stories that is also about
+writing. Um, and I I in particular I
+really like the Russians because they're
+a lot of the Russian novelists are
+dealing with the effects of technology
+on traditional Russian way of life. And
+they're very kind of in this really
+interesting um middle ground between a
+sort of romantic outlook on the world
+and a more rationalist like we're we're
+progress we're making progress. And
+that's one of the things you'll find in
+Anacrenina when um God what's the guys
+what Levvin is out in the fields with
+the peasants like doing the scythe thing
+like that's that's Toltoy like kind of
+like thinking about oh what would it be
+like instead of being a nobleman who's
+like trying to make make farms way more
+efficient I was just like with my scythe
+that was like really happy anyway. So
+they're dealing with a lot of similar
+stuff to I think AI. Um
+uh the master and his emissary is
+another really good one and that's about
+um basically how the different
+hemispheres of the brain uh view
+reality. It's really really good and I
+think it um I think it relates to a lot
+of AI stuff too. I think yeah I think I
+think those are my those are my three or
+four. Yeah.
+&gt;&gt; Excellent list. I think nobody's
+mentioned most uh either any of these so
+this is that's always a good sign. Uh,
+do you have a favorite recent movie or
+TV show you really enjoyed?
+&gt;&gt; Yes. Um, I really love Deadwood.
+Um, have you seen it?
+&gt;&gt; I absolutely love it. Uh, I remember
+when they stopped it for some reason. I
+think he had to go do something else at
+HBO. It was so sad. It was It's amazing.
+Uh,
+&gt;&gt; yeah. David Milch is incredible.
+National treasure, incredible writer.
+But what I what I really think what I
+really love about it and I only recently
+watched it is um
+&gt;&gt; he talks about Deadwood being about how
+order forms out of chaos. Um so it's
+this like frontier town. People are
+going to it and like there's no law,
+there's no rules and by like season 3
+there's like a mayor and like you know
+there all the industry has come in and
+it's like a real proper town and I just
+love that. And I think there's a lot of
+um there's a lot of parallels from the
+like the western frontier to technology
+frontiers. And so I think that show is
+like a really interesting study in that
+kind of dynamic.
+&gt;&gt; I love how everything connects to how
+tech works and how AI came to be. I I
+love this.
+&gt;&gt; Thank you.
+&gt;&gt; Uh do you have a favorite product you've
+recently discovered that you really
+love?
+&gt;&gt; I don't have a good answer for that
+because I just spent a lot of time using
+our internal products. Um, but I like my
+my stock answer is granola. Um, so I do
+I do really love granola. I my one gripe
+with them and I hope they listen to this
+podcast is I really want to export all
+my notes. I want API.
+&gt;&gt; Um, but other than that I think it's a
+fantastic product.
+&gt;&gt; That is definitely the most mentioned
+product in this segment for the past
+couple months. So yeah, Ketchup Granola.
+I can't help but mention you get a year
+free of granola if you become an annual
+subscriber of my newsletter. What a
+freaking deal. And not just you, but
+your whole company gets free granola for
+a year. What the what a deal.
+&gt;&gt; This is not a paid promotion uh by me. I
+just, you know, that's just what how I
+feel. So, I'm glad uh I'm glad it's part
+of the bundle.
+&gt;&gt; Yeah. Incredible. Okay. Do you have a
+favorite life motto that you often come
+back to find useful in work or in life?
+&gt;&gt; So, basically, like I used to be all and
+has memory. So, I was like, you know,
+I'm going on Lenny's podcast. What would
+my life motto be? And it said, your life
+motto is a witness deeply, build
+bravely. um you you prize slow attentive
+seeing whether it's reading Toltoy
+tracking meditation themes or X-raying a
+David Milch paragraph so like we're
+we're it's hitting all the stuff I just
+mentioned which is really funny um
+&gt;&gt; and then build bravely you turn those
+insights into concrete things like every
+and Kora and long form essays and and
+all that kind of stuff so I think
+there's I think there's something about
+that actually this reminds me this
+actually reminds me of the actual motto
+which is and I didn't come up with this
+I think it's like ply the younger um uh
+said um do things worth writing about
+and write things worth reading. Seems
+like a pretty good summation.
+&gt;&gt; Do things worth writing about and read
+things worth reading.
+&gt;&gt; Write things worth reading.
+&gt;&gt; Write things worth reading. That's
+that's should be the motto of both of
+our newsletters.
+&gt;&gt; That is really good. Okay. And by the
+way, I love that you asked Chad PT.
+What's my life motto?
+&gt;&gt; And wait, this is interesting. So, it
+didn't give me the answer, but inspired
+the answer. Yeah.
+&gt;&gt; And I think that's actually like exactly
+how I use it.
+&gt;&gt; Wow. It's an extension of our brains
+already.
+&gt;&gt; Yeah.
+&gt;&gt; Uh last question. I was uh reading
+somewhere where you wrote that you
+stopped writing at one point. You were
+just like I need to do other things. I
+need to build this company. And then you
+realized I need to get back to writing
+because things started going sideways.
+And I feel like this this such an
+interesting corlary to a lot of the
+stuff you talked about of do things that
+make you happy, stay close to joy. uh
+just share what happened there because
+because I didn't know that
+&gt;&gt; this is definitely not a lightning round
+thing. So I'm h I'm h I'll expound but
+I'll try to do it as quickly as
+possible.
+&gt;&gt; Perfect.
+&gt;&gt; Um I think generally when you're
+building a company even if you do it the
+way that I do it or did it which is you
+know you don't raise a lot of money and
+you try to you try to stay in control
+there's a big temptation to try to run
+the company in the way you think you
+should. And I have this weird thing
+where I'm like, I really love writing,
+but I also really love business. And
+there just was there were not a lot of
+models for me
+um of people who had successful
+businesses that that were also writers.
+Turns out there are um but I didn't know
+about that for a while. And so, you
+know, early on at every like we were it
+was growing really well because I was
+writing a lot, Nathan was writing a lot.
+Um, and when I stopped writing, uh, the
+business didn't work as well because
+media businesses don't follow the same
+pattern as tech startups because if
+you're a media business and you are a
+founder who then hires people to make
+the product, which is right, if you have
+product market fit before, you lose it.
+Um, and maybe you hire people that are
+good writers, but that's hard. Um, it's
+total opposite pattern for startups. You
+build the first version of the product
+and then you hire people to build the
+rest of it. and you know so that's what
+I did. Um and I also really struggled
+with okay what are the implications for
+that and for my career and
+um and I think it was hard for me to
+admit like I actually want to write
+because I just didn't have any examples
+of someone being the kind of writer that
+I wanted to be. And what's really
+interesting is like three years into the
+business like the business has been
+pretty flat. I was like pretty miserable
+because I was like not doing the thing
+that I really wanted to do. And I asked
+Chet, I was like, "Is there are there
+any examples of writers that have built
+businesses?" And it was like, "Yeah, uh
+Joel Spolski, who built Trello and Stack
+Overflow. Um there's uh Jason Frerieded
+uh who I've known for a long time and I'
+have always always looked up to but I
+forgot about in this context. There is
+um Sam Harris who's got a great podcast
+and he's got a gigantic meditation app."
+Um there is um Bill Simmons who's like
+incredible podcaster and also built the
+ringer, sold Spotify for a couple
+hundred million bucks. Like there's a
+lot of these people and there are
+patterns that they use to build
+companies that are pretty well
+understood. They're just not typical
+Silicon Valley patterns. And so I was
+like cool like I just want to be a
+writer. I think it would be really fun.
+And so I sort of flipped I still have
+the builder, entrepreneur, founder part
+of my identity, but I sort of flipped it
+to be like writing is at the center and
+I'm like unapologetic about it. Um, and
+that's actually good for the business.
+It's good for me and it's good for the
+business. And the more I've leaned into
+that, doing the thing that like if you
+told anyone that you were starting a
+business where it's like, well, we're
+going to be a newsletter and we're going
+to incubate all these apps and we're
+going to do consulting and whatever,
+they would be like, you're nuts. Like
+everyone wants to do that. Of course,
+every founder wants to do that, but like
+you you have to focus. You have to like
+you can't write like whatever. But every
+time I've kind of just leaned into um
+something that feels like the most the
+ultimate luxury of like my my hidden
+secret desire, it's actually worked a
+lot better. And um I think you end up
+what what it really is is there's a huge
+tax to doing something every day that
+you're not quite you don't quite like
+that much or you're not quite a fit for.
+And by sort of giving into that those
+secret desires, you end up finding a
+shape for the work that you do and the
+business that you build that is good for
+you. And that's always going to be a
+somewhat unique shape from other
+businesses that have been built. There's
+it's always going to rhyme with other
+things, but I think finding that unique
+shape instead of just kind of cargo
+culting like what you think a company
+should look like is definitely a much
+better way to be successful and it's
+also a much better way to live. I think
+this is going to hit hard with a lot of
+people who are listening who are maybe
+founders or want to be founders and this
+resonates with a lot of people that have
+been on this podcast sharing similar
+lessons. Dan, this was incredible. Two
+final questions. Where can folks check
+out Every find you online and how can
+listeners be useful to you? So, you can
+find us at every.to. Uh I'm also on
+Twitter at DanShipper. Um, you can uh go
+there to check out our uh our uh our our
+products, our newsletter if you want to
+stay on top of AI, all that kind of
+stuff. I also have a podcast. It's
+called AI and Die. You can find it on
+YouTube and on Spotify. Um, and how can
+people be useful? Honestly, I think the
+the most useful thing um for someone
+like me based on what I want to do is
+like I want people to find interesting
+cool ways to use AI that like actually
+helps their make their lives better. So
+like just go do that and tell me about
+it. Um, and I think that'll be great.
+Um,
+&gt;&gt; what's the best way to tell you? Is it,
+uh, comments on your YouTube show? Is it
+emailing you, DM you?
+&gt;&gt; Uh, I would say, uh, tweet me. Um, uh,
+you, if you subscribe to every, you can
+also reply to those emails and they they
+eventually get forwarded to me. Um,
+&gt;&gt; so tweet me, reply reply to every. Um,
+and if you want to comment on YouTube,
+great. Um, I'm not in the YouTube
+comment comments as much as I should be.
+&gt;&gt; Don't do that. Maybe don't do that. Um,
+okay. Well, Dan, this was incredible.
+Thank you so much for sharing. Thanks
+for being here.
+&gt;&gt; Thanks for having me.
+&gt;&gt; Bye everyone.
+&gt;&gt; Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

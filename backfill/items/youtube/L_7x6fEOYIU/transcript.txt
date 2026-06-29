@@ -1,0 +1,744 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the OLOTS podcast. I'm Tracy Aloway
+&gt;&gt; and I'm Joe Weisenthal.
+&gt;&gt; Joe, another day, another emergency
+episode. I mean, we're back to emergency
+episodes, and this is obviously one of
+the big ones.
+&gt;&gt; Yeah. So, we are recording this on
+August 26th, and we had news overnight
+that President Donald Trump intends to
+fire Lisa Cook from the Federal Reserve
+Board. Obviously, this feeds right into
+the debate over central bank
+independence and what the president
+actually has a right to do when it comes
+to hiring and firing. And uh the market
+reaction this morning, gold up a bit,
+the dollar down, but what's really
+interesting is we have yields at the
+long end of the Treasury market picking
+up, which would suggest there's more of
+a risk premium being built into that
+market.
+&gt;&gt; No, totally. The concerns over Fed
+independence sort of cast a whole shadow
+of the recent Jackson Hole event. And of
+course, okay, so we're recording this
+August 26th. this morning an episode
+with Adam Posen which was sort of about
+this surreal experience there where
+everybody knew that the threats to
+central bank independence were the
+number one story in monetary policy and
+yet no one was really talking about it.
+Maybe people are trying to lay low
+trying to act business as usual and then
+we get this and so what was something
+that maybe people hoped to imagine a way
+or sort of not you know look at the
+other direction is now right here. Well,
+we also had Trump tweeting that he
+wanted to fire Lisa Cook while Pal was
+giving his speech, which definitely
+underscores the tone of Jackson Hole
+recently. Okay, so there's clearly a lot
+to talk about, including whether or not
+Trump can actually do this from a legal
+perspective. And I am glad to say we
+have the perfect guest, someone we have
+spoken to before on this exact topic of
+central bank independence. We're going
+to be speaking with Lev Manand,
+professor at Columbia Law School and
+also the author of The Fed Unbound. Lev,
+thanks so much for coming on the show
+again.
+&gt;&gt; Thanks for having me back.
+&gt;&gt; So, I'm going to start with a very
+simple question. Is there any precedent
+in history for a president firing
+someone from the Federal Reserve Board
+in this way?
+&gt;&gt; No. There have been no firings of
+members of the Fed board by the
+president since the Fed board was first
+created by Congress in 1913. And there
+haven't been any attempts by presidents
+to remove any officers of the United
+States for cause in over a century. And
+so we're in unchartered waters here in a
+number of different respects. We're
+going to get into the ostensible reasons
+for the firing obviously, but as
+lawyers,
+what does for cause mean?
+So for cause, one of the legal questions
+here is what constitutes cause under the
+statute? And in federal law, in
+independent agency law, usually Congress
+specifies the causes. And there are
+three common ones. Inefficiency, neglect
+of duty, and malfeasance in office.
+These are the classic causes. The
+Federal Reserve Act is unusual for not
+specifying specific causes but saying
+simply for cause. So one issue here is
+is it just the standard causes or do
+other things count? And that's really
+important because the standard causes
+all have to do with your conduct in
+carrying out your job. Malfeasants in
+office as opposed to malfeasants out of
+office. there was an intent by Congress
+not to include private misconduct as a
+ground for presidential removal from
+office. And so one question here is
+whether private misconduct even counts.
+I think something that's very clear we
+should just say upfront allegations of
+private misconduct definitely don't
+count. That does not come within the
+statute and that's one of the reasons
+this
+&gt;&gt; why
+&gt;&gt; because of all the due process concerns
+that are associated. Um, right. An
+allegation isn't sufficient for a
+removal for cause because for cause
+requires a determination that misconduct
+took place. An allegation isn't
+sufficient for a determination. You
+know, an allegation is totally
+sufficient to fire the secretary of the
+treasury because that person serves at
+the pleasure of the president. And the
+president can say, I fired the secretary
+because the secretary there are
+allegations that the secretary engage in
+misconduct. That's totally sufficient.
+But Lisa Cook is not an official that
+serves at the pleasure of the president.
+Lisa Cook is closer to being a federal
+judge, an official who has a tenure in
+office, a vested legal right to serve in
+their position. And to take that away,
+the president has to follow a process
+and have a ground and make a conclusion.
+And none of that has happened here,
+which is another reason that this is an
+illegal firing. So just before we go any
+further, give us a recap of the
+accusations against Lisa Cook because as
+you point out, they feed into the debate
+over whether this could count as
+malfeasants, particularly in office.
+&gt;&gt; Yeah. Okay. So I will do that. I just
+think we should note at the sort of at
+the top that there's a way in which
+while this is about Lisa Cook, it's also
+not about Lisa Cook at all. This is
+about J Pal. This is about the rest of
+the board. This is about the president's
+determination to subordinate one of the
+most powerful parts of the government as
+part of a larger campaign to control as
+much of the government as possible. And
+the move against Cook is a preview of
+coming events for other board members if
+in fact the firing is able to take
+effect. Okay. So what is the specific
+case against Cook? It has to do with two
+mortgages that she took out before she
+became a governor of the Federal
+Reserve. And so it appears as though the
+administration has been digging around
+in mortgage records and they found I
+don't know whether they were looking at
+Lisa Cook in particular or government
+officials. They found that Lisa Cook had
+two mortgage applications, both of which
+claimed that she intended to make the
+property that was collateral for the
+loan her primary residence. And so the
+allegation is that this is mortgage
+fraud. Of course, fraud requires an
+intent. And so on its face, just the two
+documents is not sufficient to convict
+somebody of a crime. nor can you be sort
+of convicted of a crime, you know, on
+the Twitter sphere. The ordinary way in
+which it would get worked out whether
+there was fraud here is there would be a
+private government investigation by
+prosecutors, they could get an
+indictment, etc. None of that has
+happened, right? This is guilty until
+proven innocent. And it doesn't seem to
+even be the goal of the administration
+to to run a proper proceeding to
+determine whether this private
+misconduct took place. The point is to
+point to this private misconduct and
+say, "Now I can fire you from the
+Federal Reserve." And that's where
+there's just a big disconnect because
+allegations of private misconduct,
+there's just no precedent that supports
+a removal for cause from a government
+position on that basis. And the
+president has pointed to none and the
+white house has pointed to none. Mostly
+what they're pointing to and what this
+is going to ultimately be a case about
+is their inherent constitutional
+authority as president, which is what
+the court has allowed the president to
+invoke in a number of other instances to
+ignore statutes, to ignore law, and to
+trample on people's rights. And so
+that's going to that's part of why also
+this is a big case because this is not
+just a big case for the Federal Reserve.
+It's also just a big case for the rule
+of law in our system and the extent to
+which we are a government of laws and
+not of people.
+&gt;&gt; These are extremely important things
+that we have to get across. What happens
+now in terms of like the questions
+because she's going to fight it. I
+believe her lawyers put out a statement
+last night. What's your understanding of
+how things could play out in terms of
+like even her going to her office at the
+building and being included in meetings
+because these processes take time if
+it's going to go to the Supreme Court.
+Yeah, this is a very messy moment. And
+so the initial clarification will come
+from the courts because presumably Lisa
+Cook's lawyers will seek a preliminary
+injunction reinstating her from federal
+district court in the same way that Gwyn
+Wilcox at the NLRB did that Bedoya at
+the FTC did when they were removed
+earlier this year. Right? So, we know
+how that process kind of works, but
+there's this period of time between when
+the president tries to fire someone who
+is statutoily protected from being fired
+by the president and the federal courts
+make a decision about whether that
+person's going to get to continue to
+work in their job while the litigation
+is going on where who knows. So right
+now to your question, the Federal
+Reserve Board and Jay Powell as the
+active executive officer of the board is
+in a difficult position where they have
+to decide does she still have her office
+and they're under an independent
+obligation to follow the law, right?
+They don't get to just say the president
+told me so. They swore to uphold the
+law. So, they have to make their own
+determination about whether she was in
+fact fired by a social media post,
+right? That didn't follow any of the
+proper process. And it's an invalid
+firing on its face. And under existing
+law, it doesn't have any legal effect.
+Maybe Supreme Court's going to change
+the law like they've done before, but I
+think Pal here
+&gt;&gt; has to let her in the building. And
+that's going to create a separate
+showdown between the board, its lawyers,
+J. pal as active executive officer of
+the board and the president.
+&gt;&gt; That's interesting. So there's two
+parallel legal arguments going on. One
+at the Fed and one in the court system.
+Just going back to the court system for
+a second, we have of course had firings
+at other agencies this year. And as part
+of those, the Supreme Court basically
+carved out an exception for the Fed
+saying that I think it's uniquely
+structured. And
+&gt;&gt; it's different because it's different.
+&gt;&gt; It's different because it's different.
+as we said. So,
+&gt;&gt; yeah, there's a carveout. Would that
+come into play here or could they just
+cancel the carveout?
+&gt;&gt; So, the carveout isn't direct to this
+issue.
+&gt;&gt; Okay.
+&gt;&gt; So, there are these other independent
+agencies just like the Fed, Federal
+Trade Commission, SEC, National Labor
+Relations Board, and they all say that
+people have tenure in office for a term
+of years, and the president can only
+remove for cause. And we were talking
+about how usually those causes are
+specified. What the president did
+earlier this year is say, "I don't need
+to follow that statute. I don't have any
+cause to remove you. I'm just going to
+remove you as if you serve at pleasure
+because under the Constitution, I can do
+that." And that case went after the
+Supreme Court. And that's what you're
+referring to. And that case is called
+Will Cox. And in May, the court said,
+"Yeah, you're probably going to win on
+that, president, because we're into this
+theory of your inherent powers that's
+pretty much unmed from the American
+legal tradition, but we're going to
+probably endorse it when we get this
+case on the merits next year." And so,
+in the meantime, all these people are
+out of jobs. And then they said out of
+nowhere, because the case doesn't
+involve the Federal Reserve at all, they
+say, "Oh, by the way, just in case
+anybody's like watching who's wondering
+like, can I fire people at the Federal
+Reserve? We think the Federal Reserve
+probably is a different situation, but
+that's with respect to whether the cause
+language is binding on the president.
+And so the president read that
+&gt;&gt; this is actually all downstream of the
+Will Cox order from the court because
+the White House lawyer said, "Okay, now
+we're going to go out and try to find
+causes that we can sort of manufacture,
+cook up, and push the envelope on this
+legal provision." And so the court
+didn't protect the Federal Reserve from
+this in Willox. It in some sense invited
+the White House to try this. And so now
+the ca this case will go back to the
+Supreme Court presumably. And the
+Supreme Court will have to say does this
+for cause thing is it for real or is it
+just a paper requirement? Is it just
+proforma? because the president is
+treating it like it's nothing more than
+putting out a press release alongside
+the removal, which is definitely not how
+Congress understood it when they wrote
+the Federal Reserve Act or how this was
+litigated in the past when this was a
+bigger issue in American government.
+This is really important clarification
+that when Trump fired some of those
+other people, they were trying to
+establish the notion that these sort of
+so-called like independent agencies were
+actually just constitutionally
+illegitimate. Right. There was a
+specific point there.
+&gt;&gt; Exactly.
+&gt;&gt; And so there was no pretext for invoking
+the cause because that wasn't the goal.
+The goal was to establish their
+illegitimacy, not to necessarily change
+the partisan makeup per se, though maybe
+that was uh the case. In the case of the
+Fed,
+I mean, you say that this firing was
+downstream from the Willox decision, but
+was it I mean, the for cause ability has
+never like the idea that you could fire
+for cause has always been there, right?
+Like they didn't need the carveout from
+Will Cox to fire someone for cause, even
+if even if we dispute that this actually
+rises to that level. Yeah, I think this
+is a great question and it's come up a
+few times in conversations that I've
+had. I think the thing to understand
+about the Will Cox order is how radical
+it was for the Supreme Court to say that
+this bedrock precedent on which the US
+government is designed
+is probably invalid and therefore the
+president can fire all these people
+don't don't get to work while they
+litigate their cases. They're out of
+their jobs. And so the court in Willox
+embraced such a broad conception of the
+presidency
+in such a sort of unorthodox
+unmed fashion that the main signal from
+that isn't that the Fed is protected but
+it's that this court is going to bend
+over backwards for very broad conception
+of the president's power. And so when
+you read that as a lawyer for the
+president, what you think is, okay, they
+don't want to be tagged with concluding
+that central bank independence is on its
+face legally invalid in the United
+States, but they also are going to let
+us do what we want. And so the thing to
+do is to now push on this for cause and
+act like it's not actually a very
+rigorous bar and we'll get what we want
+because it was so surprising that they
+got what they want with respect to the
+FTC and the NLRB. And so there's this
+sense that people had after Will Cox,
+oh, the court is protecting the Fed. But
+the real message in Willox that overrode
+that sense of protection is the court's
+going to come up with reasons when push
+comes to shove not to pen in the
+president.
+[Music]
+Why do you think the Trump
+administration wants to exert control
+over the Federal Reserve? Because, you
+know, we just had a speech from Jerome
+Pal at Jackson Hole where he opened the
+door to interest rate cuts in September.
+So, it would seem things are sort of
+heading in the direction that Trump
+wants even though I will point out
+there's a tension there because he says
+the economy is great, but also he wants
+rate cuts. Why is this important to him?
+So the Federal Reserve is the most
+powerful agency in the federal
+government and alongside the Supreme
+Court and the White House, those are the
+three most powerful government bodies in
+the United States in 2025.
+And the Fed's power has expanded
+dramatically since the 2008 financial
+crisis. and it has turned its balance
+sheet into an active policy tool. And
+that means that it is a very shiny prize
+for a president that does not want to
+have to go to Congress for
+appropriations to carry out various
+policies. Here you have an infinitely
+extensible balance sheet. Now, it's
+meant to be used to ensure stable
+monetary expansion over time, but what
+we've seen is it can be put to other
+uses. I think some of those are legally
+questionable, but you can imagine a
+president who doesn't believe in
+following laws, believes in inherent
+executive authority with control over an
+infinitely extensible central bank
+balance sheet,
+can do all sorts of different stuff. So
+this is a very shiny prize even beyond
+interest rate policy. I I think I
+wouldn't underemphasize the interest
+rate policy component. Yes, Trump wants
+lower rates and there's a indication
+that rates will be lowered at the next
+meeting, but not by the amount Trump is
+demanding.
+&gt;&gt; Trump wants to run a boom economy,
+overheated economy. And in order to do
+that, he wants to create very easy
+credit conditions and loose monetary
+policy and monetary expansion. And the
+Fed is not going to do that on its own.
+He's going to have to take over the
+institution if he wants them to do that.
+The whole institution is designed not to
+engage in such a boom and bust type of
+macroeconomic management. And that's
+actively what he wants and I think what
+we will get and the markets are only
+very slowly waking up to that. M
+&gt;&gt; yeah it it does seem well I mean who
+knows I mean you look at some of the the
+way asset prices are flying maybe the
+market is clued to
+&gt;&gt; maybe the market is clued in yes because
+the way this goes is we get asset bubble
+right we get a lot of leverage in the
+financial system because we deregulate
+bank balance sheets and we lower
+short-term interest rates that's going
+to lead to lots of credit expansion and
+that's going to be an inflationary boom
+the reason why we don't run the economy
+like that normally is it ends in tears
+Um, there's going to be a bust later,
+but you know, as I believe it was Chuck
+Prince once said, when the music is
+playing, keep dancing.
+&gt;&gt; Maybe the uh the bust will be four years
+later, right? And Trump won't
+necessarily care if he's out of the
+presidency.
+&gt;&gt; It could certainly go for years. You
+know, we've seen irrationally exuberant
+markets led by actual underlying
+structural credit expansion fuel bubbles
+for for a long period of time. By the
+way, I think if I were like a banker or
+a lender or a professional trader, I
+would know. I would get out right at the
+top. I just have that feeling that I
+could do it. It's like, let's keep it
+going. And
+&gt;&gt; why doesn't everyone do that?
+&gt;&gt; I know it's a I know it's a bubble or
+boom, but I just have this feeling that
+I would be able to time the top.
+&gt;&gt; It's the OddLots podcast. That's how you
+know that's where you get your special
+insight. Could the question of whether
+Powell and like again, you know, who
+knows what's going to happen today? Uh,
+let Cook back into the building. Could
+that be a pretext for an attack on Paulo
+himself?
+&gt;&gt; Absolutely. I mean, I think that this
+president or the White House more
+generally has floated any number of
+possible sort of constructed cases to
+remove officials. And so they obviously
+floated the renovations, but a failure
+to follow a presidential order.
+Everything the president says is not
+law. This is a common misconception. But
+this president thinks it is law. And so
+it would be easy to for the president to
+say this is law.
+&gt;&gt; But you know, I'm sure these are the
+types of things that people debate
+forever in law school. And every time I
+talk to lawyers, I'm reminded it's like
+all law is just what people agree is law
+at any given moment, right? Including
+the most anything can be re anything
+could be reinterpreted. Anything can be
+contrived. Anything can be turned into a
+loophole. Like at the end like the only
+thing Butcherson written laws is some
+sort of stomach to enforce them, right?
+Yes. Law is a social coordinating
+mechanism and in order for it to work,
+we have to have the shared understanding
+and follow it. And that's why things
+like this have such high stakes because
+when a government actor flagrantly
+violates what the prior understanding
+is, it sort of tears at the fabric of
+law as a consensus building mechanism.
+By the way, 11:26 uh headline just
+flashing through the terminal. Lawyer
+for Fence Cook says she will file
+lawsuit challenging firing. So that's
+confirmed.
+&gt;&gt; Clearly still a live issue. Just to
+recap, I just want someone to lay out
+this argument very clearly and you tend
+to do that, Lev. Uh you tend to do it
+very well. So
+&gt;&gt; why is central bank independence
+important?
+This is a big question that could
+probably support an entire episode and I
+think you guys have we have explored
+this at other times and you've explored
+it with some other guests. I saw your
+episode with Corolla Binder. Central
+bank independence is important for the
+reasons that the economists put forward
+which have to do with credibility and
+long-term decisionm being best furthered
+by special purpose officials. Right? You
+don't want to overload people with
+competing priorities. You're going to
+get less quality policy. And so that's
+why you have a 14-year term of office
+here because we want Fed officials
+making long-term decisions. We don't
+want short-term decisions about changes
+in the money supply. And so all of
+that's true. There's a time
+inconsistency problem. This is a
+long-term policym domain. But I actually
+think right now it's important to
+emphasize something that's not actually
+a big part or really any part of the
+economics literature and that has to do
+with the separation of powers and
+democracy. And you don't want to
+concentrate too much power in a
+government in any one person. And that's
+actually a foundational idea in the
+American constitutional system. Arguably
+the founders went too far in separating
+powers. They made it very difficult for
+the government to do stuff. And what's
+happened here is we've concentrated
+power in the president in a way that
+would have all of the framers of the
+constitution rolling in their graves and
+to allow the executive to control the
+money supply. That's literally an issue
+that led to the glorious revolution in
+1688. It's one of the key concerns of
+the founders is to separate control of
+the money supply from the executive. And
+so central bank independence is also
+about good government and preventing
+tyranny. And Alexander Hamilton said
+this in his report on a national bank.
+And so it's not just about having
+optimal long-term monetary policy. It's
+also about preventing one person from
+controlling way too much. You know, for
+the maybe the last 15 years or maybe
+from 2010 through 20 through co there
+was like a left critique of central bank
+independence but it was very you know it
+seemed to be very focused on this idea
+that the central bank by having this
+like you know a was just not
+democratically accountable that it was
+accountable to the interests of money
+holders to not lose the value of their
+money that that was constraining the
+rebound of labor etc. Are those
+critiques suddenly vanishing because it
+feels more important to make the
+argument that you're making?
+&gt;&gt; So, I always felt those critiques were
+part right and part wrong.
+&gt;&gt; Okay.
+&gt;&gt; And the part that was right is that the
+central bank in the United States was
+structured in a way that made it too
+responsive to financial interests and
+not responsive enough to the Congress
+and to the American people's interest.
+and that led to an excessively tight
+monetary policy over an extended period
+of time. But the solution to that is not
+to have a Federal Reserve under the
+control of the White House. That is not
+a solution to an insufficiently
+democratic monetary policy. The solution
+is to change the structure of the
+Federal Reserve system and who
+influences those officials. And that
+means increasing the influence of
+Congress. It might mean increasing
+opportunities for judicial review.
+There's almost no judicial review of the
+Fed. It might mean removing the bankers
+from the boards of the regional Federal
+Reserve banks. It might mean changing
+the Fed's responsibilities and the
+statutory scheme that it's executing.
+There are all sorts of ways to create an
+administrative agency that is more
+responsive to democratic interests
+besides putting it under the president.
+and actually putting an agency under the
+president. We have actually a bunch of
+experience with what that looks like and
+that makes most policy as a general
+matter more favorable to wealthy
+business interests. And so there's
+definitely a valid critique that central
+bank independence as we knew it as
+central banks were constructed led to a
+bias in central bank policy towards
+certain interests. But the solution to
+that problem isn't let's bring in the
+president that will make the central
+bank policy more appealing and
+appropriate.
+&gt;&gt; Levand, thank you so much for coming
+back on OddLotss for yet another central
+bank independence episode. Appreciate
+it.
+&gt;&gt; Thank you for having me.
+[Music]
+Joe, always good to get Levan. I feel
+like he explains the issue very, very
+clearly. I guess we'll see what happens
+both in the court system and also within
+the Fed itself because I thought it was
+really interesting this idea of like two
+parallel legal tracks here where the Fed
+is obligated to also follow the law and
+so they need to figure out for
+themselves whether or not the firing is
+legal.
+&gt;&gt; Absolutely. I mean this is very serious
+like sort of high stakes immediate stuff
+that there are questions that are not
+easily resolved by the time they uh get
+to the Supreme Court. I also just found
+his argument very like persuasive that
+like an allegation is not cause right
+like setting aside like you know what
+constitutes cause and maybe that is
+ambiguous in this particular case etc.
+All we have is an allegation,
+&gt;&gt; right? There's supposed to be due
+process to figure out whether or not the
+allegation is in fact true. Also, an
+allegation that didn't actually happen
+while Lisa Cook was in office, which
+also plays into that malfeasance
+argument.
+&gt;&gt; I'm guessing we'll have plenty more to
+talk about on this topic in the future.
+So, uh, shall we leave it there for now?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the Odd
+Thoughts podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway
+&gt;&gt; and I'm Joe Weisenth. You can follow me
+at the stalwart. Follow our guest Lev
+Manand. He's Lev Manand. Follow our
+producers Kerman Rodriguez at Kerman
+Arman Dash Bennett at Dashbot and
+Kalebrooks at Kalebrooks. For more
+OddLots content, go to
+bloomberg.com/odlots
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+all of these topics 24/7 in our Discord,
+discord.gg/odlots.
+&gt;&gt; And enjoy OddLots. If you like it when
+we do these emergency episodes, then
+please leave us a positive review on
+your favorite podcast platform. And
+remember, if you are a Bloomberg
+subscriber, you can listen to all of our
+episodes absolutely adree. All you need
+to do is find the Bloomberg channel on
+Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+[Music]
+Hey.
+[Music]

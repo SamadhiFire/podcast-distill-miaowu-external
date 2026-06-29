@@ -1,0 +1,1039 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the Odd Thoughts podcast. I'm Tracy
+Aloway
+&gt;&gt; and I'm Joe Weisenthal.
+&gt;&gt; Joe, you know what's been missing in my
+life?
+&gt;&gt; Go on. Chickens. Oh yes, actually
+chickens still missing in my life, but
+also a comprehensive series of
+historical firewood prices in the US for
+the past 300 years.
+&gt;&gt; You know what I we have data on
+literally every other commodity in the
+world, but I don't have a 300year time
+series on firewood prices. And I always
+feel like if I just had that number,
+then I would have the complete picture
+of commodities. Well, I know we're sort
+of joking, but this is actually
+important because if you think about the
+US in the 1700s or the 1800s, people
+used firewood. The vast majority of
+America's energy consumption came from
+wood.
+&gt;&gt; Wait, do you remember a couple months
+ago when I was that guy who brought up
+wages of destruction in every chat?
+&gt;&gt; Are you going to do it again?
+&gt;&gt; No.
+&gt;&gt; Oh, well, you just did.
+&gt;&gt; No. Now I'm going to be the guy who
+brings up Moby Dick in every
+conversation because I've been reading
+Moby Dick and so I'm really interested
+in energy transitions in the 1800s
+because one of the things that uh you
+know has come up in some of our past
+conversations such as with Bob Brackett
+etc. Whale oil is basically the only
+energy source that we've completely
+eliminated. Every other historical
+energy source that we've had we still
+using it to some degree. They never
+totally disappear. And so I'm very
+interested in the phenomenon of like
+past historical energy transitions.
+People talk about the transition now,
+but it's interesting to sort of examine
+other periods when one form of fossil
+fuel or other fuel like went out of
+style, so to speak, or became
+uneconomical.
+&gt;&gt; Well, I have to say as the uh proud
+owner of a wood burning stove now and
+formerly a coal burning stove,
+&gt;&gt; you're interested in energy transition,
+too.
+&gt;&gt; Absolutely. So I am very pleased to say
+that we have the perfect guest. We are
+going to be speaking with the author of
+a paper that's called firewood in the
+American economy 1700 to 2010 and it is
+all about collecting historical data on
+firewood prices and then figuring out
+how that fits into the wider economy and
+measures of other things like output and
+productivity and things like that. So we
+have Nicholas Mueller. is the Lester and
+Judith Leave Professor of Economics,
+Engineering, and Public Policy over at
+Carnegie Melon. So, Nick, welcome to the
+show.
+&gt;&gt; Thank you so much. It's a pleasure to be
+here.
+&gt;&gt; Why don't I start out with why firewood?
+Um, and I know I mentioned that firewood
+was the majority of US energy
+consumption for many, many years. Is it
+right to think of it sort of as like oil
+the 1800's equivalent of oil powering
+the entire economy?
+&gt;&gt; Yeah. So there are two reasons why I
+focused on this particular topic in a
+paper. one, as you said, somewhere
+around or before the Civil War back
+before the American Revolution or the
+founding of the country, essentially all
+the energy in the US economy, whether it
+was in households or firms doing
+primitive things, it was all coming from
+firewood. And so the fact that the
+academic literature and government
+statistics didn't really have a
+reasonably comprehensive time series of
+these prices seemed like a really big
+gap to me. And so that was one reason to
+just set out filling that knowledge gap.
+The other was prior to being at Carnegie
+Melon, I taught at Mbury College in
+Vermont. And my wife and kids and I used
+to get heat from firewood in a wood
+stove. And so you participate in these
+informal markets for firewood even
+today. And it got me thinking about what
+that must have been like long ago. And
+sure enough, it turned out to be a
+pretty interesting process to gather
+these prices.
+&gt;&gt; I never thought of going to Lowe's to
+buy a bundle of firewood as
+participating in an informal market. I
+guess it is formalized nowadays, but
+certainly if you're a professor, that's
+probably how you're thinking about it. I
+used to live in Vermont and I I
+remember, you know, it was not that
+uncommon for people to buy a cord of
+firewood or however much they
+anticipated needing for the winter to
+heat their homes, etc. So, I get the
+idea that like, okay, fire was this
+dominant source of energy for a long
+time in the American economy? What are
+we gained by actually having the
+numbers? Like, okay, we know it. We know
+the fact about firewood's existence and
+prominence. What does it help us now and
+we'll get into the details but what does
+it help us now to actually have some
+sense of the size and scale?
+&gt;&gt; Yeah. So I think two primary reasons.
+One when we look at existing prior to
+this paper existing estimates of the
+early American economy and gross
+domestic product. It had very very
+sparse information on firewood prices
+and they turn out to be really low
+compared to the the prices I gathered.
+And so what that means is even with the
+same estimates of how much wood was
+consumed, those existing estimates of
+GDP that included that measure were
+really low in that regard. So the energy
+cost of economic growth using existing
+estimates looked much much lower than
+what these updated numbers suggest. So
+size of the economy two growth in the
+economy over time especially during the
+early to mid 1800s appears to be
+different when you use the updated
+series. And then three when you consider
+that the bulk of firewood was produced
+in the agricultural sector often in an
+informal way meaning just home
+production. But even when you think
+about the wood that was hauled into some
+of our newly forming cities, that was
+really all coming from agriculture. And
+that means that when we think about
+existing measures of agricultural
+productivity that included the sort of
+things you would expect, livestock and
+crops and the like, it was really
+missing this important energy commodity
+which was actually being attributed or
+should be attributed to that sector. And
+so agricultural productivity during this
+period would have been mismeasured as
+well.
+&gt;&gt; So you mentioned the data gap and how
+significant this would be for you know
+measuring something like the growth of
+the US economy in those years. I have to
+imagine one of the difficulties in
+gathering the data for something like
+this is because firewood is or was still
+is an informal market as you pointed
+out. And I know I joked earlier that
+firewood was like the oil equivalent of
+the 19th century, but of course the big
+difference is not everyone has an oil
+gusher in their backyard or refinery.
+people in the 1800s could just go out
+into their land and chop down firewood.
+So in some respect they weren't even
+paying any prices for it. So I guess my
+question is why didn't the data exist
+before? And then how did you actually go
+about gathering it?
+&gt;&gt; Sure. So the critical process that
+enabled the prices and the price data
+and the the records of advertisements
+and exchange to start showing up in a
+systematic way was urbanization.
+&gt;&gt; What ended up happening which you know
+this is well known in in US economic
+history somewhere between the American
+Revolution and the Civil War the
+population started to urbanize. We were
+still pretty agrarian around the time of
+the Civil War, but people were moving to
+cities. And once you move to cities, you
+lose that idea, Tracy, that you you just
+mentioned, which is we all have a wood
+lot in our backyard. You don't if you
+live in a city. And so the process of
+urbanization gave birth to markets for
+firewood that actually passed through
+commercial exchange. the agricultural
+sector was still producing the firewood,
+but now it was being hauled into cities
+by various means and sold in I don't
+want to say organized markets in in the
+sense that your breeders might think,
+but in the sense that there was some
+exchange, not just the use of time and
+labor to procure the wood. And so that
+led to records of really advertisements
+in that period where we started to see
+an abundance of data on wood by cord, by
+species, by month, by year that we could
+use software to extract from PDF images.
+Hm. So what is the let's talk about the
+data itself because we've been talking
+about the why of the data and the how of
+the data but what are the uh the top
+lines in terms of what your research
+showed.
+&gt;&gt; Yeah. So on the data gathering process
+it's important to note that I'm sure as
+I'm talking about urbanization
+urbanization happening in the 1800s. You
+know the price series go back to 1700. I
+actually have in an appendex prices from
+the 1600s. That begs the question where
+those came from and they come from
+largely probate and estate records where
+when the head of household is deceased,
+what would happen is legal entities
+would come into the household and they
+would value assets.
+&gt;&gt; And much like they do today, there'd be
+a settlement of an estate that includes
+a house and barn and animals and all the
+things in the household. And often one
+of the things in the records was five
+cords of firewood or you know 10 cords
+of firewood or one cord and they would
+value it because they had to legally in
+terms of documenting the value of the
+estate. So the really early stuff came
+from there. Now back to Joe's question
+about what do we learn about the prices
+themselves and and the topline numbers.
+There's really three patterns that come
+out. There's lots of nuance, but there's
+three patterns that come out in the
+data. From 1700 to around 1,800, there's
+lots of noise and volatility in the
+price series, but there's no significant
+trend when you correct for inflation. So
+that means firewood prices were
+basically changing at the same rate that
+the price indices, the equivalent of a
+consumer price index, were changing over
+that period of time. Then from 1800 to
+the Civil War, firewood prices started
+to increase in real terms, implying that
+they were rising more rapidly than
+inflation, often between half a percent
+and 1% real per year. And then after the
+Civil War up to the modern era, there
+really wasn't uh a lot of evidence of a
+systematic price change until late in
+the 20th century around the energy
+crisis that we're all familiar with in
+the 1970s. there was a a systematic move
+back to firewood in some parts of the US
+and that shows up as real price
+increases. It probably had to do with
+the oil price spikes at the time.
+&gt;&gt; You have these three time periods where
+there's no real change. There's rapid
+price appreciation between 1800 and the
+Civil War and then there's not a lot of
+evidence of systematic price changes
+afterwards. And it's that middle period
+that I think is the most important for
+how we think about the US economy and
+how we think about the ensuing
+transition from biomass to coal.
+&gt;&gt; Well, I definitely want to talk about
+that transition, but just before we do,
+why did prices actually increase that
+quickly in that time period? Because I
+imagine, okay, for prices to move, you
+have changes in supply and demand, but
+the supply of wood probably isn't
+changing that rapidly. Is it all just a
+demand story?
+&gt;&gt; Yeah, clearly the the demand side is at
+work. Uh the population is growing.
+We're engaging in more manufacturing
+activities. Iron manufacturing from the
+Civil War back in time to when it
+started relied exclusively on charcoal.
+So that was, you know, cut down wood,
+bake the moisture and impurities out of
+it and then use the resulting carbon to
+produce the heat that was needed. So
+things were growing, the demand side was
+growing. But it's my sense, and this is
+really from reading about the time. I
+don't I don't have an econometric or an
+empirical way to nail down a specific
+cause for the price increases, but I
+think what was happening based on
+reading is that the supplies of wood
+were getting scarce closer to cities.
+&gt;&gt; And so what ended up happening was the
+transport distances and hence costs to
+get wood into the cities for both
+consumers and firms was increasing.
+Concurrent with that process, the
+railroad network was growing. And so on
+the one hand, you would imagine that
+increasing rail networks would reduce
+cost, right? You you just load up a
+train, you get the train into the
+cities, and that would be much more
+cost-effective than putting it in a cart
+and pulling it with a horse or putting
+it in a canal. But the other thing to
+remember is that locomotives until
+really after the Civil War did not run
+on coal. They burned wood as well.
+&gt;&gt; And so you have this ambiguous effect of
+the railroads that may have lowered
+costs, but then they were voracious
+consumers of of wood themselves. And so
+I think it is a scarcity story. It's not
+a scarcity story in the sense that the
+forests were gone, but rather the
+forests that had been feeding urban
+demand for wood were receding and that
+led to increases in transportation costs
+to get uh to get the fuel into cities
+and the demand centers.
+[Music]
+Well,
+I guess the other dynamic that I'm
+curious about in your story is sort of
+the labor side. So, if you have a bunch
+of people moving from rural areas to
+cities, that's fewer people who are
+theoretically in the business of cutting
+down trees. And I'm curious if in your
+research, you know, was there a scarcity
+of labor to cut down the trees? And I'm
+just curious, were there technological
+or productivity gains that you found in
+the business of cutting down trees
+period such that in the mid 1800s did
+that process look substantively
+different than maybe earlier in the 18th
+century?
+&gt;&gt; The only thing I can really say about
+the agricultural labor supply is
+regional.
+&gt;&gt; And there's a table in the paper that
+unpacks agricultural productivity growth
+in the northern areas and the southern
+areas of the country. And one thing that
+table shows is that I think if I have it
+right, the rates of consumption of
+firewood outpace the rate of growth of
+agricultural workers in the north
+&gt;&gt; and kept pace in the south. And so if
+there is an instance where scarcity and
+labor supply, which would have driven up
+wages, was working as a force to drive
+up prices, it would have been the north.
+And that probably also aligns with the
+urbanization dimension, right? because
+the cities Philadelphia
+&gt;&gt; uh New York and Boston were big and they
+were growing rapidly and so those two
+forces would align on the technology
+piece I really can't say anything about
+harvest or about felling but what I can
+say is the technology that was used to
+move wood around so whether it was going
+into a city or whether it was going into
+a village and and being sold we know
+that that had to have matured from very
+simple transportation uh means of
+transportations like animals and carts.
+&gt;&gt; Mhm.
+&gt;&gt; To canals and to augment boats on rivers
+like the Eerie Canal is is an example
+where we know firewood was shipped to
+ultimately railroads as I mentioned
+earlier which were strategically
+designed to connect population centers
+which the data suggests were growing
+very rapidly at this time. So there's
+clear technological change. It's just
+the funny thing about railroads until
+about the Civil War is they were both
+enhancing supply of firewood in demand
+setters, but they were also consuming
+really crazy amounts of wood. I mean,
+there were multiple cord stashes along
+rail lines that were monitored or manned
+by the railroads. Hm.
+&gt;&gt; And they had cords of wood and the
+trains would pass by and stop and they'd
+load up the hoppers with firewood that
+had been felled from the surrounding
+surrounding areas. So this this was a
+really significant demand side
+associated with that technological
+change.
+&gt;&gt; Okay. So the technological change was
+mostly on the transportation side, not
+like I don't know people adding a new
+type of blade to their axe or something
+like that. But this actually reminds me
+of something I wanted to ask, which is
+anyone who has ever lit a wood fire will
+know that not all wood is created equal,
+and I certainly have been on the uh the
+receiving end of uh bad wet wood popping
+in my face and things like that. Did you
+take into account quality of wood or
+different species?
+&gt;&gt; Yeah, it's really neat. So much of the
+data does not provide details on type of
+wood or whether it's seasoned or dry.
+However, there are some of the data
+provided that do report say cord of oak,
+cord of hickory, cord of pine. So they
+do report differences by species.
+And then the data for Portland, Oregon
+has about two decades worth that
+distinguishes grades of se how the
+extent to which it's seasoned. So
+there's green chords, there's half dry
+cords, and then there's fully dry cords.
+And so what do those data tell us? When
+you try to assess differences,
+systematic differences in price, let's
+say to start by species, there's a
+figure in the paper in one of the
+appendices that shows there's a pretty
+clear positive correlation between
+prices and energy content of the species
+of wood. And so that kind of makes sense
+that a cord of hickory or a quart of oak
+would be worth more to the consumer and
+in equilibrium would have a a higher
+market price than say a cord of pine or
+a cord of a softer hardwood. And so that
+the data support that. The second point
+to make is even though the information
+on seasoning of the wood or aging of the
+wood is sparse, I do observe the month
+at which the prices are posted for a lot
+of the data. And uh using that
+information, you can see there's a
+pretty steep discount for wood marketed
+in the summer.
+And one interpretation of that is that
+there's just lower demand, and that's
+fine. The the other interpretation is
+that there is storage and seasoning
+going on where uh some portion of wood
+harvested and or purchased in the summer
+is then stored to be sold at higher spot
+price times in the winter and that would
+reflect systematic differences in
+whether the wood is seasoned or green
+according to the season. So there's like
+a contango effect in the firewood market
+in the firewood market or a seasonal
+contango so to speak. I have another
+technological question. You know you
+mentioned at the very beginning of your
+time series collecting data from probate
+sales and so forth which I think
+inherently are sort of like private data
+that most people would not have access
+to unless they tried to then newspapers
+which is more important and I think this
+is an interesting story of commodities.
+Do you observe anything I guess what I
+would say of spreads or dispersion of
+prices as transparency became more of a
+thing? So such that once firewood became
+something that got advertised in a
+newspaper. Are the range of prices that
+were transacted in a given time period
+narrower than they were when this was
+more private archival data that you're
+working from?
+&gt;&gt; It's a fascinating question. One thing
+as an academic, one thing I hope is that
+having invested time and research
+assistance time in putting together this
+data set is that there'll be multiple
+papers that come from this, right? And
+the ability to ask and answer uh a whole
+series of questions.
+&gt;&gt; One of those is price dispersion.
+&gt;&gt; Yeah.
+&gt;&gt; Right. And so this this idea that in a
+given market or maybe across markets
+there are systematic differences in the
+range or spread of prices for similar
+commodities. So largely that's a topic
+for future research. But what I will say
+is when you look at the period from say
+1800 just roughly 1800 to the civil war
+I do see regional convergence in prices.
+So southeast, northeast, midwest. I see
+some evidence of regional convergence
+and the working hypothesis there is that
+the railroads were such an effective
+means to move the wood that if there
+were persistent price differences
+between say the Midwest which included
+Ohio and and Pittsburgh and and Michigan
+and the northeastern cities then the
+entrepreneur could put a bunch of wood
+on a train in Ohio and ship it over to
+New York, Philadelphia and Boston and
+earn money and then therefore or
+eventually close those spreads. And as I
+said, I do see some evidence of that
+occurring as the railroad networks would
+have been growing up to the Civil War.
+After the Civil War, people were
+basically turning to coal and so, you
+know, you wouldn't see much.
+&gt;&gt; Tracy, this is just like our first
+Stinson Dean conversation all over
+again. It's just the same like the idea
+of like, you know, the degree to which
+you're outside of the trucking lane or
+outside of the rail lane and these price
+convergence, nothing ever changes.
+&gt;&gt; No. Uh, apparently not. Well, actually,
+we just said that, but something did
+change in the mid 1800s, which is, I
+guess, the arrival of cheaper coal. What
+exactly was it about coal or the
+development of coal that suddenly made
+it a big competitor to firewood?
+&gt;&gt; So, the data show, well, let me say to
+be clear, what I did for coal was to
+assemble existing price estimates. So to
+be very clear with your listeners, I
+didn't go and gather a bunch of original
+information on on coal prices. There
+were and are very good data sources
+stretching back into the 19th century on
+anththerite by tuminous coal. And I use
+those and anecdotal information,
+qualitative information learned from
+reading that basically commercial coal
+production really got going around and
+just before the Civil War, maybe 1830,
+1840 at the earliest. And I can't speak
+technologically to the process of
+extracting and shipping coal. It's just
+not I don't there people that know a lot
+more about that than I do. But as with
+many production processes,
+it exhibited a pattern of declining
+cost, unit costs over time as production
+ramped up. And you see that in the
+existing coal data. It's just an
+empirical regularity.
+Now bear that in mind as I repeat in the
+mid 1800s as the economy is growing from
+1800 towards the civil war I had just
+mentioned that firewood prices were
+increasing right so you have these
+contrasting patterns for two energy
+fuels that tell us one was getting
+cheaper while the other one was getting
+more expensive so if I stopped there and
+said you know that's the story that that
+might make sense but the other thing to
+mention about firewood is It's really
+bulky, right? I mean, a cord is 4x4 by 8
+and it it's got a good amount of energy
+stored in a dry cord or embodied in a
+dry cord, but the same amount of energy
+comes from a lot smaller volume of coal.
+And so from a consumer point of view or
+from a business point of view, if you've
+got to pay for storage or you have to
+manage an inventory, not only is coal
+getting cheaper, but it's also easier to
+work with in that sense. And I think
+that it was those two dimensions, so
+both literally the price and the
+non-quantitative attributes of the fuels
+that would have contributed to the
+transition.
+&gt;&gt; The idea there's just more on any given
+car load of coal, there's just way more
+BTUs than there would be on that same
+carload of firewood.
+&gt;&gt; Yeah. If if you had a volume measure.
+Yeah.
+&gt;&gt; Right. So 4x4 by8 dry firewood, 4x4 by8
+of coal. You're going to get more BTUs
+out of coal, especially anththerite. And
+anththerite was the one that was really
+taking off at this time.
+&gt;&gt; I think what's interesting to me, you
+know, going back to one of your first
+answers about your study is, and this
+gets back to a theme that we've talked
+about a lot on the show, like coal
+didn't kill firewood. I mean, your
+story, as you describe it, ends in the
+late 20th century. So even though we may
+talk about the coal era having in large
+part replaced firewood from an
+industrial standpoint from a price
+standpoint, you know, the firewood
+industry persisted in a meaningful
+sense, it sounds like for at least
+another century.
+&gt;&gt; Yeah, there's a really nice database
+that the census put together that by
+state shows the share of home heating
+fuel expenditures by major fuel. It goes
+back to 1940. And if you look at 1940,
+states like Oregon or the state of
+Washington or some of the states in New
+England have appreciable shares of home
+heating that's coming from wood. So 1940
+is a long time ago. I I get that. But at
+the same time, it's not 1840, right?
+It's not the Civil War. And those data
+are evidence in a sense that yes, I
+would agree with the fact that we really
+transitioned from a biomass to a fossil
+economy around the Civil War, but I
+would also agree that it's not as if
+demand for firewood was completely
+extinguished at that time. Clearly,
+there were pockets of continued
+significant reliance on the fuel. And
+then we had a massive energy price shock
+in the 1970s. And what that clearly
+showed was a reversion to reliance on
+the fuel as a means to hedge against
+home energy costs.
+&gt;&gt; I think you mentioned the 2008 financial
+crisis as well saw demand for firewood
+go up and maybe prices from what I
+remember. But that's such a fascinating
+data point because a it illustrates just
+how bad the crisis actually was that
+people had to turn to firewood because
+they couldn't afford to heat their
+houses in other ways. But then it also
+goes to the point that firewood is lindy
+I guess.
+&gt;&gt; Yeah, it's a very interesting phenomenon
+to consider the link between social and
+let's say geopolitical disruptions
+and consumer habits that influence
+things like fuel choice or carbon
+emissions. The financial crisis is one.
+The energy crisis is another. I have a
+related working paper that demonstrates
+that US carbon intensity defined as tons
+per dollar GDP peaked in 1917
+&gt;&gt; and that's the year right before World
+War I ended and the Spanish flu outbreak
+happened which were two both demand and
+supply shocks working in the same
+direction. If you go back even further,
+the Civil War is really the the flipping
+point here for the relationship between
+household income and demand for
+firewood. Um, and that's shown in one of
+the figures in the paper where the
+income elasticity, the percentage change
+in income is associated with the
+percentage change in consumption of
+firewood flipped from a positive number.
+&gt;&gt; As we got more wealthy, we used more
+firewood to a negative number. As we got
+more wealthy, we actually used less
+firewood as we transitioned to coal. And
+those all are lining up on significant
+geopolitical or social periods like
+recessions and wars and things of that
+nature.
+[Music]
+Is there a Moby Dick for Firewood? Is
+there a novel, you know, like I I've
+read about the whailing industry and
+then I you know, read a novel about it.
+Is there a story that I could read that
+will sort of give me a feel for the uh
+you know, the early 1800s firewood
+industry?
+&gt;&gt; Is there a book that Joe is gonna read
+and then talk incessantly about for the
+next three months? So, have you read
+COD?
+&gt;&gt; I've heard of it. Yes. Wait, that's a
+that's a non-fiction though, right?
+&gt;&gt; It's non-fiction. And then the same
+author wrote a book called Salt.
+&gt;&gt; Okay. Yeah.
+&gt;&gt; All about COD. All about salt. There
+should be a book entitled Firewood or
+Wood or something. The closest thing I I
+can suggest is a is a paper by I believe
+it's Arthur Cole in 1970.
+&gt;&gt; And the title is is something like the
+mystery of fuelwood pricing in the
+United States. And it is largely
+qualitative and it's actually asking one
+of the questions that this paper tries
+to answer which is we were utterly
+reliant on this energy source and yet
+there is no systematic evidence of how
+prices behaved from the revolution to in
+his case 1970 and why is that? And so
+it's a great read. It's not you know too
+dense an academic. It's it's more
+written like something that would be uh
+a pleasure to read than just purely an
+academic piece.
+&gt;&gt; I'll have to uh check it out. So, I'm
+curious, you know, obviously the quote
+energy transition unquote is something
+that we think about now and talk about a
+lot now. Um you know, and the trajectory
+of oil demand, the trajectory of natural
+gas demand and so forth. all of which
+are highly uncertain. Other than filling
+in the historical record for this
+important thing and sort of reorienting
+our understanding about agricultural
+productivity and GDP etc. would you say
+there are any takeaways from your
+research that sort of speak more
+directly or speak directly to some of
+the energy debates that we're having
+right now?
+&gt;&gt; Yeah. So I think there are three ways in
+which there's a plausible connection
+between the conclusions in this paper
+and I don't want to say just the US but
+globally some of the issues related to
+energy in the environment.
+&gt;&gt; The first I I kind of mentioned already
+which is often energy transitions are
+associated with some seemingly exogenous
+source of social upheaval. So in 2008
+US carbon emissions in levels peaked.
+Now, it's just really interesting that
+that again happened in a year after
+which the US economy really did not do
+well for for a number of years. And I'm
+just talking about carbon emissions. I'm
+not talking about GDP or anything of the
+sort. When we go back to 1860, we see
+this same pattern happening with what
+primary fuel consumers and firms are
+turning to in order to produce and use
+energy. So financial crisis, recession,
+&gt;&gt; massive dislocation in the economy
+associated with the civil war and its
+its associated effects. So there's that
+energy transition happening in periods
+of upheaval. Two is just the notion of
+resource scarcity.
+We're talking in this paper about
+renewable resources. We're talking in
+this century at this time about
+non-renewable resources and the
+continued reliance on coal, oil, and
+gas. What that means for sustainability
+and how we think about growth and the
+sustainability of growth and development
+as we consider reliance on different
+energy sources. And then the third, the
+Biden administration had taken the very
+important step of using tools that we
+have for almost a century used to
+measure output. So the national income
+and product accounts, GDP,
+it had used those tools to then measure
+and estimate the value of things like
+ecosystem services and pollution damages
+and natural resources. And what this
+paper shows is that prior to the process
+of urbanization and firewood sort of
+entering markets, as we discussed a
+moment ago,
+energy was coming from the natural world
+and it was not being properly accounted
+for in our market economy nor in our
+expost efforts as economists to try to
+measure the market economy. And so it's
+this idea that natural capital, as
+economists call things like trees and
+fish and and ecosystems, natural capital
+is an important contributor to economic
+growth and development, often depending
+on where countries are in their growth
+stage. But in this case, we're talking
+about a very large contribution to what
+was at the time early 1800s to middle
+1800s a rapidly growing economy. So
+three things the transition resource
+scarcity and how we value natural
+capital. I guess there's also the aspect
+of the informal economy as well, right?
+And this is a debate that still comes up
+today, which is how do you value the
+work that people are doing just without
+being paid, right? So, if you're a
+caregiver for a family member or
+something like that, that's something
+that clearly is producing an economic
+outcome, but is not necessarily covered
+in the official GDP statistics and
+things like that. what lessons can we
+learn I guess when it comes to the
+informal economy and how we actually
+measure that. So, a couple things. 50
+plus years ago, one of my adviserss when
+I was getting my PhD, a guy named Bill
+Nordhouse, who uh won the Nobel Prize in
+shared the Nobel Prize for economics in
+2018, wrote a paper with James Tobin,
+also a Nobel Prize winner on this exact
+topic, right? So how do we we improve
+measures like GDP to take into account
+natural capital which I just mentioned
+but also home production and the value
+of leisure time and so home production
+is central to the valuation conundrum
+that is associated with firewood
+produced on the home uh in the home
+often used in the home at times marketed
+through the formal economy and then
+increasingly done so. So it raises those
+issues in a very central way. I will say
+that some of the online discussions of
+this paper that I've been made aware of
+raise a very important point which is
+you know if you're going to compare the
+value of firewood production and
+consumption to existing measures of GDP
+which is largely the within market
+version of economic output. Then you
+should also measure all the valuable
+things that happen in the home,
+cleaning, cooking, mending clothes, uh
+constructing homes and barns and all the
+things that happened back in this
+historical period. And that's absolutely
+true. The the right measure would
+include all those things. I would just
+consider that the effort to measure
+firewood is an effort to push the
+boulder up the hill, right? to get us
+from measuring GDP in the strictly
+market sense towards that measure that
+includes these other important
+determinants of social welfare.
+&gt;&gt; I have just one more question and it
+sort of follows very nicely from the
+point you just made but do you think
+this type of research this type of data
+gathering would have been possible say
+10 years ago? I know you mentioned that
+you use software to word scrape a bunch
+of documents, old documents that would
+have been uploaded into you know a
+library system or a central database or
+something like that. Could you have done
+this just 10 years ago? So aspects of it
+probably, but it would have been much
+more laborious because the data sources
+probably would have been on microfilm or
+something like that. And so the hours
+required to gather a certain number of
+price quotes would have been
+considerably higher.
+&gt;&gt; But 20 years, 15 or 20 years,
+&gt;&gt; I don't really think so. I mean, there's
+a bunch of I don't even know quite how
+to properly refer to them. So archives
+maybe is the best way to put it that are
+fully online. They are made available
+through university subscription services
+and they're literally images of very old
+texts. The probate records for instance
+that comprise the very early price
+series were all in those sources. I
+didn't go to you know uh records in
+Salem, Massachusetts. I found it all
+online. And that is a reserve of
+information or data that would not have
+been possible to collect prior to
+community's efforts to digitize and make
+public that information. So I guess my
+answer uh the short version to my answer
+is would it have been possible 10 years
+ago some small version of it? Yes, at
+much higher time expense but 15 or 20
+years ago I I don't think so. I find
+this so interesting because now I'm
+thinking about all the um new data
+sources that we're going to find thanks
+to digitization and AI and all of that
+stuff and the impact on how we
+understand the economy. But we're going
+to have to leave it there. Nicholas
+Muller, thank you so much for coming on
+OPATs. Really enjoyed speaking with you
+and really enjoyed the paper.
+&gt;&gt; Thank you. Yeah, that was great.
+&gt;&gt; Thank you so much for having me. It's
+been a pleasure.
+[Music]
+Joe, I love that conversation. I love
+doing these sort of single topic
+episodes cuz it just opens up all these
+avenues that you haven't necessarily
+thought that much about before.
+&gt;&gt; Totally. Well, there's a lot in there.
+You know, one place to start. I mean,
+there's there is a lot. uh the idea of
+like railroads as this source of like
+price convergence. It's very intuitive
+obviously, right? But it's still
+interesting to see like how often this
+pattern gets repeated over and over
+again through commodity history.
+Obviously these days, you know, the
+story is much more with natural gas
+pipelines and the attempts to arbitrage
+spreads between, you know, there's not
+one unified natural gas price the way
+there is in oil precisely because of
+these transportation networks. Maybe
+there will be at some point with enough
+pipelines. That's one story that you see
+repeated over and over again throughout
+commodities.
+&gt;&gt; Yeah. I also just think the point about
+the energy transition which we've
+discussed with Bob Bracket before as you
+mentioned this idea that we have a
+notion in our minds often that like
+suddenly a new commodity comes on the
+scene and everyone switches over really
+quickly. But actually we have lots and
+lots of historical examples of the
+process taking a lot longer than you
+would think. And I think Bob used the
+example of mercury and now we have
+another example in the form of firewood.
+&gt;&gt; I certainly was not expecting to hear
+that part about yet another firewood
+price spike of the 1970s. Like I I sort
+of Yeah. Like in my mind it's like okay
+the story probably ends somewhere around
+the late 1800s. And so the fact that a
+hundred years later and then you know
+another 30 or 40 years later it's
+visible again. I also think maybe like
+weren't there some stories about using
+fireword like in 2022 um after Russia's
+invasion of Ukraine? I can't remember
+for sure, but I feel like I remember
+hearing some stories about parts of
+Europe, you know, um burning fire,
+burning wood again for heat. So, yeah,
+it's uh it's really hard to actually
+fully ever displace a commodity except
+whale oil.
+I have to say my personal preference
+when it comes to BTUs
+&gt;&gt; now that I've done coal and wood has to
+be wood.
+&gt;&gt; Truly renewable resource that won't coat
+your entire house in like a dusty black
+film. So yeah, go wood.
+&gt;&gt; Go wood.
+&gt;&gt; All right. Shall we leave it there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the Odd
+Thoughts podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Joe Weisenthal. You can follow
+me at the stalwart. Follow our producers
+Kerman Rodriguez at Kerman Arman Dashel
+Bennett at D-bot and Kalebrooks at
+Kalebrooks. For more OddLots content, go
+to bloomberg.com/odlots.
+We have a daily newsletter and all of
+our episodes and you can chat about all
+of these topics, including energy in our
+Discord, discord.gg/odlotss.
+&gt;&gt; And if you enjoy OddLots, if you like it
+when we talk about historical prices of
+firewood, then please leave us a
+positive review on your favorite podcast
+platform. And remember, if you are a
+Bloomberg subscriber, you can listen to
+all of our episodes absolutely adree.
+All you need to do is find the Bloomberg
+channel on Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+[Music]

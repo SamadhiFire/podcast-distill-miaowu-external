@@ -1,0 +1,1292 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+[Applause]
+&gt;&gt; Hello and welcome to another episode of
+the Odd Thoughts podcast. I'm Tracy
+Aloway
+&gt;&gt; and I'm Joe Wisenthal.
+&gt;&gt; Joe, it's that time of year again.
+&gt;&gt; Jackson Hall week.
+&gt;&gt; It's my favorite time of year.
+&gt;&gt; Yeah. So, I mean, it's the it's a great
+time of year anyway, but in in Jackson
+Hole, Wyoming, come on.
+&gt;&gt; For many reasons. Okay, so this is the
+uh Kansas City Fed's annual economic
+symposium in Jackson Hole, Wyoming, and
+they basically get together a bunch of
+different, you know, Fed presidents, a
+bunch of different speakers on economic
+policy, and then everyone geeks out
+while looking at mountains. Basically,
+&gt;&gt; it's really extraordinary. So, this will
+be the third year that we'll have been
+there. We were recording this August
+18th, but by the time people are
+listening to this, the event will have
+just will be kicking off. It really is
+extraordinary because you really have
+the top minds in this stuff from truly
+all around the world, but also it's late
+summer. People chill, people hike,
+people recognize that they're in an
+amazing location and they would be
+wasting their time if they just spent
+the whole time inside talking monetary
+policy.
+&gt;&gt; This is true. But I think part of the
+planning of this event is this idea of
+okay, you get everyone out in this
+really nice place in the wilderness and
+people are maybe a little bit more
+forthcoming, maybe a little bit more
+open to having creative discussions
+about policy. And it's interesting, you
+know, you mentioned people talking about
+like this year's theme.
+&gt;&gt; I have a pop quiz for you, which is, do
+you remember the themes from the last
+two Jackson Holes that we went to?
+&gt;&gt; We've been to this will be our third.
+&gt;&gt; I'm a little embarrassed. Is monetary
+policy in a changing world? No, I
+actually it's a good question. I
+&gt;&gt; You're not that far off actually.
+&gt;&gt; So last year it was reassessing the
+effectiveness and transmission of
+monetary policy.
+&gt;&gt; The first Jackson Hole we went to in
+2023 that was structural shifts in the
+global economy. That one I got to say a
+little
+&gt;&gt; I I could forgive you for forgetting
+that one. But this year's theme uh it
+just came out you know just got
+announced. So this theme is labor
+markets in transition, demographics,
+productivity, and macroeconomic policy.
+It's a good topic for many reasons. So
+obviously, you know, the future of AI
+and its impact on the labor force will
+certainly fit under that particular
+thematic umbrella, but also it goes
+straight into the heart of what a lot of
+Fed policy makers seem to be discussing
+right now and arguing, right?
+&gt;&gt; All kinds of things, immigration, aging,
+etc. How does that bear on the data that
+we're seeing right now? It's a great
+topic for both the short term and the
+long term of monetary policy. So should
+be a fascinating conference,
+&gt;&gt; right? And so on that note, I'm very
+happy to say we do in fact have the
+perfect guest. We are going to be
+speaking with Jeff Schmidt. He is of
+course the president of the Kansas City
+Fed and responsible for putting on this
+event every year. So Jeff, thank you so
+much for coming on A Thoughts.
+&gt;&gt; Oh, it's my pleasure. It's great to
+finally meet both of you officially and
+we follow you quite intently. So it's
+really great to be on. We're leaving
+that in.
+&gt;&gt; That's right. Well, I mean, it is mutual
+to be fair because we follow you quite
+intently. So, first of all, let me just
+extend a personal thanks for putting on
+an event which allows Joe and I to go to
+one of the most beautiful places on
+earth every year. That is truly
+wonderful for both of us. And then I
+just going back to the theme for a
+second.
+&gt;&gt; How do you come up with the themes for
+these events every year? Is there like a
+brainstorming session and everyone goes
+into a room and 12 hours later you
+emerge with some sort of consensus much
+like a FOMC meeting I suppose but
+&gt;&gt; yeah it's a great behind baseball
+question and as you can imagine you know
+we're in our 48th year so every year you
+know immediately after it's over we get
+in a room and we talk about what went
+well what can we make better and I
+really give credit to Joe Groover
+Groover chief economist and his team
+it's it's probably the most
+nerve-wracking decision that that has to
+be made because, you know, Jackson will
+get over in late August and then
+probably by sometime early the fourth
+quarter, you're you're starting to talk
+about what should we create a theme
+around for the following year. And so
+they actually end up deciding on that by
+the end of of the year. And it's
+nerve-wracking because you hope that all
+the research you've asked these
+brilliant people to do and present uh is
+applicable by August because you know
+how fast things move in the business and
+economic world and boy they are so good
+at it and they do think forward about
+some of the emerging issues that are
+going to be dealt with whether it be
+with the central bank or with the global
+economy and I tell you what they hit a
+home run this year because I I'm
+actually as a you know economist and Fed
+president. I'm very interested in the
+dynamic of demographics, not just
+nationally, but internationally. There's
+things going on that that you'll hear
+and and will be presented on Friday and
+Saturday that I think are going to
+really spur a lot of thinking and a lot
+of conversation about how demographic
+behaviors and movements move the
+workforce and labor force in the US and
+and abroad. So, so it is a it's a
+tenuous 8 months because you've got, you
+know, Nobel level economists doing the
+research and preparing these papers
+around a topic and I think this one is
+really going to hit a really good chord.
+It is definitely a great topic for right
+now because of you know there's all the
+questions at le you know and here just
+I'm talking US specifically but as you
+mentioned it is a global story because
+there is aging and the effect that
+that's going to have on the workforce
+especially in many advanced economies
+and non-advanced economies frankly and
+then obviously AI is a huge one and then
+in the US specifically changing
+immigration policy and so forth just on
+the inside baseball part a little bit
+more okay so you establish the team
+establishes the theme. How do you then
+like figure out it's probably almost
+anyone I assume would say yes to an
+invite to present to Jackson Hole, but
+how what is that actual process like
+where you identify the presenters that
+you're looking for?
+&gt;&gt; Yeah. So, here again, as you can
+imagine, there's a a community of
+economists and researchers. Yeah.
+&gt;&gt; Both nationally and abroad. While it's a
+big community, it's pretty connected.
+And so, the team's going to get together
+and they're going to do a couple things.
+one is they're going to try to break
+down maybe inside the topic what are
+some of the nuances of because I think
+we have four papers that'll be released
+in on Friday and Saturday and so within
+that topic there's subtopics and so
+you're going to have researchers in
+university settings you're going to have
+researchers inside of central banks and
+a lot of that community is going to kind
+of focus itself on certain micro and
+macro topics so they have a really good
+inventory of experts that they'll reach
+out to. And I would say you're right. I
+mean, I think in most cases the
+researchers would really covet the
+opportunity to do this research and
+submit the paper, but they're also very
+thoughtful about it. You know, some will
+just maybe not take the engagement just
+because it's not well aligned to the
+research that the they're either doing
+or they're they feel they're experts at.
+But it but by and large it's really a
+great honor and we and we t t t t t t t
+t t t t t t t t t t t t t t t t t t t t
+t t t t t t t t t t t t t typ typically
+a very positive response. The challenge
+is time. You know, a lot of these things
+might take a year or two to research,
+but they have a very tight window once
+they're asked and they agree. You know,
+they might have to submit within four or
+five months. And sometimes when you're
+talking about a very macro topic, that
+can be a super big challenge for a
+researcher. So speaking of challenges,
+why don't we get right into more of that
+theme, the idea of labor markets in
+transition. Why don't you go ahead and
+give us your sort of highlevel interest
+in this particular topic? I guess how
+does something like AI, how does
+something like aging demographics, lower
+birth rates actually complicate the task
+of setting monetary policy, especially
+when you think about things like the
+neutral rate of interest, RTA star. You
+know, our star is a nebulous concept at
+the best of times. I can only imagine
+what it's like trying to estimate our
+star at a time when we're also talking
+about, you know, AI potentially
+transforming the way everyone on Earth
+is working.
+&gt;&gt; Yeah. So, let me kind of set the stage
+for this because I first of all, my
+backgrounds I'm a little bit of a hybrid
+Fed president. So, you're going to
+typically have maybe Fed presidents that
+are in two different camps. One one is
+going to be the traditional camp of
+economist, PhD, researcher, scholar
+really focusing attention on the
+monetary policy discussions relating
+their their background to making good
+decisions at the policy table with the
+FOMC. The second is going to be more in
+my camp. I'm much more of a
+practitioner, not a professor of
+economics. I mean, I I've run banks.
+I've been a bank supervisor with the
+FDIC early in my career. I've done a
+little bit of leadership teaching at SMU
+the last couple years, but I'll take my
+banker experiences through my 30 plus
+years of building banks. The most
+important part of that is really the
+workforce of people that you put
+together. And through that 30 years, to
+your points, there's really two big
+drivers on the demographic end that that
+are of interest to me. One is just the
+behavioral nature of the labor force
+generationally, how they're changing,
+how they use technology. I'm a baby
+boomer. The 20 to 30ome coming in has a
+different sense of what the job is and
+how they're going to be successful at
+that work. Uh the second thing is just
+and there's a very compelling paper
+that's going to be released on that
+addresses things like fertility rates.
+And so that that's not only a national
+but that's an international phenomenon
+is how does how does the labor force
+migrate let's say in the US stateto
+state what drives that migration of
+labor force and then what's happening in
+other large labor ccentric countries
+where the fertility rates are actually
+affecting the workforce going forward I
+mean China is a really stark example
+Japan India is something a country I
+think everybody's really watching
+relative to how their labor force is
+maturing, educating, growing. I think
+all those dynamics are going to play a
+really important piece to the puzzle of
+where where are things going to be made
+and how our economies going to going to
+grow because most economists and people
+in the markets would argue you've got to
+have a growing labor force for your
+economy to grow. And that probably gets
+to the next observation you made, I
+think, Tracy, and that's how does
+technology, maybe specifically
+artificial intelligence, weave its way
+into this conversation. And you'll see
+some really good arguments about maybe
+the advent of AI is going to be
+perfectly timed for the nature of the
+labor force and how it's shifting
+because overall when you add fertility
+rates and you add labor market at large,
+it's pretty static. It's not growing in
+a big way. Probably the only areas that
+are growing significantly would be India
+and maybe the African continent. So all
+those things are going to play into this
+mix of of both national and global labor
+force.
+[Music]
+So speaking of technology, a couple
+weeks ago we interviewed Fed President
+Mary Daly. She was talking about the
+iPhone and for example that the current
+iPhone can do so much more than the
+first iPhone, you know, however many
+years that go. And then I thought of a
+follow-up question to that, but I forgot
+to ask her. So I'm like, okay, I'm just
+going to ask the next Fed president that
+I So I'm asking you the question that I
+actually should be asking Mary Dailyaly.
+I apologize for the unfairness but I
+think this could inform the AI
+discussion which is that we have seen
+already setting aside AI these
+incredible tech advances undeniable that
+have changed the world right no one
+would deny that and yet measured
+productivity gains have not been
+particularly extraordinary. So if you
+look at like since the first iPhone or
+the from the pre iPhone era to now the
+world's changed dramatically on account
+of the technology changes and yet
+productivity nothing particularly
+special at least in the data and I'm
+curious like when you think about the
+effect of AI. Do you have any sort of
+theory for why that is or why it is that
+these obvious technological
+breakthroughs haven't actually moved the
+dial in some of these important
+measures?
+Well, I have some personal thoughts,
+maybe some observations within the Fed
+itself, at least with the Kansas City
+Fed. One is just be patient. You know,
+there a lot of things are happening. I
+think a lot of this technology is
+emerging now. Now granted it'll go fast
+but the adoption I mean even I think
+about the Kansas City Fed itself you
+know getting comfortable with the what's
+kind of embedded inside let's say the AI
+technology
+you know the thing I worry a lot about
+is just things like copyright laws what
+you know that we're sensitive to using
+that technology and is it safe for us to
+use as we try to figure out ways to be
+more productive inside our bank from a
+more macro standpoint. I think
+everybody's trying to figure out I would
+kind of categorize the AI phenomena
+today as kind of a low fruit to high
+fruit process. So what everybody's
+trying to do is say what are the what's
+the nature of job of things inside my
+job that actually can make me more
+productive just inherently more
+productive. whe whether it be narrative
+in a legal brief or let's say taking a
+bank examination report and trying to
+download things that would normally take
+you hours or days to populate an
+examination report with. I think we're
+at that kind of cross roads where we're
+trying to figure out what's the easy low
+fruit and then I think over time I don't
+know if you're going to get this blast
+of productivity that all of a sudden
+it's this moment of epiphany. I think
+you're going to I think it's actually
+perfectly timed because over time I
+think you're going to be able to
+integrate this technology and you're
+going to figure out where it it's best
+used. Now granted and people are doing
+studies on this. There are some jobs
+that that I think I'll give Mary Dailyy
+credit. She coined the phrase soul
+sucking jobs. What are the things that
+people are, let's say, more monotonous
+or boring or things that just don't move
+needles that aren't like super
+interesting and challenging? And I think
+you're going to see that's going to be
+the part of the low fruit process. The
+upper half of the tree, I think you
+might see some real productivity gains.
+But it but in the end when you see
+shifts in like immigration policy and
+you see uh workforces not growing you're
+actually going to need to integrate that
+technology to keep a balance in the
+supply and demand. I I think uh chair
+Paul mentioned this in his last
+conference after the FOMC when he was
+addressing the some of the data that
+came out in the workforce in the summer
+and some of the adjustments that while
+it was a little bit eye opening, we feel
+like there's a balancing in supply and
+demand of the labor force today and and
+it's probably why you're not seeing at
+least today a major uptick in the
+unemployment rate. It's it's kind of
+rebalancing itself going into the next
+couple quarters.
+&gt;&gt; This was going to be exactly my next
+question since you brought up
+immigration. Why don't you go ahead and
+tell us what you're seeing in the labor
+market right now? Cuz the debate that
+seems to be emerging is that yes, we've
+seen these big revisions to payrolls
+recently. But on the other hand, if we
+have a lot of people exiting the
+workforce because they're aging out of
+it or because of new immigration
+policies, then maybe that break even
+labor rate doesn't really matter as much
+anymore and we can tolerate it as long
+as the employment rate stays pretty
+strong and we are pretty close to full
+employment levels still. Yeah.
+&gt;&gt; So, what are you seeing now? How would
+you characterize it?
+So Tracy, I would say that there was a
+bit of a convergence of things in the
+first and second quarter. So when we
+talk about being data dependent, there's
+two buckets of data that that I really
+focus on. One is the kind of the hard
+data that's issued by third parties or
+internally by by government agencies,
+things that would that they track and
+have tracked for a long long time that
+emerge with things like unemployment
+rates. The second bucket is really my
+travels in and around the 10th district.
+We're seven states, 20 million people
+and businesses trying to get four
+cornered in the district to try to get
+as much real time information. And so
+the convergence, the way I see it, I
+think a couple things were at odds in
+some of the information and data that
+was that emerged here in the last month
+or two. The first is that there there
+was a lot, you know, we heard the the
+word uncertainty everywhere we went. You
+you got a change of administration. You
+got some big policy rocks. You had a a
+budget that was being debated. All those
+things create uncertainty in in in a
+business person's mind, right? The
+second thing was a major change in
+immigration policy. And so that that
+created its own set of uncertainties and
+dynamics. And I think what we're
+finding, or at least what we're seeing
+in the 10th district, is a lot of those
+things converged over a very short
+period of time. And what normally will
+happen, and this kind of gets me back to
+my banker days, is businesses will
+actually they'll slow their decisioning
+down. They'll, let's say, freeze hiring
+for a time. They'll be a little bit more
+conservative with their spend on certain
+things. And so I actually think that
+affected some of the labor numbers that
+came out. In the most recent tabletops
+we've done with businesses. They seem to
+be digesting a lot of that that change
+and those changes. In the last couple
+weeks, I've seen a level of confidence
+back in both the business sectors and
+some of the discussions about labor and
+workforce. So, we'll see. I mean, I I
+would expect maybe a bit of a rebound in
+some of the labor statistics, but but at
+the end of the day, it really is about
+balancing the supply and demand of of
+the labor force and what emergence from
+that over the next uh I'd say a couple
+quarters. It's interesting you talk
+about maybe people feeling slightly more
+comfortable at least relatively to
+compared to the beginning of the year
+recently because I've seen some chatter
+about maybe an economic reaceleration
+right now. You know, some of the tariffs
+have now been finalized. It looks so far
+like we haven't had that huge
+inflationary uptick. Although, of
+course, producer prices that we saw last
+week maybe tell a slightly different
+story. We did have that retail spending
+report out on Friday that showed people
+were still spending quite a lot of
+money. Yeah. Do you see signs of a a
+sort of like recovery or reaceleration
+at the moment?
+&gt;&gt; I don't know. I mean, we got good GDP
+numbers kind of a bit of a rebound uh
+sling back in the second quarter from
+the first quarter's weakness and that
+had a lot of noise in it the first
+quarter. I think I don't know if I'd
+necessarily categorize it as a rebound.
+I think that they're they're just
+there's a lot of things that are kind of
+working themselves through. I mean,
+you've got a major major cycle change
+with a new administration with a lot of
+really
+interesting macro ideas that they're
+putting in place. And you know, I think
+you could make a fair argument that a
+lot of those are progrowth types of
+policies and processes and programs. So
+I think the nature of what we see in
+both the labor data and the inflation
+data are going to be pretty interesting
+and I and there's a lot yet to emerge
+between even this week and and our
+September FOMC meeting. But but I I
+think the nature of how people are
+thinking about the economy, what the
+markets are, how they're performing
+there there is a an optimism I think
+shift from it wasn't that they were down
+in the first couple quarters. they just
+weren't sure and so they there there was
+some pausing happening and then I think
+uh we're sensing that the nature of the
+next couple cycles as we get into the
+holiday seasons uh toward the end of the
+year there just seems to be a pretty
+good optimism about about what's going
+to happen in the next couple quarters.
+Let me ask you a question about the
+latest jobs report that actually sort of
+ties near-term cyclical story with the
+broader term theme of the conference
+which is that the two sectors that
+basically in the most recent jobs report
+the two sectors that basically added all
+of the jobs were health care and social
+assistance. And these sectors basically
+add employment virtually every month
+without fail. And it's very easy to
+connect that to aging because people who
+are elderly or retired need a certain uh
+type of you know nurses and so forth to
+take care of them. But these aren't
+considered to be particularly high
+productivity jobs. Looking in the medium
+term, do you worry about this like how
+much of the productive labor force will
+be necessary to essentially take care of
+old people and what that means for
+productivity overall.
+So when we kind of interview a lot of
+our health care professionals in the
+district, there is a still a huge demand
+need in that sector. And so I think
+there's a big up potential in
+specifically in the healthcare industry.
+And and here again, I'm a baby boomer.
+So I'm using more of those services. And
+and as you do experience that, you do
+see that there there's a real demand
+need for health care professionals in in
+kind of all spectrums of that industry.
+And so I do think that there there are
+pockets by industry that could still use
+a lot of labor talent. I'd say
+healthcare, certain agricultural
+industries in the 10th district. There's
+certainly some technology and
+manufacturing that I think could you
+could see a bit of nice growth in over
+the next several quarters. So So I I
+think what's going to be interesting and
+kind of getting a little bit back to the
+AI conversation, Yeah. is I think the
+nature of of jobs inside industries is
+going to change. So we talk a little bit
+about this in in the Reserve Bank is we
+just launched a new five-year strategic
+plan and embedded in the plan is really
+to reexplore the skill sets that are
+necessary to make this plan happen. And
+I think the things that we used to be
+doing the last 5 or 10 years need to be
+shifted to something else to stay a
+high-erforming reserve bank. So, so I do
+believe in in a lot of these industry
+areas with I think healthc care being at
+the top of the list. I think you're
+going to see a reskilling in a lot of
+these job areas as some of the jobs that
+can be done by a more artificial
+intelligence technology are going to
+shift to much more let's say
+intellectual or behavioralbased
+job skills going forward. So, so I think
+here again, I think that's the message I
+I I give to our business associates in
+our in the 10th district is tell us how
+you're reskilling your workforce because
+I think that's where AI is going to
+really play a big role. You can't be
+static in the job you're doing. You have
+to reimagine that job with new
+technologies. You know, you mentioned
+markets earlier and clearly there's a
+lot of enthusiasm about AI still in the
+markets and that's one of the reasons
+we've seen stocks, you know, hovering
+around all-time highs and credit spreads
+are now at what, like a 30-year low
+basically.
+talk to us about where you see rates at
+the moment in terms of their
+restrictiveness because some of your
+fellow Fed presidents will say that they
+think rates are still restrictive and
+then when I look at something like
+credit spreads at you know a three
+decade low I think actually this doesn't
+look that restrictive to me
+&gt;&gt; and with inflation still above target
+inflation still above target how
+restrictive are rates at the moment
+&gt;&gt; yeah it's a it's a great question and
+I've been very public. I believe they're
+I would call them modestly restrictive.
+They're not overly restrictive. And I
+think that what we have to be careful of
+is kind of rebasing our decisioning on
+rates. And and I think the markets do
+this cuz look, I'm a former banker.
+Bankers and bank clients, they love low
+credit rates. Uh they like lower rates
+because they can perform better on their
+capital base. So I I understand that
+piece, but there but I think we talk
+about being rangebound to a degree. I I
+like to think about, you know, I love
+the '9s, right? So, if you think about
+how hard the 80s were as we emerged into
+the '9s, we had a technology surge and
+and if you watched or looked at the
+nature of the economy, it performed
+really well, but there were monetary
+policy was a became a bit of a wave. So
+you would start to make decisions where
+if you saw things happening in either
+the you know your your dual mandate your
+you know keeping stable prices and full
+employment you would adjust that policy
+rate and when things got maybe a little
+bit hotter and then as they cooled you
+bring them down but it was a nice
+rangebound process for me the experience
+of the last let's say two or three
+shocks. So you had the '08 shock, you
+had the 2020 pandemic shock. You know,
+you're pushing rates down to dimminimous
+levels. You probably don't want rates
+down there that low because if if
+they're down there that low, you're
+trying to pick something off its back.
+And so you're trying to create a rate
+environment that creates stimulus. So I
+think right now we seem to be in a
+really good place. And so, you know, it
+almost becomes more difficult in the
+debate on rates whether they should be
+higher or lower when you're at the
+margin versus when you're trying to use
+monetary policy as more of a blunt force
+in instrument to try to pound a high
+inflation rate down like we did in in
+the 22 23 cycle. So it's it's actually
+going from kind of a a blunt force tool
+to actually more surgical and then the
+debate gets very interesting about where
+that you should turn those dials
+relative to the data that you're seeing.
+So it actually becomes more difficult
+when you get on the margin in that
+rangebound area versus when you're
+trying to really sledge the economy on
+the inflation side down. So Tracy
+mentioned that estimating the neutral
+rate of interest is a sort of difficult
+concept in any period. But there is this
+view that the neutral rate of interest
+today in 2025 is significantly higher
+than it was in 2019. And probably some
+of the best evidence for that is the
+fact that even though the market is
+anticipating rate cuts in the short term
+over the next couple of years that the
+long-term rates still fairly elevated
+curves steepen higher rates for longer.
+What changed? What's the difference
+between 2025 and 2019 such that it looks
+like the neutral neutral rate of
+interest is so much durably higher?
+&gt;&gt; Yeah, Joey, it this is really
+interesting science with the policy side
+of of our mandate. We have some some
+influence on the short end of the curve,
+right? So, but so taking the long end,
+the whole concept of the long rate, it
+has what we call term premiums in it,
+right? you and you have to kind of sub
+&gt;&gt; Joe doesn't believe in the term premium
+for the record but I do
+&gt;&gt; I'm not sure I I I don't I don't know if
+I believe in it but I I think there are
+pieces of a long rate that have sections
+of it that the market is going to try to
+digest.
+&gt;&gt; Can I just say Tracy thinks that I'm a
+complete crank but every once in a while
+we get a guest who's like you know
+there's something to join.
+&gt;&gt; No no no every once we get a guest who
+will say you know it's a nuance thing
+which it is. We all agree. All right,
+keep going. Keep going.
+&gt;&gt; Okay. So, so the so what I I try what
+I'm trying to do with let's say the
+concept of the long end of the curve is
+you've got issues of okay, some of the
+markets going to say they're going to be
+influenced by the prospect of inflation
+because you have to build a a price into
+the long rate for inflation. Some of
+them are going to say it's a demand and
+supply issue with the debt that's trying
+to be financed, both government and
+private debt. the nature of that long
+rate. There's pieces of it that are
+going to influence it. It's interesting.
+You know, I talk about the Fed balance
+sheet quite a bit. It's hard to second
+guessess what we did in the '08 and 2020
+cycle with our balance sheet relative to
+trying to keep the long rate somewhat in
+submission. So actually the duration of
+our balance sheet is influencing the
+long rate to some extent which I think
+is in a positive way. So when you think
+about it the treasury duration is about
+four or five years. The our balance
+sheets about a little over eight years
+in duration. So that's that quantitative
+twisting that people talk about. So
+we're actually influencing the long rate
+a little bit in our balance sheet in a
+positive way. But I think over time, as
+long as the market believes that debt
+can be financed and there's not a lot of
+inflation expectation, you're seeing the
+long end of the curve drift downward.
+[Music]
+So, I'm gonna go to what I think, you
+know, what is maybe the the hot button
+topic of the moment. The formal theme of
+this year's Jackson Hole is of course
+about the labor market and various
+trends. The subtext theme, and I think
+this is going to be a lot of interest,
+is the attacks on the Fed and concerns
+about central bank independence. Just to
+your point about what's driving that
+long end of the curve, if there are
+concerns that the political will is no
+longer there to keep an independent
+central bank, if there are concerns that
+in the future that the Fed will more be
+at the beck and call of elected
+officials, could that also be a factor
+in driving up the long end of the curve
+as investors may rationally presume that
+a future Fed may not be as committed to
+stable prices as the current Fed?
+Wow, that's uh that's deep, Joe.
+Actually, there's so much there's such
+an onion in what you
+&gt;&gt; I know, I know, but I'm trying. But the
+So, strip away all of my throat
+clearing, which I felt was necessary.
+&gt;&gt; If there is concern that there is no
+longer the political will to maintain an
+independent central bank, that there is
+concern that a future Fed may not be as
+committed to inflation fighting as it
+ought to be to keep that 2% goal. Could
+that be a factor driving up rates at the
+long end?
+&gt;&gt; Peel the onion for us. we have time.
+&gt;&gt; Okay.
+&gt;&gt; So, the quick answer is I don't know. I
+I guess I wouldn't I don't see or hear
+that. Acknowledge the debate.
+&gt;&gt; Yeah,
+&gt;&gt; Joe. And and I believe look, our country
+is going to be 250 years old next year.
+It's still the great experiment. It's
+built on words legislation and and and
+what's fascinating to me is
+&gt;&gt; the the issue of Fed independence, it's
+codified, right? So, it you know, we
+have a mandate. It's legislative. It
+that that that legislative authority can
+shift and change. But it's hard to argue
+the the efficacy of of the independence
+piece. I mean, I think there's a bit of
+perfection in me being able to go to a
+table with 18 other really committed and
+bright people to try to keep this
+economy on a level rail. You know, I I I
+talk to people about the economy being
+this big, very massive train, the
+largest, most powerful train economic
+train in the world, $30 trillion. And
+you've got administration and a Congress
+that really is running the train. We're
+the American people are are riding on
+that train. Now, for the Fed, the Fed is
+not the train. The Fed is actually the
+rails. It it simplifies the to me to
+think about the two rails being, you
+know, stable prices and and full
+employment. And for us, it's really it
+helps us not to have to worry about the
+market or the politic of things to to
+try to keep the rail steady and level so
+that train can go fast. And so the
+nature of of what we do in those two
+rails and the decisioning we do is
+really more balancing than it is trying
+to shoot towards some predetermined
+place. We know 2% is a good place to be
+for inflation. We I think time has
+tested that. We know full employment is
+a really very positive friction to the
+stable price mandate. So, kind of
+getting back to the independence thing,
+healthy friction in the conversation
+just makes the republic stronger in my
+opinion. So, I'm happy with the debate.
+I'm happy to express it, but frankly,
+it's it's less important that I express
+it is what you and your listeners
+believe that independence does to this
+to the decisioning of that massive
+economy. I think it works. I think you
+you see other countries that that
+disentangle it to the body politic and I
+think it's very difficult to keep
+economies level set when you don't have
+that independence piece.
+&gt;&gt; Well, on this topic, let me ask I guess
+a blunter independence question because
+Joe's right that this is you know this
+is the unofficial theme of the
+conference I think and you yourself have
+previously stressed the importance of
+Fed independence.
+So are there steps that the Fed should
+be taking in order to, you know, not
+necessarily improve its independence or
+even protect its independence, but to
+convince people like us and the markets
+that it is truly making decisions
+independently.
+&gt;&gt; So the proof is in the pudding about,
+you know, how is our policy action
+affecting the level setting of those
+rails? And so, look, we should be held
+to task that are we making decisions
+that are rationalized on sound data and
+that they are in compliance with the
+congressional mandates that we have. And
+so, we are kind of duty bound to that
+framework. And so I would say there's a
+measure of perfection in the fact that
+even in the Fed's structure where you've
+got seven board of governors and 12
+reserve bank presidents where the nature
+of just how those individuals are seated
+uh with let's say Senate confirmation, a
+white house nomination for the board of
+governors and then the 12 reserve banks
+having their own inmarket in district
+boards that really kind of act as a
+balance
+to the whole independence architecture.
+So I I actually think that the nature of
+how it was structured in 1913 is still
+effective today. We're just continuing
+to learn about how to make policy better
+relative to what to the cycles in the
+economy. Think about the 20s and 30s.
+Think about the 1970s and 80s cycle.
+We're still learning as a body to to get
+this right because we've got this
+amazing economy 30 trillion of 100
+trillion and we're if we're healthy the
+globe can be healthy and that's the way
+I see our our role and that's why I
+think independence matters.
+&gt;&gt; All right, I have another question that
+I forgot to ask Mary Daily and now it's
+and I've been thinking about it and I
+was like okay now you're here. At the
+most recent Fed decision, there were two
+descents which is not you know crazy
+happen descents happen but they're like
+fairly rare etc.
+&gt;&gt; Why are dissents rare? How would you
+articulate why desents are rare? Because
+I think this again could be relevant in
+the future depending on who the next Fed
+chair is. Are they rare because
+generally speaking you and your
+colleagues roughly arrive at the same
+view of what's appropriate policy or are
+they rare because historically when
+there is some marginal difference the
+regional Fed presidents and the other
+governors tend to defer to the judgment
+of the chair.
+&gt;&gt; Yeah, it's I love that that question and
+so I I'd maybe frame it in a couple
+ways. One is I think in a lot of ways
+descents are healthy. I think there are
+times when we we get kind of criticized
+as is being kind of fed speak you know
+that that they're always aligned that
+doesn't make sense
+&gt;&gt; like one there two is rare sometimes
+there's one frequently as there is so
+what's the reason why generally speaking
+they are pretty rare
+&gt;&gt; so so here again we're at the margin on
+things like the policy rate today so the
+data could shift people's opinions one
+way the other on the dual mandate
+relative to their vote on on disscent or
+not. So I think the two dissents were
+fairly rational public statements about
+concern about the labor the labor market
+and the labor force. I you know there
+was great debate and so you're trying to
+figure out where do you settle on the
+debate. The other influence really is
+the chair. I I've worked with Jerome
+Powell for a couple years now. I I he's
+a principled. He's committed. I think he
+appreciates in his background and
+experience trying to collaborate with
+people at the table to get a sense of
+where they are in their their opinions
+of of where the economy is and where the
+policy rate should be and I've really
+enjoyed working with them and we don't
+always agree but at the nature of once
+you get to the table you've got to make
+a decision and I think that you just
+have to have good data good background
+good discussions in your district about
+where do you think that the policy rate
+should go and I and so I think it really
+does it's healthy discussion and at
+times I suppose it's going to be a vote
+of disscent a time or two but I we're in
+the margin play now relative to where
+that policy rate should be.
+&gt;&gt; Okay. So speaking of where the policy
+rate should go and healthy discussion
+obviously there's a lot of stuff
+happening between now and the September
+meeting. We have the Jackson Hole
+Economic Symposium itself. We have a
+couple more big data points. What
+specific data or developments would
+signal to you that perhaps it is time to
+start, you know, really thinking or
+advocating for that rate cut? What are
+you watching out for?
+&gt;&gt; Yeah. So, I'd be watching what a lot of
+us watch. You know, some of the
+inflation data. There's quite a bit of
+it going to come out in the next four or
+five weeks. Certainly, we're going to be
+very determined to network our inside
+the 10th district about what's happening
+inside labor, the workforce, just try to
+get a a better be on where unemployment
+is and supply and demand where that is.
+So, I think those are the principal data
+points. Then I think that there's that's
+what's beautiful about the Jackson Hole
+timing. I think there's going to be a
+lot of discussion not just domestically,
+but internationally. I mean, we've got
+150 people, experts in their own right,
+central bankers, the some of those most
+amazing economists on the globe, all
+four corners, just to get a a
+calibration of where everybody is just
+globally. And I think we'll be able to
+emerge with solid decisioning in
+September. We'll see where that goes.
+Like I said, I when I put everything in
+the basket, it just seems like like
+we're in a pretty good place right now.
+But look, that data can shift and change
+and we're in kind of as I mentioned kind
+of the nuance of the range of where we
+want to be with policy rate and we'll
+see where where it goes in September.
+&gt;&gt; My last question is I'm and it's
+basically just a restatement of Tracy's
+earlier question, but I'm still trying
+to wrap my head around this. is, you
+know, Americans have experienced years
+of above target inflation. It's still
+running a little warm. As Tracy
+mentioned, stock markets at all-time
+high, credit spreads very low, and
+again, inflation still warm. And you
+also say that you think the labor market
+is all right. It's fine, and that maybe
+businesses have a little of confidence.
+Just articulate what is it therefore
+that's restrictive or even even modestly
+restrictive about the current stance?
+Well, so you're I think
+&gt;&gt; how do you how do you how do you
+demonstrate that it's restricted?
+&gt;&gt; Yeah. Yeah. So, so there look, there's a
+lot of market opinion about kind of the
+nature of where the policy rate is to
+say let's say where the 2-year Treasury
+is and just that, you know, everybody
+has kind of the they get go back to this
+whole neutral rate conversation, right?
+&gt;&gt; Which I think has some value. I mean,
+the RSTAR processes of value. There's
+going to be some really interesting
+discussion on the Taylor rule. I mean,
+some of the Taylor rule dated today
+would suggest that maybe rates ought to
+be a little higher. Uh so that we're
+going to I think we're going to really
+bear down on the nature of how
+restrictive things might be. And but to
+your point, Joe, with all the data sets
+that you just espoused along with the
+dual mandate data sets, it just seems
+like we're in a pretty good place. I I I
+don't think we should not talk about
+would there be a scenario where rates
+could go higher on the policy side. The
+PPI was a bit eye opening. We'll see
+where uh the CPE comes in and in later
+here in August and September. Not that
+that necessarily it needs to go higher,
+but I you have to be willing to anchor
+yourself inside those mandates. So if in
+fact you see something that needs more
+restriction, you should shouldn't be
+unafraid to act. That's our job. So So
+we'll we'll see. But right now, it seems
+like we're in a good place. By the way,
+we we brought that policy rate down 100
+basis points since a year ago. So it's
+not like we haven't moved it. And the
+yield curve seems to be in a pretty good
+place, too. And so I I don't know. I I
+like I like what I'm seeing right now
+with a bit of caution on let's just keep
+our eye on this inflation number as they
+emerge.
+&gt;&gt; So I have one more question because I
+realize it would be bad if we had you on
+and we didn't ask you at least one
+banking question given your uh previous
+career history but the other forgotten
+theme of our macroeconomic policy moment
+is quantitative tightening. Right? QT is
+still going on in the background and
+recently we've seen use of the RRP the
+repo facility going to less than 50
+billion and so people are talking again
+about are we getting to a point where we
+are going to see bank reserves start to
+drop and maybe they will become scarce.
+I know the Fed has been watching this.
+Is funding on your radar at the moment?
+Is there a possibility that we do start
+to see some signs of additional stress
+in the funding market?
+Okay. So, I would say that right now
+there there's a I think a general
+consensus that we are in an abundant
+reserves policy framework, but there's
+also debate on both the size of the Fed
+balance sheet and the size of the
+reserves in the system. There's actually
+very good debate relative to the cost or
+non-cost of ample or abundant reserves
+in the system. Is it does it create an
+inefficiency? Does it create too much of
+a footprint of the Fed into the markets?
+I will say that I'm I'm encouraged that
+we're in a project now that's I think
+going to going to modernize the discount
+window process. So I think there's an
+opportunity where the Fed as the
+nation's central bank can make the
+activities inside the discount window
+much more fungeable and much easier for
+banks to access. And I think you could
+start to see in the in future years
+where reserves and discount window act
+or react in a positive way where you can
+actually see a a smaller footprint of
+reserves where banks are much more
+comfortable having the backs stop and
+having a much much easier way to access
+reserves through the discount window and
+other tools as a way to make the market
+comfortable that there's plenty of
+liquidity in the system. So I'm excited
+about that. It's very timely that we do
+that because here again two years ago we
+launched Fed now. So I think what's the
+other fascinating thing about the
+ecosystem of banking is we are moving to
+an instant payment economy. I mean,
+you're starting to see even businesses
+start to think about paying people every
+day, you know, and just the nature of of
+of how we move money instantly, 7 days a
+week, 24 hours a day. The nature of that
+is really going to be a very interesting
+dynamic and it's going to be necessary
+for the central bank to be accommodative
+to the immediiacy of of that money
+movement. And so I'm I'm excited about
+some of the conversations we're having
+to make that to make our system of money
+movement much more modern.
+&gt;&gt; All right. Well, Jeeoff, we're going to
+have to end it there. We could go on
+forever, but we'll save some of it for
+in person at Jackson Hole, I suppose.
+Great. I really look forward to that.
+&gt;&gt; Yeah. Thank you so much.
+&gt;&gt; Thank you so much for coming on and
+giving us a preview. And we'll see you
+in Wyoming.
+&gt;&gt; You're welcome. See you there.
+[Music]
+Joe, there was a lot to pick out of that
+conversation and it was a really good
+preview of I think what's going to be
+like hot button topics um at the event
+itself, but one sentence kind of jumped
+out at both of us I think which is the
+idea that well you know there are
+scenarios where interest rates you could
+argue interest rates should be higher
+here. H that was a little bit
+interesting and he phrased it in an
+interesting way and I have to like go
+back to the tape because there was like
+I think a double negative in there but I
+mean look you said it stocks are record
+high credit spreads are record low he
+characterized maybe we've already seen
+the worst of the labor market momentum
+for 2025 with the unemployment rate
+still in the low fours and inflation is
+still warm
+&gt;&gt; well I know he also he pushed back on
+the specific use of re economic
+reaceleration that
+But it is true. We have seen in addition
+to some of the data like turning
+negative or showing a slowdown, we have
+seen some of the data start to tick up
+at least compared to like recent months.
+&gt;&gt; So this is an interesting thing. We got
+that recent jobs report and you say oh
+we're like slowing down. But uh when we
+did our recent episode with Scand, he
+made the good point like well actually
+maybe that data was weak because that
+was the immediate post tariff volatility
+and you slam the brakes on the hiring
+and so forth. And assuming that the
+uncertainty measures have come down
+certainly since the middle of April, it
+is plausible that we've already seen the
+softest labor market of 2025.
+Mhm.
+&gt;&gt; Anyway, lots of interesting there. And I
+think like it's a really good theme. I
+mean, to a good theme for this year's
+conference because it does feel like
+some of the things that are happening
+immediately right now also intersect
+with long-term defines. And so there's a
+lot of moving parts.
+&gt;&gt; It's it's one of those conference themes
+that is not just like theoretical, you
+know, 10 or 20 years in the distance.
+It's sort of like
+&gt;&gt; it's very much now. And on that note,
+you know, we're going to have some good
+episodes that we record with people who
+are presenting papers on those topics.
+&gt;&gt; Very excited. So listeners should uh be
+prepared for much Jackson Hole content
+to come.
+&gt;&gt; Yeah. All right. Shall we leave it
+there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the All
+Thoughts Podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Jill Weisenthal. You can follow
+me at the stalwart. Follow our producers
+Kerman Rodriguez at Kerman Dash Bennett
+at Dashbot and Kale Brooks at
+Kalebrooks. For more OddLots content, go
+to bloomberg.com/odlots
+where the daily newsletter and all of
+our episodes. And you can chat about all
+of these topics 247 in our Discord,
+discord.gg/odlots.
+&gt;&gt; And if you enjoy OddLots, if you like it
+when we go to Jackson Hole, then please
+leave us a positive review on your
+favorite podcast platform. And remember,
+if you are a Bloomberg subscriber, you
+can listen to all of our episodes
+absolutely adree. All you have to do is
+find the Bloomberg channel on Apple
+Podcast and follow the instructions
+there. Thanks for listening.
+[Music]
+Heat. Heat.
+[Music]

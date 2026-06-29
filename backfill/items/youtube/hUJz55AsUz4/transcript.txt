@@ -1,0 +1,1659 @@
+Kind: captions
+Language: en
+Over lunch, this individual told me, you
+know, every founder and every VC in
+China studies the West at a nauseating
+level. So they listen to all the
+podcasts, they read everything they
+possibly can, they study any speech,
+they look at the financials. And he
+said, "The West doesn't do that of
+China."
+And you know, maybe we should be maybe
+we should be studying the best and the
+brightest over there.
+[Music]
+[Applause]
+&gt;&gt; Hey, Bill. Great to see you.
+&gt;&gt; Good to see you.
+&gt;&gt; Summer's summer has just blown past.
+It's It's almost football season.
+&gt;&gt; Yes.
+&gt;&gt; How are the Longhorns looking this year?
+Um, they're ranked pretty high.
+&gt;&gt; What's that mean? Come on, give me the
+scoop. I know. I know. You're all
+&gt;&gt; people that people that know, but they
+they have the dangerous starting
+position of being ranked number one in
+the country.
+&gt;&gt; Oh, wow. Wow. Any big games coming up?
+&gt;&gt; They uh play the number two team in the
+country this Saturday. And
+&gt;&gt; so, we're going to find out. We're going
+to find out. We're gonna find out. Oh,
+back to Buckeye country.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; It's been really incredible. uh you know
+I just I just got back to Silicon Valley
+um after you know being away for a few
+weeks these you know the OpenAI deal the
+anthropic deal I was just looking at
+these I think these are bigger private
+IPOs than any public IPO uh done in the
+last 5 years in the tech market right
+you had Sam say the other day Sam Alman
+say you know two two things can be
+simultaneously true um one that this is
+the biggest thing to ever happened in
+technology But number two, uh, that in
+the short run things become overheated
+and people are can get a little bit
+ahead of themselves. Where are you on
+that? Look, there's just no denying that
+the amount of capital that is going into
+these companies earlier in their life
+and the scale of hiring and their
+willingness to take on risk, which I
+think you can use cash burn as just a
+proxy for risk because you get further
+away from knowing unit economics and and
+you're more threatening. you know, I I
+think what those numbers are
+unprecedented. Like even against, you
+know, the Uber Door Dash wars and all
+this, they're bigger than that. And so I
+think it's part of we've talked about
+it. I think it's part of a systematic
+trend where investors are aware of
+network effects. They they've watched
+companies that get the initial
+conditions right go on to really big
+outcomes and they're willing to bet
+ahead of the curve. And as the more
+confident they get over more time, the
+more they're willing to make that bet
+ahead of time and um and so, you know,
+it is what it is. We're seeing, you
+know, massive numbers.
+&gt;&gt; Well, I'd say it's it's a combination of
+two things. Extraordinary scaling. We've
+never seen two companies, in the case of
+OpenAI, scale uh users and scale revenue
+as fast as they are. But definitely,
+you're absolutely right. The private
+markets are there to meet them. Um, and
+we're seeing the depth and the breadth
+of capital and investment in the private
+markets, I think, unlike anything we've
+ever seen. But, you know, we're we're
+going to save that for
+&gt;&gt; Yeah, save it for Let's save it. I We
+&gt;&gt; We're going to save Let's save that for
+another day. We're going to do something
+a little different today. Um, you know,
+one topic that I think um we we've hit
+on time and time again, but we're going
+to we're really just try to dedicate the
+show to it today, and that's China. You
+know, you just got back from China. It's
+one of the hottest in many ways most
+consequential and also most
+controversial debates I think in Silicon
+Valley and in Washington. You know on
+the one hand you have I think national
+security economic hawks you know who who
+are in this camp that we should
+decouple. It's a little bit more cold
+war 2.0 a great power struggle. This is
+the mirrorshimer perspective. You know,
+maybe in the middle you have, you know,
+tech pragmatists, I guess I I might call
+them, you know, like Jensen Hang or Tim
+Cook. I'd probably put myself in this
+camp who thinks we we have to compete.
+We have to re onshore industry. You
+probably should have some tariffs in
+order to achieve that. But you you
+definitely can't decouple or ignore or
+or antagonize. And then maybe on the
+other end, you have kind of the
+globalist. I don't know, Jeff Sachs.
+Jeffrey Sachs is probably in this camp.
+It's free trade, open science,
+collaboration.
+And you know, there's this is of
+tremendous consequence to issues around
+tariffs and trade, issues around
+military, issues around AI. And there's
+this new book out by Dan Wang that I
+want to talk about um you know uh where
+where he really takes on the differences
+between the two countries. But why don't
+we start with you know this trip that
+you recently took. You know, you you
+just got back from China. Why did why
+did you go you know and frankly
+especially given all the you know
+blowback you've gotten personally
+benchmarks gotten uh with respect to
+China maybe for having too soft of view
+on China. Give me your inspiration for
+wanting to go and spend as much time as
+you did studying China.
+&gt;&gt; Yeah. So I've I've probably been four or
+five times before this trip but I hadn't
+been since um co and I've been reading
+you know about everyone that's been
+going. We had talked about Thomas
+Freriedman's comments um from his last
+trip and you hear about all the things
+that are different. Um, you know,
+personally, my my daughter's an Asian
+studies major, so she went on the trip
+with with myself and my wife, and so,
+you know, with her studying that topic,
+this is I thought it'd be a great chance
+for her to see things, too. Um, much
+younger than us, but I wanted her to go
+around and the fact that she speaks
+Mandarin and was helpful on on the trip
+as well. But you, you know, you just
+said something, right? you said this is
+probably the most consequential, you
+know, other nation when it comes to
+thinking about America or thinking about
+our stock markets or thinking about how
+technology companies are evolving. And
+so I just wanted to learn like like like
+why wouldn't you want to know more? I
+don't understand how you if it is the
+most consequential relationship for our
+country, why you'd want to know less,
+right? And so, um, I've always enjoyed
+going over there. I've always en enjoyed
+learning things that I don't know. Um,
+and I really wanted to see it up close
+and personal. Um, one thing that was
+super helpful was Dan Wang, who you just
+mentioned gave me a early copy of his
+book, so I read it on the way over
+there.
+&gt;&gt; Tell us who tell us a little bit who is
+Dan Wang.
+&gt;&gt; So, um, it's a gentleman that lived over
+there. He lived over there during COVID.
+um you know he's a he's a policy analyst
+um and he recently moved back to the US
+um
+&gt;&gt; he's at the Hoover Institute been
+studying China for a long time looks at
+it through the lens of technology and
+innovation
+&gt;&gt; and the book's titled breakneck and it's
+really talking about some of the
+acceleration
+um that we've seen in in building you
+know inside of China but but it it I
+would suggest the two things about the
+book that are really interesting one he
+kind of uses Is it a mirror back on the
+US? So, it's really about both
+countries. It's not just about China.
+Um, and then two, he's balanced like he
+talks about the pros, you know, and the
+cons of what have happened over there.
+He starts with with this chapter that
+was recently republished in the Atlantic
+where he highlights that the vast
+majority of the polit are former
+engineers. So this is the the ruling
+party within China and that the vast
+majority of the people in Washington DC
+are former lawyers and you know the he
+uses that lens to say this is why
+they're great at building things and
+maybe why they're not so great at social
+things. I think he gives the edge to
+having the lawyers to protecting free
+speech and personal rights. He did not
+enjoy the lockdown in Shanghai which was
+fairly abrupt. um he's very negative on
+the one child policy and for those
+people that don't know the the Chinese
+government's now trying to encourage
+people to have three children not
+successfully but but that's the new
+program um so they've completely flipped
+from where they were um but but it's a
+fascinating read it's a very personal
+read you can tell that you know his life
+journey his parents were born there and
+left you know and went to Canada and
+that's how he grew up in the west and
+then he went back and so he has it's I
+think it's a really interesting lens but
+it's very very current. One of the
+things he really dives into and this is
+something that that people that I talked
+to that know China have known this for
+some time but I don't think the general
+people understand this. So one of the
+things that's led to the vast buildout
+so we've read about high-speed trains
+we've read about overnight cities we've
+read about their number of companies in
+the solar space and the EV space. One of
+the reasons that happens is the
+provincial leaders compete with each
+other. So the provinces are very
+competitive with one another. Not in the
+same way the states are really. Um, one
+of the reasons this is true is if you
+run a province and do well, you put
+yourself in really good standings to
+move up in the federal government. But
+wouldn't you say that's a I mean that
+seems to me like Gavin Newsome competing
+you know with Dantis in Florida on you
+know who is more business friendly who
+is tougher on immigration. It seems a
+little bit the same way.
+&gt;&gt; I think it's a little bit the same way
+but the difference is that because
+there's a singular government that's
+going to make choices like like in the
+US if you do well as a governor you
+might get elected. But in this case,
+it's more like divisions of a company
+and if you run one well, you might get
+the CEO job and and so that competition,
+you know, leads to overbuild in certain
+cases. So there's several ghost cities
+um that that are buildings that are
+empty, you know, where they've built too
+fast, are now facing problems even
+though they're the world leader in EVs
+and the world leader in solar panels
+where some of these companies need to go
+bankrupt and a province may not want
+them to because of employment issues,
+right? And so those are th those are
+flip, you know, two sides of a coin. You
+get one benefit, you get hyper
+competition. We talked about the
+thousand flowers bloom. So this the the
+federal government publishes every five
+years this this mandate of the things
+these are the things that are important
+and you need to go work on and then the
+provinces you know go go at it like they
+go right against those initiatives and
+that's that's how they've got taken a
+lead in those things we mentioned and
+energy production right you wonder we
+talk about all the number of nuclear
+plants that they have new nuclear starts
+solar farms wind farms
+&gt;&gt; I want to dig into that
+I think there's this general view that
+China's good at building things,
+building iPhones, but perhaps not at
+innovating, right? And then, you know,
+Jensen Hang reminded us recently that
+50% of the world's AI researchers are in
+China and they're indeed innovating and
+not copying. You know, on the ground,
+when you look at the things happening in
+auto, when you look at the things
+happening in AI, when you look at that
+things happening in space or energy,
+etc. Um, how would you compare contrast
+as a venture capitalist the level of
+rigor and innovation and excitement,
+enthusiasm,
+um, and investment, I guess, going on
+against these, you know, critical future
+industries.
+&gt;&gt; Well, if you're over there, you you know
+that the bite dance founder is just
+remarkably unique. You know, Le Jun at
+Xiaomi is remarkably unique. And if you
+spend time um studying those people, I
+just I don't know how you would possibly
+think that they can't innovate. I mean,
+t Tik Tok was there first, right? And
+then it came here and then reals copied
+Tik Tok. One thing that doesn't seem
+like innovation, but I was surprised by
+PopMart is a uh 4050 billion dollar
+public company, which is a children's
+toy company that started in China and is
+everywhere over there. But like just the
+idea that that there is no innovation.
+You know, one one of my favorite
+meetings and I promised I would protect
+the innocent. So I'm not going to sure
+who it was with, but over lunch this
+individual told me, you know, every
+founder and every VC in China studies
+the West at a nauseating level. So they
+listen to all the podcasts, they read
+everything they possibly can, they study
+any speech, they look at the financials.
+And he said the West doesn't do that of
+China.
+And you know, maybe this goes back to my
+main motivation for going over there to
+learn, but that I thought that was a
+very provocative statement that he made,
+you know, and um maybe we should be
+maybe we should be studying the best and
+the brightest over there. Well, let's
+let's dive into, you know, maybe one
+industry, I I guess, as a lens. Yeah. I
+know you spent a bunch of time uh in the
+auto industry. Yeah. Right. Looking at
+all of these new entrance and I help us
+understand the innovation that's
+happening there on two dimensions. One
+on uh you know just electric vehicles.
+number two on you know maybe autonomy
+and then number three I'm just curious
+like how Tesla is able to compete so
+effectively you know in a market where
+you have this hyper competition uh for
+electric vehicles.
+&gt;&gt; Yeah. So I I I had a number of auto
+experiences when I was over there. First
+of all I I was invited to um visit BYD.
+This is my they gave me a nice coat. I
+um I met with Stella Lee who is their
+number one executive I think facing
+outside of China. Um she runs all their
+Europe initiatives. For those people
+that don't know BYD is the largest EV
+manufacturer in the world at about 4
+million vehicles. Um they started in
+batteries. They they you know they
+compete in with uh Fox Con to build
+mobile phones. They bought Jable
+Circuit. You remember that old company?
+&gt;&gt; I do.
+&gt;&gt; And they make lots of things. They make
+buses and subways and all kinds of
+different things, but they got into cars
+uh over I don't know about 5 to 10 years
+ago. Um they have a number of models.
+They gave me this one. This is, you
+know, a a very kind of high-end sports
+car. In fact, I met a public company CEO
+that was proudly showing me this was his
+favorite car that he drives around. They
+make an SUV you can drive into the
+water. I don't I don't know exactly why
+you'd want to do that, but we rode it
+into the water, drove around in the
+water, and drove out. Um, they have cars
+at 10 to 15 grand price point on the
+entry side. They've hired a European
+designer, which is how they're building
+stuff like this. Um, on the higher end,
+um, and, um, they're very aggressive
+from a cost perspective. I think BYD
+more than anyone on the cost side. It's
+not preventing them from building
+higherend cars as well. Um, so that's
+BYD. I also had a chance it to visit
+Xiaoi. They also gave me a car. The uh
+the Xiai is a super interesting story if
+people don't know. So I I was fortunate
+enough to meet Lejun back in 0304. Um
+but about 13 10 to 13 years ago he
+started a phone company and that's what
+Xiai is and that company's now third I
+think around the globe in handsets sold
+heavy in Europe heavy in South America
+not just China um and 3 to four years
+ago I think around 2021 he decided to
+build a car and it was about the same
+time Apple said they were going to build
+a car and and mind you this guy was back
+in 03 ran an e-commerce company called
+Joy-Yo. Like like he's he wasn't I
+there's no reason he should be able to
+build a phone and then build a car.
+&gt;&gt; So what do you attribute that to Bill?
+like why you know when you see that you
+know again going back to Dan Wang's book
+he's like this is an engineering culture
+that has built these technological
+ecosystems that gives rise to a higher
+velocity of innovation uh you know than
+we see in the United States that Dan
+would argue is bogged down by you know
+regulatory capture and lawyers etc. Why
+do you think uh you know Xiai is so
+successful?
+&gt;&gt; And by the way let me let me just share
+with you some numbers. So, so they're
+making uh a thousand of these a day.
+They just came out with a kind of a
+Cayenne
+&gt;&gt; thousand cars a day.
+&gt;&gt; Yeah. In in this in the factory that I
+went to, um it it it they're sold out.
+They have like a 30 to 40 week backlog.
+Um you have to pay five grand to get on
+the waiting list. The factory, this is
+an interesting data point, the factory
+makes a thousand cars a day with 2,000
+employees. Um, it was highly automated,
+like really highly automated. I imagine
+that they plan to improve that number
+over the next 5 years. Let's say they
+took it to a,000 employees for a
+thousand cars. That'd be a employee per
+car per day. That number is like at six
+in the US. And that's super interesting
+for a number of things. It's like if you
+want to bring the jobs back there by the
+time you get the jobs back there may not
+be any jobs like like at one
+&gt;&gt; because of automation
+&gt;&gt; the entire global you know potential for
+car manufacturing in 5 to 10 years from
+now could be like 400k total and so you
+know we we need we just need to be
+really thoughtful about those things but
+but but back to Leune he gave a talk in
+2024 we're talking about maybe people
+should be watching and learning in both
+directions that I would encourage people
+to watch. It's on YouTube. It's his
+State of the Union from 2024. And he
+spends about an hour talking about his
+approach to building a car. And it
+sounded like so ridiculously I don't
+like like you ask about entrepreneurial.
+He he he decided that he hadn't been
+driving a car for 10 years because he
+had had a driver. So, he immediately
+switched seats with his driver and then
+he um he went through the parking lot at
+his company and if there was ever a car
+he had not driven, he'd leave a note on
+it and ask to borrow it and then he
+would have the uh the owner of the car
+tell them what they liked and didn't
+like. So, he claimed he drove 170 cars
+that way. Um
+&gt;&gt; and then he also like BYD, they hired a
+European designer um that came in and
+helped him out. But for an entrepreneur
+who had never been in the car business
+to build a factory in a three-year
+window and and look, same thing was
+true. Our friend Omid built a factory in
+Texas, you know, you know, under 40.
+Like just spectacular that that these
+entrepreneurs are capable of doing these
+things. But it just kind of blows my
+mind like when I was being driven in
+this golf cart through this factory just
+thinking that this person wasn't in the
+business three or four years ago. And
+for for people that don't know, I'd
+encourage you to go online and and so uh
+the CEO of Ford Farley, he went over
+there and I think had the exact same
+tour I did and he insisted they ship him
+one back to Chicago and he's been
+driving it around and he's made some ex
+pretty extreme statements um after
+having experienced John. This car sells
+for about 40k. Um but he said it's the
+most humbling thing I've ever seen. And
+he says even beyond that their cost
+their quality of vehicles is far
+superior to what I see in the west. We
+are in a global competition with China
+and it's not just EVs. If we do not if
+if we lose this we do not have a future
+at Ford. you know that that's farly at
+Ford, you know, and and I by the way, I
+would take a pause after mentioning that
+to the people that are going to um
+accuse just because I went over there to
+learn accuse me of somehow being like a
+a an agent for the CCP. Is that also
+true of the CEO of Ford? You know, like
+why is he saying these things? Like
+we're just witnessing what's happening
+on the ground. One of my observations
+is, and you hear this from Elon, you
+hear this from Jensen Huang, you hear
+this from Tim Cook, you hear it from
+Farley, it's extreme respect for the for
+the level of innovation, um, for the
+focus, for the engineering culture that
+exists in China. And that to me, one of
+the reasons I wanted to do this pod on
+China is because I think it's as much a
+reflection about what the United States
+needs to do to re-engineer its own
+society, right? It's not enough to say
+that we want to reonshore critical
+manufacturing. It really is about, you
+know, this movement around American
+exceptionalism, America builds. It's
+about making the reforms necessary
+whether it's regulatory capture whether
+it's the you know tort reform legal
+reform required to frankly allow uh uh
+you know this level of innovation and
+recognize that we're in this global
+competition you know and there are two
+ways in which you can you can approach
+this bill one is we can build barriers
+we can try to decouple and we can
+pretend the rest of the world somehow
+won't buy China's goods You know, but if
+you look at it today, the US only
+represents about 14% of China's exports.
+The US only represents about 3% of
+China's GDP.
+&gt;&gt; Yep.
+&gt;&gt; Right. So, like we're just not that
+important to China. I I don't want to
+understate like, you know, we're still
+very significant, but China has found a
+market in Europe. They found a market in
+Africa. They found a market in South
+America, right? And it it seems to me
+that the harder pill for the US to
+swallow and this is where I think that
+you know I I I'm in the camp of of those
+in the middle who say we need to engage.
+We need to compete. There is a
+competition. We want to win the
+competition. But this is about focusing
+on us and winning and running a faster
+race. We have a lot of reforms. I think
+a lot are occurring now. I think we're
+doing the type of things that we need to
+be doing um in order to get more
+globally competitive. There are
+industries that are critical to our
+national security um you know things
+like rare earth magnets, things like uh
+you know steel productions, things like
+pharmaceuticals where I think it is
+appropriate to have both an industrial
+policy and a tariff policy that's going
+to provide the incentives to those
+industries. Um, but it it's, you know,
+to me, you know, the reflection on what
+I hear you saying about China when I
+read Dan's book is that China is putting
+the accelerator to the floor in terms of
+innovation and it's in every single
+industry. It's powered by, you know, the
+this provincial competition you talked
+about. It's powered by people who are
+just, you know, naturally
+entrepreneurial and hardworking. Um, and
+there's no escaping that and there's no
+putting that genie back in the box.
+Would you What are your thoughts on
+that?
+&gt;&gt; Yeah. No, I think it's exactly right. I
+mean, BYD has um a big presence in
+Hungary and they have a fac they're
+building a factory in or already have
+one in Mexico. And why, if you're
+Mexico, would you not buy the 10 to 20
+grand EV? Why would you buy the 50 grand
+one from America? It just doesn't make
+any sense, right? like you're if for any
+country around the world and I could
+reflect this on the US as well if you're
+not going to buy you know domestically
+you you should certainly buy from the
+lowcost producer right it goes back to
+to comparative advantage right if you if
+you can't produce a globally competitive
+product and you close your import border
+your people are forced to buy a product
+that that is overpriced and and and not
+and and so from a from a standard of
+living perspective, they're worse off
+than they would be if you had opened the
+import door. And so I don't you know, I
+I'll give you another example of this.
+So this is the the BYD. This is the
+Apollo um competitor to Whimo. So we
+we've we've seen the Whimos around
+Austin and San Francisco. We've ridden
+in them. This is I've ridden in this
+now. Um, it's a little bigger, I think,
+a little roomier than than than the
+Jaguar for sure. Um, it's more of an
+SUV. Um, but this is on the streets, you
+know, and Apollo is kind of interesting.
+It's inside of BYU, which is a search
+engine company. Um, while people are
+simultaneous, while people are saying
+that that that Whimos should be worth
+170 billion inside of of Google, you can
+buy shares of BYU for zero enterprise
+value. It's a 30 billion market cap, 30
+billion in cash on the books. Um, and
+from a global perspective, I don't know
+why if this is 30K, why you'd want to
+deploy Whimos, which people say are over
+150K partially due to the to the MIM
+solid state LAR advantage that China
+has, which we've talked about
+previously. So yeah, I think rest of
+world is a really interesting thing to
+think about, you know, when you compare
+the two countries because I don't think
+that I I person and I I don't have a ton
+of data on this, but I I personally
+don't think all the other countries in
+the world share the same level of
+hawkishness that at least part of the
+members of our national government have.
+And so I don't think they're going to be
+as afraid of their technologies.
+&gt;&gt; Let's think about this in the context of
+you know uh uh uh what you seen if you
+were giving advice to Trump uh on export
+controls for example Bill um you know
+whether it's on you know AI chips or
+other things um you know would you be uh
+you know what would your advice be?
+Well, I mean, I think you hit on some of
+it around the red tape. And, you know,
+there's a couple different things in
+certain industries where we're really
+behind. I would be very open-minded to
+JVS coming towards us. You know, for the
+past 50 years, you know, European car
+manufacturers, US car manufacturers,
+they opened facilities in China. Some of
+them were forced to be 49% owned, 51%
+owned. I'd be very open to that kind of
+thing. Um there was some positive news
+out this past week um following Trump's
+engagement with Korea around nuclear
+which we have talked about before. Korea
+can build a nuclear plant for 1/4 the
+price that we can. Why don't you invite
+them to come help us build a few in the
+US and see what we can learn? And I
+wonder if we should allow Ford. There's
+going to be there are so many EV
+companies. I didn't even mention, you
+know, NEO and Ziker and some of these
+other thing. They're all innovating in
+different ways, but some of those are
+going to have financial trouble. NEO's
+public. You can see that that the
+stock's not doing all that well, but
+would we let a Ford or a GM buy one of
+those companies, right? Maybe we should.
+I don't know if the China government
+would let them. Would we let one of
+those companies open a JV with Ford or
+GM in the US? I think we should if we'd
+learned from it. You could say the same
+thing about solar um or any of these
+technologies where they have a lead,
+solar, nuclear. So, I would be
+open-minded to those types of things. Um
+I would be really big on trying to get
+regulation out of the way and
+recognizing that that an autocratic
+country that has specific goals can move
+so much faster um in any industry than
+you ever could in the US. um because
+we've created so many people whose jobs
+it are to block things. Um and we're
+seeing I think we're seeing that type of
+behavior in certain states which is why
+TSMC's in Arizona, which is why Tesla's
+in Texas. I would give Governor Shapiro
+a lot of credit um for reopening Three
+Mile Island and what he did with I95.
+like like all those things are signs of
+recognizing that we've built mud, you
+know, in in our system um that prevents
+building and how do you how do you get
+how do you start to remove that and move
+in the opposite direction
+&gt;&gt; specifically uh you know thinking about
+the tariff? So, you know, I think that
+the president uh tweeted yesterday
+morning if you know, if we don't get I
+it it was appearing that we're on a
+glide path and making a lot of progress
+with China, we may very well be. I think
+he tweeted yesterday morning that if we
+don't get rare earth magnets from China,
+he could raise the tariff rate to 200%.
+There was some talk that he was going to
+visit China in the first week of
+September. So, that's, you know, right
+around the corner. Um, I said on a
+couple pods ago, I thought that, you
+know, the way to understand uh this
+president is that he's a self-described
+deal junkie. He's a pragmatist. He's not
+an ideologue. It seems to me that when
+he's talking with Jensen Wang and
+others, he falls in that kind of
+pragmatic centrist category. Um, he
+certainly wants to rebuild stuff in the
+United States, but at the same time, it
+appears to me he wants to get a big big
+deal done on China. Where do you come
+down? Again, if you were adviser on the
+tariff side of things, Bill, um do you
+think he's going to get a big deal done
+with China? Do you think that's the
+right thing uh to do? And how do you
+think that influences uh some of the
+building that you're talking about?
+Okay, th this is I I have zero insight
+like I didn't I I didn't I didn't meet
+with anyone in the in the CCP or the
+government so I have no idea what what
+their mindset I this is pure speculation
+on my my point my part. Um, you already
+brought up the fact that that we're a
+much smaller percentage of their exports
+than people realize and people think
+about. And as a result, you know, I
+think that they're going to be China is
+going to be far more um biased by what
+they view as as fair and and face saving
+than they are necessarily like numeric.
+And so I think if we if someone were to
+approach them in a pragmatic way, I
+think a pragmatic deal could easily get
+done. I you know, if they are engineers,
+as Dan Wang said, I it's not like, you
+know, they they wouldn't accept a
+pragmatic outcome. I think they would,
+but if we um if we're intent on being
+derogatory
+in our language and and by the way,
+that's the thing that I just really
+don't understand um that you see in
+Washington, you see it on that select
+committee of the CCP and you see it from
+some of the the the people in Silicon
+Valley. I just don't understand the
+value of being uh belligerent and but
+but penny people clearly are. I mean,
+they have four times the number of
+citizens on this earth than we do. And
+um none everybody's, you know, country
+of birth is something that happens to
+them outside of their control. So I I
+just don't know why vilifying uh a
+billion people is a good idea. Um so I
+think it's possible. I think there's a I
+think they would do a deal. Um, and I
+just don't know if uh if we get caught
+up in a silly um tit fortat verbal war
+what the benefit of that is and anything
+like that. And this is one of the points
+Sachs makes um Jeffrey Sachs not David
+you you you might provoke World War II.
+So what what do you what do you what's
+how do you put that into your MPV
+calculation? Is it fair to say that, you
+know, I think if you look at tariffs,
+um, heading into this year, they've
+basically doubled on China, but if we
+put tariffs on, you know, particular
+industries in order to incent, uh,
+building and industries in the United
+States, imagine it was a deal a bit like
+Japan, Bill, where we also, you know,
+cut a deal with the Chinese that they
+had a trillion dollars of investment the
+way we have with other companies that go
+into to the US into some of these uh you
+know industries and that we perhaps get
+some reciprocity and reduction of
+barriers to some Chinese goods into into
+China where how would you handicap that?
+Did you get any sense um uh or or or you
+know do you get any sense from the uh
+the stuff you read in the United States
+as to the the probability of that? I
+think it's one of the biggest influences
+as we look at growth in the back half of
+this year, as we look at market
+sentiment in the back half of this year.
+Just curious where you stand on that.
+&gt;&gt; Ironically, one of the things that I
+mean, like I said, I met with I met with
+companies and founders and and and
+a few academicians, but I did I and some
+journalists, but I didn't meet with with
+the government. But in general, there's
+just not any hostility from their side,
+from that group of people that I met
+with. In fact, most of those um most of
+those people look up to the US founders
+that have done great things, the Jobs
+and the Elons, and most of them aspire
+to compete globally the same way a
+founder in the US would like. And so
+they would like to see all this um
+rhetoric die down and they would like to
+have the opportunity to come to the US
+market. They'd like the opportunity to
+compete in Europe and South America.
+many are Xiai and BYD already are and so
+I think like I said I think there's a
+pragmatic deal to do um to the extent
+and and if if that um led to the types
+of programs that I just talked about
+this kind of JV thing where there's a
+market they're a leader in and we you
+know have that company come to the US
+and help us understand um how to compete
+in some of these technologies and get to
+lower price points I think that'd be
+fantastic. Do you feel like over the
+last 20 years, who do you think's gotten
+the best out of the relationship, Bill?
+&gt;&gt; You know, I haven't read this uh Apple
+China book. Um it's it a lot of people
+have been talking about it and I and I
+aim to. Um it it
+I think the problem with looking at it
+that way is you know you and I have
+talked about this finite versus infinite
+game is you know where are we in the
+time of the planet and what do you think
+the planet's going to look like you know
+15 20 30 years from now I mean I think
+it'd be very easy to say you know using
+your framing to say the US took
+advantage of Europe post World War II
+and a lot of the manufacturing that
+existed prior to World War II shifted to
+America. Um, and so you could then with
+that same frame say, yeah, China, you
+know, grew on the back of America and
+and and you know, from from that time,
+but I kind of look at it another way,
+which is there have been different
+periods where these different countries
+have industrialized. You know, we were a
+huge beneficiary post World War II
+because most of Asia and Europe had been
+blown up and there was no production
+capability whatsoever. And a lot of the
+kind of glory day mindset that we have
+about what life and generational change
+should be like in the US come from that
+time. Um, which is a bit unfair I think
+from a global perspective. But there's a
+ton of hardworking people over there.
+you know, Deng Xiaoping brought
+capitalism underneath the uh the Chinese
+government and led to the biggest, you
+know, um
+increase in standard of living of any,
+it's like 500 million people came out of
+poverty as a result of that. And you
+know, when people say, "Oh, we should
+have never let the jobs go over there."
+I I don't think they really want to say,
+"Well, we shouldn't have let 500 million
+people out of poverty." uh you know it's
+the same people that that uh want to
+talk about aid in Africa and whatnot. So
+a lot of people benefited in China. Um
+but they're also hardworking people and
+and and we we talk a lot about
+meritocracies, right? And some of the
+same people that talk about
+meritocracies are anti-China. And so
+that that's a hard thing to square
+because if someone's willing to work
+twice as hard, you know, as you and you
+know, willing to study harder and and
+all that kind of stuff, are they do they
+not deserve a chance at a life like you
+have? I think the bigger complaint is
+that um we were naive in our trade
+policy and therefore we allowed huge
+advantages to flow to other areas and
+you know by the way as Dan says in his
+book at the same time we were actually
+moving to more of a regulatory state in
+the United States. So you know like our
+companies were getting less competitive
+at the same time we were helping their
+companies get more competitive and there
+was a lot of collateral damage in the
+United States during that period of time
+and I think right now people are saying
+okay we're moving into this age of AI
+but we have to get back to driving
+reform in the United States that levels
+that playing field a bit. Um and so you
+know you can't you can't undo the past.
+Um but I do think there's a recognition
+that um you know we need to do the
+things in order to incentivize US
+industry to compete more effectively in
+a lot of these different categories. Um
+I think it is going I think it is going
+to be tricky though. You know, if you
+say, you know, you've got a hundred
+competitors in the EV industry in China,
+they're all willing to work on razor
+thin margins and they're willing to sell
+cars into Europe at $20,000 or $25,000.
+Today, as Farley said, there is not a US
+manufacturer sons perhaps Tesla that
+comes anywhere close to being able to
+compete in that way on a global basis.
+&gt;&gt; Correct. One thing I've been studying a
+bit is I I do think that the Chinese
+government's more has more scrutinous of
+monopolies. You know, I don't think that
+they I think they would consider it a
+negative if there were seven companies
+worth $3 trillion or whatever. Like I
+don't think they care about market cap.
+I think they care more about employment
+and global competitiveness, which would
+cause you to support low margin
+companies. Um, and and you know, they
+they get to choose to make that choice.
+I'm not judging it, but it would result
+in this outcome. You know, there's in
+addition to the Farley quote, the
+Mercedes CEO said, "We need a reality
+check." Um, when he was talking about
+Chinese EVs and then Stalantis, I guess
+is the new name, Stalantis,
+&gt;&gt; who who rolled up a bunch of other car
+companies. They said Chinese EVs are
+quote possibly the biggest risk facing
+his car maker and Tesla. Um and uh he
+criticized this is Carlos Tvarez. He
+publicly criticized EU tariffs on
+Chinese electric vehicles calling them a
+major trap for automakers. And this is
+this is you know you talk about what
+policy would fix things. I'll tell you
+what policy will make things worse. you
+know, you start protecting US industries
+by putting export tariffs on the most
+competitive products around the world,
+which I talked about earlier. Now, your
+consumers don't have access to those
+price points. And so, you're buying
+inferior goods at inflated prices, and
+that's going to lead to inflation and
+prosperity and standard of living living
+levels dropping in the US. So, there's a
+lot of variables. I I would say that's
+generally true. I think if there's a
+moment, you know, if there was a
+national strategy to improve
+competitiveness in an industry that had
+been, you know, um, uh, uh, let's just
+say had an unfair, uh, playing field for
+a period of time. Like I could see a
+national strategy, for example, we
+talked about pharmaceutical
+manufacturing, we talked about chip
+manufacturing, we talked about rare
+earths, where you would say, okay, we're
+going to actually impose a tariff
+because these other goods are flooding
+and it deprivives us of the ability to
+build our own domestic industry. But I
+think we have to be very careful when
+you do that, Bill. To your point, we
+know that unfettered competition will
+lead to uh, you know, is going to lead
+to much better products, much lower
+prices. And when you start protecting
+these industries, what I worry about is
+you protect the regulatory grift and the
+the the the overly lawyering that Dan
+talks about in his book, right? We got
+to face up to this fact that we have to
+reform some of these uh, you know, basic
+things in the United States. And that's
+why you see companies like Tesla moving
+to Texas where those reforms are moving
+forward. And I think you know I think we
+are making progress on that. But I you
+know I think you there is a rationale
+uh for those critical national
+industries. But I generally agree with
+you that if we move to high levels of
+protection because we simply can't
+compete because it takes you know us uh
+you know 10 people uh in an auto plant
+to do what they do with one person in an
+auto plant. I think that's
+unsustainable.
+&gt;&gt; You and I think we need to be careful
+with the rhetoric we throw around. So So
+I'll give you an example. So um if you
+read what comes out of the biggest
+talks, they say, "Well, everyone in
+China just steals things and the
+government subsidizes everything." So
+when I I brought that up with I brought
+up the subsidization with Stella Lee at
+BYD and she said she said, "If I'm
+getting all this government subsidy
+money, can you please find it and show
+it to me? We're we're a public company.
+come show me the money I'm getting from
+the government. She's just say I'm
+getting nothing. And um and and then you
+know, you look at the US like we give
+companies subsidies all the time to
+build factories. We've had EV credits
+for the past 10 years both at a state
+and a federal level. Um Intel's getting
+money from the US government. like I
+don't understand where we're say like
+like it's very unclear to me like what
+we're pointing at and accusing and why
+it doesn't isn't the same thing here.
+And then lastly, you know, Elon's
+published all the Tesla patents. Okay.
+So, there's free IP for Ford and GM. And
+I would ask you with that free IP, if we
+gave Ford and GM subsidies, do you think
+they'd immediately be competitive with
+China?
+&gt;&gt; No, sir. Okay. And if I ask a hundred
+smart investors that question, what
+would they say?
+&gt;&gt; I think they would agree with me.
+&gt;&gt; Yeah. So, so, so, so the thing we're
+accusing them of being the reason
+they're succeeding, if you flipped and
+gave that to the US companies, none of
+us have confidence that would work. So,
+that's what I'm saying. You just got to
+try and get as much information as you
+can, learn as much as you can. Um, so
+that you I I just want people to have a
+pragmatic view and an accurate view as
+they make decisions. I I did a deep dive
+on on your favorite product chat GBT
+$300 version deep research and on the 24
+members of the select committee for the
+CCP and I think all but four have never
+been to China.
+&gt;&gt; Um, right. And the ones that went it was
+seven years ago. I'd just encourage them
+to go visit if they're going to sit
+there and have um such strong opinions.
+It'd be good if they were educated. I
+wouldn't want if you were putting
+together a committee inside of your
+corporation um that's going to be in
+charge of something, wouldn't you want
+the most educated people on that
+committee?
+&gt;&gt; I can already hear the criticism that
+Oh, yeah. Um, you know, you know, of
+course people would say, well, we don't
+expect the CEO of BYD to tell you the
+truth necessarily about government
+subsidies or or or things like this. Um,
+but here's the one thing I want to get
+across in, you know, kind of this
+pragmatist camp. We do have to be
+self-reflective,
+right? I mean, if we have this if we
+have this view that the only reason
+China's competitive or winning is
+because they're they're stealing or
+they're subsidized. I think what that
+view does is it allows us to delude
+ourselves into believing we don't need
+to get better ourselves.
+&gt;&gt; Yeah. Like it's like if you're playing a
+competition and you know your your kids
+out there playing in a football game or
+a swimming race and they lose the race
+and they come back to you and they say
+well the only reason that person won was
+you know they cheated. You know like
+your advice I think is no you've got to
+get better yourself. We've got to get
+better. How can we get better? And I
+think that's why cultivating this
+balanced and realistic view of China,
+what's actually happening on the ground,
+how hard right, folks are working, what
+the level of innovation is, the fact
+that the United States is is is a
+diminishing part of their trade, of
+their GDP, etc. I think that should
+cause us to look a little bit inward
+about how the hell do we accelerate? How
+do we build more? How do we invest more?
+How do we, you know, get more globally
+competitive? Why does it cost us four to
+five times to build a fision reactor in
+this country? Why are we building no
+nuclear reactors in this country? And so
+the good news is this. I feel like
+there's a lot of momentum under this
+administration that was building before
+this administration around investing in
+America, getting more globally
+competitive, right? A lot of people want
+to build things here again, you know,
+and and you got you have somebody like
+Jensen Huang who says both can be true.
+We need to sell H20s and B30s into
+China. We need to stay relevant in their
+ecosystem, but at the same time, we need
+to build plants in Arizona. We need to
+rehabilitate and invest aggressively in
+our own domestic chip program. Those
+things can be simultaneously true. Um,
+and it it it's interesting that all of
+those CEOs who spend the most time
+competing in China, you know, they all
+fall in that pragmatist realist camp. Y
+&gt;&gt; um you know in the center about you know
+the United States needs to get serious
+about the work that it needs to do if it
+wants to remain globally competitive.
+&gt;&gt; With that said, Bill, can we shift for a
+second? I want to I want to, you know,
+look at this through the lens of kind of
+just what's going on in AI, you know, um
+I know you spent a bunch of time over
+there looking at the key players on the
+model side, on the, you know, thinking
+about the chip side, etc. Um so maybe
+just round out that other conversation
+and then shift there.
+&gt;&gt; Yeah. So so um one thing one thing to
+note that um that isn't in the Dan Wing
+book but I I think that we can infer
+from it the government every 5 years
+publishes this five-year plan. Um the
+last one was the 14th and I think the
+next one will be coming out soon. I
+would encourage everyone to read that
+because that's where they tell the
+provinces what's important to work on
+and that historically has led to these
+areas where they're investing heavily
+and they might make a mistake in what
+they say to focus on but when they've
+gotten it right it's led to a lot of
+global competitiveness. So I would watch
+that but in the in the last one in the
+14th they literally talked about open
+source. Um, and so, you know, I I'll put
+a link in I found a document that covers
+all the history of Chinese open source,
+but it goes back 20 years. This isn't an
+overnight thing. Um, and our government
+recently said they were pro open source
+in this new AI executive order, but but
+but this was kind of pushed out to the
+provinces. And so, two two things I
+would say about the AI market there.
+First of all, no one's particularly
+concerned about there being a a
+monopolist because there's so many open
+models. So there's in general, I think
+from the entrepreneurs perspective, um a
+more relaxed, you know, opinion because
+they can work on products and they can
+take in all these different models. I
+think I think Deep Seek has the most
+kind of intellectual brand because of
+how that arrived and and and almost the
+the the national pride that came along
+with it. Um Quinn um is a really
+important player mainly because Alibaba
+leads in the cloud market over there.
+They're about as you you may you and
+your team may know more of these stats
+than me Brad but I think they're like a
+70% player in the cloud market and so
+that just gives them a natural place to
+deliver models from that makes them
+important and then on the consumer side
+you know bite dance seems to be the
+company to watch on anything consumer
+and they already have an app if someone
+said whose app is closest to open ais in
+China it's already an app from bite
+dance um that's out there people on the
+watch list. People are very curious if
+10 cent's going to do something. You
+know, obviously they we chat still
+extremely um important in China and so
+that's a great asset if they were to
+bring something but they haven't been
+particularly aggressive and then Xiaomi
+because of Le June everybody wonders
+what he might do and you know owning the
+phone and that big a market share might
+give you some advantages and we've
+talked about that with the US players.
+So that's kind of that's what I would
+say is the state of affairs over there
+on when it comes to AI
+&gt;&gt; on the model layer. Um is do you think
+there's an acknowledgment or a belief uh
+that they're basically they have the
+tools they have the chips you know with
+Huawei etc to be competitive? Like is
+there a sense in China that you know
+Quen Code is going to be competitive
+with Claude Code? Um, you know, we know
+they're all open source. Do you think
+there is a sense that they all stay at
+the frontier?
+&gt;&gt; Like I had that sense before I went just
+because of the number of competitive
+open source models and the way they can
+trade train each other. Did you just
+have a much more natural environment to
+have this kind of hyper competition that
+we talked about in EVs or solar? Like
+having that many open source providers
+gives you that I would say even maybe
+more because of the way the models can
+help one another. At least in the EV
+case like you can't take someone else's
+EV and make yours better, but here you
+can.
+&gt;&gt; Can we talk about that? Ju just open for
+a second. Let me double click on this.
+you know, obviously we saw o open AAI
+open source, you know, uh a model a few
+weeks back. Now we have comments this
+week out of Elon. Uh they're they're
+getting back to more aggressively open
+sourcing. Um, you've obviously got Meta
+already, uh, uh, you know, with Llama
+out there on the open source front. And
+I saw you had a tweet yesterday, maybe,
+Bill, just on you were surprised that
+Google had not taken a more aggressive
+position with respect to open sourcing
+Gemini. Um, do you think they will? Why
+do you think they haven't? And why do
+you think it would be the right thing
+for them to do that?
+&gt;&gt; Well, I I had some replies to that tweet
+to get into this, but this goes back to
+where you started the podcast. I don't
+think public companies understand or I
+don't think they've internalized
+um and and really come to terms with the
+fact that the private markets are
+willing to bet so aggressively on these
+new players and I you know we're talking
+about AI today but this could be true of
+any new disruption in the future. When
+when I was going through the the Uber
+lift wars and you know we'd be in board
+meetings and look at these burn rates
+and all this money we're spending. You
+talk about whether or not to raise
+another round and certainly thought
+about doing what Sam did and trying to
+talk capital out of the market which
+never seems to work. Um, but you get
+frustrated with that game and you want
+to, you know, but but you're dealing
+with business decisions that you would
+never see in another industry. And so
+getting back to the question you asked,
+you know, I just don't know like if
+everything's at stake for Google, should
+they be willing to lose five or 10
+billion dollars? Because the startup
+that's attacking their space is willing
+to lose that amount of money. And I
+think it's it's it's an ironic situation
+we're in where the private markets and
+the startups are willing to be more
+aggressive perhaps and more risk-seeking
+than the public incumbents are. And I
+think, you know,
+our friend Rich Barton took a lot of
+heat at Zillow when he when he chased
+Open Door, but he was faced with a
+situation where a private company was
+claiming it was going to out innovate
+him and disrupt his game and and some of
+Wall Street had come to believe that.
+And so he engaged and he played that
+game on the field. Now, that eventually
+turned out to not be true. Um and and
+maybe if he hadn't engaged competitively
+with Open Door, maybe they wouldn't have
+have kind of tripped and fallen. But but
+it was probably the right thing to do.
+And I don't think a lot of public
+companies think that way. Now Google
+historically when it came to AWS, open
+sourced Kubernetes and went after them.
+When it came to Apple, they open sourced
+Android. And certainly some of their
+their lower models are uh open sourced
+and competitive on open router, but
+maybe they should be more aggressive
+even still because of what's at stake.
+That was that was my point.
+&gt;&gt; Okay, shifting back real quick and you
+know we'll we'll round up here on China.
+Um you know the VC market in China, we
+just rewind the clock. You know, not
+that long ago, Bill. Um and you know
+there was a lot of US enthusiasm. There
+were a lot of US firms investing
+directly in China. Um right from SEOA to
+GGV. A lot of those firms either shut
+down or spun off their operations uh you
+know in China. Benchmark has taken a lot
+of you know heat for doing an investment
+manis that you know I've I I've read
+benchmark explained really isn't even
+you know based in China. what do you
+see, you know, when you were there, do
+you see a lot of US investors actively
+investing on the venture side in China?
+And then what is the Chinese venture
+ecosystem look like?
+&gt;&gt; So, a couple different things. So, first
+of all, um there's a real lack of
+westerners. For all my trips, this was
+the the fewest westerners that I've ever
+seen. And the high-end hotels and the
+high-end restaurants were fairly empty.
+Um and I think that it just has to do
+with the thawing of the relationship. um
+that's caused less travel from
+Westerners. Um the VC market um is in a
+bit of a lull because when when these
+policies all changed and when you know
+the Jack Maw thing happened, when DD got
+pulled back from the US markets, when
+the for-profit education companies got
+taken out and when uh you know WeChat
+went I mean 10-centent went flat for a
+couple years because of games reforms.
+All those things um took a lot of air
+out of the system and caused a lot of
+people to reconsider. And then you also
+had and I don't even know if this was
+more led by the US government or the
+China government. You had the splitting
+of the venture capital firms. Sequoia
+split in half. GGV split in half and and
+so there are much fewer western dollars
+available to invest in China. And so you
+know there are a few firms that have
+stayed. you know, Neil Shin at Hong Sean
+had raised a ton of money right before
+all this happened. He's very active, has
+a huge staff of people. um Anna Fang and
+and Zen Fund which is a a angel group
+are very active and IDG is highly
+present and has been active but that's
+only three firms you know and compared
+to where things were six years ago when
+every one of our um competitors in the
+venture industry were making an annual
+trip it's it's kind of night and day um
+and then there's not that many um R&amp;B
+dollars available to the venture market.
+A lot of the you don't have the
+foundations in and university endowments
+that you do here and the billionaires um
+that have made wealth typically are
+looking to diversify offshore and so you
+just don't have a lot of R&amp;B dollars
+seeking a home and now you have the
+provinces entering the investment space
+which is an uncomfortable reality for
+some of the VCs. They're ask I hear
+they're asking for terms that you and I
+would consider um non-starters,
+you know. Um and so that's it's all a
+little bit messy. Um it's it's funny
+because it's simultaneously with some of
+these markets, EVs, uh autonomous, uh
+robotics where they're where the country
+is doing extremely well. So, I found
+those things off a little bit and it's
+very everyone's very aware that if the
+government decides
+um your company is doing something
+that's not in the best interest of the
+uh citizenry that that's going to get
+corrected. And so there's a phrase, I
+don't know if it was in Dan's book or I
+read somewhere else called don't be the
+tallest tree.
+&gt;&gt; That's a problem for you.
+&gt;&gt; Yeah, exactly.
+Um yeah is in in that regard do you
+think you know that's what I was I was
+wondering you know there seems to be a
+ton of entrepreneurial activity despite
+the fact that you know VCs have
+retreated that you have companies that
+are not going public and have been shut
+down you have entrepreneurs that have
+gone missing it doesn't really seem to
+have diminished you you know the
+activity around uh you know around AI
+high as we were talking about clearly
+&gt;&gt; or or startups or entrepreneurism and
+and in fact a lot of the locals heavily
+dispute that Financial Times graph that
+was going around about the number of
+startups. They said it just mismeasured
+the whole thing and so no I I don't
+sense that there's any lack of
+enthusiasm from entrepreneurs and towns
+like Shenzhen um where where DJI and BYD
+and Huawei are all located. I mean that
+town is a new young 20 million people
+highly energetic you know town with lots
+of stuff happening you know lots of
+stuff
+&gt;&gt; you said something to me um well before
+before we wrapped is there anything else
+anything else that we we didn't cover
+that you want to you want to hit on
+&gt;&gt; there's two there's two things I would
+hit on you know you talked about
+innovation one thing one thing that that
+you notice very quickly as a westerner
+is no one takes credit cards. They used
+to like the last time I went, but it's
+almost 100% uh WeChat Pay and Alip Pay.
+And if you can't get those to work on
+your phone, you're screwed, man. You
+can't pay for anything. Um
+&gt;&gt; what's a what's what's the government's
+position on crypto?
+&gt;&gt; I don't know the answer to that
+question. Okay.
+&gt;&gt; I don't. But but because they've been
+using these apps for so long,
+&gt;&gt; um you've started to see incremental
+innovation around that. So, at most
+restaurants you go to, not the very
+high-end ones, there's a QR code on your
+table. That QR code not only represents
+the restaurant, but it represents the
+table. And you can order from that, you
+can pay from that. Like, like, so if you
+are done eating and want to pay and
+leave, you just scan and pay and go. You
+walk right out. And um, you know, we
+we're far away from that in the US, that
+amount of of automation around payment.
+Um, and it's just interesting. and and
+that goes from, you know, the high-end
+hotel and restaurant will take WeChat
+pay and the street vendor will take it,
+right? It's it's it's universal. So,
+that's one thing. The the other thing
+that I would just mention, um, very
+recently, China announced something
+called the K visa. And one of the um one
+of the things that's happened recently
+because of I'd say an increased um
+agitation between the two countries is
+there have been a number of very recent
+policies in America that are impacting
+skilled immigration especially at the
+university level. And I did hear stories
+over there of groups of 50 or 100 PhD
+students who had been admitted into a
+university and were now being told they
+can't attend. And you and I and everyone
+have talked about skilled immigration
+and how that's been kept flat in the US.
+Um and now you know at least with regard
+to China, we're starting to put up
+blockers. And on top of that, you've
+seen these other charts where like 50%
+of the AI researchers in America are
+Chinese. And so that that's something
+that's super interesting to watch. And
+this K visa thing, which they've never
+done before, says if you are studying um
+technology, you know, I don't know the
+exact rules, you don't even have to have
+a job. So this isn't like a in the US
+you need a you're welcome to come.
+They're going to give you a visa. So,
+China's basically inviting everyone to
+come to their university systems from
+around the globe. I don't know how
+successful they'll be. I don't know if
+Europeans will go there. Um, but it's an
+interesting
+thing to see.
+&gt;&gt; Again, it's just a reminder to me like I
+I continue to think that uh the US is in
+an incredible position on a global
+basis, an incredible position visa v
+China, but decisions matter. And, you
+know, we talked about stapling a green
+card to every, you know, uh, every
+diploma as, uh, you know, the the
+president did as part of the the the the
+presidential race. Um, and certainly I
+think there's ample opportunity, uh, for
+upside to accelerate, to attract, to
+build in the US. And I hope that one of
+the takeaways of this conversation, the
+many conversations we ought to have, and
+it's why I think being overly dogmatic
+leads us astray, is we got to reflect on
+the things that we can be doing better
+to run a faster race ourselves, right?
+And I've heard you say this before, you
+know, the old quote from the Godfather,
+never hate your enemy enemies. You know,
+it clouds it affects your judgment. Yep.
+And I think there's a lot of that going
+on in Silicon Valley and other places
+that um you know we're going to be a lot
+better off if we're very pragmatic about
+uh there's no slowing down in China.
+They're going to be there in AI. They're
+going to build chips at Huawei. They're
+going to build models at Deepseek. And
+the the way to beat them is not to you
+you know try to cut them off at the
+knees. We don't need to make it easy on
+them. But the United States needs to
+accelerate our race. And I think by if
+if we focus too much on how do we slow
+down China, we take the eye off the ball
+on how to accelerate our own race. So
+it's fun spending one of these just
+digging deep on a on a particular topic.
+It sounds like an incredible trip.
+&gt;&gt; Yeah. And and I would just echo what you
+said like like on especially just on
+learning like my my main point to anyone
+that's interested in this topic would be
+just make sure you have the exact right
+information as you then go to make
+decisions especially around policy. Um
+and you know talk read read what these
+uh global
+car CEOs are telling you. They've been
+over there. They're seeing it with their
+own eyes. they they don't they don't
+have a reason to be as candid as they're
+being necessarily, but they are. Um, and
+then read Dan Wang's book. I think it's
+fabulous. Like Tyler Cowan said it might
+be one it might be the best book of the
+year. It's very well written and and a
+joy to read and I would uh encourage
+everyone to go pick it up. It's called
+Breakneck. I think it's out now today.
+No, you literally can go on chat GBT and
+just ask it, you know, uh what your
+favorite CEO, you know, what's Jensen
+Wang think about, uh the level of
+competition in China, what's Tim Cook
+think, what's Elon Musk think. Um the
+reality is the people who spend the most
+chi time on the ground in China have the
+most respect for, you know, the innate
+uh you know, capabilities and ongoing
+competition that we're going to see with
+China. And you know and and I thought
+that Dan had a really balanced view at
+the end which is you know we shouldn't
+go out of our way to make it really easy
+on China but at the same time we got to
+engage. We got to be you know pragmatic.
+We can't stick our head in the sand and
+we have to know that we got to reform
+ourselves. We got to run a faster race
+ourselves. Bill, it's great seeing you.
+I'm glad we're kind of getting back in
+the swing of things and uh look forward
+to uh continuing the conversation.
+[Music]
+As a reminder to everybody, just our
+opinions, not investment advice.

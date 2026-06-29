@@ -1,0 +1,1374 @@
+Kind: captions
+Language: en
+[Music]
+This is business breakdowns.
+Business breakdowns is a series of
+conversations with investors and
+operators diving deep into a single
+business. For each business, we explore
+its history, its business model, its
+competitive advantages, and what makes
+it tick.
+We believe every business has lessons
+and secrets that investors and operators
+can learn from and we are here to bring
+them to you. To find more episodes of
+breakdowns, check out join colossus.com.
+All opinions expressed by hosts and
+podcast guests are solely their own
+opinions. Hosts, podcast guests, their
+employers or affiliates may maintain
+positions in the securities discussed in
+this podcast. This podcast is
+forformational purposes only and should
+not be relied upon as a basis for
+investment decisions.
+I'm Zach Fuss and today we're breaking
+down NextStar Media Group. Nextar is a
+business that may not carry household
+recognition but controls more local
+television stations than any other
+company in the US. My guest today is
+Simeon McMillan, a founder of media
+focused research firm Acred Interest.
+Simeon brings a unique perspective to
+the sector. He's held roles as a banker
+and executive within prominent
+television, cable, and radio businesses
+including Univision networks and media
+co. In this discussion, we will examine
+the foundational structure of the
+broadcast television industry, tracing
+its evolution from the pre-in hub and
+spoke model of the major networks NBC,
+CBS, ABC, and Fox to its current state.
+Sim will break down the revenue streams
+that sustain this ecosystem and how
+subscriber fees from multi-channel video
+programming distributors MVPds like
+YouTube TV and Comcast cable are
+distributed among the networks and their
+affiliates. And then we'll address the
+impact of cord cutting on subscribers
+and how those viewership metrics impact
+pricing power within the television
+ecosystem. This is an industry with
+substantial consolidation which has
+reshaped itself over the past decade and
+ultimately culminated in the emergence
+of businesses like Nextstar as the
+pre-minent station group of outside of
+the big four. We'll scrutinize their
+financial profile including their
+revenue competition and capital
+allocation and then cover their
+strategic investments and content such
+as their acquisition of the CW broadcast
+network and their development of
+NewsNation. We hope that you enjoy this
+breakdown of the NextStar Media Group.
+&gt;&gt; All right, Sim, appreciate you offering
+to do this. I know it's an area that is
+near and dear to you, broadcasters. I
+think the way we'll set this up is we'll
+do a broad discussion about the industry
+itself, and then we'll go into the
+specifics of some of the larger players,
+NextStar in particular. I thought an
+interesting place to start would be
+given your background just taking us
+through how you got interested in the
+space, your experience as someone that
+was been on both sides of the table as
+someone that participated as an operator
+and also as an investor and then we'll
+dive into the way you're seeing the
+landscape today and introduce our
+audience into broadcasters generally.
+&gt;&gt; Thank you for that introduction, Zach.
+My name is Simeon McMillan and I'm the
+host, author, and founder of the Acred
+Interest Substack. We are a podcast, a
+newsletter, and I'm on Twitter under
+Acred Interest. My passion is for media
+investing primarily because I spent time
+both as a junior investment banker, a
+research analyst. I've done a lot of
+different jobs in the finance industry.
+I've worked on many media transactions
+over the years. But then for the second
+part of my career for the last 10 years,
+I've worked as an operator. I've worked
+as a executive in the financial FPNA
+department. I've done strategic revenue
+work with ad sales departments and I've
+worked inside of several television
+broadcast and cable networks as well as
+radio companies. I spent some time at
+Univision networks. I worked across a
+variety of their properties. I also was
+part of a new management team that
+worked at Media Co. It was a spin-off
+from MS Corporation and the primary
+assets were Hot 97 WBLS. There at Media
+Co. I had experience working with the
+radio side ad sales primarily supporting
+the CFO, the COO and the entire seuite
+and I also had experience working with
+the company had a billboard division at
+a point before they sold it. So I am
+here because I love talking about media.
+I love dissecting companies and doing
+business breakdowns is fun for me
+because on one hand I know how the
+research community can talk about a
+company. But having been in the
+boardroom, having been inside the
+offices of senior executives, I know how
+theory actually comes into practice for
+these assets. Given the vernacular in
+these industries is somewhat
+complicated. You've got the MVPds,
+you've got OTT, broadcasters, retrans,
+affiliate. I can go on forever. For
+whatever reason, pay TV as an ecosystem
+loves to get into acronyms and
+resegmentation and different ways to
+describe what it is that the industry is
+at a basic level. Can you just take us
+through how the industry is structured
+and how that has evolved over time? When
+I was in business school at Wharton, we
+called the acronyms TLAs, threeletter
+acronyms. I'll try to use as much
+general vocabulary as I can, but here is
+how I think you should think about the
+broadcast television industry. The
+original setup of the broadcast
+affiliate TV model is a bit of a
+throwback from a time in the pre-
+internet days. It was set up back when
+the limit with how far you can send a
+video signal was correlated to your
+local market because the spectrum, the
+signal coming from the broadcast station
+could only go but so far. In the
+beginning of the industry, you had
+pretty much the big four TV networks,
+NBC, CBS, ABC, and later on Fox, but we
+consider them part of the big four. And
+they operated on a bit of a hub and
+spoke model. So each of the networks
+have studios either independent or they
+can buy shows and content from
+thirdparty studios. Each of the network
+gets shows from their studios and they
+put them on the air for you to watch and
+then they make money by selling ad time
+inside those shows as well as collecting
+subscription fees or affiliate fees from
+the cable providers that host their
+channels. You want to look at the
+structure of the broadcast network. Due
+to regulation set up many years ago, the
+FCC set up a cap that any one broadcast
+entity could not control a broadcast
+signal that touches more than 39% of the
+US population. It's known as the 39%
+rule. It was intended to keep any one
+network or station from controlling what
+listeners were hearing on the news or
+their programming all over the country.
+What ended up happening is that all of
+the big four networks decided that if
+they could only own the stations that
+covered 39% of the population, it makes
+sense that they want to own the stations
+in the biggest markets. So that's
+exactly what happened. Most of the
+broadcast television stations in the top
+10 markets are what's known as O and
+O's, owned and operated stations that
+are still owned by ABC, CBS, NBC, etc.
+to reach the rest of the country that
+they contractually are not able to
+reach. They then work with a network of
+local broadcast affiliate stations which
+are owned by third parties but then
+strike programming agreements to be
+affiliated with one of the big four
+networks. They are basically a partner
+network in exchange for a share of the
+ad revenue. The local affiliate then is
+able to get programming from the big
+four network that would be too expensive
+for them to produce on their own.
+They're also able to get support for
+news because each of the big four
+networks have a national news desk that
+helps out with the local news and
+they're also able to get sports and
+other big ticket programming items that
+they could not afford to pay for
+themselves. So over the years as you
+have evolution in video, you've had the
+introduction of the cable television
+industry, you've had the introduction of
+streaming television. During this entire
+process, the broadcast affiliate model
+has pretty much stayed intact. But I
+think we're about to start seeing cracks
+in the model because where we are today,
+the local independent affiliates have
+come out of about a 15-year period of
+consolidation.
+We're going to get into what that means
+going forward, but they used to be
+hundreds of local market television
+stations and they've mostly been
+consolidated to about five major owners.
+So, where we sit today with the new
+administration currently in Washington,
+operators in the television space are
+trying to get the FCC to lower the
+current 39% cap to allow for the big
+players that are still there to
+consolidate the market even more. All
+the while, we have viewers who were
+cutting the cord that's still happening
+and they're finding ways to get video
+and other entertainment products outside
+the cable bundle. I love broadcast
+television because it brings together
+four or five different industries and
+you can see the market forces work in
+tandem as the industry evolves. So if we
+think about the pie that's being divided
+up here, I want to make sure that we
+drive home how paying subscribers
+translate into revenue for each of these
+different parts of the ecosystem. As an
+example, as a consumer, I may be a
+customer of YouTube TV. I may be a
+customer of Comcast cable. I pay them
+per month, call it anywhere from $75 to
+$200. How does that revenue then work
+its way downstream to the networks
+themselves, ABC, CBS, NBC, and then the
+affiliates? How does everyone get paid?
+I think a helpful way to describe how
+everyone gets paid is I'm going to take
+a moment and talk about some of the
+revenue streams for Nexttar, but this is
+pretty representative of the larger
+broadcast TV companies. A good way to
+think about this is to describe it as
+you just did, Zach, by centering the
+perspective from the customer paying
+money to their cable provider. Cable
+providers, video providers, satellite,
+Hulu TV, wherever you get your video,
+any service that bundles a package of
+channels is known as a MVPD.
+That stands for multi-channel video
+provider. You have an offshoot of that,
+a virtual MVPD, which are internet first
+skinny bundles. We used to call them 10
+years ago. Hulu Live TV, Fubo, or Sling.
+You, the consumer, get a bill, let's
+say, for $120 for this month from your
+video provider. What the cable company
+does is the cable company then has a
+series of agreements with all the
+different networks and all the different
+broadcast stations. All the different
+publishers that they get video content
+from get a cut of your bill. For a long
+time, the biggest recipient of
+distribution fees directly from the
+cable companies were the cable channels.
+For years, you had about a 100 million
+US households that were getting a
+package of 50, 70, or 100 channels. And
+based on the bargaining power of the
+owners of each individual channel, they
+would then charge Comcast a rate. They
+have a very complicated rate card where
+the networks would charge Comcast a
+certain dollar amount per subscriber per
+month to be paid for carrying that
+station. What ends up happening over
+time is that many networks thought it
+was unfair that when they added up all
+the payments for all the different TV
+networks, the majority of the video
+payments were going to the cable
+channels. This angered May and the
+industry because over many years the
+broadcast TV networks again we're
+talking mostly the big fours the NBC's
+CBS Foxes and ABCs of the world were
+still the majority of the actual viewing
+habits of the consumers. The split of
+the cable revenue back to the networks
+was not perfectly correlated with the
+viewing. So, as a result, something that
+actually Nextar Media was a pioneer in
+pushing for back in 2005 was that
+NextStar was the first one to go to the
+cable companies and say, "Hey, we're
+broadcast. We're a local market station,
+but our content has value. We have
+sports, primarily the NFL, their their
+biggest draw. We have local news and
+many other shows that people want to
+see." Over time, the broadcasters
+started getting affiliate fees. They're
+called retrans fees in the television
+industry. They were getting monthly
+payments for a certain dollar amount for
+the number of subscribers that they had
+in their Comcast market or whoever was
+the provider. Once the big four networks
+saw that the local market stations were
+starting to get compensated monthly
+subscriber fees for the content that the
+broadcast networks were renting out to
+them. The broadcast network said, "Hey,
+the local market stations are just
+reairing content that is largely content
+that they're purchasing from us." the
+local market stations, your local market
+broadcast station will have originally
+produced news content and originally
+produced morning shows and other content
+like that. But the prime time shows that
+drive majority of the viewership come
+from the parent network that they have
+an affiliate agreement to. So what ended
+up happening over time is we sit here
+today where through the introduction of
+retransmission fees through the fact
+that next and other broadcasters pushed
+the cable industry to be paid like the
+cable companies. I would argue that the
+broadcast television industry is now a
+subset of the cable companies after
+about a decade of tremendous growth in
+subscription fees. You have the
+broadcast networks who now have upwards
+of 50% of their revenue coming from
+video subscribers from the cable
+channels. Bring it all together. If you
+go through your video bill, I would
+probably imagine that the ABCs, the
+CBS's, the NBC's of the world are
+probably getting where anywhere between
+three to$4 a sub per month out of your
+bill. to demonstrate to the customers
+how expensive the retrans fees had
+become for the cable companies to pay
+the broadcasters. If you go to your bill
+for a cable company today, you'll
+probably see the broadcast fee broken
+out as a separate line item because they
+want to show everyone just how expensive
+that is. So, that's a good sense of how
+the money is split out. The math is the
+same for the digital skinny bundles
+except because the cable companies have
+a most favored nations clause with the
+networks. The cable companies have
+agreements that basically whenever they
+strike a new 3 to 5year deal with a
+network. The network must give the cable
+company the lowest rate in the market.
+Whatever rate ABC, for example, is
+charging Comcast per subscriber per
+month, that rate is actually higher on
+YouTube TV, it's higher on Sling, it's
+higher on these other streamers. That
+difference in pricing has been another
+reason why the broadcast model has
+survived as long as it has. as you lay
+out those dynamics, clearly there's been
+this friction amongst the negotiating
+leverage within the players in the
+ecosystem and my guess is a lot of that
+is what drove this wave of consolidation
+over the last decade or so and I think
+that'll be a nice segue into NextStar
+and what the business is and what it
+represents as the largest player in the
+space. Take us through some of the
+drivers of that consolidation and then
+introduce us to NextStar and the
+business itself. As I said in the
+beginning of this episode, broadcast and
+cable had existed for decades before
+streaming came into the picture. And
+there was long attention for viewer
+ratings, for viewer minutes between
+broadcast and cable. for about 20 30
+years. Ever since cable was introduced
+in the 70s and became ubiquitous in the
+80s, more and more TV viewership was
+going from the broadcast stations to the
+cable stations. What ends up happening
+is that as the broadcast ratings were
+falling for decades, it was a very slow
+managed decline, a very slow trickle as
+companies kept adding more and more
+cable stations to the bundle. The
+broadcast ratings were falling for 20,
+30 years, but broadcast ratings were
+still the largest piece of the pie. They
+still had the sports. They still had all
+of the marquee shows, the Seinfelds, all
+of the water cooler shows that people
+tuned in to see. The tension for the
+distribution of the affiliate fees was
+what drove the first wave of
+consolidation
+in the 2010s. In the 2010s, you had
+hundreds of M&amp;A transactions where you
+had these smaller market local market
+broadcast TV stations that finally
+wanted to get the bargaining leverage to
+get paid like cable channels. So, you
+had these third party broadcasters who
+were bulking up. They were also bulking
+up to compete and to fight for a share
+of the pie from the actual big four
+networks that they were partners with.
+Because I said before, there was a
+tension between the parent network, the
+ABC, and the third party ABC station.
+Because the ABC station believes, hey,
+look, local station, the reason why
+you're getting paid that monthly fee is
+because of the high value content that
+we provide you. There was a new dynamic
+where the big four networks introduced
+what's known as reverse retrans, where
+the big four networks were asking for a
+give back. They were trying to pull back
+the newly earned subscriber fees that
+the local market stations had just won
+from the cable companies by combining
+the local market stations. The theory
+was that they would now have to scale to
+better compete versus the cable
+companies, the video providers, but also
+to push back on the big four networks
+themselves, who remember the big four
+networks were being constrained by
+regulations. they can't grow anymore as
+the smaller market stations would scale
+up together. In theory, they'd be able
+to push back. When Nextstar came in,
+NextStar was founded in 1996. They went
+public in the early 2000s and out the
+gate they were doing acquisitions. The
+company is still led by its founder,
+chairman, and CEO, Perry Suk. Perry has
+been with the company the entire time
+and he's a legend in the industry for
+coming up with the whole concept of
+reverse retrans. During the 2010s
+through a series of mergers and
+acquisitions, NextStar Media went from
+being one of the smaller local market
+stations groups. They were primarily in
+second and third tier markets to a point
+where they are the number one station
+group outside the big four by far in the
+country. They have about 200 local
+market stations. They are in about 116
+US markets. Their signal reaches about
+68% of the population, which technically
+is more than the 39% cap. And I'll
+explain why in a second. So now is the
+largest broadcast station outside the
+big four because they got supercharged
+in their growth in the last five or six
+years through two major acquisitions
+that I just want to call out. First, in
+2017, NextStar merged with Media General
+for about 4.3 billion in cash and stock.
+And this was, I want to say, their first
+big acquisition that really pushed them
+to the forefront of the industry in
+terms of size. The media general
+acquisition pushed NextStar into, let's
+say, the top four or five local market
+station groups. Their biggest
+acquisition to date and the last one
+they've done of consequence came in 2019
+when Nextstar merged with Tribune
+Broadcasting, another one of the bigger
+local market stations groups. The reason
+why NextStar can reach about 68% of the
+US population is because one of the
+nuances of the regulatory cap from the
+FCC is that the station groups built
+into the regulations lots of
+technicalities that help them work
+around the 39% cap. I won't get into all
+the jargon because as we said we have
+enough acronyms. But the local market
+stations basically have a form of
+sidecar agreements. They're called local
+market agreements, LMAs. They have many
+different names, but the station groups
+basically have these armlengths
+agreements where they can partner with
+television stations that they do not
+technically own and agree to manage the
+station on behalf of the other owner. By
+managing on behalf of the other owner,
+they can then provide them with
+editorial content. They can manage their
+news. They can run it almost as if they
+own the station themselves.
+Broadcast has been using this loophole
+for decades. And Nextar has been the
+most aggressive aggregator to date and
+that's why they sit at about 68% of the
+US population which is far and ahead the
+second biggest one which I would say is
+probably Tegna. They probably reach
+about 39% of the US population. Next
+really is a product of M&amp;A and part of
+the reason why I think they're at a
+critical juncture right now is that they
+have one more M&amp;A cycle in this industry
+probably that they want to have another
+buy at the apple but all the organic
+growth drivers for the underlying
+business have either tapped out, stalled
+out or are currently in decline. Next
+our media is a rollup machine, but
+sometimes the rollup can run out of
+runway. So to drive some of those points
+home from a quantitative perspective,
+maybe just lay out the financial profile
+of NextStar size, scale, margin, revenue
+composition, and capital allocation. So
+to give you a sense of scale, I'll
+rattle off some highlevel numbers here.
+Next has a market cap a little over
+about 5.2 billion today. In terms of
+total enterprise value, we're looking at
+almost 12 billion. The company is highly
+levered as most broadcast stations are.
+Their leveraged net debt to IBDA is
+usually anywhere between three and a
+half to four times leverage. In terms of
+trailing revenue, keep in mind broadcast
+experiences bumps in evennumbered
+political years and larger bumps in
+presidential years. 2024 is a little bit
+higher in 2025, but to give you a sense
+of scale, Nexar did about 5.5 billion of
+revenue in 2024,
+about 2 billion in adjusted Ebida. So
+we're looking at a EBA margin of about
+37%. Broadcast networks have very low
+maintenance capex. When they're not
+doing acquisitions, it costs almost
+nothing to keep the stations running.
+Broadcast converts about 50 to 60% of
+the Ebida into free cash flow. So off of
+about 2 billion in just Ibida, about 1
+billion, a little over 1.1 1.2 billion
+is going to drop to free cash flow. In
+terms of the revenue composition, I said
+in the beginning that after a decade of
+demanding local broadcast stations get
+paid like cable networks, broadcast
+stations finally got their wish. In
+terms of the revenue mix, about 55% of
+the revenue is distribution fees. These
+are retrans fees from cable companies
+and digital video providers. You then
+have advertising. And this is how I want
+you to think about advertising.
+Advertising is about 45% of total
+revenue. For context, advertising used
+to be about 75% of revenue about 10
+years ago. It's part of the mix has
+shrank as distribution revenue has grown
+more consistently and more quickly.
+Let's call it half the business's
+advertising. That is about 2/3 or 70%
+local advertising where they have a
+local sales force to that specific
+market that actually goes out and talks
+to small and medium businesses. Car
+dealerships are probably the most
+prominent examples, but tons of local
+mom and pops will advertise on local TV.
+And then the other 25 to 30% of the
+business is national business. What
+national is is that if an advertiser
+wants to do a national ad buy, the way
+they do that is they combine a number of
+local markets together to sort of build
+a patchwork that if you add up the
+coverage, it equals to national. So the
+local market stations like Nextstar will
+use third-party companies, third-party
+services to outsource the selling of the
+national, but it's still a part of the
+business, but it's not growing that
+quickly. Built in to the advertising
+mix, built into the advertising half,
+you have some digital in there, but I
+just want to be very careful because
+digital and broadcast is not like Google
+or Facebook. Digital and broadcast
+really means display ads, websites that
+are owned by the different local market
+stations and all the stations will have
+their own weather apps or things like
+that. Digital is about 10% of revenue
+altogether. In terms of expenses, the
+direct costs, these are programming
+fees. That's the cost of running the
+evening news, the reporters, the
+writers, the engineers, the cost of
+running the station. But then you have
+programming fees paid to the big four
+networks for affiliation. You have a fee
+paid to NBC or ABC for the content that
+they give you. And you also have reverse
+retrans fee which about 50% of that
+monthly subscriber fee that the station
+is getting from the cable company gets
+given back to ABC or CBS. This is
+trending in the wrong direction is
+actually pushing to upwards of 60%. But
+we'll get more to that in a second. The
+core advertising portion you pay about a
+15% agency fee because a lot of this
+business comes through media agencies,
+ad agencies. So you pay a 15% fee to the
+agencies and then in terms of the
+commissions to the local market
+salespeople, those can vary, but those
+can be anywhere between 5 to 15% of
+gross revenue. That gets us to a direct
+cost, a cost of goods sold, let's call
+it, about 40% of revenue. SGNA,
+all the different bodies that it takes
+to run the station, that adds another 20
+to 24% of revenue because the local
+markets, you need people on the ground
+to do these things. A lot of these
+functions can't be centralized. Bring it
+all together, you have an EBIT margin in
+the mid to high 20s in some years. And
+then in terms of IBIDA margins, we're
+talking anywhere between low to high
+30s. Ebida margins anywhere between 32%
+to 38% is the margin profile you can
+expect from a business like this. Just
+to try to provide a little bit more
+color on the assets that they own.
+Obviously, when you're talking about
+regional broadcasters, people think
+about local news and television, local
+advertising, and then the retrans that
+you mentioned. I know that they're
+working on producing their own content
+that may be of higher value. What are
+some of the assets that they're
+investing most heavily in?
+&gt;&gt; Separate from the local market stations,
+here are some of the avenues for organic
+growth that NextStar is trying to
+improve. First off, NextStar acquired
+from Warner Brothers Discovery
+approximately 70% interest in the CW
+broadcast network. I won't go through
+the whole history, but for any of those
+who are familiar with broadcast stations
+such as the WB and UPN, the CW was a
+fifth English language broadcast
+station. They're a distant lagger behind
+the big four and they have less
+viewership than even Univision and
+Telmundo. But for English purposes, the
+CW is the fifth major broadcast station.
+They're all over the country. When Nexar
+got this asset from Warner Brothers,
+they basically got it for free because
+it was underperforming so much. The CW
+was formed by the merger, as I said, of
+WB and UPN in 2005, 2006, I believe. And
+the network was unprofitable pretty much
+during its entire existence. WB as well
+as the consortiums of other companies
+that had a minority stake in this
+network. They sold it to NextStar for
+basically nothing. Nexttar just assumed
+about hund00 million in debt. What
+Nextar saw with the CW is Nextstar had
+this vision. Nextar is currently the
+largest owner of CW stations around the
+country and NextStar has been trying to
+change the programming strategy of the
+CW to make it profitable for the first
+time. The CW was most popular in the
+2010s off of a slate of teen dramas and
+superhero shows. Those were very
+expensive to produce and did not attract
+enough older viewers who are sticking
+around to watch broadcast television.
+So, the network always underperformed.
+Next is now doing more unscripted
+programming on the CW, which is cheaper
+to produce. They're also trying to get
+into some sports programming. They have
+some NASCAR races. They also have some
+shoulder programming for sports.
+shoulder programming are things like
+sports talk shows where they talk about
+the game and so clips but not
+necessarily the game itself. The CW is
+airing more college football and they
+also were airing some golf with the Live
+Golf Company, but overall the CW's
+ratings are still very poor and the
+turnaround is still in the very very
+early stages. And with the cable bundle
+shrinking, it remains to be seen how
+much of a turnaround can even be done
+this late in the game. On the cable
+side, NextStar has a news network called
+NewsNation. So, NewsNation was a rebrand
+from a general entertainment cable
+network called WGN America that was
+formerly owned by Tribune, whom Next
+bought. WGN America was operated like a
+wannabe TBS, like a wannabe TNT. They
+wanted to be a super station with
+entertainment programming, dramas, as
+well as sports. They have a lot of
+rights to Cubs games, but the plan
+didn't work. And so when Nextstar
+acquired Tribune, they flip the format
+to NewsNation and NewsNation tries to
+brand itself as more of a neutral
+political voice, sort of along the lines
+of a Newsmax, where they're trying to
+carve a niche for people who want to get
+cable news outside of Fox News, CNN or
+MSNBC. NewsNation is also a very, very,
+very small channel. and NewsNation and
+the CW do not have earnings that are
+material to NextStar quite yet. Next
+also has a whole list that I'm not going
+to go through of these small Digynetss.
+Digetss are these broadcast networks
+that are operated on the sub channel of
+some of the HD signals. These are very
+small networks again that have
+viewership that is tiny. But the hope
+was with the cable bundle breaking, with
+more people watching television over the
+air, the hope 10 years ago was that
+these Digynets could build an audience,
+but that hasn't panned out as well. And
+lastly, Nexar owns some digital assets.
+They own The Hill, which is a smaller
+version of Politico, which is a
+political news website. The Hill also is
+not a meaningful contributor to
+earnings. Nextar has one asset that they
+brought over from the Tribune merger
+that is noncore but keeps paying them a
+nice little dividend and that is they
+own 31% of the food network which is
+really random but because Nex doesn't
+have to put any money into the food
+network they're happy to keep receiving
+that distribution but that's not
+something they can grow organically.
+This is still very much a broadcast
+company whose fate is tied to the cable
+bundle. All these attempts to break
+outside of the cable bundle have not
+worked to date.
+&gt;&gt; So it's not controversial to suggest
+that the cable bundle and pay TV as it
+exists is shrinking. Meaning there are
+less subs paying for linear cable
+effectively every sequential quarter for
+the last several years. What does that
+mean for the composition and makeup of
+this business as it tries to drive
+organic growth? I want to share with the
+listeners some numbers on the extent to
+which cord cutting has accelerated I
+think more than maybe some might have
+realized particularly over co let's just
+look over the last 10 years 10 years ago
+let's call it 2014
+the pay TV industry had an addressable
+market of about 100 million households
+if you were a basic cable channel or any
+channel that was what was considered
+considered back then fully distributed.
+That meant that you were in 100 million
+households. Over the next 10 years, the
+total pay TV ecosystem number of
+households has shrunk by about 30%. You
+went from about 100 million pay TV
+households to about 60 and a half 70
+million today. In terms of traditional
+cable, so excluding the new skinny
+bundles, the decline has been even
+worse. decline has been even more than
+50%. We have about 50 million households
+today which are paying for what you
+would consider to be traditional cable
+bundle. So in just one decade, half of
+the addressable subscriber base is gone.
+What that means for this industry is
+that broadcasters are no longer able to
+make up for the loss in subscribers
+by charging or demanding higher
+subscriber fees from the cable
+providers. Before in the slow pay TV
+decline, if you lost the sub, you were
+able to raise your subscriber fees
+enough to recoup the loss. With the
+industry smaller, that is no longer the
+case. At the same time, the declines in
+the viewership have been even more
+extreme than declines in the subscriber
+base. Something I want to share with the
+listeners, and I've talked about this
+extensively, I'm still talking about it
+on my Substack. Acred Interest is my
+newsletter on Substack. Netflix, but
+actually YouTube has been the number one
+disruptor over the last 5 years in
+pulling viewers out of the entire pay TV
+bundle. Neielson has a monthly report
+where they show what percentage of TV
+viewing of the big screen TV, this is
+not mobile, this is traditional TV. what
+percentage is attributed to each of the
+major viewing services? And for the
+fifth month in a row, YouTube was at a
+new all-time high in video share.
+YouTube in April 2025 accounted for
+about 12% of TV viewing on big screen
+TVs in this country. That is not
+including YouTube TV, which is more like
+a mini cable provider. What we're seeing
+is that subscribers are leaving the pay
+TV ecosystem. And since they're not
+coming back, since they're going over
+the top to YouTube and Netflix, the
+broadcasters, the networks, everyone has
+less bargaining power to demand higher
+affiliate rates in the future. So,
+you're seeing lower growth in the
+distribution revenue line going forward.
+You might even see some declines in
+distribution revenue as the big Ford
+networks are clawing back some of those
+distribution fees that they don't
+believe the local market stations truly
+deserve. And you're having the ratings
+declines fall even more as people are
+going to the streamers and not coming
+back. Another thing that I think
+listeners need to keep in mind is that
+the ad load, the amount of advertising
+units that a company can monetize per
+hour is significantly lower for
+streaming video. You have a situation
+where pretty much all the metrics, the
+subscriber metrics, the viewer metrics,
+the pricing power, everything is
+weakening for the TV ecosystem. At the
+same time when the cable companies are
+not interested in having these fights
+over subscriber fees anymore because the
+cable companies want to focus on selling
+internet packages and they also want to
+focus increasingly on selling mobile
+cellular business. They don't care about
+the video product. So all these trends
+are working against broadcast. And just
+to be clear, over-the-top television or
+streaming direct to the consumer itself,
+who's demanding local programming? I
+struggle to appreciate it. If I'm buying
+YouTube TV, do I care that I don't have
+access to my local ABC news? Is this
+something that is segmented by age or
+demo? Because I'm trying to understand
+where the negotiating leverage sits with
+the local broadcasters as opposed to the
+networks themselves. If your listeners
+take away only one thing from this talk
+on Nextstar and the broadcast industry,
+I just want to say by far the asset that
+the local television stations have that
+give them the most bargaining leverage
+versus the cable companies is that your
+local broadcast station is still by far
+the overwhelming way most Americans
+watch NFL games. The leverage is mostly
+in the live sports on the big four
+networks that for the most part the
+networks in order to stem the rating
+decline are actually putting more and
+more sports on their broadcast package
+to defend their big four networks. So
+you have negotiating leverage for NFL
+that they can't miss their games. You
+have it for the other sports leagues to
+a lesser extent. In terms of the demos
+that are still watching the local news,
+it's primarily an older demo that
+probably shouldn't be that big a
+surprise. The type of demos that watch
+local station news that probably say 25
+to 54 is the main demo, but skewing over
+50. you have some turnover in the
+generations as older TV viewers as they
+die off. But we're finding is that new
+younger TV viewers are not coming to the
+ecosystem like they would in the past.
+In the past, it was sort of a right of
+passage that when you moved out of your
+parents house and formed a quote unquote
+household, you would join the pay TV
+package, but a lot of younger viewers
+are just skipping that altogether. The
+average viewer of broadcast television
+is definitely over 50 and probably
+scooting a little bit older. They
+overweight on the morning shows, the
+major newscasts, and they overweight on
+sports. The other bargaining point that
+broadcast stations have is that they
+have a bit of a bully pull pit in that
+they can run these scary but effective
+ads, basically lobbying their viewer
+base, lobbying their subscribers. You've
+probably seen them wherever you are in
+this country. You've probably lived in a
+market where there was a dispute between
+a cable company and local market
+broadcaster. And you probably saw an
+advertisement that said, "Make sure you
+call Comcast and tell them that you want
+to see the Oscars on ABC or make sure
+you call CBS and demand that you get
+Monday Night Football." Those are very
+powerful marketing tools and all those
+are still the main areas of leverage
+that local stations have. But all the
+points I mentioned are getting weaker.
+All those bargaining positions are
+getting weaker every cycle because the
+big four networks are pulling more and
+more of their sports onto streaming. I
+guess the only thing we didn't talk
+about from an opportunity perspective
+that I know anyone that's interested in
+the broadcasters likes to bring up is
+the spectrum opportunity on ATSC. I
+think we're on 3.0 now. What is that
+opportunity for them? What exactly is
+it?
+&gt;&gt; Many of the remaining bulls of the TV
+broadcast industry have been very
+optimistic. I think a little too much
+quite frankly when it comes to this
+advanced broadcasting technology known
+as ATSC 3.0. The way I would describe
+the technology is it's an advanced
+broadcasting standard that in some ways
+enhances the quality of the broadcast
+and the amount of data that can be sent
+along the video signal. But quite simply
+over the last decade there has not been
+enough development technologically from
+either the content creators or quite
+frankly from the viewing audience to
+demand a better overthe-air signal
+technology. ATSC 3.0 is often referred
+to as next generation TV. The idea was
+this is a special signal that can be
+transmitted over the air, sort of a
+ultra extra highdefinition version of
+the current signal that is encrypted.
+And because it's encrypted, it's able to
+send and receive more data about the
+household and the viewership. And the
+theory was with this better signal, with
+this next generation broadcasting, you
+would be able to compete more for
+digital ad dollars because ad buyers
+want to have more information all the
+time. So the idea was that broadcasters
+can avoid cord cutting. They can
+transmit their signal over the air. And
+they could sell new services and give
+more KPIs and more data to ad buyers.
+They can tell ad buyers more about their
+customer base using ATSC 3.0. It's been
+a decade of waiting. It hasn't come to
+fruition and likely it's not going to
+come to fruition. I first became
+familiar with this technology almost 10
+years ago. I was at Univision and I was
+working in the office of the CEO on
+special projects and I actually helped
+the auction team. I was a substitute
+bidder in the spectrum auction. And back
+then in the 2010s during the wave of
+consolidation, a lot of broadcast
+stations were selling their spectrum
+because the thought was that new
+technology could be better used for the
+spectrum that television companies could
+monetize if they did not want to
+broadcast this way. I won't get into the
+whole history of spectrum auctions. They
+typically have underdelivered in
+proceeds to the TV industry. There have
+been very few winners and a lot of
+disappointed parties. But 10 years ago,
+there was hope that with 5G, ATSC 3.0
+would help broadcast compete with
+digital. And very quickly, the reason
+why the technology never developed over
+the last 10 years was for several
+reasons, but one of the big reasons is
+that the industry never fully committed
+to changing the broadcast standard in
+the same way they did when the industry
+switched from standard definition to
+high definition television. When the
+broadcast industry switched to HGTV,
+it was a monumental shift that the
+entire industry was on board and they
+had a set date when the old signal would
+stop being transmitted and the new
+signal would start. Well, with ATSC 3.0,
+that never happened. For a decade, if
+you wanted to do this versus a
+broadcaster, you would have to maintain
+two signals, which was expensive and not
+practical. On top of that, because
+broadcasters were not broadcasting in
+this new format because it was
+cumbersome, the different television
+manufacturers who for over a decade were
+trying to drive down the prices of a
+flat screen television set to save
+money, they weren't adding the necessary
+components into their sets to receive
+the encrypted signal. And then thirdly,
+from a user adoption standpoint, a lot
+of the tech-savvy first adopters who in
+theory should have picked up ATSC 3.0 by
+now, from a viewer's perspective, the
+technology was lacking because when you
+encrypt the TV signal, it stops you from
+using it more freely in terms of DVRs.
+You can't record the signal. you can't
+cast it to other devices because now
+every device needs to have a chip that
+can read this nextG TV. It was lack of
+cooperation from all the different
+parties in the TV ecosystem that I think
+has caused this nextg TV to be a little
+more of a pipe dream. And you're going
+to see it mentioned in a lot of investor
+decks and a lot of bulls who need
+something to justify going long this
+space will point to this standard as a
+potential source of future digital
+revenue. But I can tell you from
+experience the technology hasn't panned
+out. And now that everyone's already on
+to 5G and already getting all the
+entertainment through their phone, I
+think it's not likely ever to be a
+meaningful contributor of revenue.
+&gt;&gt; As you kind of laid out the financial
+profile of the business, appreciate that
+growth is somewhat muted here, but
+margins are healthy, free cash flow
+generation is copious, which means that
+management is responsible for
+redeploying that cash into the
+opportunity set at hand. I know they
+have a buyback and a dividend, but it
+seems like they're capped from an M&amp;A
+front. How do you think about the
+capital allocation policies of the
+business here? And broadly, what you
+should consider when evaluating a
+company that is limited in its growth
+prospects, but is as free cash flow
+generative as the businesses like the
+broadcasters are today. A lesson that
+I've learned in watching the media
+landscape change over the last 10 years
+and especially spending a lot of time in
+local television and local radio. I've
+seen a lot of these companies trade like
+value stocks. They have all the
+characteristics value investors look for
+that you just mentioned. High margins,
+strong free cash flow conversion, low
+maintenance capex. The issue that I had
+to learn the hard way is that if you're
+operating an industry that is a melting
+ice cube that is clearly shrinking, it's
+not enough to just do more buybacks.
+It's not enough to return more capital
+in order to turn the stock around.
+Capital allocation, in my opinion, is
+not a strategy. Capital allocation is
+what you do to enhance the strategy that
+you already have in place. Strategy to
+me in television means what steps are
+the broadcast operators doing to grow
+the future earnings potential of their
+business. In broadcast many of their
+distribution avenues, primarily the
+cable bundles are out of their control.
+I can understand why some capital has
+been spent in some of these digital
+sites and in propping up some of these
+subpar networks like the CW. I could
+understand the thought process to use
+the excess free cash flow to reinvest in
+the business. What I would propose
+today, having seen many investors lose
+out, is that I believe that if you were
+investing in a declining industry with
+strong free cash flow, I think you need
+to preserve cash and I think you need to
+look to exit the business. I did a look
+back on my notes 12 years ago for the
+broadcast television industry. About 12
+years ago in 2013 when I was still in
+grad school doing my MBA at Colombia
+through a blind submission I sent in a
+stock pitch pitching Tribune
+Broadcasting as a long to the Irishone
+ideas competition and I ended up winning
+it. got on stage in Lincoln Center and I
+pitched my stock to the hedge fun
+industry and on CNBC the next morning
+and I was the biggest bull you could
+find for Tribune Broadcasting. I pitched
+the stock at $55 a share back in 2013.
+During the short term, a couple years
+later, I think the stock ran to over
+$100 a share because again the 2010s
+there was a long string of consolidation
+M&amp;A. But next ends up buying Tribune
+almost a decade later. They actually
+closed the Tribune deal in 2019. So 6
+years later after I pitched Tribune at
+Irisone at $55 a share, the stock had a
+total return that strongly trailed S&amp;P
+500. In 2019, the last trading price of
+the stock was in the high 40s. You might
+have broken even if you added back a
+couple special dividends along the way,
+but for the most part, if you're in a
+declining industry, sometimes the best
+answer is to get out. Some of the best
+case studies in the media industry
+investors can study are the operators
+that knew when to sell. One of my
+favorite books that I recommend everyone
+read is Curse of the Mogul by Columbia
+Business School professor, but he's also
+is an investment banker with Evercore,
+Jonathan Knee. And he basically argues
+that with few exceptions, most media
+companies underperform in the equity
+markets and they destroy shareholder
+value too often with too many mergers.
+The smartest TV operators were the ones
+who sold. When Rupert Murdoch dismantled
+his TV empire and sold it for a hefty
+price to Disney, that was a brilliant
+move. When AT&amp;T decided that they no
+longer wanted to deal with the headache
+of Warner Brothers Discovery and they
+jettisoned that business, guess what
+stock has outperformed since then? It's
+been AT&amp;T. It hasn't been Warner
+Brothers. The smart TV operators over
+the last 10 years were the ones who
+participated in the consolidation wave
+because they were able to sell their
+companies at higher multiples that they
+could not get today. And where we sit
+with NextStar is the problem with M&amp;A as
+a strategy is that eventually you run
+out of targets to buy. I think
+eventually, I don't know when, I don't
+know how, we'll get some regulatory
+change and next hour we'll probably be
+able to buy some more stations, but you
+can't just keep buying declining assets
+with leverage and firing people and
+hoping that's the strategy. I'm not
+expecting an imminent collapse, but when
+you are the biggest player, Nextar
+cannot be acquired by anyone else
+because they're so big. I think the best
+thing that they should have done for
+shareholders was to sell years ago. And
+I think right now if you're a broadcast
+investor, the best thing you could
+probably do is find a way to sell your
+assets to NextStar because they're going
+to be a buyer. Just to bring it all
+home, our customer question is kind of
+lessons learned. You have the privilege
+of being an executive in the space as
+well as now an investor and consultant
+as it relates to media. What is it that
+you take away from this story? I think
+you alluded to a handful of those points
+in the prior question, but just tie a
+bow on it.
+&gt;&gt; Bring it all together, here are some key
+lessons that I would take away from
+working in the television radio
+industry. I mentioned before that
+NextStar decided to make a bargain to
+substitute their advertising revenue for
+more cable subscriber revenue. I like to
+think of NextStar as a BOTB, a
+beneficiary of the bundle. I learned in
+supporting many senior executives who
+are excellent at their jobs that it's
+very easy to sit outside and game plan
+strategy. But a lot of these businesses
+because they have legacy agreements with
+the cable companies, the cable carriage
+deals, they're shorter now. their last
+between three to five years before
+they're five to seven years. There were
+limits in terms of in exchange for that
+high margin sticky cable subscriber
+revenue. There were limits in terms of
+what programming you were not allowed to
+put online. There were limits in terms
+of what things you could do with your
+streaming service or what types of
+skinny bundles or streaming bundles you
+could offer to the public. There were
+limits on pricing. I mentioned before
+the cable companies mandated that they
+have the lowest rates. The broadcast
+companies couldn't innovate the way they
+wanted to. They couldn't disrupt
+themselves because these contractual
+agreements that were giving them sort of
+golden handcuffs. I would also say
+another lesson learned is to understand
+how much flexibility you have to operate
+in the industry in which you're
+currently finding yourself. I think
+sometimes we probably give management a
+little bit too much credit but also a
+little bit too much blame. A lot of the
+decisions that management implements are
+dictated one from the board who you
+never see what bad acquisition they push
+the management team to do. You never see
+or hear what good idea a management team
+had that died in committee or died
+before it even got off the page. But the
+CEO or the management team will take the
+fall for not being nimble. When I worked
+with executives, I was very surprised at
+how everyone in TV that I worked with,
+for the most part enjoyed their
+industry, that they loved the medium,
+and they saw the purpose in the product
+that they were selling to the consumers.
+But because of all the contracts tied to
+these long-term deals, your business
+model is maybe 80% set in stone for the
+next 3 to 5 years. So overall, I think
+I've learned that you need to have a
+strong understanding of the fundamental
+drivers of your business. You need to
+understand the competitive dynamics as
+well as the different margin structures
+that are put into place and don't have
+much flexibility for change because 80%
+of the performance of a business is
+going to be driven by the underlying
+fundamentals and I think management
+while very important bad management can
+absolutely destroy a business for the
+most part management is operating with
+more constraints than you might realize.
+eyes. I rely less on management
+forecasts when doing my estimates
+because I find that they tend to be too
+optimistic. And I also find that when
+you're dealing with industries with high
+leverage, it's just harder for them to
+change because when you have four or
+five or even more turns of debt, you
+don't want to do anything that can
+disrupt your cash flow stream. I think
+that once we have some M&amp;A deals that
+are announced, you're going to have some
+spin-offs because the regulatory
+framework, anytime there's television
+M&amp;A, one party usually has to divest
+some sort of asset. There are different
+trades you can set up, but for the most
+part, the industry's
+course is on cruise control. And so I
+have a lot more respect for industry
+fundamentals having been an operator.
+&gt;&gt; Sim, you packed in the rich history of a
+complicated industry in 60 minutes. We
+appreciate you jumping on and look
+forward to sharing this one with our
+audience.
+&gt;&gt; Thank you very much, Zach. Thanks for
+having me and look forward to connecting
+with your listeners. You can find me
+online at Acrude Interest. I'm on
+Substack. You can also find me on
+Twitter under crude interest and you can
+also go to my YouTube page. I love
+talking about media. I'm covering
+television and cable companies during
+earnings season and I'm also giving
+thoughts on other digital advertising
+stocks throughout the year.
+&gt;&gt; To find more episodes of breakdowns
+ranging from Costco to Visa to Madna or
+to sign up for our weekly summary, check
+out join colossus.com. That's j o i n o
+ssus.com.
+[Music]

@@ -1,0 +1,674 @@
+Kind: captions
+Language: en
+If you're like a retail investor, you're
+like, "Okay, I've heard stable coins are
+great. This is the way to play stable
+coin." So, there's there's definitely a
+lot of FOMO here. As you know, on our
+team, we're betting against it. So,
+we're bearish on circle specifically,
+not bearish on stable coins, but bearish
+on circle at this price level.
+[Music]
+&gt;&gt; Hey everyone, welcome back to another
+episode of WSJ's Take on the Week. I'm
+Telis Deemos.
+&gt;&gt; And I'm Miriam Gotfrieded. Today's show,
+a big conversation about stable coins.
+&gt;&gt; That's right. Stable coins, the boring
+part of crypto, right? Though not so
+boring uh lately if you look at the
+stock market. Before we get to that
+though, I think we need to have a very
+serious conversation about the labor
+market. So, there was a recent
+government jobs report that showed that
+in July the US economy only created
+73,000 jobs, which was running below
+where it had been in prior months.
+people had been expecting or wondering
+if there was going to be some sort of
+after effect of tariffs and other just
+kind of big economic changes that have
+been happening. They started to see it
+there. And probably even more
+significantly, there was a revision to
+the prior couple of reports showing that
+the economy had created 258,000
+fewer jobs than had previously been
+estimated. And that has really changed
+the conversation about what the impact
+of tariffs might be on the economy, how
+the US economy is doing. It's changed
+the way we talk about the Federal
+Reserve's next move. Miriam, how has it
+changed conversations you've been having
+uh in recent days?
+&gt;&gt; Well, I think a lot of people were
+looking at the jobs market as, you know,
+a sign of health for the overall
+economy. And now that it's a little bit
+less healthy than we thought, I think
+expectations for a rate cut have
+changed. More people are expecting the
+Fed to act at its next meeting. I think
+a lot of people are re-examining
+the process by which we collect these
+estimates. There's a whole series of
+surveys that go out to businesses that
+they must respond to in order for the
+government to tabulate payrolls. And you
+know, if businesses don't respond, they
+don't get the data. And if the survey
+trickles in late, then the data comes in
+late and the revisions happen. And
+that's sort of the explanation for the
+degree of this revision. Yeah. But
+President Trump thought there was
+another explanation. he believes that,
+you know, the head of the BLS somehow
+politicized the report um by to in order
+to make him look bad and, you know, that
+that's the real reason behind the
+revision. You know, of course, he
+offered no evidence of that, but you
+know, this has created detention and it
+led to the firing of the head of the
+BLS.
+&gt;&gt; Yeah. And and economic data is something
+that Wall Street really relies on. Um
+big institutional traders as well as,
+you know, individual traders, you know,
+look at those reports. The journal had a
+big story talking about how you know
+Wall Street economists um really are
+thinking hard about about what this
+means and you know whether they can sort
+of look at economic data the same way
+that they had in the past you know if
+there is wholesale changes to how the
+data is collected now obviously you know
+we'll we'll see what changes are made
+&gt;&gt; and I think there's a fear among
+investors going forward that the data
+will actually become less reliable
+because you know the new person who will
+be put in charge of the BLS will be
+someone who will be expected to not
+quote unquote politicize the data and
+you know that person will have a
+spotlight shown on them and what will
+that mean in terms of you know reporting
+accurate and reliable data.
+&gt;&gt; It is a reminder too that that coming up
+with opinions about what's going on in
+the economy whether you have government
+data that everybody agrees is the gold
+standard or or isn't is a very tricky
+and difficult thing. investors struggle
+to to come up with narratives to lay on
+what's happening um in the economy. You
+know, you look at earnings reports,
+right? You get very different
+perspectives. You know, we had a recent
+earnings report um from uh McDonald's,
+right? And and that report was talking
+about how yeah, they they were selling
+more food, but they were also doing a
+lot of discounting, right? And and from
+that people took away, well, the
+consumer is doing okay. Then we had
+another report recently from Shopify,
+the big e-commerce company. It was a
+blowout report and they said that like
+people are spending and doing great.
+That stock surged. So, you know, which
+which of them is telling the real story
+about the economy? We don't want to take
+away from this that like government data
+tells us exactly what we need to know
+about the economy each week because a
+lot of it too depends on what happens.
+&gt;&gt; But that being said, you know, despite
+all this controversy around this one set
+of data, you know, we do have more
+government data coming out in this
+coming week that people are going to be
+looking closely at, right? We have CPI.
+Yeah, the consumer price index, the last
+reading was a little hot. It was 2.7%
+kind of inching toward 3% that I think
+starts to spook everyone. Uh we'll see
+what the next report says. Also, the
+producer price index which kind of is a
+measure of wholesale prices.
+&gt;&gt; It looks like sort of the components of
+the prices that we ultimately pay as
+consumers.
+&gt;&gt; Yes. Similarly, that has not been too
+hot. It's been running in the sort of
+2%. So, um again, not seeing necessarily
+the the inflation uh there. Um, and then
+we have business inventories, which I
+think that's that's one I think people
+will be interested in because the
+narrative about what's happened with
+tariffs is that everybody bought up
+stuff earlier in the year, worrying that
+the price of it might go up later and so
+now everyone's sitting on on kind of big
+inventory piles,
+&gt;&gt; but they may be working it down and we
+may start to see prices increase by the
+end of the year.
+&gt;&gt; Yeah. What whether or not that that's
+going to play out in this next report,
+um, we we will see. Um but what's
+interesting from a market point of view
+though is despite the I I would say you
+know very dramatic kind of discussions
+we're having about the economy and data
+the market has been you know it went
+down a little bit after the jobs report.
+Um it went kind of back up. I think
+we're sort of still in the neighborhood
+of all-time highs for the S&amp;P and there
+are certainly some stocks that that the
+market still seems to love. you know,
+&gt;&gt; it's been really surprisingly resilient.
+&gt;&gt; Yeah. The animal spirits have not been
+have not been calmed, have not been
+soothed uh by what's going on with the
+economy conversation and maybe even a
+Fed cut has has reawakened something.
+&gt;&gt; And one particular company that people
+have gotten really excited about is
+Circle.
+&gt;&gt; Yes. Uh getting now to the main to the
+meat of our episode here. Circle is a
+stable coin company. They went public
+earlier this year. The IPO market is
+hot. People are ready to buy companies
+they think are hot growth companies.
+There was an IPO recently of Figma, uh,
+a software company that that that did
+gang busters. The the stock went up so
+much we wrote, uh, the journal wrote an
+article about did it go too up too much,
+did they do a big job pricing it, right?
+That's that's the kind of market we're
+in in in the IPO market. So, Circle
+debuted in early June. They're a 36
+billion company that that didn't wasn't
+in the public markets a couple of months
+ago. Okay, tell us before we go on, I
+have an embarrassing admission, which is
+that my eyes kind of glaze over when I
+read about stable coins and I don't
+really know what they are. Can you
+explain it to me again?
+&gt;&gt; Sure, Miriam, that is not a dumb
+question. There are no there are no dumb
+questions. Um, stable coins are meant to
+be kind of the the the glue of the
+crypto ecosystem. what they are is a
+token or coin uh that represents a fixed
+amount of a traditional fiat currency,
+right? So, so obviously the US dollar is
+the major one and there are are
+companies that issue stable coins in
+exchange for it. You give them a dollar,
+they give you back essentially a stable
+coin that is worth $1 and always meant
+to be $1. Stable coins kind of the pick
+and shovel of the cryptoverse, right?
+people move around between currencies
+and countries. Are stable coins in the
+middle of that? And more importantly,
+are stable coins something that we could
+all be using in the near future? So, to
+dive deeper into all of this, I had a
+conversation with Dan Dolev. He's a
+stock analyst. He's a senior analyst at
+Mazuo Americas. Uh, and he covers the
+crypto, fintech, payments realm across
+all those companies. Uh, we talked about
+Circle, uh, a company that he actually
+has an underperform rating on as well as
+other businesses related to that. and
+just kind of what the prospects are and
+how investors should think about this
+stuff and we're going to have that
+conversation when we come back after the
+break.
+So, there's a topic on my mind uh it's
+both something that's about the big
+picture future, digital banking, the
+future of payments and commerce, and
+it's also about some things in the here
+and now like what's the Fed's next move?
+And that's the business of stable coins.
+Obviously, it's been a hot topic during
+the Trump administration and there's a
+lot going on in Washington and now in
+corporate earnings and so we've got uh
+an analyst who covers well Dan you cover
+a wide world. You've got payments,
+fintech, crypto. So, you're right in the
+middle of lots of things. Uh Dan Dolv
+from Mizuo Americas. He's a senior
+analyst there. Thanks for joining us.
+&gt;&gt; Thanks Tis. always great to uh be with
+you and you know looking forward to uh
+collaborating on this.
+&gt;&gt; So stable coins are created by private
+companies right there's there's a
+handful of them. Tether is the largest
+and one of the largest circle uh circle
+internet group recently went public and
+they are an issuer of USDC and when they
+went public they had a hugely successful
+IPO. They went out at $31. They closed
+on the first day over $80 and now
+they're trading somewhere in the
+neighborhood of, you know, at least at
+this recording, you know, in the 160s.
+So, we're talking about a 5x since their
+IPO in um in early June. What is their
+business? What exactly is does Circle do
+to make money? So the way circle makes
+money is that they take your dollar and
+they put it on the blockchain and then
+they mint a dollar for you taking uh
+investing your dollar in US treasuries
+which are again which are making about
+four and change percent right now I
+think to be accurate in the second
+quarter it's around 4.2%. What they do
+is they have distribution partners.
+Their largest distribution partner by
+far is Coinbase. They have millions of
+users and those users are buying the
+stable coin. They're buying USDC
+and Coinbase is offering rewards in the
+form of percentage, say 4% on some of
+that, but they're not offering it on all
+of them. Circle doesn't offer it on all
+of them. And that's how you're basically
+getting some sort of a revenue but also
+for the users there is yield. So it's
+kind of a game between how much are you
+giving back to the users versus how much
+are you keeping for yourself in terms of
+the treasury yield at any point in time.
+&gt;&gt; So circle takes in your dollar they give
+you back a USDC. So then then your
+dollar then sits on on in a reserve fund
+that Circle controls and that earns
+interest because they buy treasury bills
+and other sort of low yielding sort of
+safe things. But to your point, they
+don't just then keep all of that money,
+right? You're saying some of that they
+share with partners like Coinbase. And
+the point of that is what? It's it's to
+essentially incentivize Coinbase to to
+to to use USDC versus a different stable
+coin.
+Correct. And and and not only that,
+there is also a regulatory thing here
+because under the Genius Act, which we
+probably going to get into in a second,
+&gt;&gt; that's the recently passed legislation
+that's meant to sort of lay down the
+rules of the road for for stable coins
+and it's part of the reason that
+everybody's so excited now. There's
+this, you know, kind of framework for
+stable coins.
+&gt;&gt; Correct. So, you need basically under
+the Genius Act, the the mentor of the
+coin cannot offer rewards. They cannot
+offer yield. So, they need a from a
+money market fund, right, which pays you
+a yield. Circle can't pay you directly a
+yield for holding a coin with them.
+&gt;&gt; So, they need like a partner, right,
+that basically lets you distribute the
+the coin. So, they're using Coinbase,
+but recently they've also started using
+Binance
+and there's going to be a lot more
+partners.
+&gt;&gt; So, then what has the market gotten so
+excited about when it comes to Circle?
+What do you think is kind of driving the
+market enthusiasm here?
+&gt;&gt; So,
+we're not part of that. Um, we haven't
+underperformed and I think our price
+target is is more than half less of
+where it's trading right now.
+&gt;&gt; As an analyst, do you think that their
+stock has gotten a little over its skis?
+&gt;&gt; 100%. So, stable coins are hot. This is
+the only way to place stable coins in a
+US public market sense. There's no other
+pure play stable coin. The float is very
+small. So just to explain to to your uh
+viewers the float is basically the
+percent of shares that is actually
+trading. So they went out with a very
+small float low double digit float as a
+percent of the total market cap. So it's
+very hard to buy in and buy out. So
+every dollar that you're buying into the
+stock makes you know drives drives it
+up. So what we think is there's a lot of
+retail excitement that drove up the
+stock to more than 200 initially.
+&gt;&gt; Is it a meme stock? Would you call it a
+meme stock?
+&gt;&gt; I would put it in that category. It's it
+definitely fits very well within that
+category. You know, if you're like a
+retail investor, you're like, "Okay,
+I've heard stable coins are great. This
+is the way to play stable coin."
+&gt;&gt; So, there's there's definitely a lot of
+FOMO here. As you know, on our team,
+we're betting against it. So, we're
+bearish on Circle specifically, not
+bearish on stable coins, but bearish on
+Circle at this price level.
+&gt;&gt; What's the concern for the the business
+of stable coins versus the use of stable
+coins? Where do those two things
+diverge? Why why don't they just both
+kind of go up together?
+&gt;&gt; They diverge because the business of
+stable coin is pretty much a creature of
+high interest rates.
+So the way to get you to buy the stable
+coin on Coinbase is to incentivize you
+as a retail, you know, customer to give
+you the so-called reward, which is
+basically yield. But the interesting
+thing there is once the rates start
+getting cut and this is not getting
+priced into the stock. Once the rates
+are getting cut, the business model is
+going to be challenged because it's
+harder to incentivize someone to mint a
+coin when there's no adequate reward on
+the other side. So in other words, if
+people aren't going to be earning the
+high yield, you think there's not necess
+as much of an incentive for them to own
+stable coins and that's and that's bad
+for the issuers business. Interesting.
+&gt;&gt; That's going to be it's going to be a
+bigger hurdle to get you to buy because
+at the end of the day, the consumer
+needs an incentive. Like you're going to
+you're not going to wake up one morning
+and say, "I've got to mint a stable
+coin." Unless there's a real good offer
+on Coinbase or Binance saying, "Hey,
+here's an opportunity to make 4%, you
+know, risk-free. Let's talk about other
+use cases for stable coins because it
+seems to me that it's it's a um it's a
+it can be a volume business too, right?
+Maybe they're earning a little less you
+know in yield on coins or paying it out
+to partners or whatever might be the
+case for you know circle or other stable
+coin issuers. But if you know the number
+of stable coins in circulation grows,
+right, that's just you know you're
+adding additional dollars and maybe that
+same maybe that next dollar doesn't earn
+as much but you're still getting more
+dollars. So, what what are things that
+that you think or or or or what are you
+hearing about or what are people talking
+about as ways that we will all be using
+stable coins not just as a way to earn
+yield in an account, but like are we
+going to be using them to pay for
+things?
+&gt;&gt; Yeah, let's let's let's go back to like
+baseball analogies because those are
+probably the easiest.
+&gt;&gt; I like that you're talking my language.
+Okay, great.
+&gt;&gt; The triple play is disrupting consumer
+payments. So basically if you're able to
+disrupt Visa and Mastercard and able to
+disrupt like the merchant acquires and
+the whole ecosystem we're talking about
+tens of trillions of dollars that you're
+disrupting. So the argument to be made
+pro that is that payments is expensive
+and clunky, right? So every time you go
+to the store, right, you're buying a
+Coke, the merchant has to pay what's
+called a merchant discount rate, right?
+They're paying it to the merchant
+acquirer.
+&gt;&gt; And they they're not fans of doing this.
+&gt;&gt; They don't like that. So if you can sort
+of crack this sort of machine, this
+ecosystem somehow with stablecoin,
+that's your triple play. But that's very
+unlikely, just as it's just as unlikely
+as a triple play because at the end of
+the day, the consumer has to show up
+with some sort of a stable coin, right?
+And honestly, because the consumer, just
+think about your day-to-day, you you
+still have your miles with with, you
+know, BFA or or or JP Morgan Chase or or
+MX and you have your points.
+&gt;&gt; Consumers get something out of their
+credit card or their debit card. Even if
+the merchant doesn't like paying,
+&gt;&gt; the merchant doesn't like that. But the
+merchant has one other job, which is to
+convert. The merchant wants to sell.
+Customer is king. If you show up,
+whatever card you show up with,
+typically the merchant would accept the
+terms.
+&gt;&gt; Dan, you and I have been talking about
+payments businesses for years now. We've
+seen a lot of people come along with
+various schemes for getting you to ditch
+the card and pay with a digital wallet
+that like draws directly from your bank
+account. None of those things have
+really had traction. And I know Visa and
+Mastercard shares were down a little
+bit, you know, when Circle was was going
+public, but Visa and Mastercard are
+themselves in the business of stable
+coins, right? I know you follow those
+companies, too. Like, they've they've
+got some irons in that fire
+&gt;&gt; 100%. And and I've I've asked the CEO on
+on a public conference call, the the
+Visa CEO, and and part of their value
+added services is going to be revenues
+that they're making from the stable coin
+ecosystem. So actually stable coins are
+good. They're driving more business to
+the to the networks because at the end
+of the day you have a consumer on the
+one hand, you have merchants on the
+other hand, and you need somehow to help
+you connect the consumer and the
+merchant. And that's where Visa and
+Mastercard come into play. They already
+have a very efficient global network.
+It's kind of like reinventing the wheel
+or or searching for a solution for a
+problem that does not exist. We know
+that people all over the world
+especially in countries where you know
+they don't really trust their currency
+for one reason or another like to hold
+dollars and traditionally that's
+difficult right like you need to
+literally physically you know have have
+a you know jar of dollars in your house
+sometimes right stable coins however
+that's a very simple way for you to hold
+US dollars so it seems like maybe on
+that front and maybe there's a role for
+stable coins to play in kind of global
+payments I mean I think that's one of
+the most probably talked about
+opportunities. I mean, is is is that
+something that that that you think could
+really drive wider stable coin adoption
+is sort of the the global and kind of
+crossborder use.
+&gt;&gt; There's there's two things I want to
+distinct make a distinction here.
+There's use cases and there is the
+monetization of it, right? So if you
+live in Argentina, if you live in, you
+know, places in Africa, if you live in,
+you know, kind of countries where
+they're restricting access to the
+dollar, stable coin is your friend,
+right? If you want to send money abroad,
+and I've tried it, you want to send
+bigger chunks of money, right? Like you
+want to send from one bank in in the US
+to a bank in Germany, they will charge
+you big fees. They will charge you big
+conversion fees. That's where stable
+coin could be your friend. Even though
+at the end nodes of each transaction
+there could be someone charging you
+fees. So the the fee might actually just
+shift from one fee to another right but
+there's definitely an opportunity there.
+And last there's a big opportunity for
+like migrant workers right so a lot of
+people are working in different
+countries sending money back home and
+those corridors are already seeing some
+disruption and and price pressure from
+stable coins. But remember none of this
+is touching consumer payments. It's
+disrupting the the western unions of the
+world. It's disrupting the banks of the
+world but not the networks, not the
+payment ecosystem.
+&gt;&gt; So, we have Circle will have its um
+first kind of quarterly earnings report
+and call as a as a public company um
+this upcoming week. What will you be
+looking for? Because on the one hand,
+obviously, you know, we know what
+interest rates are, so there's no
+surprise there. So, what are other
+things you'll be looking at? One thing
+must be just sort of the the the amount
+of coins in circulation and and use
+cases they're seeing for it. What what
+kinds of things will you be looking for?
+&gt;&gt; It's even more nichy than that. And the
+reason for that is because
+everything you just mentioned is very
+public. What we're looking for is
+basically
+how much more um say expensive are the
+cost of distribution. So the cost of
+distribution for Circle has that's the
+only unknown. They have been moving up.
+I.e. Circle always keeps a smaller part
+of the cake that they're baking and they
+have to give more slices of the cake to
+partners like Binance and Coinbase. Our
+prediction is that that trend is going
+to continue which means business is not
+as good or business is getting tougher.
+That's what we're looking for. And I
+think when Coinbase reported, they gave
+you enough information to to basically
+make a reasonable conclusion that
+actually in the second quarter for
+Circle, which hasn't reported yet,
+things have gotten slightly worse. This
+is based on the dollars that Coinbase
+reported that they're making from
+Circle. So, you have to make a few
+assumptions, but it doesn't look good
+for Circle, and we don't think it's
+priced in yet.
+&gt;&gt; Do you think investors might look past
+that, though? because they're thinking
+about this more as a Okay, so so maybe
+they're paying more to to incentivize
+and get stable coins out into the world
+and circulating, but that in the long
+run that will ultimately be good for
+them. Do you think that's how some
+people will be thinking about this
+business?
+&gt;&gt; I mean, potentially that's what the
+stock is pricing in right now, but for
+what you said to happen, you have to
+really start seeing use cases
+materialize. We're going to take a quick
+pause on that for a short break and when
+we come back, uh, we've got one last
+question for Dan Dolev of Missouo
+Americas.
+[Music]
+All right, so we're back. We're talking
+with Dan Dolev. He is the payments
+fintech uh, crypto analyst at Mizuo
+Americas. And Dan, on the subject of the
+Genius Act, the banking industry didn't
+love the bill. I think there's some
+concern that stable coins could
+essentially disrupt or replace banking
+that there was too much of a sort of too
+much of the banking business was being
+given to stable coins. Do you think that
+stable coins could really disrupt
+banking? I know we've talked about so
+many things that could disrupt banking.
+Could it be stable coins?
+&gt;&gt; It's it's a big disruption to the money
+they make off of these crossborder
+transactions,
+but remember most of the money that the
+banks make is like personal loans. it's
+uh mortgages those are kind of
+unaffected by stable coins. I mean maybe
+on the margin you can do some smart
+contracts etc but at the end of the day
+you think about it the bank is there to
+take risk and to assess risk and and
+stable coin is not really taking risks.
+&gt;&gt; All right Dan uh thanks for joining us
+and thanks for the interesting
+conversation.
+&gt;&gt; My pleasure.
+[Music]
+When we were talking about this episode,
+um, you know, you you you mentioned, you
+know, you you'd like to get schwarma for
+lunch sometimes. Do you think you will
+ever be paying for that schwarma with
+stable coins or will you still be paying
+for it the way you do today?
+&gt;&gt; I mean, schwarma, no, but falafel for
+sure. I'm just kidding. Um,
+[Music]

@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "method": "whisper_cpp",
+  "language": "zh",
+  "attempts": 1,
+  "duration_seconds": 1328,
+  "last_timestamp_seconds": null,
+  "coverage_ratio": 0.95,
+  "text_chars": 7925,
+  "sha256": "e0323641531ae8eb37a30eab0a99eac9ad5e764765bbd33a96e418c59d5fcf13",
+  "completed_at": "2026-06-29T18:32:15.183410",
+  "error_type": null,
+  "error_message": null
+}

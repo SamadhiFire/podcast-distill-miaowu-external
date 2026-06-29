@@ -1,0 +1,1925 @@
+Kind: captions
+Language: en
+Is the are the productivity gains from
+this going to be as big or bigger than
+what we saw from personal computers and
+the internet?
+&gt;&gt; Oh, it's far bigger. It's far far
+bigger. Yeah. I I I feel
+&gt;&gt; 98% confident.
+[Music]
+[Applause]
+[Music]
+Hey guys, great to see you both. Uh,
+Bill, maybe I don't know, you're up in
+Tahoe or something and we're thrilled to
+have one of our great friends, Michael
+Dell on to chop it up with us. Happy 4th
+of July, you guys. Most of you know
+Michael. Um, he's built obviously one of
+the most iconic technology companies.
+Starting in his dorm room, I don't know
+what, 40 years ago, Michael. I think you
+just had your 40th anniversary.
+&gt;&gt; 41 years ago.
+&gt;&gt; 41 years ago. and now a major player in
+AI. You know, you you spun off VMware,
+of course, and now you're a major owner
+of Broadcom and Dell remains a hundred
+billion dollar business. I think you own
+uh you know, like like Larry Ellison,
+you own a lot of the business, maybe
+half of the business, and it's one of
+the largest builders of AI servers on
+the planet. And obviously, in addition
+to that, you and your incredible wife
+Susan have an amazing foundation. You do
+you do great work in Texas and around
+the country. I saw that you just
+contributed to uh the disaster relief.
+What a tragedy in Texas. And so kudos to
+you both for all the good work you do on
+so many issues, but particularly in the
+state of Texas. And then, you know, of
+course, it was great to have you and
+Susan as partners on Invest America. I
+know we're going to talk about that
+today. And everybody should run out and
+read your book, Play Nice But Win. Um,
+I'm actually I would recommend they
+listen to it because Michael took what I
+understand to be a very painful process
+for an author to read their entire book,
+but it's Michael's voice and the
+inflection and the like you get nuances
+I don't think you would get just with
+the writing.
+&gt;&gt; Well, thank you for saying that, Bill,
+and and uh appreciate the kind
+introduction, guys. Look, I mean, I
+think if you're going to take the time
+to write a book, which is a major
+endeavor if you really do it yourself
+and do it right, and I did have somebody
+helping me, by the way, so I'm not going
+to take full credit for it. I think you
+should take the additional time to
+record the audio book because you can uh
+display emotion, intonation, and really
+tell the story in your own voice. and
+and it's it's a powerful
+uh way to convey uh thoughts and
+emotions at the same time. And uh I love
+audio books. I love I love going outside
+and walking, hiking, and turning on a
+good audio book is a great way to do to
+do it.
+&gt;&gt; Totally. Well, in in the spirit of
+storytelling, Michael, do you remember
+when you first met Gurley?
+&gt;&gt; Yeah, I do remember when I first met
+Gurley. Uh this was this was in the in
+the '9s and
+Bill had written this research report
+that was super thick. And I'm reading
+this report and I'm like how the bleep
+bleep bleep does this guy know more
+about our business than we do. It's like
+what? We must be totally screwing up
+here. and and uh he had uncovered a
+whole bunch of analysis and thoughts
+about our business and we were so busy
+uh kind of distracted by growth that we
+had missed a few things and Bill shined
+a massive light on that and it was super
+helpful. So I I I uh became a fan
+instantly of his work and I've been a
+fan ever since.
+&gt;&gt; Brad, that was 32 years ago. Even Even
+though when when I read the report, I
+was like, damn,
+uh, we we should have figured this out.
+&gt;&gt; This was 32 years ago. I was 28, Michael
+was 29, and running a public company,
+and I've always cherished the fact that
+Michael's a year older than me, so I
+always have time to catch up.
+&gt;&gt; Well, it's great to great to be here
+with the kids.
+Bill, what was tell us just a second
+about um because the '9s I think has
+some some parallels to the period that
+we're living in now. So you know Dell
+was growing incredibly fast obviously
+building lowcost highquality computers
+what inspired you to start covering Dell
+and then you know uh was what led you to
+these insights like did you just focus
+on that company? Was it was this a you
+know a breakthrough piece of work for
+you? Well, Michael's heard this before,
+so I I'll hopefully won't bore bore him,
+but um I I had worked in the PC
+industry. I spent over two years at
+Compact in Houston. And you know,
+interestingly, I think being inside of
+Compact, we had a view of Dell that
+wasn't as respectful as it should have
+been. Um and once I got outside and was
+able to look at the numbers in a
+different way, I was able to see things
+more clearly. But but the gentleman that
+that made this all click in terms for me
+was Michael Moeson who you know of um
+but he had taught me to look at return
+on invested capital. That's part of what
+Michael was referring to. The company
+had insane um you know balance sheet
+turnover um in a way that that the the
+cash flow relative to the earnings was
+really high and the ROIC was 10x anyone
+else in the business. Um and um yeah and
+then for some reason probably just youth
+I went and did a strong buy on the
+initiation which um Michael made a bunch
+of his employees rich. I I ended up
+making a bunch of the salespeople rich
+there at CSFB just as a result of of uh
+riding on their coattails. But it was it
+was quite
+&gt;&gt; the 90s were fun. The 90s were fun. I
+mean you know uh yeah stock went up
+130,000%. We had seven stock splits. Uh,
+four.
+&gt;&gt; What was the value of the company when
+you went public?
+&gt;&gt; What was the total enterprise value or
+market cap when you went public,
+Michael?
+&gt;&gt; Was like it was like $150 million or
+something like that.
+&gt;&gt; I mean, see, that's that's the beautiful
+thing. That's like I mean that is a
+series A in venture capital.
+&gt;&gt; It went up 100x after this initiation
+like in the public markets.
+&gt;&gt; Yeah. So, Bill, I just need you to
+recommend our stock one more time and
+then
+&gt;&gt; there was there there there was an
+element that I think is is super
+interesting like that that was also part
+of what Michael was referring to, but
+their their inventory turns were so damn
+high compared to the rest of the
+industry. So, they were they were, you
+know, building to individual customer
+order. They weren't building to
+inventory. They're building to demand.
+And um because component prices fell so
+much, we calculated they got a 200 basis
+point gross margin advantage just by
+having the FIFO Q.
+&gt;&gt; Oh my goodness. Yeah. Exactly.
+&gt;&gt; Just in time.
+&gt;&gt; This this was a this was a structural
+competitive advantage. Uh by the way, it
+still is. Um but so so the the point is
+that the cost of the materials are
+always coming down.
+And if your competitor has, let's say,
+90 days of inventory in a series of cues
+with distributors and dealers, and you
+have six days of inventory, which we
+actually had for about seven years in a
+row, six days of inventory, uh, think
+about that. Um the it's a structural
+competitive advantage because you're you
+have fresher inventory, you have fresher
+costs,
+&gt;&gt; and of course you don't have all that
+capital tied up. And so you're you're
+return on capital is essentially
+infinite, especially when you're paying
+your suppliers
+uh on uh a period longer than your your
+customers pay you. And so you have a a
+negative uh cash conversion cycle which
+which we still have typically around
+negative 50 days cash conversion cycle.
+&gt;&gt; That's powerful.
+&gt;&gt; It's a beautiful thing.
+&gt;&gt; Yes, it is. Well, let's transition from
+uh 32 years ago to the present.
+&gt;&gt; Cash is king. Everything else is an
+opinion.
+&gt;&gt; No, no doubt. No doubt. So, so you two
+just um had a big win with this Invest
+America uh program that was just
+announced as part of the big bill and I
+know I know that Brad this was your baby
+and you spent a ton of time on it, but
+Michael came on board and helped out as
+well. So, why don't you tell everyone
+the details? We've talked about it
+before, but tell them the details of
+what landed.
+&gt;&gt; Yeah. Well, thanks. and and and you know
+I remember last Fourth of July we were
+talking about this bill and I was
+sitting right here and honestly I
+thought the chance of of getting this
+passed into legislation was you know
+maybe 10% at best and we had some good
+fortune. Um as you know um we the
+legislation was called the Invest
+America Act. It was a bipartisan
+standalone bill and it ended up like a
+lot of other pieces of legislation
+getting subsumed by the reconciliation
+bill. Right. So, a lot of these things
+got packaged together in this one bill.
+And of course, it was signed into law on
+July 4th down at the White House. You
+know, I've been at this four years. You
+know, I tried to get it done under
+Biden, but the stars just aligned in
+this moment. And and Michael was pretty
+early to get on board and support this.
+joined the CEO council um for Invest
+America but played a critical role with
+the president to help get it into the
+reconciliation bill over the course of
+the last 60 days. But let's just talk
+about exactly what it means now that
+it's become law. So I think of this as a
+pretty significant evolution in the
+social contract. It creates private
+investment savings accounts, privately
+owned for every child at birth, seated
+with a thousand bucks in the S&amp;P 500.
+So, parents, companies, philanthropists
+can add money. Anybody can add money to
+these accounts. You can't take the money
+out of the accounts, right? It just
+compounds in the S&amp;P 500 until you're 18
+years old. So, we will spend the next
+year putting the program in place. It
+has to be launched under the terms of
+the legislation by July 4th, 2026, the
+250th birthday of America. And
+basically, we got it expanded. So all
+kids under the age of 18, that's 65
+million kids are eligible. And I give a
+lot of credit to Senator Cruz who fought
+to expand the pool of eligibility here.
+So what that means is that they can open
+up an account, but only children born
+after January 1, 2025 get the $1,000
+from Treasury, right?
+&gt;&gt; The other the others will have an
+account that someone else could put
+money in on their behalf
+&gt;&gt; and and they can add money to and there
+are a lot of advantages for their
+parents adding money uh for companies
+adding money to it. So it makes a lot of
+sense and my for Michael and I I think
+the key performance indicator here is if
+we're having this conversation a year
+from now we want to have 50 or 60
+million kids signed up. Now of course if
+your child is born after July 4th of
+then they're going to automatically get
+an account set up when they get their
+social security number and they will
+automatically get the $1,000. But we
+have this one-time group all kids under
+the age of 18. We're going to have a big
+campaign to get all those folks signed
+up over the course of the next year. And
+and I guess for me, I was reflecting on
+this um over the course of the last few
+days. And you know, at a time when you
+have an avowed socialist like Ma'am
+Donnie, you know, winning the primary in
+New York, it seems like, you know, the
+Invest America Act is really just the
+exact opposite, right? You're both
+trying to attack the problem of the
+wealth gap, but this is by getting
+everybody into the game of capitalism,
+making everybody actual owners in the
+upside of America's success rather than
+resorting to price controls, attacking
+businesses and success and creating
+really more dependency on government.
+So, I think we're at this critical
+crossroads in America and I think the
+Invest America Act comes at an important
+point in time. I think a lot of people
+think of it like a 529 account bill, but
+I think that dramatically underestimates
+what this is.
+&gt;&gt; This is a lifetime investment account.
+So, they can compound over the course of
+your life. If you start with $1,000 and
+you add $750 per year, at 18, that's
+worth $50,000. At 30, that's worth
+$170,000.
+And at 50, it's worth a million dollar.
+Right? So, it really is a platform for
+unlocking dramatic compounding and
+savings in the upside of capitalism from
+birth. And um it wouldn't have happened
+without Michael.
+Well, and Brad, uh look, you deserve uh
+99.9% of the credit. So, I'm going to
+give it to you. Uh you you really drove
+this thing uh passionately for several
+years, and it's amazing that it got
+done. I do think you'll see many
+companies
+provide uh matching contributions and u
+you know a number of companies have
+already said they're going to do that uh
+and it'll be like a benefit you know
+come work at our company and and uh have
+a kid and your your your child will get
+this uh and it's just going to be super
+easy for anyone to add to those
+accounts. I think it's also a chance to
+teach every child about financial
+literacy and about uh capitalism and
+free markets and
+uh you know look up in 15 or 18 years
+and you've got 70 million kids with
+these accounts. I also think you're
+gonna have philanthropists and uh Susan
+and I will will definitely be a part of
+that that will say hey you know this is
+a really good way to get money directly
+to the next generation
+in a uh way that is going to compound
+and have a difference in in their life.
+Our foundation has studied it this very
+carefully and we believe it's worthy of
+a significant contribution and Brad's
+been working you know with with the
+Treasury Department and others to set
+this up so that you know any
+philanthropist would be able to say hey
+you know here's a zip code here's a
+county here's a state here's a group of
+kids that I'd like to help I don't know
+who they are exactly
+but uh I want to help and I want to help
+their future and uh I I think I think
+you'll see a lot of philanthropists get
+very excited about this. I've had a
+discussion with a number of them and
+this could be a major platform for
+philanthropy in our country. And and and
+just to put a a sharper lens on that,
+Michael, they might
+&gt;&gt; back every kid in a state or everyone in
+the nation on a year or just
+&gt;&gt; adopt the state, adopt uh a series of
+zip codes.
+&gt;&gt; Uh you know, I think again it'll be a
+platform for philanthropy.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. I think I think of it, Bill, you
+know, in some ways like the giving
+pledge 2.0. I mean, we we we've had
+massive wealth creation in this country,
+like unprecedented wealth creation in
+this country, right? But one unique
+feature of America that I don't think
+there's any other civilization in
+history that you can point to, okay,
+that has this character, which is the
+super wealthy in America by and large
+want to give away the vast majority of
+their wealth during their lifetime or
+shortly after they they die. I certainly
+know that that Michael's in in that
+group. Okay, think about this. In
+Europe, right, they invented generation
+skipping trusts. It was about coming up
+with legal mechanisms for creating
+dynastic wealth so as to not give any of
+your money away. Okay? And we have a
+culture in this country where people
+want to give away large sums of money.
+The challenge is the charitable
+infrastructure has not necessarily
+scaled to meet the needs of people who
+want to give away billions of dollars at
+a time. And I I I said to I asked
+Michael and Susan the question over a
+year ago. I said, you know, if you
+wanted to give away a lot of money in
+the state of Texas today, like how would
+you do it directly to kids? And there's
+not a good answer, right? Because
+there's not a financial infrastructure
+in place that has a set of rules
+associated with it, you know, where you
+could have somebody like the Treasury
+Department. We're gonna have a poolled
+Invest America account at Treasury where
+Michael and Susan or other
+philanthropists could give money to this
+pulled account and it would be dispersed
+to all these kids accounts subject to
+all the rules and regulations of use. So
+the kids can't take the money out but
+they can see it compound. That simply
+does not exist today. It's impossible to
+do that at scale today. And at the the
+the long end of the curve, if you think
+about, you know, my family as an
+example, we do a lot with the East
+PaloAlto school district, um you know,
+uh some of these lowincome school
+districts in the state of California
+where I can just adopt that school and
+say for every kid in that school, I'm
+going to give $1,000 a year to. So this
+unlocks, I think, massive creativity,
+Michael, around philanthropy. And that's
+what I mean. What we know in Silicon
+Valley if you build an open platform a
+million applications can bloom. A
+million ideas can be built on top of
+this. I mean we've heard from states
+that want to add $10,000 for every kid
+born in the state if they, you know, if
+they graduate from high school in the
+state. So, I think we haven't even
+scratched the surface of the beautiful
+competition and the beautiful
+philanthropy and the long tale of
+philanthropy, churches and parents and
+friends that we'll be able to give to
+these accounts. And so, our job is to
+make sure that we make it as
+frictionless as possible that we work
+and we're we're that's one of the core
+things that we're doing.
+&gt;&gt; And what you're describing those
+accounts don't don't solely take money
+at the initiation. and they can take
+money all along the way, which is how
+you could support a school or something
+like that.
+&gt;&gt; Correct. So, the way it works, Bill, is
+um and all of this, I mean, Michael and
+I, I think, learned a lot about the the
+the act of of legislation going through
+this because, you know, it's one thing
+to get it put in the reconciliation
+bill. It's one thing to get high level
+buy in, but just in the last two weeks,
+we were negotiating the nitty-gritty. I
+think this was 23 pages of tax, you
+know, uh changes in the reconciliation
+bill associated with the Invest America
+Act. So, families can give um or or
+recipients can receive up to $5,000 a
+year from family, from f friends, uh uh
+you know, etc. Companies can give $2,500
+a year per recipient tax-free, so
+pre-tax. Um so Dell Corporation for
+example has raised their hand and said
+you know we intend to give uh to the
+kids of of our employees. So has Uber so
+has Nvidia so has Oracle. So has
+Salesforce. So has uh T-Mobile. So has
+iHeart Media. So you know it's an
+incredible list that has already come
+together. And we're going to go to the
+business round table. We're going to go
+to the largest companies in America and
+we're going to ask them all to do it.
+Now we're not telling them the amount
+they need to give. All we're saying is
+give an amount that's appropriate to
+your company and to your employee base.
+I just heard from Tony yesterday uh at
+Door Dash. He retweeted something about
+this. Sam Alman I heard from over the
+weekend once he heard it was passed, you
+know, retweeted something about this.
+So, I think the the the business
+enthusiasm is going to be very big and
+substantial. But remember, the most
+powerful givers are moms and dads,
+grandparents, friends, birthdays, and
+bar mitzvah. And all of those dollars
+ultimately like don't really generally
+find a home for savings and compounding.
+And we're going to make it as easy as
+Venmoing in this money, Apple paying
+money in. And you know, one of the
+studies that we did that was really
+profound in partnership with the Milkin
+Institute. They found a whole host of of
+things. One was that lowincome cohorts
+tend to save at about the same rate as
+higher income cohorts. if they have an
+account. The problem is that nobody in a
+low-inccome cohort has a savings account
+or investment account. So, I think
+you're going to see, you know, a lot of
+giving a lot of contributions by all
+sorts of folks once we set this up. We
+also learned that once we do this, kids
+are more likely to graduate from high
+school and college, more likely to start
+a business, more likely to buy a home,
+less likely to be incarcerated. So, I
+think the societal ROI of this will be
+really large over time. And it sounds
+like you're going to try and find a way
+where if someone wanted to donate,
+Michael mentioned zip codes, but some
+other way that if people wanted to just
+target the the lowincome, most needy,
+that there'll be a way to do that.
+&gt;&gt; Yeah, this was really this was a really
+important issue to Michael and to myself
+and and you know, I'll just, you know,
+give you a bit of a window into the
+weeds. you know, we tried to get uh
+household income as one of the one of
+the targeting mechanisms and we weren't
+able to get bipartisan agreement on
+that, but we were able to get a proxy
+for that, which is you can target by uh
+by zip codes. So, you can target down to
+groups of 5,000 or more by zip code. And
+we think through that geo targeting, so
+for example, Michael could target the
+Rio Grand Valley. I could target, you
+know, East Oakland. Um, you know, so
+there there there zip codes that you
+could target that I think uh certainly
+include a predominance of lower income
+uh households.
+&gt;&gt; That's fantastic.
+&gt;&gt; Hey, Bill, I know you've been involved
+in financial literacy and education for
+a long time. Tell us about the
+organization you're partnering with and,
+you know, perhaps as a you know, kind of
+a a a potential partnership for Invest
+America. Yeah, my wife and I have been
+giving to an organization called NextGen
+Personal Finance. Um, there's a
+gentleman there named Tim Ranzetta who
+has just been pushing for financial
+literacy in high schools. So, we can add
+a link in here, but from 2021 to 2025 in
+only a 4-year window, um, we've gone
+from 11 states to 29 states. Um, and
+Texas just passed this very recently, a
+few weeks ago. And so the idea, which
+sounds obvious, it's actually quite
+shocking that it's not true, is just to
+add a semester of financial literacy to
+the high school curriculum. Um, we send
+kids out to get jobs and we haven't
+taught them, you know, how credit cards
+might take advantage of them and how to
+build a monthly budget and how to use a
+checkbook and, you know, how how to how
+to plan. And so I think you know these
+two things u complement each other quite
+a bit but but that's another movement
+that it's nice to see gaining momentum
+simultaneously with this one.
+&gt;&gt; Yeah it's you know I talked to Tim Texas
+just became you know like you said 29th
+state I think to require a semester of
+financial literacy education. Um and you
+know some people said you know the
+Treasury Department, Invest America,
+they're not going to own the financial
+literacy. What what again I think when
+you create a platform of ownership now
+it makes all of these financial literacy
+programs and organizations across the
+country just way more effective. Right?
+Because when you're talking to a kid who
+actually you say open up your Invest
+America account on your phone. Let's
+talk about how you got 12,000$14,000
+into that account. Let's look at how
+it's compounded. Let's talk about what
+it means to own the companies that are
+listed there. What it means to be a
+shareholder. I think you just have a
+much more engaged student, right?
+Because today 95% of those students
+don't own anything and they look at
+their parents and their parents don't
+really own things. And so it's a lot
+harder to get motivated to learn about
+something when you don't think you're
+going to have the prospect of ownership.
+There are so many great organizations
+like Tim's out there. Um, and I look
+forward to seeing how they take this
+platform and run with it to turbocharge
+their own efforts.
+&gt;&gt; Brad, I know you wanted to mention um
+the budget deficit and and the funding
+for this program and put it in a little
+bit of perspective just with all the
+talk and concern about how big the
+budget deficit is.
+&gt;&gt; Yeah. I mean, listen, you know, we've
+had a uh a huge debate among our our our
+friend group um uh about this and you
+know, and some of my friends were even
+critical that, you know, this is part of
+the problem, if you will. So, you know,
+to break this down, um the max cost of
+this is 3.7 billion a year. We have a
+3.7 million kids born every year. If you
+give them each $1,000, that's 3.7
+billion. So just to you know kind of put
+that in context 3.7 billion is about
+what we contribute we give to
+Afghanistan and Nigeria in the terms of
+foreign aid every year. So I think one
+of the things as a country we just have
+to ask is about priorities. Is it more
+important to give every kid in America a
+private investment account a little seed
+from birth and get them on the right
+track or to give $3.5 billion to
+Afghanistan Nigeria? And I think those
+are the type of choices we're going to
+be forced to make. And I'm not saying
+that the dollars going to Afghanistan,
+Nigeria are wasted, but we make these
+decisions every single day in our
+budget. And so for me, this is, you
+know, that's one angle. The second angle
+is just as a percentage of our national
+revenue. This is 1/100th of 1% of our
+national revenue. So it it it's pretty
+inconsequential in terms of the overall
+budget. But the final point on it is, as
+you've heard me argue, according to the
+studies that were done on this, this
+will actually be revenue contributing 20
+to 30 years out because the taxes you
+have to pay when you exit the accounts
+on the capital gains will be more than
+what the government is contributing on
+an annual basis into the accounts. And
+so among the things we should be worried
+about when it comes to the budget, I
+don't think this is one of one of them.
+However, I would say unquestionably that
+um I remain as concerned about the
+budget deficit as ever. Um and you know
+been a supporter of a balanced budget
+amendment for a long time. I happen to
+think that this is something that is
+aligned with that, not at odds with
+that. Making every kid a capitalist from
+birth is going to better align us with
+the policies that allow the company
+country to be continue to grow. Um, and
+I think growth is a critical element to
+making sure that we get our deficit to
+GDP back in a uh, you know, in in a
+manageable place. Michael, I know you
+care a lot about that issue. Any any
+other thoughts on on that particular
+point?
+&gt;&gt; Yeah, I mean, government's obviously
+been spending too much and uh, there's
+been some some renewed attention and
+focus on that. That that's a good thing.
+Uh, it gets priced into to the currency,
+right? And we see it in all the effects
+uh
+you know whether it's inflation or the
+value of the currency
+&gt;&gt; and uh you can't really uh escape that.
+I I think the the the spending has to
+come under control. Uh now maybe we get
+this incredible uh productivity lift.
+I'm sure we're going to talk about that
+as we get to the AI fund portion here.
+Um, but we shouldn't be spending uh so
+much more than than we're taking in as
+as a government. We, you know, we I've
+sort of stepped back from the hysterics
+and you say we don't have a loan to
+value problem as a country. Um, we we
+have a spending problem.
+&gt;&gt; Talk to us about the I want to dig into
+that because it's a really important
+point. Talked about loan to value. When
+you say loan to value, what do you mean
+by that?
+&gt;&gt; Yeah, what what I mean is the value the
+the you know loan to value is a common
+term and phraseology used in banking and
+credit markets and essentially refers to
+you know the the
+uh amount of a of a loan relative to the
+value that it's it's being borrowed
+upon. If you think about the deficit
+uh you know as against the value of all
+the assets in the United States,
+we don't have a loan to value problem.
+&gt;&gt; And of course,
+&gt;&gt; so the total value of all the assets in
+the United States are a couple hundred
+trillion. Our annual deficit is 2
+trillion. So you would look at that and
+say as a loan to value, that's not an
+issue at all.
+&gt;&gt; Well, I I would look at the total
+deficit as against the the the total
+value of the assets. All right. Now you
+have
+&gt;&gt; so 36 billion 36 trillion of debt
+against 200 plus trillion of assets.
+&gt;&gt; Right? Now you have to take into account
+uh private uh assets and private debt
+also. So it would be a different
+equation there. But also the government
+has taxing authority and so it could you
+know increase the taxes but net it all
+out. Uh the government shouldn't be
+spending
+what it's spending relative to what it
+takes in. And there's many ways to
+address that, but um
+we we should we should be worried about
+where the deficit is and the rate of
+increase.
+&gt;&gt; Let me ask a question about that. Um
+well, first maybe to level set. So the
+argument out of the White House is that
+the reconciliation bill cuts the
+deficit. So the deficit was about 1.9
+trillion. Their argument um is that it
+cuts the deficit by about 150 billion a
+year. So 1.5 trillion over 10. Okay. And
+then they also argue you get another
+$250 billion in tariff revenue
+incremental from the start of the year.
+Right? We saw that in the run rate
+revenue in the month of May. So you add
+those two things together, now you're at
+400 billion. So if you were at 1.9
+trillion deficit, now you're down to
+about $1.5 trillion deficit. By my math,
+that drops it to about 5% deficit to
+GDP. Bessant has said he will get it to
+3% deficit to GDP, which is what most
+people say is, you know, reasonably
+healthy. Um, I think people would like
+to, you know, not have any at all, but I
+think most people view 2 to 3% as as as
+reasonable. He thinks he can get there
+by 27 or 28 through the two things I
+just mentioned, right? tariff revenue
+and the deficit reduction in the
+reconciliation bill plus an incremental
+100 to 200 basis points of growth in the
+country caused by you know lower taxes
+less regulation AI productivity etc. Um
+so you know are is your view that we
+just have to wait and see you know like
+does that show up or does it not show
+up?
+Well, obviously we have to wait and see
+see. Uh I think on the on the on the
+trade and tariffs front,
+I think this is this is very tricky,
+right? Uh we have uh products flowing
+back and forth and we have uh services
+flowing back and forth. And if you think
+about you know the market cap of the US
+companies versus the rest of the world
+uh hey guys uh US is doing really well
+relative to the rest of the world in
+market cap and the reason is that we
+have
+a substantial lead in the most valuable
+industries in the world.
+&gt;&gt; Correct.
+And and so the the issue there is that
+if you if you think about
+um you know uh the the trade in
+products, you also have to think about
+the trade in services and you know how
+that's going to be dealt with in a
+negotiation. I don't know how that'll
+all get sorted out, but I I I don't
+think it's a I don't think it's a simple
+one uh line item fix.
+&gt;&gt; Right. Right. No, I think it's, you
+know, I it's all relevant right now.
+Elon's talking about forming a third
+party, the American party, really in
+response what appears to be frustration
+over uh Doge and the budget deficit and
+the concerns by folks like Ray Dallio
+about, you know, a debt spiral in the
+United States. Um, you know, you got
+guys like Scott Bessant saying, you
+know, Elon, you catch rockets, leave the
+finances to me. Um, Bessant seems very
+confident that he's going to get this
+back down to two to 3% deficit to GDP. I
+I actually like the the uh suggestion,
+Bill, by Dantis. Um, you know, rather
+than forming a third party, which seems
+to me just chaotic and a lot of overhead
+and has not historically been that
+successful. I would love to see Elon,
+you know, like if this is his his main
+issue, if it's if if it's the budget
+deficit and debt, which I would love to
+see him take on, right? He could do a
+series of things. Number one, he could
+really sponsor a balanced budget
+amendment to the Constitution of the
+United States under article 5. If he put
+$10 billion against that effort, it
+would be the single largest
+constitutional effort in the history of
+the country. I think there's broad
+bipartisan support uh for a balanced
+budget amendment. We have 30 32 states
+that have supported this in the past. I
+think you only need 34 to get it uh uh
+constitutional convention called. 38
+states to get it ratified. You know, it
+would it hasn't happened. Um, you know,
+the founders made it hard to amend the
+Constitution for a reason, but I
+actually think if he put those type of
+dollars and that type of focus behind
+it, we could get it done. And then on
+top of that, he could target
+both Democrats and Republicans in
+primaries around this issue. And to me,
+it just seems like that targeted
+approach, that very focused approach uh
+to balancing the budget would have all
+sorts of positive impacts. Number one,
+it keeps the country focused on this
+issue. It keeps this administration
+focused on this issue. And, you know, I
+think you have an outside chance at
+getting a constitutional amendment, and
+you certainly are going to have a lot of
+of Republicans and Democrats who will
+run on that issue if they think they'll
+get, you know, Elon support. So, I'm not
+sure how this will all evolve, whether
+there's going to be a third political
+party or not, but I would love to see
+this issue get dealt with. I remember
+Ross Perau tackling it. 1992, 1991,
+Michael, um I I know you know you you
+knew Ross and um you know, to me that
+that type of attention is the type of
+attention that that we're going to need.
+&gt;&gt; Why don't we why don't we shift gears
+here for a second? Um, this one I, you
+know, I've been dying to ask you both
+about. There's this really unprecedented
+war for AI talent going on. Um, and it
+it was kicked off by by Zuckerberg and
+Meta. They made the Aqua hire of of
+scale for $15 billion. Um, they brought
+on board uh, Alexander Wang, you know,
+to help lead that effort. Then they
+brought on board Nat Friedman and Daniel
+Gross. They've poached a bunch of people
+from OpenAI, a bunch of people from
+Google, and now today another, you know,
+announcement of somebody from from
+Apple. The talk is 75 to$100 million
+annual pay packages, massive signing
+bonus, really dollar amounts. Michael
+and Bill, I don't I've never heard of uh
+you know, in the tech industry. So,
+Bill, given that recent set of facts,
+like what is this is
+Is this a good thing? Is this a bad
+thing? What do you think the downstream
+implications of this are?
+&gt;&gt; Well, I mean, I would I would back up a
+little bit. I don't think it started
+with Meta. I mean, I think it started
+with the cycle that we've been under in
+the private funding market. you know, we
+saw some of this stuff during Zer, but
+um you know, we've moved to a world, and
+I I talk about this in detail on on
+Oshanessy's podcast if someone wants to
+go listen to it from a few weeks back,
+but we've evolved to a place where when
+there's a successful company, the
+latestage private market at large tries
+to shovel feed cash into them. And so we
+have private companies that have raised
+not just a hundred million but a billion
+or more. And we have a handful of
+private companies um including OpenAI
+who are um voracious and audacious
+enough to burn two, three, four, five
+billion dollars a year. And so you start
+doing that and you create a situation
+where private companies and we saw this
+a lot during Zer but private companies
+have an odd advantage against public
+companies in that their the the
+investors are more willing to let them
+lose a lot of money than the public
+investment you know investors may be
+willing to. And so they get bold and
+they get audacious and you know
+Openai, Anthropic, they were all paying
+people tons of money before Meta did
+this. Um they were paying them 10
+million a year. You know maybe smaller
+than what you were talking about but
+they were doing it. Um and they were
+providing liquidity earlier like 2 years
+in instead of waiting for four and
+liquidity is a private company and all
+of these things which in some cases may
+have let these people leave because they
+didn't have any lock in. So that may
+that part may have backfired. Um but in
+Zuck you know you have someone who's had
+his back against the wall a couple times
+and gotten bold and changed what he was
+doing and succeeded again. And so he has
+conviction that he's willing to take a
+big bet. I think he's very willing to
+look at cost as a percentage of his
+market cap and to view risk as spending
+against a percentage of his market cap.
+Not everyone's capable of doing that. I
+think it may be the right math actually.
+&gt;&gt; Um in terms of you know how how big a
+bet he wants to make. Um but yeah, it's
+an what he has done here in the past
+three weeks is is an experiment that's
+never been tried before. But there's
+unlimited free agency in business unlike
+sports. And he just went and bought the,
+you know, 27 Yankees, you know, of AI.
+&gt;&gt; Yeah. I mean, and and I think your point
+is a great one. And listen, we're
+shareholders in Meta. We're shareholders
+in Open AI. I wouldn't be a shareholder
+in in in Meta if I didn't think, you
+know, in fact, I remember back in 22
+when um you know, when we took our big
+position there and people said to me,
+"Oh, what are you what are you doing?
+this is a founder controlled company.
+He's never going to become more
+efficient. He's never going to do these
+things. I said the whole reason I want
+to be all in on this company is it's
+founder controlled. I think it is a
+massive advantage that he has today,
+right? And he's talking about risking 1%
+of his company, right? In order to
+reboot around AI, that seems to me to be
+a very very rational economic decision.
+And there's no and this is just a talent
+war. He's got to, you know, Llama 4 was
+not where it needed to be to compete
+heads up, but he has one advantage none
+of those other companies have. He has
+the world's biggest printing press
+shooting out billion dollar bills,
+right? He's not relying on the
+beneficence of venture capitalists. The
+guy has a business model that is
+generating the cash to fund all this.
+And so, he's leveraging that cash as a
+source of competitive advantage, which
+seems to me to make a lot of sense. I
+think it's going to make it very
+difficult and I'm, you know, that's why
+I was asking about the downstream
+implications, Bill. If you're a company
+that's trying to compete against that, I
+don't think many venture companies can
+compete against that on a on a durable
+long-term basis.
+&gt;&gt; Certainly not the real startups.
+&gt;&gt; Yeah. Yeah. I was having a discussion
+with a real AI startup uh founder this
+weekend and, you know, he was asking
+about talent and like I I don't know
+what you do. I mean, I don't think you
+hire anyone that's top thousand in the
+Bay Area. Um, you won't be able to
+afford them. But, but I do think there
+is a fundamental question because it's
+easy to and I want to get Michael's
+opinion on this. It's easy to say the
+percentage of market cap and make that
+bold decision. But there are cultural
+implications, right, of bringing in
+employees that make radically different
+amounts of money than the other employee
+base. How how do you think that will be?
+How difficult will that be to manage?
+I think it'll be a challenge culturally
+for sure. Um,
+you know, uh, he could have a long line
+outside of his door, uh, w with people,
+uh, you know, wanting this or
+complaining about that and that could be
+a distraction. So, you know, I think
+people uh, generally have a sense of
+fairness, right? and they they want to
+be treated fairly
+um relative to others and relative to
+the the opportunities that they have out
+there in in the overall market. And if
+they feel that they're not being treated
+fairly, uh that's going to be a problem.
+So, I don't know how that I don't know
+how that gets sorted out. I do think the
+math could work for them given given
+everything you guys just talked about.
+Uh and and obviously if you uh reduce
+this down to a race to super
+intelligence or something along those
+lines, the size of the prize is is
+tremendous. And they do have an
+incredible business that is aided by
+these advancements uh in a in a big way.
+And there aren't a whole ton of
+companies that can go do this.
+&gt;&gt; Yeah. And by the way, Brad, you
+mentioned that they have the this unfair
+advantage of this huge printing press,
+but Apple and Google have the same exact
+printing press and chose not to do this.
+&gt;&gt; Yeah. I But but but neither of them are
+controlled by founders.
+And you know, that's what I was the
+point I was trying to make. These are
+the type of bets that I think it's very
+very difficult for a Google or an Apple
+to make um for the reasons you
+mentioned, Bill. you know, can they sell
+it to the public markets? You know, do
+they have the type of decision-making in
+the boardroom that allows this to occur?
+I mean, at the end of the day, I think
+at Meta, if Zuckerberg wants to do it,
+that's what's happening. And that board,
+you know, gets on board. In fact, he's
+reshaped the board over the course of
+the last couple years with folks who
+are, I think, signed up for this uh for
+this mission with him. Michael, to your
+point, that's why I think he reorganized
+this into the kind of super intelligence
+division. I think the way they'll try to
+manage this culturally is to say,
+listen, there's going to be an elite
+SEAL team 6 group, which is called super
+intelligence, and we're going to pay
+them elite pay because it's good for the
+entire business. That doesn't mean we're
+going to inflate everybody else. And in
+fact, what I think that Meta will do is
+uh you know, you'll probably see them
+rolling back like you see with
+Microsoft, like you see with Amazon. My
+sense is that companies are generally
+going to get smaller, right, on the
+backs of the productivity gains from AI,
+but they'll redeploy some of those
+profits into these areas. If you're in
+the model business and you want to be on
+the frontier competing in the front, you
+know, for super intelligence and there
+only whatever 5 to seven companies that
+really are in that game, then I think
+you're going to have to have something
+similar. Now, in the case of Open AI,
+it's only 2,800 employees and they're
+all part of that division effectively.
+But you have to really get scale quickly
+because if you're not bringing in 10,
+20, 30, $40 billion of annual revenue, I
+don't think you can stay in this game.
+Um, and so the question is whether or
+not Anthropic and X and OpenAI have a
+sufficient escape velocity, right, that
+they can take on this frontal assault by
+uh by Meta and and and still compete. Um
+I my sense is OpenAI does my sense is
+both of those companies do but it's not
+a long list uh that can compete with
+that.
+&gt;&gt; And by the way the the Nat Freiedman
+edition was particularly interesting
+just with his GitHub background. You
+know we had talked in the past that Meta
+had made a couple of hires on the
+enterprise side and we had heard rumors
+of you know certain payments when they
+passed through the the cap on the open
+models. Um but you know you have to
+wonder with Nat coming on board if there
+are more aspirations on the enterprise
+side.
+&gt;&gt; Yeah I I it's a great point and
+certainly one of it creates some
+optionality there. Hey Michael, question
+for you. You know on this related topic
+of productivity gains from leveraging AI
+and kind of what you're seeing at Dell.
+Um we've talked on this podcast what we
+call the golden age of margin expansion.
+you know, this idea that you're seeing
+AI is uh certainly reacelerated your top
+line in a pretty dramatic way. Um, but
+doing that at a lot of companies at the
+same time, you're able to do more with
+less. Um, is that overstated or do you
+think that we're in this phase over the
+next 3, four, 5 years where generally as
+an economy and certainly within a lot of
+companies that they're going to be able
+to, you know, have their top lines grow
+faster than their operating costs?
+because of AI.
+&gt;&gt; It's it's absolutely real, Brad, and we
+are doing it. We know of other companies
+that are doing it. And I think, you
+know, maybe only 10% of companies, large
+companies have figured this out and the
+other 90% are sort of a bit confused at
+this point. But you know if I step back
+and look at this you know 10%
+productivity improvements pretty easy
+20%
+uh you know reasonably common sightings
+of 30% or 40%. Those are massive
+numbers. If you sort of step back and
+you think about this, you know, you got
+a $114 trillion global economy, right?
+In 2025
+and services economy is twothirds of
+that. You know, if we believe that a 10%
+improvement is possible in productivity,
+if you just keep it simple and you say
+10% improvement,
+uh, that's worth 10 trillion dollars,
+right?
+And so uh the amount of investment that
+is occurring today in AI could be uh
+quite a bit less than is really
+justified. I mean if if if if if we if
+we believe in a 10 to 20% improvement
+and I don't say that lightly because
+that's like that's like an enormous
+thing if if it were to occur. But let's
+just stick with this for a second. If we
+had a 20 10 to 20% improvement, the
+investment in AI should be more on the
+order of two to four trillion dollars
+per year.
+&gt;&gt; Yeah. Yeah. And and that's not that's
+not where we are.
+&gt;&gt; Uh it's a lot less than that. So, uh,
+you know, uh, I don't want to get too
+ahead of myself here, but but I I I do
+think there is a big change that is
+occurring and we're just at the
+beginning of it and it's going to affect
+every part of uh our our world.
+&gt;&gt; Well, you you you have particular
+standing here, Michael, right? You saw
+the productivity gain that came from a
+computer on every desktop. You saw the
+productivity.
+&gt;&gt; That was the '9s. That we were talking
+about that the '9s. That was fun.
+&gt;&gt; You saw the productivity gain from the
+internet. And now you're two years into
+observing this. Is the are the
+productivity gains from this going to be
+as big or bigger than what we saw from
+personal computers in the internet?
+&gt;&gt; Oh, it's far bigger. It's far bigger.
+Yeah. I I I feel 98% confident that it's
+far bigger than than than the PC.
+&gt;&gt; Uh the internet.
+&gt;&gt; What about the internet?
+&gt;&gt; Yeah. I mean, so of course all these
+build on each other, right? Yes,
+&gt;&gt; it's compounding but this is this is
+this is bigger because it is essentially
+all knowledge work
+and uh I think I think it's an expansion
+of the pie right it's it's really easy
+to figure out what will be more
+efficient and how you can reduce costs
+uh but you know if you go back 20 years
+ago it was very hard to see where the
+new jobs would be. I think we're in a
+similar situation here as well. Uh I do
+I do think it will be expansionary for
+the overall economy and for prosperity
+and for well-being and human potential
+broadly across all domains whether it's
+in education, health, societal outcomes
+etc.
+Uh but yeah, this feels this feels
+bigger.
+&gt;&gt; I remember in 2001 2002, Michael, some
+companies that were early to, for
+example, Google, they figured out how to
+gain, you know, like I think a
+booking.com, right? They figured out how
+to arbitrage the internet and Google to
+build this giant business, right? And so
+I would say like they figured out
+productivity gains before the next
+person and and and that was hugely
+advantageous. And when you say that only
+10% of companies are are leveraging this
+today, it kind of sounds like the same
+thing, like the early companies are
+really there, but there's a huge amount
+yet to come.
+&gt;&gt; Well, you know, I think I think a I
+think about the big companies in the
+world. I'm talking like, you know, 10
+billion plus revenue companies, uh, you
+know, uh, 50 billion, 100 billion plus
+revenue companies.
+These companies have
+an incumbency of sorts, right? They have
+data, they have customers, they have
+brands, they have IP, etc. But if they
+don't move quickly to reimagine their
+businesses given all this technology,
+they will be destroyed by new companies
+that come in with a totally clean slate.
+And you know, that's you can already see
+signs of that happening. So uh I think
+this is all going to play out you know
+in the next 3 to 5 years
+uh and it will become sort of an urgent
+priority
+for companies to re reimagine themselves
+and
+uh you know what what we've done at at
+Dell is is uh you know our our team
+knows this because we we talk about it
+all the time internally
+um you
+That was I think it was almost two years
+ago. I stood up in front of a group of
+our leaders and I said that five years
+from then, that would be three years
+from now, we're going to have a new
+competitor and that new competitor is
+going to be in every business that we're
+in except they're going to be faster and
+more efficient and more capable and
+they're going to put us out of business.
+&gt;&gt; And the only way we're going to prevent
+that is we're going to become that
+company. And and this is how we're going
+to do it. and I sort of laid out our
+best guess as to how to do that, you
+know, two years ago. Uh we're pretty
+far, you know, uh into that path and
+well on our way and it's working, but
+it's not an easy thing to do, right?
+This is a this is sort of gut-wrenching
+stuff to reinvent, reimagine. We've had
+to do it many times. If you don't do it,
+you just go out of business. So,
+&gt;&gt; and that's no fun. So, we're not doing
+that. and and and not everybody wants to
+do it, you know, it's it's uh true. It's
+hard.
+&gt;&gt; Yeah. You're you're I was wondering if
+you could expand on that a little bit.
+So, your server division is your fastest
+growing division. You've you know, we've
+talked about on this podcast some of the
+big wins you've had as part of large AI
+clusters. How did how did you get Dell
+in a position to be part of that next
+wave? And what are the key what's the
+key value ad from your products in those
+large deployments?
+&gt;&gt; Yeah, so last year our server networking
+business grew 58%
+uh year-over-year.
+Um in the first quarter we had uh we
+received 12.1 billion in AI orders. Uh
+and by the way, our shipments
+uh for all of last year in AI servers
+were about $10 billion. So So we Soion
+two years ago were two billion.
+&gt;&gt; Yeah, it was it was it was not very much
+two years ago. So we we took orders in
+the first quarter for over 12 billion
+and last year we shipped about 10
+billion. So this is growing super fast.
+And now we have a backlog of of uh a
+little over 14 billion. So what
+happened? Well, um you know, we we we're
+already the leader in servers. Um we we
+kind of saw the GPU thing
+and
+it's a it's a combination of things. I
+mean, when when Nvidia releases a
+reference design,
+um it it's kind of a reference design.
+It doesn't really work.
+You know, we love Nvidia, but but uh you
+know, somebody's got to make all this
+stuff. And so we uh tons of tons of
+engineering
+and obviously there's a logistics the
+supply chain building these 100,000 plus
+GPU clusters and making them work
+reliably is super complex. So it's a
+combination of
+engineering
+uh operations
+um you know we we often will help with
+the financing of these with our uh Dell
+financial services
+and uh you know this the scale of these
+things is enormous. me right we talked
+about this at Deltech world right now
+we're deploying these systems that will
+produce uh you know deliver more than 50
+trillion tokens per month and if you put
+that in the context of Google statements
+or Microsoft statements I mean this is
+massive scale uh systems
+and uh yeah I don't think there are a
+ton of companies that that are able to
+to to do this and have them work
+reliably.
+&gt;&gt; And Jensen has said, you know, you guys
+have distinguished yourself against your
+competitors, um, other ODMs like Foxcon
+or Quanta, etc. Um, you know, you've
+been first to market. You're launching
+the GB300's right now. You're partner.
+&gt;&gt; Yeah, we delivered the first GB300's
+uh, a couple days ago to uh, Core
+Weeave. We announced that we actually
+have delivered another GP00 GP300 system
+to another customer. Uh I don't think
+we've disclosed who that is yet, but um
+informed listeners of this podcast will
+probably guess. So, so the the thing
+that I'm, you know, a year ago, we were
+all sitting around and talking about the
+ups and downs of the overbuild in 2000,
+right, around the internet. And you
+know, and and and yet when I look at the
+trajectory that we're on, right, I saw
+Mike Intrur on, you know, CNBC today and
+he said, "Listen, we're still
+underestimating the amount of demand
+that's out there in the world." And when
+when he says it or when you say it or
+when Jensen says it, in some ways people
+would argue it's self- serving. Of
+course, you guys are going to say that.
+That's your business. You're going to
+you're going to tell everybody your
+business is great. But you're known as a
+very sober guy who tells it like it is.
+And what I want you to do is reflect a
+little bit on the comparison between
+this and the period in early 2000 when
+we did get overbuilt, right? And you
+know the as the saying goes, every
+shortage ends up in a glut. Why are we
+not near that point yet today uh in this
+market?
+&gt;&gt; Well, I mean you you guys as students of
+the market can go back and you know uh
+sort of review what the multiples were
+on earnings and cash flow you know
+around that time. We're nowhere near
+that for the most part. Right.
+&gt;&gt; U but if we go back to the
+uh underlying activity here uh it's all
+about the tokens, right? And as we go
+from basic queries to uh test time
+compute to deep reasoning to agents and
+multi- aent systems, the number of
+tokens just explodes. And what are we
+talking about in token? When we're
+talking about tokens, we're talking
+about knowledge, right?
+And
+&gt;&gt; exactly
+&gt;&gt; um you know I don't know about you but
+I'm using these tools like 50 times a
+day as my thought partner
+&gt;&gt; to solve problems and
+&gt;&gt; uh you know quelch my curiosity
+&gt;&gt; and uh you know my usage is skyrocketing
+and uh you know often multiple models
+and it's going out there and querying
+all these websites doing calculations
+for me and helping me solve problems you
+know faster than I ever could in in the
+past and
+uh you know the this this I think it's
+just at the beginning right and uh the
+substrate for all of this of course is
+compute and data right so we love that
+at Dell Technologies because that's what
+we do
+&gt;&gt; and so there is a there's just a ton of
+&gt;&gt; growth here I think It will also be um
+highly distributed. I think it will be
+uh you know it'll occur in devices.
+It'll occur in the edge. It'll occur uh
+you know in all sorts of places and it
+it does does feel like we're we're still
+a lot closer to the beginning here.
+&gt;&gt; What can you share about onprim AI
+deployments? Michael, are you seeing
+anything interesting there?
+Yeah. So, we we in in the last year um
+you know delivered a little over 3,000
+of these Dell AI factories and you know
+those are increasingly to enterprise and
+commercial customers
+that want to bring the AI to their data
+not the data to the AI.
+&gt;&gt; Yeah. And you know there's just a ton of
+data that uh is still on prem and being
+generated on prem. And it turns out you
+know these large models are fantastic
+but you don't always need the largest
+model to solve every problem. A lot of
+the corporate use cases are perfectly uh
+done with smaller models and open source
+models. And so you see this enormous
+proliferation and hugging face of models
+of all shapes and sizes, tons of
+cascading innovations.
+And so I think this is going to be
+highly distributed.
+Uh and we're definitely seeing growth in
+onrem and and coloss are also a big
+deal. uh you know
+because many customers don't want to
+have the data center themselves and so
+they'll they'll put it in a collocation
+facility and we've also adopted the
+consumption type model so you can pay on
+a you know usage type basis.
+what is your you know when you look at
+just kind of the relative distribution
+between you know kind of the custom AS6
+world what you see happening across you
+know folks like AMD and Nvidia um you
+know there's obviously a lot of chatter
+you have an interesting perspective both
+as a consumer of these products also as
+a builder and distributor of the
+products um is is there are there any
+you know pending big changes or as you
+look ahead over the course of the next
+year or two that's probably as far ahead
+as you and see does it look like the
+relative landscape is stable or are
+there big breakthroughs coming that may
+unseat somebody like like Nvidia
+you know Nvidia is in a great spot I
+mean to your question I think uh for the
+larger um model companies and
+hyperscalers
+uh certainly custom AS6 are gaining a
+lot of share and when you have control
+over the workload and you can uh you
+know take the time to optimize your
+workload.
+Um you know that's certainly going to be
+a part of what occurs in the
+infrastructure but it's a it's not a
+large number of customers you were
+talking about the number of companies
+developing models. It's sort of that
+number of customers but they're large
+right as you've seen with Google and
+Meta and others.
+uh who are who are deploying the AS6,
+&gt;&gt; you know, maybe just in the to be
+respectful of time, Bill, um I could
+talk to Michael for uh you know, for
+hours about this particular subject, but
+maybe do you know, one of the people I
+talked to when the market's going wild
+is is is Michael. Um you know, we
+certainly saw that earlier this year.
+Um, you know, it's pretty incredible to
+see the snapback that we've seen out of
+the NASDAQ, the S&amp;P. I think the NASDAQ
+is now up 32% off of its bottom uh 2
+months ago. Just as a data point, I
+think I think Dowell got as low as I
+don't know 75 72 bucks. It's back at 120
+bucks now. That is an incredible bounce
+off the bottom, but it's still basically
+up I don't know 5 or 10% on the year.
+It's not like it's in this astronomical
+range when you look at kind of year-to
+date or over the course of the last 12
+months. And and so when I look at the
+markets and I want to get both, you
+know, your read on this is as well,
+Michael.
+Here we are. We have the the NASDAQ and
+the Q the Q's and the S&amp;P on an all-time
+highs. Bitcoin Bitcoin's near an
+all-time high. The VIX is back to 15 or
+16, basically where it was in February.
+uh despite you know uh all of the things
+around uh tariffs the 10-year everybody
+talks about this you know the great debt
+spiral that we have in the country but
+the 10ear has been between 3.7 and 4.7
+for the last two years it's at 4.2 to
+kind of smack dab in the middle if not
+at the lower end of that range. Um, you
+know, and then you see companies like
+TSM and Nvidia and Microsoft, Oracle,
+Booking.com, Uber, Dash, they're at
+all-time highs, but notwithstanding the
+fact that they're at all-time highs. You
+have Tesla down over 20% on the year,
+Apple down 15% on the year, Google's
+down on the year, um, Amazon's basically
+flat on the year. So you have a lot of
+dispersion in the market when you look
+at the at at the market. Um you know
+does it feel to you again like we're in
+this bubble territory? Does it feel uh
+as uh a company that is that it's kind
+of accurately reflecting set aside your
+stock. I don't want you to comment on
+your stock. I'm just talking about the
+mar market at large. Are the US markets
+higher in three to five years or are
+they are you know or are they not given
+given where we sit today? I would bet
+they're higher. I would bet that more
+and more companies figure out how to,
+you know, grow their businesses. You
+know, I talked earlier about the
+productivity and efficiency. I think the
+ultimate benefit is going to come from
+the speed at which companies transform
+and the growth that they're able to
+create. That's certainly how we see it
+in our business. And
+um yeah, I think I think you know a lot
+of these companies will be able to
+compound their earnings on a
+double-digit basis and the market
+largely you know overall indices will
+will become more valuable.
+&gt;&gt; Yeah, it's a you know I do think that
+this moment in time we're seeing a lot
+of dispersion. And I mentioned it,
+right? Some companies being down this
+year, some companies up a lot. I really
+think the companies that are leveraging
+AI that are in a position to leverage it
+and to capture that margin expansion,
+we're going to see a reaceleration. And
+we've heard this out of folks like
+McDermott and Shredar and Jensen, you
+know, at all these companies, how
+they're reacelerating topline, but
+they're not adding people, right? That,
+you know, it's kind of net flat. We see
+this out of Uber. We see it out of Dell
+&gt;&gt; when the markets dipped down. Uh, our
+share buyback program went into went
+into high gear, you know,
+&gt;&gt; right? And
+&gt;&gt; we bought back 22 we bought back 22
+million shares. So, you know, stock
+&gt;&gt; worked out well for you.
+&gt;&gt; As I look at this flight path, we just
+we just landed,
+&gt;&gt; you know, the reconciliation bill. So,
+there was a lot of uncertainty in the
+world to start the year. One was what
+was going to happen? Was this
+reconciliation bill going to pass? Now,
+it's passed. So we have tax
+predictability, right? You have an
+extension of the existing tax regime and
+then you have the no tax on tips, the no
+tax on overtime. So you have this
+incremental stimulus now coming from the
+reconciliation bill. On top of that, you
+know, tariffs while still up in the air,
+the market kind of is digested the
+tariff stuff, right? and absent some big
+blow up between us and China um you know
+if we follow the Besson accords that
+they reached in Switzerland um and then
+reiterated in London it seems like the
+big pieces of the tariff puzzle are
+falling in place and then on the rate
+front the market is estimating that the
+next move is down whether we're going to
+have one or two rate cuts you know at
+the end of the year um is is the
+question some people the Fed is saying
+we're on hold we're going to wait and
+see whether or not inflation
+reacelerates this summer due to tariffs.
+So, that's what everybody's eyes are on
+over the course of the next 6 to 8
+weeks. Does core PCE tick up, you know,
+due to those tariffs? I'm taking the the
+under on that, but we're going to have
+to wait and see. And then on
+fundamentals, I think what we're hearing
+from companies, and this is where the
+rubber meets the road, earnings, I think
+we had 85% of companies beat in the S&amp;P
+500 in the quarter. And if you just go
+through and look at keywords, it was
+accelerating, it was AI, it was
+reinventing our business. There is a
+real growth um you know feeling in the
+market and among these companies. And so
+from our perspective and we try to uh
+give people an indication of where we
+are. I mean, I was as negative, as you
+well know, Michael, um, early in the
+year, I was as negative as I' I've been
+in 10 years because I thought if we were
+going down the path of Navaro and $2
+trillion of tariffs that it was all, you
+know, every all bets were off. That was
+a scary path, you know, and and you
+know, we talked about how
+&gt;&gt; if they went down that path, I thought
+they would reverse course
+&gt;&gt; because it wouldn't work,
+&gt;&gt; you know. And this I think this is a
+very
+&gt;&gt; iterative team that will experiment, lay
+some stuff out there. Not all of it's
+going to work. There'll be some bad
+ideas and then they'll reverse course.
+&gt;&gt; Yeah. I hope we don't
+&gt;&gt; we did do that.
+I hope we don't snatch uh defeat from
+the jaws of victory here with with
+policy though. You know, I think you
+know going back into the tariff game um
+some type of bold confrontation with
+China um and you know our AI policy. I
+mean, one thing we didn't talk about in
+this past week, the the AI moratorum got
+removed from the bill and we're going to
+have 70 state laws in the United States,
+which is not great for AI startups. So,
+anyway, I hope we don't I hope we don't
+I hope we don't I hope bad policy
+doesn't upset what would be an otherwise
+uh very potent landscape based on AI.
+&gt;&gt; Yeah, fully agree. I I think it's one
+thing that the three of us are in
+violent agreement on. One of the things
+that's moved this country forward for
+the last three decades is we've led
+globally in technology. And we've led
+globally in technology because we've
+allowed our best technologies to move
+freely around the world and to compete
+and to win. This is the first time since
+I've been in this business that we're
+talking about export controls and AI
+diffusion laws that are restricting the
+ability of our technology to go compete
+and win. Right. And there's both the
+question mark as it relates to inside of
+China, but also the question mark
+outside of China. And while we've seen
+the repeal of the Biden diffusion um uh
+rule, what I'm told is that no new
+licenses have been granted for uh you
+know for distribution of AI technologies
+around the world despite all of the
+discussion around this. So, it's
+critical that Washington follows through
+and that we accelerate diffusion around
+the world of the entire American AI
+stack that we don't regulate that out of
+Washington. And then I think there are
+some legitimate regulations that you can
+have as it pertains to China. But even
+there, I would much rather let our
+deprecated chips out of Nvidia go
+compete against Huawei in China. keep
+the developer mind share in China
+because it's going to make it easier for
+us to win globally and elsewhere around
+the world. Um, and I think it's
+important that that Michael, myself,
+everybody else, Bill, you are those
+voices are being heard. We're not out of
+the woods on this by a long shot.
+&gt;&gt; By the way, you you reminded me of one
+other thing I'd just like to harp on,
+which is the skilled immigration piece.
+So uh someone highlighted to me that
+they made like the huge wanted poster of
+all the people that Meta has borrowed
+from other companies like like 60 or 70%
+of them were were of Chinese origin. And
+as I understand it right now, you know,
+there are PhD students or are candidates
+in China that can't get visas and get in
+um to the United States right now. And
+we go back to what Trump said on Allin
+that he wanted to staple a visa to every
+diploma. I'd really like to get, not
+that we're in charge, but I'd love to
+get that conversation going again. Um,
+it would be very powerful for the
+country to increase skilled immigration.
+Um, and it feels like we might be
+decreasing it.
+&gt;&gt; Yeah, absolutely agree. And and to your
+point, Brad, I mean, if if we don't
+aggressively
+work to, you know, sell our technologies
+around the world, uh, other countries
+are going to do that. And you know
+reminded of uh
+story long time ago. The defense
+department had this thing called MTOPS
+and it was a it was a uh Bill might
+remember this but it was it was like a
+restriction on how fast the computer was
+that you know you had to get approval
+from the government and to sell it. And
+uh I was in this group of technology
+CEOs and we we went we went to the
+Pentagon to talk to the generals and uh
+and before we went we went to Toys R Us
+store and we bought a PlayStation
+[Laughter]
+and we took it out of the box and we
+brought it to the the Pentagon, you
+know, this big room and we, you know,
+set the PlayStation down on there and we
+said, you know, this exceeds the MTOP uh
+restriction,
+&gt;&gt; right?
+&gt;&gt; Uh but unfortunately, you know, it's not
+it's made by a Japanese company and so,
+you know, it doesn't follow under the
+rules, so anybody can buy it. It's it's
+also $399, right? So, uh, you guys think
+you're going to control the access to
+this thing or little things that, you
+know, move easily,
+uh, you're kind of fooling yourselves.
+&gt;&gt; Yeah.
+&gt;&gt; And so, we have to come up with more
+intelligent ways to restrict access to
+the most advanced technologies.
+And um
+often times you just get all kinds of
+unintended consequences with these rules
+that are created
+and it doesn't create the outcome that
+that uh the government was originally
+looking for.
+&gt;&gt; Well, and and I think that's a a good
+way to wrap. Um Michael, it's awesome
+having you here. I I I wanted to say,
+you know, Michael and myself, Darasher
+Shahi, David Solomon from Goldman, Renee
+Hos from ARM, uh, you know, uh, Bill
+McDermott from, uh, uh, Service Now, and
+and a group of us were at the White
+House, uh, a few weeks ago to testify on
+the Invest America Act, and Michael
+kicked it off, and, uh, if you haven't
+seen the video of it, we'll include it
+here. you should watch it. But he
+reminded everybody, captivated the
+entire room.
+&gt;&gt; We view this initiative as a powerful
+platform for philanthropic innovation
+aimed at helping children thrive
+wherever they come from, particularly
+those families who have been
+historically left behind. Mr. President,
+you articulated it perfectly. These
+Invest America accounts will give every
+new American child a genuine opportunity
+to participate in history's greatest
+engine of economic growth, the American
+economy. These in the funds in these
+accounts invested in American enterprise
+and innovation will grow over time into
+substantial nest eggs providing support
+for education, home ownership, and
+starting families. The ability of
+families, friends, benefactors, and
+employers to match the government's
+generosity amplifies the life-changing
+potential of this initiative. Thank you,
+Mr. President, for your visionary
+leadership on this critical issue. These
+Invest America accounts will profoundly
+impact countless young Americans,
+ensuring they truly benefit from what
+Abraham Lincoln described as the right
+of every American, the right to rise. As
+I sit here on on the Fourth of July
+weekend, you know, I'm just I'm I'm
+super grateful to you, Michael. You did
+a huge service to the country by helping
+us get the Invest America Act passed.
+And I think everything that we just
+talked about here, including allowing
+American technologies to go compete.
+Remember, these Invest America accounts
+are only worth something if America does
+great, right? And the fact of the matter
+is Warren Buff Warren Buffett has said
+Warren Buffett has said the smartest
+thing he did was just bet on America.
+He bet on America. And I'm I'm betting
+that the next 50 years, next hundred
+years are going to be an American
+century again. But we can't get in the
+way of the innovation and the
+entrepreneurship
+uh you know and um the the creative
+destruction frankly that has allowed
+America to be so great. And uh finding
+that balance between between government
+and Silicon Valley has always been uh
+you know challenging. you know, as you
+just related, Michael, with MTOPS, but
+you know, we have to show up. We have to
+have a voice. We have to, you know,
+continue to push in that direction. Um,
+I think if we're allowed to compete, our
+best days lie ahead. If we get in the
+way, Bill, like you talk about, then I
+think we can upend our advantage. Thanks
+for joining us, though. Notice, Michael,
+great to see you.
+&gt;&gt; Appreciate it.
+&gt;&gt; Great to see you. Byebye.
+&gt;&gt; We'll talk soon. Take care.
+[Music]
+[Applause]
+[Music]
+As a reminder to everybody, just our
+opinions, not investment advice.

@@ -1,0 +1,1389 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the OddLots podcast. I'm Joe Weisenthal.
+&gt;&gt; And I'm Tracy Aloway.
+&gt;&gt; Tracy, I have three thoughts about
+stable coins.
+&gt;&gt; Oh boy. Here we go. Just three. just
+three. One is I think within the broader
+realm of crypto, stable coins are real
+and here to stay and probably going to
+be important. Two, some of them seem
+like an absolute cash money maker
+because you don't pay any yield to the
+holders. You collect the yield for what
+you have backing it. It's a great
+business model. It seems amazing. And
+three, as the child of the uh great
+financial crisis generation, I'm
+convinced that if crypto is ever
+implicated in a future financial crisis,
+it might have something to do with
+stable coins. You stole all my talking
+points, Joe.
+&gt;&gt; Honestly, the same brain.
+&gt;&gt; I had like the note written down that,
+you know, issuing liabilities that
+mostly return nothing is a wonderful
+business model.
+&gt;&gt; What else did you could just restate in
+your words?
+&gt;&gt; Well, also I was thinking stable coins
+are basically the primary touch point of
+crypto to the regulated financial
+system. And so you would expect some of
+those financial stability concerns to
+potentially materialize there. And then
+the one thing you didn't mention that
+I'm interested in is also this idea of
+competition directly with the banks. And
+as stable coins get more money market
+fund like maybe more depositlike, we
+have some stable coins that issue yield.
+Now
+&gt;&gt; what does that actually look like for
+the financial landscape?
+&gt;&gt; Totally. For traditional payment
+companies of all sorts, I mean we all
+know that legacy payment companies
+collect a pretty big rent so to speak
+for use of their network. In theory,
+there could be almost no cost at all for
+a stable coin transaction or virtually
+minimal. It seems appealing. On the
+other hand, getting people to switch on
+mass from using like a sort of debit
+card or credit card to a stable coin is
+sort of a tricky chicken and egg
+problem, but you know, it's a real
+competitor to an existing way of doing
+payments.
+&gt;&gt; Also, the one thing we didn't mention is
+it's kind of becoming important from a
+fiscal standpoint for the United States.
+And you have Treasury Secretary Scott
+Bessant saying that he expects all this
+new stable coin issuance to basically
+increase demand for US debt for
+treasuries for mostly tea bills. And so
+there's a lot to talk about.
+&gt;&gt; There is a lot to talk about. We really
+do have the perfect guest today. We are
+going to be speaking with Jeremy. He is
+the co-founder and CEO of Circle
+Internet. They recently went public in
+early June and they've had a monster
+IPO. Incredible demand for this company.
+incredible enthusiasm. They are of
+course the sponsor of USDC, one of I
+think it's the second biggest stable
+coin out there after Tether. So Jeremy,
+thank you so much for uh coming in
+studio here on OddLots.
+&gt;&gt; I'm really excited to be here. As uh you
+guys laid out, there's a lot to talk
+about.
+&gt;&gt; I said it in the beginning, stable coins
+seem like an incredible business model
+because here you have all these people
+holding a non-yield bearing token.
+They're backed by in many cases yield
+bearing assets that incorporate a lot.
+On the other hand, in Circle's case, a
+lot of the money that occurs to you goes
+straight to Coinbase. Explain to us your
+relationship with Coinbase and so people
+can understand sort of the economics of
+the money that you bring in and then how
+it goes out the door.
+&gt;&gt; Yeah, maybe I'll actually start with
+something a little bit higher level and
+then drill in. So when we think about
+our business and what we have built and
+what we operate is we think about it as
+an internet scale platform and network
+utility. So, we're a set of software on
+the public internet that people can
+build on and integrate to and it
+provides this utility which is this
+global utility for storing and moving
+value around the world. And there's a
+regulated part of it and there's a
+technology part of it. And so, as part
+of that, we want to build the largest
+stable coin network in the world with
+the most usage and the most transactions
+and the most utility. We can talk more
+about what that looks like. And as we
+built this, as we launched this back in
+2018, we knew that we needed to really
+focus on building upfront utility and
+then building really good distribution
+relationships. And so in our business,
+we have sort of the scale of the
+network, which is measured by the number
+of people who can reach in their pocket
+and use USDC. There are over 600 million
+accounts that can access and use USDC
+around the world. A lot of that is
+through distribution partners that we
+have
+&gt;&gt; like Coinbase. Coinbase is one, Binance
+is another, and many, many more. You can
+find USDC on Robin Hood, on Kraken. You
+can find USDC in super apps in foreign
+countries like New Bank, the biggest NEO
+bank in Brazil, or in a product like
+GCash in the Philippines, which is the
+dominant financial product for many
+Filipinos. And so, we make that product
+available globally. And we have a
+philosophy of incentivizing, you know,
+distributors to grow with us. And so, I
+think that's really fundamental to the
+philosophy. And right now I think we're
+in the early stages of building this.
+You know, the the numbers in the
+aggregate are sizable, but when we think
+about what this can grow into and the
+volume of money storage and money
+movement that will happen in an internet
+native way, you know, we we think we're
+still in the very early stages of that.
+I mean, I understand that argument, but
+Coinbase also took, I think, more than
+50% of your revenue from reserve assets
+last year, which seems like a lot to pay
+for distribution when you're already the
+second biggest stable coin in the world.
+Is that partnership, you know, will the
+math always make sense to you? And I
+guess how often do you actually renew
+that agreement?
+&gt;&gt; Yeah, so a couple things. So, first of
+all, we have a great relationship with
+Coinbase. They've been such a huge
+partner and really bet big on this way
+before anyone else. And so I think I
+give Brian a lot of credit for really
+seeing that USDC could be a fundamental
+part of their entire business. And
+really they've baked USDC into all their
+retail products, their institutional
+products. They're building new payments
+products around it. They're really
+betting not the entire company, but
+they're betting a lot on it. And that's
+amazing. And when you think about
+networks that were built in the past
+from the 70s or the 80s or in other
+times, you definitely need these big
+anchor tenants that really bet on it and
+help drive the utility. But to the
+degree that Coinbase has leaned in,
+that's really helped create demand for
+usage in other places. So Coinbase's
+largest rival, Binance, for example, is
+also a significant partner on this. And
+I think with the Genius Act passing,
+which I know we'll come back to, and
+regulatory clarity kind of happening
+around the world, we're entering a new
+chapter in all of this. We were sort of
+in the early adopter phase, which was
+really primarily anchored in like crypto
+trading markets and things like that.
+And now we're entering this kind of more
+mainstream phase where payment
+companies, banks, financial
+institutions, capital markets companies,
+lots of consumer companies, consumer
+internet companies are all getting
+involved. And so our view is that the
+sort of share of the pie as it were is
+going to be more and more diversified
+and grow the pie will grow and the
+diversity of the participants and that
+will grow over time as well.
+&gt;&gt; Real quickly, what is the genius act
+mean for your business? What changes pre
+and post Genius Act? So Genius Act is
+very significant in our view and it's
+actually in some ways we've been arguing
+for kind of federal policy and
+regulation around this new form of
+electronic money to some degree since I
+went to the capital in 2013 and started
+articulating a regulatory view on this
+but in a very significant way really for
+the last 5 years we've been pushing for
+federal regulation and what that does is
+first of all it enshrines in federal
+law, many of the things that we had made
+core to the way we operate,
+transparency, having major audits of our
+firm, safety and soundness requirements.
+It ensures that the reserve itself is
+effectively a cash instrument and allows
+this to be treated as a cash instrument.
+And by having that federal framework, it
+opens up opportunities in two
+significant ways. I think the first is
+now if you're a a corporation, a public
+corporation, or you're a financial
+institution, you now know what these
+are. You can hold these and treat these
+like cash on your balance sheet. This
+paves the way for the use of payment
+stable coins in wholesale payments,
+retail payments, as eligible collateral
+on capital markets, venues. So it really
+opens up the aperture of what people can
+use this for and it gives all those
+financial institutions and and companies
+the clear definition and the faith that
+they can interact with this and they
+know it's bankruptcy protected and all
+this good stuff. The other big thing is
+that and this ties into one of the
+opening comments is having this as a
+defined part of the US financial system.
+So, stablecoin money, which in my view
+is a new form of M1 electronic money,
+having that as a defined part of the US
+financial system, means that it can be
+expanded internationally in very
+significant ways. Governments all around
+the world will be able to enact their
+own stable coin laws as they are, and I
+can talk about a dozen countries where
+that's the case, and they can recognize
+issuers that are under federal
+supervision in the US and enable those
+to interact with their markets. And so
+it opens up the global adoption here
+within the regulated financial system in
+a very major way. And so for us, all of
+that is we view as a tailwind to have
+more and more people building on top of
+this infrastructure that we've been
+building.
+&gt;&gt; So in terms of integration with the
+financial system and competition with
+the banks, of course, you still under
+the Genius Act, you do not have access
+to the Fed's balance sheet. Is that
+right?
+&gt;&gt; That's correct. So a couple things. So
+one is the Genius Act doesn't sort of
+specify who has access to the Fed's
+balance sheet. What it does say though
+is that uh uh eligible reserves in a
+stable coin can include cash at the Fed.
+It can include short duration T bills.
+It can include repo treasury repo
+facilities etc. And for us as circle, we
+actually just announced very recently
+that we had filed to establish a new
+entity called First National Digital
+Currency Bank. And First National
+Digital Currency Bank is in application
+with the OC to become a national trust
+bank. And under the Genius Act, as a
+large issuer, greater than 10 billion,
+you know, we're around 64 billion today,
+you know, we will come under OC
+supervision. And so we're trying to line
+up the kind of infrastructure of Circle
+against the kind of upcoming regulatory
+regime and we want to make sure we've
+got the best underlying kind of
+infrastructure there for people who
+would build on us. So I said in the
+intro that my worry is that if there was
+ever a financial crisis that involves
+crypto connected, it's going to be
+somehow due to stable coins because I
+always think like entities that are
+pegged to the dollar that deviate from
+the dollar, that's where you get into
+trouble. People think this is a dollar
+and suddenly it's worth 95 cents. That
+actually did happen to circle in early
+2023 very briefly with the collapse of
+SVB. Could that ever happen again or is
+there a way to say this could never
+happen again?
+&gt;&gt; Well, a couple things. So, secondary
+market trading is where we saw that. But
+we've
+&gt;&gt; But you weren't able the desks weren't
+able to keep it at a dollar. Whatever it
+was that did happen. That's because the
+banks were seized by the federal
+government and so banking was not
+available over that time. But
+nonetheless, it's a really important
+question. It's a fundamental question,
+right? Which is the real question in my
+mind is is a full reserve model of money
+a safer model of money than a fractional
+reserve model of money. And in our
+financial system today, we do have FDIC
+for the fractional reserve banks. Now,
+that's for small depositors. The vast
+majority of deposits in the banking
+system are uninsured deposits. Now, some
+of those sit with so-called too big to
+fail financial institutions, therefore
+implicitly have the bailout power of the
+federal government, like we'd never let
+them fail. But that's sort of
+theoretical. You could imagine a
+scenario where the federal government
+doesn't have the balance sheet or it
+doesn't want to create the inflation or
+or whatever it would be.
+&gt;&gt; The lack of political appetite.
+&gt;&gt; Lack of political appetite. I mean, that
+was on the verge in the financial crisis
+that was jamming it through Congress,
+which was then challenged later. But I
+think and by the way this gets to the
+genesis of circle like why did I start
+this company? I spent a number of years
+like reading about what happened with
+the financial crisis how did this
+happen? What is the nature of money?
+What is the nature of central banking?
+How does the international monetary
+system work? All of these things were
+fascinating to me and I was running a
+completely different kind of business
+which was an online video technology
+business and I kind of thought
+intuitively that there had to be a
+better way and it was actually through
+my kind of introduction to crypto in
+2012 that I sort of saw hey there might
+be a path here and while a lot of people
+were obviously focused on Bitcoin as a
+full reserve sort of sound money
+philosophy and I'm sure you've had
+plenty of people to talk about that. Oh
+yes.
+&gt;&gt; Over the over the years,
+&gt;&gt; but for me at least the idea of sound
+money of kind of having a different risk
+model in the financial system was very
+appealing to me and in particular this
+idea of fully reserved dollar digital
+currency and you know I'm an adherent to
+the Chicago school and the Chicago plan
+I should say which was a particular
+philosophy that was advanced in the
+aftermath of all of the bank failures in
+the 1930. 1930s and there were really
+two responses. There was a group of
+prominent economists some of Irving
+Fischer who was at the Chicago school at
+the time and there was industry and the
+prominent economist said hey we could
+build a full reserve model where you
+have essentially government obligation
+money or this full reserve form of money
+that is in a payment type of institution
+a payment bank and then you have a
+separate institution which does credit
+and you can only you can't create new
+money out of thin air as banks do. you
+could only lend the full reserve money
+and the philosophy there was that that
+would sort of reduce risk in in the
+financial system and it would smooth out
+economic cycles and that's come and gone
+as a debate during the savings and loan
+crisis after the great financial crisis
+etc. But I think the advent of digital
+currency in particular creates an
+opportunity for this that I think is
+really profound and when you think about
+native money on the internet. So take
+something like USDC which underrogenius
+sort of gets defined as this cash
+instrument the reserve instruments we
+can discuss are those you know safe in
+the sense of financial stability safe
+but you have a fully reserved
+instrument. What's powerful about
+digital currency is it inherits what I
+call the superpowers of the internet.
+Meaning it inherits the speed and
+velocity of data on the internet. And so
+all of a sudden the marginal cost of
+storing and moving value goes very close
+to zero and money velocity can
+accelerate significantly and that
+creates its own risks. But this high
+velocity money that's moving on the
+internet that can move literally from
+any person entity any AI agent any
+business all these sort of machine
+interactions all this stuff that happens
+globally it's kind of crazy to think
+about having that be the underlying on
+that to be like a bank's stack of
+lending risk and to have all of these
+lending risk IUS floating free
+circulating on the internet and so my
+view is that the base
+of money in the internet financial
+system which I think is a new financial
+system that's being built up from the
+ground up that the base layer of money
+needs to be this full reserve form of
+money that is actually safer that begs
+the question of how do you do credit and
+all that good stuff which I'm happy to
+give you my views on but I think the
+philosophy is actually how do you do
+something that's actually safer that
+people can look at and say I know that
+this is always available it's not that
+if the bank fails I might get my FDIC
+insurance cap. It's like I know what
+this is and there's a credential
+supervisor and there's actually this
+enforced risk management which improves
+and continues to improve over time.
+[Music]
+You know, you mentioned the safety of
+the reserve assets and this is something
+that is in the act. It kind of defines
+what you're supposed to hold. So things
+like tea bills, highquality liquid
+assets, all that good stuff. We've been
+talking about a safe asset shortage in
+the financial system for it feels like
+decades now, right? It feels like there
+is not enough good collateral to go
+around for everyone. And as stable coins
+ramp up, I'm really curious if you're
+worried about the crowning out effect,
+if there's going to be enough tea bills
+in the world to satisfy that 1:1 reserve
+requirement.
+&gt;&gt; Yeah. So, if it was exclusively on the
+basis of short-term government debt and
+this got to be tens of trillions of
+dollars or whatever, then then you might
+have a mismatch there. Now, obviously,
+regulation isn't going to stand still on
+this. So the genius act is a significant
+piece of legislation and it defines this
+framework. That framework is inclusive
+of cash that is overcolateralized
+lending with repo desks. It includes T
+bills of the shortest duration and it
+does include cash in the financial
+system and it includes eligible reserves
+at the Federal Reserve as cash as well.
+And so over time as this infrastructure
+scales I think that mixture gives us a
+huge amount of capacity that I think you
+know arguably could support many tens of
+trillions of of dollars of value.
+&gt;&gt; So wait just to be clear on one specific
+are you completely non-exposed to
+non-FDIC insured deposits? Are you
+completely extricated yourself from that
+system? No. And and in fact, let me
+describe what we do. And we today by far
+operate with the greatest transparency
+of any other stable coin, any other, you
+know, regulated stable coin in the
+world. And we've done that through a
+couple of things. The first is we
+created a structure called the circle
+reserve fund, which is really designed
+to provide transparency into the
+reserves. So we did that with BlackRock
+and it's an SEC registered what's called
+2A7 fund. So, it's a government
+obligation fund, but it gives daily
+transparency into essentially about 90%
+of everything in the reserves. And so,
+you can look every day. You can search
+USDXX.
+&gt;&gt; I pulled it up on my blue.
+&gt;&gt; There you go. And you can drill in and
+you can see exactly the serial numbers
+of every T bill, the short duration T
+bills, and we I think we have an average
+maturity of about 23 days in that
+reserve. And um
+&gt;&gt; Bloomberg says 13 right now, but I'm not
+I don't I you know, whatever.
+&gt;&gt; Is that what it says?
+&gt;&gt; That's what it says. I'm just looking
+I'm just looking at the screen. That may
+in fact I'm just looking at the screen.
+&gt;&gt; That may in fact be what it is today.
+That's that's what Bloomberg says.
+Great. Um
+&gt;&gt; and and then you can also see like the
+global systemically important banks that
+we have repo relationships with and and
+that's there as well. So you can see
+that that's about 90%. And then there's
+cash and the cash about 98% of the cash
+is held with a very limited number of
+global systemically important banks. And
+these global systemically important
+banks are the sort of lowest credit risk
+kind of cash custodian type banks. And
+so we hold the reserves there. Now you
+can argue about how safe is that cash
+relative to, you know, kind of sharted
+out across all kinds of other stuff. But
+that's sort of what's there today. And
+we need to do that because we need
+intraday liquidity. We need to ensure
+that in the event of 5 billion, 10
+billion, whatever it is, that's always
+available. And then there's a very very
+limited amount which we position in
+settlement banks uh and and reserve
+accounts in different geographies to
+ensure that it's easy to create and
+redeem USDC whether you're in Singapore
+or Japan or Europe and and other places.
+We also have a separate issuance of USDC
+and a a completely separate reserve
+mandate and supervision in Europe as
+well. So we dualissue USDC. We issue it
+under European rules under the Mika
+stable coin statutes and we issue it in
+the United States and we have created a
+way for kind of fungeibility across
+those. H is the ultimate ambition to
+really take on and compete with the
+deposit taking institutions in the sense
+that you want to get big corporate
+clients maybe the type of clients that
+would put their money in uninsur well
+they have so much money some of it would
+end up being uninsured by FDIC or they
+might put it in a money market fund or
+something like that and if you're doing
+that doesn't it seem like the biggest
+hurdle is the lack of interest paid on
+stable coins
+&gt;&gt; so a Couple things I think the first is
+that payment stable coins which is what
+the Genius Act governs it and in fact
+mirrors stable coin laws in Europe in
+Japan and in other markets that are
+bringing these online. These are
+designed to be cash instruments that are
+used in payments and as a as a payment
+system technology. They're not designed
+to be risk-taking instruments that you
+would say deposit and lend. And they're
+not designed to be investment products.
+You're not purchasing a security. you're
+not purchasing an investment. And so
+they're narrowly defined and Genius Act
+enforces that. And so I think that's the
+right design for this base layer kind of
+cash instrument. Now that doesn't mean
+that you can't build digital tokens that
+present yield. And while people call
+these stable coins, I think that term of
+art will probably change. People call
+them tokenized real world assets,
+tokenized money market phones, tokenized
+treasuries. So we operate a sizable
+tokenized money market fund product
+called USYC and USYC is fungeible with
+USDC. So a business for example could
+hold USYC and earn the yield that would
+be your typical kind of government fund
+type yield but have the ability to
+instantly create and redeem cash and
+instantly create and redeem yield. And
+so we acquired a company called Hashnote
+and we've integrated that into our core
+infrastructure and we've just brought
+this online. It's it's a very powerful
+structure if you can have tokenized
+yield bearing collateral and then
+instantly uses as cash for settlement
+for trading for spending etc. And so I
+think that that's something that we can
+kind of do uniquely because we have this
+widely adopted payment stable coin and
+then kind of marrying those two together
+and and we can do it in a very very
+capital efficient way because
+essentially the reserves of USDC mirror
+the actual instruments in USYC and so
+there's a sort of fungeability between
+USYC and USDC reserves. So let's talk
+about the competitive landscape in a few
+years from now. So, at some point,
+you're going to revisit your agreement
+with Coinbase. Maybe JP Morgan will have
+a payment coin that they're going to
+want to be the preferred coin that sits
+there. And maybe they're going to be
+willing to give Coinbase a huge split
+for Pride of Place. Or maybe there'll be
+some other coin that they use for
+interbank settlements that'll be
+tokenized in some way to make their
+transfers with City and Bank of America
+and other banks more competitive. We
+have seen other coins rise, First
+Digital in Asia, for example. like if
+you're paying all this money to Coinbase
+still and you you know distribution is
+so important what is the competitive
+advantage that Circle has in say the
+year I don't know 2028 well I I think a
+couple things I think the first is that
+to understand circle's business is to
+understand that we operate an internet
+scale platform and network utility we
+have very powerful internet platform
+flywheels and developer flywheels we
+have a network that consists of
+thousands and thous thousands of
+products and services that have
+implemented and integrated to our
+network. And so every time a developer
+says, "Hey, I want to be able to store
+and move digital dollars, they choose to
+implement USDC because USDC has this
+really broad established network." And
+so we have these really powerful
+flywheels and as that provides new
+utility to a user when say new bank in
+Brazil adds USDC, wow, there's like 100
+million people at New Bank who can
+interact with USDC. Now the rest of the
+world can benefit from that user base of
+100 million people. And so we have
+network effects that are there and those
+exist in in pretty powerful ways. So if
+you look at the movement of stablecoin
+in the onchain ecosystem, what sometimes
+people call DeFi, we have about I
+believe today around 75% of the market
+there. And we've built protocols that
+make it very seamless, safe, and secure
+and capital efficient to transmit USDC
+across all these different networks.
+We've built developer platforms. We've
+built flywheels for adoption. And this
+is a classic internet platform model.
+The other is that we've built these
+extraordinary liquidity network effects.
+And this is really critical. So over the
+past number of years, we've built out on
+a regulated basis infrastructure where
+we're regulated and where we have
+integration into the financial systems
+of Singapore, Hong Kong, Japan, the
+United Kingdom, the EU, the US. We've
+integrated into Brazil, Mexico, and
+we've just announced that we're coming
+online in UAE. So, we've built out these
+integration points, and we've built out
+primary liquidity in all of these
+markets. And so, USDC is available and
+liquid at scale all around the world.
+That's the primary liquidity side. And
+and so that's crucial. If you're going
+to use this, you need to be able to know
+I can get in, I can get out, and I can
+do that all around the world. And then
+we've created very large secondary
+liquidity, and that's really important
+as well. So when you get down to the
+e-money product in Vietnam, can you go
+from that e-money product in Vietnam
+into USDC and back and all around the
+world? All these different payment
+methods and payment instruments and the
+actual secondary liquidity between those
+and USDC is huge. And so the barrier to
+entry is actually fairly high. We have
+these large network modes and right now,
+&gt;&gt; so it's not just like making a new
+ERC20,
+&gt;&gt; making a new coin. The marginal value of
+a net new stable coin right now is
+effectively zero. You have to have
+established network utility and then
+liquidity at scale. And essentially
+liquidity begets liquidity. Network
+velocity extends network velocity. And
+so you know we feel like that's a very
+very good position. And I think the
+ability to be you know federally
+regulated and to have these higher bars
+on the infrastructure side and what's
+required of you is is also really
+important. That's not something for the
+faint of heart. and doing that all
+around the world, not just in the United
+States. There's a lot of focus on the
+United States, but we've been under
+significant regulatory regimes in other
+jurisdictions for for quite some time as
+well. Those are, you know, meaningful
+barriers. And I guess the bigger picture
+there is like we're just focused on
+building this infrastructure, making it
+easy to adopt by whether it's a
+technology company, a fintech company, a
+bank. We're building partnerships with
+some of the biggest core banking
+infrastructure companies in the world.
+We announced something recently with
+Fiserve. Just yesterday, we announced a
+broad partnership with FIS Global. And
+these are companies that service tens of
+thousands of banks. And we're plugging
+USDC as a innovation into their
+infrastructure. And so we even do it
+with the card networks, Visa and
+Mastercard, where they're using USDC as
+an internal settlement system to move
+money from issuers back to home base
+faster than the correspondent banking
+system. There's lots of places we're
+getting integrated. And what I like to
+say is I believe that the stable coin
+stablecoin networks are a winner take
+most not a winner take all market.
+&gt;&gt; This was going to be my next question.
+Can you talk about that a little bit
+more like 10 years from now what is the
+landscape actually look like and what is
+the interoperability of all these
+different stable coins actually look
+like?
+&gt;&gt; Yeah. So I think 10 years from now I
+don't think we have any idea what it's
+what it's going to look like. But I mean
+there there's several different
+components.
+&gt;&gt; Real forward-looking statement.
+&gt;&gt; Yeah. Yeah. Several different components
+to this. So I think one is we take as a
+first principle that stablecoin money is
+the highest utility form of money that's
+ever been created. And it's it's the
+highest utility not just because it has
+internet superpowers of speed and it
+cost efficiency but because it's
+actually the first truly programmable
+form of money. And if you're going to
+have a programmable form of money where
+software intermediation and software
+innovation on top of money has not
+existed, open banking is like poor
+cousin. So you're introducing a new
+realm of money utility and we're at the
+very front edges of that. And we see
+that already today. I mean the entire
+phenomenon of DeFi, which is highly
+sophisticated market structures that are
+just
+&gt;&gt; autonomous machines effectively running
+in in code on the internet. That's
+pretty amazing. So when you unleash that
+and you unleash that kind of curve of
+innovation, like it's sort of like when
+mobile devices were out, people were
+into mobile for a really long time and
+they were like, "Hey, mobile's going to
+be huge and Mobile World Congress was
+like the biggest conference in the
+world." And you'd go there and there's
+like
+100,000 people there and and yet it all
+sucked like like all the mobile phone
+devices, everything was everything was
+terrible, but everyone believed in
+mobile. And then obviously the iPhone
+came
+&gt;&gt; and that was the end.
+&gt;&gt; It wasn't the end. It was the beginning
+is the point is that like actual
+innovation with programmable apps on
+phones actually started then in a real
+way.
+[Music]
+I had a use case recently where I wanted
+there to be a stable coin use case and I
+think maybe this will coming.
+&gt;&gt; So I've tried to do vibe coding where I
+was like going on cursor and making
+software and I wanted to link up my
+software to chat GBT so that it could
+query the AI. Yes.
+&gt;&gt; And to access the API I had to like
+enter in a credit card with GPT and then
+I had to like copy and paste this code.
+It was really annoying. And I was like
+why can't I just have my cursor be
+linked to a stable coin wallet? it make
+the connection with Chad GBT's AI so
+that I don't have to make an account and
+it just pays per usage that is
+intelligence
+&gt;&gt; that is definitely what's going to
+happen and in fact this is where I was
+getting with my point actually in
+response to you Tracy which is
+&gt;&gt; like we think about the internet and
+like when the marginal cost of storing
+and moving information went to zero the
+net world output of information like
+millionxed or when software could be
+distributed to a browser the net world
+output of software was like up a
+millionx so we create these huge growth
+so my view is that over 10 years, we're
+going to use your 10-year, is that the
+total payment volume, which is a measure
+that people like to use, is likely going
+to go up by many, many, many orders of
+magnitude because you've taken that cost
+and friction out and because of the new
+utility that comes from programmability.
+And so my own belief is that the scale
+of money that moves in the world will be
+so much larger than where we are today.
+It's sort of the internet infrastructure
+actually hitting the financial system
+which is a scary thing because like wow
+you've got all this money velocity and
+you've got machines that are
+intermediating this through AI like oh
+my god that's one of the reasons why it
+needs to be very safe full reserve
+instruments but it also I think gets to
+the heart of your question which is are
+we going after all the deposits of the
+banks or all this is the the answer is
+no but my belief is that financial
+institutions who create either places
+where people can lend their money and
+then that money can be used for other
+investing purposes or where people
+actually make specific investments with
+their money like those will proliferate.
+In fact, I think innovation in both
+credit intermediation and in investable
+assets is about to go through a new
+renaissance because of blockchains,
+tokenization and stable coins. And so my
+own view is in a in a system of full
+reserve money, you need to be able to do
+credit intermediation with that full
+reserve money. And you need to make that
+credit intermediation be as efficient as
+possible. And I think you can build
+onchain credit intermediation in a way
+where you have greater safety, more
+transparency, more auditable risk
+management, and you can build market
+structures that are far more accessible
+to more people and institutions in the
+world. I think of it as like Adwords for
+credit like you know this sort of these
+supercaled or or Amazon marketplace for
+product creators. We haven't entered
+that world yet but I think there will be
+firms and that many of them will likely
+be regulated by central banks who are
+standing in that infrastructure. And so
+it's an opportunity to reinvent what
+payments, credit, investing, all these
+things look like. Tracy, I kind of think
+by the way, and we should maybe do a
+separate, I think the internet as we
+know it in terms of like internet that's
+free to browse is probably going to die
+because on a matter of time, you know,
+if you're like AI bot can like go search
+the web, those sites are going to want
+payment for having all their data
+scraped. And you know, stable coins
+could solve that, but it does feel like
+we're going to have a totally thing
+where like you don't just get to use the
+web for free. Everything is like metered
+based on the uh the data that you're
+pulling.
+&gt;&gt; Yeah. Well, we were talking about that
+earlier, right? This idea that we've
+already seen traffic start to collapse
+because the search engines are just
+providing AI summaries to individual
+pages. Yeah. How long are content
+providers like uh like us?
+&gt;&gt; How long are they going to stand for
+that? I don't know.
+&gt;&gt; Well, can I say something on that which
+is we actually worked together with
+Coinbase and a couple of others on
+implementing some something called X42.
+Now, you're like, what is that? And Mark
+Andrees talks about this and he has over
+the years back in the early days of the
+web, you know.
+&gt;&gt; Oh yeah, there you go. Actually, pay via
+API without registration. That's what I
+want. That's what I want for my V code.
+So there exactly what I'm looking for.
+&gt;&gt; So it's actually a it already exists as
+a protocol that is built into
+&gt;&gt; the way that every web server, every web
+browser, every client that interacts
+with the internet works. It's a protocol
+that's there. It uses the existing HTTP
+transport. And now you can actually say,
+"Hey, I'm hitting my piece of content or
+data." And I can challenge whoever's
+accessing it and say, you know, to get
+to this, you need to pay me. And it can
+basically come back and say, you can pay
+me on a blockchain with a stable coin.
+&gt;&gt; And so we're doing that with USDC. We're
+encouraging developers to do that.
+There's lots of third parties that are
+building layers for AI agents to use
+this. And so I think that's one example,
+but I think it gets to the heart of what
+you're you're saying, which is there may
+be more of a subscription model. Spotify
+is probably the best example where you
+have the celestial jukebox and you pay
+your 15 bucks and you get access to
+everything. You know, there's a kind of
+question about could there be a
+celestial data box which is more broad
+and where the actual consumer frontends
+are companies like OpenAI or Google and
+you're paying a subscription and then
+there's like a behind the scenes either
+Pratta or usagebased model that is
+actually compensating the actual data
+providers and creators and so lots to be
+unfold here. Yeah.
+&gt;&gt; Can I ask a slightly awkward question?
+&gt;&gt; It's a leading question.
+&gt;&gt; How much do you hate Tether given that
+not only are they number one, but you
+know, there's been questions over their
+reserve quality for many years, although
+I think some of their transparency has
+improved.
+&gt;&gt; But thirdly, you know, we had the Tether
+CEO on um a few months ago, and they're
+expanding into the US. So that would
+seem to, you know, directly be competing
+with you on your sort of home turf,
+although I understand you're also
+expanding elsewhere in the world. How do
+you feel about Tether? Yeah, I mean
+look, I think our view has always been
+that we're building for the long run and
+we've taken a different approach really
+since inception. We've taken a you know
+a sort of regulatory first approach, a
+compliance first approach, becoming
+widely licensed, widely regulated,
+always advocating to improve that. And
+that's allowed us to build obviously
+what we think is a great business. It's
+allowed us to have deep integration into
+the financial sector with banks. If
+you're a major institution partnering in
+this space, the probability of you doing
+that with Circle is reasonably high. And
+so we built a really great franchise and
+we are really well known for integrity,
+for trustworthiness. We're a publicly
+traded company with the highest
+standards of governance and and
+accountability that are out there. And
+we've always sought to uplevel that. And
+so my view is that if we're building a
+new internet financial system and that
+new internet financial system is going
+to be this incredibly broadly used
+infrastructure and it's going to be used
+by like mainstream companies and public
+companies and and financial institutions
+and financial intermediaries all around
+the world are going to integrate with
+that and build on that. They're going to
+want to do that with trusted well-
+reggulated companies. And so our view is
+that the early adopter segment of the
+market which has really been dominated
+by sort of the crypto trading side of
+things is that early adopter segment.
+We're now going into a different
+chapter. And if you actually look at
+over the last, you know, 18 months,
+we've taken market share, we've taken,
+you know, material market share and
+we're growing in many, many areas. And I
+would say also internationally, I would
+say the majority of our business now is
+international. So we're in many many
+markets and in many other markets as
+well the regulators are putting in place
+very clear regulations around what
+stable coin issuers need to be and so we
+are the only large global dollar
+stablecoin that's legally available in
+Europe as an example and so I think we
+just keep doing what we're doing I think
+we're building great infrastructure for
+companies for enterprises for developers
+and we just got to keep doing that and
+we'll grow and this is a really
+significant size market and so I
+actually you know I have a lot of
+respect for what they've been able to
+build. We took a different path. We
+built something also I think really
+special and over 5 years 10 years as we
+said earlier right this is very likely a
+winner take most not a winner take all
+market and I actually don't think we
+know you know if there you know maybe
+three or five big players I don't know
+what that'll be in five years or 10
+years but there's probably some that
+don't exist yet that that will show up
+too. I take it as a sign of maturity.
+Like years ago when it came to crypto,
+people were just excited about number go
+up, right? And then now it's like people
+are really excited about number go
+sideways. And so if it just stays at one
+forever, that's like a really good sign.
+And so I take it as a sign of maturity
+for the industry that there is all this
+interest in stable coins. Nonetheless,
+&gt;&gt; no pun intended.
+&gt;&gt; Nonetheless, you know, all those public
+chains are still out there and USDC is
+on a number of chains,
+&gt;&gt; 24. when we talk about like who collects
+the profits from this and we've talked
+specifically about say your distribution
+with Coinbase and whether that do you
+see value acrewing to token holders of
+different chains in the future because
+it seems to me like for the most part as
+long as it's like really fast and cheap.
+It really doesn't matter if I'm sending
+something to Tracy. I care about your
+reputation and your money in the bank. I
+don't really care about what chain that
+you actually transact over at the end.
+If you want to do it under Salana or
+some layer three that gives almost no
+value back to the ETH chain or something
+like that, I don't really care.
+&gt;&gt; Do you see like token holders of the
+public chains collecting rents in your
+future or collecting a meaningful amount
+of rents from this onchain commerce?
+&gt;&gt; It's a great question. I I'd say a
+couple things and and I'm actually going
+to relate back to my my mobile
+commentary from earlier which is our
+mental model is that blockchain networks
+are internet operating systems and they
+provide a way to store data conduct
+transactions on that data and and
+provide compute around those
+transactions and data. That's what they
+do. They're public computing machines
+&gt;&gt; and there are a lot of them. There's
+actually, you know, thousands that have
+been that have been launched. We're on
+23 or 24 today. And we see this as a
+space that is constantly evolving. And
+so there's constantly innovation on the
+layer ones. There's these layer twos.
+When I think about where we are relative
+to where we were with say iPhone, we're
+in the pre iPhone era of blockchain
+networks in my view, right? I I think um
+there's lots of operating systems out
+there just like there were lots of
+mobile operating systems
+&gt;&gt; and some of them got better than others
+and improved the user experience. Some
+of them started enabling consumer
+things. remember NT Docomo in Japan or
+or things like that. And so I think that
+we're still really early. And so that's
+one of the reasons why we've, you know,
+really tried to make sure we're trying
+to operate our own stable coin network
+on the best ones that are out there.
+&gt;&gt; It just seems to me that decentralized
+chains, you pay them a rent because you
+want some advantage of decentralization.
+If I'm using USDC, I've already accepted
+the premise of centralization. You have
+money in black the black rockck fund.
+It's about it's about as centralized and
+legacy fi as you could probably get once
+I've already accepted this premise of
+centralization that my money is just
+backed by a bank.
+Why do I even care? Why why pay these
+rent to some network of computers?
+&gt;&gt; So this is this is it's a different
+layer is is essentially my thinking is
+that public blockchains are a general
+purpose layer that many many
+applications can be built on top of.
+Stable coins are the killer app for
+sure. I will say in my own opinion, but
+there are many many different kinds of
+applications that can be built on that.
+And we need innovation in those
+computing platforms. We need higher
+speed. We need greater privacy. We need
+better forms of compute. We need new and
+you know more primitives in that
+infrastructure and that needs to expand.
+We need to get to a point where these
+public networks are supporting huge
+scales of consumer applications and
+enterprise applications. And so there's
+like a a growth in that kind of
+infrastructure side of it and that's
+those are shared infrastructures that
+many people can can take advantage of.
+And so there needs to be a kind of fee
+model on those networks. We've actually
+created a way for the fees on many of
+these blockchain networks to actually
+just be paid in USDC. And so that's
+something that we see more of happening
+that like the notion of gas fees or the
+notion of gas fees in some other crypto
+commodity will will become less and less
+common and like fees will just be paid
+in in stablecoin. But I think there is
+value in these networks and I think that
+there's very likely value for token
+holders on these networks if these
+networks provide you know scalable
+infrastructure that that people can take
+advantage of. Again, stablecoin is one
+application layer there and there'll be
+many many other application layers on
+those and and so you kind of pay for the
+shared the shared state of the machine,
+the shared data state, the shared
+transaction state, the shared compute
+state. There's value in paying for that
+shared state.
+&gt;&gt; Just on this note, can you tell us when
+you're talking to clients or potential
+partners like what is it that they are
+most interested in getting from you? Can
+you provide us with a sort of hierarchy
+of needs for you know USDC customers in
+the sense of are they worried about the
+speed of the technology? Are they
+worried about the reserve assets and I
+guess corporate governance and things
+like that? How would you prioritize what
+people are actually thinking about?
+Well, we have a huge range of types of
+people that we work with from like
+individual developers that are creating
+a new product in some emerging market to
+you know people building onchain
+protocols to very large you know
+financial institutions that are looking
+at using this or integrating this in
+different ways and so the things that
+they you know care about do vary across
+those but I would say trust transparency
+liquidity are really really important to
+everyone, right? If I'm a developer and
+I'm building a product, I need to know
+that this is a legitimate digital
+dollar, that it's accessible in the
+markets that I'm intending to serve,
+that people can easily access it and use
+it, and that the infrastructure is good.
+I can build good product experiences. I
+can build good user experiences and
+build an application or or or something
+for my own customers that works well.
+And so they care about the developer
+tooling, the onchain infra, the
+liquidity, the trust. They care about
+all those things as a startup. But even
+a large company, say you're a big
+fintech and you're like, "Hey, I want to
+start leaning into this. I want to add
+stable coins for payments or I want to
+enable my customers to access DeFi or
+other things like that." They're going
+to care more about the kind of legal and
+compliance status of Circle. they're
+going to care about the governance of
+the company itself, but also of the the
+underlying regulation that affects us
+because they have to face those same
+issues whether they're in the
+Philippines or in Brazil or in the
+United States. So they care a lot about
+those things and then they also care
+about infra clearly like infrastructure
+readiness. Is this something like I
+could bring a large number of users to?
+And then everyone cares about user
+experience, right? Can I craft an
+experience where the crypto disappears,
+&gt;&gt; where I don't need to know what
+blockchain am I on I'm on and I don't
+need to know about gas fees and I I just
+want to create a way for I have a I have
+stored value. I want to enable people to
+move it around really easily. They care
+a lot about that whether you're the
+biggest company in the world or or a
+small startup. Jeremy Alert, thank you
+so much for uh coming on.
+&gt;&gt; Thank you. My pleasure. probably the
+first crypto company I can think of that
+actually tried to go through the
+regulatory approach and didn't get
+destroyed and bogged down in the
+process. Very impressive and um yeah,
+great chatting with you.
+&gt;&gt; Thank you.
+[Music]
+Tracy, you know, one question I didn't
+get to ask or I forgot to ask is like
+the perennial like will I ever buy
+coffee with a stable coin at some point?
+Maybe I will, maybe I won't. But in the
+conversation, I started thinking that's
+probably the wrong way to think about
+it. It's going to be those
+machineto-achine payments that if stable
+coins become a real important payments
+thing, it's going to be like those like
+computer to computer payments that have
+to be seen,
+&gt;&gt; right? And they're sort of plugged into
+the inner workings of the internet.
+Yeah,
+&gt;&gt; that makes sense.
+&gt;&gt; Maybe the coffee thing will happen. Who
+knows? But like I don't know.
+&gt;&gt; I don't find it that hard to buy a
+coffee right now.
+&gt;&gt; No, that's the thing. That's the
+problem, right? Exactly. Coffee is
+solying coffee is a solved problem as
+far as I'm concerned.
+&gt;&gt; Yes. But this is a new problem. You're
+right. it could be solved. That's
+interesting. The other thing I thought
+was really interesting was you hit upon
+the sort of tension in the
+decentralization versus like traditional
+finance and this idea that like okay
+it's all about DeFi and blockchain and
+all that stuff but ultimately like
+&gt;&gt; Black Rockck is holding the money.
+&gt;&gt; Yeah. No, totally. And this is like, you
+know, it's it goes back to those
+formative episodes we did with Austin
+Campbell, which is a big part of the
+story to the extent that this will be a
+thing is like
+&gt;&gt; just solving the sort of software
+payments layer because we could do a
+million episodes on legacy texts and why
+JP Morgans or whatever companies
+internal software will always be they'll
+be spending billions of dollars
+upgrading it, whatever it is, and the
+difficulty of integrations. But if you
+could just have like a oneoff like so
+like global platform that anyone can
+plug into and program where money can
+easily be transmitted that's very
+powerful.
+&gt;&gt; Yeah. This is why I say user interface
+user experience is underrated. Right.
+That's like me saying Michael Jordan is
+underrated. It's but like that really
+that really is it right? Like that's
+where the battleground kind of is the
+ability to like plug in and interoperate
+with all these different systems.
+&gt;&gt; Yeah. Well, I'm really excited. I I
+think um we should have uh Jeremy back
+at some point.
+&gt;&gt; Yeah, we should. All right. Shall we
+leave it there for now?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the Odd
+Thoughts podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Joe Wisenthal. You can follow me
+at the stalwart. Follow our guest Jeremy
+Aair. He's jer. Follow our producers
+Kerman Rodriguez at Carmen Arman Bennett
+at Dashbot and Kellbrooks at Kellbrooks.
+For more OddLots content, go to
+bloomberg.com/odlots
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+all of these topics 247 in our Discord,
+discord.gg/odlots.
+&gt;&gt; And if you enjoy OddLots, if you want us
+to do more episodes on the future of the
+payment system, then please leave us a
+positive review on your favorite podcast
+platform. And remember, if you are a
+Bloomberg subscriber, you can listen to
+all of our episodes absolutely adree.
+All you need to do is find the Bloomberg
+channel on Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+Yeah.
+Heat.
+[Music]

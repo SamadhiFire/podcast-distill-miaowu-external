@@ -1,0 +1,2058 @@
+Kind: captions
+Language: en
+It really irked me when in 2024 most
+people were saying AI is here and now
+the PM job is gone. There were others
+who were saying AI is here. So now we
+can do the things we don't like to do
+with AI.
+&gt;&gt; What do you find is most common across
+the companies that are succeeding?
+&gt;&gt; Companies that recognize that AI is not
+this magic thing that you're going to
+slather on to your product. The problems
+are still the problem.
+&gt;&gt; Something else that I think is also
+really important is getting super
+hands-on with the tech. I've written
+more code in the last one year than I
+have in the last 10 years because code
+is now essentially architecture and
+English. I'll pick a project that
+touches a lot of the things that I need
+to learn. One of the passion projects I
+have is to automate my house. The idea
+is that I give the house eyes and ears.
+The coolest thing is I've speced out a
+super sensor. It will see people, hear
+them, it will sense humidity and
+temperature. and I'm building the
+hardware myself.
+&gt;&gt; Today, my guests are Aji and Ezin Udzue.
+They are married, both longtime product
+leaders with over 50 years of combined
+product experience. They're also the
+authors of a new book that I love called
+building rocket ships, product
+management for high growth companies,
+which is a synthesis of their biggest
+product lessons over the course of their
+entire career. Aji was chief product
+officer at Kalanley and Typform and led
+product teams at Twitter, Atlassian and
+Microsoft. Ezene was CPO at WP Engine
+and VP of product at Procore. We chat
+about what is changing in the role of
+product management. Also, what is
+staying the same. We also get into the
+shift of PM to ratios that AI is
+introducing, the five skills becoming
+most important in being a successful PM
+over the coming years, and the single
+biggest lesson that each of them have
+learned over the course of their
+careers. If you enjoy this podcast,
+don't forget to subscribe and follow it
+in your favorite podcasting app or
+YouTube. It helps tremendously. And if
+you become an annual subscriber of my
+newsletter, you get a year free of 15
+incredible products including Lovable,
+Replet, Bolt, Naden, Linear, Superhum,
+Dcript, Whisper Flow, Gamma, Perplexity,
+Warp, Granola, Magic Patterns, Raycast,
+Chapd, and Mobin. Head over to
+lennisnewsletter.com and click product
+pass. With that, I bring you Aji and
+Ezine Odzwe. This episode is brought to
+you by Mercury. I've been banking with
+Mercury for years and honestly, I can't
+imagine banking any other way at this
+point. I switched from Chase and holy
+moly, what a difference. Sending wires,
+tracking spend, giving people on my team
+access to move money around. So freaking
+easy. Where most traditional banking
+websites and apps are clunky and hard to
+use, Mercury is meticulously designed to
+be an intuitive and simple experience.
+And Mercury brings all the ways that you
+use money into a single product,
+including credit cards, invoicing, bill
+pay, reimbursements for your teammates,
+and capital. Whether you're a funded
+tech startup looking for ways to pay
+contractors and earn yield on your idle
+cash, or an agency that needs to invoice
+customers and keep them current, or an
+e-commerce brand that needs to stay on
+top of cash flow and excess capital,
+Mercury can be tailored to help your
+business perform at its highest level.
+See what over 200,000 entrepreneurs love
+about Mercury. Visit mercury.com to
+apply online in 10 minutes. Mercury is a
+fintech, not a bank. Banking services
+provided through Mercury's FDIC insured
+partner banks. For more details, check
+out the show notes. My podcast guests
+and I love talking about craft and taste
+and agency and product market fit. You
+know what we don't love talking about?
+Sock 2. That's where Vanta comes in.
+Vanta helps companies of all sizes get
+compliant fast and stay that way with
+industryleading AI automation and
+continuous monitoring. Whether you're a
+startup tackling your first sock 2 or
+ISO 2701 or an enterprise managing
+vendor risk, Vanta's trust management
+platform makes it quicker, easier, and
+more scalable. Vanta also helps you
+complete security questionnaires up to
+five times faster so that you can win
+bigger deals sooner. The result,
+according to a recent IDC study, Vanta
+customers slashed over $500,000
+a year and are three times more
+productive. Establishing trust isn't
+optional. Vanta makes it automatic. Get
+$1,000 off at vanta.com/lenny.
+Aji and Ezine, thank you so much for
+being here and welcome to the podcast.
+&gt;&gt; Thank you for having us, Lenny. It's
+absolutely my pleasure. You guys are a
+rare guest duo. You two are married.
+You're both longtime product leaders.
+You've been in product combined for over
+50 years. The cool thing about the fact
+that you guys have been in product for
+so long is that you've seen a lot of
+change in the role of a PM and the role
+of building products. You've also seen
+what doesn't change. And so, let me
+actually start here and I'll throw this
+to Ezene. What are you seeing changing
+most in the role and day-to-day job of a
+product manager and what are you seeing
+staying the same?
+&gt;&gt; At a high level, the core value that a
+PM has to deliver hasn't changed. Um, it
+really is uh derisking
+the product delivery process while also
+really trying to maximize the value the
+business gets from these investments.
+But tactically, I think that the good
+thing is that we're finding out that PMs
+are freed up more and as a result,
+they're they can actually invest more in
+true
+developing true insights about their
+customer. So you're you're seeing or
+you're finding out your engineering
+leaders, engineering team is they're
+asking you to really confirm
+your insight and your instinct about the
+customer. The second thing I would say
+is
+that there is a need to orchestrate a
+little differently. So in the past it
+was around people orchestrating people
+getting them into the room etc. But now
+there are many moving pieces not there's
+the software there's there also the
+feedback loops the LLMs that are the
+multiple touch points that you have in
+technology ensuring that those are also
+being built in a way that allows for
+true learning with within your software.
+So that idea of working static software
+isn't true anymore. It's almost like
+living breathing software and ensuring
+that the things that allow it to breathe
+actually occur. The other piece, two
+other pieces, data literacy,
+um an understanding of what it is that
+your product is learning from. Uh what
+where is the data going and how is it
+being used? How is it being
+organized so that it could be leveraged
+for future insight about your product
+use and customer use? And then the last
+I would say is just creating the right
+guard rails within your product to
+ensure that it actually continues to do
+what it needs to do. You know, we spoke
+earlier and I have a whole thing about
+ethics of AI, etc. And I think that we
+have a responsibility as product f uh
+people and I'm seeing PMs ask the
+questions that we didn't get to see them
+ask when we were building social media.
+So that those are the kind of things I
+would say. I definitely want to come
+back to that topic. There's something
+you just talked about that ref uh
+connects so deeply with something a
+recent guest talked about Asha Sharma.
+She's a chief vice president Microsoft
+working on AI and she had this concept
+that products are evolving from product
+as artifact where it's this like done
+thing you ship to a product as organism
+that continues to evolve based on data
+that it's feeding and this metabolism of
+data. In with our book, you'll see we
+talk about systems and I have this
+innate passion around the idea of what a
+system is and it has to do with that
+living, breathing and interaction with
+every with other things. So yes, yes,
+yes, and yes.
+&gt;&gt; Let me throw over to Audi this first
+point you made. Uh I I love this idea
+that PMs there's more time spent almost
+at kind of the top of the funnel, the
+top of the product development life
+cycle, confirming insights from customer
+data, deciding what to build. Uh there's
+talk recently of just PMs are almost
+becoming the bottleneck for teams
+because engineers are moving so much
+faster and PMs are the same just like
+sitting maybe docs are easier to write.
+Uh what do you what do you see there?
+What do you think about just the the I
+don't know this ratio shift potentially
+for where PMs almost become a bottleneck
+uh with AI accelerating other functions?
+For the last 20 years, we've had like
+very fixed ratios in terms of how what
+gets done. Like PM takes this amount of
+time, developers takes amount of time,
+go to market takes amount of time. And I
+think that contract is basically
+exploding because the build process, you
+know, sort of the the the close
+solutionary process, the build process
+is accelerating so fast. And so, uh, a
+company we worked with told us that, you
+know, they're sort of like a build
+contract build company. They say they
+will get off the phone from a pitch and
+in four hours they would have a
+prototype. And so the question is like
+what is a PM doing? This person
+listening to that is half PM half
+developer in order to be able to produce
+that. And so what we're seeing is that
+the way you know PMs do three things. We
+think about what the customers want that
+is profitable. So working at sharp
+problems and defining sharp problems and
+what's in the customer's mind that makes
+it sharp. we support the solutioning and
+the build of it and then we don't do
+this enough but we need to support the
+go to market of it and so what's
+happening is that this middle thing is
+becoming more capable and much faster
+and so the way we support it has to
+change uh PRD writing is insufficient at
+the moment um you know sort of like the
+static way we ask questions about what's
+in the customer's minds is like that
+stuff needs to be like faster the cycle
+time is so fast now and so PMs need to
+adapt And that means new tool sets, new
+skill sets, and so on and so forth. I
+think that's where the most pressure is.
+But at the same time, like said, PMS can
+take some of the if they adapt to this
+really well, they can spend a lot more
+time here, right? And that's where
+there's a lot of opportunity. And you
+know, the thing that we want PMs to do
+is not be the crouch, not worry about
+people saying, "Oh, you're the
+bottleneck." No, don't be the bottleneck
+first of all, but also since you see
+everything, add value in other places
+where traditionally you would spend
+time.
+&gt;&gt; I want to pull on this sharp problem
+thread. This is my favorite Audi meme.
+We talked about this a bit in your when
+you visited the podcast last. I think
+it's such a useful concept. So, I just
+want to make sure people learn this
+while we're talking about talk about
+what a sharp problem is and why that's
+important. One of the things I learned
+from failing a lot at building companies
+is that sometimes, you know, the way
+that I see other people pitch it is
+that, you know, you build something and
+if it doesn't work, you pivot da da da,
+you know, stuff like that. But it turns
+out that
+in the world of high technology and the
+world of figuring out what customers
+need, there are many shortcuts that mean
+that pivoting isn't just like a habit,
+something you walk around drunkenly
+doing, right? A lot of the most
+successful people, you know, Bill Gates,
+Facebook, and so they didn't even pivot.
+They had an idea, but it turned out that
+the idea was a sharp problem. So like
+the way to avoid drunken startup
+building is
+pick things that
+are old. They their core needs and and
+the way you profit is when you
+re-imagine old needs in new
+technological ways. And that's
+important. Now, let's frame it in the
+sharp problem. What do people feel
+they need help with? What is still
+difficult to the point that if you
+improve it three to five times, maybe
+10x or you take cost out of it, like 10x
+the cost, right? One10enth, they'll be
+like, "This is so compelling. You should
+take my money now." And that's what most
+founders should really, really focus on
+if they can. Uh there's extended stuff
+we talked about over the years like the
+unicorn framework which is like if
+you're building for B2B specifically how
+do you draw a quadrant around a problem
+so you know if it's highly frequent
+because frequency also means a lot of
+pain and and figure it out but that's
+something people can read on the
+substack.
+&gt;&gt; Yeah and we talked about that in our
+last chat so I'll point people to that.
+Okay. So, building on this idea of being
+a drunken walk of figuring out what to
+build, you have this concept of the uh
+shipyard. And this is kind of a way to
+think about uh how to think about what
+product development might look like
+going forward and just a model for how
+to work in this chaotic world that we're
+in. Talk about what that looks like and
+the and the advice here.
+&gt;&gt; I'm going to give some credit. When I
+was at Lassian, the first time I
+encountered the idea was with Jeff
+Redford. He's now like a VC and he
+talked about it. But, you know, I've
+taken the idea cuz I loved it to maybe a
+whole different level, maybe a sense of
+clarity. A shipyard is to evoke
+controlled chaos. If you go to a
+shipyard at peak, you know, Long Beach
+or whatever it is, there's so much going
+on and there like big heavy machinery
+moving around, trucks and containers
+from China, from Malaysia jumping
+around. But this chaos underlying it is
+careful communication, high skill,
+right? And so what looks like
+you know, you know, Brownian motion is
+actually orchestrated progress. And you
+know, these are these shipyards at the
+center of
+GDP for a lot of nations because this is
+where trade happens. So this is what
+it's supposed to evoke is controlled
+chaos. And so what a shipyard team looks
+like is a sixperson team. It is uh PM,
+it is engineering, it is design, it is
+user research, is data, ML, AI
+expertise, AIPMs or whatever you call
+it. It is um product marketing in a pod,
+problem solving. You know, in this
+especially in AI age, the idea of
+standups isn't really even make as much
+sense, right? these people should be you
+know communicating and collaborating our
+me basically to solve the problem
+because they feel like they're working a
+new problem say so I think that's what
+the core shape your team means and then
+there are these tendrils to you know we
+call sales people customer success
+people the the nervous the skin like
+think about the shipyard team is the
+brain but this is the skin this is how
+you feel customers and so here's a
+concrete example
+before I shipped anything at Calendarly
+I did the design review with a a support
+manager,
+right? A support manager had to be in
+the room because the design people and
+the engineering people, as much as we
+cared, we shipped problems all the time,
+you know, feature debt, where the
+support manager looks at it and is like,
+that's not going to work. I've had 10 a
+thousand conversations and it was so
+useful. And so having the shipyard team
+have the tendrils of connection to
+customer teams was so important.
+&gt;&gt; So what I'm hearing is essentially
+embrace chaos. things are going to get
+only weirder. There's something I forget
+who maybe the CPO at uh OpenAI said just
+like it's only going to get weirder.
+This is the least this is the most
+normal the world will be.
+&gt;&gt; It's going to be
+&gt;&gt; Yep.
+&gt;&gt; and and and and that's important because
+if the world is weird and you want to
+make sense of it, you need people who
+are highly motivated, have the right
+skill sets to continuously create it as
+it moves, as it gets weird. Audrey, you
+said uh EP I remember Lenny asked how
+many you know what how what is what is
+uh shipyard comprised of he said six
+people person team I know that's going
+to come up and people are going to go
+sorry really why
+&gt;&gt; six
+capability team
+&gt;&gt; right it is not a person thing
+&gt;&gt; it is it's engineering how however many
+you need again it's all about admission
+it's PM it's design
+&gt;&gt; it's the capabilities I'm I'm optimizing
+for right it's data and ML
+It's product marketing and it's a user
+research. If PMs can't do it, you need
+the capabilities and whether it's a
+fractional person within matrix into
+that EPD team or 10 people because of
+developers. That's what you need.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. So what I'm hearing there is uh it
+roles will become blurriier that PMs
+need to do more design, engineers need
+to do more PMing, people need more data
+skills. So I so th to me those are the
+two takeaways is just learn to be more
+comfortable with chaotic world just AI
+con every week there's like oh this is
+changing everything rethink the road map
+&gt;&gt; and then also the roles will be less
+&gt;&gt; divided people will need to learn to do
+many roles and chip in
+&gt;&gt; yes
+&gt;&gt; awesome so building on that uh Ezine
+when you hire PMs these days when you're
+looking for product leaders
+what do you is there something you're
+looking for more and more because you
+believe this will be more important to
+be successful in a world where AI is
+just changing everything.
+&gt;&gt; I think Aji started uh he laid the
+foundation when he said it's day one and
+when you're working and thinking um
+about building product in this type of
+era of space it's important that you
+remember that. So, I'm going to talk
+about what it is that I typically will
+look for from an attitudes, values, and
+behaviors point of view as well as a
+skills uh point of view. Um, I'm
+currently working with uh a firm in LA
+and we're building curriculum for their
+PMs as well as helping them recruit. And
+the things that we've honed honed in on
+are
+curiosity.
+And I know it's been said over and over
+again, but it matters more now. It is is
+are people is this person humble and
+curious enough to admit they don't know
+and are willing to start as a learner.
+Do they truly have a growth mindset
+where they are okay
+being taught by someone else no matter
+how senior they have become? That is
+very important. That humility and
+curiosity mixed together. The second
+part is what I'd call agency.
+being able to see opportunity and not
+ask others for permission to go execute
+on that opportunity, but actually take
+the opportunity themselves. Have a
+strong um there's another word most
+people use for this. Um it's not coming
+to me, but just
+&gt;&gt; take the bull take the bull
+&gt;&gt; bull by the horn, but no, there's
+another characteristic value behavior.
+Um, but high agency,
+being able to just move forward and feel
+act like an owner, right? Ownership,
+that's the word. High ownership. Um, but
+I think ownership is seeing that you can
+run. But I think agency assumes that you
+control you. You're more of a thermostat
+than a thermometer. And that means that
+hey the thermometer is always measuring
+the temperature of the room while a
+thermos that will change the temperature
+of the room. So I'm looking for that in
+in people and I want people who can move
+from a position of strength. It really
+irked me when in 2024 most people were
+saying AI is here and now the PM job is
+gone and there were others who were
+saying AI is here so now we can do the
+things we don't like to do with AI and
+then go focus on the things that we need
+to do. So people who spoke that way are
+the types of people I want on my team
+from a skills perspective obviously an
+understanding of data right just how how
+high level of how is it organized how is
+it leveraged in the in this new world of
+AI um there's this skill of being able
+to write evals I know everybody can
+write prompts prompt engineering you can
+try and focus the LLM so that it can uh
+offer better insights and offer better
+results but Even as your LM actually
+provide pro produces results, you need
+to verify that it actually is smart and
+hasn't elucinated or gone off by
+creating true evals, right? I those are
+some hardcore skills. Being able to
+constrain hallucination, knowing what
+what ways you do that, being able to use
+multiple models
+um and figure out what is good about
+this model versus that. Um, one of the
+things I love to talk about is what what
+does intelligence mean? Intelligence
+often people say is connecting dots. And
+the beauty of what it is that we have an
+opportunity to do is that with AI you
+can find you can train it so that it's
+very specific to a very particular task,
+right? It can become really smart in one
+area. And the idea now is how do you
+combine the smarts of what maybe Claude
+does, right? with something that GPT
+does better and make something even
+greater than each of them. Right? So,
+that's what one of the things I'm
+looking for in a PM. And then being able
+to tweak for best for performance,
+whether it's choosing, whether it's just
+fine-tuning, doing the weight
+adjustments. Audi is very passionate
+about this one. We talk about it quite a
+bit. Um but that's the attitudes point
+of view where you know just strong
+ownership strong agency curiosity being
+humble and then this idea of
+understanding beyond prompts like you
+know really knowing that AI is just
+toolbox right and it can make major
+mistakes and how do you constrain it
+such that constrain it optimize it um
+tweak it so that it can actually work on
+your behalf and not
+like it it you need to make it work for
+you versus being lost in all the things
+that it's able to do.
+&gt;&gt; I love this answer and it resonates so
+well with so many other people's uh
+advice which is uh curiosity. Skills
+that matter most and this actually
+curiosity comes up a lot when I ask
+people what skills are you focusing on
+teaching your kids. Uh the number one uh
+skill people mention is curiosity. Uh I
+love that you included humbleness. I
+want to come back to that. So
+essentially, curiosity, humbleness,
+agency, such a meme these days and what
+PMs need to build and be strong at high
+agency. So so great. And then eval I
+like I like that a lot. That's also
+super common. I have a really cool guest
+post coming out really soon that'll
+teach you more than you ever thought you
+needed to know about how to become
+really good at eval. But I want to
+double down on something you just said
+which uh I love uh so much which is this
+idea of instead of waiting to see what
+jobs AI takes, it's almost like the way
+you phrased it essentially is what jobs
+can you take as a PM? What can you do?
+Can you do more engineering? Can you do
+more design? Such an empowering way to
+think about it.
+&gt;&gt; Let me let me talk about something
+that's really personal. Um I'm part of
+the women in product organization and I
+was asked to guess right uh end of last
+year because there was a lot of fear in
+the in the community and there was this
+thing called the rise of the CTPO. It's
+this thing it's been in the background
+there where the I think many venture VCs
+many pees were asking do I need but a
+CPO as well as a CTO right and um I I
+was always amazed at how many people
+were leaned back in this in this thing
+versus actually showing and proving the
+value of what a CPO could be. So in many
+places it is right that maybe you do
+only want one person particularly when
+it's very wellknown spaces right it's
+clear they're not doing anything
+revolutionary but it's like saying an
+engineer is the same as a product person
+when you think about it that way there
+is a conflict between the CPO and the
+CTO that actually drives innovation in
+my opinion because one person is trying
+to optimize the resourcing the fixed
+right while another person is actually
+trying to field opportunities and figure
+out how to wait and decide what is best
+to do at the higher level. That is their
+those are their jobs and that tension is
+really good because you you need them to
+sharpen each other as you try to
+maximize the value of your organiza of
+the organization. I say all this to say
+that there are folks who are not
+stopping to figure out what how do we
+make the pie bigger but they're looking
+at instead how do we divide this pie as
+it gets smaller versus asking the
+question of really what is the
+opportunity to increase this for all of
+us and that is a skill set I also look
+out for.
+&gt;&gt; Awesome. I'm gonna I'm gonna go to Yaji
+in a second but I want to come back on
+this humble idea. I haven't heard this
+before. Why is why is it why do you find
+it really important for people to be
+humble? I haven't heard that piece of
+advice yet.
+&gt;&gt; Oh my gosh. Um particularly now it is
+really important to be um because I
+would say okay I I went to school I
+actually did neural networks in school
+when I was doing a project and you know
+you get to this part of your career
+where you go I kind of know a lot of
+what product is and I do see folks who
+are not willing to go sign up for that
+new junior AI PM's course because
+they're a CPO or they're head of product
+or they're X Y or Z or they're a
+principal PM now and I think that that's
+a mistake. I think that it's important
+to realize that you don't know
+everything, you can't know everything.
+And even as a leader, CPO, head of
+product, etc. I I come from this school
+uh where I believe that in order to lead
+an organization, sometimes you actually
+need do need to know how to do the work.
+And I think I lead better that way. So
+being able to sign up and say, you know
+what, let me sit in and figure out how
+we're going to build this thing and
+number one learn for yourself, but also
+figure out what questions other PMs are
+asking in that course, right? So it's
+about taking courses from people you may
+have considered uh junior, figuring out
+and sitting and reading books that you
+thought you you know, just going back to
+the day one of how do you build product
+in in an AI world. So that's where
+humility comes to play in in this period
+where we are. It's you just don't know
+everything, can't know everything, and
+things will change faster than you're
+able to uh stay ahead of. So lean on
+your team as well. I just had uh this
+guy Chip Connelly on the podcast. He's
+in his 60s. He joined Airbnb in when he
+was 52 as an intern and he said exactly
+the same thing. to be successful. And
+it's interesting as a metaphor as an
+older person, you need to be really good
+at being open to learning from people
+younger than you. And that's a really
+interesting, I think, lens and heristic
+almost for just people that aren't as AI
+savvy yet. Uh just leaning into that
+idea of just like, okay, I can actually
+learn a lot from people around me, even
+if they're much younger than me.
+&gt;&gt; Okay. So Audi, something else that I
+think that you're really good at and
+you've been spending time on that I
+think is also really important is
+getting super hands-on with the tech.
+Not just like reading and not just
+listening to podcasts like this, not
+just reading newsletters, but like
+actually building stuff. Talk about just
+like why that's important. What you've
+been doing to learn and to stay ahead
+and not just be like a pontificator guy
+in the clouds.
+&gt;&gt; I just love, you know, everything we've
+said in the last few minutes. You know I
+you know I think the shortand I have for
+humility is humility is teachability.
+Um and when do you need teachability?
+You need teachability when
+you know sort of
+everything has changed where there is no
+blueprint. And whatever you think is a
+blueprint of AI in the last few years,
+you know, whether oh wow, Lavable is so
+successful, Replet is so successful,
+it's actually quite possible that any
+one of those companies won't be around
+in 2 three years, right? Because we're
+still writing the playbook for what
+success looks like. So humility is
+teachability and teachability is
+survivability. If you're thinking about
+careers and if you also if you're
+thinking about building something that's
+important is also important like that.
+Um in terms of how we
+how to keep your hand sharp
+uh what what I would say is a couple of
+things. One is I have written Izzy and I
+both have a masters engineering but we
+very quickly figured out that the thing
+that we were gifted at was
+in helping to invent the future where
+customers thinking you know how do we
+work with developers to do that and so
+we've been PMs forever and being a PM
+means that even though we could we don't
+write code we work with developers we
+work with other people in the market but
+I've written more code in the last one
+year than I have in the last 10 years
+because code is now essentially
+architecture and English or whatever
+language that you have. And so what does
+that mean? I've taken the opportunity to
+write more code. I've taken the
+opportunity to convert PRD writing into
+prototype writing. I've taken the
+opportunity to write more API interfaces
+and actually call those API interfaces
+with Postman myself. I've taken the
+opportunity to
+subscribe to all the AI tools, right?
+and take that as a cost of learning so
+that I can understand what each model is
+useful for. I've taken the opportunity
+to understand MCPS right and connect
+different things to it like right now
+one of my pet projects one of the things
+I do in order to learn is I pick a
+project that it's almost like writing an
+eval was an eval for my life to learn is
+I'll take a pick a project that touches
+a lot of the things that I need to learn
+that I'm interested and passionate about
+and as I get into it because of my
+passion I start to learn more and more
+and so one of the passion projects I've
+had I have is to automate my house. So,
+I've been doing this for years and
+years, but now I'm trying to build a
+very smart house run on a processor that
+has AI chip and inference in it
+while the house looks dumb. So, because
+I don't want anyone to know about it and
+so what am I doing? I'm bu getting
+models. I am think learning about how to
+what quantization of those models means.
+I am learning how to fine-tune some of
+them. I'm feeding them. I'm building an
+MCP server in my house that talks to the
+home entities and then I can collaborate
+with Claude on how to build and make it
+sort of super dynamic. Uh but beyond
+that, you know, one of the things we're
+spending time on is a venture studio
+raising and raising capital for a
+venture studio because that's what I
+want to spend the next decade on
+building seinal AI companies beyond the
+book. I'm collaborating with some of the
+smartest people in AI right now who can
+teach me
+how to do this, how to write agents,
+what agents really mean. And so
+everything, as I said, writing evals,
+being humble, going back after 25 years
+of being a PM to being teachable is how
+I stay sharp.
+&gt;&gt; I want to to go back to this house. What
+do you what do you what is your house
+doing? How how smart is this house? The
+the idea is that um I give the house
+eyes and ears and it senses.
+The coolest thing is I've specked out
+what I call like a super sensor. It will
+see people. It will feel the heat. It
+will hear them. It will sense humidity
+and temperature. And it'll just be
+scattered around the house. All right.
+And I'm building the hardware myself.
+And basically as you walk into the
+house, it starts to adapt itself to you,
+right? It manages energy in the house.
+It knows you're in a room. If you leave,
+my kids are not in their in in their
+rooms right now. Well, the HVAC around
+them just stopped and said, "No, they're
+not here. The when they come back,
+before they come back, an hour before
+they come back, it starts to precool
+their space. And then when they come
+back, it says, "Oh, they're here." And
+it starts to do cool things. So, there's
+a lot of stuff like that that a
+building. And the question is, you don't
+want that to be completely inflexible.
+You want it to be super dynamic and
+super human. And so that's part of the
+AI.
+&gt;&gt; I I am the recipient of all of this, but
+I
+like I I woke up at 1:00 a.m. and I want
+toast. Why is the toast not working?
+Because he shut off the power,
+right?
+No, but look at look is in there walks
+into lots of rooms in the house and the
+light just turns on and when she leaves
+she just walks out and then it knows
+she's not there and it turns it off and
+she's taking it for granted.
+&gt;&gt; It's actually doing all this. Wow.
+&gt;&gt; It is. It is.
+&gt;&gt; But there's also like a horror movie
+version of this.
+&gt;&gt; Yes, there is.
+&gt;&gt; Well, I what I will say is that my
+family should not piss me off because
+you know I could do crazy things to
+them.
+Sorry.
+&gt;&gt; Oh man. Okay.
+&gt;&gt; And this is built on like a like an LLM
+that you trained. Is that is that what
+what the powers is?
+&gt;&gt; So multiple levels. There's this open-
+source software called Home Assistant
+that I use and you can uh it's very
+extensible. So I can put in like
+fine-tune LLMs. I can use uh the big
+LLMs. the there there are things like
+smaller like spoken whisper models you
+can use to like I can just say hey
+Jarvis like Iron Man and it it'll the
+house will start talking to me and
+telling me things about what's going on.
+So things like that
+&gt;&gt; uh getting us back on track but
+&gt;&gt; you guys are geeking out right now.
+&gt;&gt; I'm excited and scared to visit this
+house.
+&gt;&gt; So that's my dad.
+&gt;&gt; Get this out of me. Uh, what I love
+about this is this is something that
+I've seen a bunch is having a very
+specific problem to solve for yourself
+is a really good way to build and and
+get into these tools because you're
+motivated to solve a problem and it's
+like a specific thing that you're doing
+versus just generally I'm going to go
+sit around and play with lovable.
+&gt;&gt; No, I I I think I want to double click
+on that, Lenny. I was telling you the
+other time that uh we spoke that I get a
+lot of questions from I I would say
+people who aren't very familiar with
+with AI and they don't know where to
+start and that is exactly what I say.
+It's like hey I know you love fashion
+for example right or you you like um
+reading right and you have the the the
+you you actually have the database of
+the entire Austin library or whatever it
+is online and you can pull it if you
+really want to and it can recommend
+based on your feelings. So you can
+create a project around what it is that
+you're passionate about. One particular
+woman um older lady u wanted to figure
+this out. I I I and figure out a passion
+project and I knew she liked this idea
+called outfit of the day. So with LLMs,
+she started a project where she actually
+had she took the time to take all her
+tops, all her bottoms, all her dresses,
+all her shoes, and now she's working on
+based on the temperature having
+recommendations of her outfit for the
+day. So that's one way she was able to
+find something that she loved and could
+take a you know leverage AI to build and
+that could help her determine okay what
+should I or what are the options I
+should consider for today.
+&gt;&gt; That's an amazing example.
+&gt;&gt; Can I just make like one you know I'm
+always like high concept prediction guy.
+So I'm going to make one prediction. I
+think that
+you know in the next few years a lot of
+a lot of high agency people not just PMs
+will essentially be writing the software
+that automates their lives right and so
+the one man SAS is going to go away
+because the ability to there'll be 100
+million developers because we will
+people who really care will automate
+their lives they will build applications
+that just works for them and the the
+advice for PMs is that we should be the
+vinegard with that because if we can
+start doing that for ourselves, we'll be
+able to do that for software that hits a
+million people because that's the way to
+get started. And you know, I want to we
+also want to offer hope. It's still day
+one. Meaning that no matter how far, you
+know, if you hear me and hear about fine
+cheating and home assistant and all this
+crazy hardware that I'm trying to build
+and you're scared, you're like, I'm
+behind.
+Uh you're not behind. You're not behind.
+People who seem like they're succeeding.
+We were here when you know inter the
+internet dropped and everyone you know
+Microsoft thought it was behind and you
+know with social people some people
+thought they were behind the people who
+seem like they're off the gate fastest
+whether it's a company or person and
+other people who win and so it's the
+wisest and the most dedicated that win
+and so people should just start you know
+evil people we have a proverb that says
+whenever you wake up is your morning and
+so just wake up and go. Uh, I love so
+much of the advice you two are sharing.
+There's a there's a post I'm going to
+link to in the show notes that shares a
+bunch of examples of what people are
+vibe coding, building with AI. That
+seems to be the biggest challenge for a
+lot of people is just like, what should
+I actually do? And something that I
+realized as I was putting that together
+is people think about like, oh, can you
+build real products and businesses on
+bold lovable replet? But interestingly,
+most people just want to build a thing
+that solves a specific problem for
+themselves. And sometimes that turns
+into a thing. But there's almost a
+bigger opportunity just to build a
+personal software. Uh similar to the
+example you shared as there's a site
+someone built this like how many layers
+should I wear today.com or whatever. I
+don't think that's actual domain and
+it's just like three. And that's
+sometimes all you need to know. Today's
+episode is brought to you by KOD. I
+personally use KOD every single day to
+manage my podcast and also to manage my
+community. It's where I put the
+questions that I plan to ask every guest
+that's coming on the podcast. It's where
+I put my community resources. It's how I
+manage my workflows. Here's how KOD can
+help you. Imagine starting a project at
+work and your vision is clear. You know
+exactly who's doing what and where to
+find the data that you need to do your
+part. In fact, you don't have to waste
+time searching for anything because
+everything your team needs from project
+trackers and OKRs to documents and
+spreadsheets lives in one tab all in
+KOD. With Kota's collaborative
+all-in-one workspace, you get the
+flexibility of docs, the structure of
+spreadsheets, the power of applications,
+and the intelligence of AI, all in one
+easy to organize tab. Like I mentioned
+earlier, I use KOD every single day, and
+more than 50,000 teams trust KOD to keep
+them more aligned and focused. If you're
+a startup team looking to increase
+alignment and agility, KOD can help you
+move from planning to execution in
+record time. To try it for yourself, go
+to kod.io/enny. io/lenny today and get 6
+months free of the team plan for
+startups. That's cooda.io/lenny
+to get started for free and get six
+months of the team plan. kota.io/lenny.
+So, let me take this opportunity to zoom
+out a little bit. We've been talking a
+lot about personal skills, what you
+think people need to get better at, what
+takes to be successful. I want to talk
+about at the company level. You two work
+with a bunch of different companies.
+You've both worked at a bunch of
+different companies. When you look at
+the companies that seem to be doing well
+in this new AI world, adopting the best
+practices, seeing productivity gains
+versus the companies that are just
+struggling and not getting anywhere and
+just having a hard time, what do you
+find is most common across the one the
+companies that are succeeding shifting
+their culture and the way they work in
+this world of AI? And I'll I'll throw
+this to Ezene first.
+I think the the main thing I will say is
+um recognizing companies that recognize
+that AI
+is a core set of multiple capabilities
+that they've been gifted. I think that
+you need to understand that it is not
+this magic thing that you're going to
+slather on to your product and it will
+do perfectly. The problems are still the
+problems. The customer is still the pro
+is still the customer and their pain or
+sharp problems still exist as they they
+have. The idea now is how do you take AI
+and not have it be something we call it
+you put at the edge alone but you
+actually retransform the way you solve
+the customer's problem. So we have this
+phrase called AI at the core and AI at
+the edge. And the f the best way to
+think about it is that with AI at the
+edge, you're probably still using
+software as you always have. The bits
+and bites that you wrote before still
+are there. You're instead inserting
+LLMs or AI at different intersections or
+connection points. Okay. AI at the core
+means fundamentally
+looking at the problem space and the
+workflows and using AI to solve the
+problem. Not just sprinkling it at the
+intersections of you know guies or user
+interfaces that are out there or using
+it to just accelerate things. So the way
+we talk about it is that
+companies where their codebase remains
+and they are attaching
+uh AI to it often aren't the ones who
+are going to revolutionize uh the their
+industry.
+Companies for whom their code base
+perhaps shrinks and the LLM becomes a
+core part of what it is that they use to
+solve the problem are companies that
+actually are doing it right. Another uh
+characteristic is specificity.
+We've seen a lot of companies want to do
+so many things and expect LLMs to be as
+broad as the problem sets they want to
+solve for. And we in our experience have
+seen that to do that you actually will
+need to have
+specialized
+first and then create a layer of a
+connective tissue that can offer
+intelligence. So we've seen companies
+instead just stay on top try to build
+this massive solution set or LLM that
+can do it all. But the successful ones
+that we've consulted with, partnered
+with, are talking to are those who
+instead have seen, you know what, I can
+find I can build with this team that I
+have on here can actually build this
+very specific solution set. This other
+team can do this. And then my job is to
+tie it all together with a broader uh
+multi-
+model solution um and build it and
+create an offering for the customer. I
+think those are two core things. I'm
+sure Audi can remember a few others.
+&gt;&gt; No, I think No, I I I I love I I was
+humble in listening to you.
+No. Um,
+so maybe I'll I I'll embellish the
+point. We're seeing companies that are
+starting from a blank slate, taking an
+old problem, a sharp problem, and
+saying, "If we built it today
+with LM as the core capability, as a
+core sort of blob of code, how would it
+look?" And often these people are
+finding a lot of acceleration and
+they're actually like taking on
+adjacencies. in a formless type form,
+you know, a new product built by uh
+David Okunv and, you know, and me and a
+small group of people. We built a new
+type form and we ended up building more
+than it because it also became like a
+sales lead agent. So like it did
+pre-sales which ordinarily type form
+gets you in to qualification before you
+talk to a salesperson, but the product
+itself did pre-sales. that capability
+was so strong. We're also seeing the
+shrinking thing.
+It's funny in the last week, I've seen
+companies that have been around for 5
+years who once LLMs came, they just
+reimagined their product. Like Clay.AI
+has is a six-year-old company, super
+successful. Um, so in the first category
+is like things like Lovable, but the
+second category, people who are like,
+okay, we're going to rethink this and
+we're going to do it. Um now the problem
+for the rest of the industry is
+there's you know dilemma they have lots
+of revenue tied to old code bases and so
+they their job is to and you know we
+tell PM leaders all the time is to
+navigate how you use LLM on the old
+thing but navigate to the new thing
+before someone eats your lunch and it's
+not it's complicated it's hard but you
+have to do it. Now let me make maybe a
+couple of smaller things. Um the people
+who are succeeding are taking chances on
+user experiences. We don't believe the
+chat interface is the final boss for AI
+user experience. We think that there's a
+reason viewers exist and the command
+line didn't work otherwise DOSs will be
+the biggest operating system. Uh and so
+people have to do different things uh
+and be dynamic. You know one of the big
+things is dynamic user experiences that
+just personalize to the customer. uh so
+we'll see a lot of uh we see a lot of
+people succeeding there and one of the
+things that we don't see people doing
+actually that we want people to do is
+something as mentioned which is ethics
+you know like we think of AI and its
+core capabilities as ordinance level
+meaning like
+at at some point we'll think of this as
+more powerful than the the fusion the
+fusion bomb and we have a bunch of
+software people who have no consider
+consideration of ethics, playing with
+this stuff all the time. And so one
+thing we'd like to see the be best
+companies do is lead on that like think
+about the responsibility we have to the
+human race when we build new digital
+products that will give them
+superpowers.
+&gt;&gt; I want to zoom out even further.
+So we started talking about individual
+people skills, what's going to be most
+important. And we've been talking rec
+just now about what companies are doing
+well, the ones that are succeeding in
+this crazy new world of AI. I want to
+now zoom out just your entire product
+career. I'm curious just when you look
+back at the 50 plus years of combining
+experience you two have, what are some
+of the biggest product lessons that have
+you that you've learned that you would
+love to share that you think people can
+avoid having to learn the hard way? I I
+think what I want to reiterate the thing
+that we talked about sharp problems
+your the problem you focus on is
+probably the most predictive of your
+success. Pick a sharp problem. Pick
+something that if you really solve it
+people will come. You know is watching
+Jeff Bezos from the 80s feels precient.
+He's like look people always shop. I'm
+going to be the guy right and he and he
+did it. So do that. uh and I say this
+humbly because I've failed because
+sometimes we build things that we are
+passionate about but being a founder is
+not an exercise and even an operator in
+a company it's not an exercise in your
+passion and your brilliance it's an
+exercise in finding what the market
+needs so do that be disciplined in doing
+that we also talk about simplicity a lot
+um even this morning I was talking to a
+designer and he had a convoluted
+uh user experience and I said only 20% %
+of people who come to this will see that
+and so the point of design is first
+simplicity and clarity before we get
+fancy and so there's a lot Steve Jobs
+embodied this fairly on I think iOS has
+become complicated but like start with
+simplicity and simple is hard
+um and in 2025 we're designing for
+distracted brains there a couple of
+things are happening people are super
+distracted people are no longer wowed by
+technology. You call it AI all you want.
+They just assume that it is what it is.
+And so simplicity is really good for
+2025 and beyond basically. Um
+and then you know we talk a lot about
+fundamentals. I'm going to throw this to
+is in there. Like there are ways to
+figure out the fundamentals what we do.
+I know we operate in the software layer
+but at its most basic we're trying to
+predict what humans would do, what they
+will want, how their soft, you know,
+workflow will go and there's some
+there's some,
+you know, uh there's a there's a layer
+of that that is quite similar, you know,
+because our friends, the anthropologists
+and the psychologists really understand
+this and I think if we understand it, we
+can build better software. So, but I'm
+going to let you uh I'm just going to
+throw this off to you so I don't take up
+all the space. Go for it.
+&gt;&gt; No, I think I think you're on to
+something about um just so when I think
+about
+the hard lessons I've learned, you
+talked about simplicity
+and I'm saying this also from humility
+and just having learned a lot from past
+failures.
+One of the reasons people create
+complicated solutions is because they're
+afraid to make take a stab to to to put
+their point of view opinionated. They're
+not
+&gt;&gt; opinionated. They're not opinionated
+enough
+&gt;&gt; and that often comes from not having
+high conviction because you're not sure
+that you've spent the time with the
+customer. So with that, I know it sounds
+trit, but spend time and understand the
+customer or borrow from others who do,
+but you've got to not just lay it all
+out and have them choose which way
+because it is so effing confusing.
+&gt;&gt; 10,000 options because you can't pick
+one.
+&gt;&gt; Yeah. The experience is so murky,
+chalky, nobody knows what the hell to do
+because you can't make a decision. Make
+it simple. Come up come up with an
+opinion and put your opinion out there.
+You can change. Leave the configurations
+and the options behind. Leave them
+behind the scenes if you must, but try
+and create the most compelling, the
+simplest experience, and you will
+actually have better adoption. You're
+better off doing that and being wrong.
+Many times we leave and ship convoluted
+experiences because we don't have the
+the the courage number one to make a
+decision, create a point of view and
+ship it out there. The reality is and my
+experience has shown that you're better
+off
+picking an opinion, shipping it shipping
+it out there, being wrong and then
+adjusting that leaving too many options
+because you then can never learn what
+was the better experience overall. So
+that's one thing. The other
+major lesson I've learned is actually
+one about strategy. It is that
+the best way to go from strategy to
+execution in a way that activates the
+entire organization is communication.
+you you will never never spend too much
+time communicating
+the why to your organization over and
+over and over again. I I don't remember
+what movie it was. I think it was uh
+the movie about sending someone to the
+moon, right?
+um
+I'm forgetting what it is, but the idea
+that everybody in NASA knew that we were
+working to send a man to the moon. Even
+the janitor did knew that. So that idea
+of ensuring that everybody in the team
+understands the why behind what we're
+doing and can speak to it. I saw
+something on LinkedIn the other day. I
+think it was Martin Ericson who actually
+push posted this. It talked about how
+the same way we talk about crossing the
+chasm and figuring out who it is that
+will adopt a product, we should think
+about the change management required for
+strategy communication through that
+lens. They will be early adopters. Think
+about those people. Those people will
+hear the message, the strategy, and by
+the time others are just beginning to
+understand what it is, they're probably
+on the next version of the strategy
+asking what can change, what should
+change. And that was so clarifying for
+me cuz I always wondered why strategy
+could get muddy sometimes is because
+when you look at your entire population
+about 5% are going to be the early
+adopters. They get it. They buy into it
+and they're moving. Four months later
+they're on to something wondering what
+the next version of the strategy will
+look like. How do we build on top of
+this? At that same time some people are
+just beginning to get it. And honestly,
+that answered a lot of questions for me
+as to how it is that you can be working
+on a strategy, some people get it, can
+recite it, tell you why we're doing what
+we're doing, while some PMs are still
+struggling with why, how come can we do
+this? Because there are in fact lagards
+out there. So that idea of trying to
+really activate a strategy into pure
+execution. If you think about
+communication as a critical element and
+then also look at it as how many people
+what is the crossing the chasm version
+who is at what point in this change
+management journey. I think that is
+actually that that was one of the major
+lessons I've learned as a leader in
+product. I love these sorts of
+conversations where you two spend 50
+years learning and then you just tell us
+here's all the answers. Here's a bunch
+of stuff that'll save you a bunch of
+pain and suffering. Let me try to
+summarize what you shared and tell me
+what I missed. So, some of the biggest
+things you two have learned over the
+past 50 years and all it's not in the
+right order, but uh communicating the
+why, making that you never you can never
+spend too much time helping people
+understand why why what you're working
+on is important. And then there's just
+the change management component of not
+underestimating the work that it'll take
+to convince people uh to adopt
+something. And then this whole idea of
+crossing the chasm. We had Jeffrey Moore
+in the podcast. So we'll point to that
+if you want to deeply understand what
+that's all about. Then this lesson of
+simplicity just keep per just the value
+of keeping things simple. Easier said
+than done and having an opinion having
+the courage almost to do something
+really simple not give people all the
+options. And then this uh Agie meant you
+talked about the idea of most times when
+something fails it's the wrong you're
+going after the wrong problem. It's not
+sharp enough or it's just not solving
+people something people actually care
+about. And then just talking to
+customers uh always easy to say most
+people don't actually do it enough.
+&gt;&gt; I want to add one more thing and I'll be
+brief. This is more more uh about
+people's careers like PMs. In our
+career, we have, you know, we started
+out as engineers basically, became
+mainline PMs, got an MBA, became, you
+know, worked harder, became executives
+and so on and so forth. So, some, you
+know, people look at my career as an
+industry and they're like, "Oh, this is
+amazing." But behind that is a lot of
+intention. Like, we always
+held in our brains, what do we want to
+do next? like what is the next step?
+What is the hunger that drives us? And
+there's nothing more powerful
+and than intention than like
+imagination. It's like, you know, a
+little bit of cheese in front of the
+mouse like it chases after. Being able
+to visualize and chase the thing that
+you see about where you want to be is so
+powerful. I talked to uh a guy who gave
+me a break. So when I was, you know, the
+last two years of my time at Microsoft,
+I switched to become a marketing lead
+because I as a little t of PM at
+Microsoft specifically and I was getting
+an MBA and I talked to Dave Mendlin. He
+was a vice president, you know, or
+senior director in the worked, you know,
+eventually for SATA and he gave me a
+break and became a product marketer over
+a couple of years. But I he came back
+and talked to me this year and he said
+Ojie everything you told me you wanted
+to do
+from afar I saw that you have done and
+you told me about them 10 years ago and
+I didn't even know that and so it's very
+powerful thing I think that this is not
+just about how to build better products
+but how to manage your own career is
+super important. I just went to a talk
+uh storytelling event and there was a
+very similar theme. This guy just always
+wanted to be a stand-up comedian and he
+the lesson he learned is just you need
+to the ba the best motivator is desire.
+Having des having that desire not fade
+because that'll it's kind of like going
+back to our idea of the project. Having
+a project to work on because you need a
+problem solved uh is a really good way
+to just get to where you want to go.
+&gt;&gt; Yeah.
+&gt;&gt; Uh as I think you had something else you
+wanted to add.
+&gt;&gt; Yeah. you know, you you you said this
+thing about, you know, know the
+customer, know the customer, and I think
+there's a lot of there's a lot of noise
+out there about customer interviews,
+etc., right? But I do want to remind
+people that there's a difference between
+what the customer says, right? Customer
+discovery, asking them things, right?
+And AI is really good at that right now.
+Like you can help you get all the
+transcriptions, but just remember that
+what they do is actually more important.
+So earlier in my career um I had the
+opportunity to have a UX lab that I
+worked in and ethnographic research
+watching what people truly were doing
+still is topnotch. It's the best thing
+you can ever do. So how what does that
+look like digitally? It's still the core
+instrumentation figuring out how people
+finish things. But also, true customer
+insight comes from not
+using AI to read all the transcripts of
+your customer interviews. That isn't
+what it is. It's actually trying to
+figure out how to best walk in their
+shoes. And whatever it takes, you've got
+to figure out how to do that because
+it's not what they say they do. It's not
+what they say they want. Those are
+that's not the true intimacy you want
+with a customer. you actually want to
+observe them as much as possible and
+understand the why behind the actions
+they're taking. And I I think that's a
+really important thing to point out
+right now because I think people are
+cheating with AI through interviews,
+etc., and thinking that they're going to
+figure it out. But there's a different
+type of insight that comes from what I
+call true ethnographic research or
+studying, observing, understanding the
+driver behind their need, their their
+their problem or the need that they're
+trying to solve. Um, and I just want to
+make sure we say that because I think
+people think AI has come to save it all,
+but no, it's going to give you junk
+because people don't always say what
+they mean or they don't realize that
+they're lying about their reasons for
+doing a thing.
+&gt;&gt; I think some of these lessons,
+especially that last one, is the kind of
+lesson that you can hear it and be like,
+"Yeah, yeah, I get it." And then you
+have to actually learn it and and find
+the times. Oh, wow. Okay, everyone told
+me they wanted this thing and nobody
+actually used it. Okay, I remember as I
+said that on a podcast. Oh, I get it
+now. And so I think, you know, there's
+only so much we can do to help people
+learn these things. Sometimes you just
+have to fail the pain to learn.
+&gt;&gt; Okay. Is there anything that we have not
+touched on? Anything that you wanted to
+share before we get to our very exciting
+lightning round?
+&gt;&gt; I think we didn't talk about ethics. And
+as you know, people of color and
+parents,
+I think that having having a call to
+action for our PMs to really be
+thoughtful about what it is they're
+building and and what it is they're
+integrating into their product is really
+important to to us.
+&gt;&gt; We just want to call PMs that this
+awesome power we have to direct lots of
+developers comes with responsibility.
+You know, the spider trope and um you
+know, we created social media. I worked
+at Twitter and I always like oh my god
+like how many mistakes do we make? Like
+I remember the person who invented deep
+fakes was interviewed one time and she
+said and they're like what are the
+implications of your stuff? And she's
+like I don't care and I was so shocked.
+I was like what software engineer you
+don't care? She's like oh it's all
+invented countermeasure. I'm like oh my
+god. So PMS we shouldn't be like that.
+Um we shouldn't be like that. I I guess
+the one thing I also wanted to say is
+like one pain point we hear a lot is
+strategy. the PMs who are like senior PM
+principal PM worry about oh my god how
+can I do product strategy and um in the
+book we talk a lot about the sources of
+strategy and there's a it's not
+mysterious I think there are things you
+need to learn about like the sources of
+competitive advantage and even what that
+means like you know intellectual
+property or like um economies of scale
+economies of scope because there's no
+formal education about this stuff PMs
+don't have the fundamental they need
+because you know it's easy to learn
+customer discovery but like learning the
+seven levers of competitive advantage
+maybe you've never seen or learning the
+10 ways that companies can grow which is
+not just product sometimes it's
+distribution sometimes it's superior
+business strategy and these are ideas
+that if PMs had good material and it's
+sort of like packed in the middle of
+business school you can actually become
+a person who helps direct your company
+on where to go and do it in such a way
+that's so compelling you can talk about
+it that you know it's good for your
+career. I remember Lenny I think one
+time I saw maybe a long time ago I saw
+something you're written around how do
+you make money you know you sell a thing
+you rent a thing you know there there
+many people think that it's there are
+many many like it's this amorphous thing
+but you may not have the truly
+exhaustive list right but there are
+fixed number of things that you can know
+to create strategy to make money and
+just doing the work or doing the
+research to figure out okay hey how How
+does one make money? How does one get
+competitive advantage?
+&gt;&gt; In the book, we wrote about 10 growth
+levers and seven levels of competitive
+advantage. And I think if you master
+that, you have like 80% of your tool set
+that makes you a compelling
+director, CPO that can play at that
+level. Um, and it's super important.
+Otherwise, you're sort of guessing.
+You're like, "Oh, did this deck work for
+my CEO?" No, that's not what you should
+think about it. I I'll point to the post
+that you're mentioning as that uh is all
+the ways to make money but let's use
+this opportunity to talk about your book
+just what people would get out of it why
+they should buy it do the pitch and then
+we'll get to the very exciting lightning
+round
+&gt;&gt; in our career 50 plus years we when we
+started this product management thing we
+thought oh this is going to be
+mainstream there's development there 30
+million developers whatever and it was
+going to be product managers all over
+the world but operating in the US
+operating in
+Europe in Africa. It turns out the best
+PM is sort of ghettoed somewhere in the
+west coast of the United States, right?
+We know this and we don't like that at
+all, right? We think opportunity should
+be everywhere. So, we wrote building
+rocket ships to help people figure out
+how to build not only great products but
+companies that build great products to
+make sure that people have the knowledge
+not to be one hit wonders. And the book
+is divided into two. One is the
+fundamentals. If you're a senior to
+principal PM, the fundamentals of
+building a great product, right? All the
+way from simplicity to even pricing. And
+then the second part is how do you lead
+a high-erforming shipyard and how do you
+go from
+motivating people to
+charting the course for the future
+depending on where you're in the market
+to
+making you know like is said to
+commanding a shipyard that is kickass
+that's that's the book and um you know
+in the latter part we also talk about
+like what's going to happen in terms of
+AI over the next few years. Um, so we
+are, it's called Building Rocket Ships.
+We're very proud of it. It's right over
+here. And, um, we think it's awesome
+because it represents a lot of, uh, of,
+of, of the experience that we've had
+over these years and a lot of success.
+&gt;&gt; And where do folks find it if they want
+to go check it out, maybe even buy one
+or two or 10 or 100?
+&gt;&gt; Some companies have been buying a lot
+actually uh, in bulk. So, this is a note
+for the companies, but you can buy it on
+Amazon. Uh, you can find it on Shopify.
+on Shopify. If you go for it, you will
+there's an additional pro edition. The
+pro edition is like a team product. It
+the book is on koda.io and you can share
+it with your team. You can take notes.
+There's almost double the amount of
+content because it contains checklists
+uh
+um templates, tools for PMs that they
+can download and just use immediately.
+It's almost like code for you for your
+PM career. We have the the book and then
+we have the kod version. And one of the
+things we really worked on was making it
+actionable. So the minute you
+if you get the kod version um you can
+read a chapter and then you'll have
+templates, frameworks, step checklists,
+whatever it is that we felt made sense.
+Um we made that available via the coded
+version.
+&gt;&gt; What a motherload of value. Where people
+always have a issue saying the do the
+URL on podcast. I just want to make
+sure. What's that? How do you actually
+find this version? You said it's on
+Shopify, but there's probably a domain
+name to get there.
+&gt;&gt; So, if you go to
+dubdubdub.protomind.co/brpro,
+you can buy the pro edition.
+And if you've bought it, you can also
+use it to log to the KOD edition and
+you're off to the races.
+&gt;&gt; There we go. Amazing. We'll also link to
+it in the show notes. And with that,
+we've reached our very exciting
+lightning round. I've got five questions
+for you, too. Are you ready?
+&gt;&gt; Yes.
+&gt;&gt; First question is, what are two or three
+books you find yourself recommending
+most to other people?
+&gt;&gt; We just did one. Building rocket ships.
+&gt;&gt; Building rocket ships is the first one.
+So, we're not afraid to self-promote.
+But also, the other one for me is Build
+Tony Fidel. You know, I ran into Tony um
+in Nigeria building an accelerator and
+uh he it was just incredible book. I
+totally recommend it.
+&gt;&gt; One for me and it's both for work and
+life etc. is this one called the let
+them theory I think it was Mel Robbins.
+I I love it. I just think that many
+times PMs are control freaks or a type
+and um being able to leave people to
+their own devices sometimes is hard. So
+let them reminds us that we get a lot
+more uh rest for ourselves when we let
+people be. I was just listening to that
+book on audio. I was like, it's sitting
+at the top of the bestseller like every
+freaking week. What is this book and
+it's so good. I sat in your background
+actually. I noticed that you're reading
+it. Uh yeah, it's so good. It's such a
+simple idea and the thing I learned at
+listening to it is there's a second part
+to it that isn't just let them. I don't
+know. Got to Yeah, I did. It's about let
+me let me. Yeah, exactly.
+&gt;&gt; Such a good I've been using it. It's
+really powerful. I get why it's I didn't
+I mean the book is good. Yeah, let's
+give her credit. But it's such a simple
+thing that other people in in many
+religions etc have have used. But she
+grounds she grounds she makes she she
+she shows you why it's necessary and how
+we how we show up trying to control
+others in other in situations that are
+very common to most people. So I like
+that.
+&gt;&gt; I never thought of it in the PM context.
+That is very cool. And this by Mel
+Robinson by the way. Okay. Next
+question. Is there a favorite recent
+movie or TV show that you really
+enjoyed?
+&gt;&gt; So we watch a few shows together
+recently. So, I would say uh one that we
+loved and we couldn't we kept saying
+gosh I we can't wait for our kids to be
+old enough to watch it was one called
+Forever.
+It's it was just really really good. Um
+it's uh it's a love story. It's uh one
+of these it was a book reimagined um
+done from a African-American point of
+view. It just really well done. So
+that's a TV show is called Forever. And
+another one that we really like cuz I
+think it was Sterling K. Brown is
+Paradise. Really enjoyed it. It was
+interesting. It kept us
+&gt;&gt; excellent. It kept us uh Yeah. Aie, what
+about you?
+&gt;&gt; Man is in a row. And then the movie that
+we've been geeking out on is Sinners. Uh
+we just love Sinners. I think I saw it
+twice. My son son saw it like three or
+four times. Um we're just big fans of
+Cougler and the way he tells stories. So
+we love that. I've I've seen both those
+two uh recently and they're both have
+very unexpected they go unexpected
+directions like why did I see this
+coming?
+&gt;&gt; Yes. Yes.
+&gt;&gt; Oh man. Yeah, that movie is beautiful
+sinners. I was like wow. And then but I
+I really hate scary movies. Uh I enjoyed
+that one. Someone else recently
+mentioned that movie too actually
+&gt;&gt; on the podcast. Next question. Do you Is
+there a favorite product you recently
+discovered that you really love? Could
+be a gadget, could be clothes, could be
+kitchen device. Could be an app.
+&gt;&gt; I I'll start mean I love Claude. It's
+like Audrey says it's my sidekick. I use
+it for anything and everything. Um, but
+I, you know, obviously the thing you
+learn is don't, even though keep talking
+about it as generative AI, be the
+generator and let it refine. That's the
+major trick. You know, that's the hack
+everybody should learn.
+&gt;&gt; Super hack. Don't generate.
+&gt;&gt; Generate first and let it refine and let
+it help you. Otherwise, you're going to
+get Sorry.
+&gt;&gt; That's a really good tip.
+And one I I'll say I have this new
+Nespresso machine, the Virtuo that Audi
+got for me. Everybody is using it now
+and I'm kind of pissed cuz but it's
+still my favorite product. But
+everybody's in it. You know the reason
+is I normally like keeping it really
+clean and shiny and now that everybody's
+using it, it's not as clean and shiny as
+it used to be.
+&gt;&gt; When she says everybody, she means
+everyone else in the house. She wants to
+use it by herself to be clear.
+&gt;&gt; She needs a second version just for
+herself.
+&gt;&gt; Yeah, we need another one. And then the
+the plebs and the plura can use the
+other ones. That's what it is.
+&gt;&gt; When they're good, when they're
+&gt;&gt; make all my lattes, hot, cold, all of
+that stuff. I love it. Hi, what about
+you? I
+&gt;&gt; I just like using like these new air
+tools that have improved my life like
+GMA is good. Framer is also good. um get
+into Lovable because I sort of like say
+using the hardcore stuff and so using
+Lovable felt like a little step down it
+a little bit but like um Olama LM Studio
+these are ways that I used to do my
+hobby of improving the house. Um but
+also I'm super into local models the
+these open source models running them
+because I feel like I can put them in
+different places. Uh, so LM Studio and
+Olama are just favorite things. Um, so
+yeah, those are some of the things I'm
+vibing on.
+&gt;&gt; Gamma and Lovable get a year free by
+becoming a paid subscriber of my
+newsletter. Uh, we'll link to that.
+Little did you know,
+&gt;&gt; I heard about Lovable. I didn't know
+about Gamma. I should
+&gt;&gt; absolutely
+maybe Framer someday. There's a lot
+going on there. Check it out.
+lenniesnewletter.com. Click product
+pass. Okay. Uh, two more questions. Is
+there a favorite life motto that you two
+find really useful and come back to in
+work or in life?
+&gt;&gt; So, I'll give you I'll say two and one
+has been from childhood. My mother had a
+little plaque in our house that said
+anything worth doing is worth doing
+well. And it's so funny. I just I assume
+that that's how everybody lives, but I
+realize now that it isn't. So, I I come
+back to that all the time. And then, so
+I'll say that came from my mother. But
+the one I think I've adopted and
+probably just general upbringing is um
+this thing that anywhere you are make
+better. So it's like by being there um
+I've made it better. And it's simp
+simple things like you walk into a
+bathroom. It's nasty. Try and clean up
+if you can. It's it's that simple.
+&gt;&gt; Beautiful.
+&gt;&gt; Um but it's something I I live with and
+I live by.
+&gt;&gt; Audrey, what you got?
+You know, I I I mentioned one already,
+which is whenever you wake up is your
+morning. So like I I I try I try to
+spend very little time looking backwards
+except to mind the lessons of it and
+then just move forward because the
+universe and the forward motion is
+infinite. And so there's an evil
+proverb.
+So I want to say that. Um well the other
+thing I think I learned from my dad uh
+is just like learn all the time but
+doesn't mean that you should be
+not confident you know is this idea that
+there's more knowledge outside your
+brain than inside it and that doesn't
+mean you should be in a crouch. In fact,
+you should be proud of being called
+stupid for a second because you we're
+all stupid at something, right? In the
+sense that we don't know. There's so
+many things we don't know because we're
+finite. But do that and still be
+confident. So you can learn but still
+have a sense of self on what you've
+accomplished. And so I try to live by
+that every day.
+&gt;&gt; I love that you each had two and they're
+both so wonderful.
+Uh unfortunately, final question.
+something that I like to do with duo
+guests. Uh I I switch between two types
+of questions. So I'm going to ask you
+this one. What's something you love
+about the other person?
+&gt;&gt; I love that Audi lives in the future and
+um as obviously I get the benefit of
+this. Uh we get to plan
+um he's very intentional about the
+future and uh it just makes
+us move together with intention um for
+as partners in life as well as even with
+our our company. I think that is
+something I really appreciate about him.
+&gt;&gt; So sweet.
+&gt;&gt; So uh there are two things I love about
+Zena. One is she is I think she's very
+accepting loving person. She's nice.
+Like when I introduce her, I say, "Look,
+you're going to talk to her and you're
+going to forget about me because she's
+10 times nicer than I am. I'm not I'm
+not a horrible person, but she's just
+way nicer than I am." And so that's
+that's great. The second thing is
+something that people don't know about
+her is that she's a great problem
+solver, right? Like she will you'll
+throw something at her and the
+asymmetric thinking is incredible,
+right? That you know, like I didn't
+think of that. happens to me all the
+time. So, I love that too.
+&gt;&gt; And Aji, this was amazing. Uh, we
+covered so much ground, so many lessons
+learned over these past 50 years about
+life and work and PMing and all the
+things. Two final questions. Where can
+folks find you online if they want to
+reach out and how can listeners be
+useful to you?
+&gt;&gt; They can find us online at
+dubdubdub.product.co.
+That's first. That's where we help
+founders and help companies build better
+products. uh they can find us on
+Substack um where we p publish as
+product mind. Um
+I think those are the main places like
+we are starting to put content out in
+like YouTube or um you know just
+experimenting with how to amplify our
+voice but those are the two main places
+you can find us.
+&gt;&gt; Awesome. And we'll link to all that
+stuff in the show notes and then yeah as
+&gt;&gt; no same thing like our LinkedIn we're I
+always say my DMs are always open.
+That's what I always tell people. our
+work. Um, you can reach out to us. We
+we're pretty responsive to most people.
+Um, but yeah, product.co
+um is the best way to get a hold of us.
+how they make useful to us is like we
+are so inspired by what you've done with
+your community and we're part of a few
+communities but we are very interested
+in partnering with more PMs especially
+uh our executive cohort like who are
+having a hard time right now like
+partnering with us calling us like we
+want to be able to distribute
+opportunity that we may not be
+interested in to PMs who are struggling
+right now and sometimes it's not obvious
+where to pass opportunity that we're not
+interested in. So like I think useful to
+us is reach out
+um and there might be intersections that
+help you or help us. So do it.
+&gt;&gt; Amazing. And that's through DMs on
+LinkedIn ideally or through your
+website?
+&gt;&gt; Yes, through our website or through
+Substack or just LinkedIn.
+&gt;&gt; Okay, all the places.
+&gt;&gt; Incredible. Uh thank you too so much for
+being here.
+&gt;&gt; Such a pleasure.
+&gt;&gt; Thank you, Lenny. Um, we just like what
+you're doing for our community is
+incredible. So, uh, hats off.
+&gt;&gt; I appreciate it.
+&gt;&gt; Hats off. Good to see the progress over
+over the years. So, yeah. Well done.
+Thank you.
+&gt;&gt; Thank you. You, too.
+&gt;&gt; Okay.
+&gt;&gt; Bye, everyone.
+&gt;&gt; Bye.
+&gt;&gt; Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

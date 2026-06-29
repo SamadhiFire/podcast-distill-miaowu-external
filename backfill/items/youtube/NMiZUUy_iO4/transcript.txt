@@ -1,0 +1,674 @@
+Kind: captions
+Language: en
+From the New York Times, I'm Rachel
+Abrams and this is the Daily.
+[Music]
+A New York Times investigation into a
+series of major deals between the Trump
+administration, the United Arab
+Emirates, and the Trump family has
+revealed that the president and his
+inner circle are making millions of
+dollars from agreements that intersect
+with America's national security
+interests. Today, my colleague Eric
+Lipton explains why these conflicts of
+interest are unlike anything we've seen
+before.
+It's Wednesday, September 24th.
+Eric, welcome to the show.
+&gt;&gt; Hello, Rachel.
+&gt;&gt; Eric, I feel like every time we've
+talked on the show, we've had you on to
+talk about some kind of conflict of
+interest that has to do with either the
+Trump family or the Trump
+administration. and you explain each
+time that what we are discussing is more
+significant or problematic than the last
+time we had you on the show or than
+another administration.
+And here we are. I think it's been about
+four months since we had you on last
+time. And I think that once again, this
+is what you're going to tell me. Am I
+right?
+&gt;&gt; That's right. We're not talking about
+martinis at the Trump hotel in DC or
+staying a couple of nights at the Trump
+Derell or people gathering at Mara Lago.
+&gt;&gt; These were things that were considered
+scandals during the first Trump
+administration by his critics.
+&gt;&gt; Right? This is an entirely different
+scale. What we're seeing here in these
+series of transactions is at a scale
+unlike anything I think I've seen as a
+reporter in actually four decades of
+doing my job.
+&gt;&gt; Wow. in terms of the national security
+implications and just the scale of
+dollars in play that are potentially
+enriching the president's family and the
+family of some of his adviserss.
+&gt;&gt; So, okay, I want to dig into
+specifically what we're talking about
+here. You mentioned a series of
+transactions. So, tell us about the
+transactions.
+&gt;&gt; I mean, one of the deals directly
+financially benefits the president, his
+family, and some of his adviserss. The
+second deal directly benefits the United
+Arab Emirates and its ambitions to
+become an AI superpower.
+So back in May, we have the first deal
+which involves $2 billion of money from
+the United Arab Emirates going into a
+cryptocurrency company that was created
+by the Trump family and one of his
+adviserss, Steve Witco. That happens in
+early May. Several weeks later, there's
+a separate transaction where the United
+States agrees to give in the UAE access
+to some of the most advanced artificial
+intelligence chips that are designed in
+the United States. These are the crown
+jewels of American technology and it
+agrees to allow them to have hundreds of
+thousands of these chips exported to the
+United Arab Emirates.
+So, these two deals happen. you know, my
+colleagues and I are watching this and
+we're like, "Wow, wait a minute. What
+just happened here? How did these two
+deals come about?" And so we launched on
+an investigation that involved a team of
+reporters, including from San Francisco,
+from New York, Washington, Taiwan, and
+London.
+[Music]
+&gt;&gt; I just want to make sure I understand
+why this would catch your eye in the
+first place. You are obviously an
+investigative reporter. Did you see
+these two deals and think, I wonder if
+there's a connection because the UAE
+transfers $2 billion to the Trump Whit
+family crypto business and then the
+Trump administration turns around and
+hands over to the UAE hundreds of
+thousands of these super important
+chips. Like is that what initially piqu
+your interest?
+&gt;&gt; That's right.
+&gt;&gt; Okay. So, what did you find? Were the
+deals related and how did they come
+about? So, as our team of reporters
+worked on this, what we found was there
+were more linkages between these two
+deals than were publicly known or that
+had been disclosed by the White House or
+the United Arab Emirates. For example,
+there's this one guy who's at the center
+of both of these transactions and he
+goes by the name of Shik Takun. He's the
+national security chief of the United
+Arab Emirates
+&gt;&gt; and he's this kind of somewhat
+mysterious figure who's constantly seen
+wearing sunglasses because he has an eye
+condition. So even when he's inside,
+he's got these shades on and it gives
+them a kind of an air of intrigue. And
+he's been an intermediary for presidents
+and foreign adviserss for many years.
+But starting around 2023, he began to
+transition to becoming one of the
+leaders in deploying the UAE's massive
+bank of oil money to make strategic
+decisions about how to transform the
+United Arab Emirates, this super rich
+oil country, into becoming a place that
+could raise money from some other
+economic sector. And they concluded that
+the best place to go to make more money
+was to become a technology beacon in the
+world,
+&gt;&gt; like a Silicon Valley of the Middle
+East,
+&gt;&gt; right? They want to build one of the
+largest AI data centers outside of the
+United States.
+&gt;&gt; But in order to transform their economy,
+Taknon needed something for the United
+States, and that was access to these AI
+chips made by companies like Nvidia. and
+he went to the Biden administration and
+he basically said, "Give us your chips."
+And initially they were quite skeptical
+of that because they were concerned
+about, you know, what's he going to do
+with those chips?
+&gt;&gt; Like for security reasons or what was
+the concern exactly?
+&gt;&gt; Their primary concern was that the
+United Arab Emirates has had longtime
+close ties with China. And not only
+that, but they even have done joint
+military exercises from China. They also
+have a defense contracting firm that is
+building military equipment jointly with
+China.
+&gt;&gt; And at the time that they first came to
+the Biden administration, they had put a
+bunch of Chinese equipment into some of
+their data centers. And this is
+equipment that the United States is
+concerned potentially could be
+compromised and used by China to gain
+access to American technology. So the
+Biden administration is concerned that
+if we allow the United Arab Emirates to
+have these crown jewels, some of the
+most important technological inventions
+of modern times, are they potentially
+going to be sharing that technology with
+China in a way that could hurt the
+United States national security? That
+was a concern that the Biden
+administration had in particular.
+&gt;&gt; Hurt the US? How exactly? Like what
+specifically are they worried would
+happen? I mean, the United States is now
+in a race with China over the progress
+in artificial intelligence. And it's not
+only an economic race, it's a military
+race because AI is already being applied
+to all kinds of weapon systems and
+particularly around drones that could be
+autonomously operated and armed and
+become autonomous killing machines. And
+if China gets access to the most
+advanced chips that the United States is
+designing, they could accelerate their
+efforts to build a killer drone fleet
+that could threaten the United States.
+&gt;&gt; So the stakes are obviously quite high.
+The Biden administration has all of
+these concerns about what a deal for
+chips to the UAE could mean for American
+national security. What happens after
+that? I mean, the Biden administration
+ultimately reaches an agreement in which
+they talked to Shik Taknoo and they
+said, you know, you're going to have to
+remove some of this Chinese technology
+from your data centers and we will then
+agree to give you access to some of
+these chips. But Takun is not satisfied
+&gt;&gt; because he had seen Biden as taking this
+very hard line. It sounds like
+&gt;&gt; they were quite frustrated that the
+Biden people were being too
+conservative. They were too nervous.
+They were nervous nellies that they were
+holding back the ambitions of the United
+Arab Emirates. And that was where things
+ended. And then Biden leaves office. But
+Tuck Nun wants more chips. He wants more
+powerful chips. And that's when Trump
+comes in.
+And Tuck Noon, very smart guy. He sees
+an opportunity here to get what he
+couldn't get during the Biden era.
+&gt;&gt; And what do you mean by that? Like what
+specifically does he see as an
+opportunity? Well, Trump, the dealmaker
+that he is, puts in some senior
+adviserss who are dealmakers themselves.
+He puts in Steve Wickoff, a real estate
+buddy of his from New York City. And
+suddenly Wickoff is the Middle East
+envoy. And then he separately puts in as
+his AI advisor in the White House, David
+Sox, a venture capitalist from Silicon
+Valley who comes from the world that
+thinks that the United States is best if
+it exports as many chips as possible
+around the world. And both of these guys
+become critical players in Takun
+strategy to get what he wants.
+And so the new administration is
+starting and Tuck gets to work.
+[Music]
+We'll be right back.
+&gt;&gt; So, Eric, tell us about how Taknon
+actually gets to work. What does he do
+first? Takmoon first makes a visit to
+the United States in March in which he
+comes here and he's treated like he is a
+major global player. He has private
+meetings with the head of the CIA with
+the Treasury Secretary, the commerce
+secretary, with CEOs, Jeff Bezos.
+&gt;&gt; He gets an audience with some very
+important people. It sounds like
+&gt;&gt; I mean he was starting to get that kind
+of access during Biden, but this visit
+in March was unlike anything he'd had
+before.
+&gt;&gt; I mean, it's just an incredible lineup
+of people from both the government, from
+the private sector, from the financial
+world. It shows you that this guy not
+only has one of the world's biggest
+piggy banks, but he is a transformative
+figure in the global economy and in
+technology.
+&gt;&gt; And he actually then also goes over to
+the White House for a special dinner
+that includes much of the president's
+cabinet and President Trump and the vice
+president and Steve Wickoff and David
+Saxs are all there and they talk about
+the interest of the United Arab Emirates
+in becoming a global leader in AI. These
+are initial kind of meet and greet
+conversations, but in the background
+there's a whole another thing going on.
+The one thing that the United Arab
+Emirates has is a boatload of money.
+They want access to chips. They've got
+trillions of dollars in the bank. World
+Liberty, a cryptocurrency company
+created by Donald Trump, Steve Whit, and
+their families, needs money to get
+going. And this is a moment that UAE can
+write a check for $2 billion and hand it
+over to World Liberty just at the same
+moment that they're seeking access to
+the chips. These two things basically
+simultaneously are in play.
+&gt;&gt; Well, I mean, basically sounds like the
+UAE is essentially dangling a $2 billion
+transfer into the Trump Whitaw family
+business at the same time that they're
+asking the administration for this
+technology.
+&gt;&gt; That's right. And to be clear, it's the
+sons of both Trump and Witoff who are
+overseeing World Liberty and its
+dealings. And they're the ones that are
+negotiating for the $2 billion transfer
+into World Liberty. But regardless,
+they're doing these negotiations at the
+same time as their fathers are having a
+sit down dinner with Shik Taknun talking
+about the UAE's plans to become a global
+AI superpower with the help of Trump.
+[Music]
+So what happens next with these
+negotiations?
+&gt;&gt; Well, it's, you know, in March and early
+April, there's a clash that's playing
+out behind the scenes in the White
+House.
+&gt;&gt; There's these two different groups.
+There's David Saxs who comes in from
+Silicon Valley is like unlimited export
+of these chips. Let's sell as much as
+possible. And then there's a separate
+group of people that have come in in
+this new Trump administration that are
+effectively China hawks. They're really
+skeptical of China. They're very
+concerned about the military buildup in
+China. And they are separately working
+behind the scenes to build out a policy
+that would actually further restrict
+access by foreign entities to the most
+advanced chips.
+&gt;&gt; They call it the America First AI plan
+that would limit the sale or export of
+the most advanced chips for a year after
+they come onto the marketplace, which is
+not what Tucken wanted. So, it sounds
+like there are at least some officials
+in the Trump administration who have the
+same or at least similar concerns about
+where these chips are going to end up
+and what they're going to be used for
+that the Biden administration did,
+right? Like, in other words, giving the
+UAE these chips could also mean that
+they end up in China and therefore the
+same national security risks are
+associated with it.
+&gt;&gt; That's right. There's still a
+significant concern in the intelligence
+community about just how reliable the
+United Arab Emirates is and whether or
+not they are truly going to honor
+commitments to not share this technology
+with China. So you have this split in
+the White House of one group of advisers
+that's saying, "Hey, we got to be
+careful here and the other group saying
+sell." So that's a clash that's playing
+out in March and April until suddenly
+there's a big disruption.
+&gt;&gt; And what is that disruption? So Laura
+Loomer, a conservative activist who has
+the ear of President Trump, is
+frequently coming into the White House
+and talking to Trump and and giving him
+a list of people that she wants to see
+fired.
+&gt;&gt; And it ends up that one of the people on
+that list is David Fe, who is one of the
+leaders of the effort in the White House
+to try to to crack down and limit the
+export of the most advanced American
+chips. He and a number of other folks
+from the White House National Security
+Team are fired within a day. So
+basically the guard rails that had
+existed within the White House are gone
+at this point.
+&gt;&gt; What happened was that some of the key
+players that were quite concerned about
+additional sharing accident. But the
+biggest thing that happened was that
+that was an opening for David Sachs to
+become the de facto leader of this
+effort.
+&gt;&gt; And Sax comes in. Yeah, let's sell as
+many chips as possible because it will
+benefit the United States. So the fight
+in the White House over whether to sell
+these chips to Takun and to the UAE, it
+sounds like it's now leaning very
+heavily in favor of doing a deal. What
+is going on with the other negotiation
+between the UAE and World Liberty at
+this point?
+&gt;&gt; So the first thing that happens is that
+$2 billion moves from the United Arab
+Emirates to World Liberty in early May.
+And effectively overnight, World Liberty
+becomes one of the largest stable coin
+crypto companies in the world. And it
+turns what was a startup with an
+uncertain future into one of the biggest
+players in the crypto space in the
+world. And that single action by the
+United Arab Emirates is going to make
+the owners of World Liberty tens of
+millions of dollars a year.
+&gt;&gt; Wow.
+&gt;&gt; That's done. That deal is done. But the
+chips deal isn't yet decided. And then
+basically the UAE comes in and says,
+"You know what? We don't just want a
+100,000 chips. We want 500,000 chips.
+And we want the most advanced chips.
+This happens in May while this debate is
+playing out. And some of the people from
+the White House and from the Trump
+administration that are participating in
+this are like amazed at what has just
+been requested. A massive increase in
+the compute power that the UAE wants.
+And Saxs takes the position that this is
+a deal that should be landed. And
+Wickoff is coming in and saying, you
+know, this is a signature moment for the
+president and the new administration.
+He's heading over to the Middle East and
+he needs deals to sign.
+&gt;&gt; But I want to thank his highness making
+great progress.
+&gt;&gt; Trump goes over to the UAE.
+&gt;&gt; I want to also thank his highness shake
+takun.
+&gt;&gt; There's a big event that Saxs is there.
+Whit is there. Shake Takun is there.
+Yesterday, the two countries also agreed
+to create a path for UAE to buy some of
+the world's most advanced AI
+semiconductors from
+&gt;&gt; and they announced that they reached an
+agreement to give them 500,000 chips a
+year.
+&gt;&gt; This will generate billions and billions
+of dollars in business and accelerate
+the UAE's plans to become a really major
+player in artificial intelligence. And I
+read where
+&gt;&gt; I remember this announcement. This was
+his first big international trip, right?
+Where they made this announcement.
+That's right. It was a huge event.
+&gt;&gt; But this was coming to UAE was very
+important. Coming to uh Saudi Arabia and
+Qatar was very important to me because
+of personal relationships that I had
+maybe more than anything else.
+&gt;&gt; And it's potentially transformational
+for the future of the United Arab
+Emirates in terms of its place in the
+global economy.
+&gt;&gt; Thank you very much.
+[Applause]
+But wait, okay, what about all the
+security concerns? What about all the
+concerns about whether these chips were
+going to go to China? Did they get
+addressed? Did they evaporate?
+They made some initial commitments in
+the deal that was signed in May like
+cyber controls at the data centers and
+commitments around who would have access
+to these data centers. But they largely
+agreed to further negotiate the terms of
+the security agreement in a working
+group that would be created after the
+Trump administration announced the deal.
+&gt;&gt; So basically they kicked the can down
+the road. They punted it.
+&gt;&gt; Yes. And that was very frustrating and
+disappointing to some of these skeptics
+inside the administration. They were
+saying, "We had the most leverage at
+this moment. We should have asked, for
+example, no more joint military
+exercises with China. No more advanced
+technology sharing with Chinese
+companies that are going to be anywhere
+close to your data centers."
+&gt;&gt; They wanted those commitments up front.
+Sachs and the Trump administration said,
+"We'll work on these commitments in the
+weeks and months ahead." They are still
+being negotiated. Do you think it's too
+far to say that punting it suggests that
+Sachs and Witoff don't care that much
+about the concerns?
+&gt;&gt; No. No. I I mean, what I heard from some
+White House aids that were supportive of
+the deal was that not a single chip is
+going to be transferred until they are
+confident that the security protocols
+are rock solid. And that said, that did
+not satisfy the skeptics who wanted
+these security terms negotiated up
+front. And ultimately, Sachs won that
+fight. I just want to posit a theory
+though for a minute because what you're
+laying out here, it definitely sounds
+like the Trump administration eased up
+on a concern that the Biden
+administration had that even some people
+in the Trump administration also shared.
+And the concern could be that they eased
+up because Trump and Whit had a
+financial incentive to give the UAE what
+it wants. But could it also be true that
+David Sachs and others had a legitimate
+non-corrupt debate over the wisest chips
+policy? Like rather than keep these
+chips from China, they felt like the
+wiser thing to do was to make sure the
+entire world including China is reliant
+on American chips, on American
+technology, and needs to get it from us.
+The administration recently reversed
+course and said that it would give China
+some of these chips directly if I'm not
+mistaken. So I'm just sort of wondering
+how you're thinking about whether this
+is problematic or whether this reflects
+a change in attitude about sharing chips
+or whether some it's some combination or
+something else.
+&gt;&gt; I think ultimately it is a combination
+because there was definitely a clash of
+worldviews. There was the Sachs
+philosophy and also the philosophy of
+Nvidia and I spoke with executives there
+that they felt like really the United
+States is better off economically and
+also in its national security interest
+if the US tech stack becomes the global
+tech stack. And the way that you do that
+is you distribute your technology
+globally and the world relies upon it
+and you build up the strength of that
+tech stack and China is still not going
+to get ahead of us is their belief
+because we're holding on to most of the
+chips domestically. We're only sharing a
+relatively small number of them with
+UAE. That's the argument that they make.
+But this whole thing has become blurry
+and complicated because regardless of
+this substantive debate that they were
+having in the White House, there's $2
+billion that is going from UAE to the
+Trump and Witco family's business.
+&gt;&gt; It's hard not to wonder about the
+intentionality of that and the
+motivations,
+&gt;&gt; right? It's not normal for the president
+and his Middle East adviser to have a
+financial interest in matters that
+they're involved in. I mean, basically
+what the concern is, just to put it
+really bluntly, is like who is the
+president and the administration
+representing here? And how can we be
+confident the president's own interests
+and the interests of his close adviserss
+are not playing some kind of role in a
+deal that impacts America's economic
+security, national security, and many
+other facets of the country.
+&gt;&gt; That's right. And actually, I heard that
+from people within the Trump
+administration that they had that same
+question. And that's really kind of
+startling to me to hear that that comes
+from inside the walls that are involved
+in these deliberations that they
+wondered the same thing. And the
+consequences here are so enormous. I
+mean, we're talking about technology
+that is every day transforming the
+world. And the United States has such a
+dominant place in developing this
+technology. But to throw into that
+equation a $2 billion deal that's going
+to a company that's owned in part by the
+Middle East envoy and the family of the
+president, it's just like, how's that
+possible? I mean, at a minimum, it
+creates an appearance of a conflict of
+interest and an appearance of
+corruption.
+[Music]
+It's a blurring of lines that are going
+to lead to secondguing that is going to
+play out around the interactions with
+the Middle East. You know, a key party
+in so many decisions now about peace and
+war and financial matters. And I mean,
+all of these interactions are now being
+colored by financial connections to
+Trump and his administration.
+[Music]
+Eric, thank you so much.
+&gt;&gt; Thank you, Rachel, for having me.
+&gt;&gt; In a statement to the Times, the White
+House said that the $2 billion crypto
+deal was quote totally unrelated to any
+government business. Meanwhile, a
+spokesman for Shik Taknun insisted that
+his business dealings operate to the
+quote highest standards of integrity and
+governance.
+[Music]
+We'll be right back.
+Here's what else you need to know today.
+On Tuesday, President Trump gave a
+56-inute speech full of grievances
+against the United Nations to the United
+Nations. They ranged from a
+malfunctioning escalator at the UN
+building to not winning a renovation
+contract, even questioning whether the
+United Nations should even exist.
+&gt;&gt; What is the purpose of the United
+Nations? The UN
+&gt;&gt; The speech went nearly four times longer
+than Trump's allotted time limit during
+which he lectured the UN and other
+nations about how they were failing.
+your countries are going to hell.
+&gt;&gt; And
+in an emotional return to the airwaves,
+Jimmy Kimmel broke his silence Tuesday
+night in an opening monologue that was
+at turns defiant, joking, and somber,
+addressing the controversy over his
+remarks on the assassination of Charlie
+Kirk that temporarily sidelined Kimmel's
+show and ignited a national debate about
+free speech.
+&gt;&gt; This show is not important. What is
+important is that we get to live in a
+country that allows us to have a show
+like this.
+&gt;&gt; Tearing up, he also praised Erica Kirk,
+Charlie Kirk's widow, who said on Sunday
+that she forgave the person accused of
+murdering her husband. Kimmel said that
+it touched him deeply.
+&gt;&gt; And if there's anything we should take
+from this tragedy to carry forward, I
+hope it can be that uh and not this.
+&gt;&gt; In a truth social post, President Trump
+threatened ABC with legal action over
+Kimmel's return.
+Today's episode was produced by Shannon
+Lynn with help from Jessica Chung. It
+was edited by Rachel Quester with help
+from Paige Cowitt. Contains original
+music by Pat McCusker, Marian Lozano,
+Rowan Nisto, and Alicia Beup. And was
+engineered by Alyssa Moxley. Special
+thanks to David Yafi Bellamy.
+[Music]
+That's it for the daily. I'm Rachel
+Abrams. See you tomorrow.
+[Music]

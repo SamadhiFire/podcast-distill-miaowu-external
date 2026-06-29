@@ -1,0 +1,287 @@
+Kind: captions
+Language: en
+Here
+in this remote northwestern corner of
+China is a town at the center of the
+country's AI ambitions.
+&gt;&gt; We are going to uh go there to see how
+is the construction going and basically
+get a better understanding of how these
+data centers fit in with the overall
+strategy for China to build its AI
+capabilities.
+&gt;&gt; The Shinjang region is sensitive.
+China's been accused of human rights
+abuses against its ethnic Weaguer
+population. Foreign journalists who go
+here are monitored. There seems to be a
+white car following us. Not sure what it
+is.
+&gt;&gt; This barren area is becoming central to
+China's push for AI supremacy over the
+US.
+A Bloomberg News investigation has
+revealed these data centers aim to
+install more than 115,000
+high-end USD designed chips. Chips which
+are supposed to be banned from entering
+China. I found that there's one local
+government in Shing Jang which approved
+more than 30 investment project late
+last year and these investment project
+all Intel using high-end chips from
+Nvidia.
+&gt;&gt; These are chips that China has not been
+able to access for multiple years. The
+documents contain no explanation of how
+they would get the chips. You can only
+legally send those chips to China with a
+US government license. So, are these
+companies bluffing? Or can Chinese data
+centers readily get their hands on the
+world's most restricted semiconductors?
+If this development goes as planned and
+they are filled with these kinds of
+chips, it just goes to show how
+difficult or really impossible it is to
+stop Chinese companies, government
+entities from buying these things.
+In order to uh investigate what was
+happening, my colleague James Major and
+myself, we decided to fly out to Shing
+Jang. And where we were going was a
+little bit uh more to the north. The Wu
+County, which is the epicenter of the
+data centers, is another two-hour drive.
+&gt;&gt; Billions of dollars in data centers are
+being built in this remote area. This is
+key infrastructure in China's push to
+become a global leader in AI by 2030.
+For the last decade, Beijing's invested
+heavily in high-tech industries, and
+some are starting to pay off. Chinese AI
+startup Deep Seek has rocked global
+technology stocks, really raising
+questions over America's tech dominance.
+&gt;&gt; For the first time, a Bloomberg
+investigation has exposed the scale of
+China's AI buildout in the Northwestern
+desert and the potential role of banned
+US chips.
+&gt;&gt; Based on my data analysis and data
+sourcing, I found that China is building
+huge data centers in Shing Jang. The
+data center will use Nvidia servers and
+chips.
+&gt;&gt; Project approval documents show local
+governments in Shing Jang and in
+neighboring Ting High have green lit a
+total of 39 data centers that intend to
+use more than 115,000
+banned Nvidia processors.
+Nvidia H100 and H200 chips are the
+industrial standard for training large
+language models. A US ban was supposed
+to keep them out of China, but
+Bloomberg's been unable to verify
+whether the data centers actually have
+access to these chips. It's possible the
+companies are making claims they can't
+deliver.
+&gt;&gt; Chinese companies sometimes have a
+pattern of pursuing the start of
+infrastructure projects that are not
+ultimately completed. But you also have
+to take seriously that these documents
+say that they want to do this and that
+the construction is happening in a
+region that has a lot of the other
+resources and infrastructure necessary
+to support an AI data center buildout.
+&gt;&gt; Initially, the data centers were happy
+to invite us in to see their server
+rooms, but the invitation was quickly
+revoked. We originally agreed with one
+of the companies that they would speak
+to us and they would even allow us to go
+inside the the construction site to see
+how it's progressing, but at the last
+minute that visit was cancelled. Without
+getting inside the data centers and
+seeing their hardware, it's difficult to
+know for sure whether they have the
+chips they claim. The US has effectively
+banned those chips from export to China
+since 2022. They can do this because the
+most advanced chips are designed in the
+US and controlled by US law.
+&gt;&gt; The restrictions are really on advanced
+semiconductors that could have um
+potential military applications and the
+goal is really to sort of choke uh
+China's AI sector and and its broader AI
+ambitions.
+&gt;&gt; The US wants to maintain its
+technological edge and keeping advanced
+chips out of China is critical to
+achieving that. America is the country
+that started the AI race. And as
+president of the United States, I'm here
+today to declare that America is going
+to win it. But despite the tough talk,
+the White House has loosened some
+restrictions.
+In July, it announced it would allow an
+inferior chip called the H20 to be
+exported to China. Not to be confused
+with the H100 and H200, this chip is
+good enough to be competitive, but
+inferior enough to keep China a
+generation behind in chip design.
+These data centers challenge US policy
+because they claim to be able to get
+over 115,000
+of the most restricted chips. But can
+they? I talked to more than a dozen
+people who are familiar with US
+government investigations into this
+issue over the past handful of years and
+my question to them was are you aware of
+a smuggling network that is capable of
+procuring over a 100,000 banned Nvidia
+chips into China and all of them said
+no. Meanwhile, Nvidia say there's no
+evidence their advanced chips are being
+smuggled into China and argue even if
+they were, it wouldn't work because
+keeping the chips running requires
+Nvidia's technical support, which
+they're not offering.
+&gt;&gt; The question is, are the Chinese
+companies capable of procuring these
+models on a grand enough scale to
+fulfill these ambitions that are crucial
+to Beijing's AI agenda? Bloomberg News
+has not found evidence that China has
+amassed or can amass such large numbers
+of banned Nvidia chips. Yet in EW, the
+construction goes on. If these data
+centers actually are going to be
+completed and can get the amount of
+chips they specified in the investment
+plans, then it proved that US
+governments so far has not been able to
+stop China developing their high-tech
+and especially AI industry from the
+supply side.
+This is the Nvidia H100 Hopper GPU. Long
+the most sought after chip in the world.
+This small square has 80 billion
+transistors inside and is designed for
+machine learning. It's critical hardware
+if you want to develop AI tools. And it
+was banned from export to China by US
+authorities before it was even launched
+in 2022.
+&gt;&gt; The way US officials describe this is a
+small yard high fence. So their aim is
+really to not disrupt the entire
+semiconductor ecosystem and the entire
+semiconductor industry, but really focus
+on choking off a sort of advanced
+semiconductors that could be used for AI
+applications from getting into China.
+China's created a colossal $ 48 billion
+semiconductor investment fund to build
+up its chip manufacturing. But despite
+the money, it still can't match other
+manufacturers.
+The precision required is so advanced.
+It's it's kind of like landing on the
+moon, I would say. And I don't think
+that's an overstatement at all. It
+requires, you know, the use of uh very
+specific lasers through sort of a web of
+mirrors. Um and the technology is really
+mindboggling. It's very very difficult
+to do. You know, even if China is trying
+very hard, they're still multiple
+generations behind. So I think that
+really creates obviously a very high in
+demand product. This Bloomberg
+investigation shows despite the advances
+in Chinese semiconductor manufacturing
+by the likes of Huawei, Chinese firms
+still aspire to buy massive volumes of
+banned Nvidia chips.
+&gt;&gt; One Nvidia's H100 chips can achieve
+maybe three to four times more of the
+computing power from the local design
+chips. So that's how Nvidia chips has
+been sought after in China.
+&gt;&gt; By Huawei's own account and that of
+several US government officials, the
+best Chinese chip, the Huawei Ascend
+series, is still at least a generation
+behind.
+&gt;&gt; China's chip manufacturing is still
+playing catchup. When or even if China
+can equal the US is a hotly contested
+issue. But in spite of the technical
+hurdles, China's AI models are beating
+expectations. Deepseek upended the
+perception of Chinese AI overnight. The
+company claimed it had used lower
+efficiency chips, ones that were legal
+to sell to China for almost a year to
+train its large language model, but not
+everyone's so sure.
+&gt;&gt; Washington suspects that they may have
+had access to H100s, and Deep Seek has
+also expressed interest in these
+facilities that theoretically would
+contain H100s. They don't need them.
+They obviously want them.
+&gt;&gt; An employee of one of the large
+investors in the EW site told Bloomberg
+Deepseek has already expressed interest
+in cooperating. Bloomberg reached out to
+Deepseek for comment, but they did not
+respond. China's technology ambitions
+might begin at home, but they spread
+around the world.
+&gt;&gt; China really wants to lead the world
+here. Uh not just, you know, close the
+development gap with the US, but be a
+leader. They really want the rest of the
+world and especially the global south
+and emerging markets to really be
+relying on Chinese AI technology and
+using Chinese AI products and relying on
+their AI infrastructure.
+&gt;&gt; But China's strategic rival across the
+Pacific is also investing colossal sums
+in AI. Nvidia alone has promised half a
+trillion dollars of investment in US
+chip manufacturing.
+So how do these desert data centers
+compare? Can China really match up
+against the US?
+&gt;&gt; For comparison, we have 115,000 some
+chips across these two complexes in the
+Chinese desert. the first data center
+for Stargate, which is this Trumpbacked
+OpenAI endeavor with a bunch of other
+American companies to build a whole
+bunch of data centers on American soil,
+would involve 400,000 of Nvidia's best
+chips, the generation ahead of the
+models that the Chinese companies are
+seeking.
+&gt;&gt; But these sites represent just the tip
+of China's data center iceberg. Sites
+like this are being built across the
+country. Deep Seek took the world by
+surprise, and China's hoping it can do
+it again.
+[Music]

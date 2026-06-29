@@ -1,0 +1,1222 @@
+Kind: captions
+Language: en
+In the past, I would be like the minute
+I had something that kind of like loaded
+on your browser, like I wanted to charge
+you, you know? It's like a dollar. I was
+like, "Yes, I got a dollar." This time,
+I'm like, "I don't want your money."
+It's like, I want to know that you're
+obsessed and that is so sticky and I'm
+going to do everything at your company.
+There's so many founders that they think
+that they just because they built
+something that they got it right. People
+are delusional. People have $50 million
+in revenue and they're delusional that
+that product works. You know, this time
+around, I really want to do it right. I
+want to build something that people like
+like throwing money at me and saying
+like this is really there's nothing like
+it. This is this is my journey now.
+[Music]
+We're really excited to share today's
+episode of Training Data with you. Today
+we have Alias Torres, someone we've
+known for more than a decade across
+three companies. We first met Alias when
+he was busy rebuilding the core platform
+for HubSpot many, many years ago. After
+that, we got into business with him with
+Drift, which was his second startup. And
+then more recently, we got into business
+with Elias on agency, his third startup.
+Agency is in the midst of redefining
+customer experience. And so today, we'll
+hear a bit about what that means and
+also how to build a company in a world
+of AI. We hope you enjoy.
+Alias, welcome to the show.
+&gt;&gt; Thank you. I've been waiting this for
+this moment my whole life.
+&gt;&gt; I know you have. I know you have. uh you
+know we had we had this wonderful script
+all planned and then over the last few
+minutes we got into some real hot takes.
+Why don't we just start with the hot
+takes? Tell us what's going on in the
+world of AI.
+&gt;&gt; I think that um everybody's asking for
+AI. Everybody says they want it and when
+you come and bring it to them, they just
+reject it. You know, it's like the
+messiah has arrived and everybody's like
+no, we don't want it. And I I think it's
+um it's a super interesting time, right?
+because we have the best technology uh
+mankind has ever created. Uh it is so
+intelligent, it is so smart, it's so
+capable, but yet uh people are like
+demanding this level of perfection
+&gt;&gt; uh when they're not even able to like
+use a chat prompt to ask like a basic
+question, right?
+&gt;&gt; And so I think that we are completely
+misunderstanding the technology and its
+capabilities.
+&gt;&gt; So it's an expectation mismatch, not not
+necessarily a technological flaw. Well,
+I think I think in in some ways um we're
+used to preAI technology, right? That it
+was able to look up a a string from a
+database and it was a perfect lookup and
+a perfect match. And so I think they're
+used to that
+&gt;&gt; level of perfection. And so when you
+bring any possibility of of um a
+different answer or a different
+solution,
+&gt;&gt; I think people are struggling with that
+imperfection.
+&gt;&gt; So we're used to narrow functionality,
+perfect accuracy. All of a sudden, we
+have broad functionality, imperfect
+accuracy, and people are having a hard
+time with that transition.
+&gt;&gt; Yeah. I I think I see a lot of customers
+being like half full, you know, half
+empty.
+&gt;&gt; Yeah.
+&gt;&gt; I my approach to to AI is like if it's
+doing 10% more than I wasn't doing
+before, if it's doing 20%, 30%, I'm
+extremely happy. Like I I don't have to
+do that. It saved me time.
+&gt;&gt; But other people, if it's like if it's
+not 100% perfect, I rather have none.
+&gt;&gt; Yeah. And and I think that's a very
+dangerous take for people to take.
+&gt;&gt; And and actually the example that comes
+to mind is one that you've shared with
+us before which is around how you manage
+your own email.
+&gt;&gt; Correct.
+&gt;&gt; Do you care to share that example?
+&gt;&gt; Which one? The one that I u So let me
+see if I if I get this one right. So it
+was agency right? Agency can like read
+all my email and uh creates drafts and
+automatically like I can reply to
+everybody. So, usually what I'm doing is
+when I'm demoing the product, I let I'm
+like I open my entire inbox to the
+customers right now. It's so it's like I
+I really not to worry about it yet, I
+guess. But, uh I'm like, "Oh, I just had
+this meeting with this customer and we
+had this thing and I'm going to send
+this followup and I just I just hit the
+send button, you know, and is this the
+is this the example?" Yeah, because we
+were we were talking about um how like
+the email deluge is just untenable at
+this point and like people spend hours
+and hours a day managing their email or
+at least a lot of people do and like the
+AI product that I would love to pay for
+is one that can just take care of my
+email. We were having this conversation.
+You're like
+&gt;&gt; I don't spend any time managing my
+email. I actually just let agency do it
+for me.
+&gt;&gt; Absolutely.
+&gt;&gt; Which is not the point of agency, but
+it's one of the things agency can do.
+&gt;&gt; Yeah. And I think that's a that's a
+that's a great example. I think that
+narrows it, right? is that we generate
+these emails for customers and
+follow-ups. And the thing is that if
+you're managing, if you're trying to
+manage, you know, 500, you know,
+pipeline and you're trying to
+communicate to everybody, what's best
+that you deliver two perfect emails or
+that you send something to all 500
+prospects, right?
+&gt;&gt; Because they individually don't know how
+much time you're spending on it, but
+just that just say ping and like send
+that email, right, to follow up. And so
+what happens is with with my customers,
+right, is like I'm sending this messages
+and I kind of like almost don't I look
+at it I might cringe sometimes but I
+send it because partly is this I don't
+know stage of my life maybe because I'm
+old. I'm like I already know that I'm
+never going to say anything perfect. So
+if it goes out it goes out and like as
+long as I you know it's it's going to be
+fine. But the problem is I see customers
+I watch them on on recordings, right, of
+using the product for from a user
+experience perspective and I'm like,
+"Wow, this person just spent 20 minutes
+and they really didn't edit the email."
+Sometimes they're just changing the
+salutation or like they didn't like how
+it was too aggressive to say, "Here's my
+calendar link." And they were like, "And
+let me know times." And then they're
+like 20 minutes later and the email gets
+sent. And so I think that that's
+fundamentally
+why businesses can't scale today because
+there's humans in the middle, you know,
+to to add so much delay and and and
+obstacles and slowdowns in in the in the
+pursuit of delivering a customer
+experience, you know.
+&gt;&gt; So you're saying people are scared to
+let AI take the wheel and they should
+just let AI take the wheel? I
+&gt;&gt; I think so. I think we need to choose
+what really matters, you know, like kind
+of oneway doors, two-way doors. We need
+to say like is is this going to like we
+need to also have a little bit more
+leniency and forgiveness like if if an
+email goes out you know that didn't say
+exactly the right thing or hallucinated
+I think we all should be a little bit
+more forgiving and be like it's okay
+don't worry and and remove that fear
+from people. I think we both sides the
+sending and the receiving needs to be a
+little bit more um more chill.
+&gt;&gt; Yeah.
+&gt;&gt; I'm going to use that excuse next time I
+say some crazy [&nbsp;__&nbsp;] that picks off that.
+Sorry, it's the AI.
+&gt;&gt; But isn't that what we do normally?
+&gt;&gt; Yeah. We say crazy [&nbsp;__&nbsp;] and then it's
+like like the guy that stole the hat
+from the kid, you know, at at the US
+Open. Yes, exactly.
+&gt;&gt; First says some crazy [&nbsp;__&nbsp;] then he says
+some other crazy [&nbsp;__&nbsp;] It's a he could
+just throw an AI, too. Might as well,
+you know.
+&gt;&gt; Hold on. We might be sued by him right
+now.
+&gt;&gt; You didn't specify which guy, so I think
+we're good. Um, normally on on Trading
+Data, we don't really get into personal
+stories, but I actually think your
+personal story is pretty exceptional and
+pretty unique and so could you maybe
+just say a couple words about how your
+childhood shaped the sort of
+entrepreneur that you have become?
+&gt;&gt; Yeah, absolutely. I think that I am an
+engineer judge just for the sake of it.
+I've written code before, but let's talk
+about uh let's talk about the personal
+stuff. Absolutely. I think uh I grew up
+in um in Nicarawa in I would say what we
+call a communist era right so very
+little third world country you know I I
+I still have a shock I go into people's
+homes not that I go without like I do
+like they invite me you know just make
+sure I get confused we're not breaking
+in I get conf we're not breaking in here
+but uh then um I go in and like I open
+the fridge and it's just like just full
+of food Americans just like boxes and
+boxes and snacks and and more. Every
+every drawer you open if you came to my
+house in Nicaragua,
+everything was empty. Like the only
+things that would be in there is like a
+few pots and pans. Like I literally
+remember this as a kid be like there's
+absolutely nothing to eat. There would
+be like, you know, just the food that
+you were going to make for that meal
+kind of thing. It's like it's like just
+in time, you know, and so that's just
+it's a lot of scarcity, right? And so
+you grow up with um you know remember
+telling my mother we'd be like I would
+ask for things and one time my mom said
+something like I would give you anything
+I have anything I could if I'm not
+giving it to you because I can't. So and
+so I learned to ask like mom if you can
+buy me this gift you know if you can't
+buy me this. So it's just like a
+completely different um uh world than
+the world that we live in in a first
+world country um America you know
+greatest country in the world you know
+it's so then uh but then it's like uh
+and then how we're living today right
+and a lot of people are like at least
+the world that I'm living in today is
+just like the extreme opposite of that.
+&gt;&gt; Yeah. What was your first job
+&gt;&gt; pre IBM? I mean, your actual first job
+that you got paid any sort of money for
+for doing any sort of work?
+&gt;&gt; I think there's a competition. The one
+that sounds better is the one I was like
+cleaning the offices with my mother. Uh,
+but at this we did both. I was working
+at McDonald's and cleaning offices when
+we first came to this country that that
+I got paid. I was 17 years old.
+&gt;&gt; And I remember you told me your mom had
+a laptop and you became tech support and
+this is how you got introduced to
+technology. that that was uh that was
+pre- United States. So, well, I I I came
+I spent two years with my father. I
+didn't grow up with my dad and uh he
+bought this like computer. I don't know.
+It's like, you know, people would bring
+him stuff that I don't know where it
+came from. Uh yeah, it was stolen. And
+so, he would buy stuff and um and he
+would just bring it home. And so, the
+thing that caught my attention, I have a
+half brother and and he just loved
+fixing cars. And then my dad brought
+this computer and my my half brother did
+not look at it. I don't know if it was a
+drawn by it or drawn the fact that my
+brother wasn't using it and I just
+started using word perk and and like
+Lotus 123 in the 80s. I was like in
+sixth, seventh grade. I did junior high
+in LA. Uh and uh I just love like like
+typing on that thing and trying to get
+the printer to work. No internet, no
+communication, no user group. I just me
+in the garage is just trying to figure
+this thing out.
+&gt;&gt; Yeah. And then when I went back to
+Nicaragua, my mother had a laptop. I
+show up in Nicaragua in the 80s and my
+mom has a laptop. She's she's a um a
+professor. She's a you know, PhD, a
+veterinarian at the university. And she
+has a laptop. And I'm just like, why do
+you have a lap? This is Nicaragua. And
+and so I started helping her and being
+like her tech support at the university.
+&gt;&gt; Mostly I just broke the computer and
+then I would take it to it to get it
+fixed.
+And then your first job
+kind of post university was IBM. Is that
+right?
+&gt;&gt; Absolutely. Yeah.
+&gt;&gt; And um we don't need to talk about IBM
+necessarily, but tell me about the
+moment that you met David Canel.
+&gt;&gt; Yeah. I I think I I I worked at IBM with
+an amazing group of people. I I'll say
+that my first 1999, my first project at
+IBM, I was building a chatbot that you
+could look up look up people's phone
+numbers. uh this called like blue pages
+like instead of yellow pages at IBM
+and I learned so much. I built so much.
+It was an amazing thing but I just got
+fed up. 400,000 people, you cannot make
+a huge impact in that company. It's just
+too political. Uh I imagine me and the
+400,000 person organization. And so I
+just kept trying to uh I kept making
+connections in Boston and the tech in
+the tech scene. It took me a long time.
+Then I finally met David and um first I
+never seen another another Hispanic
+Latino in tech, you know, I was like,
+"Okay, like I liked him. I I felt like I
+trusted him more to join his startup
+because a lot of people were asking me
+to join their startups and I did not
+know how to choose one. I chose him
+because I just felt comfortable, you
+know, I felt that he he understood me
+and that I could trust him. And um and
+the first thing he did is like he
+offered me to take over his prior job at
+some other company. And I was like
+uh what what do you mean just be VP of
+engineering at your company? But in the
+end, I really decided to join him uh in
+the in the in this company called
+Lookery. It was my first tech startup
+because I needed to try something
+outside of uh of IBM.
+&gt;&gt; Yeah. What was it like going from
+400,000 people to 40 people or whatever?
+&gt;&gt; No, it was like 10.
+&gt;&gt; There you go.
+&gt;&gt; Uh I was working I had a desk and I
+lived in Lowel, Massachusetts. I had a
+desk in my bedroom. So I would get up
+and sit down and I would just work 24/7.
+like it was like that that that stage of
+my life was like three babies in diapers
+uh working 24/7
+uh just it was so exhausting like
+literally I was like the main engineer
+in the company and I had to build
+everything so I went from building stuff
+that nobody care nobody used at IBM and
+they're like to like I was the sole
+person responsible uh but it was it was
+the best not I have many best times.
+Sorry. It was the it was when I started
+using AWS.
+&gt;&gt; Ah,
+&gt;&gt; and I started using the cloud and it was
+mindboggling from like ordering and
+buying blade servers and requesting
+stuff through IBM, you know, procurement
+systems to do anything to like pushing a
+button S3 and ECS uh EC2 and it was like
+I was just blown away that I could be
+this one person orchestrating and
+building everything without needing
+anybody.
+&gt;&gt; Yeah. So that was a huge unlock.
+&gt;&gt; And then you guys started Performable.
+So that was your first company that you
+founded. Agency is your third company
+that you founded. Um you guys started
+Performable and after a few years joined
+HubSpot, which is where we intersected.
+&gt;&gt; Yeah.
+&gt;&gt; And for people's benefit, um and I think
+Brian and Dash would agree with this
+characterization. HubSpot in the early
+days had an amazing story and like an
+okay product. And then you and David
+joined with your team from performable.
+And originally the mandate was to build
+out a particular piece of the product,
+but then you ended up with
+responsibility for the whole thing and
+rebuilt it from scratch and sort of the
+second phase of HubSpot thanks to you
+guys was great story, great product. Can
+you say a couple words about what it was
+like joining HubSpot and then sort of
+how over the time you were there you you
+managed not only to scale with the
+organization but to kind of like
+reinvent it in some ways.
+&gt;&gt; To me professionally it was a big
+breakout moment. you know, you go from
+from tinkering with computers and we're
+perfect and or like launching a few EC2
+instances and and building a few web
+apps to to really having to support
+5,000 customers. I went from like 20
+customers at performable to like 5,000
+customers immediately.
+And that was a shocker to me because
+one, what I care more about is customer
+experience, right? My customers at
+Performable would text me and they would
+say this is broken. And I would open my
+computer, edit the code and say reload.
+When you have 5,000 customers, you can't
+do that. So I had to learn how to scale
+in every sense of the word, right? We
+had we had a huge urgency. We had major
+major churn. Uh the product did not work
+at all. Uh and the team did not function
+either. So we had to like rebuild the
+team, rebuild the product and rebuild
+the trust with the customers, right?
+That this product was going to actually
+achieve, you know, uh what what it was
+going to do and I also had to learn how
+to scale myself as a leader and the most
+important thing I would say that I
+learned there was like hiring at scale.
+&gt;&gt; I was going to ask you about that
+actually because you I believe you hired
+Andrew Bleki.
+&gt;&gt; Yeah.
+&gt;&gt; Um before he started Clavio. I believe
+you hired Christopher O'Donnell. Yeah.
+you know, before he went on to build
+HubSpot CRM and and start a company of
+his own. I believe he had a handful of
+really exceptional hires. And it's not
+obvious that a midstage marketing
+software company in Boston would be able
+to attract such great people. And so I'm
+curious like what were you looking for
+in people that you hired? And then maybe
+what did you do to help them sort of
+have such growth in their careers?
+I think I think so many people are
+exceptional and it's a combination of
+giving them a chance and also role
+modeling after them. Uh what what
+becoming an outlier really really means
+and so I I I would say like
+am I as successful as I am because of
+who I was so early or is because a lot
+of people also shaped me along the way
+to teach me what was possible, right?
+and and made me want to go after and
+accomplish those same things like just
+like Brian and Dsh for example, right?
+Yeah.
+&gt;&gt; And so I think all these people uh
+there's so many people there's there's
+Whitney, there's Jared, current EVP at
+HubSpot that is still there running the
+the entire system.
+&gt;&gt; I forgot about Whitney. Yeah, good
+point.
+&gt;&gt; There there's a few more, right?
+Amazing. Not that I'm like keeping track
+of them, but
+it just it just makes me really proud
+like to have people that I've been able
+to influence their lives and their
+careers, right? Uh, but it was it was
+really um they were at the places where
+I was. I was at a garage just tinkering
+with Word Perfect. They were doing, you
+know, the crappiest jobs that you could
+possibly think of.
+&gt;&gt; Yeah.
+&gt;&gt; And so my my thing is I give people a a
+shot, right? And I can, you know, test
+their intelligence from the
+conversation, see if they can keep up,
+see if they have um u hunger, they have
+grit, and then just bringing them along
+for the ride. And then they get to
+choose the path that they they take
+after. Right. Yeah. And so I think that
+I just I don't hire for credentials. I
+don't hire for where you came from, what
+you said you did. And I actually like if
+you have all that stuff, I'm kind of
+like rule you out immediately.
+&gt;&gt; Suspicious.
+&gt;&gt; It's just it's sus. Totally sus.
+&gt;&gt; Yeah.
+&gt;&gt; Let's talk about Drift real quick just
+because. So startup number one,
+Performable. Startup number two, Drift,
+which again was you and and David Canel.
+And I know that your experience at Drift
+helped to shape the idea for agency. So,
+can you just say a word about what was
+Drift and what aspects of Drift kind of
+gave you the insight for agency, which
+you're building now?
+&gt;&gt; I mean, I think that um uh the thing
+that we learned at HubSpot was time to
+value, right? It's like how long does it
+take for the customer to experience the
+value in the product that you're
+building for them and and at HubSpot it
+takes a long time. You have to build
+blogs, you have to build ranking in in
+SEO and Google and you have to get leads
+and you have to become a brand. So it's
+you're being you're you're coaching the
+customer from day one to like
+you know like we're in here for a
+journey and and and at a low price which
+is an unbelievable achievement for Hepot
+to be at the revenue that it is today
+right at the scale. But I would say that
+uh at Drift we were kind of like
+something I always kept thinking with
+David and we were like how can we get
+time to value and so we we were patient
+in the beginning. We spent about two
+years wandering through the desert
+trying to figure out like what should we
+work on? That was
+&gt;&gt; Yeah, I remember it began as HR
+software.
+&gt;&gt; Oh my god. Yeah, let's not talk about
+that.
+God, there's a bad joke in there. So, we
+were we were trying to do like glass
+door. It was like a secret uh app at
+that time. Remember secret? Uh people
+could say like secretly like anonymously
+what's going on at their company. Yeah,
+&gt;&gt; cuz we were using we were obsessed with
+team dynamics and culture at HubSpot.
+&gt;&gt; But then we we kept pivoting and
+pivoting like we would pivot like every
+month. Every time Pat would stop by in
+Boston to see us like so what are you
+guys working on? Oh, a new Dropbox. It's
+like what are you doing now? A new
+Pinterest. What about now? Survey
+Monkey. It's it's like literally every
+month I would just tell the team that
+was not a good idea. We're going to try
+another one. So one, we spent two years
+being super patient and finding
+something we want. And the thing that I
+realized is like you got to go back to
+what you know. You experience compounds
+and you got to just like stick with it.
+And so we we we went on a huge diversion
+and then came back to like closer and
+closer and closer to the app, to
+service, to customer, and and we were
+like where we were next door to HubSpot.
+So we were not going to do marketing and
+we were not gonna I was not gonna build
+another CRM. And they was like no. And
+so we started focusing in from support
+then we went in app and then we went
+back to leads and and the idea was to if
+you could deploy this that can
+immediately start getting you more leads
+without any human effort. That was a
+scaling point, right? And automation,
+right? So we we had a chatbot that would
+be the the receptionist the the welcome
+uh reception at at your on your
+homepage. Instead of asking you to fill
+out a form, it could ask you questions.
+you can inform you, deliver you some
+value, book a calendar meeting, uh route
+it to the right rep and and send a
+notification to the cell phone of the of
+the rep and just make connections faster
+and and remove the friction and and that
+was fantastic, right? That worked,
+right? I think that that helped us take
+off. We did many things right, but the
+reality uh this product was shallow,
+right? in that it wasn't too deeply
+penetrated because it was only solving
+one basic step in the customer journey.
+It only did like the first connection.
+&gt;&gt; Yeah.
+&gt;&gt; But the problem that aroused then after
+is like everybody would be like, well, I
+came back to the website. Why doesn't it
+recognize? What does it pick up where it
+left off? I already had this
+conversation. I already explained this.
+How come when I'm inside the app, it
+doesn't know, you know, what I said
+before, my support tickets and my
+whatever, right? And so there was this
+&gt;&gt; this dream I had of like how could we
+always know everything about the
+customer and how could we always apply
+that information
+&gt;&gt; in every exchange that we have should we
+should know our customer, right? And so
+it was a pain that we didn't have the
+technology to be able to deliver that.
+&gt;&gt; Y
+&gt;&gt; and so uh I think that was one struggle.
+The other struggle I would say was that
+we
+we built quickly, we built brand, we
+build product, we have amazing speed to
+market. Uh
+but then we didn't have the ability to
+scale like the you know here we always
+think like well just just hire more
+bodies and and just raise more money.
+Don't worry about spending and just like
+it it'll resolve itself out. we can
+always scale it later and and I think
+that that's fundamentally flawed and I
+don't know if people still get that to
+tell you the truth
+&gt;&gt; in the in this age of AI. I think that
+is the whole point
+&gt;&gt; uh of AI is to prove that out but other
+people are like just hire we'll worry
+about it later. And I think that that
+was my biggest lesson at Drift that I
+always like talking to my customers. I
+always like
+to text me, call me. I just I'm an
+extrovert and I I just thrive on that uh
+on relationships and um when we got to
+the point when we started having
+thousands and thousands of customers at
+Drift, I just could no longer talk to
+them, right? I could no longer know
+them. And and usually when when a CSM
+calls you because it's a churn of
+somebody that I might have emailed once
+commonly hasn't saved this churn,
+it's just too late.
+&gt;&gt; Yeah,
+&gt;&gt; you can't do that. I mean, I might have
+a success rate of like 20% if I promise
+them the world and I'm going to be there
+for you. That's shallow. That's that's
+hypocritical. That's that's not the
+truth, you know. And so I I felt that
+pain uh intimately of
+what happens when you scale and what
+happens when you have 800 people 600 I
+keep track you know and it's just like
+uh you spend more time managing the
+people their promotions their growth
+their on boarding their recruiting their
+entertainment the town halls and I think
+that just consumed us and and realized
+that that took our eyes from the ball of
+the customer and the product. And I
+think that that's where we we we paid
+the price and not being able to build a
+a legendary company as we we dreamed to
+to build from the beginning.
+&gt;&gt; And and Drift, you know, Drift was
+ultimately still worth more than a
+billion dollars. And so, you know, your
+second first startup success, you know,
+joined HubSpot, second startup success
+of greater magnitude. And at that point,
+you know, you're you're kind of like a
+walking example of the American dream.
+You know, like you came to this country
+with nothing and through smarts and
+hustle and sheer force of will, you
+know, you built these amazing things and
+put your life in a totally different
+position for, you know, for you and your
+family. You could have ridden off into
+the sunset and just like called it a
+called it a career. Like why why do it
+all over again?
+&gt;&gt; Well, I did I did ride into the sunset.
+I I did that for like seven months. I
+think that people did, you know,
+traveled the world, did all this stuff,
+but it's a is it's extremely empty and
+boring, I would say. Uh, but I I was I
+was kite surfing in in in Tatoua,
+Jericho in Brazil, you know, with some
+friends.
+Majestic place. This is the first time
+I'm actually disconnecting. Like, this
+is my first trip after I leave drift.
+And I'm like, wow. I have no meetings. I
+have nothing to do. And I'm just like
+the whole morning we're just staring in
+this like cababana just looking at this
+ocean, empty beaches. It's a very remote
+area in in the north uh north east of
+Brazil and uh I'm like wow I need to
+learn how to meditate and how to just be
+one with nature. And in the afternoon we
+would go kite surfing and then chachi
+launches you know and I'm just like
+showing everybody and explain and I
+don't even know how to explain. It's
+like how does he know how to answer
+this? and and and and so the first day
+that I'm off really mentally is the day
+Chad GPT launches and I'm just like this
+is the greatest moment in in in in
+mankind and I'm just like [&nbsp;__&nbsp;] I got to
+go back in you know it's like I I feel
+like I worked all my life I always
+considered myself an imposttor uh not
+anymore you know that's we we've
+achieved that but the thing is like all
+my life I'm like I didn't go to this
+school I I didn't build in the valley
+I'm in Austin, this company fails. It's
+only, you know, this all this stuff. And
+I'm like, I didn't have enough because
+of this. I didn't have this network. I
+didn't know investors. I didn't know
+this. I didn't know English. And now I'm
+like, I I [&nbsp;__&nbsp;] know everything. It's
+like I know everybody. I know I built
+the systems enough to prove to millions
+of users and this and that and revenue,
+sales, and I'm not just going to sit
+here when all these people that don't
+know anything are like building AI
+startups. [&nbsp;__&nbsp;] no. I'm just I'm jumping
+back in. You know, it's so like uh I I
+was like this is the moment. And I I
+will say the the the cheesy cringy
+answer to this is also as a Latino I
+feel an obligation.
+&gt;&gt; You know, it's like
+most people would die to be in the
+position that I that I am in right now.
+and to squander going back to that day
+in my house in Nicaragua with no food to
+squander resources and opportunity and
+just so like time earned, work earned,
+you know, to just sit around and just
+kite surf in Brazil, you know, or like
+surf in Fiji or I just think it's a
+waste. Like while I'm on this earth, I
+have to do something. And then going
+back to being a role model, people want
+to see what what someone that looks like
+you is capable of achieving. And and I'm
+like, I can't sit this this one out,
+right? And so that's when I like called
+you and I'm like, can I come to base
+camp? Can I get like reconnected, fired
+up with this stuff? I think I came to AI
+uh ascent
+and and and that's when the moment it
+was like, let's [&nbsp;__&nbsp;] go.
+&gt;&gt; Yeah.
+&gt;&gt; You know,
+&gt;&gt; yeah. Early 2023, I remember you came to
+AI Ascent and then you started talking
+with OpenAI.
+&gt;&gt; Yes.
+&gt;&gt; And one of the problems they were having
+was they had all these enterprises whose
+immediate thought was, can we deploy
+this thing in a customerf facing way?
+Kind of like the drift business in some
+ways. And so I remember you kind of jump
+back in on that and then evolve the idea
+into what agency has become, which is
+very different. And can you just say a
+word? We we kind of backed into this
+earlier. We were talking about the email
+stuff, but can you just say a word like
+what is agency and like what problem
+does it solve for customers? Why is that
+problem important? Can you just say a
+few words about that?
+&gt;&gt; Yeah, the the problem that everyone in
+the world has is that they struggle to
+deliver a great customer experience and
+the only way that they can solve that
+problem today is not with technology but
+is with humans. And so humanled
+deliver customer experience it's almost
+an impossible thing. And so what agency
+is building is AIled customer
+experience. How do we truly scale uh
+customer experience beyond our wildest
+imaginations without needing a human in
+every step of the way? Right? So that's
+that's what I'm really solving for. Um
+and I it kind of like came through. I
+just I love life right in now that I'm
+older because you can trace back all the
+steps and so I gave you a whole bunch of
+them but um Brazil Chad GPT AI Ascent
+you introduced me to OpenAI OpenAI says
+we're just like 200 people we we do not
+know how to talk to all these customers
+we can't tell them how to like prompt
+stuff and would you help us there was a
+a jump there's a there's a cohort of
+companies that were like let's build
+services and AI and let's start there
+and so I kind of did that and build a
+consultancy uh and just started
+servicing all kinds of customers like
+the MBA, Red Bull, crazy companies. One
+of them was Glaio. Uh, you know, Andrew,
+I said, "What do you need help with?"
+And he's like, "I need help delivering
+customer experience." You know, it's
+like, "How do I help my customers
+understand
+um what the potential is of using Clear
+View? How do we give them advice?" Which
+is the job of a CSM, right? And so,
+like, how can a CSM know be an expert?
+Every CSM that you hire be an expert.
+the the number one in the world expert
+in clear view itself or in e-commerce
+marketing.
+&gt;&gt; So that's where AI comes in.
+&gt;&gt; And when he first asked me to do this, I
+said no [&nbsp;__&nbsp;] way. I don't I don't
+know if that that if I could do that and
+imagine like what would my company would
+be bigger than yours. He's like just do
+it. So he just, you know, rolls rolls
+reversed, right? And he's like go do it.
+Go do things. And so we we built a um a
+model that understood
+every customer and every one of their
+interactions and understand what was
+working, what was not working and be
+able to classify the entire usage of
+every user in the company and start
+being able to deliver tailor uh advice,
+right? And so and then the whole thing
+started clicking for me where was like
+what if I can just deliver the QBR? what
+if I can just like uh do you know create
+a video explaining that and saving time
+to the customer and and and so then I
+was like this is great like this is the
+moment where like this is what I want to
+solve and uh and I wasn't sure right
+that that that was going to be it and
+that literally that day like Brian
+Holligan sends me a text like you know
+he he had been uh sending me all these
+messages romancing me and then this that
+day is like I have an idea for you, you
+know, it's like let's disrupt the world,
+you know, let's let's disrupt the the
+this this entire industry and I'm like
+what are you talking about? It's like
+it's about the people we can't scale,
+you know, how do we solve this problem
+and in customer experience let's do it
+and uh then we called you and that's how
+agency was born. You know, it's it's
+just things just accelerate. you know,
+&gt;&gt; must have been a really cool full circle
+moment going from chat bots at IBM uh to
+to now chat is working and and going
+from, you know, you're only solving the
+transactional part of the conversation
+at Drift to now you want to, you know,
+manage the entire customer experience.
+It's incredible full circle of it.
+&gt;&gt; Yeah. I think that a lot of people are
+struggling. They're having an identity
+crisis with AI of like what should I do?
+What will I be replaced? And to me, I I
+think
+What I've learned, what I see a lot of a
+lot of founders struggle with is or
+people is like what's my purpose? Like
+what am I going to do and and what am I
+going to do that's going to last? So
+what am I going to do that is big? And
+so to me finding the problem of customer
+experience is so soothing and
+reassuring. It's like the hardest thing.
+I'm not saying it's easy, but I I I just
+can't think of how this will ever be
+solved.
+It's like whatever customer experience
+we could like most customer experience
+in the world sucks. Like I it's like I
+would say like the best I could think of
+maybe could be like a fancy hotel, you
+know, like sometimes. But I don't want
+to name my hotel that I stay here, but
+now if I ask them to send me some
+delivery or medicine or something,
+they're like that'll be $4, Mr. Torres.
+Like why am I paying thousands of
+dollars in this room and you're charging
+me $4 for delivering me like my Tylenol?
+It's like and then I got this food that
+you want I don't want to come down. It's
+like that'll be $7, you know, and so and
+this is like the great exper the
+greatest experience you can get today. I
+think in customer like that's where you
+get pampered.
+&gt;&gt; Yeah. Uh do you have any customers on
+agency today and any favorite customer
+stories
+&gt;&gt; here? Classic Sequoia is like what's the
+revenue? What's the curve?
+&gt;&gt; Let's talk about ARR.
+&gt;&gt; Let's talk about AR.
+&gt;&gt; We went through your growth rate. What's
+your gross margin?
+&gt;&gt; Yeah, what's your gross margin?
+Actually, we can talk about that. That
+this is a [&nbsp;__&nbsp;] show. I don't know how
+we're going to survive with this LLM
+cost. I think it's an entire pyramid
+scheme here.
+&gt;&gt; Well, actually say a word about that.
+Yeah.
+&gt;&gt; Yeah. I mean, I I think so we have over
+50 customers using the product, right?
+It's I I don't give a [&nbsp;__&nbsp;] about numbers
+and stuff like that. I'm building for
+them. I'm solving. I'm really delighted.
+I was trying to get more customers and
+Brian said, "Stick with the customers
+you have. Make them like so wildly
+successful." And I was like,
+&gt;&gt; you're right. I think I think that's
+important is that there there are more
+customers that you could go get, but
+you're focused right now on just making
+these 50 like deliriously happy with the
+product.
+&gt;&gt; That that's exactly where I am. Right.
+And so and so back to the cost stuff. So
+so we we've been working with them and
+and and I have a really
+it's hard going multiple times around
+because this time around in the past I
+would be like the minute I had something
+that kind of like loaded on your browser
+like I wanted to charge you, you know? I
+was like, "A dollar." I was like, "Yes,
+I got a dollar." This time I'm like, "I
+don't want your money." It's like, I
+want to know that you're obsessed and
+that is so sticky and I'm going to do
+everything at your company and I don't
+want to make my There's so many founders
+that they think that they just because
+they built something that they got it
+right. People are delusional. People
+have $50 million in revenue and they're
+delusional that that product works. You
+know, this time around, I really want to
+do it right. I want to build something
+that people like like throwing money at
+me and saying like this is really
+there's nothing like it. This is this is
+my journey now, right? So I want to
+build something real, right? That is not
+going to like just I I think most of SAS
+out there that we ever built that I ever
+built just created more work for the
+user. I want something that takes the
+work off, right? And so this I'm being
+more patient, right? And maybe it hurts
+me, maybe it doesn't, but I got great
+found great investors like Pat and he's
+not rushing me. So um sometimes but I
+would say that uh what what's really
+hard is
+uh I'm trying to understand my number
+one goal right is I want to create a
+company that is a billion in revenue
+with less than 100 employees right it
+was one of one of the first ones saying
+out there and and people were like
+you're crazy you're crazy uh and and I
+really mean it right mo most of my team
+is engineers right and we're just
+building the product because the where
+most of the money and where the
+headcount goes is in customer exper in
+in in GTM and customer experience.
+&gt;&gt; Yep.
+&gt;&gt; And so I want to solve that. I want to
+get that right so we can build the
+companies of the future.
+There's a there's a lot of lack of
+creativity and we're in the most
+creative company country in the world.
+But what I see out there in products is
+like everybody's building the same chat,
+you know, uh meeting recorder, the note
+summarizer and the email drafter. Right.
+Well, I remember when you started
+agency, one of the HubSpot, you know,
+um, principles or norms has always been
+when they zigg, we zag, right? And I
+think when you started agency, the zigg
+was all these AISDR companies.
+&gt;&gt; And your zag was no, no, we'll let them
+take the front end of the business.
+We're going to deal with the back end of
+the business because that's where the
+pain actually is and that's where the
+value is built. Um, and so I think
+you've you sort of zagged when people
+were zigging and I think over the last
+year or so that's proven to be a good
+decision. Um, but can you say a word
+about like what can AI do today? What
+can it not do today? And so in the
+product that you've built, where is AI
+like or the product itself really
+nailing it? And where do you feel like
+there is maybe still a capability gap in
+terms of what can be done?
+&gt;&gt; Well, I I think that if we're optimist
+AI is infinitely capable
+in the theoretical uh
+&gt;&gt; in the fullness of time
+&gt;&gt; in the fullness of time, right? But
+today it's actually not that smart. And
+so like you know it's like you have to
+write paragraphs and paragraphs to maybe
+get the right answer. 42. It's so you
+know if you type the wrong word or if
+you try it again it's just a different
+answer. And so that's the part that
+today's humans brains just can't cope
+with it. And so when you're trying to
+deliver experience to the customer
+you're trying to figure out uh what is
+it that you're exactly trying to do
+right? Are you trying to just come up
+with the better word to reply to the
+customer or you trying to let the AI
+actually do and manage the customer
+experience? And so I think where where
+we're struggling is that if we cannot
+even trust the AI to draft your own
+email that you're about to hit the
+button, how much worse is going to be
+for us to let the AI make decisions on
+10,000 customers on a daily basis on its
+own? Mhm. And
+&gt;&gt; so we built the first part of agency,
+which is what most people are trying to
+do today, which is this,
+you know, customer 360 foundational.
+Let's bring all that information into
+one place and be able to ask questions.
+But what most people are not realizing
+is that if you require a human to go
+type into that chat box,
+you're dead on arrival.
+&gt;&gt; Everybody's so confused and even in the
+valley of like building tools that are
+like just helping a human do something.
+I'm done with that. Like I I don't want
+to do that. I I It's like It bores me to
+death to type stuff into Chad GPT. I I
+like I'm a CEO now. Like I'm spoiled.
+I'm, you know, living my best life. I
+just want to tell people what to do one
+time and they do it 10,000 times. And so
+that's kind of what I really want, you
+know, AI to do for me.
+&gt;&gt; It's like how can we instruct AI to do
+one task infinitely?
+&gt;&gt; And and most people are stuck like
+people and don't get me started on the
+word agents, right? Everybody like talks
+about agents and and like okay send me a
+summary after my meeting to my email who
+gives a [&nbsp;__&nbsp;] like like I can always go
+ask that question but it's what do I do
+with it? So what I'm doing is I'm doing
+the very first principles in in the in
+in the companies that I'm working with
+because people just keep asking me oh
+can you generate me a dashboard about
+the customers and and then so what
+&gt;&gt; yeah what do you want to do with the
+dashboard? do with the dashboard and say
+and so, oh well, I want to click on this
+and then do this.
+Why can't I do that? And then what do
+you want me to do that? You want me to
+go after the renewals? You want me to go
+tell the rep? And then what are you
+going to tell the rep? Oh, I'm going to
+tell them to email the customer. Why
+can't I just email the customer? Right.
+And so that's the journey I'm in that
+I'm enjoying. But it's it's really hard.
+I have to deprogram the entire business
+world. Yeah.
+&gt;&gt; Because they're used to working and
+operating this way. And you know, I was
+Brian had his birthday. I was I was at
+his house. Uh I showed up with his
+glasses and then he was like in shock.
+He said then he's never seen them
+before. And said then it was um one of
+one of his old friends because Brian is
+old. I'm old. I can say I'm I can say
+anything I want now. I'm old too.
+one of his old retired VCs. It's like
+came like to me like an oracle and he
+was saying, "Alias, my advice to you,
+forget everything you've ever learned.
+Forget the pattern recognition. Forget
+your experience. Forget all that. That's
+[&nbsp;__&nbsp;]
+Just got to like try new things." And
+he's like telling me to let go and not
+like rely on the past because sometimes
+like experienced founders, we get stuck
+in that way. And it was like this
+deprogramming right to just charge into
+the future. And and that's my challenge
+of like how do I become uh a change
+agent to our customers to really believe
+in in in stop worrying about the things
+that we were doing before and focus on
+the right thing that they can do and
+they can have that one-on-one with their
+customer with the top customer. But a
+lot of stuff that we're doing is really
+unnecessary because we just didn't have
+the technology. But it's going to take a
+long time for AI to be prompted into
+into success of like read this
+dashboard, make this concrete and do
+this just even doing one of those
+workflows consistently every time.
+&gt;&gt; Yeah,
+&gt;&gt; it it's it's going to take a lot of
+prompting, but there's a lot of stuff
+that you can bring change internally as
+a customer experience, you know,
+platform. uh we can bring things to
+resolve a lot of internal um
+inefficiencies but the most valuable
+thing is delivering that directly to the
+customer.
+&gt;&gt; All right, last question. Let's end on a
+high note. What are you most optimistic
+for in our AI future?
+&gt;&gt; I think that what I'm most optimistic is
+I want people to uh be able to leverage
+uh to use their agency more. You know, I
+think that we have worked so hard for
+all of our our our history. Uh and I
+think we need to stop uh so focused on
+like hard hard work and then being able
+to like do what we're best at doing,
+right? Which is taking initiative,
+making decisions, choosing a a purpose,
+choosing a customer, choosing a an
+audience and go serve them, right? but
+be able to leverage AI to do the work
+right around us and not be afraid of it
+that is really taking away our agency
+because it just can't you know
+&gt;&gt; great company name humans have agency
+&gt;&gt; indeed awesome alias thank you so much
+&gt;&gt; thank you for having me
+&gt;&gt; thank you
+[Music]

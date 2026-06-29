@@ -1,0 +1,275 @@
+Kind: captions
+Language: en
+This is Business Breakdowns.
+Business Breakdowns is a series of
+conversations with investors and
+operators diving deep into a single
+business.
+For each business, we explore its
+history, its business model, its
+competitive advantages, and what makes
+it tick.
+We believe every business has lessons
+and secrets that investors and operators
+can learn from, and we are here to bring
+them to you.
+To find more episodes of Breakdowns,
+check out joincolossus.com.
+&gt;&gt; All opinions expressed by hosts and
+podcast guests are solely their own
+opinions. Hosts, podcast guests, their
+employers, or affiliates may maintain
+positions in the securities discussed in
+this podcast. This podcast is for
+informational purposes only and should
+not be relied upon as a basis for
+investment decisions.
+&gt;&gt; This is Matt Russell, and we've got a
+short special episode today on alpha in
+podcasts.
+Now, what sparked this episode? Well,
+I'm glad that you asked. A few weeks
+ago, a Wall Street Journal article
+highlighted the behemoth Millennium had
+hired portfolio manager Steve Sherwood
+from Balyasny with a potential $100
+million payout.
+Who said you need to be an AI engineer
+to cash in, right?
+The Journal noted that Sherwood is known
+for mining overlooked sources of
+research, such as podcast transcripts.
+The article also noted his team
+generated $150 million
+in investment profits for Balyasny in
+2023 and $250 million in 2024. And as I
+like to say, hey, that'll pay for lunch.
+Now, I'm not here to tell you that there
+is massive alpha waiting for you on this
+podcast or on any podcast. If I had to
+guess, this has more to do with industry
+commentary coming from niche podcasts. I
+can remember listening to an old oil
+field services podcast way back when,
+and it is amazing what you get from
+people on the ground and what they see
+and how often that can differ from
+broader sentiment. But, this is an
+opportunity to explore the data.
+Every Business Breakdowns episode has a
+disclaimer that this is not investment
+advice, and that remains true. It will
+always remain true.
+But, if you enjoy markets, you can't
+help but tracking how things perform.
+Since launching Business Breakdowns in
+2021, we've covered over 200 companies.
+Naturally, we get tagged as pumpers when
+the market is rising. And we get tagged
+as a curse when the market is falling.
+But, those who took a math class will
+appreciate neither of those is really
+true. There are some winners.
+There are some losers.
+Let's start out with some of the
+aggregate data.
+Since launching Breakdowns, the S&amp;P is
+up 45%.
+A rolling Business Breakdowns portfolio
+is up 30%.
+Not much alpha there.
+Your best shot at outperforming would
+have been a basket of Breakdowns covered
+by my esteemed colleague and host Zack
+Foss.
+I am glad that I waited to record this
+episode today on July 1st because he was
+outperforming the market as of
+yesterday, but has about 130 basis point
+drag as of today. So, timing is
+everything.
+Now, I know you might be thinking to
+yourself, "Well, maybe the impact is
+felt on a shorter time horizon."
+Obviously, a podcast released 3 years
+ago,
+mhm, it's a little bit different than
+what is happening today. We want these
+episodes to be evergreen, but eh, let's
+look at the numbers.
+Well, not much to see there. On average,
+the companies featured on Breakdowns lag
+the market by about 30 basis points over
+7-day period. They outperform by 7 basis
+points, if you consider that
+outperformance on a 30-day period and
+over 1 year, they underperform by just
+over 5%. So, the trend line is gradual
+on an aggregate basis. And again, this
+is a simple average of the names put
+together. We're doing this rolling, so
+it gives you some sense.
+But, let's look at some of the
+individual names of note.
+We often get asked, "What's your
+favorite episode?" or
+"What's been the best performing name
+from Breakdowns?"
+Well, the best relative performer from
+Business Breakdowns was AppLovin.
+Now, AppLovin has outperformed by nearly
+540%
+since we featured CEO and co-founder
+Adam Foroughi in April of 2022.
+But, what's most interesting is that
+AppLovin actually underperformed the
+market by nearly 60% in the 1 year
+following the episode. So, not only did
+it recover, but it recovered and then
+some.
+And we generally try to limit having
+management teams on as guests. Maybe we
+should revisit that one.
+But, for those of you who want to use
+that data as ammo, we serve everyone
+here. If CEO's going on podcasts is a
+red flag for you, reference the 1-year
+data.
+If CEO's going on podcasts is how you
+learn about their mentality, reference
+the long-term performance. It's a
+win-win.
+Coming in at number two on the all-time
+performer list is GE, General Electric.
+We also covered this name in 2022. And
+whether you measure the GE RemainCo
+shares outperforming by over 300% or
+include the spin-offs,
+those haven't been too shabby, either.
+If you are planning to write a Twitter
+thread or a LinkedIn post on Warren
+Buffett or Brad Jacobs, take a breath,
+stop yourself. Larry Kolb is waiting for
+you. He is the Brooklyn hipster version
+of great manager that just is under
+discussed out there and will probably be
+more in vogue sometime in the future.
+Here's your opportunity. That's your
+alpha.
+Now,
+again, we just highlighted two names
+from 2022 that have been massive out
+performers. You might be saying, "Matt,
+time is going to help with these big
+compounders. What about some annualized
+performance numbers?"
+We have some data here.
+Look no further than Siemens Energy, an
+episode recorded
+last August, 2024. Less than a year
+later, the stock has outperformed the
+market by 250%. Not too shabby. We also
+have Axon from July of 2024. I think I
+mentioned this on the Axon episode that
+I let that stock chart scare me away 5
+years prior. Shame on me. Stock has
+outperformed by another 140% in less
+than a year.
+And then from earlier this year, we have
+Nintendo, which has outperformed by 53%
+since January. And if software startups
+can reference annualized monthly
+recurring revenue, you have my blessing
+to reference annualized year-to-date
+returns. Completely fair game on my
+side. On the other side of the coin, we
+have plenty of underperformers.
+Several that are essentially zeros
+and we won't go through all of those
+names, but you can find them from the
+2022-2023 era.
+It is notable that
+of the 20 worst performing names from
+breakdowns,
+Zack Fuss has only hosted one of those
+episodes. That episode was UPS
+and the guest was yours truly.
+Had to share that data point. I tried
+sorting through the data in a variety of
+different ways to figure out some
+interesting data point. If you look at
+all of the names that outperformed by
+over 40% in the year prior to the
+recording. So, a lot of momentum behind
+these names.
+Only nine out of 25 have outperformed
+since. Somewhat of an interesting data
+point. And on the opposite side, we've
+had 35 names that have underperformed by
+over 20% in the year prior to recording.
+Only nine of those have reversed course
+and outperformed the market since.
+So, interesting from both angles. You
+definitely could argue fading the
+massive out performers going into
+recordings.
+But, it's not so much the same case in
+terms of buying those names that have
+underperformed going into the
+recordings.
+The lesson is always the same here. Do
+your own research. I think there are
+things to learn. There's a way to
+understand these businesses. If I were
+to describe the idea behind the podcast,
+it is you're just starting to research a
+name, rather than look at the 10K or
+annual report, listen to an interesting
+conversation about this company, likely
+from an investment manager that owns the
+company, understand what this business
+is all about, and do it in a
+time-efficient and entertaining way.
+That said, there are things you can take
+away from this. We have a fine friend of
+the show who will I will refer to as CP,
+and he unearthed Casey's from the show
+along with some other names, and he
+noted the pattern matching that he does
+from these key names. And if there's one
+way that it showed up for me in my
+personal investing process, it is very
+much the pattern matching.
+One of my favorite themes is finding
+businesses that have mission-critical
+products that they're selling. They have
+dominated those markets. They have a
+path towards organic growth and towards
+acquisitive growth. And in 2021, a
+company was featured on another podcast.
+I noticed a lot of the themes around
+this business were similar to the later
+stage compounders that we know of today.
+This company, I would say, was still in
+its early innings. Uh not so much as a
+business itself, but as a public
+company.
+And it has done incredibly well
+for me since. So, there are different
+ways to take the lessons that you learn
+from Business Breakdowns. We hope that's
+how you apply it. We hope that's how you
+use it as an educational resource. If
+you want some of the additional data,
+I'm happy to share tidbits here and
+there with you. Just give us a shout.
+We will be back in the coming weeks with
+episodes. We have a lineup of recordings
+happening this week and next week. So,
+stay tuned for those. And as always,
+thank you for listening.
+&gt;&gt; To find more episodes of Breakdowns
+ranging from Costco to Visa to Moderna,
+or to sign up for our weekly summary,
+check out joincolossus.com.
+That's j o i n c o l o s s u s dot com.

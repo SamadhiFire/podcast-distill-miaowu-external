@@ -1,0 +1,764 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the OddLotss podcast. I'm Joe Weisenthal
+&gt;&gt; and I'm Tracy Aloway.
+&gt;&gt; Today you are listening to a special
+episode of the podcast. It was recorded
+live at the future proof conference in
+Huntington Beach.
+&gt;&gt; Yep. We're going to be speaking with
+former Dallas Fed President Robert
+Kaplan. He is now vice chairman of
+Goldman Sachs. Again, this was recorded
+live on stage at Future Proof. So, take
+a listen.
+&gt;&gt; All right, let's uh just kick it
+straight off. That jobs report that we
+got last week, in your view with your
+Fed hat on, maybe is a is a 50 basis
+point rate cut in play for the next
+meeting? I think 50 basis points is
+still unlikely. I think we've been of of
+the view for the last few months the job
+market was weak. This latest report was
+a little weaker. Having said that, the
+reason 25 is more likely than 50 is it
+wasn't the jobs market is not falling
+off a cliff. We didn't get shrinkage and
+inflation is running at 2 and 3/4 to 3%
+above target. And so it sort of puts a
+little bit of a headwind on doing more
+than 25 basis points.
+&gt;&gt; I mean, I take your point, but the
+report was still a huge surprise. So if
+you were in the newsroom when that
+number came out, just 22,000 jobs added,
+there was a sort of collective gasp
+because it was way below basically the
+entire range of expectations for that
+particular month. If you're at the Fed
+and you see a number like that, what
+does 22,000 actually tell you? or are
+you sitting there going, "Well, maybe
+I'll wait for the revision until I
+really make up my mind."
+&gt;&gt; I don't know that the weakness in the
+jobs market was a big surprise to the
+Fed. They didn't know exactly what the
+number would be, but they expected to be
+anemic. The the reason uh that the
+unemployment rate has stayed low is we
+are not we've shut down undocumented
+immigration. We have not ramped up legal
+immigration. And as you well know, we
+are deporting some number of workers and
+chilling
+10 to 15 million undocumented immigrants
+who are in the workforce and some
+percentage of them are not going to
+work. And so supply is anemic. We've
+thought for the last few months that
+hiring was kind of we said at stall
+speed. You should assume if GDP growth
+is one and a quarter one and a half%
+hiring is going to be anemic. So, we
+could debate the number, but I I don't
+think it was a big shock that it was
+weak. And I think it wouldn't surprise
+me to see the next number also
+lethargic. Uh so why aren't we falling
+off a cliff? Uh we still are running a
+large deficit. We have tax incentives
+coming. We're in the middle of an AI
+data center power boom as you just heard
+about in the previous session. And I
+think that's still bolstering the
+economy. Well, then let me take the flip
+side of Tracy's question because okay,
+maybe setting aside reasons for concern,
+the flip side, as you mentioned,
+inflation still running above target by
+most measures. The stock market, I
+haven't actually I don't know what it's
+doing today, but it's very close to
+all-time highs regardless of what it's
+doing today. All kinds of people are
+having a really nice time on the beach
+in Southern California. What is the
+evidence that as currently standing that
+Fed policy is actually restrictive?
+Clearly the FOMC has come around to this
+view of cuts. It seems like cuts are
+locked in, but you don't have to have
+the FOMC view anymore. Like is it
+obvious that cuts are needed at this
+point?
+&gt;&gt; Yeah, I I think if it were not for the
+weakness that we've seen in the labor
+market, the Fed would want to stand,
+Pat, because we are it's one thing to be
+above your inflation target. We're not
+moving toward the inflation target,
+right? We're going sideways to backing
+up, but with this weak labor market, I
+think it brings the fact you need to cut
+into play. Now, what's the neutral rate?
+I think the neutral rate today, uh, you
+got a 2 and 3/4% inflation rate, 75
+basis point real Fed funds rate means
+the neutral rate to me is around 3.5%.
+We don't have a lot of space to cut to
+get to neutral, but I think you've got
+75 to 100 base points. I think the goal
+of the Fed will be cut in September,
+stay restrictive, and if the labor
+market stays weak, keep going. If it
+stabilizes, then then you have the
+option to to hold off. Um, and and I
+think that's what they'll do.
+&gt;&gt; Um, just going back to financial
+conditions and stock markets at all-time
+highs. I mean, if the Fed cuts at this
+current juncture, you know, call it an
+insurance cut or whatever, but if the
+economy reacelerates after that,
+&gt;&gt; which it may.
+&gt;&gt; Yeah. Which it may, would you be worried
+about that side of the outcome given
+that, as you said, inflationary
+pressures seem to be going sideways to
+possibly up.
+&gt;&gt; Yeah. So, a lot of people look at
+financial conditions and see see it as a
+reason the Fed shouldn't act. I actually
+come at it from someplace different. The
+economic statistics are reflective of
+what's going on right now. In fact, even
+more than that, what has gone on, not
+even what's going on right now. The
+stock market and other financial markets
+are a assessment of what's going to
+happen for the next 3 to 5 years. We, as
+we know, we're in the middle and the
+early innings of an AI data center power
+boom. I don't think it's showing up yet
+in product in a lot of productivity, but
+I think a year or two from now it will.
+The stock market, rightly or wrongly, I
+think is making that bet. It's betting
+that productivity is going to improve.
+Corporate earnings are going to get
+better. You you're not seeing it show up
+in the current economy. The Fed's job is
+to look at financial conditions, but but
+adjust policy based on the current
+economy, uh, not the bet the market's
+making for two or three years. I'm glad
+you brought that up about uh the AI
+boom, the power, the data center boom
+and so forth and that it's not showing
+up yet in productivity, but it may be
+showing up in greater strain on the
+grid. It may be showing up in greater
+strain on um certain electrical gear
+that's necessary that's been in shortage
+for all manufacturers for years now.
+That's right. As of right now in
+September 2025, could we say that if
+anything the AI boom is like sort of
+having a crowding out effect or slightly
+inflationary where the costs right now
+just on a static extent setting aside
+the bet are a bit of a drag.
+&gt;&gt; There are two big structural initiatives
+that are being pursued by this
+administration. One is regulatory review
+and regulatory relief because they want
+to ease the speeding to adoption of AI
+and get more capital available. But the
+second thing is there's an extensive
+re-review of the power grid. We are
+behind China
+in having enough power to fund the AI
+explosion. We've got to invest more in
+geothermal, more modular nuclear. We
+need to make it easier to run a
+refinery, make it easier to do
+transmission. And I think you're going
+to find there's going to be enormous
+efforts because we are behind. And in
+some states, to your point, there is a
+crowding out. And I think people are
+afraid at some state states, the leaders
+are afraid to take more data centers for
+fear it's going to crowd out
+individuals. So this is a big structural
+initiative that isn't getting in the
+press a lot, but it's a big initiative
+going on in this country. That's a
+dramatic change and it's needed.
+&gt;&gt; What does that actually mean for Fed
+policy? Because if I think about this
+crowding out idea and all the demand for
+databases and the things that power
+them, we have seen electricity prices
+start to go up. I know the Fed the Fed's
+preferred inflation measure is X energy
+and food prices. But on the other hand,
+electricity prices feed into the cost of
+pretty much everything. And also, this
+doesn't seem like a bottleneck that
+we're going to be solving, you know,
+within the next two or three years or
+even 10 years to be frank. If you're at
+the Fed right now and you see
+electricity prices going up, how are you
+thinking through that pressure?
+&gt;&gt; So, let me put it in context. There are
+crossurrens, uh, I mean real
+crossurrens. You just mentioned one. On
+the one hand, you've got the government
+is trying to reduce government directed
+spending and replace it with more
+incentives, tax incentives. Obviously,
+the tariffs have been put in place.
+Those are slowing growth and they have a
+tendency to raise costs. They might be
+one time on the labor force. As I just
+mentioned, we are actually uh
+decelerating and reducing labor force
+growth because of immigration policy.
+That's actually helping us be at full
+employment and the Fed's been taken by
+that, but also makes prices stickier,
+wages stickier. At the same time, you
+just said you've got these booms in AI
+and the grid, and you've got uh uh we
+don't we need more labor, we need more
+power, and that actually stresses
+prices. So, when you're at the Fed, when
+you've got this kind of confusion, I
+think that's one reason why they've done
+nothing so far this year. But I think
+the labor market is forcing their hand
+where if it gets even weaker, they
+really don't want that. And that's why
+they're acting.
+[Music]
+Let's talk about AI and China a little
+bit more. You mentioned the power
+element and there are a lot of people
+anxious about the constraints on the US
+grid and you all these big capex numbers
+and can the grid even support that. What
+else is different besides the
+electricity component? Because some
+people we've talked to talk about
+there's a very different attitude
+towards the tech diffusion particularly
+out of China or supply chains that run
+through China.
+&gt;&gt; So uh and I just got back from Asia and
+I was in China last week. When we talk
+about AI, we tend to look at the
+hyperscalers. These big giant companies
+that make up a disproportionate share of
+the S&amp;P 500 and they're spending
+hundreds of billions of dollars. They're
+making a lot of money. When I'm in China
+and we talk about about AI, they talk
+about the word you use diffusion. They
+talk about regular businesses, the
+McDonald's of China, Luke and Coffee in
+China, regular.
+&gt;&gt; We have them in New York City right now
+and I tried one and it's very good
+actually.
+&gt;&gt; Yes. But they those companies are
+actively using AI to lower costs. And
+you got So why is that happening? I'd
+say we're further along. China's further
+along than we are. Why? Their margins
+are lower. They're doing it out of
+necessity. Our margins in the US and our
+companies are higher and so they're not
+as much pressure to lower costs and make
+AI experiments. In China, they don't
+have a choice. It's so competitive. They
+need to lower costs. But the thing that
+struck me, there's a lot to learn from
+what they're doing in China. Normally,
+if we were a little more globally
+integrated, we would learn those things
+and bring those those learnings back to
+the United States. And it reminded me
+that globalization
+is not dead. United States is is
+choosing to play a different role in it
+and stepping back. But I got to tell you
+the other thing I saw there is there's
+more coupling going on between China uh
+and other countries that are
+aggressively. Canada is much more
+aggressive in trying to form new
+partnerships. So I think globalization
+and the AI story go together. And I got
+to tell you, globalization not going
+away and the US is going to have a
+choice in the years to come how much of
+a role we want to play in participating.
+But it's going to happen with us or
+without us.
+&gt;&gt; So we can sit here and ask you what you
+saw in China and what your thoughts were
+about China. But I am very aware that
+when you go on that type of trip, you
+have Chinese clients who are asking you
+your thoughts on the US and what's going
+on here. What are the type of questions
+that you're getting from Chinese clients
+at the moment? What are they interested
+in? So the biggest item I'd say of
+discussion is
+uh and and I used to be in Asia for the
+first part of my career and what I found
+in Korea, Taiwan, China to a large
+extent their whole effort was to go from
+low value added manufacturing to high
+value added manufacturing and they tried
+to wean off of lower value added manu
+manufacturing. What's an example?
+T-shirts and sneakers used to be made in
+China. Today they're made in Vietnam.
+Why China wants to move up the value
+chain? Because their feeling is they're
+going to raise the standard of living to
+higher value added manufacturing. The
+the question sometimes I get when I'm
+over there is if you're going to reshore
+to the United States, are you going to
+really reshore lumber, aluminum,
+uh some of these other lower value added
+manufacturing?
+Uh, wouldn't solidifying the
+relationship with Canada and Mexico make
+sense where you can get cheap natural
+resources from Canada, cheap labor from
+Mexico, and solidify North America? And
+so I'd say they're not critical of us,
+but they're scratching their heads a
+little bit to say, "What's the strategic
+rationale?" Because you you're tied on
+labor. You you normally want to move up
+the value chain.
+And I think they realize that some of
+these tariffs are also intended to help
+generate revenue and reduce the deficit.
+They understand that. They're just
+questioning how strategic it is. Well,
+let me ask you a question of the on the
+question of what are we going to bring
+back in the United States, if anything,
+just from your perch at Goldman, do you
+see any private money that's come into
+the US for fresh sort of I don't know
+green field capital investment either in
+something low margin or high margin
+because the terrorists have changed the
+math and made that investment
+economical.
+&gt;&gt; So I will say there yes is the answer.
+Uh I I think there are US companies that
+will do more on the margin manufacturing
+here. I've talked to overseas companies
+including uh I won't mention the name of
+one contract manufacturer in China. They
+are building more in the United States.
+And so the the thing is I don't know how
+long it will take what the magnitude
+will be. Uh but it yes it is happening.
+The the flip side of that is there are
+many companies in the US that benefited
+from access to lowerc cost goods.
+&gt;&gt; Yeah.
+&gt;&gt; And I won't mention their name but you
+can you know some of them and they are
+their margins are being squeezed and
+then I talked to a number of small
+businesses that don't have the leverage
+to manage these tariffs and some of them
+will actually go out of business or
+considering it by the end of the year.
+This is a little bit of an unfair
+question, but I'm going to ask it
+anyway. If you had to if you had to
+choose one right now, would you say that
+tariffs are more effective at bringing
+back manufacturing to the US or more
+effective at raising income for the US
+government at a time when people are
+worried about the deficit?
+&gt;&gt; I think we'll start with the second
+part. Uh tariffs
+uh raise revenue,
+but they slow growth. And so for every
+dollar of tariff revenue, you have to
+you have to accept you may give some
+back and a little bit lower growth. I
+think that trade is very much worth it.
+Uh if you're bringing back high value
+added manufacturing, I don't know if
+it's such a good trade if you are
+pushing to bring back lower value added.
+I think this administration knows that
+and I think they'll be more strategic. I
+think you can do both. I I think you
+could level the playing field, get get a
+more tariff revenue or some level of
+tariff revenue. Uh I think we were
+thinking they were going to be closer to
+10% than 20%. You mean the high teens is
+a little higher than we expected. And
+you can also yes on semiconductors and
+other strategic areas you can redomicile
+those. I think the question is you sure
+you want to go down the road of lumber
+and aluminum,
+&gt;&gt; right? or do you want to let Canada do
+it? Is that a good strategic trade? I I
+I'm not sure.
+&gt;&gt; Since you mentioned it, why is the
+neutral rate of interest to the extent
+that we can form some educated guess as
+to what it is, why is it so much higher
+than it was in say 2019 in your view?
+&gt;&gt; So, um
+the the fact of the matter is I think if
+you go way back in the stone age to
+2019,
+&gt;&gt; it does seem like forever ago. It does.
+I think if we had not had CO
+I think at the right before COVID hit
+the 10-year Treasury, I think it was in
+the neighborhood of maybe 1 and 3/4 to
+two. The Fed funds rate was in the mid
+ones. I think we would have inched our
+way up a little higher.
+&gt;&gt; We didn't know how good we had it. All
+those people were complaining, oh,
+yields are so low. And then now they all
+wish they could go back there.
+&gt;&gt; Yeah. Uh uh listen the inflation rate
+today is stickier. Back in 19 it was
+probably one and a half one and
+three/4ers. I still think even then the
+neutral rate real rate was 3/4 of 1%. So
+the neutral fed funds rate back then I
+think was 2 1/2ish. Uh today it's closer
+to 3 and 1/2. But there's only one
+reason for that. The inflation rate's
+higher. If inflation got back down to
+two, I think you'd see the neutral rate
+back down to 2 and 3/4.
+[Music]
+Since you mentioned sticky inflation,
+there's one other thing that seems to be
+top of mind at the moment, which is
+Federal Reserve independence. Um, and we
+should talk about that, but I guess we
+can get your thoughts on, you know, that
+specific idea in a second. But one thing
+that seems surprising so far is that
+we're having this debate about what
+happens to the Federal Reserve with what
+seems to be a more activist Trump
+administration that seems to want to
+have a heavier hand in monetary policy.
+We haven't really seen much much uh
+response from the market. If you look at
+the long end, it doesn't seem like
+there's a big risk premium building
+there. What's going on? So let's make
+two comments. So regarding uh uh
+political independence, let me just make
+sure I I I uh frame this. Regulatory
+policy at the Fed is not underlying not
+politically independent. It hasn't been
+for a number of years. What do I mean by
+that? You get a new president. They pick
+a new head of supervision and it's very
+much has been influenced for the last
+many years by whoever's in office. The
+balance sheet I would argue is maybe a
+little bit in the gray area on setting
+the Fed funds rate though. The Fed has
+been politically independent. Why is the
+market you said not reacting more to
+this? I mean the reality is the stock
+market likes the idea of lower rates. I
+think the thing it's not that the
+markets aren't reacting. The stock
+market likes it. So it's it's starting
+now to take into account makes the real
+acceleration you talked about more
+likely. The gold market is very much
+taken note of it and gold is up more
+than 35% year to date and I see it's up
+another 1% today. So it has and I
+actually think duration on the long bond
+while while the tenure is rallied
+because of slow growth I still think we
+have an issue. We've got 37 trillion of
+debt to sell on our way to 40 trillion.
+I I think that the bond market may pay
+at the long end will pay attention to
+how this uh current situation works out.
+&gt;&gt; What is going on? Uh how much more gold
+talk is there these days than there were
+a few years ago?
+&gt;&gt; Well, I I actually I've gone back over
+looked back over the last 50 years.
+When's the last time we got a rally in
+gold like this?
+&gt;&gt; Yeah. I think a in the aftermath of the
+great recession, remember in the great
+recession the Fed took its balance sheet
+from 800 uh billion to 4 trillion, okay?
+And stopped and we started to run it
+down a little bit. In response to COVID,
+we went from 4 trillion to 9 trillion
+and we authorized $6 trillion of
+extraordinary spending in a 27 trillion
+economy. and the GDP uh the net debt to
+GDP went from mid70s to over 100%. When
+you've got leverage in the United States
+and to some some extent in the developed
+world getting much higher in response to
+co that's where people start to look at
+gold, Bitcoin, other alternatives to
+paper currency because they're worried
+that this leveraging is just keeping
+going on and on and on. And so it it's
+understandable.
+&gt;&gt; Wait, is it though? Because one of the
+weird tensions of our current market
+situation is we have US stocks at
+all-time highs, but also gold making new
+records almost every week. It feels like
+those two things are incompatible, at
+least in the long run. Um, you know,
+maybe we could do it for a few weeks or
+a few months, but someone's got to be
+wrong here. I I spent a lot of time
+talking to big institutions and about
+asset allocation. I think and this is
+our view also. Uh we think there could
+be a reaceleration into 26. We think the
+AI boom is for real. We think we're
+going to get a lot of productivity out
+of AI. Okay, that is a good environment
+for corporate earnings and for stocks.
+What we don't know is how successful
+we're going to be on bending the curve
+of debt to GDP. Are we going to run
+another $2 trillion deficit even with
+tariffs? Is it going to be higher? And
+in that regard, I think people can buy
+stocks and buy gold and be very careful
+about buying the 10-year and the 30-year
+Treasury. And I think that's kind of
+what we're seeing.
+&gt;&gt; Actually, I want to go back to your
+point about sort of uh globalization is
+happening with us or without us. There's
+a different approach to AI diffusion out
+of China than there is in the US. But
+when you go around the world, are the
+American providers of tech, whether it's
+cloud tech or whether it's Microsoft
+etc. are they still are they going to
+win even if the US isn't part of that
+globalization wave? Will US tech still
+be part of the story because so much is
+riding on the ongoing earnings power of
+seven companies?
+&gt;&gt; So I'll make a general comp comment
+about US companies generally. A typical
+CEO in the United States that runs a
+global company has probably been to
+Europe in their careers 75 times or more
+and has been to Asia 75 times, has been
+to China multiple times, has built
+relationships and has been doing it for
+years. Um, and I think that's true of
+tech, no doubt.
+&gt;&gt; Uh, many of the tech leaders you see are
+overseas regularly. our political
+leaders and and some of our leaders in
+certain governmental positions uh maybe
+have not been to China or overseas quite
+as much and that's why you see during
+periods like this the corporate world is
+continuing to chug along and build
+relationships globally even though at at
+national level we're sort of reorienting
+and trying to um bring more to the
+United States and in effect deglobalize.
+So we've got a kind of a dichotomy and
+it it it stands in sharp relief. This is
+the same way even 8 years ago where we
+withdrew from the Paris climate accord,
+&gt;&gt; right?
+&gt;&gt; And yet companies in the United States
+from my to my eye did not slow down at
+all in trying to build lead certified
+buildings and focus on greenhouse gas
+emissions and sustainability.
+You talked earlier about the difference
+between how China and the US um the
+corporate sphere is actually using AI.
+When you're looking at the US and you're
+looking for signs that AI is actually
+having a definitive, you know,
+needlemoving impact on US productivity,
+what are you looking for here? What are
+the signs?
+&gt;&gt; I'm looking for adoption
+in a broad set of industries because
+here's here's how this works. First,
+your company gets you to try it. Okay.
+And you adopt it. Second thing you try
+is various use cases based on that
+adoption. And then third thing you
+figure out which use cases work and
+which use cases don't work. We're kind
+of in that phase right now in the United
+States. When I say China's a little
+farther ahead, I think they've already
+tried and proven some of the use cases
+in more industry. We'll get there too.
+But but you'll know when we look back 10
+years from now. My guess is maybe not as
+fast as other parts of the world. We
+will have gone through all that. We'll
+know which use cases work, which don't.
+We'll adopt them. We're going to get a
+lot more efficiencies. There may be as
+many or more jobs, but they're going to
+shift and we're going to have to
+redeploy people to where the open jobs
+are, but we have to go through that
+whole cycle. And I would say we're
+early. We're early in that.
+&gt;&gt; We just have a couple minutes left.
+Here's something that's been on my mind
+a little bit lately that I would like
+your take on. How levered to the stock
+market is the real US economy? How much
+when you look around does it feel like
+things are dependent on these companies
+continuing to deliver year after year
+and positive asset returns?
+&gt;&gt; So that's a great question. So I would
+say the US is 75% a service economy. It
+is a very heavily consumer-driven
+economy. This which makes our economy
+different from many in the world. And if
+you break down the consumer here, half
+the workers in this country, let's take
+it 8085 million, make $50,000 a year,
+are unlikely to have financial assets,
+have lost 25% plus purchasing power, and
+are struggling to make ends meet.
+They're spending every dollar they make.
+But if you're a business that serves
+them, you're seeing they're being very
+careful.
+&gt;&gt; Yeah. There's another 80 85 million
+consumers tend to be I'm exagger I'm
+generalizing 55 and older own their home
+have financial assets and and they've
+made a lot of money in the markets to
+your point and they're spending because
+they're getting wealthier and we've got
+a tale of two consumer groups. I think
+part of what this administration, I
+believe, is trying to do is help lift up
+this first group so that they can be uh
+more affluent and do better because
+right now we're very heavily dependent
+on this second engine based on the stock
+market.
+&gt;&gt; All right, I'm going to sneak in one
+more question and go back to where we
+started this conversation, which is on
+rate cuts. I know you said uh 50 basis
+point probably not on the table, but
+your your gut instinct, is this going to
+be the start of a rate cycle, a rate cut
+cycle that goes into the next year,
+2026, or is this something that, you
+know, maybe you get one rate cut, maybe
+you get two rate cuts, but it's not
+going to go on for much longer than
+that.
+&gt;&gt; I think it will be, if it's a cycle,
+it's going to be a halting cycle. What
+do I mean by that? Cut 25 in September.
+I think that's going to happen. Wipe the
+slate clean for the next 6 weeks. Fed
+meets every 6 weeks. Wipe the slate
+clean. Make sure that you're convinced
+still the labor market is weak. Check
+inflation. If it's continued to be weak
+and inflation is at least moderate, you
+may do another one. Uh the issue I'm
+pointing out is I don't think we have
+more room to get to neutral than 75 to
+100 basis points. So might we wind up
+doing two or three this year? Maybe. Are
+we going to wind up doing 150 200 base
+points? It means you would want you
+would have to decide which I don't see a
+justification for running a very
+stimulative monetary policy. And I think
+the Fed as it's currently configured
+will be enormously reluctant to to be
+below restrictive or modestly
+restrictive as long as inflation's
+running above target. Rob Kaplan, thank
+you so much for doing this live. Lots of
+future.
+&gt;&gt; Thank you so much.
+[Music]
+So, that was our episode with Robert
+Kaplan recorded live on stage at the
+Futureproof Conference. I'm Tracy Aloway
+and you can follow me at Tracy Aloway.
+&gt;&gt; And I'm Joe Weisenthal. You can follow
+me at the stalwart. Follow our producers
+Kerman Rodriguez at Kerman Arman Dashel
+Bennett at Dashbot and Kalebrooks at
+Kalebrooks. For more OddLots content, go
+to bloomberg.com/odlots
+where we have a daily newsletter and all
+of our episodes and you can chat about
+all of these topics 247 in our Discord,
+discord.gg/odlots.
+&gt;&gt; And if you enjoy OddLots, if you like it
+when we do these live episodes, then
+please leave us a positive review on
+your favorite podcast platform. And
+remember, if you are a Bloomberg
+subscriber, you can listen to all of our
+episodes absolutely adree. All you need
+to do is find the Bloomberg channel on
+Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+[Music]

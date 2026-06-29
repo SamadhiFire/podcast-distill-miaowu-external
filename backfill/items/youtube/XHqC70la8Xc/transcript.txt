@@ -1,0 +1,2114 @@
+Kind: captions
+Language: en
+Hello, I'm Andrew Maine and this is the
+OpenAI podcast. There's a lot of
+conversation and debate about the future
+of AI when it comes to labor and work.
+To talk about this, my guests are Brad
+Lightcap, who's the Chief Operating
+Officer of OpenAI, and Ronnie Chatterji,
+who is the Chief Economist. We're going
+to find out the kind of research OpenAI
+is doing, the conversations they've been
+having, and hopefully get a glimpse of
+where they think the future is headed.
+We had a lot of people coming back to us
+and saying, "Yeah, you know, actually
+this is I think one of the best things
+that has maybe ever happened to this
+this industry. AI is a tool that lets
+people do things that they had no
+ability to do otherwise. They have the
+world's smartest brain at their
+fingertips to solve hard problems."
+So, Brad, you're the Chief Operating
+Officer, you're the Chief Economist.
+Explain what your roles are.
+My role probably boils down mostly to
+what we call deployment. So, zooming
+out, OpenAI is a research and deployment
+company.
+And when we think about our mission,
+what we really think about is not only
+building AI and doing the research that
+underpins the building of AI, but how do
+you actually take it out into the world
+and have people use it and have it be
+beneficial for people, have it be safe
+for people.
+How is it used in one country versus
+another country, one industry versus
+another industry. So, I spend a lot of
+time trying to figure that out. Which
+means working with customers, working
+with partners,
+spending a lot of time with our users,
+and just kind of studying kind of how
+people what people want from OpenAI and
+our products, how people actually use
+the technology, and then as the
+technology changes, how that pattern of
+use changes. It it seems like cuz OpenAI
+started primarily as a research org and
+wasn't even sure if they were going to
+do product or even put things that were
+sort of public-facing. And so, how much
+has this changed rapidly for you? It's
+changed really quickly. I think ChatGPT
+in November '22 was kind of the pivotal
+moment, and it was the first time that
+we really saw AI used at scale. Mhm. And
+I think, you know, what we kind of and
+it's interesting almost the story of how
+we actually learned that and and and how
+we made the decision to do ChatGPT,
+which was we had previously built an API
+for developers. And we had a thing, you
+know, remember Andrew in our API
+that was the playground
+&gt;&gt; Yeah. where you could basically try
+prompts out and see how the model would
+complete the prompt. And this was back
+in the days of like the models just
+being purely completions-based, where
+they take an input and they kind of
+continue the text on, predicting the
+next word in the next token in the
+sequence. And people were trying to like
+hack the playground to figure out how to
+get it to talk to them. And they almost
+you could tell people kind of wanted
+this conversational interface. And so,
+we kind of learned from that and we
+built ChatGPT as the first version of a
+conversational interface where we taught
+the model how to instruction follow to
+be more responsive to what people wanted
+to talk about.
+And that, you know, very much surprised
+us and became I think the kind of
+dominant paradigm of what we call the
+first era of AI, which was these kind of
+chatbots
+that, you know, really were good enough
+to to
+to be engaging for people and be helpful
+for people. Yeah, it seems like cuz at
+the time
+we kept thinking that like GPT-4 would
+be finally when it was really useful.
+And ChatGPT was built on top of GPT-3.5.
+And it it seemed it like certainly
+changing the interface was helpful, but
+we thought we needed a faster, more
+smarter model, but it was actually the
+interface was such a big unlock, and
+that was I had the problem whenever I
+would do demos of GPT-3, it'd be this
+blank canvas. I'd go, "Now, you do
+something." And people would be like, I
+I don't know what to do. But once you
+put it into the chat interface, they'd
+go, "Oh, well, I'll ask it a question.
+I'll ask it if we do this." And that was
+such a big big unlock, but then
+the pace after that, like you said, was
+was insane because ChatGPT exceeded
+beyond any expectation here. I think
+there was an expectation it would kind
+of level off, but it didn't. And then
+pretty soon
+there was this awareness. I think people
+thought AI was something in the future,
+and now it came into the present. And
+now
+bringing in an economist to come help
+map this out and figure this out. So,
+what is your role? As you say, I mean,
+the future has arrived more quickly than
+any of us could have imagined. And so, I
+joined at a time when we were deploying
+intelligence at scale
+into the economy and to society. And my
+job is to help people understand what
+the impacts of that are going to be on
+businesses, their jobs, their
+relationships, the way government does
+policy, and develop forecasts to help
+people understand how to make
+investments with their time
+and overall with their resources. And
+so, as an economist, it's an amazing
+time to join because I think we're at a
+beginning of a real transformation
+in the economy, and it's something that
+I think people need to be prepared for.
+So, the biggest job I have at at OpenAI
+is developing indicators to kind of tell
+us where the economy is going and
+communicating that to people all over
+the world cuz this is going to be bigger
+than just the United States and what we
+do here, but something that's actually
+going to transform people's lives around
+the world. Okay. So, in my experience
+and limited experience of understanding
+like when corporations employ
+economists, often it's to figure out,
+let's say, the prices of products or
+things like that to make kind of
+predictions. But here, your job isn't
+just internal, so it's external. So, are
+you how are you sharing this? What is
+OpenAI doing to help people understand
+where things are headed or where you
+think they are? You're right. I mean,
+there's a tradition of, you know,
+economists joining companies and in tech
+specifically,
+this job was was designed a little bit
+differently, and I think it reflects
+that this company really has research
+roots, and I think people really wanted
+to be a job that side. Okay, now our
+software engineers have these amazing
+tools, intelligence at their fingertips
+to be more productive. You know, we
+might across the world write like a few
+billion lines of code in a by 10x. What
+could we build? What could they build if
+you can write that much more code and
+that much more sort of even better code
+potentially than you could on your own.
+That to me is a huge economic
+opportunity. And so, yeah, my job is to
+pick it up from that angle, understand
+how a software engineer's job is
+changing, how she might be using these
+tools to do things she couldn't do
+before, and how the organization that
+she works in is also going to benefit
+from that, creating more productivity
+and ultimately value for the economy.
+So, I I see it as a super interesting
+challenge.
+The other thing I'd say is like
+scientific research is one I get really
+excited about. So, I think taking Brad's
+analogy, it's like we want to put
+amazing intelligence in the hands of
+scientific researchers. Why does that
+matter? Because
+you know, science drives growth, it
+drives economic growth. And so, if we
+can accelerate science, accelerate
+discovery, we're going to have more
+economic growth and more good things for
+everybody. And so, I always think about
+if I can study how science is changing
+with our with the use of our products,
+then it'll be a useful contribution in
+terms of economics, but also just the
+world. Yeah, I want to I want to touch
+on that a second, but what in the
+software space, I think you've seen
+there's a been a I've seen a lot of
+people have a concern because all of a
+sudden companies are saying, "Oh, we
+don't need as many developers now." But
+I I I would say the broader picture is
+we're never going to be done writing
+software. There is always going to be
+more need for software than there is
+right now. And I think the challenge is
+that some of the bigger companies are
+getting a bit disrupted or internally,
+but
+we need to think about where the smaller
+companies, the more agile ones, are
+going to come in and where they're going
+to come from because I think small teams
+can do a lot more. And has that been
+something you've observed where, you
+know, let's say some companies are
+saying, "Okay, we can do more with this
+tool." And what we're seeing smaller
+companies come forth with new solutions.
+Yeah, for sure. And I think that is the
+trend line of AI. Fundamentally is the
+the world is rate limited by talent, by
+people.
+Real, you know, economic growth in in
+the world rounds to zero in most places.
+And why is that, right? It's because
+it's really hard for the average
+company, whether it's a small business,
+a large business, you know, a financial
+services company, an insurance broker, a
+hospital, to find people that can
+actually produce better tools, better
+systems, and ultimately better outcomes
+for customers. And if you go ask kind of
+any company, you go ask any company in
+Silicon Valley, you know, where
+if they need to hire more engineers, the
+answer's almost always yes. And this is
+this is the Mecca of engine, you know,
+of software engineering.
+Now imagine what the rest of the world
+looks like. And so just taking software
+engineering as an example, we see it as
+not only incredibly, you know, there
+being incredible opportunity to inflect
+outcomes for those company, you know,
+for companies large and small, but we
+see it really as incumbent on OpenAI to
+be able to build the tool sets, the
+models, all the, you know, the
+safeguards, all of the the compliance
+schemas and all that, to be able to
+actually serve these these tools in the
+places that they need to be. And it's
+it's interesting kind of the the
+polarity of it. I think you know, on on
+the one hand you've got this tool set
+that is going to be incredibly enabling
+of people who have no sophistication on
+the subject matter. So you've got
+companies now building tools that are
+enabling people to build software who've
+never written a code line of code in
+their life.
+And on the other hand you've got these
+tools that are incredibly sophisticated
+in taking, you know, level 10 engineers
+and making them 50% 2x more productive.
+And it's a remarkable thing that you can
+get both of those effects. I something I
+thought was interesting was using the
+the modern
+case example where they deployed ChatGPT
+Enterprise. And one of the things that
+happened internally was you had people
+developing their own GPTs. And sometimes
+people go, what's happened to GPTs
+externally, but I think that's been
+interesting thing is internally somebody
+who may not have thought about how to
+build an agent or something like that
+who may not be technically inclined is
+able to do that. And has that been a
+common trend with other companies that
+are now just building on top of the
+platform?
+Yeah, I mean I I think that is
+fundamentally kind of how this is going
+to work. I think AI at its core and its
+essence is a tool that kind of lets
+people do things that they had no
+business or ability to do otherwise. And
+there's going to be kind of crazy
+outcomes that come from that. I think
+it's kind of somewhat unpredictable. And
+if you kind of look in the long arc of
+history of what makes for these kind of
+disruptive platform shifts, to me the
+thing that is kind of demarcating of
+that is when you now have people who
+actually have the capability to go off
+and do some something at either a much
+higher level of productivity or
+something that's parallel to the the
+core thing they're doing that they
+couldn't do before, where they were kind
+of rate limited or gated on someone else
+being able to having to do that thing
+for them. And so that's GPTs are a good
+example of how you now have someone who
+can configure what could be a fairly
+complex workflow, right? And it's on us
+to continue to build a product that
+enables even more complex workflows over
+time as the models get really good.
+And that's that's a remarkable thing.
+What sectors do you see being impacted
+next?
+I you know, I think that we're just
+scratching the surface when it comes to
+scientific research, areas like drug
+discovery, material sciences. I think
+the next couple years you're going to
+see massive discoveries in those spaces
+for the reasons that Brad is talking
+about. When I think about science, I I
+think about endless corridor with doors
+on either side. And scientists,
+researchers in companies have to make
+decisions about where they're going to
+explore. And that that's a rate limiting
+sort of situation. To to Brad's point,
+you can't explore every door. But what
+our tools can help you do is actually
+look behind all those doors and take a
+peek and figure out where you want to
+spend the time working on the hardest
+problems. And I think if we can
+accelerate science in that way, you're
+going to see massive discoveries coming
+out of private sector labs, national
+laboratories like many of the ones we're
+already working with, and the public
+sector. And so I expect those areas in
+research to really be transformed over
+the next couple years. I think you'll
+see a lot of different discoveries that
+we wouldn't have thought possible
+happening more quickly. I think another
+area is going to be on sort of
+professional services. Like we both work
+a lot and know a lot of folks who are in
+these industries, either whether it's
+private equity, investment banking,
+consulting. So much of the work there
+that people are doing,
+we can augment that work by, you know, I
+think about the way I use our tools to
+create slide decks or prepare for a
+presentation. I can now focus on the
+higher value and higher margin things
+that are important for my job now that I
+can use our tools to do some of these
+things that I was going to have to do
+myself. And so I see professional
+services as a key area where a lot of
+consultants, bankers, and private equity
+executives are going to be able to use
+this in a big way. So those are two
+areas I see finance and science-driven
+discovery companies being really
+revolutionized by our tools.
+And I would say it's not just the on the
+science side at least, it's not just the
+depth of any individual step of the
+work. So certainly like you can now do
+this, you know, more multi-faceted
+exploration for any given thing, but
+it's the breadth across the the span of
+the work that these models can reason
+over. So having these systems able to
+understand, if you know, if you look at
+kind of how a drug gets developed, for
+example, there's like, you know, some
+number of insanely complex discrete
+steps in that process that all require
+kind of handoff at various points to a
+lot of different people who all have to
+kind of gather context from the person
+before them and kind of prepare context
+for the person that comes after them.
+And you can actually schematically break
+it down.
+And have models basically woven across
+that entire workflow. Not only are you
+enabling the scientist to go deeper, but
+you're actually enabling the people who
+work with and around the scientist to
+actually kind of accelerate the the end
+product, you know, ultimately to a
+better outcome and and ultimately
+faster.
+One of the
+one of the limitations I've seen from
+one of the companies I've worked with,
+they're doing drug discovery. And the
+models are great at suggesting things,
+but it still comes down to the clinical
+trial and the lab bench and things like
+that. And hopefully we'll find ways to
+accelerate that, but what are there some
+of the other limitations either to what
+these things can do or bottlenecks for
+us seeing
+sort of the benefits? I think human
+judgment is actually making it's going
+to be really important. I actually think
+it might be more important. You know,
+what we're finding in a lot of research,
+and I'll I'll one of my colleagues at in
+this is David Deming at Harvard. He has
+this research that shows that people who
+are great at leading teams, let's say
+someone like Brad at the top of the
+company, they're also the same people
+who are great leading agents. And I
+think that a lot of the skills that let
+people be make great judgments, lead
+teams, they're going to be even more
+important and at a higher premium in
+this economy. And so I feel a situation
+like this where firms are using drug
+discovery, you're still going to need
+the judgment of experts. You're going to
+need refinements on the experiments and
+you're going to need help in terms of
+scaling. I also think there's other
+institutional changes though that might
+accelerate science. Clinical trials come
+from an old world of how we used to test
+drugs for safety and efficacy. Those are
+really important. But everything from
+the sample sizes to how you enroll
+people, I mean our tools can be hugely
+helpful in those areas. So I feel like
+you're going to see it in drug
+discovery, but you're also going to see
+it in every part of the value chain for
+let's say a pharma biotech company that
+might ultimately not just increase the
+rate of discovery, but the rate of
+commercialization and scale. That's my
+hope. You just mentioned agents, and I
+think it's a word that's kind of like
+the word of the year. People hear it and
+sort of there's all sorts of definitions
+of it. Do you want to take a stab at
+that and kind of see how you guys see
+that playing out?
+I mean I'll I'll probably get you know,
+yelled at by someone
+&gt;&gt; No, it will not be controversial at all.
+Everybody will agree with your
+definition.
+I mean for me agents I have a very high
+bar. It has to be a it has to be a
+system that can be reliably handed
+complex work that it can take on
+autonomously,
+you know, and
+and execute at a high level of
+proficiency. Where it hasn't seen that
+work before. And that last part is a
+critical piece is these aren't just
+things that are trained to copy. They
+have to be things that kind of
+implicitly leverage the reasoning
+ability of the model to solve new
+problems.
+And this is going to be important in a
+lot of domains. And so people use the
+word agent. I think there's maybe an
+enterprise productivity context of it.
+There's maybe a science,
+you know, kind of context of it. There's
+a
+a software engineering context of it,
+but the kind of common thread for me is
+it has to be something that you can
+actually hand something to. You almost
+work in tandem with, kind of like a
+teammate. And you know, that teammate
+could be a scientist. It could be a
+software engineer. It could be a a data
+scientist.
+&gt;&gt; a hypothetical example of like a kind of
+task? Yeah, I mean I I think software
+engineering is is has has an obvious
+set, which is, you know, you could ask
+ask it to basically go off and and
+actually write code for you.
+And, you know, and then kind of
+similarly go do the QA, go do
+all the unit testing, go, you know,
+automate kind of meaningful parts of
+this process of the, you know, of code
+writing. And you know, in a different
+context I would say it's
+you know, it's working with
+agents that can make your
+your sales teams more efficient. So
+slotting into parts of your sales funnel
+where you have a volume problem. Where
+it's like, okay, I've got, you know,
+100,000 inbound leads for a thing, but
+I've got five people to look at them.
+Can you actually have an agent that can
+ingest those leads and and understand
+those leads, process them, qualify them,
+move them through your funnel,
+recommend, you know, who should talk to
+who, recommend all the follow-up steps,
+and ultimately kind of drive a lead
+toward a conversion.
+So it's a it's a generalizable concept
+that kind of maps in any number of
+areas. Do you see it like like where I
+might email an agent or something and
+say, okay, I need to and just treat it
+like I would another employee?
+Yeah, I think that's kind of the the
+interesting part of it is that, you
+know, in some sense um
+there's the the the kind of the input
+mechanisms
+will be specific I think to the the the
+the user, right? It's if you are a
+software engineer, you may want that
+agent living in your IDE.
+If you're a scientist, you may want it
+living in the software you use that you
+do experiment design and execution with.
+If you are, you know,
+doing, you know, user operations or
+customer support, you may want it
+sitting in your inbox because that's
+where your work happens. And so, how do
+you build product that is intelligence
+underneath, but is accessible into kind
+of any number of surfaces and can be,
+you know, without the without without
+compromising the
+reliability and the the power of the
+system? It's actually a hard product
+problem. I have friends that are
+pretty
+chat GPT focused, you know, power users
+and have heard comments from before of
+like wanting to sort of do more with it.
+And even small business owners, too. The
+idea that if they could have like a
+virtual chat GPT agent or something like
+that. Is that something that you see in
+a near-term horizon that
+you know, I would be able to like get it
+to take care of a lot of the little work
+that there's just
+not enough hands to do?
+I think it's I mean, it's a really
+amazing near-term application in my
+view. You know, you think about the
+limits around the world of growing the
+economy. One of the biggest ones is
+small business. There's what they call
+in economics a missing middle in so many
+countries where you got a bunch of small
+businesses and you have a few large
+businesses, but the small businesses
+don't grow large. And that was a big
+benefit to the US economy that our small
+businesses and entrepreneurs can
+actually grow and scale. In most places
+around the world, that's not true. Why
+is that not true? Because they often
+don't have the mentorship, the coaching,
+the support, the advice to actually know
+what to do to grow their business. Now,
+imagine you democratize an AI agent that
+understands the basics of how to grow a
+restaurant business or an e-commerce
+business. And that's relatively easy to
+do in terms of instantiating that kind
+of intelligence into an agent. And then
+a small business owner could leverage
+that advice and say, "Hey,
+oh, maybe I should change a menu item or
+hire a sales rep or do something
+different with my strategy that could
+help them grow." And I think for small
+business owners around the world,
+including the United States, tremendous
+opportunity to get sort of small
+business advice, evidence-based advice
+from agents. I'm very interested in and
+I know a bunch of folks around the world
+are working on.
+So,
+I want to I want to address that one on
+the evidence-based approach in a second,
+but
+tell us more about what you're seeing
+from like developing economies cuz I
+know that's a big area of concern. It's
+one of the fears is that there's a lot
+of kind of like
+kind of lower-level knowledge work
+that's done in developing economies and
+the fear is that AI is going to take
+that away. But you just brought up the
+fact that there are these limiters there
+that all of a sudden get unlocked. I
+think there's a lot of opportunities we
+should be talking about as well.
+I know that when I work in emerging
+markets, there's a lot of human scaling
+problems. It's related to what the
+rate-limiting factor is that Brad talked
+about with Silicon Valley hiring
+engineers. One of the biggest returns on
+investment in Africa is agricultural
+extension support. What that means is
+helping a farmer figure out what kinds
+of seeds he should be using, what kind
+of fertilizer he should be using,
+what kind of farming techniques he
+should do to get the most out of his
+land cuz a lot of people are small-scale
+subsistence farmers. If we can increase
+productivity for that farmer 10, 20,
+30%, it is life-changing. And we have
+people who are trained up to do that,
+but there's not enough of them. Mhm. And
+when these extension support services
+are offered, there's always someone,
+probably 10, who don't get the service
+for every one person who does.
+Now, imagine that we could have
+intelligence provided to those 10 who
+never got that service to begin with.
+And I think when you think about
+agricultural extension support scaling
+with our tools, it's a huge opportunity
+to improve lives of people in sort of
+lower-income countries and emerging
+markets, particularly in agriculture.
+I'd say the small business one is
+another example. You know, we know from
+the United States, one of the best ways
+to move up the income and wealth ladder
+is start a business. That should be true
+in other places, too, but there's so
+many limits to scaling and often it is
+hiring the right person or getting the
+right advice. And so, those are two
+opportunities I think if we can do this
+right, are going to make a huge impact
+for the positive in most parts of the
+world. My mother-in-law is in India and
+she has a candy company and she uses
+chat GPT a lot to help her plan menus
+and recipes and write stuff. And it's
+been an interesting sort of
+unlock because now I've seen I think she
+really did was would had quite quality
+before, but now it let her basically
+spend more time on other things. Yeah.
+And so, it's it's it's interesting cuz
+like you've seen like in African
+development where
+cellular was a bigger change than
+anybody predicted. It was you you took a
+country like Kenya which maybe like
+5% of the population had phones and it
+was all controlled by the government or
+something. Then when cellular came
+through, then you had people able to
+like figure out how to go to market, you
+had all sorts of commerce stuff things.
+And what what changes are you seeing
+right now with chat GPT or like
+technologies? I mean, to your point,
+first if if your mother-in-law's running
+an Indian sweet company, I got three
+little interns in my household who'd
+love to join. So, just let us know if
+there's a job opening. But uh
+this is where the disruption is like
+both exciting
+and I also understand it induces
+anxiety. But you're exactly right. When
+you look at the Kenyan experiment, when
+they leapfrogged a generation of
+technology, when new innovations came
+out, we're now doing something very
+radical, which is putting intelligence
+in individuals' hands, right? When they
+have a chat GPT account or subscription,
+they have the world's smartest brain at
+their fingertips to solve hard problems.
+It's not intermediated by a government
+or a big business. It's it's something
+they can use to solve problems. And I'm
+really optimistic about the problems
+people are going to choose to solve. One
+of the coolest things about this
+organization is we don't really tell you
+what problems to solve. Like that was
+one of the most interesting things I
+think here is like when you think about
+how people are using chat GPT, it's a
+wide, diverse set of uses. Much less how
+they're building on the API, right, with
+our developers. And so, people will
+choose to solve the problems that are
+most relevant to them. And that's going
+to be incredibly sort of transform
+transform for their lives, but also
+disruptive because, right, they're going
+to be able to have that power that they
+didn't have before. And I think when I
+think about it as an economist, those
+are the kinds of transitions I want to
+study. I want to understand. I want to
+make easier for individuals,
+organizations, and society. And I think
+the level you're talking about that
+happened in Kenya and other parts of the
+world, this is a much bigger transition
+that we're on the verge of. So, it's
+something that my team spends a lot of
+time thinking about when we look at
+data, not just looking at the US and
+Europe, but looking at other parts of
+the world.
+You mentioned before in working with
+agents how having sort of I guess
+managerial skills or the ability to
+delegate is important. Could you expand
+on that and also maybe like what other
+skills might be important that people
+need to be thinking about that they want
+to develop? AI is interesting because it
+really is kind of a reflection of your
+your will, right, and your desire. And I
+think
+you it it sky's the limit kind of in
+terms of what it can do for you, right?
+If you wake up one day and you decide
+you want to start a business, that just
+got meaningfully easier. If you wake up
+one day and you decide you want to build
+a piece of software, right, that got
+meaningfully easier. And so, there's an
+incredible level of agency I think
+that's required to extract the most out
+of AI. I think as we think about kind of
+where the product moves,
+our job is to try and lower the bar so
+that there's you don't
+you can basically simplify the kind of
+the the path from idea in your brain to
+to outcome.
+And, you know, there's interesting ways
+in a meta sense the models can actually
+help help do that. But I think that, you
+know, the that's probably to me the kind
+of really important important thing is
+that agency is going to matter a lot.
+There's going to there's going to be
+you're going to see the the rewards
+accrue to people who
+are
+you know, as Sam said it the other day,
+it's like the the return of the idea guy
+in some sense.
+It's it's the people that I think can,
+you know, not only figure out what it is
+that they want and, you know, what the
+what good looks like, but then can kind
+of figure out how to activate the
+systems to be able to work on their
+behalf. And there's going to be people
+that do that incredibly well. And I, you
+know, one of my kind of personal bars
+for
+for how impactful our work ends up being
+is will you see the rise of companies
+that are one, two, five, 10 people that
+are doing a billion dollars in revenue,
+right? That's kind of the ultimate
+agency outcome if you think about it.
+It's like you have a
+very small set of people capable of
+commanding, you know, what could be this
+very
+large-scale enterprise,
+you know, mostly because they are
+opinionated about things like sales,
+marketing, product, software
+engineering, and so on. And I think
+that's going to be a really cool cool
+thing to see.
+Mark Benioff had said something along
+the lines of that they weren't going to
+be hiring any more software engineers,
+which maybe they over-hired, too. I
+don't know. But then that they were
+going to be increasing the number of
+sales
+people. And I think that often people
+hear the word sales and they think
+somebody who calls you up randomly or
+cold calls, but sales is actually a big
+part of it is people who are networked,
+who know a lot of other people. I think
+that's what he was talking about was
+what was going to be really valuable to
+the growth
+were humans with human connections. And
+is this something you've seen data to
+back this up or to see this as a
+high-growth coming out on this is
+showing that EQ matters a lot. You know,
+a lot of people think in this world
+that's getting more and more
+technologically sophisticated, all of a
+sudden the the soft skills, the social
+skills, being able to connect with
+people would be less valuable. It's
+actually the opposite. Once you make
+these
+abilities and these capabilities
+democratized to be able to write code,
+for example, then some of the other
+things actually start to matter more in
+the market. And so, I'm not surprised at
+all that sales people who have, you
+know, deep technical knowledge, and we
+have many here in in Brad's org and
+across the organization, are going to be
+at a premium or around around um the
+world cuz those are the people going to
+be able to connect the dots, use their
+EQ plus their technical expertise to
+solve problems. And I feel like when
+you're thinking about what skills we
+want in the economy, that's going to be
+a key part of it as well as critical
+thinking and decision-making. We're
+still going to need people to identify
+those problems to chase after, right?
+And that's where Brad talked about the
+agency combined with the ability to
+target the right problem is going to be
+at such a premium. I expect that to be
+really important.
+I've seen in tech, I think there's this
+over-indexing on IQ and horsepower. And
+I'm a big believer that I think these
+systems are going to be able to do just
+about any cognitive task we can think
+about. But you you brought up EQ, which
+I think is a really important one. I
+don't think that enough attention gets
+paid to that because I I know some small
+companies that scaled really big and
+they built great products. I can't get
+anybody on the phone. I can't talk to
+anybody because they're just focusing
+purely on the technical component and
+not where they exist in the network of
+people and everything else like that.
+And what are ways that somebody right
+now who wants to be, you know, find
+themselves in a, you know, very aligned
+position with the future? How do they
+build these skills? How do they work
+towards that? And how do organizations
+find people or foster that? I mean, I
+think it starts in schools. Like, you
+know, one of the really exciting things
+about the moment we're at is education's
+going to change. And I know that also
+creates a lot of excitement and anxiety,
+but I think so many things that we're
+learning in school, I have younger kids
+and so in the elementary school grades,
+they're going to be even more relevant.
+You know, what are you teaching people
+when they come into pre-K or
+kindergarten? You're teaching them how
+to be a human. And I can't think of a
+better set of skills to learn now than
+how to be a human. Because that's going
+to be sort of how you become a better
+complement for this amazing
+intelligence. You know, as an economist
+you think about two constructs,
+substitution, which creates a lot of the
+anxiety, but also complements.
+If humans can become complements to
+intelligence and leverage it with AI,
+you see,
+that is going to be the unlock. And I
+feel like a lot of schooling in the
+early stages, even now, and it'll be
+more so as we go forward, is teaching
+those kind of soft skills and how to be
+a human. Later on, critical thinking,
+financial numeracy with numbers, still
+going to be really important. I mean, my
+kids have calculators, but I still want
+to teach them how to do multiplication
+tables. Dictation software that works
+really well, I still teach them how to
+write. You'll need those skills and
+you'll need a sense of some other kind
+of higher order cognitive skills,
+resilience, grit, things that they're
+going to need to adjust to these changes
+in the market. So, when a CEO says,
+"Look, we're looking for more somebody
+like this instead of that,"
+students in the future are going to be
+able to prepare to pivot in the right
+way and have that baseline skill. That's
+kind of how I think about people
+preparing. I think education will play a
+big role. I think work experience at
+great organizations can play a role,
+too. Those are the two areas.
+I've been advising some students. I
+don't want to name the college, but it's
+in
+the Bay Area. It's a pretty good
+college.
+They have a pretty good CS computer
+science program.
+Do you know how many days they spent in
+the last semester learning how to use
+tools like WinSurf or Cursor?
+I don't know. Don't tell us. I Zero.
+Zero. None. None of their professors
+have taught them anything about how to
+use AI coding agency. They're probably
+They're probably all using it in the
+background.
+&gt;&gt; Yeah. Oh, yeah, they are. And and I'm
+also tell the ones that aren't, I'm
+strongly encouraging them to that. And I
+think that was
+that was sort of for me a surprising
+thing to find out that at that level
+they're about to be put out in the
+workforce and they're not even getting a
+date. And I understand, you want them to
+understand the fundamentals, you want
+them to understand that, but you know,
+they're going to be applying for jobs. I
+help them put together projects and
+stuff so they can get jobs in places,
+but what is OpenAI's role in policy both
+from education and policy makers and
+stuff and trying to advise or influence?
+It's a good question. I think, you know,
+there's no question that we're headed
+toward
+an overhaul, I think, of kind of how the
+education system works. I think that
+will be a positive overhaul. I mean, you
+know, at the most kind of reduced level,
+right? What what is it that we're
+building? You've got this thing now that
+is this
+kind of personal tutor of every person
+on Earth, right? It And as it gets
+better, it will start to understand you
+better. It'll understand stand your rate
+of learning better. It'll understand how
+you like consuming information, right?
+Do you Are you more visual? Are you more
+quantitative? Do you need things
+explained certain ways?
+We've had with the amount of feedback we
+get from people, for example, even with
+with children who are dyslexic trying to
+learn and the impediment that that
+creates in the learning process and ways
+that AI can unblock,
+you know, learning for those for that
+population. It's consistent. And so, I
+think that, you know, the the entire
+kind of way that we think about
+education and what education is in the
+country will will have to adapt. I think
+it'll be good, though. I think it will
+force in some ways our systems to think
+about, you know, what are the ways that
+people will use these tools in the
+future. I think
+we, you know, the the example you gave
+is in some ways surprising, but in some
+ways not.
+I think the the people adapt faster than
+the institutions,
+but the question here will be, you know,
+how do we work with policy makers and
+with the institutions themselves to try
+and help the institutions adapt. I think
+the ones that do, though, will have this
+incredible accelerant. I think that you
+will see
+the outcomes among students
+and the the ways that they think about,
+you know, what this tool can do in the
+classroom
+will will just fundamentally change for
+the better.
+And it will also then free up teachers,
+free up students to spend more time on
+things that are going to be the kind of
+high leverage skills of the future that
+Ronnie mentioned. So, things like
+decision-making, things like critical
+thinking, you know, tool-based
+problem-solving,
+how do you you know, how do you kind of
+develop agency and conviction early in
+children? I think that that type of
+thing is going to be, you know, super
+important as opposed to a curriculum
+that today you know, reinforces things
+like memorization, regurgitation, and so
+on.
+Yeah. And I also say, I mean, I'm pretty
+optimistic that we can make these
+changes in the education system. And I
+think it's going to come from teachers
+and students the way Brad's talking
+about. Like in the early '60s,
+President Kennedy said we were going to
+put a man on the moon. And if you look
+at what we actually had in terms of
+national assets at that time and like
+the scientific capabilities,
+that was a pretty far off goal. But
+during that decade, we dramatically
+increased the number of people doing
+PhDs in sciences and engineering as
+people geared up for this challenge. And
+so, I do think there's a really strong
+role for leadership across sectors to
+kind of sound the clarion call and say,
+"Look, this is where we're going to go."
+And I when I think about OpenAI, I think
+about we have a we have the best
+information about where the technology
+is going. That's an important role to
+play to let people understand, "Here's
+what we're building." And other people
+in society, education leaders,
+government leaders, business leaders and
+other sectors will be able to see it
+from their perspective. But if we put
+that that call out there, I think you're
+going to see a lot of dynamic dynamic
+changes across. And you know, Brad and I
+are both loyal Dukies, of course, and at
+Duke I expect the curriculum in computer
+science and in economics to be really
+different 5 years from now in a lot of
+positive ways. And I expect a lot of
+experimentation, you know, beyond
+whether you can use ChatGPT to study or
+how you regulate in the classroom as a
+professor, really important points. I
+don't want to downplay that. But more
+important is how are you going to use
+this stuff to do do stuff topics in your
+curriculum, help students who maybe
+can't learn from a graph but can learn
+from a oral presentation or, you know,
+teach students the same thing though in
+three different ways so everyone in the
+class gets it. There's so much amazing
+stuff that'll happen. I do think it'll
+happen. I think we have a history here
+in the United States and you'll see this
+around the world as well, but I know the
+US is the best where we've actually
+responded pretty dynamically to some of
+these big challenges. Can you talk a bit
+about OpenAI's engagement with educators
+and policy makers specifically about
+what
+you are doing?
+To start I can start with the example of
+Cal State University. So, you know, for
+those of you from California who spend a
+lot of time here, Cal State is like, you
+know, just the ultimate unlock for
+students who are first generation, whose
+parents
+maybe they come from another country or
+they haven't attended higher education.
+Those are the kids that Cal State
+specializes in. And those are the those
+are the students that Cal State has
+traditionally, for its long illustrious
+history, taken to the next level. And
+so, we're proud to, you know, to work
+with them. And you know, this is
+something that comes from from what Brad
+is talking about, the the research and
+deployment. Someone like me picks it up
+and says, "Okay, now that we're working
+with this great institution,
+how are we going to maximize the
+outcomes for students when they go for
+that first interview? Can we prepare
+them with the skills they need to to do
+well?
+Can we track their career outcomes over
+time and say, 'You know what, having
+access to this intelligence made a huge
+difference.'" And so, that engagement
+has led me to work with administrators
+at CSU,
+researchers, and once we get everything
+in order, students ultimately to make
+sure we're going to make a big
+difference. And so, for me it's been a
+great interaction and it's been
+facilitated by the deployment we've done
+with CSU. So, that's an education
+example.
+I mean, education's been for us the
+fastest growing segment that uses
+ChatGPT and other OpenAI tools. So,
+it surprised us a little bit, I think,
+in some ways. You know, we knew early on
+when we launched ChatGPT that it had a
+resonance with students and that was
+it was clearly applicable to the way
+that people wanted to learn,
+engage with information, engage with
+knowledge, test their own learning
+ability and skill set.
+And
+what funny side story is we when we
+right after we launched ChatGPT, we
+launched it in November of '22,
+we had basically the kind of remainder
+of that school year where
+I think there was a lot of upheaval, I
+would say, in in that sector and you
+probably remember this.
+And for a while we all looked at each
+other here and we're like, "Man, we, you
+know, I don't know what this is going to
+ultimately lead to for us, but, you
+know, and and is all this stuff
+ultimately going to get banned?"
+Something over the summer of '23 as the
+school year changed over, I don't know
+what it was that went around, but
+when when everyone came back in the
+fall,
+the level of enthusiasm and I think the
+level of forward-lookingness of the of
+the leadership in kind of the broader
+American educational system
+had changed and it was
+they we had a lot of people coming back
+to us and saying, "You know, actually
+this is I think one of the best things
+that is maybe ever happened to this this
+industry. It's meaningfully changed how
+my students are learning. We're starting
+to develop perspective on how people are
+really using this. And not only do we
+have that perspective, I actually want
+to extend and develop that perspective
+so that I can figure out how to better
+use this in my classroom, work it into
+my curriculum, challenge students in new
+ways, right? Figure out ways that we can
+actually have it surface gaps and
+vulnerabilities in certain student
+populations that maybe aren't getting
+the attention they need. So, all that
+work now kind of is culminated in work
+that we're doing internally with an EDU
+team here at OpenAI to try and work more
+with the sector. You know, Ronnie
+mentioned the Cal State example is just
+one of many examples of of ways that
+we're we're trying to to to engage. And
+so, part of it is product building, part
+of it is is engagement, part of it is
+policy, but we are going to take kind of
+a whole of company approach to it. I
+remember, I won't name the school
+system, but they famously had banned it.
+They're like, "Ah, we're banning this to
+use in the school system." And then I'd
+heard anecdotally that a number of
+teachers within had been using it having
+really positive outcomes for many of the
+reasons you pointed out, you know,
+I helped do a study when I was here and
+one of the number one feedback we got
+was from students was it doesn't judge
+you. ChatGPT doesn't judge you. And it
+was a great way if you're feeling you're
+going behind or whatever to to ask
+questions and up to speed. and then we
+saw that some of the teachers were
+getting really good results in the
+classroom, and then went to the school
+system and said, "Listen, no, we we need
+this. This is something we've been
+sorely lacking." And there was a kind of
+a famous reversal on that. And that was
+I think like That happened faster than I
+expected. And would you say that you're
+seeing probably a faster adoption than
+you'd been expecting, or was I just not
+with it? Uh I've been seeing it. I mean,
+I think you're right. There was that
+transformation sometime in 2023 where
+people realized, "Wow, we can unlock a
+lot of value here for students and for
+professors." And maybe what happened
+over that summer, I don't know, maybe it
+happened for me. One of the biggest
+barriers to innovation for new faculty
+members, let's say, at a university is
+developing new curriculum. So, someone
+says, "Look, hey, this topic's hot. Why
+don't you develop a whole class on it?"
+Professors want to help their students,
+they want to introduce some new
+material, but there's a huge cost as it
+puts together against your research,
+your other teacher responsibilities. But
+all of a sudden, I can use the tools in
+ChatGPT to develop that syllabus. I can
+make a great entrepreneurship in AI
+syllabus now much more quickly than I
+could before. It can help me decide how
+to decide at what classes I'm going to
+teach, the slides I might use, the
+readings I might assign, even discussion
+questions for my students.
+When you lower the barriers to creating
+new content, it becomes even more
+exciting for a professor to try
+something new or a teacher in the K-12
+context. So, I feel actually that now as
+faculty and teachers are unlocking that,
+you're seeing a lot more adoption. I
+think the other thing is that
+at the end of the day, introducing
+students to new ideas they wouldn't have
+had anyway or otherwise is such an
+amazing thing. Any teacher, right, sees
+that and there's a spark. And that's
+going to make them want to find a way to
+use those tools. We definitely need, you
+know, rules and policies they'll set up
+at the school level. That's really
+important when and how students use
+these tools. That's That's going to be
+key. And I imagine those will be worked
+out, and there'll be variation across
+different educational institutions. But
+but I have no doubt that it's going to
+be a huge part of education given how
+valuable it is. We talked about this a
+little bit before we started recording,
+which is
+there has been years and years, you
+know, centuries of speculation of what
+happens when you have intelligent
+systems, well, how's that going to
+disrupt the world, whatever. And now
+we're in the place where actually
+starting to see this happen, and we
+realize that I think a lot of it was
+fanfic, and it was just so scenarios,
+and the scenarios playing out and it's
+very different. And I think your
+approach has been you're very
+evidence-based. It's the idea that you
+prefer research over theory. And
+where are you directing your research
+right now for impact and guidance for
+policy?
+For my work, at least on the economic
+research part, that narrow piece of it,
+I've been thinking about a couple
+things. One is which sectors are going
+to be affected first. I think what I can
+do to help the organization, but also
+the world is if I can identify that
+sectors like health care and education
+might be transformed more quickly, let's
+say, than retail and finance, that's a
+really important insight to provide to
+the world. Cuz if people are in those
+sectors and thinking about their jobs
+and what they can do, it both unlocks
+opportunity on the enterprise side, but
+also helps people plan their careers and
+make their investments. So, one of my
+big goals is to figure out which sectors
+are going to be influenced first and by
+how much. The next thing I've been
+thinking a lot about is which countries,
+which geographies are going to be most
+affected. I don't think that's really
+helpful. When I look at previous
+technological transformations where
+people were left behind, a lot of the
+impacts were geographically
+concentrated. Let's say, for in big
+manufacturing hubs in the upper Midwest
+in the United States during the last
+transition. And when you look at that
+disruption and the scarring that
+happened over many decades afterwards, I
+realized that if we can develop good
+indicators of where in terms of
+geography these effects are going to be
+most pronounced, that's going to be
+really really helpful. So, my team
+spends a lot of time on that as well.
+And the last piece is communicating it.
+You know, a lot of economists, or if I
+was in academia, that's sort of the last
+piece, the piece you like to tack on
+there and say, "Okay, well, you know,
+somebody besides my mother is going to
+read my paper with its, you know, 33
+appendices."
+In this job, especially given the
+privilege that I have to be close to the
+researchers who are changing the world,
+I got to be able to translate that for
+for real people. So, those are the three
+aspects I think, sort of where
+geographically, which industries, and
+explain to the world how that's coming.
+And that's kind of where the evidence
+base that I at least want to develop is
+coming from. It It seems like a big
+unlock that kind of went unnoticed was
+when ChatGPT went to from you had to
+have a credit card, you had to have, you
+know, your login and all that, to now
+you just go to openai.com, and you can
+just use it, which just increased
+accessibility around the world. And, you
+know, I think it's been iPhones now, and
+seeing that kind of roll out there,
+which I think was a really good
+democratization of it, was the idea that
+it went from, you know, only a certain
+part of the world was going to have
+access to it, to now anybody in, you
+know, unrestricted countries you're able
+to use that, which I think is great. I
+think that's that's It's very cool. You
+mentioned, though, research into sectors
+are going to be affected. What have you
+found out so far? So far, I think the
+sectors that are less regulated, where
+there's less, let's say, sort of red
+tape, rules of the road that need to be
+followed, those are the sectors going to
+change the quickest, right? And so, some
+sectors like health care, for very good
+reasons, we have sort of HIPAA
+protecting patient privacy, we have
+rules on how care is delivered. These
+are really important parts of the US
+health care system, and they are similar
+around the world. Those are sectors that
+are going to be harder to change, right?
+And they're going to be slower to adopt
+new technological tools. And that's not
+just true for AI, it's true for previous
+incarnations of technology. IT moves
+slower into health care and education
+than it did into other sectors. So, I
+think where you have sort of high levels
+of regulation and compliance
+requirements, you'll see slower
+adoptions and those jobs changing slower
+as a result. Doesn't mean we can't
+unlock a lot of productivity in health
+care delivery and education. Um in
+education, we're seeing this on the
+student side and teachers, but overall,
+like implementation, I think you'll see
+it move faster in sectors where the
+regulations aren't as sort of
+significant as you are in those two
+sectors. That's That's key. And the
+other thing you'll see is where the
+workforce is going to embrace it. Brad
+made a good point earlier. It's like
+this happened with enterprise software.
+People brought tools to work, like new
+storage solutions, and then their CTO
+was like, "Hey, what are you doing
+there?" right? And then eventually,
+they're like, "Wait, this thing you're
+bringing is actually the whole company
+should adopt it." In sectors where you
+have highly skilled workers who are
+bringing these tools to work, using
+things like ChatGPT, building on our
+API, those sectors are going to
+transform more quickly. And that's why I
+think places like finance, right, sort
+of research drug discovery type
+organizations, that's places where I
+think you're going to have those people
+bringing it to work to solve problems. I
+expect those sectors to move pretty
+fast. What career advice are you giving
+your children?
+That's the hardest question.
+Um and what I tell my kids is when I was
+growing up, I was a son of immigrants,
+right? So, like, if your parents are
+from a certain part of the world, the
+advice you might get would be there's
+only two choices, right? There's like,
+be a doctor or be an engineer. If you're
+really creative, you can be a biomedical
+engineer. Okay, so there's like a real
+narrow set of choices.
+Why would parents give those advice to
+kids? It's because it's like they would
+predict these are going to be the stable
+professions. But during the course of
+that generation, health care changed a
+ton, right? We had managed care, a lot
+of physicians work for hospitals. The
+job is so different than the generation
+that was giving that advice thought it
+would be. Engineering, I mean, Brad
+talked about this earlier, has changed
+dramatically. We never had full
+precision and full predictability to
+say, "Your kid should do this." In fact,
+many of the jobs we have today, we
+didn't have names for them in 1940. So,
+first, I have a dose of humility, which
+is like, it was never easy to tell our
+kids what to do or guarantee they would
+listen. For my kids, though, I reflect
+back on what we talked about, which is
+you've got to learn how to be a critical
+thinker and identify problems. Develop a
+point of view to have the agency Brad's
+talking about. You have to have the
+neuroplasticity, resilience, flexibility
+to be able to adapt because the world is
+going to change a lot. If you think
+about what's happening in AI, changes to
+our climate, changes to geopolitics,
+you're going to have to adapt a lot. And
+the last piece, I do think that the EQ
+and the financial numeracy will be
+really really important as they navigate
+their careers. In terms of predicting
+what their job title is going to be, I
+don't think I have any more information
+than my parents did, and and I think
+they're going to be okay.
+It's an interesting note that like the
+title may change, actually the title may
+stay the same, but the the work may
+change. I One of my favorite anecdotes
+was Dan Bricklin, the guy who created
+VisiCalc. He had
+In the 1970s, he was a high-level
+programmer, extremely capable. And
+programming was changing a lot then, and
+you're moving into object-oriented
+programming and libraries and stuff. And
+he thought that programming jobs were
+going to become more scarce. And so, he
+actually left to go get his MBA. And as
+well staring at the back the blackboards
+with all the figures, he's like, "Why
+doesn't somebody make like an electronic
+spreadsheet?" And then he invented
+VisiCalc. And it was just funny, though,
+to read how he thought that programming
+job was ending in the 1970s. And I kind
+of think that it is changing a lot now,
+but you mentioned about how if you're
+somebody who's running, you know, an AI
+software tool, you're kind of managing a
+project. It's project management. And
+having the technical skills is certainly
+critical. And I've heard this a lot,
+like, why bother learning to code? And
+I'm like, you know, do I want an airline
+pilot that doesn't know aerodynamics?
+You know, what are other skills you
+think are still going to be
+mattering, you know, in the future?
+Well, I think the direction of travel of
+technology is toward always toward
+individual empowerment. I think if you
+look at trend like trend-wise every kind
+of past technological revolution and
+every every past phase change, it it
+always
+drives toward the individual and what
+the individual is capable of. So, you
+know, 1900, you had 40% of the US
+economy working in agriculture. Today,
+it's 2%, right? And we produce some
+multiple
+more,
+agricultural output than we did in 1900.
+Uh and you can run a large farm with a
+small fraction of the number of people
+it would have taken to run a large farm
+in 1900.
+And so, now what happens when that, you
+know, you get that same phenomenon kind
+of applied what widely across the
+economy and in sectors where
+historically we haven't had that
+phenomenon, right? But
+and I think that there are a lot of
+places that would benefit from a
+phenomenon like that.
+And that's not to say that there's a,
+you know, it's an argument for job
+displacement, for example, but
+I think that the argument here is
+toward, you know, higher economic output
+kind of per unit of input. And that
+fundamentally is what drives economic
+growth. But people are resilient. They
+find other places to to to to to go
+work. And when you create the kind of
+local level, the micro level
+empowerment, you tend to create, you
+know, have the second and third or
+third-order effects of of other jobs
+that get created that that we couldn't
+have foreseen,
+you know, in in And so,
+you know, it would be weird to tell
+someone in 1900 for example that there
+are people today whose entire job is to
+make content for a small little device
+that people consume, you know, many many
+hours a day. And that those people can
+make a perfectly kind of viable economic
+living.
+It would seem like a it would seem like
+something that was almost kind of
+unimaginable that, you know, would
+exist, but it does.
+And so, there will be that kind of
+second set of changes and second and
+third order impacts.
+But I think that, you know, I always
+kind of come back to
+the
+kind of individual empowerment point of
+the direction of travel being toward
+more people being able to do a lot more
+with a lot less.
+And then, you know, their labor and and
+their ideas and their creativity
+creating kind of the downstream
+opportunity for people that,
+you know, 20 years ago would have been
+doing a different job.
+The example I use is
+in ancient Mesopotamia, 98% of people
+were in agriculture. And all of a sudden
+somebody invents the plow. And if you're
+thinking, well, we're all farmers,
+we're doomed. That may have been a
+mindset, but the reality was that led us
+to inventing education and health care
+and actually governments and all these
+things. And I think that that's to your
+point, like that's the thing I think we
+sort of forget is that we've had huge
+huge upheavals. Like literally taking
+going from 98% and, you know,
+agriculture to all of a sudden where
+they go. And and, you know, if we
+thought back in the year 1800 and said,
+hey,
+we're going to get rid of almost all
+farm jobs, people would be thinking,
+well, what are we going to do? There's
+going to be massive problems. And we'd
+realize that, like you said, we created
+all these new kinds of roles and entire
+sectors of the economy and stuff. And
+it's it's always hard to predict though.
+It's always hard to predict where that's
+going to be cuz we just imagine the
+future is sort of the present what with
+like shinier clothes and robots and
+flying cars. And
+And part of I think this is part of the
+job of research and in organizations
+that are close to technology producing
+information to help people make the best
+decisions. You know, Brad talked about
+agency. Agency requires sort of an
+individual characteristic, right? But it
+also will require information about what
+the market looks like, where technology
+is going. And so, I feel that as a big
+responsibility in what I'm doing here.
+You know, our mission is to benefit all
+humanity. And to do that, I want to make
+sure people have the information they
+need to the best of my ability, right?
+We can't predict with perfect fidelity
+what it all's going to be. And I can't
+tell my own kids, much less anyone
+else's kids. But if I can give good
+information based on research, that'll
+help people make better decisions and I
+and I do think ultimately find a place
+where they can flourish. We should also
+keep in mind there's a lot of people who
+can't participate in the economy the way
+that they would like because of
+extenuating circumstances in their life
+that are, you know, born in part of
+things like lack of access to health
+care, lack of access to education. I
+mean, we talked a little bit earlier
+about what are the impacts that we might
+see in parts of the developing world
+where access to those resources is
+scarce.
+You know, there's the direct impact that
+we have of how do you make make it
+easier for someone to scale a small
+business? That's going to be a clear
+present and I think very positive set of
+things that, you know, that happen.
+There's a kind of second and third order
+almost hidden impact that we also I
+think, you know, Ronnie has the
+challenge of having to figure out how to
+measure this, but what happens when you
+enable people to better manage health
+care, right? Or better manage the health
+care of someone who is dependent on
+them, you know,
+a sibling or, you know, a parent or
+something like that. What happens when
+you raise the education level, you know,
+in in the educational outcome levels by
+2%? Right? And what is the kind of
+second and third order effect of that as
+a downstream impact on on the economy
+and on, you know, on on on people's
+ability to participate in the economy.
+So,
+you know, there's there's kind of the
+direct way to look at this. I think
+there's also the indirect way to look at
+this. And that's where I, you know, I
+just defer to to to Ronnie on on
+whatever he can measure. I think
+I think this is a really good point
+though, Brad. And that's something I've
+been thinking is hard to measure, but
+important here is coaching, mentoring,
+counseling.
+When he talked about people who can't
+fully participate in the economy, my
+mind immediately went to there's so many
+people who have so much to offer, but
+maybe uh they're neurodivergent or maybe
+they need a coach or someone to help
+them get to the next level or a level of
+counseling and behavioral health, which
+we don't have broad access to in many
+cases. It's expensive. And depending if
+you live in a part of the country or the
+world where you don't have access to
+that, you're sort of sidelined. And, you
+know, economists use the technical term
+of labor force participation. What it
+really means is you're sidelined. You
+you can't participate. But if we could
+help people
+compared to having no help now, some
+help, um we could help them participate
+in the economy more fully. And that can
+unlock a lot of potential. And I do
+think any equation, any cost-benefit
+analysis, any sort of
+sort of reckoning about what's going to
+happen in the economy needs to also
+consider people who are participating in
+the way they could now getting enabled.
+I think I think that's a really
+important point. And we'll try to
+measure it, but even now I think it
+should be thought about um in that way.
+I think we in in developed economies
+sometimes have a habit of
+forgetting the things we have that other
+people don't have. Like if you want
+legal help, you hire a lawyer, but if
+you're living in a subsistence level,
+you know, economy, like that's hard. You
+can't do that. You know, financial
+planning. Everybody would benefit I
+mean, the people who benefit most from
+financial planning are people who
+haven't had access to financial
+education. I think that's an exciting
+area. And I think that certainly we're
+going to start seeing those effects
+eventually when you start to see what
+happens when you unlock so many of the
+people around the world by just the
+circumstances of where they were born
+and had access to didn't have access to
+that information or expertise. And I
+think that's going to be very cool to
+see how AI makes that possible. We've
+seen just through ChatGPT alone how
+people are able to use it as educational
+tutors, helping translations, and
+helping small businesses, helping people
+who have to work in communication, etc.
+And that's been a benefit. And I think
+that we've seen in some situations where
+you have a tool, let's say translation,
+people often think like, oh, that's
+going to decrease the need for
+translators, but actually can increase
+it because all of a sudden a company
+that never did business overseas now can
+one send out query letters, etc. and now
+find themselves dealing with an entirely
+different country and new economy. And
+that's increased demand for human skill.
+Do you think this is going to be
+happening in other places? Do you think
+this is going to be just a big where
+area of opportunity or is it just going
+to be minimal? Look, what we actually
+see in our in our data at OpenAI is when
+we cut the price of our models, which is
+really cutting the price of
+intelligence, we see a disproportionate
+increase in demand for that model. And
+so,
+and we see that with ChatGPT, too. When
+we make better intelligence available
+and more of it available,
+people use it more, right? And we don't
+see the upper bound yet on
+kind of how intelligence and demand
+correlate. It seems like there's just
+this relationship that the more we can
+make really great intelligence available
+more cheaply, the more consumption there
+will be around that that thing. And so,
+if you think about kind of how that
+plays out in an economic context,
+you know, what happens when you've got,
+you know, if you can cut the price of
+good legal advice for example by a
+factor of a hundred,
+you know, do you see a corresponding
+thousand X increase in the demand for
+legal services? Same in health care,
+same in education, same in software
+engineering, same in any other thing.
+And I don't think we've we've quite come
+to terms with what that means.
+And if you think about, you know,
+thousand X demand increases kind of
+across every segment,
+that's a lot of strain, right? That's a
+lot of demand in in the economy, which
+is a good thing. But, you know, I think
+there's and ultimately people are going
+to have to kind of like organize
+themselves to figure out how to serve
+all of that need and and and and be
+there to serve those, you know, that
+demand and in those in those needs.
+Which means that you need people who are
+going to come up with ideas, take
+initiative, go start things, go create
+things, right? And so, that's the
+dynamism I think of the economy that's
+under appreciated when we talk about
+what the impact of AI will be.
+And it's the thing that we see at a
+very, you know, at a micro level now at
+OpenAI, but
+I think, you know, we should look at as
+as we make intelligence, you know, as
+Sam has a phrase I love, too cheap to
+meter.
+What does it really mean for
+the world's ability to to create output?
+And then, you know, ultimately I think
+that the downstream impact of of that
+we'll find is that it actually had an
+incredibly enhancing effect on on on
+jobs, on productivity.
+And, you know, that's that's the
+positive future I think we're we're
+excited about. And as an economist, I'll
+just say this could be really exciting
+for people in those professions in the
+following way. When you sort of make
+intelligence too cheap to meter and that
+intelligence is providing, let's say,
+legal advice or financial management
+advice or advice on real estate, all of
+a sudden you get a bunch of new people
+accessing that never could access it
+before, right? So, it's opening up the
+market number one. And then once those
+people sort of start making decisions,
+right? Buying a property, right? Making
+a transaction,
+engaging with legal services, they're
+going to have higher and higher level
+needs, right? And all of a sudden the
+business that they're running is more
+complex or they have two properties to
+manage. And then there's a bunch of
+people who are trained in those fields
+who never served this market before, but
+now they're going to come to them with
+more complex questions. And if that
+accelerates, that could create
+tremendous opportunities in those
+fields. It will be about deciding which
+part of the market to focus on, what
+kinds of skills you want to leverage.
+But I think for real estate agents and
+insurance brokers and financial
+advisors, there's a potential for this
+to actually onboard a tremendous number
+of people who never would have access to
+their services to begin with. That's the
+excitement of reducing the cost of
+intelligence dramatically, which is
+what's happening.
+I would say an example that's I think
+kind of
+very close to home here is that
+every time there's a new model or in
+some new technology from OpenAI, you'll
+get some pundit who'll go, well, how
+come they're still hiring? And I think I
+I I'm a growth mentality person. I'm
+like, well, of course they're hiring
+because and
+I want to get a to get a sanity check on
+this. My prediction I've told people is
+more people are going to work for OpenAI
+than work before it. That it's not like
+all of a sudden, great, we've got a new
+tool, you don't need people doing these
+roles before. The roles change, but
+you're going to want more people.
+Do you think would you agree about my
+assessment of the trajectory of OpenAI,
+more people here after AGI? I think it
+will be more people after AGI. I think I
+kind of go back to what I said earlier
+of how do you, you know, the the kind of
+demarcator of of the impact of AI being
+about kind of more output per person,
+right? And so, you now have, you know,
+you get this kind of scale down
+basically in kind of how large of a firm
+or company can be run by some number of
+people. So, you know, a large enterprise
+had to be run by 100,000 people before,
+maybe that number comes down to 50,000,
+eventually 20,000, you know, 5,000,
+1,000, you know, 100, and so on and so
+forth.
+And maybe it's, you know, it's an even
+steeper fall off than that.
+And so, I I suspect and hope OpenAI will
+be kind of no different in that, you
+know, especially given what we do. Mhm.
+And so, you know, I think but I think
+going back to also the point I made
+around
+what do we see as the second and
+third-order impacts of the deflationary
+aspect of intelligence, right? Is it it
+creates significant and disproportionate
+demand for the service. And so, what
+does that mean for us? It means we need
+more people that can help work with more
+users across more use cases. It means we
+need more people helping policy makers
+think about the problem. It means we
+need a chief economist. You know, if
+you'd asked me 3 years ago if we would
+have needed a chief economist, I would
+have I would have said I don't
+maybe in 2030. But here we are. And so,
+you know, I think that that's
+I think it will be more people, but
+I think it is kind of somewhat
+consequence of both of the trends I just
+mentioned. I helping out a friend who's
+working on uh
+training models and stuff to help with
+cancer nutrition. And we were talking to
+somebody from OpenAI yesterday, and they
+said, "Would it be helpful to talk to
+the health team?" And I'm like, "You
+have a health team?" They said, "Yeah,
+we do." I'm like, "Well, great." And
+then, you know, having a conversation
+with them. And that was a thing like,
+"Wow, this is what a great area of
+expansion." And I think that
+I I hope that other companies are sort
+of thinking about how these tools really
+are augment and amplify and create
+opportunities for growth because I think
+that if you have a good talent, you want
+to keep that talent and find more
+talent, not find a way to not need
+talent. I think that'll put them at a
+disadvantage if they're
+you know, not being forward-thinking
+about that. Yeah, I mean, if you can get
+incredible leverage on every marginal
+person, you know, 10x, 100x leverage
+that you could get, you know, 10 from 10
+years ago or something like that. Like
+in some sense, why why wouldn't you want
+more people? Yeah. You know, if Ronnie's
+team can now, you know, with a team of
+10 people do economic analysis across,
+you know, 10 different subjects or 10
+different sectors versus you know, two
+because every person now is doing three
+or four times more.
+I mean, that's an amazing thing, right?
+And so, it just means that we as a as a
+company are capable of doing more. And
+the thing that we kind of said, "Oh,
+we'll we'll handle that in 2026 or
+2027." It's like, "No, no, we can do it
+right now." Do you have favorite chat
+GPT tips or advice you give people on
+using AI?
+I have a few. I think the coaching is so
+valuable. You know, you meet so many
+people who they say, "Hi, I'm a
+religious chat GPT user." And you find
+out like they're not even logged in or
+they don't know about deep research. And
+you're like, "Oh my gosh, there's so
+much more you can do." For me, the
+coaching has been so valuable on diet
+and fitness. Brad doesn't know this, but
+I'm training for a
+a big athletic adventure to play
+basketball at Duke at a Coach K camp.
+Okay, I've requested time off for He's
+got to approve it. Mhm.
+I got to be in good shape cuz otherwise
+I'm going to get like I'm going to like
+tear my ACL the first second I get out
+there. So, chat GPT's helping me over
+the next 4 weeks like really get in the
+best shape of like I guess middle age.
+And
+how is it doing that? Well, it's looking
+at the food I'm eating and giving me
+advice and giving me calorie breakdowns.
+It's reducing the decisions I need to
+make by analyzing what I've had that
+day. And it's helping me track weight
+and and other kind of fitness
+indicators. And so, in doing that, I
+have this like map out to 4 weeks which
+we're going really, really hard with the
+jobs we have and the travel that we're
+all doing to manage. And so, I feel like
+that's a pretty simple one that you
+don't need super advanced tools to do,
+but it's really changed my outlook and
+made this possible. So, that's my
+favorite one of this month. The the
+thing I do, especially now with O3, and
+I think O3 is a model kind of broke
+through the the barrier for me. It kind
+of crossed the chasm. And I look, I all
+of our earlier models were great. O3,
+there's something deeply great.
+And the thing I use it for is to
+actually like challenge me. So,
+a lot of my job is is I'm trying to make
+assumptions about how things work just
+based on kind of empirical observation
+of what companies are using us in
+certain ways, what users tell me they
+like or don't like, and um
+in some ways, you know, like I said
+early on, our job is to predict the
+future. O3 has an incredible ability to
+actually be a question asker. So, I
+think people think of chat GPT as
+something that you can only ask
+questions to.
+But a lot of times what I really want it
+to do is actually ask me questions and
+challenge my assumptions and make an
+counter-argument to me of why something
+works or doesn't work the way I think it
+might work.
+And it's an incredibly effective thought
+partner in that regard. And it can be at
+really big things,
+you know, or it could be at really, you
+know, low-level dumb things. I just got
+a puppy.
+And I you know, I've had dogs my whole
+life. And
+you know, we've we've had a puppy that
+now is um
+is is been
+I would say not the easiest when it
+comes to getting her to calm down and go
+to sleep. And you know, my wife and I
+could not figure out how to how to get
+her to do this. And so, chat GPT kind of
+being a resource for challenging our
+assumptions about what we thought we
+knew about puppy training, for example,
+has been an interesting experience.
+O3 is something special. And and we
+talked a lot about you know, what
+happens when the models can can push as
+well as pull in. And then when they can
+kind of, you know, get you to think
+about a thing. And that has been just
+just been amazing. O3 has really been a
+fun experience talking to. It's the
+first time I felt like it's not just
+something that's
+kind of telling me a thing that it
+looked up and versus something it
+thought about.
+Brad, Ronnie, thank you very much. This
+has been great. And I hope we can speak
+again in the future about this and maybe
+check on the progress of all of this.
+Looking forward to it. Thanks for having
+us.

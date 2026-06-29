@@ -1,0 +1,850 @@
+Kind: captions
+Language: en
+Where were you? What were you doing when
+you realized that the US had lost its
+global dominance to China?
+&gt;&gt; I was on the train on the metro north
+commuting between New York City and New
+Haven, Connecticut. One day I came
+across this timetable from 1914. I found
+that the trains over 100 years ago were
+faster than they were in 2023. Now, it's
+not totally a um apples to apples
+comparison because the trains make uh
+many more stops uh today than in the
+past, but still something's going really
+badly off track when we're not building
+trains that are faster than 100 years
+ago. What's going on?
+This week on Bold Names, Dan Wong. He is
+a research fellow at the Hoover
+Institution at Stanford University. He's
+also the author of a new book. It's
+called Breakneck, China's quest to
+engineer the future. That's why I
+invited him on to talk about the
+competition between the US and China.
+&gt;&gt; And Mims, you went solo this week
+because I was off. But before I went,
+you were so excited about getting him on
+because of all the stuff in his book,
+the stuff you learned, and also some of
+the provocative kind of arguments that
+he's making. Yeah, Dan Wong is very
+opinionated, but he also brings receipts
+because he lived in China from 2017 all
+the way until 2023 where he was a tech
+analyst. Dan also has a surprising way
+of framing the key differences between
+the US and China. He says China can be
+understood as an engineering state. The
+US on the other hand is a lawyerly
+society. The idea is that in the US we
+have a lot of rules and regulations.
+They're managed, in Dan's view, mostly
+by a class of lawyers. That's good in a
+lot of ways, though. Lawyers protect
+people's rights. That includes things
+like access to a clean environment, also
+the rule of law and property
+protections. If you don't agree with
+something in the US, you have a voice.
+You can disscent. But Dan says that
+having all these lawyers around also
+means a lot of rules and procedures.
+Those can slow the US down. like
+building things. Think of infrastructure
+projects or housing or manufacturing.
+Now, contrast that with China. Dan says
+that China is run mostly by engineers
+and they like to build stuff. Think of
+enormous bridges, highways, or in their
+case, a manufacturing base that's the
+envy of the world. But China, of course,
+is a one party system. People don't
+often have a say in any of this. They
+don't have a lot of rights necessarily
+and the state has the power to build
+anything it wants. Dan and I talk about
+how China's efforts to engineer the
+environment have become social
+engineering through the country's one
+child policy and of course its zerocoid
+policy. I think this distinction between
+the US and China is important to keep in
+mind as you listen to and watch this
+interview. Dan here talks us through
+some of the very big challenges that
+both superpowers are facing now.
+&gt;&gt; Yeah. And Dan was in China at a time
+that was both interesting politically
+and geopolitically. Right. Chinese
+leader Xi Jinping was consolidating his
+domestic hold on China getting that
+third term and also looking outside of
+the borders trying to develop even
+closer relationships with perceived US
+rivals Russia and North Korea.
+&gt;&gt; Right. And obviously things have just
+gotten more tense between the US and
+China since then. Meanwhile, China's
+having some economic issues of its own,
+slowing growth. There could hardly be a
+more timely guest.
+&gt;&gt; Oh, absolutely. This is a good one.
+&gt;&gt; So, let's take a big step back and you
+know, why are we talking about China and
+the US at all, right? They're the two uh
+biggest economies in the world. They're
+the number one and two manufacturers.
+and you frame it in a way that that I
+think is is very useful. And so could
+you lay out for me kind of h what is it
+when you really boil it down that the US
+is versus what China is when we're just
+trying to give people a shorthand.
+So the central thesis of breakneck is
+that China is a country I call the
+engineering state because at various
+points the entirety of China's most
+senior leadership all nine members of
+the standing committee of the poll
+bureau and that was
+&gt;&gt; and that poll bureau effectively
+controls the whole country.
+&gt;&gt; That's right. It was the highest ruling
+echelon within the communist party. And
+so these were people trained as um
+thermal engineers or electrical
+engineers or mechanical engineers. And
+what is it that engineers like to do?
+Well, they build, build, build build.
+They kind of treat building another mega
+project as the solution to all of their
+problems. I contrast the engineering
+state with the United States, which I
+call the lawyerly society. The issue
+with lawyers is that they block
+absolutely everything. And I sort of
+came up with this framework in part to
+move away from these 20th century
+political science terms like capitalist
+or socialist or autocratic or
+neoliberal, whatever that means, to try
+to reason through the tensions between
+the US and China at the moment. It's
+kind of my simple shortorthhand for just
+thinking about what explains the
+pathologies of these two big
+superpowers. Yeah, I love that both of
+these characterizations fly in the face
+of sort of the cartoonish, but for
+somebody like me, you know, raised on
+like '8s films where it's like the
+American hero versus the communist
+villain, like the lawyerly society is
+not really uh a Rambo like uh figure.
+and the engineering state where you
+actually have a pretty uh light social
+safety net and everything is geared
+toward really giant corporations that's
+not very conventionally communist and I
+just highlight that because I feel like
+yours is a truer framing and it really
+kind of you know bake my noodle in terms
+of thinking differently about how each
+of these um countries function. I think
+it'll really help our listeners if you
+can give a a a concrete example. Let's
+start with China. Let's start with the
+engineering state. But let's start with
+something that's very familiar. Most
+people are going to have one sitting in
+their pocket. You know, China is where
+still most of the components for the
+iPhone are made and made on a scale
+that's kind of incomprehensible in all
+of history. What is it about the
+engineering state which has made you
+know ironically this iconic American
+company Apple possible?
+&gt;&gt; Shenzhen is one of these legendary
+Chinese cities that substantially
+liberalized it built at breakneck speed.
+Tim Cook and Steve Jobs decided that
+Shenzhen was going to be the site of
+most iPhone production was kind of a
+natural choice because Foxcon had
+already been building a lot of iPods in
+Shenzhen at that point. Foxcon being
+Apple's number one contract
+manufacturer,
+&gt;&gt; the biggest contract manufacturer in the
+world that is this big Taiwanese company
+that uh other electronics makers
+contract to organize their workforces to
+produce their PCs or game consoles or
+iPhones. And after iPhones started
+rolling off the assembly lines, Shenzhen
+is just now the undisputed hardware
+capital of the world. And so Shinjzhen
+is now the headquarters of companies
+like DJI. It is uh the headquarters of
+Tencent, one of China's most innovative
+um internet platforms. It is just
+building a lot of stuff. And one of the
+things I point out in my book is that,
+you know, if you're want to figure out
+what Detroit was like in its heyday of
+production, I wouldn't go to Detroit
+today. I would go to Shenzhen to see
+historic Detroit. And so Shenzhen is the
+site where you had this giant
+manufacturing workforce rubbing
+shoulders with investors uh being the
+site of a lot of universities as well.
+And so this is kind of the the magic of
+China's u manufacturing ecosystem where
+you just had so many ingredients in
+place to produce innovative devices at
+great scale. And let's talk about the uh
+the lawyerly society. You know, this
+example is almost it's almost like a
+hory old chestnut at this point, but if
+people don't know it, we should we
+should talk about it. And that is
+California's failure to build highspeed
+rail and how that contrasts with China's
+the fact that China now has more
+highspeed rail than every other country
+uh on Earth combined.
+How does California's inability to build
+highspeed rail exemplify the lawyerly
+society?
+&gt;&gt; I go back to 2008, which was a pretty
+important year for highspeed rail in
+both the US and China. So in 2008, the
+voters in California approved a
+referendum to build a highspeed rail
+line between San Francisco in the north
+and Los Angeles in the south. In 2008,
+China began construction of its uh major
+uh most profitable highspeed rail line
+connecting Beijing and Shanghai. So 3
+years later, China actually completed
+the Beijing to Shanghai highspeed rail
+system. And over the first decade of its
+operation, this rail moved about 1.3
+billion passenger trips. What has
+happened in California since 2008? Well,
+here it is in here we are in 2025. uh
+they've really reduced their ambitions
+such that segment one is supposed to
+connect only Bakersfield and Merrced. It
+is slated to open this first segment uh
+somewhere around 2030 to 2033. That's
+the official estimate from uh the
+California state government. Maybe we
+will have highspeed rail 20 years after
+California first approved this big
+referendum. But the Chinese were able to
+do this in three years and they're just
+going to move billions more people,
+billions more passenger trips than
+whatever California is able to
+accomplish. You had this great line in
+your book. You said the US manufacturing
+base has rusted from top to bottom. And
+you know to read that as somebody who
+writes so much about manufacturing in
+the US, I was just like ouch. What did
+you mean? I meant that if you take a
+look at America's apex manufacturers
+who is still making uh a lot of
+products, manufactured products today, I
+would point to Intel, the semiconductor
+maker. I would point to Boeing, the uh
+aviation maker. I would point to the
+automotive sector, which consists of
+Detroit automakers, plus Tesla. And if
+you take a look at these apex
+manufacturers,
+almost always the headlines including
+from the Wall Street Journal are a tale
+of woe about these big manufacturers.
+Intel has been slipping uh extensively.
+Mostly what we hear are its layoffs and
+how it is not meeting its quality
+production uh targets. Boeing has also
+had a lot of safety failures. That's
+very well covered. Detroit's has been
+falling for decades now. For a while,
+Tesla was kind of the bright spot in
+American manufacturing, but that's
+pretty uncertain now given how erratic
+Elon Musk has been over the last couple
+of years. If you take a look at just the
+broader data of American manufacturing,
+manufacturing output uh fell pretty
+substantially since 2008. It's never
+really recovered. The US has lost about
+a million manufacturing workers uh since
+about 2008. And if you take a look at
+some of these more simple basic
+products, the US simply hasn't covered
+itself in glory. At the start of the
+pandemic, when its manufacturers had a
+really hard time shipping products that
+were relatively simp like masks and
+cotton swabs, we had shortages of all of
+these goods at the start of the pandemic
+in 2020. And if you take a look at uh
+you know some pretty critical military
+goods, something like munitions, u
+Ukraine has drawn down a lot of American
+stocks in its uh defense against uh
+Russia, but uh the US hasn't really been
+able to get munition shells restarted
+either. And so I think that the US has
+rusted from top to bottom. Maybe there's
+still some successes out there in
+something like semiconductor production
+equipment. I'm sure we can find um some
+bright spots here and there, but for the
+most part, the US hasn't been doing all
+that well.
+Why does this matter? And and when I say
+that, China for a long time uh before
+its pivot to you know I think in the
+book what you call hard tech and and
+infrastructure was pursuing this US
+model of who cares where things are
+made. We'll control the intellectual
+property. You know it's manufactured in
+Shenzen but it's designed by Apple and
+Certino. you know, all all Nvidia
+controls all of its IP and has all the
+knowhow um and the critical uh software
+and designs which are then of course
+manufactured by TSMC and others uh TSMC
+and Taiwan specifically. Why does it
+matter that it's rusted from top to
+bottom? Isn't this the goal? Aren't we
+trying to dematerialize our uh entire
+economy?
+&gt;&gt; Maybe it doesn't matter so much. So um
+if you take a look at stock valuations,
+it is certainly pretty remarkable that
+American tech companies hold up so much
+of stock market growth. It is pretty
+remarkable that there are, you know,
+multi-trillion dollar companies uh
+namely especially Nvidia out there
+making all of the AI chips. But I think
+if you are uh sitting almost anywhere
+else, again, I'm speaking to you from
+Michigan, uh people here aren't
+celebrating the stock valuations of
+Nvidia. They're saying, uh, my goodness,
+the jobs shouldn't have moved south, uh,
+into the United States, and the other
+sorts of production shouldn't have moved
+to China. Uh, the elites certainly have
+this sense that, well, maybe it wasn't
+very good idea that we are now pretty
+dependent on China for something like
+rare earth magnets. When Beijing
+suspended exports of rare earth magnets,
+&gt;&gt; all electric vehicles and weapon
+systems,
+&gt;&gt; uh, which are pretty important, right? I
+think, um, weapon systems are important.
+And I think electric vehicles are
+important and automakers immediately
+panicked when they couldn't get uh
+Chinese for earth magnets. I think that
+we live in a material world. Um maybe
+there are a lot of people who would like
+nothing better than to disappear into
+the computer and become an algorithm or
+something. And that's not the life you
+and I live uh Christopher. That's not
+the life that most people live. I think
+we live in a physical world and we need
+to make stuff and that's still pretty
+important.
+So the knowledge that we've lost to
+build and to live in that physical world
+that's process knowledge. What is
+process knowledge? What is it that we
+have lost which goes beyond just the
+infrastructure to do all this
+manufacturing? So I like to think of
+technology as three different things. So
+the first thing that technology is is
+the tooling, the equipment. This is the
+really observable stuff. So in a kitchen
+analogy, this is the pots and pans. This
+is the stove. This is the spatula that
+we need to cook something. The second
+component of technology is written
+instruction. So these are things like
+patents and blueprints. All of the stuff
+that we're able to write down like a
+recipe as well. And the third I think
+the most important part of technology is
+something I call process knowledge. You
+can also refer to this as knowhow.
+There's a Greek word metis to refer to
+this. So you can talk about this as
+tacet knowledge and I think this is the
+most important part of technology
+because a lot of things can't be written
+down and a lot of things can't be
+encoded as equipment. So if we're
+sticking with a kitchen analogy, let's
+think about giving someone who has never
+cooked a day in his life before the most
+wonderfully equipped kitchen and the
+most exquisitly detailed recipe. Can we
+expect that person to do something as
+simple as making scrambled eggs? or
+maybe he'll make a big mess because he's
+never cooked anything before. And so it
+is a lot of this process knowledge that
+disappeared when American communities of
+engineering practice dissipated when a
+lot of jobs uh moved away from uh where
+they were. And so one of these thought
+experiments I always wonder about is
+let's say that Tim Cook and Steve Jobs
+decided that they weren't going to build
+these factories in Shenzhen. Let's just
+say for the sake of fantasy that they
+built uh all of these iPhone
+manufacturing hubs in Wisconsin, Ohio,
+Michigan, Pennsylvania. One might well
+imagine that in the future it's
+Pennsylvania that created all of these
+follow-on innovations around the
+smartphone. So maybe it could be the
+case that all of these battery
+technologies could be built in
+Pennsylvania. all of the uh screen and
+acoustics uh technologies, all of the
+consumer crrons could still be in uh the
+US, but right now it is Shenzhen that's
+making all of these pretty critical
+materials.
+Let's turn back to China because the
+engineering state has its flaws. They're
+not just engineering, you know, giant
+new uh water transportation
+uh infrastructure and highspeed rail and
+factories. They're also doing a lot of
+social engineering. What are the
+excesses of the engineering state?
+&gt;&gt; For the most part, I think that the
+engineering state is really, really good
+once it builds a lot of infrastructure.
+You can certainly point to a lot of
+unprofitable bridges, unprofitable
+highspeed rail lines. Um, but for the
+most part, um, I would say that it is
+really, really good to be building more
+mass transit, more trains, more subways,
+more bridges that connect people. And
+physical engineering for the most part
+is pretty good in spite of a lot of
+waste and a lot of profitability. And I
+think it would be excellent if the
+Chinese stopped themselves at physical
+engineering. But the problem, the
+fundamental problem with the engineering
+state that they cannot restrain
+themselves. They cannot restrain
+themselves to be social engineers and
+they cannot restrain themselves to be
+also population engineers as well. We
+take a look at modern China. A lot of
+the human rights abuses are concentrated
+with ethnorreligious minorities and
+Kyang as well as Tibet. Even if you're
+in the high majority, there has been all
+sorts of controls on her life, namely
+the hook system, which is called
+household registration, which makes it
+really difficult for a migrant worker to
+move to a city on the coast and have her
+child uh be educated in the schools. And
+I focus a lot in my book on the one
+child policy as well as zero COVID. And
+the one child policy as I wrote produced
+this sort of campaign of rural terror
+that really severely disrupted a lot of
+families uh in rural China that really
+relied on multiple children as their
+only guarantee of livelihood. also lived
+through the zerocoid pandemic. And what
+zero co led to was uh Shanghai,
+&gt;&gt; China's cosmopolitan dynamo, empty and
+silent,
+&gt;&gt; being locked down for about 8 weeks in
+which 25 million people could not step
+foot outside of their apartment
+compounds
+&gt;&gt; at night. The echoes of people crying
+out from their windows for help.
+And so these are the sort of ways in
+which the physical engineers sort of
+treat the population as just another
+building material as if it could be torn
+down and remolded as they wish. And
+that's really the sin of the engineering
+state. Yeah. And there are ways in which
+the engineering state seems to get in
+its own way even with respect to its
+stated goals of building things and
+economic dynamism.
+And so uh you know you have a great
+example in your book where you said uh
+you know at one point she was asking
+where all of China's unicorns had gone
+tech unicorns right how are these
+companies fairing now is the engineering
+state kind of learning its lesson that
+there are these excesses to how it tries
+to control uh the the economy. I think
+one of the challenges is that the
+engineers can only engineer their way
+out of problems, even the ones that are
+created by engineering. And so, um,
+you're referring to a meeting I wrote
+about when Cining was touring the
+province of Shandong. And at this
+economic symposium, he started asking,
+"Oh, what happened to all of our
+unicorns?" and some snarky people on the
+internet uh whose comments were quickly
+censored called uh C the unicorn hunter
+chief uh who didn't even really realize
+what he was doing. I think it's not
+unfair to say that she is not some sort
+of great economic thinker. This is not
+where his friends lie and he's sort of
+strangled and hunted down most of
+China's most wondrous beasts uh for
+creating a lot of economic value that
+investors were getting really excited
+about. I don't think that China is
+really um creating an excellent startup
+environment right now. They are doing
+some supportive policies on artificial
+intelligence. They're trying to help
+DeepSeek along. But I also am really
+reminded that the one child policy
+started as an engineering exercise which
+the um country decided that well we can
+just stop uh people from reproducing
+because it judged I think incorrectly
+that China had an exploding population.
+Uh but now how are they trying to get uh
+people to really have children again?
+Well, they're really deploying the tools
+of the engineering state once more.
+They're deploying party members. Uh many
+of these are people with too much time
+on their hands to harass women, younger
+uh families, uh asking women, "When was
+your last period? Well, why don't you
+have another child?" And so, they're
+kind of hounding and harassing a woman
+to say, "Why don't you go have some
+children?" And I don't think this is
+going to work. It is a lot more easy to
+block uh people from having children by
+sterilizing them or forcing abortions
+upon them uh than it is to uh encourage
+population. are the excesses of the
+engineering state in China, does that
+provide an opening for America to regain
+its footing uh in terms of the battle
+over you know who is building the future
+with tech at the very least or in any
+other areas? I think one thing that is
+similar between the US and China are
+that they are both delivering all of
+these self-humiliations on a daily basis
+that are beating themselves up as
+quickly as they can. And I think the
+game is going to go to the country that
+just manages to stop beating itself up
+all the time.
+&gt;&gt; So the least bad policym
+&gt;&gt; that's right. Uh so you know stop
+spanking yourself I think would be great
+uh policy. I think that Cin Ping has
+been this remarkable unicorn hunter. I'm
+not sure that Donald Trump is uh being a
+great unicorn breeder right now. If
+we're thinking about all of these
+manufacturing problems that we've noted
+uh earlier in the conversation, I'm not
+really sure that the Trump
+administration is delivering anything of
+a manufacturing renaissance. I think the
+tariffs are on net pretty bad for
+American manufacturing. If we take a
+look at manufacturing employment since
+um April, since liberation day, we'll
+see that the US has lost about 40,000
+jobs since liberation day in
+manufacturing alone. And so that isn't
+promising any sort of a great
+renaissance. I struggle to think that
+the US can stay a scientific leader by
+depriving the scientific agencies of a
+lot of funding. So I think the estimates
+out there are that National Science
+Foundation and the NIH uh have about
+half of their funding uh cut by the
+Trump administration. I think there is
+something real to the Trump deregulatory
+agenda. I think that might uh well be
+quite positive. But I think on that the
+Trump administration is producing many
+more headwinds uh than tailwinds for
+achieving some sort of a technological
+renaissance in the US.
+&gt;&gt; So what can the US do better? How can
+the US be more of an engineering state
+uh without becoming a social engineering
+state?
+&gt;&gt; I want to start with the simple stuff.
+So, there are so many of these headlines
+that San Francisco wasn't able to build
+a public toilet uh very well. It cost
+something like $1.3 million to build.
+&gt;&gt; 1.7 million was the estimate.
+&gt;&gt; This is video of it arriving at Noi
+Valley's town square. It's a
+pre-fabricated unit with a project cost
+of about $1.7 million. The
+&gt;&gt; It came in well below that only because
+a construction firm volunteered its
+services.
+&gt;&gt; Volunteered, you know, this is uh this
+is strange. We don't we don't need the
+volunteering. We just need these
+contractors to do a good job, right? So,
+I just want us to get the simple stuff
+right. Denmark. I just spent a month in
+Denmark, which has these superb subway
+stations. They're totally spotless.
+their subways are uh completely
+automated. There's no driver uh that is
+actually driving these subway trains.
+Let's just get to Denmark. Let's just
+get to Denmark levels of construction
+costs. I am in favor of having a more
+robust state that
+does the things that states are supposed
+to do, which means guaranteeing public
+order in big cities, which means
+building housing for people to move,
+which means building mass transit uh so
+that people are able to have reasonable
+commutes and get to their jobs. And so I
+in my final uh chapter called learning
+to love engineers I bring out the
+example of this very reviled urban
+planner named Robert Moses who is
+famously the subject of Robert Ker's
+magnificent monumental work the power
+broker Robert Moses and the fall of New
+York and this was a time when Robert
+Moses made these horrible mistakes that
+displaced far too many people that
+arrogated the interpretation of the
+public interest to himself but was also
+a urban planner that built a lot of
+needed infrastructure. Um things like
+the Lincoln Center, uh things like uh
+the Flushings Metals Park, you know, to
+have these sort of um wonderful
+infrastructure that many people are
+still using today in terms of highways,
+uh bridges, the opera, all of these
+things are pretty positive. And I want
+us to get back into a muscular
+government that is able to do the things
+that it says it wants to do rather than
+sort of this puny government that isn't
+really able to do almost anything at all
+because it just heavily restrains itself
+by being plotting and proceduralist and
+too lawyerly about doing everything.
+You're definitely the first person I've
+heard ever say we need more Robert Moses
+in the world. Importantly, of course,
+the other part of that story is Jean
+Jacobs, who prevented Robert Moses from
+turning uh, you know, uh, the East
+Village in New York City into uh, a
+giant uh, highway uh, interchange, which
+would have, I mean, I think objectively
+been really terrible. It sounds like you
+feel like we lionized in the US the Jane
+Jacobses at the expense of
+what the Robert Moses were capable of. I
+think we've gotten the balance quite
+badly wrong. I think Jane Jacobs was
+absolutely right to stop Robert Moses at
+the time that she stepped in to say,
+"Yeah, let's not turn Washington Square
+Park into yet another highway." Which
+had been Moses's plan. I think there has
+been a good corrective to Robert Moses's
+excesses, but I think we also need to
+rehabilitate a little bit uh the works
+of these engineers that did build a lot
+of ne necessary infrastructure because
+what we lack right now is a lot of
+infrastructure. We lack the housing. We
+lack the mass transit. And this is to
+say nothing of the big infrastructure
+push that is going to be required to
+decarbonize our economy, you know, by
+transitioning our economy to more solar,
+more wind, more transmission lines.
+These are all pretty landensive sources
+of production that needs to be connected
+by the lines. And so we need to figure
+out how to build a lot more today. What
+I really want to say is that I think the
+US should learn to be a little bit more
+engineering. Let's say 10% more
+engineering. such that it is able to
+build subways and bus stations not at
+absurd costs. And I think it would be
+really wonderful for China to be much
+more lawyerly. Let's say uh 20% more
+lawyerly so that the Chinese are able to
+feel like they have some sort of rights
+that are being protected, that they're
+not going to be censored, that they have
+the space in their own lives to pursue
+things that they want to do. Obviously
+now you have China and the US both
+getting in their own way, but what
+should I what should everybody listening
+to this pay attention to in both
+countries to know who might be pulling
+ahead or who might have the upper hand
+in the various you know contests over
+power that are playing out between the
+two.
+So the major US strength is the
+artificial intelligence sector. As you
+point out, I'm at Hoover. I spent a lot
+of time in Silicon Valley surrounded by
+a bunch of nerds who are trying to build
+God in a box. And that is a lot of fun
+to see what they're trying to come up
+with. So that is uh where the US still
+has I think a pretty credible lead as of
+this moment, artificial intelligence.
+and the US has this tremendous weakness
+in manufacturing and I'm quite worried
+that the US and the West will just lack
+the industrial base in order to produce
+critical goods. Now, what was really
+striking to me was that President Trump
+backed down really quickly from his
+tariffs in the wake of Liberation Day.
+All it took was for Beijing to suspend
+the export of rare earth magnets, for
+automakers to panic, and for Trump to
+give a trade truce to Beijing. And
+what's really surprising to me actually
+is that rare earth magnets is not
+China's only tool. Uh China has a lot of
+other tools in which it really dominates
+the supply. And so I would point out
+something like a lot of active
+pharmaceutical ingredients especially
+antibiotics and ibuprofen. Imagine if we
+don't have any more ibuprofen or
+antibiotics tomorrow. I don't like it
+when any country is so dependent on an
+adversarial relationship in order to
+supply uh critical goods. And to put a
+fine point on it, the reason
+any country should be worried about
+being dependent on an adversary is that
+if there is a genuine conflict between
+the two of them, that puts the US in a
+really difficult place. Similarly, the
+US has in the past put China in a really
+difficult place when they've blocked the
+export of certain goods.
+&gt;&gt; Yes, that's right. And even if it's
+anything short of a major confilration
+in the Pacific, you could imagine that
+one day that well, he says, "We don't
+like this Dan Wong character. He's been
+criticizing uh China excessively."
+&gt;&gt; Yeah. Your your blog is blocked and uh
+the in the PRC, we should say.
+&gt;&gt; That's right. Uh I'm not sure if I have
+always been in persona
+grata in uh China. Um but you know maybe
+they can still threaten uh people and
+places and particular policies short of
+a really obvious big conflict. And so I
+think what the US should do is to take
+this future a little bit more seriously
+as the Chinese have to say well if we
+actually want some degree of sovereignty
+how are we going to actually achieve it?
+Dan Wong, thank you so much for speaking
+with me. Thanks, Christopher. This was a
+lot of fun.
+We reached out to the California
+highspeed rail authority. A spokesperson
+said that while the Central Valley line
+is a critical part of the statewide
+phase 1 highspeed rail system from San
+Francisco to Los Angeles, last month's
+report to the state legislature quote
+provides a clear path forward to connect
+the highspeed rail system to Northern
+and Southern California via the Central
+Valley by 2039.
+He also said that China's highspeed rail
+quote benefits from state control, low
+land acquisition cost, and high
+population density, whereas
+California's, has had time and cost
+increases due to factors such as
+environmental, local needs and
+legislative complexity. We also reached
+out to Tesla, which did not respond to a
+request for comment. We reached out to
+the Chinese embassy in Washington DC. A
+spokesperson disagreed with Dan Wong's
+characterization of China's treatment of
+people in Shing Jang and Tibet. The
+spokesperson also said that the Chinese
+economy has a quote solid foundation for
+stable development and ample momentum to
+forge ahead. We also reached out to the
+White House. A spokesman said that
+President Trump's policies have yielded
+quote trillions in historic investment
+commitments in American manufacturing.
+He also said that the administration is
+quote cementing America's dominance end
+quote in cuttingedge technologies.
+Peace.
+[Music]

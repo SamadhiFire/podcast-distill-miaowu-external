@@ -1,0 +1,1090 @@
+Kind: captions
+Language: en
+[Applause]
+Today we're lucky to have with us on No
+Prior is Jesse Zang. Jesse is the
+co-founder and CEO of DecaGon which
+provides customer service and other
+related AI for all sorts of different
+enterprises including banks, telecom
+providers, airlines and of course many
+of the biggest and most important tech
+companies. Jesse Prior started Loki
+which was acquired by Niantic and we're
+very excited to have him join us today
+on No Prior. Jesse thanks for joining us
+today on No Prior. Thanks for having me.
+&gt;&gt; Can you tell us a little about Decagon
+and why you started the company, how you
+started it, how you all got going?
+&gt;&gt; Yeah, of course. So, Decagon for those
+who are not really familiar with us,
+we're an AI customer service agent. And
+so, you can kind of think of us, you
+know, if we're working with a large bank
+or airline or just people that have
+large contact volume. The AI's job is
+to, you know, have a very engaging and
+personalized conversation with the user
+and resolve it and, you know, save the
+the company a bunch of money and, you
+know, ideally drive more revenue in the
+future because folks are more engaged.
+And as we as we've grown, it's kind of
+becoming more and more of um you kind of
+think of like a conversational UI for
+the brand where it's it's how every user
+can interact with it. And we often use
+the term like concierge to describe
+this, but um that's what we do.
+&gt;&gt; And you're working right now with some
+big banks or some of the world's biggest
+banks. you're working with airlines,
+telos, like you've actually gotten to
+very big customers very quickly. How did
+how did you go about doing that or how
+did it happen?
+&gt;&gt; Yeah. So, I mean, as you know, we
+started out mostly with the like digital
+native companies. A lot of startups do
+that and digital natives of course are
+much more willing to try out startups.
+They can move faster
+&gt;&gt; like late stage tech companies and
+things like that.
+&gt;&gt; Yeah. Like uh like Ripling, Notion,
+folks like them. They were like great
+partners and they also just helped us
+iterate on the product a lot. So, that's
+where we started. As we've gone on, I
+think just naturally we're kind of
+pulled up market just because of the
+demand. And as you might imagine, those
+that's where most of the large contact
+volumes are. So it just happened a lot
+faster than we thought. And I would say
+a lot of these enterprises also moved a
+lot faster than we would have expected.
+Um, so that's that's why we ended up
+there.
+&gt;&gt; I think that's one of the
+underappreciated things about AI
+traction is a lot of companies are
+willing to try things in a way they
+weren't willing to before because it's
+such a big technology shift. And so all
+these markets are kind of open now that
+weren't before that would be much harder
+to do.
+&gt;&gt; Yeah. I mean another specific dynamic is
+that at the enterprise it's becoming a
+lot more of a top down motion. So you
+know in the past many of these
+technologies could have been just like
+one team trying to vet it or decide it
+but now it's like a it's a AI
+transformation and the seuite the board
+are all like very big on how do we adopt
+AI and you know customer service is
+often one of the biggest areas or
+probably the most lowest hanging fruit.
+So um that's how these conversations
+have progressed
+&gt;&gt; and how much of an impact are you having
+in terms of some of these teams? So I
+know that you're giving a lot of
+leverage to these customer service orgs
+like are you making people two times
+more productive or I'm just sort of
+curious is there a way to measure the
+the outcome here?
+&gt;&gt; Yeah, I mean most of the large
+enterprises they'll the first thing
+they'll measure is just what is the I
+guess like efficiency that you're
+getting them. So whatever they're
+spending on their contact center or
+their operation, how much you're getting
+cut that down by? And we've done case
+studies now where, you know, folks have
+been able to cut that down by, you know,
+60 70%.
+&gt;&gt; Oh wow.
+&gt;&gt; That's like a great success case, right?
+Because it's like a very clear business
+case. You can show it to to everyone.
+&gt;&gt; Mh.
+&gt;&gt; Um and then the the sort of secondary
+thing oftentimes, you know, folks will
+even, you know, put this at the same
+level if not higher is just the customer
+satisfaction. So you need
+&gt;&gt; you need to measure that and make sure
+that your customers are, you know,
+having a good time and more engaged. if
+if not just like more also just just
+happy than than previously.
+&gt;&gt; So you're basically providing these
+customer service AI agents
+slashworkflows that help I guess
+function 247 in multiple different
+languages out of the box and do do you
+basically do like a lot of integrations
+into what they are already providing or
+how do you tend to work with folks?
+&gt;&gt; Yeah, I think the way you should think
+about agents here are that uh it's more
+of a substitute for the mundane human
+labor. So whatever systems they're
+already using generally an AI agent at
+least when you first deploy is not going
+to disrupt the tooling you currently
+have. So whatever CRM they're using,
+whatever, you know, telephony stack, we
+will just integrate with that and then
+it's it's kind of doing all the tasks
+you would expect a human to do and uh
+over time that's just continues scaling.
+And so one of the benefits of AI agents
+is that they're always on, you know,
+they're awake 24/7, they're you don't
+have to train them really, there's no
+churn, you can just like scale them out.
+&gt;&gt; And then uh you co-ounded this with
+Ashwin and you are both second time
+founders. um what made you decide to
+work on this problem in particular?
+Because I feel like many people's first
+company, they really focus just on the
+product and the technology and then on
+your second company, you're often more
+likely to also focus on the customer
+side, the commerciality. Was that your
+story or were you always kind of more
+commercially focused in terms of how you
+thought about problems in the world to
+solve? Yeah, I mean one of my um I guess
+thesis is that there is a lot of
+untapped potential and just like really
+strong technical folks and making them a
+bit more commercial
+&gt;&gt; because the types of problems on the go
+to market side they're I would say
+generally a little bit more hairy and so
+a lot of folks don't like the messiness
+and especially a lot of technical folks
+enjoy the engineering product problems
+more but they're still kind of very
+interesting problems very rewarding and
+if you can do that well that's how you
+get your company to grow a lot faster
+cuz you just do more sales and and at
+the end of It's it's still problem
+solving. So yeah, I mean Asha and I were
+both technical backgrounds. We just got
+along very well. He's similar stages in
+life. We yeah both started a company
+before as you said.
+&gt;&gt; And the first time is when you kind of
+lack a little bit of the commercial
+sense and you're you're just generally
+&gt;&gt; just trying to figure things out. It's
+very hard to build intuition of what is
+a good idea and what what isn't. And so
+um it is definitely easier the second
+time around. Mhm.
+&gt;&gt; How do you think about uh how you hired
+or what sort of people you look for for
+the team the first time around versus
+this time? Like what are you optimizing
+for in the people that you bring on
+board in your in your second company?
+&gt;&gt; Yeah, I mean we're a little fortunate
+now. I think we've built a bit of a
+brand around our talents and I think we
+have like a you know fairly interesting
+culture now. The way I would describe it
+is yeah, we're generally just selecting
+for uh very smart people. First of all,
+I think we we care more about that than
+like, you know, direct experience and so
+on. I think early on experience is still
+quite important. I think um I don't
+think we hired straight out of college,
+you know, for our first pretty large
+number of hires, but of course now now
+we are. So you want a little bit of that
+blend, but the first thing we select for
+is just uh you know, how smart you are.
+&gt;&gt; And uh that that's worked out well for
+us. Uh we we apply that philosophy
+basically across the org. I think
+obviously engineering is is is very
+generally easy to test for but even on
+sales and and marketing.
+&gt;&gt; Um and so that that's been a core part
+of our philosophy. Yeah. The other piece
+is just you know we're an office there's
+there's a lot of I guess like
+&gt;&gt; fun news now how companies work really
+hard.
+&gt;&gt; Yeah. Yeah. Sure.
+&gt;&gt; It's like the 996 culture and so on. I
+mean I don't think we we like over
+rotate on on stuff like that. I think we
+just we're just looking for people where
+&gt;&gt; um you can tell when you meet them that
+they really see this as like ideally
+like like a like a they want it to be
+like a highlight of their career
+basically and they want to put in the
+time and they want to be in a position
+where if they put in the time they'll
+get stuff out of it and they get to you
+know accelerate their career they get to
+&gt;&gt; uh work on like very very interesting
+problems. So, are you in office every
+day like five days a week in terms of
+when people are supposed to be in or
+&gt;&gt; Yeah, we're uh five days and then a lot
+of folks come in um on the weekends, but
+it's not like a requirement.
+&gt;&gt; Yeah, makes sense. Yeah. I mean, it
+definitely feels like you have sort of
+this hardworking culture. People want to
+put in the time because, you know, it's
+interesting because if you look at
+professional athletes in training,
+they're always like, "Yeah, I train six,
+seven days a week. I work hard at my
+craft." And there was almost this period
+in Silicon Valley where people didn't
+want to say that. And I feel like with
+this wave of AI suddenly it's come back
+that it's good to do that you know
+that's how you build a winning company
+and a winning culture and
+&gt;&gt; uh so it seems like you all have kind of
+adopted that as as what how you approach
+things as well.
+&gt;&gt; Yeah I think pretty much all the AI
+companies are doing well have you know
+pretty heavy in office cultures. It's
+just you get way more done especially
+especially in the early stage. I think
+after a certain point of scale like yeah
+you could definitely make the argument
+that it matters less but as of right now
+it matters a lot. Yeah. It also seems
+like there's certain roles that always
+have been remote like throughout
+&gt;&gt; Yeah.
+&gt;&gt; all of history, you know, in terms of
+certain sales roles or um
+&gt;&gt; or the like. Well, well, then really
+you're supposed to be at the customer
+side of your office, right? If you're
+doing some form of like field sales or
+the like. So, it seems like a lot of
+people have sort of gone back to the
+pre-COVID era for the startups that seem
+to be working best, which I think is
+really interesting. And, you know,
+obviously things are working really well
+for you all.
+&gt;&gt; Yeah, exactly. How how are you thinking
+about um the main types of roles that
+you want to build out in the company now
+or things that you're hiring for or
+looking for?
+&gt;&gt; Right now we're we're kind of mostly
+building for scale. So what that means
+is of course we need to hire a lot more
+IC's. We're bringing in more kind of
+like leaders and adding a bit more
+structure.
+&gt;&gt; I mean interesting thing we're thinking
+about now is like a people function.
+Never really needed that but you know
+we're approaching 200 people. It's you
+definitely need folks to be thinking
+about that full-time.
+&gt;&gt; Mhm. and it's more around like org
+design and what is the right way to
+structure our operating cadence between
+teams. We have an office now in New
+York. We're going spinning one up in
+Europe. There's a lot more of those
+problems now. And so that's that's
+definitely something we're we're
+thinking about.
+&gt;&gt; I think that um if you were to give
+founders advice around one thing that
+they should do that is against their
+instinct the first time they've scaled a
+company. What is that thing? or how
+would you think about a big takeaway
+that you've had as you've gone from okay
+we have this nimble team that's grinding
+out a new product into okay we're
+scaling things are working really well
+we have product market fit and we have
+to move as fast as possible like what's
+that is there a big mental transition
+that happens is there a specific tactic
+you'd suggest
+&gt;&gt; so I would say for us we kind of hit our
+stride fairly early in this company so
+it didn't feel like there was a before
+and after
+&gt;&gt; I would say when we were building well
+one we stayed really close to for the
+customer which is always helpful.
+&gt;&gt; I think over time the adjustment we are
+learning to make is uh thinking more
+like medium to longterm versus short
+term because I think at the beginning
+you have to short you have to think
+short term.
+&gt;&gt; You're just optimizing for closing the
+deal or closing a couple customers. But
+once you have your legs under you, you
+both can think more long term and also
+you have obligation to because if you
+don't then eventually you get to a point
+where things really start breaking and
+you feel like oh man I should have
+&gt;&gt; you know scale this better and so on. So
+&gt;&gt; we're definitely in that journey right
+now and we're trying to be as mindful of
+it as possible. Yeah, maybe one related
+thing is that we um do spend a good
+amount of time like studying uh sort of
+later stage teams that have done this
+well and there's obviously orgs that we
+admire where we
+&gt;&gt; Who are some people you think have done
+it well?
+&gt;&gt; I mean ramp comes to mind for sure. Data
+bricks if you're thinking about bit more
+like this just like companies have just
+always executed well.
+&gt;&gt; I think I think Ali data bicks is one of
+the most impressive CEOs.
+&gt;&gt; Yeah.
+&gt;&gt; Just in terms of like how he thinks
+about things and you know depth of
+reflection on different topics. It's
+like really impressive.
+&gt;&gt; Yeah, he's he's actually I would
+probably go far to say he's my favorite
+CEO and he's been very kind to us with
+his time and that's another good example
+honestly. It's like very strong
+technical folks that have I think also
+done very well applying that to you know
+commercial problems and execution and um
+that's definitely the DNA we want to
+build at Dexon.
+&gt;&gt; Do you screen for commerciality and the
+people who join and if so how can you do
+that? So say you have an engineer, do
+you try to find people who are more
+commercial minded or you think that
+self- selects the culture?
+&gt;&gt; I I don't think it's super important for
+every engineer in the company to be
+commercialminded for example. I think
+it's it's definitely very important for
+the founders and then maybe the the
+folks immediately around the founders.
+That's why I think generally when I talk
+to engineers that want to join startups
+for example and let's say they
+eventually want to start their own
+company which is a very common uh
+profile it's in my opinion it's like way
+more useful to join somewhere where
+they've already kind of got the
+commercials figured out and you can
+actually see it in action and build that
+intuition
+&gt;&gt; than to join something premiumf
+&gt;&gt; and I think that's like a very common
+misconception because it's like oh well
+the smaller the team like the closer I
+am to you know learning how to be a
+founder
+&gt;&gt; but if you join a premiumf team and you
+ever actually get to see the commercials
+in action. You're not really learning
+much. You're just kind of learning
+&gt;&gt; essentially what not to do. And
+unfortunately, the reality is that most
+companies don't hit that point. Our sort
+of like discussion we have with with
+engineers these days is
+&gt;&gt; hey it's like yeah it's very important
+for you to join like if you want to you
+know start your own company eventually
+like you know Decon's like the golden
+age to do that because we have a lot of
+the basics figured out but there's still
+so much to that isn't figured out and a
+lot of it
+&gt;&gt; is kind of very close to the
+commercials.
+&gt;&gt; Yeah, that makes sense. Yeah. I think a
+lot of the golden periods for many
+companies is between say 50 and 100
+people up to you know a thousand maybe
+2,000 if the thing keeps going in terms
+of growth because that's the era where I
+think you see the most change although
+you know also going from 2,000 to 15,000
+at Google which is roughly when I was
+there was also sort of this magical
+period of like change.
+&gt;&gt; Yeah.
+&gt;&gt; And so I guess it depends on the size of
+the market and the way the teams run and
+everything else. So
+&gt;&gt; yeah.
+&gt;&gt; Yeah. I guess also it seems like you can
+learn a lot more from success and from
+failure and it sounds like um in the
+context of Decagon it's a really great
+moment to join because you know things
+are working and so people can learn
+different areas. Are there areas in
+particular that you know you'd really
+like to attract people like is it
+international is it somewhere else?
+&gt;&gt; Yeah I mean the way I would think about
+that is like you're kind of if you're a
+founder you're like training your own
+like neural network right and you need
+like positive examples and negative
+examples.
+Like for my first company, I I mean I
+started right after college. Like
+basically the first two years was just
+like negative examples. You're just like
+failing.
+&gt;&gt; And that's like helpful in some sense
+because you can just kind of like brute
+force it and like try to like learn. But
+&gt;&gt; if you get some positive example
+sprinkled in your learning rate is just
+like way faster. Yeah. I think that's
+the misconception. So yeah, I mean as we
+expand internationally it's like I mean
+that's important too. I I think an
+interesting thing with new each new
+office is that you also have to kind of
+rethink the like we work really hard to
+build our current culture and in the SF
+office
+&gt;&gt; you spin up New York we're going you
+obviously sent some folks out but
+&gt;&gt; um got to be mindful of that culture as
+well because once it's set it's kind of
+like becomes its own living thing.
+Europe is a whole different thing
+because the culture over there is
+naturally a little bit different
+&gt;&gt; and so you have to be a little bit
+mindful. It's also just also naturally
+more isolated.
+&gt;&gt; You have to serve wine at lunch and you
+know that kind of stuff.
+&gt;&gt; Yeah. When you talk about having to
+shift the way that you think about
+things more towards medium and long-term
+planning, is that org design? Is that
+internationalization? Is that product
+road maps? Is it like what what is that?
+Is that capitalization? Like I'm sort of
+curious like what are the main
+components that you've had to
+&gt;&gt; start thinking longer term on? Yeah,
+it's probably say it's more organ design
+and product
+&gt;&gt; road mapap.
+&gt;&gt; Or design in in terms of how you
+allocate resources because uh there are
+a lot of types of work that don't yield
+immediate returns like it's not going to
+close a customer for you but if you
+don't do it you will in six months one
+really regret it and then two you'll
+just be in a spot where it's like much
+harder to do that work. What's an
+example of that?
+&gt;&gt; Uh like just like core product work,
+right? Like um you know there's a bunch
+of core product work that is important
+for
+&gt;&gt; you know closing customers in the
+future. It's not going to close any
+customers now. We'll probably still be
+fine for now.
+&gt;&gt; Uh but you can definitely foresee that
+okay well if you don't invest in this
+then closing each incremental customer
+in the future will require the same
+level of work if not more because then
+you just have more overhead and you want
+that to go down over time. And so that's
+the classic type of thing where you have
+to shift your mindset a bit because I
+think in the early days you it's like
+really good to have a greedy mindset.
+It's just like I just really need to
+optimize for this one thing just get
+over the line instead of just planning
+too long term because if you do that you
+could just end up burning a quarter and
+like not getting anywhere. And so I
+think over time you have to make that
+switch. Did you set off to do customer
+service when you started Echogon or is
+that something that you all discovered
+early on as you were iterating on ideas
+or things like that?
+&gt;&gt; Oh no, definitely did not come in with
+any preconceived notion. I had like a
+lot of empathy for the problem just from
+my first company. It was a consumer
+company so we had a lot of users but our
+general approach kind of going back to
+the commercial side was I think we're
+just a lot better at being commercial
+about this in the early days. And so we
+just talked to a lot of customers and
+had a very disciplined process of
+evaluating ideas
+&gt;&gt; and yeah it turns out that this has been
+one of the big use cases.
+&gt;&gt; What made you realize that this was the
+thing to do?
+&gt;&gt; The the real answer is we just saw a lot
+of folks that were willing to pay us
+like you know six figure contracts which
+at the time when you're at zero AR it's
+like oh wow that's huge.
+&gt;&gt; Mhm.
+&gt;&gt; And a lot of folks that were willing to
+you know do the same thing.
+&gt;&gt; Mhm. And it was the only idea we really
+explored that really had that property
+where people were like, "Hey, yeah, like
+if you did this, I would literally pay
+you money because I can justify it." The
+sort of flip side of that at the time
+was more just, "Oh, well, this is such
+an obvious idea. Like, why do this?" Cuz
+you know, people would have thought of
+this before. But that's a whole another
+thing I think like once you start doing
+anything, once you get into it, you you
+you understand there's way more nuance
+than the overall narratives. The sheer
+fact that people were willing to talk to
+us like, you know, two people and
+willing to pay us money was signal
+enough that it was worth doing. I guess
+when I look at sort of the history of
+technology, anytime there's a big
+platform shift, the providers of the
+platform start to forward integrate into
+the biggest applications on the
+platform. So an example of of that would
+be uh after Microsoft launched its OS,
+they forward integrated in what became
+office, right? Those were four separate
+companies doing PowerPoint and Excel and
+all this stuff and then eventually they
+just subsumed the functionality of those
+things and cross- sold it as a bundle.
+And then that happened later with Google
+where they started adding vertical
+searches for the biggest categories of
+search. If you think of that in the
+context of the foundation model
+providers like open AAI or anthropic
+anthropic is already providing cloud
+code you know they're already kind of
+forward integrating in different
+verticals. They mentioned financials uh
+as another area that they're moving
+into. OpenAI famously tried to buy
+windsurf and sort of enter
+&gt;&gt; coding more directly.
+&gt;&gt; Yeah. Do you think about that at all in
+the context of what you're doing given
+just the size of the market and the
+velocity at which you're getting
+adoption? Yeah, I think it makes a lot
+of sense for the labs like um I think
+like OpenAI for example, most of their
+revenue and most of their margin and for
+sure is coming from chat GBT in the
+application layer because you you
+actually own the customer. You get
+&gt;&gt; you're kind of indexing more on the
+problem you're solving rather than you
+know the costs of your model.
+&gt;&gt; And the API business for example is I
+don't they're probably not expecting
+even to make that much money from that
+long term and they probably see it more
+as a wedge.
+&gt;&gt; Some of those work out well, right? Like
+in other words, one could argue AWS and
+the cloud providers are good examples of
+what was perceived as a lower margin
+business that has enormous scale and can
+throw off a ton of cash.
+&gt;&gt; Yeah.
+&gt;&gt; And so, you know, these these APIdriven
+businesses strike me as something
+similar. I'm just more curious like how
+do you think about defensibility
+relative to these things and you know
+&gt;&gt; Yeah. So I guess yeah the point I'm
+trying to make is I think it makes a lot
+of sense for them to push into
+application layer and I think they will
+in terms of what applications I mean
+generally they'll probably start with
+applications where it's more consumer
+proumerry because there's it's just more
+self-contained it's like easier to build
+the software on top
+&gt;&gt; um longterm they may move into more
+enterprise things I don't think it's
+like super useful for applications like
+us to like you know spend a ton of
+thinking about like you know what the AI
+labs will do. I do think the more
+enterprise you are like the more the
+thicker the layer of software is. It's
+not even just like it's not even stuff
+related to the models. It's like okay,
+how do you have like observability and
+monitoring on all the conversations? How
+do you learn from the conversations? How
+do you really dissect the insights? How
+do you build like a testing like
+simulation suite for the for QA of the
+conversations? And there's just so much
+to build. That's what we're focused on
+right now. I think yeah, might might
+make sense. And yeah, who knows, maybe
+one day we'll collaborate with the labs.
+We already have great relationships with
+the larger ones. But I think before they
+tackle our space, there will probably be
+other spaces they have to tackle first.
+Coding is probably one of them.
+&gt;&gt; I guess on a related note, how do you
+think about differentiation? Like what
+do you do uniquely or how do you think
+that you'll build them out over time?
+When we first started the company, it's
+this idea is like very easy to gro,
+right? There's a lot of big platforms
+out there too you have like Salesforce
+with agent force and Google, some of the
+more AI native players. Uh what's worked
+for us so far is is a couple things. Um
+I think one we've we kind of have a
+unique
+we just have like a relatively
+young intense team and that has lent
+itself to a couple things. I think the
+biggest one is just speed. So we just
+able to move really fast and that shows
+itself in building the product and
+executing on the go to market side and
+specifically in the product I I would
+say we've kind of differentiated
+ourselves in taking this approach of
+like hey this should be a very
+productized space. You should have an AI
+agent that's really easy for
+non-technical people to work with and
+for them to build the agent, iterate on
+it, analyze it. And that's in pretty
+stark contrast to how the industry has
+always worked. If you think about, you
+know, the sales forces of the world,
+just the classic SAS, it is a very more
+like a technical endeavor. You have to
+bring someone in to do the
+configuration. You have to have
+technical resources. as you scale you
+can build something quite powerful but
+it just becomes very slow and and
+expensive to maintain because you you
+have to go you engineers to go through
+everything and at the enterprise there's
+so much complexity and nuance that
+&gt;&gt; you have to you have to resolve that so
+I think our view so far has been kind of
+different in that one of the things that
+LM unlock is that you can really empower
+the nontechnical business users and that
+has I would say been pretty well
+received different teams have different
+strategies of course but for the folks
+that were working with and especially as
+you go more up market. I think people
+really like that strategy. There are
+definitely some teams out there that are
+more engineering driven which uh like if
+the engineering team owns the entire
+&gt;&gt; you know customer service deployment
+then you know maybe our current approach
+doesn't make as much sense but I would
+say what we found is even when the
+engineering teams are very much involved
+they don't necessarily want to be on the
+hook for every little change and so in
+that case we can work very well with
+them and you have them still owning how
+does the AI agent interact with the
+systems and connect APIs and so on where
+and then we allow them to offload sort
+of the logic building to the business
+users. So that's probably what's made us
+different so far. Again, obviously we
+respect like the sales forces of the
+world. They build amazing businesses,
+but we just don't think that's the right
+approach for the AI era.
+&gt;&gt; And then on our end, yeah, I think we're
+just we we really want to differentiate
+on execution.
+&gt;&gt; If you look at um the big shift that's
+happening right now in AI, because of
+the capability set, we're basically
+moving from software as a service to
+basically some form of like labor or
+cognition as a service, right? And so
+you see that sometimes in the pricing
+models where people instead of charging
+per seat will maybe have some baseline
+platform fee but then they'll charge
+unutilization for other things because
+fundamentally it's almost like you're um
+helping augment an agent versus just
+having a piece of software that they're
+living in or using.
+&gt;&gt; Yeah.
+&gt;&gt; And I think that's a very big shift. How
+do you think about the long-term version
+of that relative to your business or
+what do you see sort of coming on the
+horizon?
+&gt;&gt; Yeah. I think those pricing models are
+pretty use case specific. So if you're
+using a coding agent for example, I
+think you know charging based on almost
+like the GPU usage or something like the
+number of cores you use could be
+interesting. For us it's actually quite
+different because you have like a very
+tangible output that you can measure the
+agent by which is the the conversation
+it's having. And when you talk to
+customers that's generally how they
+think about it too. It's like hey we
+have a cost per contact or a cost per
+conversation. And so when you kind of
+deploy an AI agent, it makes sense to
+use the same pricing model
+&gt;&gt; instead of pricing like a flat per seats
+because there's not really like a seats
+concept here, you also don't want to
+price per like, you know, minute of the
+call either like that. That's just kind
+of weird. Uh, and also incentivizes the
+agent to just like have really long
+calls. So you price basically the number
+of conversations that it can have. It
+can be any conversation or it can be a
+conversation that you know doesn't
+require a human. So maybe that makes it
+apples to apples. And then our customers
+generally come in and buy a a sort of a
+allotment of conversations for the term
+and then they burn down. And we'll
+probably start seeing that more and more
+in the AI agent space where you you
+generally price per like the output that
+it's doing. I think that that works. I
+think that's just very clearly the right
+pricing model for our space and makes
+sense to buyers and makes sense to us as
+well.
+&gt;&gt; Yeah. It also really changes how you
+think about the total addressable
+markets for some of these things
+&gt;&gt; because if you're charging per seat,
+you're li you're really limited by the
+number of
+&gt;&gt; people working at the company. if you're
+charging per conversation or per
+&gt;&gt; some aspect of code written or other
+things and really the market equivalent
+is sort of the people working in that
+sector right it's not actually the seats
+uh for the the company so
+&gt;&gt; you know you're talking about their
+salaries versus seats and so that's a
+pretty big shift in terms of how to
+think about TAM
+&gt;&gt; yeah it's also just kind of like now the
+entire services TAM or services revenue
+is now part of the market because you're
+kind of shifting that into software
+&gt;&gt; and that's Why when we kind of think
+about ourselves as well like even us
+plus like all of our competitors plus
+like everyone working on like generally
+AI agents is probably still like a grain
+of sand in the overall market right now
+&gt;&gt; and that's that's exciting because
+there's a lot to do.
+&gt;&gt; How do you think about this relative to
+the overall customer journey? So
+particularly for certain types of
+consumer companies there's customer
+service but customer service almost
+starts when somebody just shows up to
+the website for the first time to
+purchase something right. There's almost
+this whole like funnel.
+&gt;&gt; Yeah. How does that impact what you
+build or how you work with your
+customers?
+&gt;&gt; That's why we use the term concierge and
+and that's how we think about it.
+&gt;&gt; And it's kind of interesting actually
+when we first started the company
+because, you know, of course we're
+engineers and we haven't, you know,
+worked in contact centers ourselves.
+&gt;&gt; We kind of assumed that that's how most
+customers would view it as well. It's
+like, hey, well, you're building a
+system that can have any conversation.
+&gt;&gt; It turns out that in most customers, all
+the different types of conversations are
+just owned by completely different
+teams, completely different budgets.
+So, you know, if the reservations team
+at a hotel is probably going to be
+different than, you know, the customer
+service team.
+&gt;&gt; Overall though, eventually you want this
+to be a unified, you know, concierge
+experience. And that's what a lot of
+leaders are excited by is like, can you
+have just something intelligent that is
+just there for the end user? It becomes
+like the go-to way that they interact.
+And eventually, if it's good enough, you
+most consumers will just interact with
+the agent instead of you've been logging
+into the mobile app or the website so
+on.
+&gt;&gt; Uh, how do you define success for your
+company in the long run? So it's 5 years
+from now, 10 years, you're looking back.
+&gt;&gt; Yeah.
+&gt;&gt; What would make you feel like you've
+accomplished what you set out to do?
+&gt;&gt; Well, on one hand, there is like a
+specific goal for a company, right? We
+want to grow. We want to grow the scale
+of the business and we want to be, you
+know, the winner in this in this like
+exciting market.
+&gt;&gt; So, how's that defined? I mean in 5
+years we want to of course be working
+with largest companies and have just
+like all the just powering sort of the
+conversations for all all the major
+brands out there and essentially just
+reinvent the way that most consumers
+interact with you know products and and
+have conversations and the other metric
+is yeah we'd like to get there through
+just having a very sharp you know
+product and just go to market execution
+um in the same way that I'm currently
+talking about like the data bricks and
+the ramps of the world like we want to
+builds, you know, a business like that
+where we're just like doing everything
+like super sharp and uh very
+thoughtfully.
+&gt;&gt; I remember um reading once that somebody
+asked Larry Pageige uh in the early days
+of Google what he was hoping to
+accomplish and he said, "I want to have
+a billion dollar company." And the
+person replied with, "Oh, you mean a
+billion dollar market cap?" And he said,
+"No, a billion dollars of revenue." At
+the time that was like this insane goal
+and every was like mind-b blown. He's so
+ambitious. And then you look in
+hindsight and
+&gt;&gt; I don't know if that's like the revenue
+they do in a day or you know I don't
+know what they you know some crazy
+&gt;&gt; uh overshoot on outcome. So I think
+that's a very tough question but I sort
+of curious how you thought about it.
+&gt;&gt; Uh it's yeah it's tough on this at this
+point. I mean we have what the data
+bricks are like single digits billions
+of revenue and they'll probably say that
+they're still very early on right.
+&gt;&gt; Mhm.
+&gt;&gt; So I yeah we we don't think about things
+that far ahead. I just don't think
+that's useful. Obviously, we're like
+extremely ambitious and so we we want to
+build the company of that scale or more
+&gt;&gt; but it's also one step at a time.
+&gt;&gt; As we talk about thinking ahead much on
+longer time frames, 5 years, 10 years,
+whatever it may be, one could imagine
+that eventually uh customer support and
+customer service really becomes very
+agentic and at the same time people
+probably have agents going and buying
+things for them or interacting on their
+behalf. How do you think about that
+future? When do you think that is like
+are there any non-obvious things we
+should think about for that or you know
+how should we think about that future
+world or potential future world? Oh, I
+think that world is uh basically here. I
+mean, you have the, you know, all these
+consumer agents that are going out there
+and they go order Door Dash for you and
+so on and at some point they'll, yeah,
+maybe they'll call in to an airline to
+reschedule your flight or something
+&gt;&gt; and then maybe they'll talk to our agent
+and then you'll have agents talking to
+each other.
+&gt;&gt; I think in the near term they'll still
+communicate natural language just
+because like each agent also needs to be
+compatible with humans, right? So if
+they talk to a human agent, a human
+support agent or if we talk to a human
+customer, of course that has to be
+compatible. But as they become more
+prevalent, uh they'll probably you'll
+probably end up with slightly more
+efficient ways of communicating. And I
+think that'll be interesting have two
+agents interacting and they're just like
+spinning tokens at each other and you
+can just get get something done. But I
+think ultimately it'll still be rooted
+in natural language because I don't
+think anytime soon we'll be in a world
+where 100% of interactions are done by
+that. So each agent still has to be
+compatible with natural language. Yeah,
+that's something we'll we'll have to
+think about soon. It's not something
+we're seeing at scale now where you have
+a agents writing in for you. I mean,
+part of the vision we talked about
+before, right, is that right now a lot
+of the conversations are more reactive
+support.
+&gt;&gt; It's like, hey, I have an issue. Can you
+fix it? But over time, it'll be more and
+more uh kind of broader, right? In terms
+of like being able to do purchasing
+decisions, being able to uh upsell
+folks, being able to be proactive and
+reach out when you detect an issue. And
+these types of conversations, I think,
+make a lot more sense for, you know,
+having these personal agents in there,
+like someone doing your shopping for you
+and just goes and buys it and they can
+talk to their agent to actually get it
+done. And the personal agent knows that
+their personal preferences. They know
+what to give in on if there's, you know,
+not this thing's out of stock and maybe
+go for a different choice. Yeah, it's
+it's kind of uh it's kind of weird to
+think about that. It's just like all
+these interactions happening outside of
+like humans and still stuff's getting
+done, but I think it'll be here sooner
+than later. It's really interesting.
+It's almost like every person has a
+personal assistant, a personal shopper,
+whatever it may be. I remember one one
+person I used to work with a lot. Um his
+view was that a lot of technology is
+basically looking at what the richest
+people in a society are doing and then
+saying that'll be available for
+everyone. And so if you go back to Roman
+times, you had these
+&gt;&gt; um open sort of Roman baths, but if you
+were very wealthy, you'd have like a
+bath in your own home.
+&gt;&gt; And obviously we all have baths, right,
+at home. And I think we almost forget
+that that's like a technology innovation
+and evolution. And so it seems like a
+similar thing. If you look at Bill Gates
+or whoever, he probably has a staff of
+people who buy clothes for him and go
+and do things for him and book flights
+for him. And so therefore, everybody
+will have this at some point. It'll just
+be agents.
+&gt;&gt; It sounds like interacting with each
+other.
+&gt;&gt; Yeah, I doubt they're booking flights,
+&gt;&gt; but uh yeah. No, I agree. Yeah, I mean I
+think that that is I mean that's an
+interesting framework. I mean it makes
+you think like what are the other things
+that uh folks are doing? But um yeah, at
+least in our context, yeah, we
+definitely expect more of these sort of
+AI assistants to be part of the
+ecosystem.
+&gt;&gt; Mhm. Amazing. Yeah. Well, thanks so much
+for joining me today. Thanks for having
+me.
+[Music]
+&gt;&gt; Find us on Twitter at no prior pod.
+Subscribe to our YouTube channel if you
+want to see our faces. Follow the show
+on Apple Podcasts, Spotify, or wherever
+you listen. That way you get a new
+episode every week. And sign up for
+emails or find transcripts for every
+episode at no-priers.com.
+[Music]

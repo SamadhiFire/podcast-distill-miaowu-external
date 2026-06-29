@@ -1,0 +1,2325 @@
+Kind: captions
+Language: en
+Well, we're half an hour from the open
+in Hong Kong, Shenzhen, and Shanghai.
+You're watching the China Show. I'm
+Stephen Angel with Ivon Man.
+&gt;&gt; Our top story this morning, TSMC shares
+in focus after the company's earnings
+hit a record. The Taiwanese chip maker
+also hiking its forecasts beyond the
+loftiest expectations.
+&gt;&gt; Asian stocks, meanwhile, following Wall
+Street higher after fresh data pointing
+to resilience in the US economy.
+Investors also cheering calls by Fed
+officials for rate cuts this month. And
+the US imposes tariffs on graphite from
+China, threatening to restrict the
+supply of a key mineral in EV batteries.
+[Music]
+All right, it looks to be a pretty happy
+Friday here if you're long these risk
+assets. You take a look at how US
+futures go. We hit yet another record in
+the US overnight as well when it comes
+to the S&amp;P and Asia is feeling it a
+little bit here. We're slightly up about
+a third of 1%. But Taiwan is really the
+focus here this hour after that TSMC
+results that we saw after the close
+yesterday. Right. We saw the ADR surge.
+We're seeing that right now in the
+Taiwan shares up more than 2%. So
+they're guiding higher there when it
+comes to their forecast of sales from
+mid20s to about 30% now. So certainly
+that was certainly uh important for the
+market and CCA talking about this demand
+and AI remains strong. We'll talk about
+the FX impacts later on but certainly
+that is why we are seeing the TX up 1%
+at the get-go here. So we'll continue to
+watch the chip space here this morning.
+Obviously the Nvidia story continues on
+as well. We did see Nvidia up overnight
+also. You take a look at how the dollar
+is concerned though. We're slightly on
+the back foot but we're still set for
+basically two weeks of solid gains for
+the green back here. That US data print
+as Steve mentioned, right? Retail sales
+was strong. We saw a fifth straight
+month of jobless claims that decline
+goes to show maybe the data is still
+looking pretty strong here right now.
+And what does this mean for rate cuts,
+right? It seems like the Fed officials
+are still quite divided. We'll talk
+about Waller in a second, though. He's
+probably the few that really has stuck
+his neck out and saying, "Look, maybe a
+July cut is justified." We'll see,
+right? 30-year yields in the JGB market
+still seeing a slight stabilization
+there, but obviously with the upper
+election coming through, we're going to
+be focusing very much how long rates
+perform. That inflation print out of
+Japan also didn't quite ease those
+concerns about stackflation uh in Japan.
+Bitcoin we're watching very closely.
+We're just inching back closer to that
+120 level there. Of course, the big
+thing that we saw in the US was this
+legislation, a federal legislation to
+regulate these stable coins. That
+certainly gives another lift maybe of
+more adoption into the space as well.
+China futures are doing this here right
+now as we wrap up a pretty pretty good
+week in terms of Chinese equities. We're
+still seeing futures in in the green
+here this morning. 718 for Dollar China
+and we're watching a little bit of the
+weaker dollar, the honky dollar there.
+We briefly did saw a bit of a surge and
+maybe moving away from the weaker end of
+that trading band, but we're still
+hovering on that 78490
+level. Steve, well, happy Friday, Ivon,
+and to everyone else out there as well.
+Uh, we don't go a day without talking
+about chips. TSMC has raised its revenue
+growth outlook for the year, boosting
+investor confidence in the global AI
+spending spree. CEO CC Wei says while AI
+orders remain strong, uncertainty around
+the Trump tariff requires caution.
+&gt;&gt; We also see AI demand continuing to be
+strong,
+including the rising demand from
+sovereign AI.
+Therefore, we now expect our four year
+2025 revenue to increase by around 30%
+in US dollar term. Amidst the
+uncertainties, we want to remain mindful
+of the potential terror related impact
+and be prudent in our business planning
+going into second half 2025 and 2026
+while continuing to invest for the
+future mega trend.
+&gt;&gt; So for more context, Bloomberg
+Intelligence senior analyst is here
+Steven Zung uh with the latest. So you
+got those results, you got the guidance.
+Uh what does it tell you about AI demand
+and was it in line with your
+expectations better, worse, what?
+&gt;&gt; I think overall the uh the company uh
+raised their guidance for full year.
+That alone uh basically is a strong
+evidence that the AI demand remain
+pretty strong and then uh the market
+concern on the uh like currency side or
+the overseas ramping operation. uh they
+did uh have some impact on the margin uh
+but the company uh performed very well
+to uh basically they managed to offset
+that with their better product mix and
+also better execution. Um so they still
+deliver very solid margin. Uh but
+obviously that will remain the uh
+potential concern in the second half.
+&gt;&gt; Yeah.
+&gt;&gt; It seems to imply that despite raising
+that fullear guidance that sales will be
+softer in the fourth quarter. Is that
+how you interpret it too? Uh that's that
+that obviously appears to be the case.
+Uh the management the CC way did say
+that uh they uh prefer to stay that way
+uh given the ongoing uncertainty related
+to tariff and to some extent I think
+that also maybe reflect the uh potential
+sort of consumer weakness in Q4 given
+again the macro uh uncertainty there.
+Yeah.
+&gt;&gt; So so what what how does the tariff
+scenario play out for the second half?
+mentioned about the potential headwinds
+into the second half. So, this guidance
+goes forward, it's positive, but how
+long does that positivity last?
+&gt;&gt; Um, obviously Q3 will still look pretty
+solid and then the the tariff thing is
+really more about its uncertainty as
+opposed to the actual magnitude of the
+tariff rate. uh particularly we're
+talking about there's a potential uh uh
+tariff for semiconductor itself which is
+still unknown and
+&gt;&gt; in addition to the country specific
+there's sectoral
+&gt;&gt; exactly uh so again there's a lot of
+uncertainty there um but from the
+company's perspective I think AI demand
+alone uh has been very strong even
+though the consumer has been somewhat
+soft and also the company's capability
+to manage the uh margin as we mentioned
+u the uh and also So I think the company
+does have a very good pricing power. Uh
+the management didn't highlight that
+particularly but I think is is it
+possible that uh the company may manage
+to pass on part of pressure to his
+customer which is possible.
+&gt;&gt; Stephen, thank you Stephen. I'm there
+our blueber intelligence senior analyst
+on TSMC. We're going to continue digging
+into those earnings. We got Maria Asset
+Global Investments in the next hour.
+Plus you don't want to miss this one.
+We're going to hear later from the
+TSMC's senior vice president and CFO
+Wendel Huang speaking exclusively to
+Bloomberg about that guidance and tech
+tensions between the US and China. He
+specifically Steve also mentioned the FX
+and the currency headwinds moving
+forward given what we've been seeing in
+the Taiwanese dollar too.
+&gt;&gt; Yeah, that's right. And I just find it
+fascinating to see, you know, coming up
+to this Fed meeting coming up what, in a
+week or so, two weeks, uh, you know,
+Michelle Bowman and also now Waller
+possibly saying we need a cut, right?
+&gt;&gt; Yeah. Is it does is it justified right
+right now when you take a look at how
+the labor market still remains quite
+resilient. Uh, when you take a look at
+you're not seeing you're starting to see
+some tariff pass through that's starting
+to bite but not quite right. And I think
+Waller's case is, you know, you you
+can't wait until the labor market
+weakens be until you actually before you
+actually cut rates. So that's his
+argument here right now as well.
+&gt;&gt; He's seeing signs of that weakness and
+now would be a possibly a good time.
+Don't wait till September.
+&gt;&gt; Yeah. Let's let's give a listen to what
+we heard.
+&gt;&gt; Yeah. Away from tech. And we've also
+heard as we've just been discussing a
+Fed officials giving conflicting rate
+cut outlooks for the year. Let's hear.
+&gt;&gt; I believe it makes sense to cut the
+FOMC's policy rate by 25 basis points
+two weeks from now.
+And looking to later this year, if, as I
+expect, underlying inflation remains in
+check with headline inflation data
+reporting modest but temporary increases
+from infla uh tariffs that are not
+unanchoring inflation expectations
+and the economy continues to grow
+slowly, I would support even further 25
+basis point cuts to move policy towards
+neutral.
+You can't wait forever because if we
+wait till inflation gets to 2% well then
+we've lost. We've likely injured the
+economy in some way that was completely
+unnecessary. And so I'm of the mind that
+you know that the summary of economic
+projections we put out which had two
+rate cuts for this year. I think that's
+a reasonable uh outlook to have
+&gt;&gt; given the stability in the employment
+side of our mandates with the
+unemployment rate is still at
+historically low levels. elevated
+shortrun inflation expectations and
+goods inflation rising due to the upward
+pressure from tariffs. I find it
+appropriate to hold our policy rate at
+the current level for some time.
+Let's bring in Nitsa Nip now, head of
+Asia fixed income research at UBP. I
+guess you could chime in on this debate,
+right? You know, is a July cut justified
+at this point? Um and what do you see in
+terms of
+&gt;&gt; well it's you know kind of mixed view
+right in the market as you mentioned in
+fact like the CPI number um the reason
+one the underlying component we've been
+seeing some impact on from you know the
+Asia tariff um so in general we reckon
+that you know cut could happen like in
+the fourth quarter not in the July
+meeting we can still see you know one to
+two cut but I think you know fed in
+general would like to look at some of
+the datas you know going forward in July
+in August you know in September to
+decide the next move. Yeah.
+&gt;&gt; When do you think the next move will
+likely be?
+&gt;&gt; We reckon um potentially it could be one
+to two cut you know this year but that
+would happen you know nor uh not you
+know right now but probably would be in
+the fourth quartile. H
+&gt;&gt; how do you think about price action
+right now when long rates continue to be
+seeing this meltup in yields once again
+and this yield curve that continues to
+steepen. How much more further could it
+steepen you think? Well, in fact, when
+you look at the market, um, two weeks
+ago, it has been rangebound quite a bit,
+but recently because of the data,
+because of, you know, like the market
+situation, I think, you know, the long
+end is, uh, stiffening. So, that's why
+for the 10 years, we'll be very
+cautious. We reckon that the 10 year
+could be, you know, reaching around like
+5%, it's possible. It's still possible.
+So, therefore, um, we will advise
+clients, you know, not trying to put
+money, you know, to work at the moment
+for the long end rather maybe, you know,
+um, invest in the short duration bonds.
+out here is there quality credit despite
+all the noise and uncertainty.
+&gt;&gt; Yeah. Um at the moment I think you know
+for most of the investor what they want
+to go will be simple quality credit
+something they know good fundamental I
+think that's very important. Um at the
+moment you know um I think in the market
+we are still trying to look for some
+opportunity for example in the bank 81
+space like some of the European bank
+because they will be able to offer
+investor with around like at least over
+6% kind of yield. But when you look at
+some Asian credit doubleB Indian names
+now it's around like 5.5 doubleB but for
+some banks they actually on bank 81s
+they are you know in investment grade or
+high double B with the cordier 5year
+which is you know pretty interesting I
+would say h
+&gt;&gt; how how much more tighter can the
+spreads get though right now it it's a
+difficult question to be honest because
+at the moment um credit spread has been
+very tight and but it's you know also
+very resilient there's you know reasons
+for that first of all um if you're
+talking about like you know some IG
+credit at around like 4.55%. is still
+relatively decent compared with you know
+a few years back right um but at the
+same time people demand remains strong
+supply seems to be manageable a lot of
+the issue in particularly in Asia are
+still going for bank loans and therefore
+you know that could limit the supply so
+I think at the moment credit spread
+could be sort of like rangebound but I
+just don't particularly think that you
+know it could be much tighter from
+current level
+&gt;&gt; where's your diversification play away
+from US dollar if we're going to get on
+an easing cycle is there going to be
+those outflows to this part of the world
+perhaps and what would be the credit
+perspective from you?
+&gt;&gt; Yeah, I mean like um I think a lot of
+people are talking about diversifying
+from US dollar. Our view is also like
+you know a weakened US dollar and
+therefore the thing that we can find in
+the credit market would be for example
+all C denominator bond because RBA
+actually you know give a pause um you
+know last week right but at the same
+time yesterday when you see the
+unemployment rate 4.3 it's actually um
+surprised the market um so we reckon
+that potentially RBA may you know cut
+the rate and therefore with like 4% or
+4.5% for some Aussie denominated bond I
+think it's a good investment opportunity
+outside of US what what sort of client
+reception are you getting when it comes
+to shifting away from US exceptionalism?
+&gt;&gt; I I think you know people are preparing
+for that. I won't particularly think
+that you know at the moment people are
+massively like you know diversifying
+away again you know you need supply from
+the other market to replace US dollar at
+the moment I think people are preparing
+for that looking for opportunity if
+opportunity comes then they will you
+know go for that but not really you know
+like as the first priority.
+&gt;&gt; Yeah.
+&gt;&gt; How about Hong Kong China? Okay. Um I
+think the spread for Hong Kong China um
+in particular like China IG will remain
+stable but Hong Kong um you you are
+talking about property names. I think
+we'll just stick to the investment grade
+names rather than the unrated one.
+&gt;&gt; Yeah there's been a few I guess names
+that we won't mention here but there's
+some volatility and it's a thank you and
+it's a nip there head of fixing research
+Asia at UBP. Of course we're counting
+down the opens of trade in Shanghai,
+Shenzhen and Hong Kong. This is the
+China show.
+[Music]
+And welcome back. You're watching the
+China Show. Ivonne, we love busy
+Fridays, don't we?
+go by so much faster to the weekend. We
+have a busy day today looking at that
+China stocks rally. Obviously, I've been
+looking at the CSI 300. It's up five of
+the last 6 days as it's at about 4,034.
+Hong Kong, of course, uh been doing
+pretty well as well this year. Chip
+stocks definitely in focus. TSMC uh
+lifting up that sector, giving a good
+outlook uh for AI demand going forward.
+That's going to be a recurring theme
+throughout this morning. Of course, EV
+battery makers, uh, maybe a little bit
+of a different picture. Obviously, the
+US set to impose about 93 and a half%
+tariffs on battery materials out of
+China. That is going to be an
+interesting story which we are going to
+forensically dissect. Of course, uh,
+Hong Kong dollar, you talked about that
+earlier today, testing, well, maybe not
+testing as hard the low end of that
+band. not as hard, but we're still, you
+know, after so many, you know, inter
+interventions, I mean, things are maybe
+looking a little bit more stable in that
+front, but I think most people in the
+market still think that they still have
+some ways to go really, but we're still
+in that window for FDI data as well.
+Yeah, we got to check those Asia
+graphite makers as Steve mentioned
+though, after what we've been hearing,
+these anti-dumping duties on Chinese
+imports. And you're seeing a interesting
+picture there from some of these Korean
+names as well like POSCO Future that's
+surging some 21% that's similar to what
+we saw in some of these Canadian
+graphite firms that also rallied
+overnight as well in the back of this
+move as well. Let's bring in our China
+correspondent Mman Low on what's going
+to be the impact of these new tariffs on
+the battery as well as the auto
+industry.
+&gt;&gt; Yeah. So 93 and a half% that's just the
+new tariff and if you take in the
+pre-existing tariffs it will bring the
+total tariff on graphite products to
+about 160%. That's according to a trade
+organization that had submitted those
+petition to US federal agencies to start
+this investigation into Chinese graphite
+companies. So 160% is a big cost
+increase for battery makers especially
+some of the actually some South Korean
+and Japanese uh battery makers in the US
+will be hit as well. I mean, of course,
+further downstream is the EV makers like
+Tesla. We already saw the stocks there
+falling about 0.7% overnight in the US.
+And actually, Elon Musk has been one of
+the most outspoken voices in opposing
+these tariffs. But even his close
+relations with Trump hasn't been
+successful in helping him hold these
+tariffs coming from the uh commerce
+secretary. And this chart you can see it
+shows you that about twothirds of the
+supply of graphite in the US is coming
+from China. So it's going to take a few
+years uh according to industrial e
+executives for the US to for at least US
+producers to ramp up production enough
+to be able to meet the volume as well as
+the quality required for car makers
+because you do need a very pure type of
+graphite uh to make the anodes in these
+batteries. Um and so it's it's going to
+be a a big hit for these car makers.
+&gt;&gt; Meanwhile, we have some new data on how
+Chinese car companies are still heavily
+underutilized. The overcapacity issues
+are there and they are we've known this
+trying to flood the global markets with
+that excess capacity. At the same time,
+you're hearing comments from Xiinping
+wondering about whether all the
+provinces need to go into these policy
+industries like EVs and AI and batteries
+and the like. So interesting dynamic
+happening in China.
+&gt;&gt; Yeah. And uh I would really recommend
+you read this story that is out on the
+terminal. has a lot of data and it
+really shows you how Chinese car makers
+as you said they are operating way below
+the benchmark utilization rate which is
+70% for uh that is necessary for
+profitability. So most car makers are
+operating be below that. Top of the
+ranking is Tesla operating at very high
+utilization rate in China. And next uh
+is Xiaomi which is also doing very well
+after its SUV launch last uh month. I
+believe that saw very strong reception
+and the company had to ramp up
+production. BYD as well operating at 80
+to 86% capacity. But the other car
+makers, I'm talking about Gile as well
+as some of the foreign car makers, the
+joint ventures like Nissan, Honda um or
+even SEIC, they're operating at 50% or
+below. And that's why they really need
+to find these overseas markets. And if
+you look at this next chart, it shows
+you all these new markets that Chinese
+companies are looking at, especially in
+the emerging markets. Indonesia for
+example um the Middle East is becoming
+an important market as well looking at
+500 over percent increase over the last
+few years um and that cycle is not even
+close to the end. Yeah, that's the
+numbers that you can see 24,000% for
+Indonesia, Kazakhstan as well. Um and
+that cycle is not even close to the end
+because even though market leader like
+BYD is occupying maybe about 25 27% of
+the market share. So about a quarter of
+the market share but 30% 37% of that
+market share is being fought over by
+over 120 companies. So many of them are
+still trying to wrangle for space in
+that market. There are still newcomers
+coming in although at a smaller pace. So
+it's still a very intense competition in
+China and that over capacity might be
+continuing on. Yeah, these are some
+study numbers there. A Mimman, thank
+you. Our China correspondent, Mim Lo
+there with the latest on these tariffs
+and the like. Uh we take a look comes to
+the pre-market in Hong Kong here today.
+Looks like we could be seeing a pretty
+punchy open. We're up 1% in the
+pre-market here. Futures are also
+heading higher. The open coming up next
+and we'll get you a preview. This is
+Bloomberg
+[Music]
+and welcome back. You are watching the
+China show here on Bloomberg. We are
+counting down to the open of markets.
+and looking pretty positive especially
+in the tech space uh in Hong Hang there
+at 24,757
+of course the sentiment up in the chip
+space Ivon because TSMC raising the 2025
+outlook in a big boost for AI demand uh
+meanwhile on the flip side sort of that
+on sentiment the US set to impose uh
+some 93 and a half% tariff on battery
+materials out of China and of course the
+ongoing debate will they or won't they
+start easing from the Fed. That's
+something we're discussing as we
+approach now this the open in 8 7 6 5 4
+you know
+&gt;&gt; it's like a rocket launch right every
+day. Um yeah there's so many macro
+themes right whether it's the split Fed
+and how they're thinking about the next
+rate cut. Uh but you know overall though
+the data in the US that we got overnight
+was actually strong. That's why we did
+see a bit of an uptick in the dollar.
+We've come off a little bit on that
+front here today. But equities continue
+to carry on uh and extend this rally
+globally here, right after we saw US
+stocks hit those records. Onshore, we're
+still talking about a second straight
+week of gains for the CSI 300. Though,
+as Steve mentioned, the out
+underperformance compared to Hong Kong
+is still quite wide, but maybe there is
+still some room for catchup here as
+well. Uh you take a look at how
+Shenzhen's doing. We're doing slightly
+better there in the China X and the
+Shenzhen gauge there. Uh we're watching
+very closely what happens uh when it
+comes to the tech space uh in China.
+Obviously, we talked about crude still
+doing up about 2%. Commodities are doing
+quite well. We're actually seeing a
+pretty big beat and massive bid, I
+should say, across likes of iron ore
+from Shanghai crude to steal rebar here
+this morning. So, uh maybe on the back
+of what we've been seeing has been
+strong data coming through from China
+this week after that data dump as well.
+CL is doing quite well. Of course, we're
+watching some of the EV space overall
+just given what we've been hearing about
+uh battery makers for example and
+tariffs there. Uh but we're also
+focusing on what happens in Hong Kong,
+right? It seems like a lot of the action
+still is focused on the tech space that
+continues to drive this equity market
+higher. There you go. HST is up 1.6%. I
+believe we're still about uh 2% away.
+Actually, I'm talking about Taiwan
+though. 2% away from the highs and the
+peaks that were reached uh for the TX uh
+back earlier this part of the year. But
+TSMC certainly is lifting that and
+lifting most of the tech space here this
+morning. Take a look at how the bat is
+concerned here. BU Alibaba's up close to
+3%. Tensson's up more than 1% here right
+now. Mtoan as well. So even you know the
+the whole concerns about food delivery
+space and the like. We're brushing those
+aside here right now. It's really about
+AI and how that's once again reigniting
+a little bit this whole AI train since
+what deepseek right which really has
+been a few weeks or months now. So you
+got to thank Avidia for that this week
+as well. I guess TSMC kind of lit
+another fire under that here once again
+watching of course the Eevee space. So,
+yes, there's tariffs, but then we're
+focusing on what's happening with the
+likes of Lee Auto as well. Interesting
+enough, we're actually seeing it lower
+at the open. There's a whole new product
+launch, i8 model. This is the six-seater
+SUV. Uh, City coming through saying that
+uh it actually could lead to some pretty
+uh strong pre-order momentum here right
+now. So, that could actually be helping
+the stock, but not today. Neo, though,
+is doing very well. We're up 6.6% here
+this morning. And we're watching, of
+course, as we mentioned, those graphite
+stocks. So that 93 a.5% tariff on some
+of these Chinese battery makers. Uh this
+is the China sort of the ones that were
+listed and we're watching very closely.
+We're actually still seeing some decent
+gains on some of these particular
+companies as well. Uh so certainly we're
+seeing that across the region here this
+morning. So we'll see what the
+implications are really on some of these
+local firms. And there you go.
+Chipmakers are doing very well here
+today. TSMC really helping that as well.
+We're watching the likes of SMIC up one
+and a half% today, Steve.
+&gt;&gt; Well, we're going to continue that theme
+now. A US-based think tank says
+lithography remains the critical choke
+point for China's chipm as the country
+dives, drives, I should say, towards
+self-sufficiency in semiconductors.
+Joining us now is Jacob Felgo, senior
+data research analyst at Georgetown
+University Center for Security and
+Emerging Technologies. He's the
+co-author of their new report. Jacob,
+thanks so much for joining us uh here on
+the China show. So, obviously we had a
+lot of developments this week with
+Nvidia getting a White House approval to
+get the H20 back into China. There's
+always been debate about China's
+capabilities amid those export controls
+obviously where are they catching up and
+where are they lagging? I guess
+lithography, advanced lithography is
+where you're saying uh they need uh they
+need catchup.
+Yeah, exactly. So, what we saw, we
+conducted a study and looked at where
+China's gained market share over the
+past five years in these chipmools. And
+what we saw is that they've made slow
+steady progress in many of the major
+tool categories. And uh kind of within
+that we we dug down a little bit deeper
+and we saw that within those tool
+categories it was really the older less
+advanced chipm tools where where Chinese
+toolmakers are are making the most
+progress and so they're not at the the
+leading edge yet by any means. Um but
+the question is whether they'll be able
+to take those initial revenue gains pump
+them into R&amp;D and move move further up
+the value chain. Lithography, however,
+was the notable exception where we
+really didn't see any major progress at
+all from Chinese chipmakers. And even
+when we looked at the subsegment that
+with the oldest lithography tools where
+you would have expected them to make
+some progress, we saw basically nothing.
+A
+&gt;&gt; and what does it tell us about what in
+terms of export curbs about tariffs?
+what has actually worked from the US and
+maybe curtailing this advancement in in
+lithography for example I know ASML
+still dominates in this space as well
+does the move that we saw rec this week
+with Nvidia now resuming
+&gt;&gt; H20 chips to China for example
+&gt;&gt; you know is it going to put Netherlands
+and Japan are they going to basically
+not really continue on with some of
+these export curves now
+&gt;&gt; yeah so I I think the the concern has
+been almost the opposite the The US
+curbs are not focused on the on on
+preventing China's rise in equipment.
+They're they're focused further down or
+further down the supply chain on the
+fabrication on the design of of uh
+chips. But when it comes to the tools,
+we haven't seen a lot of controls target
+that sector uh target China's progress
+in that sector in particular. And the
+the concern again has been that the uh
+the export controls further down the
+supply chain might actually accelerate
+proh China's progress further up the
+supply chain. And so I I wouldn't say
+that we have a conclusive result on
+whether what we're seeing is uh the is a
+consequence of export controls. But
+there are some areas that we're watching
+closely like chemical mechanical
+planerization tools. this very niche
+subsegment.
+&gt;&gt; Well, we're seeing footage now of Jensen
+Hang of Nvidia in Beijing. And his point
+all along has been these export controls
+on the H20 and other chips essentially
+giving the likes of Huawei an unfair
+advantage and accelerating as you're
+alluding to uh their progress. But on
+the equipment and lithography, as Ivonne
+said, you know, we're talking ASML in in
+the Netherlands, we're talking Tokyo
+Electron in Japan. And there's only a
+few main companies that make this high
+high-end equipment which is highly
+technical, highly sensitive. How far
+away if China is looking at
+self-reliance in the whole chipm are
+they from getting that expertise not
+just of course on in the silicon and in
+the chips but in the equip uh the chipm
+equipment like lithography.
+&gt;&gt; Yeah, they're really far off. um we
+still see very high market shares for US
+and Japanese firms and and Dutch firms
+as well and in some places we're seeing
+those firms even further consolidate
+their market share advantages. Uh again
+the the places where we're seeing China
+make progress are really at the the less
+advanced older versions of many of these
+tools. Um and so they're they're still
+quite a ways off. they still have uh I'd
+say major self-sufficiency problems when
+it comes to chipmools that you know the
+Chinese government has recognized this
+for decades tried to pump money and and
+uh government support into this space
+and they're making marginal gains but
+they have far long way to go I would say
+why is that Jacob
+China's been able to throw money at
+problems and look what they've done in
+EVs and batteries in solar and the like.
+What? Why? What's the main choke point?
+Why?
+&gt;&gt; I think the there's a couple pieces. I
+would say subsystems. So, the the
+components that actually go into these
+tools are themselves very complicated
+and China is still in the progress of
+building up their capabilities to
+produce those subsystems. There's a
+talent problem as well. You have, you
+know, the people who know how to make
+these tools mostly in the the United
+States and Japan and the Netherlands.
+And then lastly, the technical
+sophistication of some of these things.
+I mean, particularly if we look at some
+of the most, you know, advanced
+lithography tools. You're talking about
+thousands of components, um, you know,
+hundreds of suppliers. It's very
+difficult to assemble the supply chain
+to build these things and they're only
+getting more complex.
+Uh Jacob, just given your research where
+we're seeing, you know, China gaining
+ground in self-sufficiency and where we
+may not in lithography, for example,
+what what are the implications then?
+What are sort of the sectors and
+industries that you think that can still
+thrive
+&gt;&gt; under these circumstances?
+Hm.
+I would say the the implications are
+that
+at least in the short to medium term
+when we're thinking about where China is
+making progress in the AI stack which is
+what a lot of what we think about at
+CEST um it's important to focus on the
+chip fabrication and the chip uh design.
+So this is, you know, for design Huawei,
+for fabrication, Smick, and also Huawei
+affiliates. Um, but the the equipment
+game is still is still a long way off.
+They're still going to be heavily
+reliant on those foreign suppliers and
+the their gains, you know, in the AI
+stack in the short to medium term are
+going to be concentrated at the design
+and fabrication stages. Does that help,
+&gt;&gt; Jacob? Yeah, it does. Thank you so much.
+It's great to, you know, talk to you
+more about the research there. Jacob
+Felgo is there, senior data research
+analyst at Center for Security and
+Emerging Technology at Georgetown
+University. Well, coming up, crypto
+getting a boost from US lawmakers
+passing Trump backed legislation on
+stable coins and what's seen as a coming
+of age for digital assets. Well, the
+details coming up next. This is
+Bloomberg.
+[Music]
+We are checking Hong Kong crypto shares
+in the likes of Bitcoin here this
+morning. We're actually back above that
+120,000 sort of level for Bitcoin and
+yeah, it's lifting the crypto space here
+in Hong Kong today. Hu Tech, for
+example, is up some 5%. So this is on
+the back of the US Congress has passed
+the first federal legislation to
+regulate stable coins clearing the way
+for broader use of the technology in
+everyday finance. Let's get to our
+cryptocurrency reporter Zashi Gosh.
+She's with us here right now. How big of
+a deal is this and what does it mean for
+the crypto industry overall?
+It is quite a important you can say it's
+kind of a gamecher uh because the
+biggest market in crypto which is in the
+US has passed this much anticipated
+legislation allowing a broader adoption
+of stable coins uh to start with uh
+which is which means that you know going
+ahead uh the biggest money movers which
+are banks uh they can they can kind of
+you know allow to incorporate they can
+be allowed to incorporate you
+stable coins as part of their
+businesses. It's it's a it's a quite a
+bit bit of an important um uh you know
+uh ruling in that sense legislation
+because it helps you and me and
+corporates to pass your uh our money uh
+through across the country and across
+global regions without worrying that
+there will be uh there will be
+compliance issues. So that that's why
+it's it's an important uh uh legislation
+that people have been waiting for,
+traders have been waiting for uh in the
+in the market.
+&gt;&gt; And what does it mean for other
+countries in regions? Of course, we're
+in a world of a dollar denominated
+system. Uh but again, there's
+diversification going into stable coins.
+And when I was at the World Economic
+Forum, I asked this question about Hong
+Kong having its uh basic uh sandbox and
+possibly having that stable coin linked
+to the offshore remn. And the deputy
+managing director of the IMF and former
+PBOC deputy governor Lee Bo started
+nodding his head saying yes it's
+happening. So how much of a tsunami if
+you will of support in other
+jurisdictions is our stable coins?
+That's a very interesting question and a
+very hot topic among regular reg
+regulators like you likely rightly
+pointed out Stephen uh you know it's a
+it's a dollar dollar dominated uh stable
+coin market as of now but we are seeing
+several parts of the world including
+like you said Hong Kong then we have
+Singapore uh Malaysia Thailand a large
+part of you know Southeast Asian nations
+and and of course Europe as well
+developing their own uh local currency
+regulated or denominated stable coins.
+The most of these are uh you know either
+in the sandboxes or in the pilot stages.
+So there's a lot of quite a bit of time
+uh until they scale but everybody wants
+to you know promote and propagate their
+own currency and that will be a
+interesting uh play we will see where uh
+you know there will be local currencies
+you know uh maybe also fighting it out
+with the US dollar uh dominate dominance
+in stable coins. Of course, the the
+important thing to note over here is how
+one can smoothly switch between one
+stable coin uh one currency denominator
+stable coin to the other. For example,
+euro to dollar or you know offshore renb
+to to USD that has to be uh seen as we
+progress. But yes, stable coins is the
+hottest topic because this is the
+easiest and the fastest way to move
+money uh versus uh as of now the the
+fiat money which we say the the the
+usual uh currency uh that we see in the
+global global financial regime. Yeah.
+&gt;&gt; Yeah, it definitely is uh getting a lot
+more airtime of course. Uh Bloomberg
+cryptocurrency reporter Sashri gosh,
+thanks for joining us here on the China
+show. will have more analysis on the US
+stable coining law and the impact for
+wouldbe Asian crypto hubs Singapore and
+Hong Kong. We'll get analysis from
+blockchain intelligence firm TRM Labs
+and the head of Coinbase Singapore on
+Insight later today with Hassenda Amen.
+&gt;&gt; And now to some other corporate
+headlines this morning. Wells Fargo is
+said to have suspended employee travel
+to China after an Atlanta based trade
+finance MD was recently barred from
+leaving the country. The employee was
+born in Shanghai. A source says that's
+led the bank to restrict travel for
+other staff. In a statement, Wells Fargo
+says it's working through appropriate
+channels to bring her back to the US.
+Netflix expectations across the board in
+the second quarter, posting revenue of
+11.1 billion. It also raised their
+fullear guidance, forecasting $45
+billion in sales and a near 30% margin.
+The company's market cap now exceeds
+$500 billion as it leans into content
+and ads amid rising global competition.
+&gt;&gt; All right. Well, Ivonne, Japanese Prime
+Minister Shigaru Ishiba
+Ishiba Asan is set to meet US Treasury
+Secretary Scott Bessant in Tokyo later
+today just before his government faces a
+crucial upper house election on Sunday.
+Japan politics and economics reporter
+Sakura Murakami joins us now from Tokyo.
+So Sakura, what can we expect from these
+talks? Obviously, there's been some
+contentious back and forth between
+Washington and Tokyo about the possible
+tariffs. What can Bessant say and do
+that will make a difference this
+weekend?
+&gt;&gt; Uh to be honest, there's not a lot we
+can expect from the talks today. Um at
+the mo the there'll probably be more of
+the same which is probably working
+towards a mutually beneficial agreement.
+This is mainly because uh Prime Minister
+Oshiba is in a very difficult position
+with the elections coming up this Sunday
+and that puts him in an awkward position
+of having to uh he he can't strike a bad
+deal. Um but so in this case it's
+probably better to have no deal. So at
+this point um on the face of it,
+Secretary Besson is in Tokyo and he will
+be visiting Osaka probably um later this
+week to attend the world expo and that's
+the main purpose of his visit. So it
+might be awkward for Japanese officials
+offic um especially but um that's what
+we can expect at this point
+&gt;&gt; and the timing of it is is quite
+interesting right just ahead of this
+upper house election. So do you think
+Besson's visit will impact these
+elections in any way?
+&gt;&gt; So at the moment um there is real
+concern about the impact the tariffs
+will have on the economy. But in terms
+of the polls and the general public
+about maybe 8 n% of the people are
+saying that this will the results of the
+tariff tariff talks will impact their
+voting and how they'll vote in the
+ballot um how they'll cast their ballot.
+So it's not to say that there is no
+impact but um people will be concerned
+and especially the optics of it is going
+to be interesting as well. If um Bessant
+and Ishiba meet and prime minister
+Ishiba comes away without uh any strong
+message or you know any kind of real
+progress scene. It's going to uh not
+look so great for him with only two days
+until people actually cast their vote as
+well. So um the optics of it will be
+something uh people will be looking for
+as well.
+&gt;&gt; Well Sakura, how tenuous is Ishibasan's
+mandate to rule? I mean are people I
+mean there's been a revolving door of
+prime ministers of course in Japan for a
+long time. Shinsza AB was sort of the
+exception there. But uh does does a lot
+hang in the balance for him with this
+obviously with the US relationship but
+with this upper house election?
+Yes, for sure. I mean, at the moment,
+the he's he's ruling with a minority
+government. He had a bit of a bruising
+defeat last October when he couldn't
+quite win the majority. And so, he's
+been with with the minority government,
+he's been made be making a lot of
+concessions with the smaller opposition
+parties. The opposition parties haven't
+really galvanized around a specific
+leader to bring down Ishiba at this
+point. So, um, that's is that's also
+partly because these trade talks are
+ongoing and it's going to be a bad look
+for if there isn't a strong leader who's
+going who's sort of spearheading these
+talks. But that being said, um, polls
+show that uh, approval for also the
+ruling Liberal Democratic Party is
+looking not great. Um a recent poll put
+uh approval for yeshiba at 20% which is
+quite low and um in by Sunday when the
+results come out we might be looking at
+a petition uh potentially uh sheiba
+standing down or um soldering on but um
+also uh with a lesser mandate.
+Yeah, Sakura, it's going to be a busy
+weekend for you. It sounds like Sakura
+Murakami there, our Japan politics and
+econ economics reporter joining us out
+of Tokyo. We got plenty more ahead. This
+is Bloomberg.
+[Music]
+All right, we're checking some movers
+here this morning. It still it remains
+the TSMC the big story of the day here
+with what they've been seeing raising
+their uh revenue outlook and the like uh
+on this whole AI boost here. So that's
+reinvigorating this whole AI trade. TSMC
+shares are at 2% and I believe we're
+around those record highs if not higher
+right now that we're watching the whole
+supply chain of uh TSMC as well all
+looking decently slightly higher this
+morning. But Asia chips that really is
+where we are seeing it, you know, spread
+regionally here. But it's a mixed
+picture, right? Take a look at SKH
+Highix MediaTek that's doing well. Tokyo
+Electron and Samsung though heading the
+other direction. Steve,
+&gt;&gt; of course, we're going to continue to be
+digging into the TSMC earnings with
+Marray asset global investments in the
+next hour. Plus, we're going to hear
+later from TSMC's senior vice president
+and chief financial officer. Great get
+there. Wendell Hang speaking exclusively
+to Bloomberg about the company's
+forecast and tech tensions between the
+US and China. So, lots to chew on.
+Obviously, we'll have a lot more in the
+next on the way, of course, in the next
+hour. You are watching the China show as
+we approach 10:00 in Shanghai and the
+Orient Pearl Tower from our offices in
+Lu Jadu. This is Bloomberg.
+[Music]
+And welcome back to this Friday edition,
+the second hour of the China show. Uh,
+as you can see, the hang up buoyed by
+tech sentiment right now after the TSMC
+uh upgraded outlook. Chinese Commerce
+Minister Wongwent Tao set to speak there
+at the country's 14th 5-year plan about
+to take the deis there. Obviously, the
+next 5-year plan, Ivon, is going to
+really be centered around self-reliance,
+self-sufficiency in the face of ongoing
+trade disputes with the likes of the
+United States.
+&gt;&gt; Well, interesting to hear what he says
+about what he assumes in terms of
+tariffs. I mean, obviously, we're
+getting closer to that August deadline
+uh there in China. And certainly, you
+know, this week it's really about the
+Avidia story, right? And that's really
+kind of, I guess, eased up some of the
+concerns around where US China trade
+tensions are moving forward. Uh, in
+terms of the market impact, we talked
+about the Hang Sang. We're yeah, near
+those session highs. We're about 1% to
+the upside there for Hang Sang and we're
+talking about a second straight week of
+gains possibly when it comes to the CSI
+300. We're watching the healthcare space
+that continues to be quite hot as well.
+there was a line coming through uh from
+JP Morgan and their team saying that you
+know there's still some catalysts that
+are well positioned to continue
+outperforming uh even after this rally
+that we've seen in the healthc care
+sector right so they're talking about
+you know it's the strong momentum and
+the outlicicensing deals of these
+innovative drugs the solid fundamentals
+of China biotech and and and pharma
+companies there that really leads to a
+very favorable domestic policy
+environment there as well so there you
+go another day where we are seeing
+healthcare outperform and then it's
+still that TSMC effect here. TSMC is
+still up some 2% for the stock here and
+that is helping to raise all their
+suppliers and tech shares overall in the
+region.
+&gt;&gt; Yeah, rising tide lift all boats and
+TSMC the biggest contract manufacturer
+and chips the foundry in Taiwan
+definitely raising sentiment not only
+that just their outlook. TSMC shares
+they are higher in Taibbe after it
+raised sales growth projection for the
+year to around 30% in US dollar terms.
+But CFO Wendel Huang warning that the
+appreciating Taiwanese dollar would
+probably depress third quarter business.
+Fluctuations in the exchange rate
+between US dollar and NT will have a
+sizable impact to our reported revenue
+and gross profit margin. The sensitivity
+of the revenue to dollar NT exchange
+rate is nearly 100%.
+That is every 1% appreciation of NT
+against US dollars will reduce our
+reported NT revenue by 1%.
+&gt;&gt; Wendell Hang speaking there and NT of
+course is new Taiwan dollar. Uh let's
+bring in Edward Chan, portfolio manager
+and senior investment analyst at Marray
+Asset Global Investments. Thanks so much
+for joining us. So first of all just
+your first reaction uh to those results
+and of course uh the guidance going
+forward.
+&gt;&gt; Yeah. So I think TSMC deliver a great
+set of results. Um if you look at the
+second quarter the revenue came in even
+ahead of the high end of their guidance
+and I think the third quarter uh topline
+guidance of uh the mid.8% 8% sequential
+growth is also ahead of the low
+singledigit expectation from the street
+and also I think the gross margin
+guidance also hold up really well
+consider that you know we just now saw
+the CFO saying the the headwind from the
+ent dollar appreciation versus the US
+and I think that's really quite a big
+factor for TSMC if you think about the
+gross margin impact because majority of
+their revenue are in US dollars and yet
+more than 70% of their cost of sales are
+in are in anti uh dollars right so you
+know that that appreciation anti-
+dollars really has a material impact on
+the margin. We're seeing they're guiding
+over 200 uh basis point of impact in
+second quarter and also in in third
+quarter. Um and so I think without those
+impact you know their result would have
+been a much stronger beat you know
+versus what we're seeing now. But they
+also lift the fullear guidance as well
+um from 20 m uh 25% to a 30% uh
+year-over-year growth in US dollars
+terms. It still seems to suggest though
+that there might be a bit of a softer
+revenue decline in the fourth quarter.
+Um obviously with tariff threats and the
+like. How big of a deal is that? Do you
+think are they just simply just being
+too conservative when it
+&gt;&gt; Yeah, I think I think a lot of analysts
+are drilling on the on the fourth
+quarter, right? Because if you look at
+the past five years, nor typically the
+sequential growth in the fourth quarter
+is normally at least flat to to
+positive. Um certainly not your typical
+seasonality to see the fourth quarter
+revenue go down sequentially. Um but I
+think man management is just being quite
+prudent here that you know they've cited
+potential tariff and macro impact. So
+they they always want to be a little bit
+more conservative on their guide.
+&gt;&gt; What do the results tell you about the
+continued momentum in the AI space?
+Obviously there's also been news this
+week about Nvidia getting the H20. We
+can talk about that separately. But
+generally speaking, how does this
+basically reflect that continuing AI
+demand in the west as well as in China
+which sort of segus as well into that
+H20 chip from Nvidia discussion.
+&gt;&gt; Yeah, I think coming into this quarter I
+think the tone sounds more positive
+versus the last quarter. uh you know
+last quarter a lot of people were were
+concerned about whether co-as could be a
+little bit over supply you know going in
+into 2026 and then management's comment
+were maybe the demand supply is more
+balanced in 26 but this quarter you know
+they emphasize on just trying to match
+that demand catch up on on the demand uh
+supply gap so I think definitely the
+tone on the on the AI u momentum is more
+positive this quarter
+&gt;&gt; how do I position do I focus still on
+the big names the big cap tech or or do
+I look at more broadly now at the whole
+AI supply chain
+Yeah. So I think you have to to look at
+a little bit of both, right? Because the
+big cap are still if you look at the
+infrastructure investment are still
+going um well you know full ahead of
+steam uh in terms of the infrastructure
+investment we're we're hearing you know
+gigawatts u AI data center you know
+being announced right. So I think in
+terms of the capex momentum is still
+very strong. So infrastructure names
+like the TSMC and VVA still benefits.
+And then in terms of the broader based
+um tech and AI, I think a lot of
+enterprise already integrating you know
+these models and into their their
+workloads but it will take time you know
+for us to see that that benefit. How
+much of an impact will there be with the
+I guess you could call it a relaxation
+of the export controls on uh the Nvidia
+chips the AI accelerators the H20 into
+China? What does that mean as well for a
+company, a contract manufacturer like
+TSMC? Uh, as Nvidia also is coming up
+with their other chip uh, architecture
+that was going to comply with the Trump
+previous export controls based on the
+Black Whale RTX 6000 Pro chip. So, you
+have kind of two AI accelerators
+potentially going into China and being
+made in Taiwan.
+&gt;&gt; Yeah. So, I think first thing is that
+the H20 is already right at the limit of
+what is allowed to sell into China,
+right? So I in terms of the spec now
+it's hard to imagine the well under the
+regulation you can't really have another
+chip that goes over that that current
+spec and then in terms of the new
+architecture that there's a lot of
+chatter you know in the market about I
+think the advantage is that you're
+having potentially under a new
+architecture blackwell where you you
+could potentially have you know other
+benefits of moving to a new architecture
+so I think most likely two two products
+might exist side by side depending on
+you know the customer needs. Um, does it
+change how you view overall
+the whole tech supply chain and between
+US and China? You know, I'm just
+wondering now that Nvidia has getting
+the green light, does that open a whole
+sort of opportunities for you as a stock
+picker on what companies might benefit
+and what industries might benefit from
+this?
+&gt;&gt; So, I think it it's not really a, you
+know, a big green light that in that
+sense, right? because it's still under
+quite a lot of restrictions and H20 spec
+is heavily restricted versus you know
+currently the latest that we could buy
+in terms of black well so I don't think
+it's a it's a drastic shift you know
+from from the previous policy um from
+that standpoint I think certainly
+marginally there there are you know
+benefits and a media might get an extra
+10 20 billion um you know US dollar
+revenue for the end of the the fiscal
+year and then um that gets a little bit
+of boost for the whole supply chain but
+I don't think anything drastic has has
+changed The Nvidia stock is still your
+key holding though. Yes,
+&gt;&gt; you're still willing to hold this stock
+despite where valuations are and the
+like
+&gt;&gt; how is there more upside then for the
+stock?
+&gt;&gt; Yeah. So I think at the moment we think
+the the whole um sort of infrastructure
+investment momentum is still ongoing. Um
+and I think if you if you look at the
+options that companies have right Nvidia
+is still um one of the primary option
+that that they go to. I mean we're
+seeing more activity on the AS6 side. I
+think there's a lot of projects that are
+going on. Company are trying to to do
+their own custom chip, but for now, I
+think the bulk of that volume will still
+come from Nvidia and and therefore
+they'll benefit from that.
+&gt;&gt; Does the fact that Jensen Hang is in
+Beijing, he came there as well with the
+basically tacid approval from the White
+House that he can start selling it. Has
+China sort of moved on or is is the
+supply chain for AI development, the
+deepseek moment that still has legs?
+Does it still need those accelerators? I
+mean, we're talking about Jensen Hong
+and Nvidia says uh by blocking the H20
+in April was potentially going to cut
+about $8 billion from their revenue in
+this current quarter. How much of a game
+changer does the relaxation uh mean for
+Nvidia?
+&gt;&gt; Yeah, so I think it's always an ongoing
+process, right? And on one hand, you
+have China, you have different types of
+startups that are trying to do these
+accelerators and trying to fill that
+gap. Maybe Nvidia left uh after after
+the sanction. And then you have on the
+other hand I think companies are are
+still trying to buy anything they can
+right whenever Nvidia is is willing to
+to sell and I think that that's a sort
+of parallel track that that you know
+companies will work on whatever hardware
+they they could get their hands to and
+and train the models that that they can
+do.
+&gt;&gt; Uh we're about to actually speak to the
+CFO of TSMC. I'm just wondering if you
+had a question to ask him. What would
+you ask Mandel Hong right now?
+&gt;&gt; Yeah I think they they're less willing
+to sort of look more forward in you know
+into 26. So probably more of the the
+advanced packaging capacity and their
+outlook into 26 will be an interesting
+one.
+&gt;&gt; All right.
+&gt;&gt; All right. Edward Chan, portfolio
+manager and senior investment analyst at
+Morray Asset Global Investments. Thanks
+so much for your insights and we'll hear
+from the TSMC senior vice president and
+CFO Wendel Hang later speaking
+exclusively to Bloomberg about the
+company's forecast and tech tensions
+between China and the United States.
+&gt;&gt; Yeah. Turning to more markets and beyond
+just the TSMC space. Let's bring in our
+Bloomberg MI strategist Mary Nicola who
+she joins us now from Singapore. Um
+Mary, it's wrapping up to be a pretty
+good week when it comes to risk assets.
+There's also that whole Fed debate and
+whether you know what Waller just
+mentioned a few hours ago about maybe a
+July sort of cut is justified. I mean,
+what what's top of mind for you as you
+wrap up the week?
+&gt;&gt; Yeah, it's interesting to see how the
+narrative and the debate is ongoing
+between a lot of the Fed uh members. So
+you had Williams who was saying that
+he's looking um to take a pause and just
+see how things unfold. And then of
+course we had retail sales numbers
+showing us that the economy is holding
+up and is relatively robust. And I think
+overall what that suggests especially to
+equity marketers and investors is
+actually quite positive. So even if we
+see a delay um in in Fed rate cuts
+because Waller seems to be on on on the
+path of we should look through tariffs
+which is very different from a lot of
+the narrative from the rest. But I think
+the focus here is if the economy is
+still holding up well and the earnings
+are unfolding in a positive ma manner
+then that's actually positive for
+equities and it's not going to only be a
+ripple effect in in have a positive
+impact just on US equities but it's
+likely to ripple through to global
+equities as well. And I think one thing
+we have to keep in mind through this
+earnings season is that the bar is set
+quite low. So, it's important to look at
+what the earnings outlooks are for a lot
+of the companies and what they're
+expecting, especially how they're
+reading a lot of the tariff noise. Um,
+but so far, I think even if you get a
+delay in tariff in uh in Fed rate cuts,
+I think that there's overall positivity
+in equity markets because of the fact
+that the economy is holding up.
+&gt;&gt; Yeah. Speaking of those ripple effects,
+how many ripples do we still have
+potentially as we go into a positive
+weekend obviously with the tech uh you
+know uh what influence from TSMC and
+also Nvidia this week, but also we're
+getting really into the the nitty-gritty
+of the potential deadline of August 12th
+for that China US extension, if you
+will, of their goodwill, their truce,
+and the talk of a potential
+you know, grand bargain Trump dealing
+with with China. Is this is this kind of
+tech momentum just kind of a a symptom
+of what is potentially a grander story
+that we're going to be talking about in
+the coming weeks as we head towards the
+doldrums of August?
+&gt;&gt; Well, I think in general you're seeing
+the underlying fundamentals still quite
+strong. So as we we saw what we saw from
+Nvidia, what we saw from TSMC, uh next
+week we have Google also coming through.
+So a lot of those earnings are going to
+actually build to that. And really what
+matters is the fundamentals. Are the
+fundamentals still pointing to a strong
+direction and are they um having and and
+are they suggesting that the AI space
+and tech space is still quite strong and
+then add to that some of the policy
+tailwinds that we're going to likely get
+or we we are getting from China. So,
+China has been a very the on the policy
+side has been very supportive of the
+tech industry and obviously the the
+tariffs and the and the spat between the
+US and US and China trade tensions still
+loom especially with the deadline as you
+suggested but again there are some signs
+that the relationship is improving.
+There are um suggestions of talks coming
+through and obviously all those policy
+tailwinds will add only to that momentum
+but really when it comes down to it we
+still have to see that the fundamentals
+are well anchored and that the earnings
+are still solid.
+&gt;&gt; All right Bloomberg Mive strategist Mary
+Nicola thanks so much for joining us.
+Well let's get back to Beijing where
+Chinese commerce minister Wongwent Tao
+speaking at a briefing there. uh he is
+talking about well the the whole preface
+of the press conference is about the
+next five-year plan in China. He says
+he's hopeful to see retail sales exceed
+50 trillion yuan in 2025. Domestic
+consumption obviously a huge priority of
+the top leadership in Beijing and surely
+for the commerce minister there Wong uh
+as he is also of course dealing with the
+external shocks from that trade war. any
+insight we can get from him on any
+potential grand bargain uh from the
+United States would be very interesting
+but clearly they need to boost domestic
+consumption to offset some of the export
+shocks. There was a state council
+meeting this week. It the the readout
+was pretty dry, but they had this term
+again, Steve, domestic circulation,
+right? We've been talking about dual
+circulation for many months now here as
+well. So, we'll see what that means.
+When it comes to the retail sector and
+really overall the consumption space,
+Goldman Sachs is uh going joining us to
+talk a little bit more about that coming
+up. We're going to leave these pictures
+there from Bloomber subscribers, though.
+You can check it out at live go.
+[Music]
+Just recapping some of the inflation
+numbers that we got at Japan here early
+this morning. So, still looking
+elevated, though we have eased off from
+the two-year high when it comes to
+prices there. but certainly is going to
+be keeping pressure on Prime Minister
+Shiguro Ishiba ahead of that Sunday
+national election. The JGB market though
+right now we're seeing a little bit of a
+bid across some of the long end of the
+curve for now but you know people are
+you know we take a look at the traders
+and what they're really forecasting with
+this upper house election uh if in fact
+we see uh you know a sense of of this
+majority that's being lost and really
+what this means for economic policy and
+government spending. This is going to
+lead to maybe even a potential triple
+dig dip in Japanese JGB bonds. So
+certainly that's one thing to watch here
+as we get closer to these elections.
+Steve,
+&gt;&gt; yeah, and the yen's not showing much
+confidence at 148.44
+to the US uh dollar at this moment.
+Japan's Prime Minister Shigaro Ishiba
+will meet US Treasury Secretary Scott
+Bessant today ahead of Sunday's upper
+house election that we've been talking
+about. Bloomberg's opinion u Bloomberg
+opinions Grody Brady joins us now. Uh
+Grody uh Ishiba's failure to steady
+trade ties with Washington could be his
+final misstep. That is the headline of
+your latest piece. He's in sort of a
+no-win situation, right? He he can't
+give too good of deal to the United
+States at a time when of course his
+mandate's pretty weak right now.
+&gt;&gt; Absolutely. It's a tricky situation for
+anyone and as you say he's in a trickier
+situation than most with a minority
+government uh an election uh coming up
+that is already uh he's already polling
+quite badly in um and the situation that
+you have in Japan at the moment. The the
+reason that I have you know that
+headline on the column that you
+mentioned there is because you know
+there is a contrast to be had between
+how Ishuba is doing and the
+extraordinary um efforts that was done
+under the late Shinszo AB who obviously
+was Ishiba's you know great rival over
+the last 15 years within the uh LDP. uh
+Abbe was able to do things maybe we
+shouldn't expect normal politicians to
+to be able to do but you know famously
+he was able to to contain Trump to to
+form a relationship with Trump back when
+people had no idea how to deal with him
+and no idea how to handle him. Ishiba
+hasn't been able to replicate that at
+all. Um and you know a couple of months
+ago we were talking about the hope that
+Japan would get a quick trade deal. Here
+we are, you know, three months down the
+line and Japan is just being treated
+pretty much like any other country and
+not as the, you know, lockep partner for
+the US that it has been in the past.
+&gt;&gt; Yeah, I I still remember those pictures
+of of them playing golf together and the
+like and and the warm embrace that the
+you know, US and Japan had back then
+under Shinszo Abbe. But but tell us a
+bit more about why you're seeing such
+lack of popularity in the LDP party here
+right now. Is it just on just what we're
+seeing the external threats with trade
+tensions and the like but what what's
+really happening domestically do you
+think in Japan?
+&gt;&gt; There's a number of factors. There's
+obviously uh inflation is one of the
+large factors. You know, Japan is not
+used to having inflation and even the
+the relatively mild inflation compared
+to some other countries postco um has
+been a shock to a country that is
+basically used to the price of things
+going down year onear and re you know
+real spending power increasing um over
+the last 20 years. That's one factor.
+There's also the lingering effects of um
+LDP funding scandal that was you know
+it's over two years ago now at this
+stage. But I think the number one factor
+that you're seeing is that a lot of the
+conservative voters who would typically
+vote for the LDP are quite disillusioned
+and particularly disillusioned in
+Ishiba. Ishiba comes from a a more
+liberal wing or perhaps the most liberal
+wing um of the LDP even though you know
+it is a conservative party. He is on the
+more liberal leading side of that and he
+really hasn't displayed much leadership.
+He's been very disappointing since he
+came in in terms of his electoral
+results. he was elected, if you'll
+recall, um, back back in in last
+September, the idea was to replace Fumio
+Kishida with a leader who would be able
+to call an election, restore the, uh,
+LDP's mandate and stabilize politics.
+And really, he's done exactly the
+opposite. And if polls are as bad,
+sorry, if the if the vote is as bad on
+Sunday as polls are looking, that's
+going to get um, even weaker going into
+next week. So if if if he gets
+absolutely slaughtered at the ballot box
+on Sunday, does he potentially resign or
+does he go the opposite way and say,
+"What the heck? I have nothing to lose.
+I'm going to strike a deal with the US."
+&gt;&gt; There's definitely potential for it to
+go both ways. I think traditionally uh
+you would see um and we have seen this
+in the past that an LDP leader who had
+who would have had um you know if they
+do as badly as poll suggests on Sunday
+three disastrous elections in a row
+there was the lower house vote uh last
+year there was recent Tokyo assembly
+elections where the LDP really got got
+um got whipped um and the upper house
+election that we're going to have on
+Sunday um as leader you know Isha would
+be expected to take responsibility for
+this, but we are in a bit of a a tricky
+situation within the LDP. There's a bit
+of a leadership vacuum at the moment.
+His rivals may not want this moment,
+particularly with the threat of tariffs
+hanging over them um to take over or to
+to try and oust him and try to take over
+at this time. And then he may also,
+there's been reports this week that he
+may also use the threat of tariffs. He
+was very quick to term this when they
+were first imposed to term it a national
+crisis. So he may say, "Well, hang on.
+We can't be having this power vacuum in
+the midst of this national crisis when
+we haven't even reached a deal with the
+US,
+&gt;&gt; right? It's going to be very
+interesting." Thank you so much. We're
+already there, our Bloomberg opinion
+columnist on what to expect really
+leading up to this upper house election
+in Japan. Plenty more ahead. This is
+Bloomberg.
+[Music]
+It's a slow Tuesday, so we're taking
+stock here this morning when it comes to
+what's going on. This eye watering rally
+when it comes to Chinese bank stocks,
+right, that we've had of this year.
+Well, it it part of the appeal was the
+dividend play obviously, but now it
+seems like they might be losing that
+sort of attraction. Right. Take a look
+at the evaluations of some of these
+banks here right now and we're actually
+seeing them trade above book which we
+haven't seen for some time. So, are
+things looking a little bit pricey? You
+also saw the likes of some of the the
+insurers like China Life recently also
+trim some of their holdings of some of
+these banks as well. Why? Maybe the
+rally's gone too far. Also, when it
+comes to dividend plays, the yields have
+actually been falling. So maybe there's
+less of a need to really kind of dive
+into this sector, but it really has been
+more of a defensive play for many that
+are also leaning into maybe the growth
+stocks, that barbell strategy. One thing
+to look at though when you take a look
+at the financial sector moving forward.
+Plenty more ahead. This is Bloomberg.
+[Music]
+Oh,
+&gt;&gt; 11:29 a.m. in Tokyo. Japanese markets
+heading to that lunch break and it is of
+course the election eve or at least the
+penultimate one leading up to that upper
+house election. So there is some angst
+maybe leading up to this. We were just
+talking about how you know Besson's in
+town there as well. So if we ever see if
+in fact a trade deal with Japan and the
+US, what does that mean for the likes of
+Ishabasan here this weekend? Certainly,
+that's a lot at stake here. Dollar yen
+not doing a whole lot. We're at 148
+levels here right now, but know expect
+maybe a bit more angst in the long end
+of that JGB curve. Steve,
+&gt;&gt; yeah, you know, we're also looking at
+China right now. We've been dipping into
+Beijing where we have the commerce
+minister Wongwen Tao speaking about the
+next 5-year plan, but he's talking a lot
+about consumption and retail sales. uh
+he's been saying that he'd like to see
+retail sales exceed 50 trillion yuan
+this year in 2025 and he sees Chinese
+retail sales on a purchasing price
+parody basis at 1.6 times the United
+States. So again there's there's
+optimism that they can rebalance the
+economy and sort of absorb some of that
+excess capacity that they are exporting
+but again it's a it's a long road to hoe
+to get the consumer confidence going
+again. Yeah, it certainly still seems to
+be the key question. I think we were
+just talking to Hu Shan this week about,
+you know, is there more animal spirits
+there when it comes to boosting consumer
+confidence and the like. That's one of
+the key questions that their clients are
+asking as well. Goldman Sachs recently
+also talking about the unexciting
+consumption backdrop that we're seeing
+uh in the space here right now and
+really talking about these price wars
+and almost a lot of these subsectors in
+the consumer space. Let's bring in
+Michelle Chang. She's co-head of Asia
+Consumer Research and she joins us here
+right now. It's interesting though when
+you take a look at just the price wars
+that we're seeing. It's almost in all
+the all the sectors in the consumption
+space here right now. you were saying we
+could see more downside in in in terms
+of the pricing risks
+&gt;&gt; where
+&gt;&gt; yeah so if you recall I think earlier we
+we we mentioned that when we are seeing
+consumption bottoming out uh in fourth
+quarter first quarter we were seeing
+pricing stabilize but it's true that
+from second quarter you have like BYD
+cutting the price and then uh into the
+June 18 promotion uh activity is still
+very uh elevated and uh uh we also see
+the platform uh internet uh big giants
+they initially issuing good consumption
+coupon to drive the consumption but then
+it looks like they further step up these
+competition uh the the level of the
+competition and then uh it definitely
+drag the pricing. So at this moment we
+see basically across the board pricing
+are under pressure uh no matter is the
+apparel they still have some inventories
+to digest uh you have spirits uh that's
+partially uh impacted by these u alcohol
+ban and it's also see weaker demand so
+the drag down the pricing so um uh it's
+true that I think from the uh quarter
+over quarter trends so we see the risk
+but having said that um second half last
+year actually consumption was uh pretty
+at uh this what this this is when the
+government start to push out the
+stimulus and the base should be slightly
+uh easier but um originally I think some
+companies are looking for maybe their
+stabilization and they can drive a
+better growth uh into second half but
+now we still have a hope that the growth
+rate will be better than uh first half
+but uh I think uh the the the the
+acceleration the magnitude might be
+smaller than what we expected
+&gt;&gt; so what's going to be the catalyst to
+end this 33 month straight run of
+factory gate deflation. Also, CPI is
+very I mean just around zero anyway
+right now. Uh there don't doesn't seem
+to be a lot of catalyst coming forward
+on the calendar. Maybe 111 singles day
+in November. Uh aside from cash handouts
+from the government or a policy shift
+from Xiinping where he's saying no more
+price war in EVs, what's it going to
+take?
+&gt;&gt; Uh definitely I think it go back to the
+confidence level. So I think uh earlier
+when we see price more stabilized on the
+one side I think a consumer have some
+probably confidence level uh bottom out.
+So they are slightly more willing to pay
+some uh not necessarily premium but uh
+pay a reasonable price for the good
+quality product. Uh but on the other
+side I think at the at that time uh the
+competition landscape slightly better
+because I think some merchants uh even
+they do a lot of promotion activities uh
+they couldn't really uh bear the cost.
+Uh so this is actually one of the angle
+we we talk about restaurants industry
+competitive landscape setting improve
+because uh uh this actually squeeze out
+some of the weaker players but at this
+moment I think it's a bit complicated
+since there's a uh the the support from
+the platforms and this makes things a
+little bit complicated at this moment
+some weaker players they they stay they
+can still survive so I think hopefully
+we still want to have a more um a
+reasonable competitive landscape so that
+the good guys good quality companies
+they can benefit How do you boost this
+whole domestic circulation theme then? I
+mean, do you do you expect the these
+trade- in programs?
+&gt;&gt; Could it actually widen to cover a wider
+range of of products? And there's also
+some chatter about subsidizing services
+as well. Do you foresee any of these
+happening anytime soon?
+&gt;&gt; Uh if we quote uh our macro team's
+comment, I think uh they could be still
+more like targeted uh support stimula.
+So you actually see that the trading
+policy work reasonably well. Also if you
+look at retail data headline numbers is
+still resilient and trading uh uh even
+there's some month monthly volatility
+but uh uh that sector actually support
+the the general retail sales uh and also
+you see like birth rate uh birth uh
+support and uh also safety net
+improvement but at this moment uh uh we
+don't really see a a broad base large
+scale stimulus.
+&gt;&gt; How how do investors read what you're
+saying and how do they
+&gt;&gt; basically benefit from it?
+&gt;&gt; Yeah. So that's why this year there's
+been a big theme in the consumer space
+uh new consumption versus uh traditional
+consumptions and new consumptions uh
+partially is uh those sectors really uh
+uh exploring the wise space and
+partially is some newly listed company
+but the quality companies being listed
+and so investors they can have some new
+ideas uh they can explore and uh so I
+think although I think there's
+increasing debate on the new consumer
+names given expectation has been moving
+up significantly and they are debating
+to next year but I think Oh you know
+when investor invest in consumer space
+they always like growth. So if a company
+can still deliver reasonable like 20 30%
+plus growth this is I think uh still the
+area people will focus on versus for the
+old consumer or traditional consumer
+space actually it's not all that but
+although generally it's not as exciting
+as before but we still see some quality
+good companies uh market leader if they
+can have a uh agile business model they
+continue to enhance the efficiency they
+still have a good uh opportunity and uh
+last but not least I think uh balance
+sheet uh shareholder return uh for the
+traditional names if they can have a
+steady earnings and they are willing to
+return the uh cash flow to the
+shareholders I think this is still the
+the bright side
+&gt;&gt; um the big the big news this week was
+what we heard from from PopMart right
+that that guidance of what 350% surge uh
+in profit I mean h how important is
+&gt;&gt; I mean the whole international expansion
+side of things here I know you're
+looking at overseas demand for example
+for some of these companies right where
+labuboo have basically gone global in
+some way how important is that theme
+moving forward
+&gt;&gt; definitely it's important uh starting
+from around like two years ago we tried
+to uh uh study the opportunity for
+Chinese brands going global I think
+initially uh the Chinese brands are
+getting more attractions domestically
+but if you look at uh Japan's experience
+back in 1990 why uh quite a few um
+consumer companies uh can get bigger and
+bigger even domestic consumption was
+weak is really going global uh but in uh
+among the the the Chinese companies
+going global I think there are actually
+two stages
+uh in the very first stage we see a lot
+of success uh leveraging their supply
+chain. So uh no matter it's w goods
+company uh handset companies they are
+all uh sitting on very strong supply
+chain but indeed we are start to seeing
+another wave hopefully is the branding
+uh going globally and so the IP company
+is example hopefully some jewelry
+company is example
+&gt;&gt; well LAU is one on the buy list right
+the gold company and gold projected to
+go even higher so how does what what are
+some names that you can reveal? Mhm.
+Yeah. So uh on the one side from the
+sector perspective uh uh for for those
+uh sector we like definitely the
+structural growth opportunity wise space
+to go. So uh those IP retailer companies
+or even pet food companies this is also
+area see a lot of opportunity uh and uh
+sportsware I think to some they still
+have volume growth story
+&gt;&gt; is one that's listed here.
+&gt;&gt; Yeah and uh uh beverage company uh this
+is also the space and restaurants. Yeah,
+and the company level I think definitely
+uh it become more diverg even within the
+sector. So if a company can really
+provide the different product and in the
+right brand cycle, it will be good.
+&gt;&gt; All right, Michelle, thanks so much for
+coming in and talking about a great
+subject this Friday, consumption. I'm
+not going down the labu path just yet.
+Michelle Chun, co-head of the Asia
+consumer research at Goldman Sachs. All
+right, coming up on the show, how
+Chinese factories are struggling to cope
+with Trump's tariff tirades. Our team at
+Bloomberg Originals explores what
+companies are doing to stay in business.
+You're watching the China Show.
+[Music]
+Well, tariff chaos is shaking global
+supply chains and forcing Chinese
+manufacturers to rethink their
+strategies. Bloomberg Originals has been
+exploring whether they're truly eyeing a
+shift to production in the US.
+[Music]
+&gt;&gt; Navigating high-risk environments when
+you can't see what's ahead is no mean
+feat. But it's the kind of uncertainty
+Donald Trump's trade actions have forced
+on China's factory workers.
+&gt;&gt; President Trump ramping up trade
+tensions again.
+&gt;&gt; The word tariff, music to my ears.
+&gt;&gt; So, we're in the realm of just endless
+tit.
+&gt;&gt; This just kind of indicates how much of
+a moving target this has really become.
+&gt;&gt; At stake is hundreds of billions of
+dollars in bilateral trade and access to
+the world's single largest consumer
+market, backed by American spending
+power. This trade war basically leaves
+no one untouched. Whether that's
+investors, business people, or officials
+in any country.
+&gt;&gt; It just seems like every manufacturer in
+China realizes that they need to have
+strategies in case things get worse.
+&gt;&gt; Two things are becoming clear, though.
+One, that finding a replacement for the
+mighty US consumer is as essential as it
+is difficult. and two that despite all
+the tariff chaos, Chinese manufacturers
+aren't rushing to shift production into
+the US.
+&gt;&gt; Americans don't want to make spatulas.
+They want to eat hamburgers. And I don't
+mean that in a negative way. I want to
+eat hamburgers, too. But I'm here in
+China making the spatulas to do it.
+Americans don't want these jobs. And to
+think that manufacturing would go back
+to the United States is a farce.
+Chinese manufacturers have had to get
+used to living with uncertainty.
+&gt;&gt; They're not looking at their strategy 5
+10 years down the line. They're looking
+to keep their factories open for the
+next few months.
+&gt;&gt; And that's costing money and clients.
+&gt;&gt; Typically, we'll do about 150 to 160
+million in revenue. This year, we're
+down about 20%. Our customers are
+essentially on pause.
+&gt;&gt; Even exporters of incense destined for
+yoga studios, people you'd expect to be
+pretty zen, are ftting over demand.
+You probably know why
+&gt;&gt; we really need to change the way trade
+works around the world.
+&gt;&gt; We basically saw in April that the US
+and China traded these tit fortat tariff
+hikes which raised tariffs up to 145%
+for Chinese goods going to the US and
+125% for US goods coming to China. In
+midMay we saw those tariffs reduced.
+Still, Trump continues to make threats,
+including against countries that helped
+China sidestep tariffs.
+Trade between the two nations has ridden
+steadily for the last 25 years.
+&gt;&gt; We're looking at basically 600 billion
+dollar worth of goods traded between the
+two nations last year.
+&gt;&gt; And with that has come a ballooning
+trade deficit. In 2024, the US imported
+nearly $439
+billion US worth of goods from China.
+But US exports to China total little
+more than 143 billion. That's about a
+$295
+billion difference or trade deficit.
+&gt;&gt; One country actually said to me, I I was
+amazed that we were able to get away
+with it for this long.
+While the US administration argues
+tariffs are the best way to address
+trade imbalances,
+&gt;&gt; Chinese manufacturers, they don't
+understand why the US is doing this. For
+a lot of Chinese exporters, it's going
+to be a lot more costly, a lot more
+difficult to sell to the US market going
+forward.
+&gt;&gt; The concern is that companies that will
+no longer have access to their biggest
+export market will then need to cut
+prices, let go of people. there will be
+lower wages and you know that's going to
+damper consumer sentiments. Consumer
+confidence in China is already at
+historic lows because of this prolonged
+property crisis where a lot of wealth is
+tied up.
+&gt;&gt; Despite all the uncertainty, the latest
+data shows China's economy appears to
+have held up despite a slump in trade
+with the US. China's gross domestic
+product expanded by a better thanex
+expected 5.2% 2% during the second
+quarter of the year. While exports to
+the US fell 24% in the second quarter,
+China's overall exports rose over 6%
+during the same period. But the country
+is facing persistent deflation, meaning
+companies are earning less money and
+making them more reluctant to invest and
+higher. Although China has signaled this
+intention to shift to a more
+consumer-driven economy, it still really
+depends on its manufacturing sector to
+be able to meet its growth targets.
+&gt;&gt; As uncertainty around Trump's tariff
+plans persist, manufacturers, workers,
+and their families are stuck in limbo
+and bracing for the worst.
+Although Chinese exports to the US
+account for something like 3% of GDP,
+once you take into the secondary effect,
+the loss of jobs, lower wages,
+potentially price cuts to get rid of
+inventory, then we're looking at a much
+worse situation and potentially a
+deflationary spiral.
+&gt;&gt; And so with Trump's trade assault
+whipsaring relations between the world's
+biggest economies, China's manufacturers
+are grappling for options.
+For one thing, US businesses and
+distributors who buy goods manufactured
+in China need time to plan orders. At
+Vong Enterprises, a manufacturer in
+Guangdong, Jacob Rothman says this
+hasn't been possible.
+[Music]
+&gt;&gt; There are buying cycles and they only
+happen once a year. and shipping for
+those categories, no matter what it is,
+are regimented to those shipping cycles.
+&gt;&gt; On again, offagain US policy has been
+confusing, too. Trump's 90-day delay
+following his so-called liberation day
+tariffs didn't help companies like
+Jacobs
+was saying how his staff let out a big
+cheer uh when they heard about the
+reduction. Later that evening, uh his US
+customers uh called him and said they
+were still upset. They didn't know where
+to place their orders because we're too
+late for the previous season that they
+missed product for and too early for the
+next season. So where do they place
+their orders? About 700 miles to the
+west outside the city of Kunming,
+Jonathan Wang runs Shanty Veil, an
+incense brand.
+The family business has been producing
+their products by hand for more than a
+decade. They have their own workshop,
+their own farm. And over the last year
+or so, Jonathan has decided to export to
+the US.
+He was also hit by Trump's closure of
+the dimminimous tariff loophole, a Latin
+term meaning too small to matter. It let
+small businesses ship low value packages
+duty-free.
+Fore.
+In an effort to sidestep the evolving
+tariffs, many companies in mainland
+China have adopted a so-called China
+plus one model. India and Southeast Asia
+have benefited. In particular,
+&gt;&gt; our first factory outside of China was
+in Cambodia and it was during President
+Trump's first term and it was really to
+test if we could project our
+manufacturing beyond China. Since 70% of
+our goods go to the United States, we
+did have to of course make cuts to our
+manufacturing staff.
+&gt;&gt; We've seen a pretty big exodus to
+Southeast Asia to take advantage of
+those lower labor costs, but also for
+the proximity to Chinese raw materials.
+&gt;&gt; We have no choice. So even within this
+year our Cambodian factory doubled in
+size. So did our factory outside of
+Delhi and our factory outside of Mumbai
+is adding new manufacturing space. Now
+&gt;&gt; we've already seen exporters look to
+emerging markets for other developed
+markets for those goods that they're no
+longer able to sell to the US.
+&gt;&gt; 30% of our volume is going to Europe.
+Presumably we could say well let's stop
+US business, right? Let's focus on
+Europe. But then you have every single
+company and manufacturing firm focusing
+on a smaller market. Competition becomes
+even more fierce for Europe.
+It's very hard to replace the US
+consumer. It's the biggest market and
+American consumers are very open to new
+ideas and trying new trends.
+&gt;&gt; There's just no way that China can fill
+that volume of exports uh quickly,
+whether it's emerging markets or uh
+developed countries. But in the long
+term, they're hoping that these emerging
+markets will provide a way out.
+&gt;&gt; There's no quick replacement for the US
+market. The spending power of the US
+consumer is so strong, even with
+tariffs, Chinese companies are not
+wholly scared off. Instead, it's about
+managing an uncertain relationship and
+planning for the worst.
+&gt;&gt; So the conversations in Beijing, whether
+it's among officials, business people,
+academics, it's not really about how to
+rebuild the relationship with the US,
+it's about managing the decoupling and
+how to do it in the least painful way
+possible.
+Great stuff from our China team there as
+we can see. And subscribers can see that
+documentary right now on the terminal or
+at bloomberg.com. It'll be available
+later on the Bloomberg Originals YouTube
+channel.
+&gt;&gt; Yeah. And we're checking some of these
+graphite stocks here in the region here
+this morning. This is on the back of
+what the US Commerce Department imposed
+these prelim anti-dumping duties of 93
+and a half% on graphite, which is a key
+battery material, right? You're taking a
+look at some of these Korean names. The
+Australian names as well are basically
+surging. Posco future up 18%. Sara over
+in Australia also up about 17% this
+morning. We got plenty more ahead. This
+is Bloomberg.
+[Music]
+Well, Chinese Commerce Minister Wong
+Wenta still speaking off and on in
+Beijing in a briefing on the next 5-year
+plan. He has acknowledged he has met
+with visiting uh Nvidia CEO Jensen
+Huang. Obviously, Jensen Hong is there
+for a supply chain conference, but he's
+really there to meet with the likes of
+Wong Wenta as well as Ki Fun as
+especially after announcing Nvidia did
+uh that the meeting he had Jensen Hong
+with Trump last week netted him a
+resumption of exports of H20 chips into
+China.
+&gt;&gt; Yeah. So, certainly gaining that bit of
+reprieve there for Nvidia, but it's a
+big win uh for them in the mainland as
+well. So, certainly that's one thing to
+watch. Uh obviously on the back of that
+whole Nvidia story is of course their
+supplier TSMC which really has really
+lifted a lot of the sentiment here in
+the region here this morning. The TSMC
+stock is at records now and we're seeing
+gains of 2% or more. Our interview is
+coming up next. A lot of questions to
+ask the CFO Wendel Hong not just about
+the whole AI sort of demand picture
+which CCway the CEO did really highlight
+that's still very strong
+&gt;&gt; but the FX side of things here and the
+currency headwinds moving forward.
+&gt;&gt; That's right. Absolutely. And what is
+going to be the outlook for 2026 because
+of all those headwinds? We won't know.
+And they didn't give a 2026 outlook.
+That's it from us here from the China
+show. Insight with Helena Almond. We're
+going to bring you that interview coming
+up next. This is Bloomberg.
+[Music]

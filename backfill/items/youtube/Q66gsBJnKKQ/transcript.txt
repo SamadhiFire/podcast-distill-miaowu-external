@@ -1,0 +1,1402 @@
+Kind: captions
+Language: en
+In the AI age, anyone can become a
+hundred million dollar entrepreneur,
+build a company solo. Do you think it is
+possible now?
+&gt;&gt; I think it's very
+&gt;&gt; This is Mike Kger. A lot of you guys
+know him as co-founder of Instagram.
+He's also chief product officer at
+Anthropic, building Claude and shaping
+how we work and solve problems using AI.
+&gt;&gt; The next step there is Claude actually
+being an entire sort of co-orker. It's
+going to do everything perfectly well.
+You're a first-time entrepreneur without
+a big network. You're doing all those
+things yourself. So why not try to bring
+the best of what we know into that
+company uh via something like Claude?
+&gt;&gt; And it's not just hype. Cloud is already
+helping millions of people with product
+building, being their lure, and even
+being their therapist. People who just
+graduated from college are struggling to
+find jobs because a lot of entry-
+levelvel jobs being replaced with AI. Do
+you ever wake up at night and think
+like, oh my god, where the world is
+going with AI?
+&gt;&gt; This could be really positive for
+humanity. It also could go quite badly
+and there's going to be economic
+impacts. There's going to be labor
+impacts.
+&gt;&gt; So, should we be hopeful or afraid?
+&gt;&gt; Hello everyone. Welcome to Silicon
+Valley Girl. I have an amazing person
+here today, Mike. Thank you so much for
+being here.
+&gt;&gt; It's good to be here.
+&gt;&gt; Uh you have this amazing story of
+building a huge company, but also you
+are at the forefront of what's happening
+with AI right now. There's been this
+conversation that in the AI age anyone
+can become a hundred million dollar
+entrepreneur like build a company solo.
+Do you think it is possible now or we're
+still away from that?
+&gt;&gt; I think it's very possible just even
+watching the journey I went on with
+Instagram where we did a lot of the
+initial work with just me and Kevin and
+we were able to do a lot with just the
+two of us and there's a focus and an
+energy when you get when you just have
+one or two people working on something.
+I think the ideal is actually too
+because it's helpful having a partner
+when going through the ups and downs.
+But what I've learned is as you grow,
+every person you grow the team is
+another person that can bring their own
+ideas and bring their energy which is
+great. But it's also another person that
+you need to get on board if you need to
+shift where the company is going. And so
+what I think is very exciting now is
+that one, two, three person team can
+scale themselves up, do a lot more than
+they would have been able to do before,
+maybe do it faster, um, and preserve
+that kind of I call it conceptual
+integrity. like you have like all of
+what matters about that company in your
+head or in two heads basically working
+together versus trying to steer a huge
+ship.
+&gt;&gt; Do you think being technical is crucial
+to building a large company these days
+or it is unnecessary with all the
+existing tools? I think you know with
+with increasing things like cloud code
+um with like products online I think
+you're getting to the point where you're
+able to at least get to um a version of
+your idea where you can see if there's
+something there you know because that's
+like the biggest thing that I've get
+like in the age of kind of mobile apps
+first emerging. I would hear from people
+all the time and they'd be like, "Mike,
+I have a great idea for a mobile app.
+Like, do you know any mobile engineers
+or how do I get it built?" And that was
+often where the idea would die. And some
+of those ideas maybe wouldn't have
+worked out, but some of them might
+actually have created something really
+novel, right? There would be people that
+said, "Oh, I have a novel idea for a
+social app or a dating app or a game."
+And so many of those ideas just kind of
+like, you know, kind of died at that
+stage. And so what I think is exciting
+is even if the the tools aren't there
+where they're not necessarily going to
+get you from your first 10 users to your
+first million users in terms of the
+system scaling up, they'll at least get
+you in front of those first 10 people,
+right? Like get you to the prototype or
+even that initial version. And that
+seems very possible even people who
+aren't um technical. We see that inside
+Anthropic where some of our
+non-engineers, you know, people in
+marketing, people in communications who
+just have had an idea in the back of
+their heads for a while will sit and
+talk to Claude and work with Claude code
+on the weekends and then share it
+internally like look what I built and I
+don't code at all.
+&gt;&gt; That's super cool. So what would be your
+uh road map? So come up with an idea,
+build an MVP, share it with like 10 20
+people. U you had experience where you
+had to shut down the company, right? Can
+you tell what the product was?
+&gt;&gt; It was a our second company. I started a
+second company with the same um uh
+co-founder as Instagram and it was
+called Artifact. And the product itself
+I'm super proud of. It was a AI powered
+news uh recommendation product. So we
+would learn your interests and then we
+would give you a feed of you know
+different articles and and stories that
+you might be interested in. Um, and at
+like a really nuanced level like you
+people might be interested in um not
+just graphic design but you know uh bow
+house graphic design or Japanese
+architecture like really understanding
+the kinds of things that people were
+like more deeply interested in but the
+product didn't hit enough of like a
+product market um you know fit and an
+acceleration that made it made sense to
+continue to invest in it. So that
+process of having created something and
+iterated on it and built a team around
+it but then also coming to the
+realization that the right thing was to
+move on from it was really challenging
+&gt;&gt; and the pressure was on right it was
+right after Instagram.
+&gt;&gt; It was and you know and then that you
+know in some ways that was really a
+hindrance.
+&gt;&gt; When do you make this decision about an
+idea that you showed to maybe like 20
+people? Yeah.
+&gt;&gt; When do you say like hey this is it or
+do I keep pushing? I think for me it's
+very much when you're um in that phase
+are you as you're making changes and as
+you're showing it to people and they're
+giving you feedback and then maybe maybe
+you even have some people using it does
+it feel like the more you change or the
+you know as you listen to feedback and
+make some alterations is is there like a
+snowball effect where energy is
+increasing? We definitely saw that in
+early Instagram and we had initially a
+group of maybe 20 30 people using it in
+just a private beta and you know it was
+very much a weekend product right
+because you're out and about and
+especially in the early days that's all
+you were doing was just taking photos
+with Instagram. it wasn't that, you
+know, you were uploading photos from
+somewhere else or your camera roll. And
+so we would find that we would work all
+week and then on Friday we'd ship a new
+version to those like 20, 30, 40 testers
+and then we'd see what would happen over
+the weekend. And every weekend those
+changes that we were making, we'd hear
+from people, oh, I tried the new filter,
+I tried this thing, it's going it's
+going well. Um, so that's what I look
+for a lot. And I think where it's time
+to maybe either pivot the company or
+move on to something else is when you
+feel like, man, I've tried every idea
+that I have or I've added 30 things and
+none of them are really sticking or
+people are kind of okay about it but
+they're not excited about it. And that's
+maybe where you might want to step back
+and say there's probably energy better
+spent somewhere else. Like the way it's
+not scientific, but when you feel like
+one unit of input you're getting 10
+units of output, that's a good feeling.
+When it feels like 10 units of input,
+you're getting one of output, it's time
+to pivot to something else.
+&gt;&gt; What fascinates me most in these
+conversations about AI is that how our
+consumption behavior changes. I wonder
+what it looks like in your life, but in
+my life, I think like 20 to 30% of
+purchases are made through an LLM. I ask
+Claude to research something for me or
+ask other tools to pick the best product
+for me. There's actually statistics that
+60% of searches end up without a click.
+Attention is scattered. And yes, more
+and more buyers are doing research in
+LLMs instead of following a traditional
+funnel. And businesses have to adjust.
+You have to be generative engine
+friendly. We're moving from SEO to GEO,
+generative engine optimization. If you
+want your marketing strategy to be ready
+for what's coming, I suggest checking
+out HubSpot's new loop marketing prompt
+library. It's a pack of 100 field tested
+prompts designed to solve 2025's biggest
+marketing challenges. This will help you
+build marketing systems that don't just
+keep up, but actually learn and adapt
+instead of running static campaigns that
+get stale. You'll have a datadriven
+system where humans and AI work together
+and that evolves with your audience over
+time. It's built around four dynamic
+stages. In the express stage, you'll
+define your voice, lock in your brand
+style guide, and craft the stories that
+set you apart. In the tailor stage,
+you'll enrich your data to deliver
+experiences that feel personal. Make
+your prospects think, "How did they know
+that?" In the amplify stage, you'll
+expand your reach with AI, creator
+partnerships, and communitydriven
+campaigns. In the evolve stage, you'll
+monitor, adapt, and improve in real
+time. Build a system that learns as it
+grows. No more cookie cutter campaigns.
+No more static reports. My favorite part
+is how it turns AI into a growth engine
+that compounds over time instead of just
+running the same campaigns on repeat. If
+you want to stand out and build
+marketing systems that don't just keep
+up, but actually learn and adapt, grab
+the loop marketing prompt library for
+free. The link is in the description.
+And big thanks to HubSpot for sponsoring
+this video. Let's talk about people who
+already have a business. Uh, I've heard
+you talk about how people are not using
+AI enough in their businesses. What do
+you think are top maybe two or three
+cases how entrepreneurs can use cloud to
+automate some operations which doesn't
+require you to be very technical? Yeah.
+So, I was actually talking to a fellow
+friend who's a second or third time
+founder and uh he was telling me he's
+like, "Mike, I'm really glad you
+launched Claude Max because Claude is my
+product manager. Claude is my lawyer. Um
+Claude is my, you know, uh founder
+therapist as well." And what he does is
+he has a Claude project for each of
+those disciplines. So, he has his
+product manager Claude, he has his uh
+you know, like contracts Claude, and he
+just uses that for all of those things.
+it's let him run a very lean um initial
+company overall and and do those pieces.
+And so even though he happens to be
+fairly technical, but he's not coding
+with Claude really in his day-to-day,
+he's actually set up Claude to be um
+sort of a mini version of some of these
+disciplines already. Even as the models,
+you know, continue to get more and more
+powerful in those ways. Even today with
+the right context and the right sort of
+history around something you really can
+start having these sort of per job
+function thought partners in there and
+for an entrepreneur for sure you know
+have uh you know a model that validates
+your idea or sees what you might be
+missing um another one doing you know
+competitive intelligence to understand
+what's even out there and understanding
+those pieces of course helping you build
+with code is another another part of it
+too but even beyond that the way I like
+to think of it When you grow a company,
+you want to go hire. I want the best
+CFO. I want, you know, the best head of
+product, etc. When you're a
+entrepreneur, especially like I was a
+first-time entrepreneur without a big
+network, you're doing all those things
+yourself. So, why not try to bring the
+best of what we know into that company
+uh via something like Claude?
+&gt;&gt; What do you think is going to happen in
+two or three years? How we're going to
+progress in advance? I think part of it
+and I was having this conversation this
+morning even with some of our our
+researchers um the the progression or
+the the dynamic that I see is um if last
+year maybe the beginning of this year um
+these models and I'll use claude as the
+example were really kind of uh
+assistants that were helping you with
+maybe a question at a time or maybe a
+task right um this year they're moving
+more into collaborators where um
+especially if you watch somebody use um
+cloud code for example they're actually
+delegating what would have taken them
+maybe 20, 30 minutes and Claude's going
+off and doing it and then you're
+checking in and you're more on the sort
+of validating or verifying work, right?
+Going into next year, you're going to
+delegate even bigger chunks of time or
+even like pieces of the job out to that.
+So, it's not just I have this very
+specific thing, please go do it. And it
+could be more sort of think of it,
+Claude, as something that's in the loop
+of your business. So, hey Claude, um,
+watch for any new user feedback and
+maybe propose a change based on that.
+And you can imagine evolving that. don't
+just propose a change, write the code to
+make the change and I'll check if it's a
+good idea or not. Um, and then the next
+step there is Claude actually being an
+entire sort of co-orker where it has a
+discipline. So, not just a project that
+happens to be a good thought partner for
+product management, but an actual
+product manager in your company
+&gt;&gt; like being active, right? Is that what
+you mean? When it I don't know, look at
+your ads and says like, "Hey, hey, hey,
+I'm going to change this."
+&gt;&gt; Exactly.
+&gt;&gt; He's telling you. So, when do you think
+that's going to happen? I think that is
+within, you know, it depends a little
+bit on the discipline with um coding
+sort of tasks. I think within the year
+we'll start seeing Claude be able to do
+those things. And I think in some of
+these other disciplines maybe it's more
+like two or three years, but it's not
+wildly far away. And it's not that it's
+going to do everything perfectly well.
+There's still going to be this
+validation human in the loop aspect of
+it. Um but I think the big shift is
+going to be this autonomy and
+proactivity where you're not having to
+give it explicit instructions every time
+and instead um you can almost describe
+what kind of role you want it to play
+and then it will be able to play that
+role as long as you've connected it to
+the right um you know data sources
+&gt;&gt; and how active you want it to be right
+because now it's basically just you
+chatting I want the model to be talking
+to me as well proactively like hey I
+just noticed this
+&gt;&gt; that would be cool
+&gt;&gt; exactly
+&gt;&gt; half a year ago Dario Amade today said
+90% of code would be written by AI. What
+percentage of code is written by AI at
+anthropic? Now
+&gt;&gt; it depends on the product but for our
+products that are sort of the closest to
+being written. So cloud code for
+example, they're doing almost entirely
+the the development of that is using
+cloud to develop cloud.
+&gt;&gt; How has it changed the way you work?
+&gt;&gt; Well, it's let me who I like being
+technical but my day-to-day often is in
+you know uh external commitments or
+doing management. Um it's let me remain
+really technical which is fun. So like
+because we've oriented the codebase to
+being able to be written by claude, it
+means somebody like me can also
+contribute as well. So we launched our
+cloud for Chrome just uh it was earlier
+this week and uh I had a little bit of
+time on a business trip and I said, "Oh,
+I have two hours free. What am I going
+to do?" I was like, "I'm going to
+contribute to this thing that I know
+we're shipping in a couple of weeks."
+And so it's broadened the group of
+people that can contribute for sure. Um
+I think it's also kind of moved where
+the bottlenecks are where we need to pay
+special attention to. So I think we've
+put more time up front now into all
+right let's get clarity across our team
+about what needs to get done so that you
+know we don't have this like amazing
+technology that can code really quickly
+but the engineers are actually not even
+sure what the thing is that needs to get
+built. So that still remains very
+important right being aligned having
+that that consistent vision and then on
+the last part which is that you know
+codes being ready to you know get
+committed and get reviewed the number of
+pull requests and changes that are going
+into our codebase is just dramatically
+accelerated. One of our um developer
+productivity engineers shared this last
+week we're just on an exponential there
+too. So we've had to re-engineer those
+systems too.
+&gt;&gt; Crazy. Wow. Claude for Chrome. You
+mentioned is it gonna fix email?
+Something done for us like yesterday. Uh
+I just came back from a business trip.
+My kids went to school and they were
+because they don't really some of them
+like Lily who doesn't speak English. She
+doesn't understand what's going on. She
+was like tomorrow's pajamas day and I
+was asking my AI like is it really? And
+it's like no no all good nothing's
+happening at school. And of course we
+come and it's pajamas.
+&gt;&gt; Pajamas day. Yeah.
+&gt;&gt; Like oops.
+&gt;&gt; And it was interesting. The demo we had
+in front of the company was um was like
+cloud triaging emails and it's still you
+know probably too slow right now still
+to be like the main way in which you
+interact with your emails but um I went
+through for example I had a lot of
+pending LinkedIn uh invites but I and I
+wanted to you know ignore the ones that
+weren't real but I wanted to make sure
+that if it was somebody from anthropic
+or it sounded like they knew me that we
+would like make sure that we uh captured
+those. And so I had Claude just kind of
+triage that whole inbox for, you know,
+an hour actually and it went through.
+&gt;&gt; Did you have to code something or you
+just asked?
+&gt;&gt; Just asked it. I was like, "Hey,
+&gt;&gt; that's Claude for Chrome, right? Just
+ask it to go through." Oh, wow.
+&gt;&gt; Yeah. Visit LinkedIn. Look at my
+invitation.
+&gt;&gt; Be your assistant in your browser.
+&gt;&gt; Exactly.
+&gt;&gt; Can you share some personal practices
+for how you use Claude?
+&gt;&gt; For me, it's anytime I've written
+something. I found that I still want to
+take the first draft myself because I,
+you know, sometimes writing is thinking
+and that's really important that you're
+actually, at least for me, that I'm kind
+of expressing myself through writing.
+But before showing any human, basically
+anything I write that's of substance,
+I'll basically tell Claude and say,
+"Hey, I'm writing on this like what am I
+missing? Please challenge me on what I'm
+I haven't said yet." And sometimes it'll
+give you a suggestion. And it ranges
+from I can't believe I forgot to address
+that. It would have been really
+embarrassing to share this document and
+not have this. And then sometimes it's,
+oh wow, I wasn't even thinking about
+this dimension. It's something like very
+uh new and different. And actually, I
+use it less for copy editing, but I use
+it a lot for challenging my ideas and
+and figuring out how to, you know, um
+kind of understand what a very smart
+person looking at this would ask as the
+next follow-up question and then can you
+kind of go from there?
+&gt;&gt; Do do you still type? You said you're
+writing or you would do voice.
+&gt;&gt; Um it's kind of a mix. Another thing
+I've done with Claude sometimes when I'm
+like I I'm a little bit of writer's
+block. I need to get started, but I
+still want that experience of working
+through an idea myself is I will uh turn
+on the voice mode and just talk to it
+for 20 minutes sometimes and at the end
+say, "All right, that was a lot. Now,
+can you organize that into some kind of,
+you know, real cohesive document that
+you can that I can send?"
+&gt;&gt; When do you think it's going to happen
+that AI generates ideas better than
+humans? Cuz what where I see this going,
+you have this marketing AI, you have
+this product AI. What if we just combine
+all of this and tell like hey AI go
+identify niches in the market where you
+can build a business build a business
+launch ads make me money like when is do
+you think it's going to happen and
+&gt;&gt; well it's an interesting one experiment
+we ran internally um is so we have a
+whole team that really starting to
+really focus on um sort of cloud in the
+real world or you know frontier
+applications of cloud and what can we
+learn by studying it and one of the
+things that we had it do is actually run
+a vending machine and now it's multiple
+vending machines here at the office. Um,
+and so people could talk to Claude. It's
+it's a great paper. It's called Project
+Vend. Um, and what's interesting is in
+some cases it's very capable. Like it
+was able to track inventory, place
+backup orders, like do all these things,
+interact with the people who were
+talking to it, but as a pure sort of
+business, it still made some like
+mistakes like overestimating demand, you
+know, overcharging or undercharging for
+certain things. So uh I think one aspect
+that we need to develop before it's
+fully ready to be sort of a entrepreneur
+in a box is a little bit more of that
+business sense and and how to understand
+the market like what is actually
+sellable etc. But often we find with
+some steering or some feedback it
+actually can do very very well. So maybe
+initially it's still going to be all
+right, partner with a person. Let's go,
+you know, maybe like business school
+101, like identify a problem or a market
+gap, try it out, learn from it, um see
+what worked and what didn't and go and
+and build from there. Um but what I
+think is also really interesting is that
+you can also set up some experiments
+around like what are the things that
+people are searching for? like what are
+the demands like what are the feedback
+that other products are getting that
+maybe a new product could feel better
+and then have Claude both brainstorm the
+idea and then also go off and build it.
+&gt;&gt; Do you think it's more for you as an
+entrepreneur also is it more encouraging
+or discouraging when AI is getting so
+powerful?
+&gt;&gt; I think for me you know having watched
+over the years like the the friction to
+starting something new in some ways has
+decreased in other in other cases is
+about the same. you know, it's uh
+there's more resources out there about
+what is it like to incorporate or raise
+money than there was when I was when I
+was doing even Instagram for the first
+time, but building stuff is still, you
+know, can still be a challenge and that
+needs needs to continue to get easier.
+So, I always felt like there was more
+good ideas than there were, you know,
+products that kind of surface those
+ideas out there. So, I think it's
+exciting to have more of that um out
+there. Partially also because if the
+cost of creating that company goes down,
+we should also get new funding models.
+Not every idea needs to be a huge
+venture funded, you know, billion dollar
+business. Um, but if you have to build a
+whole tech team around it and you have
+to go hire and then it's going to
+require some funding. And so I'm very
+excited about, call it the next 5 years
+of companies that can scale from the,
+you know, worldchanging venture-funded
+crazy ambitious companies, but also the
+ones that solve a problem really well
+for a particular demographic and maybe
+remain a one to five person team along
+with AI. Yeah, this is where I think
+this model because I raised uh venture
+capital as a creator like I was the
+first creator to do that. I feel like
+this is the age where you invest in
+humans because now they can iterate
+through so many ideas and
+&gt;&gt; yes
+&gt;&gt; a year and you want to back someone who
+has these ideas and uh can execute
+&gt;&gt; 100%.
+&gt;&gt; For all the entrepreneurs who are
+watching where should they start today
+if they want to start?
+&gt;&gt; I mean I think there's two things that I
+think you'd think about that are unique
+to the moment versus like generally
+about starting companies. one is um not
+building for where the models are today,
+but where you think that they can get to
+in one or two model generations. By the
+time you've built it, the models will
+have done that that move on. And so um
+the way you do that is to push the
+models as hard as you can, like break
+them almost and say, "Wow, wouldn't it
+be great if um uh one experiment
+somebody ran internally was like they
+gave Claude their whole to-do list, you
+know, in like reminders or something was
+like, "Hey, Claude, go do all these
+things." I mean really quickly hit a
+point where well it didn't have all the
+information about me so it can't do it
+or this is before we had cloud for
+Chrome it can't use my browser so it
+can't like go and you know fill out this
+form that I needed to fill out
+&gt;&gt; but then you can imagine well what if it
+could all right should I be building
+towards that and does that feel like a
+fiveyear journey or like a you know two
+months and six months and things are
+accelerating and so that's like a very
+big piece I think is like the best
+companies um are building like ready to
+you know take advantage of the fact that
+the models will continue to to improve
+prove and your advantage as an
+entrepreneur is that you don't have a
+legacy codebase. You don't have people
+using a product in a particular way. You
+can build for that, you know, kind of
+inflection point.
+&gt;&gt; It's just so hard to predict like if the
+model is going to take over your whole
+business niche, right?
+&gt;&gt; But I think that, you know, and it
+definitely hard to predict in the, you
+know, threeear range at that point, you
+can also kind of evolve the business.
+But like seeing what models were bad at
+6 months ago or are better at now or
+like okay today but could be better at
+the future. I think that can really come
+just from like constant contact with
+them
+&gt;&gt; and just start iterating.
+&gt;&gt; What would be your advantage compared to
+a model that could do the same thing in
+a year?
+&gt;&gt; Yeah. I mean then yeah it's very much
+so. Exactly. If you can create that um
+if you're building at that edge and you
+understand your customer segment then
+you're going to be the one that is going
+to best be suited to say all right you
+know what also got better like this
+aspect and I get how that's going to
+connect to my customer segment and I
+already have the relationships cuz
+people are still they seek trust still
+right and you know somebody who
+understands their segment and has the
+relationships is going to you know be a
+more trustworthy source any day than
+like a brand new person or a company
+that they've never interacted before.
+&gt;&gt; Yeah. And I like how you said in one of
+your interviews that every product has
+this vibe.
+&gt;&gt; Yes.
+&gt;&gt; And uh if you're building something with
+passion, then it definitely has your
+vibe, right? That some people are going
+to connect with and that's going to be
+yours.
+&gt;&gt; Exactly. Right. And that that's your
+voice coming through there even beyond
+whatever AI is going to provide.
+&gt;&gt; What would be your advice to
+entrepreneurs who are looking to start a
+company? What niches do you think have
+the most potential?
+&gt;&gt; I think people um are still u
+fundamentally like human and still have
+like very human needs. So I think a lot
+of the the aspects I still think about
+being really important are for example
+people's health both physical and mental
+and even though there's the beginning of
+AI helping with those aspects I think
+there's so much more potential around
+that as well right how do we relate to
+ourselves how do we develop our own you
+know understanding of where we're
+showing up well where we could be
+showing up better um how we can continue
+to evolve kind of as individuals but as
+also as teams or as partners so that's
+another an area that I think um I'm
+excited for more companies to get formed
+in their fitness fitness and performance
+coaching is another another place that's
+important there. Um too, I think there's
+also going to be this uh renaissance of
+being, you know, into the physical or
+the real world. You know, you had very
+much this like, you know, social media
+like thing that was, you know, Instagram
+at its best was helping people get out
+and see the world in a different way. At
+scale, maybe it became more about like
+watching what other people were doing
+than going out yourself, right? So, how
+do we get new companies and products
+that are about, you know, either
+exploring something new, getting to see
+the city through a new light,
+participating in a civic way that's
+different? I think not all of these
+require AI, but done right, they could
+be encouraged by AI.
+&gt;&gt; What should be entrepreneurs focusing
+on? Is it getting expertise in the niche
+where they're building or just being
+focused on like identifying those niches
+and iterating ideas? I think a lot of
+the most important companies are going
+to come from understanding those niches
+or those businesses. So a friend of mine
+is uh building a company in the
+construction space and she went to all
+of the construction conferences got to
+know people really building in that
+space and understanding what is like
+uniquely important about that. This
+reminds me a lot of when I was at the
+Stanford D school, that whole process of
+developing empathy and storytelling and
+really getting to the heart of what the
+needs are where technology actually can
+have an impact on an industry or a
+person in a positive way. That ends up
+being very very important. You know,
+I've also met another entrepreneur who
+works with AI for a very specific type
+of legal practice and they're, you know,
+going off to, you know, states in the US
+that aren't the most techfor necessarily
+spending a lot of time with people who
+are in that particular discipline. So
+that kind of expertise is I think what
+is going to differentiate the companies
+because it's going to be easier to
+build, but that knowledge of like what
+actually to build and how to build very
+specifically for that is going to be
+what's really valuable. What about
+marketing? Because it feels like okay
+ideas I can generate a lot of ideas.
+Claude can help me then I build the
+product with claude or replet or
+lovable. What what's going to happen to
+marketing? Everyone's talking about like
+hey every what should be on social media
+because otherwise how do you market your
+idea? What do you think?
+&gt;&gt; That's definitely evolved from when we
+were building Instagram. the way you got
+your, you know, product out there,
+especially a social product like
+Instagram was for us people sharing
+their Instagram creations to um Facebook
+and to Twitter at the time and then
+seeing that link and then finding that
+it's definitely shifted to much more of
+this uh sort of creator, you know,
+whether it's Instagram or on Tik Tok and
+people telling those stories um and and
+discovering those products. It's
+interesting watching that evolution now
+and kind of wondering like well what
+comes after that as well you know is it
+going to be um still like al algorithmic
+recommendations are we going to return
+to oh like word of mouth I really like
+this thing and it solved my very
+specific problem and I'm going to share
+it with you and maybe there's some
+combination of those two that needs to
+needs to happen but I completely agree
+that the what will also differentiate
+beyond an understanding of a market is
+also the ability to tell the story
+around that
+&gt;&gt; yeah what was going to happen to content
+you I think in two or three years cuz my
+feed is like maybe 50% AI something like
+crazy going on or I see an AI generated
+image. It's been in like I uh I like use
+trying to use social products from all
+around the world and for a while I was
+using um a social media app that was um
+like very popular in China and the thing
+that struck me was that you had creators
+that were really good at AI generated
+sort of fantastical architecture and
+they had a real following even though
+their work was all generated because
+they had a voice and so I think that is
+the the next piece that um not a lot of
+people are doing well which is yes you
+can be using AI for generating videos or
+text, but if it's just generic or if
+it's just, you know, kind of a bunch of
+random things that you manage to
+generate, I don't think that's going to
+generate following or I think that's not
+going to generate um like a a real uh
+presence on these platforms. Whereas, I
+remember there was a a photographer that
+early Instagram photographer, like
+probably one of our first 10,000 users,
+and he took a photo of the same hill
+like outside his window like every day.
+And it was like that was like a
+photographic practice that he had. And
+that was really cool because then his
+followers could see that he had a view
+of the world and and kind of a
+perspective. And I think the same thing
+needs to be true to succeed as a
+creator, even if you're using AI tools.
+&gt;&gt; Yeah, that's fascinating. Uh let's talk
+about people who don't have
+entrepreneurial ambitions, but they're
+like, I want to work for a company. Uh
+your hiring strategy at Anthropic has
+changed recently, right? You're hiring
+more highlevel people. Is that right?
+&gt;&gt; It's a kind of a shift. So the way I
+think about it is you want people that
+um are going to be defined more about
+the problems that they want to solve and
+how they can creatively solve them than
+a very specific sort of I know
+JavaScript and I'm going to do work in
+this exact um environment. And so I'm
+still really drawn to the folks that on
+the weekends um or in their you know
+spare time are prototyping ideas. They
+came up with something they're bringing
+that even to the interview process. you
+know, some of our product managers that
+we've talked to have had like a culture
+of experimentation that they've been
+working through. And I think that's very
+uh very interesting. I really look for
+that when I'm hiring. Interesting thing
+is it's not so different than when I was
+hiring for Instagram. The people I
+always gravitated towards were ones
+that, you know, if you talk to them on a
+Monday morning, tell you all about the
+new thing that they got interested.
+Doesn't have to even be techreated, but
+there is that sort of curiosity,
+&gt;&gt; excitement. Yeah.
+&gt;&gt; Exactly. And I still absolutely look for
+look for that as well. And then in terms
+of the kind of makeup of the teams that
+we want to build, you know, we we
+haven't had a like summer internship
+program. So, we've tended less to hire
+the like kind of fresh college grads,
+but I've in talking to a lot of people
+who uh maybe are going through college
+now or recent graduates, you know,
+they're also enabling themselves via AI
+to sort of understand the market,
+understand the dynamics, be
+entrepreneurial in their own way, even
+if they're not starting their own
+companies and then coming into companies
+and telling that story.
+&gt;&gt; How do you learn that? How do you learn
+how to become entrepreneurial or
+generate ideas? Are you teaching your
+kids that?
+&gt;&gt; I well I mean our kids are pretty young.
+I do try to to to encourage the idea of
+like observe the world and be you know
+open to what is there. You know the
+thing I did early on was I had a little
+yeah little notebook that I would carry
+around everywhere and basically just
+always kind of writing and ideiating and
+like making space for that sort of quiet
+ideiation time you know is is really
+useful. One of the the ways I've seen
+people use Claude, you know, if you ask
+Claude for one idea, it'll generate an
+idea. Maybe it'll be a good one. But the
+thing that's unique about it is it can
+also generate 50 or 100 ideas. So
+practice that I find is useful is give
+it, you know, five or 10 and then ask it
+to fill in the next 30 and maybe one of
+those sparks something else. There's a
+lot of research where um asking people
+to brainstorm together in a room is not
+as effective as asking one person to
+write down 10 ideas and pass those 10
+ideas to the next person. Have them um
+kind of generate the next 10. So you can
+simulate that same process but with AI.
+Now
+&gt;&gt; what is your ritual uh for generating
+ideas? You said quiet time. Do you go on
+a walk or
+&gt;&gt; walks are really helpful for me? I also
+just like any kind of repeated action I
+really like. like I got one of those
+Pelaton rowing machines and I found
+something you're like okay it's a very
+repetitive action but then your mind can
+kind of start wandering and and start
+thinking about what those different
+things and and also you need to give
+your brain the opportunity to make new
+connections while you're not focusing on
+it and then maybe later it'll come and
+say oh yeah that that actually does
+connect really well
+&gt;&gt; is it like every day that you make time
+for this
+&gt;&gt; I wish it were every day it's more
+probably like once or twice a week these
+days um but I always every time I do it
+I'm like I really should be doing this
+you know more regular and all of a
+sudden be excited to like sit down and
+like put pen to paper and then share
+that with the team.
+&gt;&gt; What about uh going back to kids? I have
+two small kids and sometimes I read
+these articles where like oh people who
+just graduated from college are
+struggling to find jobs because a lot of
+entry level jobs being replaced with AI
+and I'm like okay I'm worrying about
+myself but now I have to worry about
+them as well. Uh what are you teaching
+your kids? What do you think they're
+going to do in 10 years when they go out
+uh to the job market?
+&gt;&gt; Yeah, it's super far hard to predict
+like what that market looks like right a
+six and a four-year-old. So, it's going
+to be the the what might change a lot
+and even some of the how will change,
+but I think there's a few things that
+are kind of worth calling out. One is
+talked a little bit before about being
+curious and observant about the world.
+That remains really powerful. They did
+this um uh uh whole like whole school
+event at my um kids school around like
+uh even having the kindergarteners
+observe what could be better about the
+school and then like create posters
+about like ideas about how to improve
+them. That's a great mental exercise for
+kids
+&gt;&gt; and like to even ask that question, you
+know, and some of the ideas are like
+creative and some of them are kind of
+silly, but even like having that
+mentality is something I think will
+serve anybody well as they grow up cuz
+that's a change that you could try to
+make within your school or your
+community or your company and and and so
+forth. So I think that piece matters and
+I think the other one that should remain
+constant like there was a lot of energy
+around like learn to code everybody
+should learn to code and I think too
+many people interpreted that as like you
+should learn Python and it's like yes
+you can learn Python that's going to be
+helpful through to some things but more
+than that it's can you think in terms of
+systems can you think systematically and
+the folks that internalized that I think
+even with the advent of AI generating
+coding you can still apply those same
+techniques were the ones that were just
+Oh yeah, I learned to code and now I'm
+like feeling a drift because of that. So
+I think what I hope to encourage in my
+kids is that that sense of curiosity and
+observation and then also this ability
+to think in terms of systems like how do
+these things interrelate? you know,
+whenever they um they got because of all
+the politics and news, they were like
+interested in tariffs and like my wife
+had a really wonderful sort of
+interactive example of like how you know
+interdependent economies might interact
+and you could see their eyes kind of
+their gears kind of. So that kind of
+like explain the system, don't just
+explain the facts.
+&gt;&gt; Love that. Uh can we talk a little bit
+about your English because I started my
+YouTube journey talking about English
+because I'm originally from Russia. I
+came with an accent and then I learned
+how to speak like an American. You sound
+like an American. Like how did that
+happen?
+&gt;&gt; I think it was a couple of things. So
+one was I was interested in music from a
+very early age and especially like
+American and British bands. So I loved
+Oasis. Actually going to go see them in
+a couple weeks. I'm excited. But I never
+saw them. Are they coming here? They're
+coming to Pasadena. So I'm going to
+play. Um, but like if you're singing
+that language, you know, you have to
+kind of hear, you know, for it to even
+rhyme or sound good, you have to kind of
+hear yourself. And so I think music was
+a big part of it as well. And then we
+moved around a bunch when I was a kid
+and and the one constant were
+international schools. And so, you know,
+starting from a fairly early age, I was
+I was bilingual. Um, but only lived in
+the States when I turned 18. And so
+there was some words that I had never
+really said out loud because I just read
+them and then um internalized them over
+here. But it is funny. I mean we've had
+maybe we've had this experience too
+where now you know I'm been here for a
+while. I'm a citizen here now but will
+never feel fully like I'm from here
+because I grew up in Brazil but when I
+go to Brazil I don't feel fully there.
+So kind of from both and from neither
+now.
+&gt;&gt; Yeah that's super cool. Uh I wanted to
+ask for advice for all the immigrants
+who are watching. Do you think it make
+if you want to build company in AI, do
+you think it makes sense to move to
+Silicon Valley or again with AI does it
+matter where you are?
+&gt;&gt; I think the barrier to creating products
+has really really you know shortened
+where now you know before in Brazil
+especially when I was growing up there
+there wasn't really a talent market of
+really good engineers. I mean now there
+is much more because there's been
+generations of companies that have been
+created but that might not be the case
+for every single kind of city or every
+single country. AI can definitely help
+there as well. There's also such a
+broader uh set of you know information
+and content around what to look for in a
+co-founder. How do you think about that
+initial idea? How do you build from
+there? How do you market? And what I've
+been really excited about is, you know,
+whenever I talk to, for example,
+Brazilian entrepreneurs where I'm from
+who are understanding uniquely Brazilian
+problems or uniquely Brazilian
+opportunities around our unique payment
+systems, you know, how uh Brazilian the
+economy works like the public safety
+questions and then applying AI or
+applying technology to those problems. I
+think there is a tremendous opportunity
+there and one of the things I get
+excited about is in the past if you had
+some an idea there your only path would
+have been well I hope I can go fund
+raise from Silicon Valley VCs. I think
+there's much more of an opportunity to
+um build that locally and then try to
+fundra you don't need funds to build an
+&gt;&gt; you can at least get to that point where
+you've gotten something exciting
+&gt;&gt; wanted to wrap up the language part.
+Yeah.
+&gt;&gt; Do you think language learning is going
+to be replaced by AI? I really think
+about this because, you know, I um I've
+been out of Brazil for long enough where
+all of the sort of like colloquialism or
+slang has moved on and I just haven't
+lived there in a long time. And so I've
+used even though I fluent in Portuguese,
+I'll now use Claude and say, "Hey, I'm
+about to send this to somebody who's
+like my age, like do I sound old or do I
+sound like out of date?" And he'll be
+like, "Well, you might want to use this
+kind of uh language instead or
+something, you know, kind of nuance
+there." I still think the the value of
+learning the nuances of language is is
+still important. You know, we went to
+Korea with a lot of the anthropic team
+in March and Cloud is actually quite
+good at Korean. Um, we heard from people
+on the ground that it's the best of the
+at the of the models at Korean, but even
+so, they said it still sounds like a
+really cool Korean that like grew up in
+LA and then like moved back. And I was
+like, that's nuance. Like, I'm not sure
+&gt;&gt; American vibes.
+&gt;&gt; Yeah. So, how do we like uh continue to
+push that as well? But you know we're
+definitely getting to the point where
+that sort of vision of like you can be
+in a country and uh you know interact
+you know that with
+&gt;&gt; yeah AI is going to become natural at
+some point and then do you think there's
+going to be a wearable that we're
+wearing and it just interacts for you
+listens for you and
+&gt;&gt; I think so although there's also the
+value of having like technologyfree
+interactions and so there's I think
+always still going to be that the appeal
+of right I actually learned this
+language I'm going to go and be with
+somebody in full presence rather than
+feel like we're being intermediated. by
+technology.
+&gt;&gt; Uh do you have any rituals? Uh any hard
+nos because you're a dad, you're a
+husband, but you're also a CPO at this
+huge company. Can you talk about your
+day-to-day?
+&gt;&gt; Yeah, I really focus on you know the
+routines that kind of anchor my day are
+um you know for a long time I resisted
+being a morning person, but now I've
+just realized I'm like
+&gt;&gt; in the US you have to. It's like 4 4
+a.m. people everywhere.
+&gt;&gt; Yeah. And the kids, you know, that
+they're going to start school at 8:00.
+then you got to get up early. But we
+have breakfast together and we wake up
+early enough where we actually have time
+to dedicate to breakfast and that ends
+up being like this really great morning
+ritual and sometimes we'll also do, you
+know, like longer dinners with the kids
+and like get to download the day. But
+those are more unpredictable. Sometimes
+they're exhausted and they just want to
+get through it and go into, you know,
+bedtime. So breakfast is a more reliable
+kind of opportunity to kind of set
+intentions and think about the day. So
+we'll we'll always we'll always kind of
+anchor on that and then we read to them
+every night. And that's been fun to see
+the evolution from, you know, you're
+reading your very simple board books to
+now picking up these stories and and
+then now our six-year-old can sort of
+start reading to our four-year-old,
+which is also very cute.
+&gt;&gt; Oh, that's the best. They can take care
+of themselves.
+&gt;&gt; Yeah, it's kind of that. So I think like
+those that that start and the start and
+finish anchors are really valuable. So
+like no matter what, you know, even if
+later I'm going to have to pick back
+some project that I'm doing, like really
+stopping and spending that time and like
+anchoring either side of the day has
+been great.
+&gt;&gt; Anything around travel? Do you have to
+travel a lot or
+&gt;&gt; the travel pieces I've tried to do? One
+uh that was a newer thing and it's not
+even using very much AI, but I
+discovered time shifter this year and
+it's been like the biggest changer.
+Yeah, it's like the jet lag thing. And
+uh when we were in Vivate actually where
+we met, I used that app going, you know,
+into that trip and it would, you know,
+the rest of the team would laugh at me
+because I was like, "All right,
+everybody, stop drinking coffee. It's,
+you know, 3:00 in the afternoon and, you
+know, start taking this, take melatonin,
+but it really worked." So now I'm like a
+real uh believer in in that kind of uh
+piece.
+&gt;&gt; Couple of final questions. Do you ever
+wake up at night and think like, "Oh my
+god, where the world is going with AI?"
+like because you see all the headlines,
+right, and all the things happening. Are
+you optimistic or pessimistic?
+&gt;&gt; I'm generally optimistic, but I'm also
+um maybe a cautious optimism or like
+that um it's optimism if you believe you
+can actually uh help steer things
+towards a good outcome. So, one of the
+biggest things I want to do coming out
+of the artifact experience, I knew I
+wanted to go work at a frontier model
+lab. I thought that that's what you know
+the maximum impact I was going to have
+in the next few years but I really
+wanted to be somewhere where I felt
+really aligned with the you know the
+founding team and the kind of core
+ethics of the company around how they
+thought about scaling AI right so it's
+not just build the most powerful AI you
+possibly can it's also dedicate effort
+to understanding how these models work
+and how we can control them and how we
+can responsibly scale them and so um
+there's definitely you know inside
+anthropic and outside a lot of
+conversations around like well this
+could be really positive for humanity.
+It also could go quite badly and there's
+going to be economic impacts, there's
+going to be labor impacts, there's
+models that we don't understand yet and
+how how they scale. Um, so I wanted to
+be somewhere where we were also asking
+and working on those questions alongside
+the you know more purely like let's just
+make the models
+&gt;&gt; really good. So, do you think do you
+think we're going to have universal
+basic income at some stage? And would
+companies like Anthropic sponsor it or
+&gt;&gt; Yeah, I think that like how we help
+society navigate is very much an open
+question. I think that the the the big
+open question that we'll also have to
+tackle is what is where do people draw
+meaning from in a place where not
+everybody has to work anymore like what
+is the source of both meaning and
+challenges and is it you know finding
+ways in which people stay engaged? Is it
+that a lot of people will be
+entrepreneurial? As you mentioned, not
+everybody is going to have that kind of
+drive. And so for those folks, what is
+the, you know, what is the community
+that they find? What is their personal
+challenge that they find even beyond
+that that retains that meaning?
+&gt;&gt; What do you think?
+&gt;&gt; I think, you know, I look to sports as a
+kind of an interesting example where we
+draw a lot of um meaning and um sort of
+uh like high stakes from an environment
+that is actually completely fabricated.
+And so not everything should be exactly
+like sports, but whether it's, you know,
+uh who's contributing the most to their
+city or their community or who's like
+mastered this particular thing or even
+artistic pursuits like, you know, um
+getting really into art or music or
+something like that. I find uh
+inspiration in those fields and maybe
+more of people will draw meaning from
+those kinds of pursuits where the yard
+stick is not necessarily how much money
+did you make or is your company at the
+top of the leaderboard but more around
+okay I have some personal yard stick
+that I'm working towards
+&gt;&gt; a hobby like some like that sounds like
+a dream life right when you can just
+focus on your hobby and have all the
+basics
+&gt;&gt; and if there's enough of the you know
+challenge or meaning in there to still
+to still matter.
+&gt;&gt; Yeah. What are your top three favorite
+AI apps? Um, that's a good question. Of
+course, Cloud Code. I spent a lot of
+time like coding in Cloud Code and and
+and doing that. One interesting one I've
+been using, um, uh, you know, for a long
+time, I would like, you know, log my,
+uh, meals and like my macros and
+protein. It's always like such a huge
+like annoyance where you're like, I
+don't know, I'm going to like estimate
+and like what's the portion size? And
+all these years of computer vision
+research, I think, just got completely
+taken over by just feeding them into an
+LLM. And so, um, I've been using like an
+AI powered meal tracking app that does
+such a good you just take a photo and
+you go back to your life and
+&gt;&gt; it has all your proteins and everything
+&gt;&gt; and it's amazing and it like estimates
+your your um, uh, like portion sizes,
+etc. levels. Um, but what I love is it's
+actually very much a uh technology that
+hopefully it makes me healthier, but
+also just helps me stay present where
+I'm not spending like the extra 5
+minutes on my phone finding the thing
+and it can just be like take a photo
+like move on and then and then kind of
+go on and go from there as well. Um, and
+then last but not least, like I also
+just like um anything that has to do
+with learning. So like any like AI
+powered learning. I've been enjoying
+both my kids using Dual Lingo ABC now to
+learn some of the alphabet but also
+seeing what they've been doing for
+example as like advancing language
+learning. So anything that like brings
+in that kind of AI powered uh you know
+conversational piece within cloud we
+launched learning mode recently to like
+not just give people answers but help
+people understand and learn and kind of
+iterate from there as well.
+&gt;&gt; Thank you so much Michael. Very
+inspiring. Thank you. Take it there.

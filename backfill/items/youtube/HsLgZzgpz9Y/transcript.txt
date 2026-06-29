@@ -1,0 +1,3454 @@
+Kind: captions
+Language: en
+The following is a conversation with
+Dave Plameumber, programmer and an old
+school Microsoft software engineer who
+helped work on Windows 95, NT, and XP,
+building a lot of incredible tools, some
+of which have been continuously used by
+hundreds of millions of people like the
+famed Windows Task Manager. Yes, the
+Windows Task Manager. and the zip unzip
+compression support in Windows and he
+ported the code for space cadet pinball
+aka 3D pinball to Windows today. He's
+loved by many programmers and engineers
+for his amazing YouTube channel called
+Dave's Garage that you should definitely
+go check out. Also, he wrote a book on
+autism and about his life story called
+Secrets of the Autistic Millionaire
+where he gives really interesting
+insights about how to navigate
+relationships, career, and day-to-day
+life with autism. All this taken
+together, this was a super fun
+conversation about the history and
+future of programming, computing,
+technology, and just building cool stuff
+in the proverbial garage.
+This is the Lex Freedman podcast. To
+support it, please check out our
+sponsors in the description. And now,
+dear friends, here's Dave Plameumber.
+Tell me about your first computer. Do
+you remember?
+&gt;&gt; I do. I didn't own my first computer for
+a long time, but the first computer I
+ever used was a TRS80 model one level
+one 4K machine. And I rode my bike in
+fifth or sixth grade, so I was about 11
+to the local Radio Shack. And you know,
+they had a standard component, stereo
+systems, and everything else Radio Shack
+had, but they had a stack of boxes that
+was labeled computer. And so I was
+asking the people that worked there
+about it. They So they just got it and
+they hadn't set it up yet. And so I was
+rather precocious and I figured, well,
+I'll set it up for you. And they said,
+"Okay, have a shot." Did you know what
+you were doing?
+&gt;&gt; Absolutely not. I mean, it's no worse
+than a component stereo. The only thing
+is that Tandy and their infinite wisdom
+use the same five pin connector for
+power, video, and I think cassette. So
+they're all identical, and if you plug
+them in wrong, you'd blow it up. So I
+read the label and uh got it working and
+wound up playing with it and not knowing
+anything about computers. So I'm typing
+English commands into it and you know
+print 2 plus2 works perfectly yet more
+simple English that you enter into a
+basic level one interpreter is not going
+to get you very far.
+&gt;&gt; So you're trying to talk to it in
+English.
+&gt;&gt; Yeah. Didn't know any better. And I
+still have an old full scap that I wrote
+in sixth grade of a of a program that's
+kind of logically correct, but has no
+chance of working on any interpreter
+that existed at the time. So it took me
+a while to figure out what was actually
+going on with them. But I rode my bike
+down there every Thursday and Saturday
+and they had graciously let me use the
+machines. When was this?
+&gt;&gt; 7980.
+&gt;&gt; Okay. What was the state-of-the-art of
+computing back then? So what are we
+talking about?
+&gt;&gt; Well, the big three had come out. There
+was a the TRS80 model 1. There was the
+PET 2001 and the Apple 2 came out
+roughly simultaneously.
+&gt;&gt; Apple 2. Would you say that's the
+greatest computer ever built?
+&gt;&gt; Probably in retrospect. Well, I would
+probably give that to the Commodore 64.
+&gt;&gt; Yeah, you and I agree on this. That was
+my first computer probably many years
+after it was released. But yeah,
+Commodore 64 is incredible. But yes,
+Apple 2 had a huge impact on the history
+of personal computers,
+&gt;&gt; right? It's hard to gauge the long-term
+impact, but I think the 64 itself
+probably influenced more people. So,
+that's my reason for picking that one.
+&gt;&gt; You think so?
+&gt;&gt; The sales are certainly higher.
+&gt;&gt; So, Commodore 64 sold a lot.
+&gt;&gt; Yeah. I mean, the numbers are hard to
+believe. It depends which numbers you
+believe, but even the medium estimates
+are pretty high.
+&gt;&gt; All right, cool. So, you eventually
+graduated to the Commodore 64. Uh, like
+tell me about that machine. What did you
+do on the the Commodore 64? Well, the
+first thing I did was overheat the
+floppy drive on it, which was
+unfortunate because it wasn't a warranty
+machine. We had my parents didn't have a
+lot of money, so we bought it from
+Computer House as opposed to one of the
+major retailers, which meant when it
+died, it had to go back to Germany or
+something to be fixed. So, I was left
+with no floppy and so I had a cassette
+deck, which was the best you could do at
+the time. And so, I was writing small
+things and I had a machine language
+monitor that you could load from
+cassette. Didn't have an assembler built
+in, but had a disassembler. So, you
+could enter the op codes in 6502 in hex.
+And if you were careful about planning,
+you'd be able to write some basic
+programs. So that's kind of how I
+learned. And uh the first thing I ever
+wrote on it was a clone of Galaga. Now,
+it's a bad clone of Galaga, but it has
+the major enemies that attack over time.
+And it's all written in handcoded
+machine language, and you can't relocate
+6502. So if you need to add code in the
+middle, you need to manually sort of
+jump to somewhere else, do your work,
+jump back to where you were. It's just
+hideous spaghetti code. But it all
+worked eventually. and I went to make a
+backup of it to preserve it for future
+scholars or whatever the hell I was
+doing. And uh I copied my blank floppy
+onto my data floppy. So that was my
+first experience with data management.
+And so I don't have a copy of my first
+program anymore.
+&gt;&gt; What was that feeling like? Do you
+remember of of uh just doing something
+um if I may say so like stupid, you
+know, which is a part of the programming
+experience.
+&gt;&gt; Yeah. There was a huge amount of guilt
+cuz right you destroy several weeks of
+work and you know it was because you
+rushed or you did something stupid or
+you made a
+&gt;&gt; unwise choice.
+&gt;&gt; What can you tell me about the
+programming involved in that?
+&gt;&gt; So it's literally machine language.
+&gt;&gt; So machine so it's not even not assembly
+yet because there was no assembler built
+in. So I should have wrote an assembler
+written an assembler as my first task
+but I wasn't that clever. So
+&gt;&gt; how hard is that to do?
+&gt;&gt; Trivial and it's just one of those
+things that sticks. I think you do it so
+many times. You know, if I give you a C
+issue, there are certain syntactic
+issues in C that you're never going to
+forget and get wrong.
+&gt;&gt; Yeah.
+&gt;&gt; And it's just one of those like
+&gt;&gt; what are then the limitations of
+programming in machine code as a
+programmer?
+&gt;&gt; The biggest issue is you have to write
+completely sequentially because at least
+in that variant 6502, you can't add
+things later. You can only add things on
+the end. So it's like programming a tape
+in a way.
+&gt;&gt; What was the most complicated thing
+you've built with machine language?
+uh that game would be I mean in assembly
+language I've done a fair bit of
+complicated stuff but in actual machine
+language I think that game would be the
+only thing I've actually
+&gt;&gt; I literally built a game
+&gt;&gt; not a great game but it worked.
+&gt;&gt; Okay. All right. And then you erased it.
+&gt;&gt; I did.
+&gt;&gt; All right. When did you first fall in
+love with programming? When you figured
+out like this is a this is something
+special.
+&gt;&gt; I think there was two stages for me. I
+always knew immediately that I was
+fascinated with these machines. from the
+TRS80 Model 1. It's all I wanted to do
+is ride my bike back there and have more
+time with it. And I did that, you know,
+to wear out my welcome as much as I
+could. And the other revelation came, I
+think, about second or third year
+university when I realized I love
+programming, but I have no idea what I'm
+going to do. Am I going to make the 12
+flash on a VCR somewhere, or am I going
+to go work on an operating system? I
+have absolutely no idea what I'm going
+to do postgraduation,
+but I love what I do. And so, I think
+that was a lot of consolation. And it's
+like it doesn't really matter what I'm
+doing at this point cuz I kind of love
+doing it. So
+&gt;&gt; So you'll figure it out.
+&gt;&gt; Yeah.
+&gt;&gt; As long as you're following this kind of
+feeling that's
+&gt;&gt; I knew I was in the right area finally.
+Yeah.
+&gt;&gt; All right. You dropped out of high
+school.
+&gt;&gt; Yeah. Not the smartest move.
+&gt;&gt; Okay. But you ended up going back to
+school and being very successful at
+school and just in general successful as
+a programmer, as a developer, as a
+creator of software. Uh how were you
+able to find your way? Can you tell that
+journey of dropping out and then finding
+your way back?
+&gt;&gt; There's no moment when I dropped out.
+You just go less and less and less until
+you realize it's going to be
+embarrassing if I show up cuz I haven't
+been there in a long time. And then
+pretty soon you're just not going. And
+that's how you drop out of high school.
+So if you find yourself on that path,
+stop doing that. Um, but that's
+precisely what I did. And so now I'm not
+at school and I have to get a job. So
+I'm working at 7-Eleven and a paint
+warehouse and stuff like that. And
+7-Eleven is actually kind of an
+interesting job because it's a job I
+think they keep rotating for people that
+are smart enough to do the night shift
+with all the accounting and the
+administration and stuff they make the
+night shift do but that have reasons
+personally that they need to work at
+7-Eleven. Um, and I was one of those
+people cuz I had no high school diploma.
+&gt;&gt; What are some memorable moments from
+that time at 7-Eleven? Uh, maybe what do
+you uh appreciate about the difficulty
+of that job? Probably the worst moment
+for me. I mean, I got held up at knife
+point and stuff and that's all
+entertaining, but the worst the most
+this the suckiest part for me was doing
+the gas dips where you've got a long
+it's like a 15 or 20 foot wooden stick
+and it's measured in gradients of inches
+and feet and you drop it into the
+gasoline tanks and then you bring it up
+and you measure where the gasoline sits
+because there's no electronic sensor.
+&gt;&gt; Mhm.
+&gt;&gt; So, I'm doing that and the first time I
+do it, I drop the pole and I regrab it.
+Well, that's about a thousand splinters
+of wood into your hands and it's 40
+below out and that really sucked.
+&gt;&gt; Oh, wow.
+&gt;&gt; Um, I realized I don't want to do this
+for my whole life. I knew that. So,
+&gt;&gt; okay. So, you stand there frozen with
+splinters in your hand.
+&gt;&gt; And at some point I have a revelation
+about my life that next time I'm going
+to do it differently. And then how
+ludicrous that is hits me about 3
+seconds later, right? And I think that
+was really the moment for me where I
+realized that I've got to do something
+different. And so even though I was 21,
+I went and I talked to the uh principal
+of my local high school and I was like,
+"Can you let me back in?" And he said,
+"No, you're too old and we don't have
+room." It was his main reason. And I
+said, "Well, between now and then,
+somebody's going to drop out, so you'll
+have room. So let's assume you have
+room. Can I come back?" And he was
+gracious and let me come back. And so I
+did the three or four classes that I
+needed.
+&gt;&gt; Yeah. You know, just if you can linger
+on that, the slow dropping out, that's a
+weird thing that you can do with your
+brain. You realize to yourself that you
+don't have to do the thing that
+everybody else is doing. And that's a
+dangerous realization because like you
+kind of have to to be part of society to
+do certain things,
+&gt;&gt; right?
+&gt;&gt; And if you realize like you don't have
+to do what everybody else is doing, uh
+you can either have an incredible life
+or a really difficult life. Well, the
+problem with that process is you're
+making a much smaller decision. I'm just
+not going to go to class today. Yeah.
+&gt;&gt; And that's all you're deciding. But you
+do that enough times, you're making a
+much bigger decision,
+&gt;&gt; and that's the problem.
+&gt;&gt; So, it's better to make if you want to
+live life in a non-standard way, it's
+better to make the big decision
+explicitly and then you can stop going.
+&gt;&gt; Yeah.
+&gt;&gt; Don't allow yourself to make the the
+&gt;&gt; It'll be made for you eventually.
+&gt;&gt; Okay. you well you got back and you
+eventually went to college and were very
+successful as a student and you weren't
+that good of a student before.
+&gt;&gt; No, I was a terrible student in high
+school and even my first semester of
+college I still wasn't taking it quite
+serious because I got mercy passed in
+geometry 90 which is like the makeup
+class for the geometry 12th grade class
+that I didn't have and that scared me
+because I realized by 1% or the grace of
+the prof professor that let me through I
+just about ended my entire university
+career here. So fortunately those marks
+don't count on your transcript cuz
+they're remedial classes and so I got
+kind of a fresh start the next semester
+and did it for real and I did it for me
+and that made all the difference.
+&gt;&gt; What can you speak to maybe by way of
+advice on how to be successful as a
+student?
+&gt;&gt; Well ideally there's some aspect of
+school that you do enjoy whether it's
+arts, whether it's computer science,
+whether it's shop class, whatever. So go
+for those classes and just put up with
+and do the hard stuff because it's way
+easier than having to do it later. And
+that's easy to say when you're 50some.
+It's harder to say when you're 15
+something. But
+&gt;&gt; yeah,
+&gt;&gt; it makes a lot of sense.
+&gt;&gt; All right. What's the story of you
+joining Microsoft? How do we get to
+there from 7-Eleven
+to Microsoft?
+&gt;&gt; Yeah, it's a big jump. So, I had uh gone
+back to school and I think it was in my
+third year of university. I was working
+for the phone company for the summer as
+a summer job and I'm doing conversions
+of their Ubet to TCP IP and modern
+networking which really amounts to
+swapping cards but then figuring out why
+their config. This doesn't allow Lotus
+to run anymore cuz it's got 10K less
+than it used to. And it's just a
+horrible time to be working in
+computers, but I was doing it. And at
+lunch, I'm sitting in the food court
+with the old and the board. And I'm
+reading a book that I had bought called
+uh Microsoft or Bill Gates in the making
+of Microsoft Hard Drive, I think is the
+title. And it's a great book. It's just
+sort of a matterof fact history of how
+Microsoft came to be, what it's like,
+how it operates, what the people are
+like there. And I'm reading this book
+and I become really entranced by it and
+fascinated because it sounds like
+exactly the place that I want to be, but
+I'm in Saskatchewan. So, what am I going
+to do about it? And what I wound up
+doing was I had put myself through
+school with a program called Hyperache,
+which is a file system cache for the
+AmIGGA because didn't have any out of
+the box. And it had done reasonably
+well. And so I went through my
+registration cards because in those days
+you had a 4x6 card that people had to
+fill out with their name and their
+address and if they had an email, their
+email and they send it in, they get
+notifications of updates and so on when
+it's shareware. And I went through the
+whole stack looking for anybody with a
+Microsoft email address and I found
+maybe three or four people and I just
+cold emailed them and said, "Hey, I'm a
+operating system student in Saskatchewan
+looking for an opportunity." I don't
+remember exactly what I said, but one
+guy, Alistister, Alistister Banks, he
+wrote back and he said, "I know somebody
+that I can put you in contact with." And
+he put me in contact, I think, with a
+guy named Ben Slifka who did a phone
+interview who eventually want to hire me
+to work in MS DOS for the summer. So,
+that's how I got there.
+&gt;&gt; You put yourself through school by tell
+me about Hyperache. You build a piece of
+software. It's the weight loss program
+for hard drives.
+&gt;&gt; That was sufficiently useful to a large
+number of people that would somehow give
+you money.
+&gt;&gt; Yeah, it made decent money. I mean, I
+sold a couple thousand copies, 20 bucks
+a copy or 40 bucks a copy.
+&gt;&gt; What program? What language was it
+written in?
+&gt;&gt; C.
+&gt;&gt; So, there was some assembler. The actual
+really tight code to do the real work of
+transferring data to and from the cache
+was 68,000 assembly. Everything else was
+C.
+&gt;&gt; Okay. This is uh like file system IO
+&gt;&gt; device block IO. So any block that gets
+serviceed from the drive would go
+through my cache first and it was an
+Nway associative cache and so it would
+try to match the geometry of the drive
+and do prefetch based on you trying to
+read a whole track at one time that kind
+of thing.
+&gt;&gt; What what was it like
+trying to get your software out there at
+that time? Like where how were you able
+to find customers?
+&gt;&gt; Yeah, it's interesting. I think I
+started on Usenet and some of the AmIGGA
+forums posted here's my trial version
+try it out for 30 days see what you like
+and eventually got picked up by a few
+retailers and I remember I was with my
+now wife in her car and she had a cell
+phone cuz her dad was very concerned
+about her safety and so this is late '8s
+and she's got you know the antenna on
+the roof and the big box in the trunk
+the whole deal but we got a call from
+one of the uh software retailers that
+wanted to buy 50 copies at 20 bucks
+which to me is a thousand bucks which in
+1989 or whatever year it was was a big
+deal and so eventually a number of
+companies just bought inventory.
+&gt;&gt; Let's go to that time. It's such an
+interesting time with Bill Gates and
+Microsoft. Why do you think Microsoft
+was dominating the software and the
+personal computing space at that time
+and and really for many many many years
+after
+&gt;&gt; at the time it was the single most
+potent assemblage of smart people that
+I've ever been a part of and I've been
+in academia and I've been in industry to
+a certain extent and
+you know that when you're working at a
+regular computer company the one guy who
+actually knows what he's doing his
+smarter friend he probably works at
+Microsoft so when you get there you're
+the big cheese from your small town you
+think you know a lot and all of a sudden
+you're just in an environment where like
+uhoh I'm just not going to speak cuz I
+don't want to look stupid.
+&gt;&gt; Mhm.
+&gt;&gt; Okay. Uh what are what about Bill Gates
+himself? What are some qualities of Bill
+Gates that you think contribute to the
+success of Microsoft?
+&gt;&gt; I think he was relentless in the pursuit
+of his one dream which was his old
+slogan of a computer in every home and a
+computer in every desk. It was his
+special interest and he was a smart guy,
+super determined and he hired people
+that were as smart or smarter than him
+to help him execute it and he built an
+almost unstoppable machine of intellect
+to go forth and make
+let's say very simple products. MS DOS
+is not a complicated product by any
+stretch but it's exactly what the market
+needed at that time.
+&gt;&gt; Yeah. I mean, Emma's DOSs changed the
+game and uh that's actually the team you
+joined, the MS DOS team and I think you
+joined before Windows 95 was released.
+&gt;&gt; Uh so tell me about the story of MS
+DOSs. It's uh success of MS DOSS was
+probably pivotal to the success of
+Microsoft.
+&gt;&gt; Yeah. Before DOSS, they were largely a
+language company. So they had made basic
+for a lot of computers and they had a 4R
+compiler and a Pascal compiler, that
+kind of thing. But their deal to have MS
+DOS included with every version or every
+instance of the PC effectively set them
+as a standard that they were able to
+leverage for decades going forward and
+to a certain extent they locked into
+that and on the other hand they were
+smart to have done it. So because they
+didn't charge IBM a lot of money for it
+but making it a standard
+really played out to their advantage
+over time.
+&gt;&gt; Uh so at that time MS DOS no graphical
+interface. Can you just speak to what
+the heck MS DOS is?
+&gt;&gt; It's largely a command launcher. So you
+type in a name of a command, it looks up
+to see if that's in the current
+directory or on a special path of
+folders and it loads it into memory and
+executes it if it's there. And that's
+90% of what MS DOS does. Now it has
+environment variables and some
+complexity and a small scripting
+language built in, but it is basically
+just an operating system shell that
+allows you to uh use the resources of
+the computer like the hard drive or the
+CPU. And it doesn't allow you to
+multitask. There's no graphical
+interface. Now, Microsoft did add a
+textbased graphical interface for things
+like an editor and quick basic in DOS 5,
+I believe, and it was a DOS shell, which
+was sort of a graphical file manager in
+MS DOS 4. So, they experimented with it,
+but it's largely a command prompt.
+&gt;&gt; Did does it have ability to communicate
+with uh external devices, so drivers and
+all that kind of stuff? Like how
+expansive of an operating system was MS
+DOS? Well, it was limited by the
+original x86 instruction set which
+limited it to 640k and then there were
+various band-aids on top of that to do
+high mem and then extended memory beyond
+that and uh a lot of hoops have to be
+jumped through to make anything work
+without consuming base RAM.
+&gt;&gt; Yeah. I mean you so you programmed on MS
+DOS. What what's it like? What are some
+interesting details there? Like you said
+there's the memory constraints of 640 uh
+kilobytes.
+&gt;&gt; Yeah. Now 640k is the maximum that's
+ever going to be available. So it's not
+what's available to you as an operating
+system developer because whatever you
+use is what the user won't get. So if
+you use 10K needlessly, you're going to
+every machine in the world now has 10K
+less. So it's kind of a big
+responsibility.
+&gt;&gt; Is that a true quote from Bill Gates
+where he said
+&gt;&gt; nobody will ever need more than 640K.
+Yeah, I know it's not him.
+&gt;&gt; Okay.
+&gt;&gt; It's been attributed to him but not
+real.
+&gt;&gt; Uh okay. Okay. So, I mean, what are some
+interesting aspects of you that you were
+able to do as an intern and when you
+joined on MS DOS and beyond?
+&gt;&gt; One of the first things I did was to
+take Smart Drive, the disc cache, cuz I
+had familiarity with disc caches and to
+add CDROM caching to it cuz I was new.
+CDROMs were just just coming out.
+Microsoft Bookshelf is one of the few
+products you could run for it. And as
+you can imagine, caching a CD speeds it
+up by dozens of times if you're smart
+about it. So, it it was a big
+performance win and a nice thing to work
+on. Um, a bigger part of that was moving
+a bunch of smart drive and eventually
+the double space compression engine up
+into what's known as high memory.
+&gt;&gt; And without rat holeing on the technical
+aspect of it on the x86, there's
+something I believe called the A20 line.
+And I probably have this backwards or I
+got a 50-50 shot at it, but if you've
+got the A20 line asserted, then your
+memory pointers wrap at the 1 megabyte
+mark.
+&gt;&gt; Mhm.
+&gt;&gt; And if not, they don't. So you continue
+going up in memory. So you can rewrite
+memory above by combining your segment
+and offset registers to a number bigger
+than 1 megabyte and you get an extra 64k
+and you put your code in there and then
+you just put stubs to jump to it from
+low memory and so you can get another
+64k out of the machine that way. And we
+did that for a couple of the products
+and that's I had no idea what highm was
+cuz I was an Omega programmer and I had
+never written any x86 code before I got
+there. So
+&gt;&gt; So that was like a cool optimization
+that you got to be a part of.
+&gt;&gt; Yeah.
+&gt;&gt; So what about Windows? There was a
+parallel development of Windows 95 right
+at that time. Did you get did you get a
+chance to interact with those folks?
+&gt;&gt; I actually worked on Windows 95 for
+about three or four months. I was on the
+comm team doing the presentation cache
+which is when you insert a say a word or
+an Excel spreadsheet or chart into a
+word document. You don't want Excel to
+have to be loaded to render it every
+time. So there's a presentation cache of
+enhanced metaphiles. And I was working
+on that. So that shipped in Windows 95,
+but I moved to the shell team about 6
+months after getting to Microsoft. And
+so I worked on NT from there forward.
+&gt;&gt; Okay. And what's 95? What's NT?
+&gt;&gt; Uh Windows 95 is an evolution of the
+original 16-bit Windows 3.1, which was
+the very first popular version of
+Windows. And it adds 32-bit support and
+VXD drivers and a bunch of new
+technology and an entirely new user
+interface. And it's something that at
+the time was revolutionary. People lined
+up at night to uh wait in line to buy
+the thing. Can you just take us back to
+that time and describe why 95 was such a
+big leap from 3.1? So, Apple already had
+a graphical interface. Uh, Windows 3.1
+had a graphical interface. Why was
+Windows 95 such a gigantic leap?
+&gt;&gt; I don't want to make it as basic as the
+start menu, but I think it's a big part
+of it. I know when I first saw it,
+&gt;&gt; I couldn't quantify what about it was
+different and awesome, but I realized
+that I wanted to be a part of it. And
+that's why I started writing a shell
+extension which became uh zip folders at
+some point. But
+&gt;&gt; I was just fascinated by the new shell
+and that's why I end up working on the
+team that brought that shell over to the
+NT and what's Windows today.
+&gt;&gt; Would you say that's the greatest
+operating system ever? What's the most
+impactful operating system ever?
+&gt;&gt; Windows 95 would be number two for me. I
+think OS 360 is going to be number one.
+&gt;&gt; Okay, interesting.
+&gt;&gt; Did you take a machine and write a
+Cobalt program for it in 1962? jump in
+your time machine, go to Pikipsy and
+boot up an IBM Z17 mainframe and run it
+today. And they've been doing it for
+however many years that is. And it's all
+in the business side. So we as consumers
+don't have much access to it, but I
+think it was probably as influential in
+the commercial side as Windows 95 was in
+the home side. And then probably Linux
+would be number three for me. I put
+Linux as bigger than Unix, which doesn't
+work because you can't have one without
+the other. But the impact of Unix BSD
+and so forth is largely in the academic
+space. It's by programmers for
+programmers. So yeah, Linux created
+I mean it was the embodiment of the
+open-source spirit
+at its largest scale. All right. So it
+almost created a community and it it it
+created a spirit of programming that uh
+propagates to this day. That's true.
+That's true. Like scale matters. Yeah.
+And it penetration on the server side of
+things now is I don't know if it's
+equivalent to what system 360 achieved
+but it's almost ubiquitous. So
+&gt;&gt; yeah the world I this is the quiet
+secret of the universe as it runs on
+Linux.
+Okay. So uh tell tell me about the days
+uh your work days. What were they like
+back then back uh back in the MS DOS
+Windows 95 days? Take me through a
+productive day. Well, your day starts
+coming in and you got to download the
+address book, which is Microsoft has
+between 10 and 15,000 employees at this
+point and we're all on MS Mail. We're
+just getting off of the PDP11 called
+Miss Piggy, which ran Whizmail. And uh
+we're running MS Mail, but MS Mail has a
+fixed address book that every user must
+download every morning. And when there's
+10,000 people downloading 10,000 people,
+it gets pretty messy. And I think we're
+on 10 megabit networking at the time. So
+your first hour is downloading the
+address book which was always
+frustrating but you'd use that time to
+look at the crashes that would have
+happened overnight from a process we
+called stress which is N&amp;T all the
+machines that are unused run tests all
+night long and they try to crash
+themselves and if they manage to crash
+themselves it will drop into a debugger
+with a serial cable to another machine
+and you can connect to that other
+machine and remotely debug the crashed
+machine. So you come in and they will
+have triaged bugs. You know there was a
+crash in the start menu so we'll assign
+that to Dave. And so you come in and
+that's your first thing is to connect
+because you got to get that machine back
+to the guy that owns it and unlock the
+machine. So that's your first hour of
+your day is basically triage for bugs
+that have come up from stress overnight.
+And then at that point it's probably
+back to coding which unfortunately 80%
+of the time is fixing bugs. Especially
+in my career it was porting code and
+fixing bugs. I wasn't writing a lot of
+new code. There were exceptions. cuz I
+wrote a lot of new code on the side to
+get it out of my system
+&gt;&gt; from a day dayto-day grind of always
+fixing bugs in other people's code which
+is amazing learning experience.
+&gt;&gt; So you did a lot of the at Microsoft you
+did a lot of the porting of uh what is
+it Windows 95 code to NT.
+&gt;&gt; Yeah we took the entire Windows 95 user
+interface and we ported it to NT which
+mean meant making it unicode for one
+thing. So everything that was 8 bits is
+now 16 bits. pointers. It's It's quite a
+mess when you switch the code over as
+you can imagine.
+&gt;&gt; Can you give us insights in what is
+involved in porting?
+&gt;&gt; It's like breaking into somebody's house
+and going through all their stuff and
+seeing the stuff in their drawers that
+they didn't want you to see.
+&gt;&gt; Yeah.
+&gt;&gt; You find all the good stuff, the pretty
+pictures hanging on the wall, and you
+find some disturbing stuff in the
+nightstand. Uh I saw code that was like
+200 some characters wide with you know
+profanity and swears in it and it
+eventually got all cleaned up over the
+years by the time I left but it was not
+always the most professional code in the
+world
+&gt;&gt; right cuz every single piece of code you
+have to go through
+&gt;&gt; line by line so you see it all.
+&gt;&gt; Yeah. Yeah. I mean that's the that's the
+story of programmers. You think you
+write a piece of code and you think
+it'll never it'll never be seen by
+anybody. And sometimes often times that
+code is going to be seen by a very large
+number of people
+&gt;&gt; that come after you including you 5
+years later
+you yourself looking at your own code.
+Okay. So uh tell me about Windows NT
+that was a giant league too.
+&gt;&gt; It was it was basically a clean sheet
+design. So they went and they got Dave
+Cutler from Digital Equipment who had
+done operating systems for them. VMS and
+RSX11 he had done. And so he came over
+after I believe it was Prism and Micah
+were some projects at Deck West that got
+cancelled and so you had a whole team of
+guys with their project is canceled and
+basically they took a whole bunch of
+them and came to Microsoft and I don't
+know the specific deal but they all
+showed up. So you had Dave Cutler and
+Mark Lakowski and all these really smart
+guys from Deck and they did basically a
+clean sheet but they also had OS2 as a
+starting point but OS2 is of course
+written in assembly language and NT is
+going to be written in C. So to what
+extent they were able to leverage any of
+that I don't actually know but at least
+they had a system to start with.
+&gt;&gt; You said that Dave Coulter is the man
+the mind behind Windows. Can you uh can
+you explain?
+&gt;&gt; So Dave Culler is the architect of the
+kernel. So he is Lionus in the Linux
+world. It's Dave C in the Windows world.
+&gt;&gt; Dave C. Okay. And uh it's not that there
+weren't other people that contributed,
+of course, huge pieces to it, but uh I
+think he's the driving force behind it
+and always largely has been. And he's
+still I think he's 85 now. He still
+codes every day. He's a Microsoft
+fellow. He's far as I know still goes
+into work. So,
+&gt;&gt; uh can you speak to the genius of that
+guy? Like what's what's interesting
+about his mind having having worked with
+him, having interacted with Dave Culler?
+&gt;&gt; Well, the dude's wicked smart, but he's
+also like a farmer. He's like the guy
+that will follow you around and make
+sure that stuff gets done and gets done
+right to make sure that you're not
+checking any crap into his operating
+system and he won't tolerate it. And
+he's a real taskmaster in that regard.
+But I think it really paid off because
+it was a very big paradigm shift for
+Microsoft developers to be subjected to
+the
+&gt;&gt; Dave Cutler digital equipment style of
+leadership.
+uh what did you learn from that about um
+successful software teams where there's
+large number of people collaborating cuz
+Microsoft had a lot of brilliant
+engineers back then and like you said D
+cutler they had to uh they had to create
+completely new systems many of which we
+still use today what have you learned
+about great software engineering teams
+from that time
+&gt;&gt; tools are everything I think for one I
+mean people are everything we'll give
+that as a granted but the tool set is a
+huge factor. If we would have had git it
+would have been immensely easier. We
+were using diff and you know manual
+deltas to do the porting and stuff. So
+being able to fork a branch of source
+code would be a luxury that is new to
+me. So
+&gt;&gt; at the time it would have been really
+handy.
+&gt;&gt; What were some memorable conversations
+from that time when you walked over next
+door?
+&gt;&gt; Uh well one I was not present for was
+somebody was complaining. A new hire
+came into the team and was working on
+what I believe was called Cairo. And
+Cairo was going to be the next future
+operating system was going to be
+beautiful and have a whole new user
+interface newer than Windows 95. And it
+never materialized. But while they were
+working on it, one of the guys was
+working on Cairo was kind of flaming on
+the open anti-dev alias, which is
+thousands of people, how shitty the anti
+boot experience was. And the response
+that came back was an epic flame that I
+wish I would have saved. And I won't
+name the guy who wrote it. He knows who
+he is. But uh
+it was a work of art of angry flame
+mail. Kind of like the ones you see line
+of send every now and then about colonel
+stuff. So it's a very similar sentiment.
+&gt;&gt; Were there like kind of intellectual
+debates like there's some some heated
+stuff engineers?
+&gt;&gt; Yeah, it got contentious. So you've got
+intellects competing and eventually the
+technical merits for some people are
+secondary and it's about besting the
+other person in that argument and it's
+no longer productive at that point half
+the time. But there was a fair bit of
+that.
+&gt;&gt; Yeah, I've I've seen those kind of
+debates in uh like programming language
+design communities like Guido Van
+Rossom, the leaders of those
+communities, it can wear them down cuz
+people get you almost like forget the
+mission you're on and start being very
+nitpicky about the details. I mean,
+engineering minds get together and you
+just go to war over the stupidest like
+syntax subtlety,
+&gt;&gt; right? was I shouldn't say stupid but
+it's a small syntax subtlety for that's
+for programming language and I'm sure
+there's internal battles about specific
+kernel components.
+&gt;&gt; Yeah, I mean there was one that I lost
+that still bugs me to this day I think
+and uh
+&gt;&gt; I still think I was well when we were
+doing the shell we were porting
+everything from ancient unic code. So
+every character that was 8 bits now
+becomes 16 bits. Now, the problem is I'm
+on a MYIPS box because I'm porting it to
+risk and you can't have unaligned
+addresses. But if you take two ID lists,
+which are basically path components, you
+take the one for C colon backslash, take
+the one for Windows, take the one for
+system 32, and you add them together.
+But if you've got an odd number of
+characters, now you're at an odd address
+in this thing. And it takes me an
+immense amount of work to turn on
+exception handlers, to do unaligned bite
+access, to pull the string out and copy
+it manually. It's just a it's literally
+like a hundred to a thousand times the
+amount of work to read a string out of
+this ID list on a MIP's machine because
+it's unaligned. So I'm having the
+argument that even though it's late in
+the Windows 95, they've already shipped
+one beta that we should now just
+guarantee that ID lists are always an
+even number of bytes or do some hack to
+just make sure this never happens. So
+the code that references them on other
+hardware can just blaze through it. And
+it became a shouting match and sort of a
+personal match. And I lost that one. And
+I still think that I know today that
+that code running on Windows is
+thousands of times slower than it has to
+be and it nobody cares because it's
+plenty fast but it could be a lot
+faster.
+&gt;&gt; Yeah. So uh yeah I mean you mentioned
+MIPS and risk how deeply did you have to
+understand the lowest level sort of the
+lowest level of the software and even
+the hardware with the stuff you were
+building like what are the layers of the
+abstractions you had to understand to be
+successful with all the stuff you're
+doing with NT and before that with MSTOS
+&gt;&gt; well about half your day is going to be
+spent debugging and h and most of that
+time is going to be spent in call stacks
+that are in pure assembly language cuz
+there's No source level debugging.
+&gt;&gt; Mhm.
+&gt;&gt; So it's not like we're in Visual Studio
+and you hit a break point and it pops up
+and there's the source code. You can go
+look at the source code, but you're
+looking at the raw assembly dump from
+the machine at all times.
+&gt;&gt; Even if you're programming in C, the
+debugging is in assembly.
+&gt;&gt; Yeah, 100%.
+&gt;&gt; Oh man.
+&gt;&gt; So it's a little cumbersome.
+&gt;&gt; Better yet, we're doing four instruction
+sets because we're doing Intel, uh,
+MIPS, Alpha, and Power PC. So depending
+on which machine it crashes on, you've
+got an entirely different instruction
+set that registers.
+So you get reasonably adapted debugging
+all four, but uh I had more experience
+in my so myip stuff would come my way.
+&gt;&gt; That's a real endurance event. I mean
+can you speak to that the the torture
+there's debugging especially that kind
+of debugging without the without the
+tooling associated with it? I mean
+that's you know programming
+kids these days
+uh programming isn't all about creating
+beautiful things right it's uh also
+about
+fixing things
+&gt;&gt; yeah I would say that 20% of my
+professional life has been creating and
+80% has been debugging and fixing
+&gt;&gt; and I mean I got a bit of reputation as
+somebody who could fix stuff and so
+stuff like that would flow to me and so
+I would spend more time doing that I
+wasn't renowned as a creative UI genius
+where I'm flowering ing all these new
+ideas. So, I got to fix ugly stuff. But
+you get really good at that. So, I don't
+mind it until it's one of those things
+where you've been chasing it for so long
+that you don't know what to do next and
+you can't understand why it doesn't work
+or how it ever worked or whatever
+situation you happen to be in. And uh
+you know, after a day of it, it can get
+pretty trying.
+&gt;&gt; Yeah, debugging can be real torture.
+This could be really really difficult.
+There's a psychological component I
+think of perseverance. I think the ones
+that, you know, take you a day, they
+resolve one of two ways. Either it's
+like, oh, extra semicolon, and then you
+finally see it, or it's some horrible
+manifestation of crossthreaded
+department nonsense that was really
+hard. But it can go both ways.
+&gt;&gt; Um, I had a bug, it wasn't my bug
+actually, but it was a manifestation of
+a bug in task manager where every now
+and then it would say greater than 100%
+total CPU usage. And this looks pretty
+silly for a task manager. So, I had
+tried to resolve it for a long time. And
+I'd talk to the colonel guys about my
+issue and they were unsympathetic, let's
+say, because the kernel guys are a
+special breed and they weren't
+interested in my userland problems. It's
+probably some issue in my code, right?
+And they're probably right, but it
+wasn't in this case and I was sure of
+it. And so I kept adding asserts all
+through the code to make sure that the
+that the preparatory steps of adding the
+stuff together were never more than 100
+and that the final sum was never more
+than 100. And finally, it never
+asserted.
+But occasionally we would get this bug
+where people would still see it. And so
+I finally put my phone number in the
+assert. And I was like, if you see this
+message, call Davepl at 425836, my phone
+number. Um, and finally, we did get a
+catch in the actual stress debugger that
+I was talking about earlier where it
+happened to somebody with a debugger
+connected. We were able to go through
+and it was actually a kernel accounting
+issue and it wasn't a task manager
+issue. So they just fixed it in the
+kernel once I was able to prove that it
+was in fact the kernel issue. And uh
+you'd think we would then remove my
+phone number, but we just commented it
+out. So it's shipped and it's in all the
+damn source code leaks for NT that are
+out there. So that's how I find Task
+Manager code is I search for my phone
+number on Google and it will reverse
+find the empty source code.
+&gt;&gt; Can you speak to the search thing? By
+the way, I saw I think you tweeted or
+you said somewhere that if you want to
+take your search really seriously, you
+add your your home phone number in
+there. It's true. It's true.
+&gt;&gt; A little facicious because it's probably
+not the smartest thing, but you will
+find out. But I mean, assert by itself
+is already a serious thing because it
+stops at all execution. I mean, this is
+one of the reasons I really really love
+asserts cuz they they stop everything
+and force you to take care of the
+problem. Yeah, I'm a little religious
+about my asserts, too. I don't assert
+things that I hope aren't true. I assert
+things that I know cannot be true. And I
+think that's really the intent of an
+assertion, so I'm overstating the
+obvious. But when it does occur, it's a
+bug, plain and simple. It's not a
+warning. It's kind of fascinating how
+often it can really help you figure out
+the problem because if you put asserts
+everywhere, you can get very quickly to
+the source of the problem.
+&gt;&gt; Yeah, I tend to it's not something I
+want to suggest you go back and add
+later. It's something you should do
+organically as you build your code. So
+for each function, if you've got
+assumptions like I know that this
+pointer is never null, well assert that.
+If you know this count is always less
+than twice the bite width, assert that.
+And don't be afraid because if it
+asserts it's doing you a favor. I think
+some people are afraid. You know, it's
+like when you turn out of an
+intersection and you think maybe there's
+somebody coming and you don't look left.
+&gt;&gt; Yeah.
+&gt;&gt; Or maybe I don't want to do that. But um
+it's like that people don't assert
+because they're afraid they're going to
+fire. Well, no, you want to know.
+&gt;&gt; You mentioned task manager. Obviously,
+we have to talk about this the legendary
+program that you created, the Windows
+task manager. Tell me every detail of
+how you built it. What is Windows Task
+Manager? So what is task manager is a
+way to go in and find out which apps on
+your system are using the computer,
+using the hardware, using the CPU, using
+the memory, and which ones might be
+using too much or locked up or going
+crazy. And it gives you the ability to
+terminate and kill those ones. So it's
+an inspection and a fixing tool.
+&gt;&gt; Yeah. It lists all the processes. I
+mean, it's a legendary piece of
+software. It's crazy. I mean, you just
+take it for granted. It's like the start
+menu, right? Yeah.
+&gt;&gt; It's like genius. Well, I had the great
+fortune of working on a lot of things
+that people are familiar with and task
+manager was one of those side projects
+that I started as something that I
+wanted for myself and eventually came in
+house. So I started writing it at home
+and I got kind of the basics up and
+running and I was using I think it's HQ
+current perform or HQ performance in the
+registry to get the stats because I
+didn't have access to the internal APIs
+because I was working from home and I
+don't call those if I'm working from
+home
+&gt;&gt; and uh when I brought it in house then I
+was able to call things like antiquery
+system information or antiquery process
+information and get the real answers
+very quickly which enabled it to become
+a very fast and responsive app. So
+people have come to rely on it because I
+wrote it to be as reliable as possible.
+I wasn't worried about the features.
+There was a basic set of functionality
+that I wanted in there and I got
+everything I wanted, but I wanted it to
+be really robust and so that and small
+and the original was like 87K.
+&gt;&gt; Okay. Can you speak to what it takes to
+build a piece of software like that that
+doesn't freeze?
+&gt;&gt; Uh, you don't assume much, right? If
+you're going to call the shell to run an
+app, well, that could be a network path
+that's on a TCP IP share that takes 90
+seconds to time out. So anytime you do
+any kind of AP API call like that that
+could take time you're gonna wind up
+doing it on a separate thread and so the
+app becomes a little bit more complex
+because everything is multi-threaded.
+&gt;&gt; Okay. So what programming language were
+you working in?
+&gt;&gt; C.
+&gt;&gt; So this was for Windows NT.
+&gt;&gt; Yes.
+&gt;&gt; Okay.
+&gt;&gt; So this shipped initially in NT4.
+&gt;&gt; Okay. So what are some interesting
+details about this program because you
+have to get as simple as possible
+but also as robust as possible.
+Now, what are some interesting
+optimizations for example, you had to
+implement?
+&gt;&gt; There's a couple things I a little
+hardcore now. I'm surprised I did. Like
+I didn't want to link to the C runtimes
+at all. So, I made sure never to call a
+runtime call and I didn't link to them
+and that saved me whatever the C runtime
+is 96K or something. So, you know, it
+almost double the size of the app if you
+just touched any C call. So, I was
+careful not to do that. But then I was
+actually writing in C++ which is C with
+objects more than anything. But uh in
+order to get it to work, I had to go
+through and call all the object
+constructors manually from the dispatch
+table and stuff because you don't have
+the run times to do it for you. So
+you're working with a compiler that
+doesn't have its runtime. And I don't
+want to rat hole on the technical
+issues, but it's a lot of extra work to
+get it to work, but when you do, it's
+incredibly small and tight.
+&gt;&gt; That's about the size of the program. Um
+what are some interesting aspects of
+tracking down like every every process
+and how much CPU usage
+&gt;&gt; in that process? cooler things that I
+saw is I don't want to say I invented
+Hamming code, but I kind of invented
+Hamming code without knowing Hamming
+code existed. So every column and every
+row in task manager has a bit on whether
+it's become dirty or not. And then I can
+look basically the same way Hamming code
+looks on your X and Y columns to find
+out which rows have changed. Go through
+and find out which ones actually need to
+be repainted. So task manager is super
+efficient and it works in concert with
+the list view control which provides
+that functionality to go through and
+repaint as little as an individual cell
+that changes from frame to frame. So it
+can paint very fast. It can resize very
+smoothly and resizing was probably my
+biggest
+uh personal goal with that app. So you
+can size it to any size and it still
+works. And even if you have 32 CPUs,
+which wasn't possible in the day, it
+will draw, I think, only eight graphs
+and then it wraps. But, uh, it still
+works today. So, kind of proud of that.
+&gt;&gt; It's just incredible. Um, you've gotten
+a chance to sort of observe the
+evolution of Task Manager. In some ways,
+it really hasn't changed much. Maybe
+there's some prettier aspects to it that
+fit into the whatever version of Windows
+it's in, but it's really basically the
+same thing. the functionality is very
+same. Um the reporting is more because
+they've added GPU and thermals and
+things like that which is really nice to
+have and we didn't have that ability in
+the day. So
+&gt;&gt; I mean what can you say? Do you know
+about like was there any refactoring
+done or is it basically the same code?
+&gt;&gt; Uh as far as I know the original code's
+still mostly all there. So there are
+layers of drawing code and dark mode
+code and whatever else XML schema code
+that goes on top of that that makes it 4
+megabytes instead of 87K. But that's the
+world we live in.
+Yeah, it's one of those pieces of
+software you create and it just stay
+once it's there. This is really like the
+start menu and then I'm sure if you
+remove it, people will just lose their
+mind.
+&gt;&gt; Yeah, it might be locked in for a while
+on that one. It might be good.
+&gt;&gt; Yeah, I thought that would be true for
+Clippy, but
+uh Clippy will make it back one day. All
+right. What What are some um other
+pieces of software you created at the
+time that are legendary? So, you were
+part of Space Cadet Pinball, at least
+porting.
+&gt;&gt; Yeah. So, they came into my office and
+said, "Hey, what are you doing?" And I
+said, I told them what to do. And they
+said, "Well, how do you want to spend
+your next 3 months?" I said, "I have no
+idea." And he said, "Do you want to port
+pinball?" And I had I'd seen Space at
+Pinball as a game standalone for the Win
+95 platform. And it had a couple
+different tables. And it was a cool
+game. So, I was kind of excited. And
+what they wanted was some visual splash
+for NT to show that NT can do for then
+high-speed graphics and or at least
+responsive graphics. And so I took a
+shot and unfortunately a lot of the code
+was in assembly and I was on the so I
+had to rewrite the code in C so I could
+then port it to all the different
+platforms and at the heart of the game
+is a huge state engine and it's like a
+giant switch statement with if I
+remember like 50 entries in it.
+&gt;&gt; Yeah.
+&gt;&gt; And it's got an Easter egg built in and
+decoding the state. It's like running a
+neural network through this thing as you
+hit it with different states. and I just
+put it aside and treated it as a black
+box. And so my code runs on top of that
+and does the drawing and the sound and
+everything else, but the original game
+is still running. And somebody recently
+asked me, uh, why is it slightly
+different? The physics are slightly
+different from the Windows 95 version,
+but it should be the same code because
+I'm trying very hard to preserve that.
+But what it is is I had a bug where I
+will draw as many frames per second as I
+can, which on a modern computer could be
+5,000 frames a second for pinball
+because it's a pretty basic game. And so
+all your physics are interpolated 5,000
+times per second instead of 30 times a
+second or whatever you would have got in
+the old one. So you're getting arguably
+better, at least different physics.
+But they fixed that since. So
+&gt;&gt; why is that game so awesome?
+&gt;&gt; I think it's a great design. I mean, I
+take no credit for that. That's all
+totally guys cinematronics. But the
+original game is a great design. It's
+very similar to Black Knight 2000, which
+I own as an actual physical pinball
+machine. And the layout is actually very
+similar. I don't know if it was inspired
+by it or not. So, it's a good game.
+&gt;&gt; Yeah. Sometimes I think about like
+Tetris, about certain games are pretty
+primitive graphics
+that captivate the uh the excitement of
+a large number of people.
+And maybe it's the excitement of a large
+number of people that contributes to the
+awesomeness of the game. So when when
+many people together get excited and
+talk about it, that sort of gets
+implanted into your head. But that's one
+of the great games. I mean, even even
+like Solitary Mind Sweeper, I mean,
+there's just a generation of people that
+have gone to war in Mind Sweeper, right?
+&gt;&gt; Well, those things were included in the
+OS not as games, but as educational
+tools to get you to use a mouse.
+&gt;&gt; Oh, interesting.
+&gt;&gt; So, Solitaire is there to show you how
+to do drag and drop.
+&gt;&gt; Yeah.
+&gt;&gt; And Mind Sweeper is probably right
+click. I think you put a right a flag or
+something. Not a mind sweeper guy, but
+so each one of them teaches you
+something.
+&gt;&gt; Mind sweeper guy.
+&gt;&gt; That's funny.
+&gt;&gt; Yeah. Wow. I didn't know that. That's
+interesting. And that's true. But I
+don't know how many hours I've spent on
+these games and like millions of people
+have spent millions of hours on these
+games.
+&gt;&gt; I used to volunteer teaching computer
+science in my kids' school, you know,
+for the third graders and stuff. So,
+it's more like logging in than computer
+science. But, uh, the kids, of course,
+all their dads work at Microsoft, so
+nobody's impressed by anything you do.
+But some one of the kids found out I
+worked on pinball and then they were
+like, "Whoa, you worked on pinball."
+They all knew that in those days. Now
+the kids are probably aged out. They
+don't know it anymore. But for a brief
+period,
+uh, you're behind the Windows
+activation.
+&gt;&gt; You're saying like it's a bad thing.
+Um, everything's a matter of
+perspective. So tell the story of that.
+What's Windows activation? What uh how
+did you get involved?
+&gt;&gt; So they came to me late in the XP ship
+process. I I don't know if the beta had
+gone out. I don't think the beta had
+gone out yet, but they had intended to
+take the Office activation code and then
+adapt it to Windows and add activation
+to Windows, but whoever was responsible
+for doing it had slipped it enough times
+that it wasn't going to happen. And so I
+had kind of reputation for being able to
+fix things quickly. So they came to me
+and said, "Can you get this done in time
+for XP?" I don't know, but I'll try. So,
+with the help of the guys that were
+doing the DRM stuff on the DRM side and
+the research guys doing the math for the
+product keys and everything else, we
+cranked it out in time for XP. And I
+don't know what it actual impact is for
+revenue, but I imagine it's substantial
+when you start enforcing license keys.
+&gt;&gt; I wonder what it is.
+&gt;&gt; I don't know
+&gt;&gt; cuz it's also annoying.
+&gt;&gt; It is, especially if you have to phone
+activate. And that was just the case
+that we had to carry with us as an
+albatross around our neck where you've
+got to pass data up to the clearing
+house, the backend systems that are
+going to approve your key. You've got to
+tell it all your hardware parameters
+like how much memory and hard drive
+space and the various things the
+hardware key is bound to as well as the
+product key. And you've got to encode it
+in letters and numbers that somebody's
+willing to read in over a phone. And if
+you think doing product activation is
+painful over the phone, could you
+imagine being the person that worked on
+the other end of that line? I mean,
+that's just got to be a mind-numbing job
+to listen to product keys for eight
+hours a day.
+&gt;&gt; Yeah. One of the challenges with
+Windows, and it's been a frustration
+point for me, but I I understand from a
+design perspective, it's very difficult,
+is so many different kinds of people use
+Windows. But um it's been frustrating
+how over time Windows has more and more
+leaned into the direction of like
+the not not the power user I should say
+which is why sort of Linux has always
+been really wonderful but from an
+activation perspective or from any kind
+of configuration it's been it's been of
+it's been a source of a lot of
+frustration.
+&gt;&gt; Yeah. One of my more popular episodes of
+late has been why you can't move the
+Windows taskbar.
+I had no idea. But the outrage is
+palpable amongst people that you put on
+the left or top and you can't anymore
+and it is an affront to their existence
+and I understand it to a certain extent.
+&gt;&gt; That's one of the main reasons I really
+just dislike. There's a lot of aspects
+about Windows 11 I dislike. One of which
+is like you can't customize things as
+much about the position of the taskbar.
+Just basic customization. Can we just
+configure stuff? because there's going
+to be a small contingent of power users
+that are just gonna enjoy the hell out
+of this operating system if you just
+give them that option. It costs you
+nothing. Just give them that freedom.
+&gt;&gt; Well, it does cost, right? Because the
+freedom to put the start menu on the
+left or the top or the right really
+increases the complexity of the code
+that renders the start menu and lays out
+the tabs and does all the things. And
+now it's a much larger surface for bugs
+and it's a much larger piece of code to
+maintain. So you probably need more
+developers or another developer or some
+portion of a developer's time. So the
+question becomes at what point is it
+still worth it to satisfy the niche
+needs of a small set of users?
+And I I that those decisions weren't
+mine to make but I could see it from
+both sides. I think just like the people
+who make movies
+and insert very nuanced details that
+only a small number of people will
+realize are there that's going to really
+pay off. There's a kind of reputation
+that builds over time that has a very
+powerful ripple effect that I think it
+has it it has so many benefits
+including for hiring great software
+engineers. It's like you create this
+aura of a place
+uh that puts love into every detail
+that puts that really takes care of the
+power users that takes care of the
+developers. I think Microsoft is more
+and more moved in that direction with
+GitHub and acquiring GitHub and just
+taking care of the developers. But on
+the Windows interface side,
+come on. some customization with, you
+know, with VS Code, you can customize
+everything. Why Why can't we customize
+the start menu? All right. Anyway, uh,
+and the taskbar
+um, and really every aspect of the
+Windows interface. I don't I don't I
+maybe you're right. Maybe increases the
+complexity of the code. I suspect that's
+just not the case.
+&gt;&gt; I bet it was. I bet it was a scheduling
+decision when they rewrote the start
+menu. I think they rewrote it because
+it's different than the old taskbar.
+&gt;&gt; Mhm. and somebody was tasked with you
+got to deliver this set of functionality
+and if I cut out putting it on the left
+and the top and the right and two rows
+of tabs and all the other cool features
+I can deliver it four months sooner and
+I'm not saying that's the right decision
+but I'm guessing that might be the kind
+of thing that motivates it and they're
+on such a different release schedule now
+it used to be
+you won't see much craftsmanship unless
+somebody owns a component for a long
+time and it settles to a point that then
+you can work on and polish it right but
+if it's always turnurning and the UI is
+change in every release. It's never
+going to get that level of polish.
+Although I think the UI is pretty nice,
+but
+&gt;&gt; I Yeah, it is nice. But I think there I
+think it's I just don't think it's a
+scheduling thing. I think I think it's a
+craftsmanship thing. Just like you with
+a with a task manager. If there's a guy
+or a girl in there who take ownership of
+it who have like passion like for them
+it's a thing that they take pride in
+over a period of time. they can like by
+themselves in a short amount of time
+create something truly wonderful,
+&gt;&gt; right?
+&gt;&gt; And like I I I think if you have large
+software engineering teams with managers
+and scheduling of meetings and all this
+kind of stuff, yeah, okay, then then
+your argument applies. But if there if
+you allow the flourishing of individuals
+that create cool and like their own
+sort of the side project, which Google
+is very good at.
+&gt;&gt; They tried that, right? Google. Yeah.
+&gt;&gt; Yeah. like have fun with it, like do
+some crazy stuff and then we'll
+integrate it. We'll we'll try to
+integrate into the whole ecosystem. I
+don't know. Yeah. Cuz like to me
+there's it's such a great joy from an
+individual developer to create something
+like customization of the star menu of
+the taskbar because you know that
+millions of people are going to use it
+uh the the taskbar and then you know
+that thousands tens of thousands of
+developers might be using to customize
+even little subtle aspects of the
+taskbar. You know how much joy you
+create,
+you give to people to customize to have
+some kind of JSON thing where you
+customize something about the taskbar.
+&gt;&gt; Okay. But how do you respond to the
+Steve Jobs aspect of
+giving you customization implies that we
+couldn't figure out the right answer for
+you?
+Or maybe there is no right answer and
+all four answers are equally right. I
+have no idea. But
+&gt;&gt; right, uh I think I've always the I'm
+glad Apple exists. It's a beautiful
+thing and that ideal of design is
+wonderful but I always thought that the
+the Windows creates the contrast like
+the point of Windows is to be the
+operating system that works on all kinds
+of devices that just much is supposed to
+be much more open and they've moved
+towards that direction more and more
+with Windows subsystems for Linux. It's
+just this whole developer friendly
+ecosystem. it it the interface should be
+in the spirit of that I think right but
+but I do think that there could also be
+security vulnerabilities that created
+with that it's not just the complexity
+of the code because Windows is just
+under attack
+&gt;&gt; it's very difficult to keep it secure
+anyway taking that that tangent you also
+developed the zip file support for
+Windows uh creating visual zip like you
+mentioned zip folders that eventually
+evolved into zip folders tell the story
+of that
+&gt;&gt; so that was a piece of software that I I
+wrote at home again and uh what What
+happened was I was out with my wife and
+I think it was a Sunday afternoon. We're
+driving around. This is 1993 and we're
+living in our apartment and we're just
+seeing what the housing market is like
+out there and there's a guy, he's got
+this beautiful three-bedroom house and a
+Corvette convertible 93 red torch red
+parked in the driveway and house is for
+sale and it's like 300k I think and
+there's no chance I'm coming up with
+300k at that point or even the down
+payment on that. So, um, I took the
+flyer and I cut the picture of the house
+out and I taped it to my monitor. And
+that was my incentive to just write
+something at night cuz when I came home,
+I was doing two things. I was one
+expressing a creativity that I couldn't
+get out at work when I was just fixing
+bugs. And I was trying to make some
+extra money. And so, I wrote a shell
+extension before I actually went to the
+shell team. I started it. And that's
+what led to my interest in going to the
+shell team based on a MSDN samp or msj
+at the time msj sample that I saw on how
+to like bring up a folder. Well, once I
+had the very basic bring up a folder
+template, adding zip file support to it
+was just incremental all the way. And uh
+I released it as a shareware product. I
+think it was 1995 or 29.95 and I sold
+whatever a couple hundreds or thousands
+of copies. And one day I'm getting ready
+for work and I get a call and it's a
+lady and she says, "Are you Dave
+Plameumber?" I said, "Yeah." And she
+said, "Are you the guy that wrote
+Migelzip?" I said, "Yeah." And she said,
+"Well, this is Betsy from Microsoft, and
+we'd like you to come by and come in and
+talk about an acquisition of it." I
+said, "Okay, what building you in?" And
+she's like, "What do you mean?" I said,
+"Well, I'll come by." And she said,
+"Well, no, you got to talk to travel and
+you got to talk to legal and this all
+has to be set up." And I'm like, "I
+don't get it. We both work at the same
+place. Why can't I just stop by?" I
+don't know if I said that literally.
+&gt;&gt; Yeah.
+&gt;&gt; But it was a few minutes of back and
+forth where we both realized that she
+didn't know I worked there.
+&gt;&gt; Yeah. They had just cold called the
+author and then found out that it was
+me.
+&gt;&gt; Yeah.
+&gt;&gt; And uh
+&gt;&gt; funny.
+&gt;&gt; So they made me an offer on it. And it's
+the kind of thing where if I don't
+accept the offer, now my choices are I
+can keep selling my own version and quit
+Microsoft or I can stop selling my own
+version and work for Microsoft. Neither
+of those is great. I mean, I keep my job
+of course, but I'd like to still have
+this income stream. And the other option
+was accept their offer, which is what I
+did. So then I bought a used 93 red
+Corvette.
+And you got to continue building it
+internally.
+&gt;&gt; I did. So we took a lot of features out,
+right, to simplify because it had
+encryption and it had a number of
+features that were common in zip
+programs of the day, but probably
+weren't appropriate for Windows. And at
+the time, encryption was like a
+munition. So you couldn't just add
+encryption willy-nilly to various parts
+of the operating system. So we took out
+some things like that. Multi volume
+support, I think, was taken out just to
+simplify it. Well, can you speak to zip
+in general? Just the history of zip and
+you know compression that whole thing.
+&gt;&gt; It was really born out of the BBS era
+when people were dialing in on modems to
+download trialware and shareware and
+other things from BBS's
+online and to compress them. Executables
+compressed about half their size. Other
+stuff compresses much more. But a guy
+named Phil Cass came up with a command
+line program for MS DOS called PKzip
+which was able to do compression of
+programs and he has a rather tragic arc
+but it became ubiquitous in the entire
+PC industry and pretty much everybody
+was using it. So when Windows came out
+there was no way to open up a zip file
+but everybody had been creating them for
+a decade and so that really drove the
+desire to have the zip support right
+into Windows.
+&gt;&gt; Yeah. And that's another piece of
+software is just kind of with us to this
+day.
+&gt;&gt; Mhm. And it could be vastly improved,
+but you know, it was written in a single
+core days, so it doesn't do anything
+multi-threaded. And you've got a 96 core
+795. Well, it uses one of them to unzip
+your file.
+&gt;&gt; What other awesome things were you a
+part of at Microsoft? What other pieces
+of software?
+&gt;&gt; I worked on the initial prototypes of
+Windows Media Center. So, we did that in
+uh 96, I believe. And we didn't have at
+the time any sources. So we had like a
+CD of MPEG video files of Raging Rudolph
+and I think the original South Park
+video, the Christmas one,
+&gt;&gt; which is all wildly inappropriate in the
+workplace today. But uh it's all the
+content we had until we got actually we
+had them put a satellite dish on the
+roof, a DSS, whatever the 18-inch dish
+is because we couldn't get cable to the
+building. And so we built up this thing
+that would eventually look a lot like
+media center and it was distance viewing
+UI for windows. So you can sit with a
+remote control on a desktop and have you
+know the current start menu is not great
+at 20 ft away. So
+&gt;&gt; tell me the story of the infamous blue
+screen of death.
+&gt;&gt; What it is is when Windows has no other
+option when the colonel gets into a
+state where something illegal has
+happened. So let's say a device driver
+is trying to write to a piece of memory
+it doesn't own or is trying to free a
+memory piece of memory twice. Something
+that just cannot happen and the colonel
+has no other option. It will shut the
+machine down to save your work.
+&gt;&gt; Mhm. And well, not save it, prevent
+further damage. And it puts up a blue
+screen and it uh prints out the stack
+information. Depending how your settings
+are, sometimes just a sad face in the
+current Windows.
+&gt;&gt; Yeah. I wonder what the first version of
+Windows where the blue screen came to
+be.
+&gt;&gt; So, Windows 3 had a blue screen,
+&gt;&gt; but it's completely unrelated to the
+blue screen in Windows NT. And I talked
+to the guy that wrote the blue screen in
+Windows NT. His name is John Vert. And
+uh the reason he picked white on blue, I
+had thought I'd always heard this
+because in the labs you could walk
+through a lab where we have 50 PCs all
+running stress. Oh, that one's got a
+blue screen. It's crashed.
+&gt;&gt; It wasn't that simple. It was just the
+MIP's firmware that he was building it
+on was blue on white. And Visual
+Slickdit that he was using as an editor
+was also the same color scheme. And so
+you could code, boot, crash, and reboot
+all in the same color scheme. Why do you
+think so many problems with computers
+can be solved by turning it off and
+turning it on back again?
+&gt;&gt; I think there's two major things that
+happen with computers as you run them
+over time. One is memory gets used and
+not freed.
+&gt;&gt; Yeah.
+&gt;&gt; And so it accumulates on the heap or in
+the swap file or wherever and things get
+sluggish. And the other is code gets
+into a state that the developers didn't
+anticipate or didn't test very well.
+Mhm.
+&gt;&gt; And maybe that's a rare state, but now
+that Notepad or Word or Excel is in that
+state, your system is goofy. So if you
+just reboot the thing or shut it down or
+restart it, you're getting a fresh state
+and there's no memory leaks. So it
+covers a lot of sins basically. And uh
+the intricate ways that several pieces
+of software in a goofy state interact
+with each other creates sort of a meta
+goofy state that just kind of had just
+the entire system starts acting a little
+weird.
+&gt;&gt; Yeah. and it somehow fixes it. What's uh
+what's some of the best and the worst
+code you've seen during that time in
+Microsoft? What's some beautiful code
+and what's some ugly code that pops to
+memory?
+&gt;&gt; Terms of beautiful code, there's two
+that stand out for me. One is the kernel
+in general when you get down into the
+Windows kernel in the actual NT APIs and
+stuff is very well written and it's
+written to a standard that you don't see
+on the user side or at least is uncommon
+on the user side. On the user side,
+probably the coolest code I remember
+seeing was a guy named Bob Day wrote a
+named pipe implementation to eliminate
+the use of shared memory. So, Windows 95
+had a big shared segment amongst all the
+shell processes where it would store
+stuff was common to all the shells. We
+didn't want to do that. Shared memory is
+a bad idea on NT and an industrial
+level. So, he came up with a way to do
+it with name pipes and uh I remember
+doing the code review on it and it was
+very impressive to walk through the
+code. It was one of those things was
+like, "Oh, I don't think I could have
+done that if I was trying."
+&gt;&gt; Who's the greatest programmer you've
+ever encountered?
+&gt;&gt; You know what? I don't think there is
+anyone. I I've met a number of great
+programmers, but I'll tell you one story
+that impressed me a lot was when I was
+brand new at the company. I've been
+there like six weeks and I'm working on
+this Olay presentation cache that I
+mentioned earlier, and I'm on Windows 95
+and I've got Excel inserted into Word
+and I'm in the kernel debugger and
+something's going wrong in theuler. And
+I've been there, you know, I've barely
+written any x86 code and I'm looking at
+the Windowser trying to figure out why
+my thing is deadlocked.
+And eventually I get stuck. So I'm kind
+of out of my element. And I send an
+email to the Windows 95 kernel team and
+say, "Could you send somebody by?" And
+so about 10 minutes later, this
+developer strolls in and they're just
+holding a null modem cable, which is to
+connect my two machines together so they
+can debug one with the other in case I
+didn't have it, but it was already set
+up. And so they sit down and they're
+using wind debug, which is just a
+horrible debugger. It's just it's a
+cursed. But uh they're very very
+competent with it and they are just
+blasting through the call stacks and
+they're checking all these objects in
+the kernel and trying to find out who's
+waiting on what and why things are
+deadlocked and what things are signaled
+and what's not and it's just this quicks
+ballet of call stacks flying by and I'm
+watching this and I'm pretty blown away
+because I'm a good programmer but this
+person is an amazing debugger and I've
+never seen a performance like this and
+uh about five minutes in I just hear oh
+I
+and then they disconnected and got up
+and left. And that was Laura Butler who
+became a distinguished engineer at
+Microsoft. I think she may still be. I'm
+not sure if she's retired or not, but so
+she kind of set my template for, you
+know, what Microsoft developers were
+like when they were debugging and what
+kernel developers were like and even
+what female developers were like cuz I
+had such a small sample set. Um, but it
+was a very high standard. There's a few
+things I love in life more than people
+who are ultra competent at anything
+really. But the lower level the better
+in the engineering space. They're able
+to for example like run or maintain the
+infrastructure, the computer
+infrastructure. So not the individual
+computer but the computers communicating
+together and working together. Those
+people are just magicians,
+&gt;&gt; right?
+&gt;&gt; It's so inspiring to make. It's like
+watching a great carpenter or
+&gt;&gt; I love anything done really really well.
+&gt;&gt; Yeah. It's beautiful to see. It's
+beautiful to see that humans are able to
+accomplish that. Even in in civil
+engineering space when I look at like
+bridges, it's like the number of people
+that had to come together to build that
+and now millions of people use it every
+single day. With software sometimes you
+don't get to see visually just the
+number of people impacted by a thing.
+Imagine how many people are impacted by
+Linux and all the different open sources
+open- source systems that make up Linux.
+It's incredible. And Task Manager is an
+example of a piece of software just how
+many people use that over the years. How
+many times? It's crazy. It's probably
+billions. Billions of you.
+&gt;&gt; Yeah. Two billion a month or something.
+&gt;&gt; Two billion
+&gt;&gt; something like that. I've seen the
+metrics and it's up there.
+&gt;&gt; Crazy to you.
+&gt;&gt; It is. What I love about it though, and
+I'm sure you've had this experience
+where sometimes you design a piece of
+software and it's complex and you get it
+working in your head and you get the
+plumbing working and you know how it's
+going to run and flow and then
+eventually you write the code and the
+code does that thing that you had
+pictured in your head.
+&gt;&gt; Mhm.
+&gt;&gt; And now there are billions of copies of
+that thing that I had in my head running
+on millions of pe or billions of
+people's machines. And that in itself is
+really cool to me. It's not a vanity
+thing so much as a uh I'm impressed by
+it, I guess. Uh, how's your programming
+evolved over the years?
+&gt;&gt; I take a lot more care and complexity
+these days. So, it used to be you would
+write code and just keep writing code
+and writing code and then at some point
+I go back and clean it up. Well, I write
+the other way now. I try to write really
+clean initial skeletal code and then
+flesh it out because I have been
+involved in too many projects of my own
+and of other people's makings where
+things get so messed up that they're
+just not fixable.
+And so sometimes the work you put in up
+front pays off, you know.
+&gt;&gt; What programming languages have you used
+over the years? What's been your main
+go-to?
+&gt;&gt; For me, it's been C++ and assembly
+language.
+&gt;&gt; And still to this day, C++ is really
+what you lean on.
+&gt;&gt; Yeah, right now I'm 100% Lua and Python,
+but that's just side project I'm working
+on. So,
+&gt;&gt; can you speak to the Lua and the Python
+detour that you took? And uh what do you
+love about C++?
+&gt;&gt; What I'm doing is I wanted to build an
+AI to play the game Tempest. That's the
+old Atari Game Tempest. And uh this is a
+game that I actually hold the world
+record on. And uh
+&gt;&gt; you take me to this Atari Game Tempest.
+Okay. Atari Tempest. What kind of game
+is this?
+&gt;&gt; So it's a 3D vector game from 1980. And
+it's a very complex game. You got full
+360 degrees of motion. You have eight
+shots on the screen. There's like 11
+enemies. There's spikes. So it's a very
+complex game. It's not like trying to,
+you know, do Pong or something.
+&gt;&gt; Okay. And what I wound up doing was
+first taking the ROMs out of the machine
+and reverse engineering the code. So I
+got a sense of where all the code in
+Tempest lives and what it does, where
+the zero page variables are, where
+things live. Yeah, there's one.
+&gt;&gt; So what? Oh, wow. That's a very
+geometric.
+Okay. What uh can you explain to me the
+game?
+&gt;&gt; That's me playing the game right there.
+&gt;&gt; This is literally you playing.
+&gt;&gt; This is me. Dave is the high score.
+You'll see in the top center there.
+&gt;&gt; Can you explain to me what I'm looking
+at?
+&gt;&gt; Well, it's a 3D geometric world. It's
+basically 3D space invaders wrapped into
+a shape and the enemies descend from the
+center of the tube towards the outside
+and they all have different behaviors
+and wow.
+&gt;&gt; So, long story short, it's a fairly
+complicated game to play well and I
+wanted to see if I could get an AI to do
+it. And so once I had figured out where
+all the interesting parts of the game
+lived in memory, I added them as
+parameters and built a Lua app to
+extract everything from the game's
+memory as it's running and put them
+together as parameters which sends it to
+the Python side over a socket and then
+the Python side does RL learning. I'm
+using a dueling deep Q and I believe
+&gt;&gt; Mhm.
+&gt;&gt; to uh with two a head and a tail and
+they chase each other and it can play up
+to about level 36 now which is way
+better than most humans but that's level
+96 so it's got a ways to go yet but
+&gt;&gt; and uh you're the red thing shooting.
+You're controlling the red thing that's
+shooting.
+&gt;&gt; Okay. What are the options? You can just
+move clockwise or counterclockwise and
+then you can shoot.
+&gt;&gt; Yeah. So, you have a rotating knob,
+which is an optical spinner, and you
+have a fire button and a super zapper
+for emergencies. But, uh, that's it.
+Fire and rotate, basically.
+&gt;&gt; All right, let's get back to your
+favorite C++. What do you love about
+C++? Why have you stayed with it for all
+these years?
+&gt;&gt; Because it allows me to encapsulate my
+favorite C code in classes. I'm not a
+big Well, I actually
+&gt;&gt; You're really a C guy. Okay, I got you.
+&gt;&gt; Yeah, I'm really a C guy. Although, I
+write two kinds of C++. I write really
+modern C++ 20 using no pointers, no
+string or no character strings. Uh so
+there, you know, it's basically as safe
+as Rust as far as I'm concerned.
+&gt;&gt; Mh.
+&gt;&gt; Or I write C with classes which is
+standard C but you know with
+polymorphism encapsulation and that's
+most of what my code is. But uh I try to
+do both.
+&gt;&gt; Let me ask you about the whole stretch
+of time that we kind of skipped over. Uh
+you built a lot of software over the
+years after Microsoft on the side while
+at Microsoft and afterwards a lot of
+successful pieces of software. Uh one of
+your companies was software online and
+it got into trouble for nagging users
+too much I guess.
+&gt;&gt; Yeah.
+&gt;&gt; To upgrade. That's what I saw. What was
+all that about? And uh what did you
+learn from that experience?
+&gt;&gt; Well, that was other than like family
+health scares, you know, when kids are
+sick. That was the scariest time of my
+life. And the period leading up to it
+was one of the most invigorating and
+exciting because what had happened was
+while I was at Microsoft, I had written
+all these shareware utilities and was
+selling them on the side and sold one to
+Microsoft as we talked about and they
+started to do really well. And then I
+discovered banner advertising online and
+so I signed up with my credit card for a
+site I think was called FastClick. And
+you could say I will pay this much for a
+banner ad impression. Here's my banner.
+And it would rotate it in. And I didn't
+set a cap on it. I came back on Monday
+and I saw I had spent like $10,000 in
+banner ads. I was like, "Holy crap, how
+am I going to explain this to my wife?
+This is a bug. This is a mistake. It was
+my fault." And I looked at the sales and
+it had made like $38,000 worth of sales.
+And I was like, "Holy cow." So, all I
+have to do is scale that at some point
+and basically did that for the next
+several years. And the reason we got in
+trouble was the AG came in and they had
+well I was blown away because they had
+like 12 court claims of action and 10 of
+them were outrageous which to me as a
+person with autism I couldn't get past.
+It's like I know these 10 things are
+absolutely not true. Why are we even
+here talking about them and then all
+they care is the two things that might
+be true. And the two things that might
+be true were that it was a 30-day trial
+version. And after your 30 days were up,
+it would then if you continued to run it
+and not buy it or uninstall it, it would
+remind you once a day, not like every 10
+minutes, but once a day or every time
+you booted your computer at most, once a
+day. And the AG contended that was too
+often. It amounted to spam. And so we
+agreed with them to limit it to once a
+week, I believe. And you know, there had
+to be a button to just uninstall with
+one click. So we did those kinds of
+things. The other one was in those days
+when somebody bought a piece of software
+even if they bought it online and got a
+download they fully expected there would
+be media showing up at their house. So
+in the year 2001 which we're 2001 2003
+we're talking about if you bought
+software there was an expectation that a
+disc would show up and so we made that
+the default was to fulfill by disc and
+it was 3.95 or 4.95 extra and it was
+very obvious but it was a checkbox and
+it was turned on to ship the disc to
+your house cuz we found if we didn't do
+that we got all these calls people would
+wait they'd order 2 weeks later call
+where's my disc and we look we didn't
+order a disc well cancel it all I don't
+want it cuz I'm not waiting for it and
+so we got a lot of returns and we didn't
+include the disc and so we decided to
+include the disc but that is a a
+priority violation of negative
+affirmation billing in Washington state
+because you're giving them a default
+higher purchase price. What about on the
+software
+user relationship? It's interesting like
+how often to annoy the user with a
+thing,
+right? If you never mention anything,
+they might never discover
+like something they actually want,
+&gt;&gt; right?
+&gt;&gt; But if you mention it too much,
+then they can get annoyed.
+&gt;&gt; Yeah. And what you don't want is you
+don't want them to have to do it or buy
+it or do something to get rid of it.
+That's one of the things that bothers me
+with um I think Windows does that a
+little bit still to this day where it
+bothers me by asking me certain
+questions like do you want this like um
+it for example I really don't like to
+use my Microsoft account to log into
+Windows right I think now it's like
+basically required I think there's just
+no way around it but like they make it
+so difficult to not do that it's almost
+like they think they could just trick me
+into they it really does feel like I'm
+getting tricked into
+not doing what I want to do
+&gt;&gt; right
+&gt;&gt; like is I have to like think okay I need
+to click skip and it'll do something are
+you sure like I have to like use too
+much of my brain to do the thing I like
+you know as an as an interface you know
+what I'm trying to do you're trying to
+trick me into not doing the thing I want
+to do. And what I hate about that is
+like
+it's probably effective, sure, for
+converting people, but it's really
+not good long term for taking care of
+the interest of the user.
+&gt;&gt; Yeah. The one that really throws me is
+the use recommended settings. So, I just
+did a Windows upgrade. It went through
+the steps and I'm going through this new
+dialoger wizard and use recommended
+settings. Sounds like the thing you
+should do, but I'm pretty sure that
+resets you to using the Edge browser and
+all this other stuff. So, yeah,
+recommended by them, but not recommended
+for me. And that's the difficulty.
+&gt;&gt; That's a really good example. Like, what
+effect do you think that does in
+resetting the default browser to Edge?
+Do you think you're going to really earn
+the loyalty of a user if you do that?
+Don't don't you think that they're
+actually what you're going to create
+you're going to create some passive
+loyalty from some user base. So on the
+metrics it might actually look like
+you've increased the number of edge
+users but really it's that reputation
+hit you take over time where it just
+forms where the edge is the thing that
+you can't quite trust
+&gt;&gt; unfairly because I think Edge is a
+really great browser but just this this
+unpleasant feeling I don't know what
+that is and the
+&gt;&gt; well you don't want your oper operating
+system to be an adversary right and
+sometimes that Windows can feel
+adversarial like it doesn't have your
+best interests at
+And that bugs me to a certain extent.
+&gt;&gt; I mean, we have this feeling, I think,
+we just have general distrust when
+somebody is super nice to you and is
+basically selling something. There's a
+certain aura about that kind of
+interaction. And when an operating
+system is interacting you with you in
+that way, it's like, yeah, I would much
+rather pay $1.99 for Windows Pro per
+year or 20 bucks a month or whatever the
+fee schedule would be and not be upsold
+any further and not have my data
+monetized and those kinds of things. So,
+Did you learn about finding the right
+balance from that?
+&gt;&gt; Yeah, I I mean I'm way more self-aware
+now. There's things I would do much
+differently, particularly in terms of
+the advertising. I always figured
+there's a guy named David Oglevie and he
+did this ad long ago for the Volkswagen
+Beetle where it had a picture of a
+beetle, black and white, and it just
+said lemon
+&gt;&gt; and there was a block of text below it.
+So, it's clickbaity and then
+informational. And I always tried to
+follow that pattern. But there's three
+ways to sell something, I think. And you
+can use sex, fear, or greed. and sex
+doesn't work very well for software.
+Fear works well for antivirus and stuff,
+but not so much for optimization and
+make your computer faster utilities. And
+so I always tried to cater to the greed
+aspect. Uh, you know, make your computer
+faster, get more RAM available, whatever
+the value proposition is. But I realize
+now that I'm looking at that with my
+knowledge and as an autistic person, I
+now have an appreciation that other
+people are going to look at it with
+their background knowledge and may
+conclude something different. So, I
+might be scaring people where I was just
+trying to incentivize or get their greed
+instinct going. So, I'd be more
+sensitive about that kind of thing
+today.
+&gt;&gt; Ridiculous question, but what do you
+think is um the top three Windows
+operating systems, the different
+versions?
+&gt;&gt; I'm a fan of Windows 2000 server. That's
+&gt;&gt; really
+&gt;&gt; Yeah.
+&gt;&gt; Okay.
+&gt;&gt; That's what I ran my business on and I
+ran my brother's business. We set up
+multiple salons all VPN to one another
+and using the SQL server.
+I don't know if I've ever gotten to
+experience Windows 2000 server. So, when
+was XP out?
+&gt;&gt; 2001.
+&gt;&gt; What was before XP?
+&gt;&gt; 2000.
+&gt;&gt; 2000. Was that good?
+&gt;&gt; Yeah, I liked it. I mean, it doesn't
+have the visual flash that came with XP,
+but as a system and especially as a
+server operating system, it was great
+for the day. But then XP was
+I would say probably
+from a completeness perspective and
+impact and how long it lasted. It was
+probably the the greatest Windows from
+for consumers the operating system.
+&gt;&gt; I would think so. It certainly got the
+longevity for it. There's people would
+still run it. I mean I'd still run it on
+stuff if you get security updates cuz it
+does 98% of what I need Windows to do.
+But
+&gt;&gt; yeah, that was incredible. I mean, so
+Windows 95, I'll probably put Windows XP
+as the number one for me and then
+Windows 95 too.
+&gt;&gt; What's your metric? Personal preference
+or industry impact or
+&gt;&gt; industry impact stability just there's
+certain like just like with programming
+you have code smell like how well all
+the features were orchestrated together.
+how there's a
+design philosophy that permeated the
+whole thing and was consistent, not too
+many features, not dumbed down too much,
+&gt;&gt; right?
+&gt;&gt; Uh but not over complicated, how often
+it crashes the blue screen, all those
+things.
+&gt;&gt; I don't know if it's a very apt
+description, but I think of it as crisp,
+so there's not a lot of rough edges. It
+does what it does. Does it snappy? Yeah,
+you said you play slot machines and uh
+given that you uh love hardware and
+software, you're the perfect person to
+ask uh how do slot machines work?
+&gt;&gt; Well, I'm happy to ruin them for you.
+&gt;&gt; Okay,
+&gt;&gt; so it's ironic to me that I play slot
+machines cuz I know it's a losing bet
+overall, but there's a whole dopamine
+feast there of bright lights and high
+contrast colors that I enjoy. So, I do
+play them. But what happens is
+internally there's basically a black box
+mechanism that does nothing more than
+generate the next random number and what
+the outcome is in terms of uh
+probability and payout and then the game
+says I got to make up a movie to go
+along with that and maybe it's three
+bars or whatever it is but there's no
+correlation. It's not spinning the reels
+seeing where they land and looking that
+up to see what you won. It's completely
+the other direction. It determines
+whether or not or if you won and then
+make something up to fit that scenario.
+that that indeed is ruining it for
+everybody
+&gt;&gt; a little bit.
+&gt;&gt; Uh what kind of code runs them?
+&gt;&gt; I don't really know. I tried to get down
+and get inside access to one and it was
+very hard. They don't want to tell you a
+lot about them. I'm sure it's not that
+deep of a secret, but
+&gt;&gt; yeah,
+&gt;&gt; cuz they're all basic Windows PCs, but
+they're basic Windows PCs on top of a
+very secure enclave of some kind that I
+don't know a lot about.
+&gt;&gt; Yeah, it has to be extremely secure,
+right?
+&gt;&gt; Yeah. Well, in the 70s or 80s, there was
+a tech in Vegas went around and he was
+burning his own ROMs for the slot
+machines and with a back door in them.
+And so when he serviced the machine, he
+would just put his ROM in and he come
+back 6 months later and
+&gt;&gt; nice
+&gt;&gt; invoke the back door.
+&gt;&gt; I love humans so much. Uh anyway, do you
+have do you other other favorite kinds
+of uh systems like that?
+&gt;&gt; I like a lot of old hardware. I restore
+cars, so I do a lot of 1960s muscle
+cars, cars and trucks.
+&gt;&gt; Nice.
+&gt;&gt; And uh old computers. So, I restore
+PDP11s has been my fascination and my
+special interest for the last 6 months
+or so, and I've built a number of those.
+&gt;&gt; Yeah, you uh I've seen like you posting
+uh videos about it, the PDP183.
+Uh what's that whole project?
+&gt;&gt; So, basically what it is is I had built
+a number of PDP11s. And so over the
+years I had acquired all these parts and
+I decided well let me build the best
+PDP11 that I can
+&gt;&gt; and so it was kind of a quest to just
+like you try to max out a PC I try to
+max out a PDP11 so it's got 4 megabytes
+of memory which would be massive in the
+day and yeah that's it there
+&gt;&gt; and it's got lots of blinking lights and
+I had to rewrite the BSD kernel to make
+the lights work and
+&gt;&gt; what are we looking at here? What is
+what's
+&gt;&gt; So the very top is a PDB1 1170 control
+panel which we can largely ignore and
+then there's two chassis below that one
+has
+&gt;&gt; what are the different knobs? Sorry to
+ask dumb questions here.
+&gt;&gt; Uh the knobs in uh control what view you
+get of the LEDs.
+&gt;&gt; Oh,
+&gt;&gt; so normally you see the data bus and you
+can see the address bus and you can
+pause the machine and you can edit the
+address on the bus and you can deposit
+stuff into memory with the switches.
+&gt;&gt; Man, the haptic
+plus the LEDs.
+That's what you like imagine a computer
+to be. That's so cool.
+&gt;&gt; That's so cool. And these are what? What
+are these? These are DU1, DU2.
+&gt;&gt; Yeah, it's a weird floppy drive. It's a
+dual floppy drive with one stepper
+motor. So, both heads seek together like
+Siamese twins.
+&gt;&gt; Okay. So, what what kind of stuff are
+you doing with this? What are you trying
+to restore them?
+&gt;&gt; Yeah. So, I restore them. And
+&gt;&gt; does it actually run?
+&gt;&gt; Yeah.
+&gt;&gt; Oh, the blinking lights are real.
+&gt;&gt; Yeah, it's all real.
+&gt;&gt; Wow.
+&gt;&gt; Then I had to rebuild the kernel and all
+that. decided to learn the BSD kernel.
+I'm pretty familiar with it now
+to get because you can't just add a
+device driver, right? You've got to
+rebuild the kernel to add support for
+whatever device. So, you add a new disc
+controller.
+&gt;&gt; Mhm.
+&gt;&gt; It's time to build the kernel. So, you
+got to go find the source and find the
+code and
+&gt;&gt; you can run code on this.
+&gt;&gt; Yeah. Uh you've written a couple of
+books on autism. Being autistic
+yourself, I was wondering if you could
+tell me about like fundamental
+differences about the mind of a person
+with autism versus a let's say a
+neurotypical individual. Well, the
+fundamental theory of thought for autism
+is called monotropism. And basically
+what that means is that my brain does
+one thing. It does it very intensely and
+then when it's done, I can move on and
+do something else. But I'm not a
+multitasker. I'm a serial single tasker
+by any stretch. Um, autism usually
+brings with it sensory sensitivities and
+repetitive behaviors, behavioral issues
+that compound it. And if they rise to
+the level where an individual can't
+moderate or accommodate them in their
+life, it becomes a disorder. And that's
+probably 1 to 2% of the population.
+&gt;&gt; What's the biggest benefit of life with
+autism?
+&gt;&gt; Um, I can bring to bear an incredible
+amount of focus and dedication on a
+particular task if it's and it has to be
+something I love. It has to be something
+that's rewarding. It has to be something
+I can make progress on. And there has to
+be all these things that are true about
+it. And it could be like a kid playing
+with trains. I get that same feeling.
+That said, you also uh said that you
+struggle with uh ADHD.
+&gt;&gt; Yeah, a fair bit.
+&gt;&gt; So that's part of the component like
+maintaining the focus
+&gt;&gt; or actually acquiring the focus is the
+issue. So I'm very easily distracted. I
+fall asleep with noise cancelling
+headphones or I can't fall asleep. That
+kind of thing. But once I get locked in,
+I'm very hard to distract. So it's kind
+of a paradox.
+&gt;&gt; Oh, that's fascinating.
+&gt;&gt; It's hard to get into that state.
+&gt;&gt; Okay. What's the biggest challenge of
+life with an autistic mind?
+&gt;&gt; That I don't know what anybody else is
+thinking. So, I know what I would think
+about this interaction if I was in your
+position and I was you.
+&gt;&gt; Yeah.
+&gt;&gt; And that's the best I can do. But I
+think most neurotypical people have a
+sense of, well, Lex probably feels this
+way or that way cuz he's acting this way
+and his reactions are this and his
+facial expressions say this. And that's
+all kind of lost on me. So, I run a
+little proxy NPC game for everybody I
+deal with.
+&gt;&gt; So, I guess that makes social
+interaction a little bit complicated.
+&gt;&gt; It can be. Yeah. Telephone is especially
+hard because I rely on a lot of other
+cues. And when somebody is just on the
+phone and I just have their voice,
+there's so much that's implied between
+people that I miss. And so I'm much
+better on FaceTime where if somebody
+makes a joke, they might smile after
+where on the phone I don't know if
+you're being sarcastic or serious and
+that kind of thing. So
+&gt;&gt; So that's probably gotten you into
+trouble over the years a bit.
+&gt;&gt; Yeah. There's lots of times with my wife
+too where uh well to there's a certain
+literalism that comes with autism and we
+spent years where she would say
+something and I'd say but that doesn't
+make sense. She you know what I mean
+like no I know what you said and I'm not
+being just combative here. I literally
+only know what you said and I don't have
+that. And uh I remember we've been in
+meetings with people and uh you know if
+there's three or four people in the
+meeting and I'm the only autistic
+person, I'll tell that they've got this
+communication loop going on and I feel
+like you guys got to tell me what's
+going on cuz I really don't know what's
+being said here. So
+&gt;&gt; you told me related to this that there
+there was an early somewhat awkward
+encounter with Bill Gates. Uh can you
+share this the story of that uh
+interaction and how autism comes into
+play here? Yeah, my very first summer at
+Microsoft when I got the internship,
+Bill had uh all the interns over. I
+guess it was 20 or maybe 25 of us uh
+that got hired that year over to his
+house for burgers and beers and just
+chat in the backyard.
+&gt;&gt; And of course, it's still Bill Gates and
+he's a big enough deal even then that
+you're a little nervous. And so my
+manager Ben, who was sort of my mentor
+at the time, took me over to introduce
+me to Bill because he knew him. And he's
+explaining this to Dave. He's our intern
+from Canada. And in the space of four
+months, he's done this feature in disc
+copy and smart drive. He listed off all
+the stuff I was doing. But I stopped
+because I'm like, well, actually, it was
+3 months. I had to interrupt them and
+they both kind of what? And they looked
+at each other and I realized that was
+the wrong time to
+correct the guy. But uh
+&gt;&gt; Yeah. So you they bother like little
+inaccuracies.
+&gt;&gt; Oh, it drive me crazy.
+&gt;&gt; Yeah.
+And then you of course you don't
+the the impact I might have on a on a
+casual social interaction.
+It's it's not trivial for you to be
+aware of that.
+&gt;&gt; Yeah. I'm much better than I used to be.
+Before I didn't know and I didn't know
+how injecting a correction meaninglessly
+into a conversation could impact and
+make the other person feel. Now I got a
+better sense of it. What advice would
+you have for folks who have an autistic
+mind on how to flourish in this world
+&gt;&gt; in terms of prosperity and finances? The
+biggest thing I can say is sell what you
+can do and not yourself. Because if you
+go into a job interview and you try to
+wow them with your personality and how
+amazing you are, it may or may not go
+well. But if you can go in with your
+portfolio of work and say, "Look, here's
+my GitHub history and here are the
+awesome projects I contributed to and
+here's the actual algorithm I wrote and
+this is what I do." I think you get a
+lot further with that. So whether you're
+playing the piano or writing code
+&gt;&gt; that said so much of software
+engineering on uh large teams has a
+social component to it. Right.
+&gt;&gt; It does and that was a liability for me.
+&gt;&gt; How do you how do you I mean what have
+you learned about how to solve that
+little puzzle?
+&gt;&gt; I think the biggest deficit for me was
+when I started to manage people because
+now you're
+concerned about their hopes, dreams,
+aspirations, what motivates them. They
+have entire lives that are kind of a
+mystery to me because I assume they want
+to be motivated and led and encouraged
+and compensated exactly as I would.
+&gt;&gt; And that's not always the case. Some
+people need a lot more affirmation. Some
+people just want money. Some people want
+to be in the important meetings and make
+decisions. But I was largely oblivious
+to that. And so eventually I had to
+learn that everybody that you're
+managing has their own set of incentives
+and priorities and they're completely
+different from what I think they
+probably are. So you could, I guess,
+make things more explicit and just
+communicate better about like ask them
+about what their interests are.
+&gt;&gt; And that's something I started doing is
+overtly asking because it's hard for me
+to nudge somebody there. I'm not good
+with that kind of social dance. So
+&gt;&gt; yeah, part of the social dance is
+there's a lot of stuff that's uh unsaid.
+M
+&gt;&gt; you can kind of figure out you can read
+people but if that's you know with with
+autism it might be a little bit
+difficult to do that and so you have to
+make things more explicit plus like
+sarcasm and satire and humor might be
+difficult. Yeah,
+&gt;&gt; I would love to be a fly in the wall
+some of your earlier interactions with
+Microsoft.
+&gt;&gt; Uh I mean some of the greatest engineers
+have mine like this. So
+&gt;&gt; yeah, I've had laptops thrown at me and
+stuff and I'm sure it was my own fault.
+So
+&gt;&gt; uh you write about the 10-second autism
+test. Could you explain how this works?
+&gt;&gt; Yeah. Now there of course anything that
+has two answers has a high air rate, but
+uh so what's more important to society
+as a whole from the people? Is it
+cooperation or creativity? And if you
+had to pick one, which is the most
+important? And most neurotypical people
+will generally lean towards cooperation,
+whereas people on the spectrum tend to
+lean towards creativity as individual
+problem solvers.
+&gt;&gt; Of course, there's some kind of error
+rate there.
+&gt;&gt; So, if you want to double your
+precision, you can use the second test,
+which is you ask, there's a room with 10
+chairs and six people come in and sit
+down in those chairs. How many chairs
+are left?
+Now, some people are going to say four,
+but I'm going to say 10 because that's
+how many chairs are still there. clearly
+true.
+&gt;&gt; And I'm not being a dick. I'm not trying
+to be complicated, but that is how my
+mind works. And so when I see that
+question, it's like it depends how you
+answer it.
+&gt;&gt; So you're how literally you take things.
+&gt;&gt; Yeah. Everything is very literal for me.
+I remember as a kid, my grandfather was
+building a planter holder in the kitchen
+for my mom and he was using these big
+angle brackets that I thought were a
+little overkill. And I said, "Do you
+think that'll be big enough to hold the
+plant?" And he says, "It'll be big
+enough to hold a horse." and I was only
+five, but I was very confused about a
+why you would bring a horse into your
+kitchen, why you would put a horse up on
+a planter and all of these things. It
+didn't make any sense to me when
+obviously it was a figure of speech, but
+for a lot of my life I took figures of
+speech as literal. So,
+&gt;&gt; uh you mentioned uh emotional
+post-processing as a strategy you use to
+replace social interactions so you can
+sort of reverse engineer to to help you
+understand the neurotypical world. Can
+you I think this is going to be useful
+to a lot of people like what what does
+that entail? How does that help you?
+&gt;&gt; So, if I meet somebody, particularly
+somebody new, and it's my first couple
+interactions with them, is even meeting
+you today, then I will go home later and
+replay all of the moments where I had
+choices to make and probably the most
+uncomfortable ones first to find out
+what did I do wrong in that moment, what
+did I miss, what was the other person
+thinking, how can I improve that kind of
+situation next time, and do I need to go
+fix it or make a phone call? That kind
+of thing in a bad, you know, in a
+extreme case. But uh and that's happened
+a couple times in my life. Like I had a
+car restored that my dad had bought new
+in ' 69. I still have it. So we've had
+it 50 years and about 20 years ago I had
+it restored and it was like a three-year
+process of craftsman working on this car
+for thousands of hours. And I go out to
+pick it up and I'm inspecting the car
+and I'm very impressed with the work and
+I'm saying, "Oh, this is nice and this
+is great." And everything else and then
+I fly home and write the check and the
+car gets delivered. And then I realized
+probably 10 years later that I had a
+whole bunch of craftsmen that had worked
+on my car for three years and I probably
+should have blown some smoke up their
+butts about what a great job they did,
+but I never did that because it's not
+what I wanted or needed in that moment.
+And I was completely oblivious to that.
+So I sent an email to the manager or to
+the owner of the place and I said, "I
+don't know if you remember this, but 10
+years ago, I picked up my car and I
+probably looked unimpressed, but I want
+you to know that I was very impressed
+with everything and the quality,
+everything else." and he wrote back,
+he's like, "I've thought of that moment
+often."
+So, I'm like, "Now I'm glad I brought it
+up."
+&gt;&gt; There's subtle things about human
+interaction that mean a lot to people.
+And if you ask them straight up, they
+might not be able to sort of articulate
+that, but it means a lot. And when it's
+off, when something is off, it bothers
+them,
+&gt;&gt; right? But to to reverse engineer that,
+to figure that out for a person who
+might not sense those little subtleties
+of human interaction is tough. That's a
+good point to jump in there too on
+empathy because there is some perception
+in the community that people with autism
+lack empathy and I don't think that's
+the case at all. Um I can only speak for
+myself. I feel fairly empathetic. But I
+think the problem is a communication one
+and it works in both directions. whereas
+I don't know how you're feeling. So,
+it's hard for me to be empathetic with
+it until you communicate to me what it
+is you're experiencing. And then once I
+know once I have an understanding of
+what's going on in your head, I can feel
+incredibly sorry for you. But other
+until then, I'm going to assume you're
+going to handle it just like I would in
+your position in my case with what I
+know now. What advice would you give to
+people like on the other side how they
+can help you be a better friend or
+better partner, better colleague, like
+how they should communicate with you to
+help like give more information.
+&gt;&gt; Yeah. Be really specific and don't
+assume I'm going to pick up on clues and
+nuance and subtlety.
+So, if you're trying to nudge me into a
+particular behavior, you're much better
+off to say, "Dave, this is what you need
+to do."
+&gt;&gt; Have I failed in any way today?
+&gt;&gt; No, not yet.
+&gt;&gt; All right.
+What what what score would you give me?
+1 to 10. Am I a six a seven
+communication? 75 floating point. Nice.
+Uh masking. You got to tell me what that
+is. Uh
+it's a significant experience for many
+on the spectrum. What is masking? And uh
+tell me about any of the experiences
+you've had with masking. So masking is,
+and it's probably not the right way to
+describe it, but it's the act of acting
+normal. And that is how do I conduct
+myself in a social situation in a way
+that other neurotypical people are going
+to or that other people that who are
+neurotypical
+are going to receive and accept it the
+right way. Mhm.
+&gt;&gt; And everything you do in a social
+interaction from waving my hands to
+taking facial expressions to tone of
+voice to posture,
+it's a huge contrivance and it's work.
+&gt;&gt; Yeah.
+&gt;&gt; Comes natural to most people. It's just
+what they do and cool people do it
+really well. But for somebody on the
+spectrum, you've got to fake it all.
+&gt;&gt; Uh yeah, acting normal.
+&gt;&gt; There's a song by Rush. You know the
+band?
+&gt;&gt; Yes. uh limelight and it's written by
+Neil Per and I I only speculated about
+people that have passed on. So I've got
+a sense he was probably on the spectrum
+um but the line is something like all
+the world's indeed a stage and we are
+merely players performers and portrayers
+each other's audience and he talks at
+length in the song about you know not
+being able to treat strangers as friends
+and being able to fake an affect and all
+that so it seems like he's struggling
+with masking a lot in the song and I
+have no idea but that was what I took
+from it.
+&gt;&gt; Yeah. You describe meltdowns as an
+overwhelming experience. Can you
+describe meltdowns? What what typically
+triggers a meltdown?
+&gt;&gt; Generally, it is. It's when you're
+emotionally overwhelmed to the point
+that you can't manage your behavior
+anymore. And so, you see it in the movie
+Rainman when he's trying to get on the
+airplane and he's kind of forced and he
+starts losing it. That's a meltdown. Or
+I've seen it on they did kind of a
+actually probably the best portrayal
+I've seen in media is uh what's the TV
+show where the doctor is autistic?
+He's a Anyway, there's a TV show where a
+doctor is autistic and he's a surgeon
+and he is eventually banned from surgery
+because of his autism and he's always
+wanted to be a surgeon and he has a
+complete meltdown and it's a pretty good
+portrayal on television. So,
+&gt;&gt; what is actually happening? Like there's
+like a threshold you cross that it's
+just like
+&gt;&gt; yeah a switch flips.
+&gt;&gt; It's like blue screen
+essentially.
+&gt;&gt; Yeah. Kind of
+&gt;&gt; for the brain algorithm.
+&gt;&gt; So switch flips you go kind of a
+primitive brain. Your frontal cortex
+shuts down to an extent I think. So you
+don't have the benefit of decision-m and
+filtering your very reptilian brain in
+that state. And it's really a panic
+state. And so it's a panic and a fight
+orflight response to not being able to
+tolerate the current reality. And
+perhaps it's been so frustrating or
+you've been so randomized or you had a
+bad travel day or an argument at work or
+whatever. It's added up to the point
+that something has now triggered you and
+your brain loses its ability to
+adequately moderate your behavior.
+&gt;&gt; Uh what about love and relationships?
+What are some of the challenges of that?
+And you know there's a show Love on the
+Spectrum.
+&gt;&gt; I've heard of it. I've not seen it, but
+I've heard of it
+&gt;&gt; because certain aspects like literal
+interpretation of things. It just makes
+the complexity of relationships of
+romantic relationships even more
+explicit in that in that context. You
+know, I've been married 31 years and
+together for 37, so a long history
+there. And I think our first indication
+that we knew we were very different was
+we were sitting in the car one night out
+front of the house at dark. And across
+the street, there's kind of a nice house
+and it has these big brick pillars that
+are linked by like anchor chains and it
+forms a fence around the yard. And I'm
+looking at these things cuz they're
+about 2 ft square and I got a capstone
+and I'm like, I wonder if they're hollow
+or are they back filled? Are they
+filming with concrete or what? And my
+now wife looks at me and she's like,
+&gt;&gt; "What's wrong with you? Why do you have
+a place in your head that cares about
+that?"
+&gt;&gt; Yeah.
+&gt;&gt; And we just knew in the moment that I
+was passionately involved in caring and
+she was passionately involved in why
+would you even worry about that kind of
+thing. Knew her very different. So
+&gt;&gt; yeah, very specific, seemingly
+irrelevant details.
+&gt;&gt; But uh I was never good with people.
+I don't get it when people like me, I
+guess. And so I got and my son is the
+same way because they all don't fall
+very far from three. And I got him a
+t-shirt that says, "If you're hitting on
+me, please let me know and be specific
+because I'm clueless." And it's very
+similar for me. I mean, I had to be
+around a long time and kind of grow on
+people because I had no game because I
+had no ability to do the social dances
+that that whole thing requires. So my
+only option is to just be myself and
+that works for some people.
+&gt;&gt; Were you able to say like like I love
+you, that kind of stuff.
+&gt;&gt; Yeah. Uh, I mean, her family was way
+more open with that kind of thing than
+mine was. And so, it was a growing
+period for me, but yeah, that's not a
+problem I have.
+&gt;&gt; Okay. All right. But, but it seems like
+unimportant. Uh, like, what is that
+actually accomplishing?
+&gt;&gt; Well, now we do a lot of affirmation and
+checking. Like in the last couple years,
+we do a thing where she'll just be like,
+"You good?" I'm like, "Yeah." And
+there's two steps to that. There's the,
+"Are you good?" And then there's my
+response because if I'm like, "Yeah."
+She knows something's up.
+&gt;&gt; Yeah. And so there's always this pinging
+back and forth because there's not the
+ability to read people just from looking
+at them to know what's going on. So we
+have this explicit check mechanism I
+think where we've
+&gt;&gt; developed that.
+&gt;&gt; So there's a vast chasm between Yeah.
+and Yeah.
+&gt;&gt; Mhm.
+&gt;&gt; Again that subtlety of human
+communication.
+&gt;&gt; Uh you've uh written about the
+experience uh that people have of
+feeling quote a little bit autistic.
+Could you elaborate on this concept?
+&gt;&gt; Yeah, I think a lot of people, maybe 10
+to 20% of the population is somewhere on
+the autism spectrum, but isn't impacted
+by enough that it rises to the level of
+a disorder, but they still have many of
+the characteristics that arise from
+autism. And I think if they can
+understand and identify and manage some
+of those behaviors in an optimal way,
+they can both leverage them to take
+advantage of some of the skills and
+mediate some of the deficits and
+problems that come with it. And I wrote
+it mostly for my kids because none of
+them, as far as I know, have ASD, but
+they've all got certain aspects of my
+behavior that are particularly related
+to it. So, thought I'd write a little
+manual for them, basically.
+&gt;&gt; Why do you think so many programmers
+like excellent like great programmers
+and great engineers are on the spectrum?
+&gt;&gt; I think it's that single-minded focus
+and the ability to reduce a problem and
+to be ultimately curious about what's
+inside stuff. That's been a obsession
+for me my whole life. what's inside. I
+got to take the my mom's oven apart
+because I got to know how the flip clock
+works. Um, and I think that's a good
+habit to have if you're going to be a
+programmer.
+&gt;&gt; And being willing, being excited to get
+into the details.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Uh, what's a cool thing you uh
+hope to program to build this year? What
+are you working on? So, we got we got
+the RL learning how to play Tempest. Uh,
+where are you on that, by the way? How
+like where what's the ETA on success and
+dominance
+like victory? Well, it's very close to
+working. Um, I I think now it's tweaking
+the model size and layers and stuff like
+that to get it to learn past the one
+threshold, but you know, it's a couple
+thousand lines of Lua and it's a couple
+thousand lines of Python and they all
+interact and they all work. So, it's
+like 95% of the work is done. Now, it's
+tuning hyper hyperparameters and hoping
+for the best.
+&gt;&gt; So, it's already a success in a sense,
+but like now you're seeing like how far
+can this go?
+&gt;&gt; Yeah. My goal was to be able to beat me.
+Huh, that's a tough
+&gt;&gt; It is, but lots of games now are, you
+know, they play them better than humans,
+but maybe not games this complex.
+&gt;&gt; Uh, what other cool things are you
+working on? What do you hope to build
+this year?
+&gt;&gt; Uh, the PDP11 stuff. I'm trying to get a
+what's called an RA82 drive. It's the
+big 14inch monster that spins at 3600
+RPM and sounds like a washing machine.
+And then I'll find the controller card
+and write the code and integrate it into
+the driver and try to get that all
+working.
+&gt;&gt; Uh, what kind of code are you trying to
+run on it?
+&gt;&gt; I'm going to have to get the driver
+stack to work. So I have to incorporate
+the driver for it into the kernel.
+&gt;&gt; You built a machine recently with one
+terabytes of RAM.
+&gt;&gt; Uh how did that happen and why?
+&gt;&gt; So we have a project called GitHub
+primes. If you just search for GitHub
+primes, you'll find it. And it is primes
+&gt;&gt; a single set of prime number algorithms
+implemented in about 100 different
+languages. So it's the exact same
+algorithm and we require that you follow
+certain rules to make it fair
+&gt;&gt; and then you express that algorithm in
+whatever language you choose to the best
+of your ability and we run a benchmark
+every night and we compile the results
+and find out which languages are
+fastest.
+&gt;&gt; Is this the one?
+&gt;&gt; Yeah.
+&gt;&gt; Oh, so this is uh so yeah, you got to
+and this is what that you're using this
+for?
+&gt;&gt; Yeah.
+&gt;&gt; Oh, so this machine runs that those
+tests?
+&gt;&gt; Yes.
+&gt;&gt; Okay. You got to tell me about this
+project. This is an epic project. So
+you're comparing the performance of the
+different programming languages
+&gt;&gt; of all these languages. So they all get
+built into an individual docker
+container and then they all run and
+&gt;&gt; this is an incredible project. This is
+really really cool. It's really
+measuring the performance of the
+different languages. So what what have
+you learned about which languages
+uh like who which language usually wins?
+&gt;&gt; Zigg I think right now
+&gt;&gt; Zigg
+&gt;&gt; it does it varies. People will make an
+improvement to the C++ and it'll pass
+for a while and then the Zig guys will
+get angry and come back and make it
+faster. ZG, Rust, C++, C.
+&gt;&gt; And what kind of code is being run?
+What's the piece of code that they're
+trying to run to measure the
+performance?
+&gt;&gt; So, what they're doing is they're
+solving the primes up to 100 million as
+many times per second as they can in a
+5-second loop.
+&gt;&gt; So, it's a loop. Got it. Over and over
+and over and over and over.
+&gt;&gt; Yeah. On all cores.
+&gt;&gt; So, what
+&gt;&gt; across all CPUs?
+&gt;&gt; What about like how the program is
+written? Does that vary?
+&gt;&gt; No. So you can do anything you want, but
+it has to be a prime civ. You're allowed
+to use one bit per integer at most. So
+you can't use a bite, which is cheaper
+and easier.
+&gt;&gt; Um there are a number of rules like that
+that you have to allocate the memory
+within your timed loop. And so we have a
+set of rules and we have uh some
+solutions that don't follow the rules
+like the 6502 because you've only got
+64k, you can't do 100 million civ. So
+there's a lot of solutions like that
+that we run as exhibition projects, but
+among the main languages, they all
+follow the same rules. And so it really
+should just be the how the algorithm is
+expressed in that language. And many of
+them use the same backend compiler. So
+it really is how you're expressing and
+the limitations or the benefits of that
+language.
+&gt;&gt; Are there allowed to be multiple
+submissions per language?
+&gt;&gt; Yep. Yeah. So if you look in the C,
+there's like five, I think.
+&gt;&gt; Okay. And they they some of them might
+use different compilers or no.
+&gt;&gt; Yeah. Some are GCC, some are C lang
+LLVM.
+&gt;&gt; I'm looking at a snapshot here from a
+couple years ago. So Zigg was at the
+top, then Russ, then Nim, Hasco.
+Oh, no. This is not this is not ordered
+by uh Slowness, or is it?
+&gt;&gt; Yep.
+&gt;&gt; So C would be 1.5 times as long as Zigg.
+&gt;&gt; Wow.
+Okay. Fascinating. Well, it's a super
+cool project.
+&gt;&gt; Yeah, we've got crazy languages like
+PowerShell. There's a version of
+PowerShell and stuff like that. So
+&gt;&gt; So this is automated like in terms of
+organization of like how the submissions
+are done. There's a structure to it.
+That's cool.
+&gt;&gt; Yeah. There's two guys over in uh
+Europe, Rucker and Tutor basically own
+this now. I started as just three
+languages. I did Python, C and C++. And
+I checked them in and I published the
+episode and then people started throwing
+more solutions in there and it just got
+out of hand. So I had to get somebody to
+manage that one and they've been great
+doing that for me.
+&gt;&gt; What's the happiest moment for you when
+you're programming and building a thing?
+Like what do you enjoy most? I think the
+the most fun for me is when I build
+something complex and I thought through
+how it should work and then I run it and
+it does work that way.
+&gt;&gt; That creates intense satisfaction.
+So seeing the results come out the way
+that I plan them and have it work cuz it
+rarely does the first time. But
+&gt;&gt; yeah or especially if it does work the
+first time. No,
+&gt;&gt; I never trust that. I always feel like
+I'm missing something.
+&gt;&gt; That's true. Uh but you know with
+compiled languages like um with C++
+that's always a good feeling. You write
+a bunch of code, you compile and it all
+compiles without warnings, without
+errors. It's a cool feeling. Um what do
+you think is the future of programming?
+So now I don't know how much you've got
+to really experience the impact of um
+LLMs with code generation.
+Do you use have you used cursor much
+cursor? VS Code with uh with w with with
+with code generation.
+&gt;&gt; Yeah, I've done a ton of it for this uh
+the Python side because I'm not great
+with Python and I'm kind of new to it.
+So, um I found it very helpful because
+I've learned a lot from watching the
+code that it generates if I don't know
+how to do something because if I write
+Python from scratch, it's going to be
+about four times as long as what the AI
+can crank out because Python can be
+pretty tourist if you're good at it.
+&gt;&gt; Oh, that's cool. So, just you you
+essentially learn Python for this
+project.
+&gt;&gt; Yeah. So this is a good case study of
+like a great programmer in C++ quickly
+learning a language.
+&gt;&gt; Yeah, I'm vibe coding my way through it.
+I guess
+&gt;&gt; vibe coding your way through it. I that
+is a really powerful use case to learn a
+language for if you're already a good
+programmer to learn either u a new
+language or a new a way to approach a
+problem by having it generated because
+you already you probably understand the
+Python code it generates.
+&gt;&gt; Yeah. like without actually looking up
+any of the syntax.
+&gt;&gt; Yeah, it's all pretty self-explanatory
+once you see it, but you know, creating
+it from whole cloth is a little
+different. So,
+&gt;&gt; yeah. Uh but you still have to learn how
+to program in order to use it in that
+way.
+&gt;&gt; Oh, and to read it to know what to tell
+it to do next and all that. Yeah, I
+don't think you can vibe code yourself
+if you're just new and haven't coded.
+But if you're a good programmer, AI can
+make you incredibly powerful.
+&gt;&gt; What do you think is the future of
+programming like 5, 10, 20 years from
+now? this whole process. Now, VIP coding
+is kind of a fun meme thing because you
+still have to be
+uh the people that don't know how to
+program and are just VIP coding are
+almost entirely creating systems that
+are not usable in production. They're
+not you can't it's very difficult to
+create the a product.
+&gt;&gt; Uh and the people who are already great
+programmers kind of vibe code just for
+in the way that you're doing it. they're
+basically it's just a fancy autocomplete
+and they end up editing it or it's a way
+to learn a new API or or a new language
+or a new whatever uh a new specific use
+case or maybe a different kind of like a
+guey component or something like that
+but as they get smarter and smarter we
+don't know where the ceiling is that
+might change the nature of what it means
+to be a programmer so um do you think
+about that
+&gt;&gt; I do I think I don't want to say prompt
+engineer but I think it's going to be
+something like that in the sense that if
+you're an architect building a bridge at
+some point guys were down there welding
+beams together but now you're dragging
+things around in AutoCAD and assembling
+from big pre free preform sections and I
+assume that's what programming will be
+like you won't be in there throwing
+individual lines of code around you'll
+be moving components and interfaces and
+describing to the AI what those
+interactions should be and letting it
+build the components but I think we're
+still quite a ways from it being able to
+whole cloth generate you can't say give
+me a Linux kernel is compatible with
+Linux. One day we'll be able to and
+it'll crank it out, but we're not there
+yet.
+&gt;&gt; Does it make you sad that we're climbing
+the layers of abstraction so quickly?
+So, you somebody that used to do machine
+code and then assembly and C and C++
+that we're getting to a point where
+we're vibe coding with natural language.
+&gt;&gt; Yeah, I kind of came up at a really
+fortunate time I think because I had to
+come up with the technology over the co
+course of 30 or 40 years. So I
+understand TTL logic and I can use AI to
+write code and I kind of know all the
+pieces in between. There certainly are
+holes in my knowledge but I think the
+only way to have got that level of
+knowledge or the completeness of that
+picture is to have lived it for that
+long.
+&gt;&gt; Yeah.
+&gt;&gt; And it's going to be hard to duplicate
+that for people starting now.
+&gt;&gt; What do you think is the meaning of this
+whole thing
+of uh existence of life of whatever is
+going on here?
+making cool stuff.
+I guess fundamentally what I care about
+is being able to make complex things
+that are useful to other people, which
+leverages my abilities in a way that
+allows me to be creative and to create
+things that other people can use in a
+way that if I was limited to painting or
+sculpting or whatever in the classic
+arts, I would be hopeless. Um, and so
+for me, that's really the meaning of
+life. And then maybe you raise a couple
+good kids to hand the baton off to.
+&gt;&gt; Yeah. And you've created uh a lot of
+cool stuff over your life. Um that
+impacted millions probably billions of
+people. Uh and now you're inspiring
+you're creating cool stuff for everyone
+to see on your YouTube and you're
+inspiring people in that way. So for
+everything you've done in the past and
+everything you're doing now, I'm I'm a
+big fan. and I'm really grateful for
+what you're doing and um grateful that
+we got a chance to talk today. Thank
+you, brother.
+&gt;&gt; Thank you.
+&gt;&gt; Thanks for listening to this
+conversation with Dave Plameumber. To
+support this podcast, please check out
+our sponsors in the description. And
+now, let me leave you with some words
+from Bejorn Straup, creator of C++ and
+somebody who, by the way, I interviewed
+a long, long time ago, episode 48 of the
+podcast. He said there are only two
+kinds of languages. The ones people
+complain about and the ones nobody uses.
+Thank you for listening and hope to see
+you next time.

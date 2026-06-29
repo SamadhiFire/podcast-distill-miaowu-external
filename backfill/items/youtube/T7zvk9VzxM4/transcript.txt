@@ -1,0 +1,1424 @@
+Kind: captions
+Language: en
+[Music]
+This is business breakdowns.
+Business breakdowns is a series of
+conversations with investors and
+operators diving deep into a single
+business. For each business, we explore
+its history, its business model, its
+competitive advantages, and what makes
+it tick.
+We believe every business has lessons
+and secrets that investors and operators
+can learn from and we are here to bring
+them to you. To find more episodes of
+breakdowns, check out join colossus.com.
+All opinions expressed by hosts and
+podcast guests are solely their own
+opinions. Hosts, podcast guests, their
+employers or affiliates may maintain
+positions in the securities discussed in
+this podcast. This podcast is
+forformational purposes only and should
+not be relied upon as a basis for
+investment decisions.
+This is Matt Russell and today we are
+breaking down the real estate broker
+Compass. We have Jeff Colette, founder
+of AON Capital Partners back as a guest.
+You may remember his breakdown on
+Goosehead and we thought it was fitting
+to cover another flavor of a broker.
+Now, Compass itself is a fascinating
+business and historically a
+controversial stock. It was founded in
+just 2012 by Robert Refkin and Compass
+has scaled in that short period of time
+to become the largest real estate
+brokerage in the United States. So Jeff
+and I cover the history, some of those
+early pivots, but I'd argue most
+importantly, we get into the critiques
+of Compass, whether those are fact or
+fiction, what has changed since the
+early days, and whether it's agent
+commissions, operating leverage in the
+business, the Zillow suit, there is a
+ton of interesting stuff around Compass
+today. And that's before you get into
+the tech stack, the infrastructure, the
+idea of controlling such a large
+percentage of the market with top
+agents. It's a very fascinating story.
+It's one I will definitely be watching
+closely moving forward. And Jeff's
+insight here, I think, is particularly
+interesting in terms of how he frames
+this business, the opportunity, and how
+you could see a broker potentially
+emerge from being historically a
+commodity business to maybe something
+more powerful than that. So, please
+enjoy this breakdown of Compass.
+All right, Jeff, we have you back to
+talk about a brokerage again. This time
+looks a little different than Goose
+Head. We have Compass which is in the
+real estate space. We can get to how
+different this is and all the nuances of
+real estate, but I thought a good place
+to start would just be the simple
+description of Compass that you would
+give to someone walking on the street.
+They understand what a real estate
+broker does, but what is Compass out to
+do differently? What was the ethos of
+what makes Compass a little bit
+different than the rest of the real
+estate brokers out there? And if you
+were to describe the value prop to
+agents or for the business, how would
+you best capture that?
+&gt;&gt; Yes, absolutely. At its core, Compass
+really has four key advantages that
+reinforce each other and are advantages
+for its agents. The first being its
+proprietary fully integrated software
+platform. Second, the national scale
+that it has. Third, a dense network of
+top agents. And lastly, exclusive
+listing inventory depth. Just to quickly
+hit on these. Firstly, starting with the
+platform, they're the only major
+brokerage that's built this endto-end
+software stack. Everything from CRM to
+marketing to transaction management,
+integrated together in a mobile first
+way that's designed specifically for
+agents that are very often on the go.
+They get more done in less time with
+less support staff. and the brokerage
+itself that ties into the software runs
+more efficiently. Importantly, this
+gives them a very unique edge when it
+comes to AI because it controls that
+platform across the different point
+solutions and the data. It can do things
+that others can't like automate not just
+content creation but workflows,
+followup, and client engagement. They
+have a major AI initiative that's in
+beta this summer that will go full
+release by the end of the year that has
+voice activated assistant capabilities
+that could really bend the curve on the
+value proposition. The company's
+invested nearly $2 billion inception to
+date on technology and they captured a
+point in time in raising capital to do
+this that likely won't present itself
+again for a competitor to do something
+similar. The next thing is its national
+scale. It's got nearly 40,000 agents in
+virtually every major US metro. This
+ties into the platform because it gives
+them a cost advantage. It allows them to
+amvertise this R&amp;D investment across a
+increasingly broad base of agents and
+continually reinvest in the technology
+as well as programs and services that
+the agents are specifically asking for
+them to build. So the scale and tech
+platform really go hand in hand
+strengthening each other. And then
+there's the top agent network. This is
+important. Compass has more top agents
+and teams than any other brokerage.
+about 18% of the top 10,000 and that's
+50% more than the next closest
+competitor. Why this matters is because
+top producers drive the business. The
+top 20 agents do roughly 85% of
+transactions in the industry. They like
+to work with one another and that
+creates a powerful referral engine. On
+average, Compass agents generate 18% of
+their business from referrals within the
+Compass network. that boosts revenue per
+agent, retention, and recruiting. I
+believe that's at the high end of the
+market in terms of referrals. And then
+lastly is the exclusive listing
+inventory depth. So, Compass has leaned
+into an inventory strategy and a phased
+marketing program that helps sellers
+test pricing and timing before going to
+MLS, giving them more control and also
+giving buyers early access. This avoids
+issues around days on market price drops
+and gives Compass agents an edge when
+competing for listings. At the end of
+the day, what Compass is aiming to do is
+not compete on commission splits, but an
+offering that really enhances the agents
+ability to grow their business more
+profitably and create better client
+outcomes. And so, I think that that is
+not always well understood. It's the
+classic technology disruption story in
+terms of how it was laid out and it's
+still a relatively young history. I
+think there's been a lot of pivots. Can
+you just bring us back to maybe the
+earliest chapter, some overview of the
+founding story? I think what you just
+mentioned there captures a lot of what
+they were out to do, but there's the
+idea of providing technology and all of
+this to agents and then there's the
+execution of it. So, anything that you
+could touch on just in terms of the
+early days of Compass, one day we'll
+look back and still consider this the
+early days, but just the founding story
+and the origins here.
+&gt;&gt; The original business model was focused
+on rentals in New York City. They
+quickly pivoted the business early on to
+focus on traditional home sale
+brokerage. I think the vision has
+largely stayed the same. What they
+needed to do was really effectively
+attract a lot of high producing agents
+and build the technology that supports
+them alongside one another without
+really having that foundation in place
+to begin with. And they did that with an
+immense amount of venture capital
+funding and went to market in a manner
+that was hard for existing brokerage
+models to compete with in terms of
+lucrative sign on bonuses, multi-year
+contracts that would be very
+advantageous to the agent. And that was
+likely necessary because they needed to
+build up a local market presence in
+order to attract more agents and then
+eventually transition the model to be
+more sustainable. And so I think for a
+number of years there was a big open
+question as to the sustainability of the
+model, whether or not the technology was
+really going to prove out. And I think
+that that conceptual
+question mark remained with the company
+for a long time until it really proved
+things out much later in its life cycle.
+Yeah, it's interesting when you consider
+capital intensive businesses and you
+think about infrastructure. This might
+have been capital intensive in the early
+days for talent. Something that we're
+seeing in some other markets right now,
+but at least it makes sense to me in
+terms of bringing people onto the
+platform. Like you can build it, but
+they won't necessarily just come here.
+When do you think things started to
+shift a little bit just around financial
+hygiene transitioning a little bit away
+from just paying the most for agents?
+I'm oversimplifying but you know to give
+you some context were there any
+milestones or things in the history that
+really led to a change with that
+mindset?
+&gt;&gt; Yes, absolutely. So, I think that the
+housing market downturn that began in
+the early to middle part of 2022
+was the true test for the company and
+its approach. Just for context, mortgage
+rates quickly spiked from under 3% to
+over 7% and home sales precipitously
+dropped from about 6 million to around 4
+million, a level that it's been at for a
+few years and really the lowest level in
+30 years. And so Compass needed to react
+quickly and it did. By the middle of
+2022, it had paused market expansion. It
+stopped M&amp;A. It had to execute three
+rounds of layoffs within a year. It
+eliminated all agent incentives. And as
+part of this brought on a CFO Coloni
+Reitz who played an instrumental role in
+decreasing the level of opex that the
+company had from a level of 1.5 billion
+run rate to around 850 million. So
+nearly cut in half. But the company
+actually didn't have to stop investing
+in its platform. Around the same time,
+actually the full capabilities
+for an agent to be able to do their
+entire workflow on the platform actually
+coincided with this time frame. By late
+that had been rolled out, both the
+company and the market could see the
+validity of the model. And perhaps
+surprising to some, without those
+incentives, and not just incentives to
+have agents join, but they were having
+these multi-year incentives roll off.
+And they were able to maintain organic
+agent growth and very high levels of
+retention around 90% for principal
+agents. And really the
+technologyoriented
+value prop was able to kind of stand on
+its own by early 2023.
+The company had sort of been proving out
+this new ability and had started to get
+to a point where it was operating around
+free cash flow break even and was really
+positioning itself to go back on the
+offense after being really focused on
+the cost cutting and stabilizing the
+business in this new environment.
+&gt;&gt; Yeah, it's a really interesting time
+period. I think we're going to look back
+on 22 and 23 and reflect on companies
+that swallowed the pill, got operating
+hygiene, and kind of reoriented
+themselves to an environment that wasn't
+just pure capital influx and spend on
+whatever you want to spend. And even
+though we've seen some of that come
+back, it's just very interesting to see
+who's emerged with some more operating
+efficiency. If you were to just take a
+snapshot of Compass today, I think of
+them as certainly a very successful
+platform just in terms of the properties
+they get and this is in very particular
+regions specific to me. But do you have
+any headline numbers just around their
+market share or anything else that could
+give a sense of the size and scale today
+in the market?
+&gt;&gt; Compass operates the largest real estate
+brokerage in the US by sales volume. It
+has about 6% market share on a gross
+transaction volume basis. It has around
+21,000 principal agents and nearly
+40,000 total agents across about 38
+states in Washington DC. In 2025, it's
+expected to generate close to $7 billion
+in revenue and around $200 million in
+free cash flow. Beyond its coreowned
+brokerage, it recently expanded its
+capabilities by acquiring Christy's
+International Real Estate in January of
+this year. That's a high margin global
+franchise business that gives
+independent brokerages a way to join
+Compass without selling outright to
+them. It's also built title and escrow
+operations in a majority of its markets.
+and it has a mortgage joint venture
+that's still very early stages and not
+financially meaningful, but over time it
+could be very impactful to the financial
+profile of the business. You certainly
+confirmed what I thought just in terms
+of market share. If they're the largest,
+that speaks for itself. And then just
+some numbers because I know it is
+important. We'll get into more detail.
+The targets that they have seem pretty
+grand and ambitious. Can you lay those
+out? And we'll talk more about them as
+we go on just to set the ground.
+&gt;&gt; I think one of the unique
+characteristics
+that I didn't highlight was really that
+it's a national brokerage that actually
+has a high level of concentration within
+major markets. So, it's not everywhere,
+but it has a very strong presence in
+almost all the major cities within the
+United States. So in the middle of 2024,
+the company set a strategy 30 for30
+whereby they wanted to grow its average
+market share in its top 30 markets to
+30% on average by the end of 2026.
+At the time that they made that
+announcement, they were probably about
+halfway there. With the growth and the
+M&amp;A that they've done since then,
+they're just over 20%, I believe. And so
+I think that the real estate is a local
+business and for them on this basis the
+average number two competitor tends to
+be in the singledigit range. And so with
+the capabilities that they've been
+building and the local market scale plus
+its national presence, there likely
+becomes certain elements of tipping
+points where it becomes more easy to
+attract more productive agents on a
+local market basis as they become a
+bigger and bigger market share presence
+within those markets. It's interesting,
+especially on a relative basis to a
+number two or number three to see what
+they're doing. I have this association
+with Compass for luxury listings or at
+least expensive listings. It might be
+related to just the markets that they
+operate in, but do you think that's a
+fair categorization of Compass or am I
+oversimplifying based on the markets
+that they're operating in?
+&gt;&gt; I think that that's generally fair. I
+would sort of categorize it more as
+premium. I think the average price for a
+transaction for them is around a million
+dollars. And over time, their strategy,
+as we kind of hit on briefly earlier,
+had been to launch in markets, attract
+the highest producing agents that were
+most influential to enable the company
+to attract agents at lower levels of
+productivity that have better commission
+split dynamics. And that can kind of
+cascade as the business and its presence
+grows. And so I think that in certain
+markets it has a higherend positioning,
+but over time it's become more premium,
+if that makes sense.
+&gt;&gt; Yeah, it definitely does. Yeah, feels
+like semantics in some way, but it
+actually means a lot, especially as they
+expand into other markets and you're
+going to have this natural thing about
+where the share opportunity is on the
+industry as a whole. We were talking
+prior to the episode just about all of
+the nuances that make the real estate
+industry real estate industry and the
+brokerage model who they're impacted by.
+Can you give your best breakdown in
+terms of the major players particularly
+as I think about the associations
+and the organizations that tend to run
+real estate behind the scenes. I know
+they exist but however you would best
+categorize and place them within the
+industry just to give some background on
+the market that they're operating in.
+&gt;&gt; There are a few major players to
+understand that dictate the structure of
+the industry and play an influential
+role on how business is conducted. So
+you've got the National Association of
+Realtors or NAR which is the largest
+trade group in the entire country. It's
+got about 1.5 million members. To access
+MLS, the multiple listing service, the
+essential database that agents rely on
+to share listings and work together, you
+must be a member of local, state, and
+national realtor associations.
+That mandatory membership effectively
+ties agents into rules that actually
+make the trade group more of a regulator
+for the industry than many other
+industries. That's really critical to
+understand. And just a couple other sort
+of relevant data points. The MLS is not
+a national system. It's a patchwork of
+over 500 local databases. About 80% of
+them are controlled by realtor
+associations.
+For a long time, there was actually a a
+built-in compensation offer where a
+listing agent would actually show the
+offer to the buyer's agent on the
+commission that they would receive as
+part of a transaction. That was just how
+the industry worked. So, a buyer wasn't
+actually paying their agent outright.
+And then the last players to understand
+are the consumerf facing portals such as
+Zillow, Realtor.com.
+They get their listings data from MLS
+and then turn that into customerf facing
+experiences. They're generally
+monetizing leads to buyers, agents. And
+the key thing to kind of understand
+about all of this is this system
+basically supported tens of thousands of
+independent brokerages to compete and
+created a dynamic where there's been
+very limited consolidation. The top 22
+brokerages in the country control about
+25% of the volume. Around 60% is done by
+firms with under $1 billion in gross
+transaction value. And just as another
+frame of reference, commercial real
+estate is very different. It doesn't
+operate under this structure. And there
+you see a handful of large firms that
+are much more dominant. Yeah, it's
+interesting with the 6% commission fee
+or maybe that's the cap of the
+commission rate that could be paid on a
+residential purchase. Is the governing
+body nar in that case? Where does that
+originate from? and we can get into a
+little bit more of the nuances to it.
+&gt;&gt; I think there's a little bit of a
+misnomer around the 6%. The average
+commission in the US hasn't been at that
+level for quite some time. I think from
+through 2020ish it gradually came down
+from around 5.3% to closer to 5%.
+Interestingly, it kind of ticked up a
+little bit in 2023. The listing side has
+kind of remained 3%. that's standard in
+most markets. Whereas the buy side has
+been really more of the area of
+pressure. And so there's been changes
+that have occurred that were headline
+grabbing in 2024
+that really impacted the way commissions
+are set. They're always set by the
+agents, but there was essentially a
+landmark case. It's a bunette that
+challenged the system that I described
+earlier in terms of that offer
+compensation within MLS. And basically,
+there was a settlement that occurred
+that created changes that happened
+starting in August of 2024 now where
+that offer of compensation doesn't exist
+in MLS. And sort of importantly, there
+are written agreements that need to be
+entered into between the buyer and the
+buyer's agent that have sort of created
+some dynamics that are influencing some
+of the market share dynamics I hit on
+earlier, but really what we're seeing as
+an output of this is not necessarily
+what people expected. I think the
+commission rates have remained very
+stable as have the buyer representation.
+What's occurring is a shift towards more
+professionalism. It's hard to exactly
+tease this apart because the industry's
+been in this trough period, but buyers
+agents are really having to articulate
+their value to their client in a way
+that they really didn't have to before
+and compete to win on business.
+Generally speaking, if you're
+representing a seller, you're providing
+them with a listing presentation. you're
+competing with other folks who are
+articulating their value in a way that
+wasn't historically done on the buy
+side. Now that is much more relevant and
+sort of accordingly. If there are
+brokerages that can convey value to the
+agent and to the client in this new
+setting, then that is also a powerful
+dynamic that's creating more market
+share shift to the most professional
+agents. And just a couple interesting
+tidbits to end on here is it's kind of
+remarkable that 70% of agents who pay
+MLS dues and were affiliated with a
+brokerage in 2024 did zero transactions.
+So, it's really been a market that is
+shifting in certain ways. And I think
+firms like Compass are in a position to
+potentially absorb market share along
+the dynamics I described, but also it's
+more obvious to brokerages that
+companies like Compass can actually
+enhance their value proposition and the
+combination of them can be compelling.
+It's very interesting on the agent side
+to hear that 70% data point because I
+think it tells the story of what many
+people think of which is a great agent
+is worth their money multiple times over
+but the large majority I think are
+viewed as commodities and I don't know
+that it's that hard to argue against
+that on the buying side specifically.
+One point of clarification, the previous
+model, if I'm the buyer of the house,
+you know, I buy the house, I don't think
+about commissions. It was the seller who
+entered an agreement with the listing
+agent and then that listing agent
+negotiates with the buying agent to
+split or decide on that commission.
+Under the new model, if I'm buying the
+home, I'm entering an agreement upfront
+about what commission I will pay on
+that, and then the seller's doing
+essentially the same thing on their
+side. the cooperation dynamics that
+still enable the seller and the payment
+of the commission to not be a burdensome
+factor for the buyer actually still
+exists in the vast majority of
+situations. That was kind of an open
+question. That dynamic, it's still very
+cooperative in that way. It's really
+just that there was the potential for
+like steering around whether or not
+you're going to pay the buyer's agent a
+certain amount. And so I think at the
+end of the day the buyer's commission
+could potentially be more around 2%.
+3% and there are dynamics where there's
+just more negotiation that's happening
+versus things not even being front of
+mind on the buy side. Yeah, I think
+you've teased this out and it's
+something we were discussing before
+which I did not quite appreciate is the
+importance of listings is kind of a core
+asset or core differentiator within this
+space. Can you riff on that a little bit
+more about the importance of that within
+the compass model and how they just
+operate differently when it comes to not
+only getting listings but marketing
+those listings and everything that goes
+into their approach which might look
+different than other brokers. This is an
+area that has gotten increased focus
+more recently. Ultimately, inventory is
+power in residential real estate. It's
+what drives everything from agents to
+platforms like Zillow. Without
+inventory, there isn't business to
+conduct. What's relevant to what you're
+asking about is Compass has taken a
+stance on pre-arketing. This sort of
+fits back into the industry construct
+that we were talking about earlier in
+terms of
+NAR MLS rules around listings. And to
+level set a little bit, there's research
+that shows that there's real demand for
+offMLS marketing. The Illinois MLS had
+on average 21% of its volume that
+eventually went to the full market go
+through its internal private listing
+network that's available to all agents
+and brokerages. And there's reasons why
+consumers want to be able to do this.
+their home may not be ready to be shown
+yet. They want to understand price. In
+today's market, around 40% or so of
+listings are dropping their price. On
+MLS and the portals like Zillow, it's
+tracking days on market. It's tracking
+price drops. Compass is taking a
+position that it wants to be very
+homeowner friendly and facilitate this
+in a manner that provides flexibility to
+customers. Even Zillow's studies have
+found that 31% of sellers want to try
+pre-arketing efforts. And so what
+Compass has done starting last year is
+create a program around this. It's
+called the three-phase marketing
+strategy. It's meant to give sellers
+control and also buyers to have some
+early access to homes and that can be
+relevant in a market where there's been
+a der of inventory that's come up more
+recently. But the three phases are as
+follows. There's the private exclusive
+phase. The aim is really to validate
+pricing and make adjustments before
+going to the public and MLS without
+being exposed to those metrics I
+mentioned earlier. that's accessible to
+Compass agents as well as their buy side
+clients as well as other brokerages.
+There's just been rules that have
+constructed in the industry that prevent
+a certain amount of marketing as it
+pertains to this phase of marketing. But
+Compass has a book that's available at
+all of its offices that make it such
+that those listings are available to
+anyone that's aware of them. And when
+they have a high level of market share
+in a given market, it's not a secret to
+folks that are participating in the
+industry that these listings are
+available and the outcome for sellers
+can always benefit from co-broking. So
+there's no effort to not cobra. The
+second phase is coming soon. This is
+where they can potentially generate
+early demand on compass.com.
+Build buyer interest and all of those
+inquiries are going to the listing agent
+who knows the property really well.
+That's made searchable to consumers and
+agents across the country. And then the
+third phase is launching on MLS and the
+public portals. And at that point,
+ideally, you have a really strong sense
+for pricing and confidence in kind of
+how you're going to market so you can
+get the best possible outcome. And it's
+just worth noting that homebuilders,
+this process is meant to sort of reflect
+what home builders do to create demand.
+And they're very sophisticated repeat
+sellers of property who aren't really
+putting all their inventory on MLS. Just
+to quickly hit on this, like it's been a
+little bit of a lightning rod for the
+industry, but there are a number of
+markets that facilitate this type of
+program really well. And in Q1 about 50%
+of Compass listings went through this
+process. 94% of them still hit MLS. Like
+the purpose is not to sell the property
+in the private market, but the seller
+can have varying degrees of what they
+want to do in terms of the effort that
+they put in to sell the house. And if
+you can get top dollar and you don't
+want to put in extra effort, that should
+be the seller's discretion. They're
+actually getting better pricing outcomes
+for their customers. Listings using the
+strategy sold for about 3% more on
+average. And offers were accepted 20%
+faster, about 8 days quicker to close.
+And there were only 13% of these
+listings with price drops versus 40%
+more broadly. But just to sort of end on
+this topic, other people in the industry
+don't appreciate this practice and have
+been voicing concerns that I think are
+often times informed by their position
+in the industry. And I just kind of
+underline that there are markets like
+Chicago that have been operating with
+private listing networks as part of MLS
+for over a decade. There are other
+markets that offer similar things.
+Austin literally just this past week
+implemented something similar. There's a
+notion here basically that there's a
+place in the market to serve this need
+that is not in violation of fair housing
+and is also not meant to be
+double-ending deals. It's really to
+provide a better outcome for sellers,
+but it challenges some of the business
+models like MLS and some of the portals.
+And so there's been a lot of outspoken
+chatter about it.
+&gt;&gt; I can certainly understand why MLS would
+challenge it. For a portal, we'll use
+Zillow because I think they have
+publicly uh gone against this. If
+Compass is making these available to
+other brokers, then other brokers would
+have access to these opportunities. Is
+Zillow's challenge that they rely on the
+MLS listings for what goes up on Zillow?
+&gt;&gt; Just to step back, I think as a portal,
+you want access to any and all listings
+that you can get. You want to be the
+one-stop shop to search for homes. So, I
+think that's somewhat obvious. If you
+just dial back the clock on the
+industry, MLS's didn't really invest in
+the same way that Zillow did to be able
+to really be that source for searching
+and support the customer in the way that
+they wanted to. And really what's ended
+up happening is the listings are going
+to Zillow and the listing agents aren't
+really necessarily benefiting all that
+much because instead of getting direct
+leads to them which can help them grow
+their business over time, those leads
+are being diverted to buyers agents. But
+basically the background here and why
+it's so important to Zillow is there was
+a rule that came into play in 2019
+called clear cooperation
+and it basically forced listings into
+MLS within 24 hours of any public
+marketing. And so there was activity
+that was happening leading up to that.
+It was even coined by some as the
+compass rule because in areas like San
+Francisco, Compass had coming soons
+where in a market where they have a very
+high level of market share, they end up
+being a place to be searching and it can
+compromise some of these structural
+dynamics that we've talked about
+already. So basically in March of this
+year in 25 after these settlements
+occurred in 24 after increasing levels
+of pressure but just keep in mind that
+there's local level MLS that makes it
+such that I reference Chicago there's
+been different ways to go about things
+in a compliant manner but basically it
+came to a head in March when they made
+some changes around clear cooperation
+that created some flexibility around
+pre-arketing in response to that. Zillow
+created its own listings rules that
+basically went above and beyond what had
+been the clear cooperation rules and
+basically said if you list your property
+publicly and don't put it into MLS
+within 24 hours, your listing will be
+banned from Zillow. that phase two
+encompasses three-phase process really
+comes under pressure because you're
+basically needing to tell a client or
+the client needs to be aware if you're
+going to market that property and you
+want it to be on Zillow, you can't do so
+for more than 24 hours. So basically the
+ability for a brokerage to create an
+ability to be a source of search is
+impacted by this somewhat. But I think
+the key thing to understand partially
+about this is Zillow, it's a fight over
+the top of funnel. Encompass is suing
+Zillow in an antirust lawsuit. And so
+there's aspects that we can get into
+that. The stakes are pretty big, but I
+would say the three-phase marketing
+process can continue unabated. It's just
+that phase two that's necessarily
+impacted. And to the extent that
+consumers choose to market their
+property and not comply with that and
+compliance and enforcement of that from
+Zillow's perspective might be kind of
+tricky. It could bifurcate the market
+particularly with higherend homes where
+people don't want their listings on
+Zillow for privacy reasons or otherwise.
+And then you've also got dynamics like a
+newer portal homes.com that's owned by
+CoStar Group that has a very different
+business model where it's not buyers
+leads, it's advertising for a listing
+agent and they're basically providing
+free advertising boosts for listings
+that get banned from Zillow. So it's a
+very interesting dynamic here that
+ultimately I think if Compass wins out
+or there's just increasing levels of
+flexibility in terms of pre-arketing
+that likely acrru to Compass's benefit
+if the status quo persists nothing
+really changes and so that's kind of how
+I see it right now. Yeah, it's certainly
+an interesting dynamic and it's hard to
+separate fairness for the consumer from
+companies and what benefits them.
+Certainly, you can understand it from
+all sides of the equation. I guess just
+with Compass, do they ever split out how
+much of their sales are done where it's
+outside brokers are the purchasing
+agents on their listings? Like, is that
+anything they ever disclose? because I
+do think it's one of those hot topics
+where it's very easy to pin that as the
+thing you want. You want to get both
+sides of the commission. You know, if
+you're an agent and that's an ideal spot
+to be in, do they give you any sense of
+what that looks like within their own
+business?
+&gt;&gt; There's not direct line of sight into
+that. I just go back to the three-phase
+marketing strategy. It's not the one
+phase marketing strategy. And 94% make
+it to MLS. Even those that don't, I
+believe Compass has disclosed that the
+majority of those that don't make it to
+MLS are co-broked. You're talking about
+a low singledigit percentage of the
+overall transactions that are done
+privately and double-sided. And so, I
+think that that talking point that you
+raise has been a key issue that folks
+have taken. I would just reiterate
+though as a home seller, you're looking
+to execute on your objectives and it's
+not the case that Compass is withholding
+the listings from other brokerages.
+There's just certain rules that actually
+make it around that public marketing
+dynamic that it's one to one to other
+brokerages or that book that exists in
+Compass's offices. So there are regions
+like Illinois that have that private
+listing network where it makes it
+available to everybody and Compass is
+very supportive of that being the
+construct that works everywhere. It's
+just a matter of these local geographies
+choosing what's best. And I think it's
+not always clear to just say we
+represent what's best for the consumer
+if you're Zillow or if you're another
+constituent in the market because there
+are different needs and desires for
+different constituents that are selling
+their homes. And so I think it's
+probably likely that there needs to be
+some level of flexibility that's created
+in the industry. And I think places like
+Illinois with Emrad create a positive
+construct where I think the other
+dynamic that flows from what you're
+asking about is just this idea that oh
+man, we'll have this market where
+listings aren't available in a
+centralized place and all of a sudden
+this great market that was really
+transparent ends up going into this
+really much more difficult buyer
+experience. And I just point to the
+areas like Illinois and even other
+markets that are more flexible to this.
+There aren't huge issues in places like
+that in terms of accessing the
+inventory. So I think a lot of this is
+overblown to be quite honest.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. It'll just be interesting to see
+what flows from all this. And I think
+one of the things that's probably worth
+pointing out here is that Compass and
+Robert Raffkins founder CEO like they
+believe that they work for their agents
+and their efforts to
+create what they believe to be common
+sense frameworks that enable their
+clients and agents to have successful
+outcomes. is a little bit of a rallying
+cry for anyone in the industry that has
+similar beliefs. There are definitely
+people that don't agree with their
+approach and I think that there's room
+for different models to operate in
+different ways. But what Compass has
+seen is their agents in listings
+presentations to go to the client and
+say, "We're going to offer you this
+capability that is built into our model
+and makes it easy for you to go about
+this in a flexible way." A lot of other
+agents, particularly ones at brokerages
+that are saying don't do this, are to
+your point earlier, you kind of use this
+commoditized. It helps Compass stand out
+a little bit and win listings in a
+manner that I think is important because
+agents are competing with each other at
+a local level on an everyday basis.
+&gt;&gt; Yeah, it feels like a premium experience
+without a doubt and I certainly see it
+out there in the market. I found myself
+in some of these distribution lists and
+it's noteworthy to see how different it
+looks. I want to transition a bit just
+into the model itself. I think it's
+fairly straightforward. They generate
+fees based on commissions. I would
+imagine that's going to be tied to the
+housing market. Just thinking about
+revenue and sales and putting aside the
+market share changes. Is that the right
+way to think about a real estate
+brokerage business is correlation to the
+housing market?
+&gt;&gt; Yeah. Compass's core business is an
+owned brokerage versus a franchise
+model, which they now do have through
+Christy's. But the owned brokerage is
+really the following drivers. agents
+times their productivity equals the
+number of transactions that they're
+doing. Compass has actually taken
+organic market share in all 17 quarters
+it's been a public company. M&amp;A is an
+additional lever for them. And then
+those transactions times the average
+home transaction price times the agent
+commission rate and then the commission
+split between the agent and the
+brokerage is really the gross profit
+stream that is so critically important
+to understanding Compass's business
+model
+&gt;&gt; on the commission rate, the brokerage
+split. Is there just a right way to
+frame what that looks like in the
+industry? How Compass may differ? I know
+it's going to be nuanced based on agent
+and all of that, but just some ballpark
+in terms of the gross profit percentage
+that Compass would take home net of
+those commissions.
+&gt;&gt; Yeah. So, on average for Compass, it's
+roughly 82% going to the agent, 18%
+going to Compass. To your point though,
+there's a range around that on an agent
+by agent basis. I believe there's around
+a 9 percentage point difference in
+splits for certain production levels.
+It's important to understand the mix
+dynamics here in terms of as Compass's
+agent grows, it's likely mix shifting
+away from the top 10% of agents towards
+the top 50, improving overall margins
+without actually changing commission
+splits between the constituents.
+Industrywide
+agent splits had been trending in the
+favor of the agent for quite some time,
+but they've actually reached a level of
+stability, I believe, for a few years
+now since really the housing downturn
+pulled out some of the dynamics around
+the ability to do that, particularly in
+the area of the market where Compass
+plays. And I would also just say that
+there's other business model types in
+the space that offer even more generous
+splits and or caps. Those often come
+with less support, more out-ofpocket
+costs for tools, marketing, training.
+Those models will likely appeal to a
+certain segment of agents, but clearly
+not all of them. And what Compass is
+really aiming to do is transcend the
+value proposition away from just that
+economic split to be around capabilities
+that drive performance for the agent to
+grow more profitably. And so that would
+sum that up.
+&gt;&gt; I think it sells the point on the
+marketing plan and everything that goes
+into that as well. If you can say if
+you're a Compass agent, everything's
+going to feel premium for your
+customers, it does change the dynamics
+and doesn't make each brokerage house
+feel like a commodity. On the 82, do you
+have any context for what the earliest
+agents were looking at in terms of
+commissions just to get a sense of how
+much maybe that's come down over time? I
+would probably just frame it as it could
+be extremely lucrative for founding
+agents in a market and there were often
+multi-year financial incentives that
+were part of the conversation in the
+early days of Compass being a public
+company that needed to expire
+effectively. And that was the concerns
+around what that would mean to the model
+were very front and center from an
+investor's perspective in 2122
+for Compass because no one knew what the
+level of retention and really what the
+stable level of commissions
+that would enable the company to
+continue to attract agents would
+And so I think that that resolved in
+that downturn environment that we spoke
+of earlier and has remained in kind of a
+healthy place. Just to reiterate
+something, I think ultimately what I
+think what they can do is go to market
+with competitive splits against
+traditional brokerages that offer
+support but provide extra value that
+others have a difficulty replicating.
+&gt;&gt; Yeah. rather than just compete on price
+in theory for your talent. It makes a
+lot of sense on the mechanics of
+commissions. I know it differs from one
+brokerage to the next, but are there
+tiers like your first 1 million in
+commissions are at this rate, above
+that, they're at this rate. Is there any
+change just in terms of how the
+commission structure works in one
+direction or the other?
+&gt;&gt; There certainly are tiers at certain
+players in the industry. I think it can
+actually be pretty bespoke by agent and
+by the level of volume that they do. The
+frame of reference for Compass is just I
+think they publicly stated there's a 9
+percentage point differential between
+certain bands that is really the way to
+think about the mix shift over time.
+Makes sense. You mentioned before free
+cash flow generation in recent quarters
+or years. What does the operating
+leverage look like for this business?
+Cuz I think it had the connotation of
+taking in a lot of capital, spending
+that capital, and then some seems like
+there's been some inflection. But is
+there inherent operating leverage in the
+business? How do you frame that or think
+about that as an investor? And if you
+want to put some numbers to help explain
+or contextualize, that's helpful. For
+2025, the free cash flow margin percent
+of revenue will be roughly 3% for the
+business. Roughly $1.2 billion in gross
+profit this year. That's at a high teens
+margin. And there's roughly a billion in
+OPEX and that includes almost $200
+million of annual technology spend. I
+think it's actually somewhat easy to
+contextualize
+the operating leverage and the
+trajectory of the company based on the
+discipline and framework that they've
+put around it. So they've committed now
+for I believe several years at this
+point a and into the future to keep OPEX
+growth at 3 to 4% annual increases. And
+there's just inflationary dynamics that
+feed into that. This quarter they
+actually announced some cost savings
+that while somewhat moderate flow
+directly to the bottom line and can be
+meaningful to profit dollars. I think
+that they've they really found religion
+around cost discipline in 2022 and
+there's actually more potential for this
+over time. Just think about the use
+cases around document processing of
+transactions. There's a good amount of
+human intensity as it relates to this
+that could come out of the system over
+time with the advent of new technology.
+And it's also worth noting that they've
+acquired a company called App Properties
+that came with the Christy's business.
+They generate a high singledigit Ebida
+margin and they're really great
+operators. And so I think the idea
+really is Compass can be the lowcost
+operator for owned brokerage. And I
+don't think that investors really think
+of Compass in this way. And then just
+depending on the rate of growth with
+production basically at that high teens
+margin which can grow with the mix shift
+in agents as well as the attachment of
+title and escrow and potentially
+mortgage over time. the incremental free
+cash flow margins can be in the double
+digits and that can make it such that
+not too high levels of growth can result
+in very rapid free cash flow growth.
+Yeah, it's very interesting when you
+find these inflections or trajectories
+that are clearly moving in a different
+direction than they were once in on that
+2 to 3% opex growth and more looking at
+the technology spend. Does that
+encompass what you were mentioning at
+the very beginning in terms of investing
+in the technology for the platform? I
+don't know where this would fit whether
+it would be in an opex line, a capex
+line, wherever it might be, but how do
+you frame that and the capital that
+still needs to go towards that effort of
+technology investment?
+&gt;&gt; So, it's that close to $190 million line
+that's inclusive of investment in new
+capabilities. I think what's important
+to understand about that is the industry
+is at a trough level and there's been
+this trend in commission splits and just
+the level of scale necessary to invest
+that makes it such that they stand alone
+in their ability in their their stance
+on investing. And so others are really
+starved in an ability to do that and
+really don't have a structure to even do
+that. It's really a hodgepodge of
+thirdparty software tools. I think where
+this is going for Compass is actually
+potentially really exciting because they
+own all the software that's all
+interconnected and all of the data which
+makes it such that they've announced
+some capabilities around AI that are in
+beta stage that can actually end up
+taking on a lot of the manual tasks that
+an agent will do and and even
+proactively suggest next best actions
+that can transform the agents daytoday
+life in a manner that could be very
+differentiated and hard to replicate by
+others in the industry.
+&gt;&gt; Yeah, very interesting. I should have
+looked this up beforehand, but I have to
+ask with this particular cohort of
+businesses, stockbased compensation is
+always a focus. What does that look like
+here? Is it a point of contention from
+the market? Where does that stand?
+&gt;&gt; Where it stands is it's basically a
+fixed cost now in the business and their
+approach to it is very similar as
+overall opex such that it shouldn't grow
+that materially from here on out. What
+that means is free cash flow per share
+should be very attractive. The name of
+the game for them is really bringing on
+productive capacity. They've designed
+their business now in a way where they
+can bring on agents, teams, brokerages,
+the franchise affiliate model. They kind
+of welcome folks joining their platform
+in any way that best fits them. It's
+that pace of gross profit growth over
+the relatively fixed cost base including
+the SBC. That's the framework here in
+terms of the growth and achieving some
+of those numbers that you laid out
+before about that 30% in the 30 markets.
+You have organic, your agents continue
+to chop more wood and capture some of
+it, but it sounds like M&amp;A has been a
+part of the DNA here for a while. How
+much of the growth story do you expect
+to come from acquisitions of brokerages,
+brokerages, houses, whatever it might be
+in terms of how they target?
+&gt;&gt; I think it could be very material. Just
+to kind of reiterate, the industry is
+very fragmented. There have been changes
+and we're in a trough environment that
+make it difficult and make it that the
+propensity for folks to want to enhance
+their value proposition to be able to
+grow is very real. And so you'll see
+announcements somewhat often of smaller
+brokerages joining really getting from
+here to 30% market share will require
+meaningful M&amp;A. They've acquired
+meaningfully sized brokerages in
+Tennessee in Louisiana. The at
+properties Christy's deal that was very
+sizable that came with title and
+mortgage joint ventures. That multiple
+was nine times IBITA. With synergies
+that are running ahead of plan, that
+should bring it down to five to six
+times. In general, they're targeting
+four to six times IBITA. that could fall
+to two to three times post synergy all
+while keeping opex flat. And there's
+also a dynamic where there are quote
+unquote walkover situations where a
+brokerage can shed its costs and join
+Compass. And so I think that it's a very
+central part of the go-to market
+strategy. And I think that if you step
+back and think about the advantages that
+the company brings, plugging in
+productive capacity actually has the
+ability to strengthen the overall value
+proposition and actually incent people
+to join. Interesting. And then on the
+risk side, I guess you just have general
+macro risk. We talked before about
+housing market and to the extent that
+you had major downturns, it would
+obviously impact the business. But is
+there anything else that stands out? It
+feels like what they're doing, I
+wouldn't expect a competitor to try to
+capture all this money, spend on tech,
+spend on brokerages, maybe nip at the
+heels a little bit, but is there any
+other risk that really stands out to you
+besides maybe some of the more obvious?
+&gt;&gt; The foundational assumption is that the
+agent remains central to the home
+transaction. I think that in years past
+there were companies and investments
+made to disrupt that and that has
+largely not panned out. Even in a
+largely digital world, close to 90% of
+home buyers use an agent in 2023. The
+listing agent is probably even more
+structurally sturdy. That 89% reference
+is up from 83% in 2010. The truth is is
+that residential real estate
+transactions are an infrequent high
+stakes situation where consumers
+overwhelmingly prefer expert guidance. I
+think where there's some risk to this is
+in a world that has increasing levels of
+AI capability, but Compass is basically
+on the verge of arming its agents with
+AI powered capabilities that should
+actually be both offensive and
+defensive. And so I think that that risk
+is there, but has not shown to be overly
+concerning. Then there's execution risks
+on just their ability to grow and retain
+productive agent capacity. They need to
+continue to deliver meaningful value
+with technology, training, support,
+differentiate themselves beyond
+commissions. The AI functionality here
+could be very impactful to the overall
+value proposition and the productivity
+to agents. M&amp;A, as you referenced
+before, the execution there matters. I
+wouldn't say that there's huge amounts
+of integration risk associated with
+this, but like culturally,
+operationally, they want to bring on
+folks that stay and perform. And the
+other risks are relating to this
+pre-arketing flexibility. I'd say that
+the trend has been in the direction of
+greater flexibility.
+to the extent that that went the other
+direction that would not help them
+differentiate. And then from a macro
+perspective, housing turnover and home
+prices are really key. At today's level,
+around 4 million existing annual home
+sales, that's a 30-year low. Midcycle
+about 33% higher. I think that there's a
+lot more upside than downside there.
+There could be temporary dislocations,
+but mortgage rates are important. A
+recession without inflation could
+actually help mortgage rates. Consumer
+sentiment and employment are also key,
+but I think that we're kind of at a
+trough cyclical level. And so there's a
+lot more upside than downside from that
+perspective.
+&gt;&gt; A lot of points in there. I think the
+agent retention and attracting the best
+agents and even the dynamic of having
+30% of a market means some agents in the
+same territory. You can definitely get
+synergies from working together, but you
+can have some fierce battles as well
+over some of these things. But it's an
+interesting thing to monitor and I think
+you've teased out the importance of that
+in terms of their mission really well.
+This has been very interesting. It's a
+name I will admit I had a very specific
+view on and as we've talked more and
+more it's opened up my mind into the
+reality of the situation. But we close
+out these conversations as you know with
+the key lessons that you can take away.
+What stands out the most to you from
+Compass in terms of a lesson or
+framework that you could potentially
+apply elsewhere?
+&gt;&gt; A few thoughts for a lot of investors. I
+think residential real estate brokerage
+triggers an immediate hard pass. Low
+margins, agent churn, regulatory
+uncertainty, all these factors are very
+understandable. But sometimes downturns
+reshape companies in ways that are easy
+to miss. Today compass is not the
+compass of a few years ago. The housing
+downturn forced it to find discipline
+financially, strategically, and the
+results are pretty consistent of them
+outpacing the market, growing free cash
+flow, increasing their margins, kind of
+a clear strategy forward that's
+relatively unique for the industry. The
+stock is up 4x from its lows. I would
+say that there's a few questions that
+come to mind that will dictate the
+future lessons learned. Has Compass
+already reached a tipping point where
+the strategy is already working and it's
+really just the pace at which it's able
+to grow that's the major question mark.
+Was the downturn for housing the best
+thing that could have happened for them?
+How much potential upside do these court
+cases that it's involved with have for
+the company? And what's the real
+downside risk? Has the trough
+transaction environment created an
+environment that allows them to stand
+out even more from its competition
+incenting them to join at greater levels
+than they would otherwise? What other
+brokerages are really competing on the
+same terms? And how are their trends
+looking relative to Compass? I'd say
+long term if they keep executing the way
+that they are and the market values it
+accordingly does that open the door for
+larger M&amp;A transactions and longer term
+if there's flexibility on pre-arketing
+and Compass is able to achieve its
+stated goals of market share could it
+evolve into a home search destination
+not just an agent platform and what
+would the economic
+situation look like then those are the
+things that I'm watching and I really
+appreciate the opportunity to have this
+conversation with you today. Matt,
+&gt;&gt; been a pleasure. Thank you again for
+sharing the knowledge and maybe teasing
+out the fact and fiction about a name
+like compass. So thank you again Jeff.
+To find more episodes of breakdowns
+ranging from Costco to Visa to Madna or
+to sign up for our weekly summary, check
+out join colossus.com. That's j o i n o
+ssus.com.
+[Music]

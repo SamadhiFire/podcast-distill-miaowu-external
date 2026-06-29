@@ -1,0 +1,1269 @@
+Kind: captions
+Language: en
+[Applause]
+Hi listeners, welcome back to No Priors.
+Today I'm here with Parker Conrad,
+co-founder and CEO of Ripling. Parker
+needs no introduction as one of the most
+admired founders in Silicon Valley.
+We'll talk about his founder redemption
+arc, why the conventional wisdom is
+wrong and the biggest companies are
+actually platform companies. the future
+of the SAS industry in the age of AI,
+leading teams with ownership, how he
+thinks about going public, and why you
+should only start a company if you have
+no other options. Welcome, Parker.
+Thanks so much for doing this.
+Yeah, thanks for having me.
+I think there's a very apt phrase that's
+the best revenge is massive success.
+What do you think you got wrong at
+Zenits that you've done differently at
+Ripling?
+You know, in some sense there there are
+kind of some superficial things. Um, but
+I think like mostly like Zenits failed
+for like dumb reasons. And so I, you
+know, I don't think there were like a
+ton of lessons. You know, there
+obviously there were sort of some of the
+specific things that kind of, you know,
+led it to not work that, you know, you
+you want to make sure not to repeat. I
+mean, we're like ex we try to be like
+really extremely extremely careful about
+compliance at at Ripane and regulatory
+compliance in particular. And then I
+think at at at Zens, we we pro we leaned
+way too much on on ops. And I think like
+rippling has as a result of that, you
+know, maybe just like a deep aversion to
+to that and may maybe actually to our
+detriment in some cases. Um, you know,
+where we perhaps should be willing to,
+you know, do things that don't scale um
+a little more, but we tend to go just
+really deep with with software at, you
+know, and and sort of not take on um
+sort of like operational, you know,
+builds and overhead. Um, so those are
+those are probably like the biggest
+differences. I think there are probably
+some other things that like I I took
+away from the experience. Um but they're
+they're much more general. I mean like I
+think um you know for a long time early
+on at at Ripling like you know I I felt
+like it was just much easier to manage
+like my own sort of psychology on this
+stuff. I mean it's it's just really
+hard. I always found it personally,
+maybe I was just sort of not cut out for
+this, but always found it personally
+like very hard to sort of deal with kind
+of the psychology of running a company,
+like the big ups and downs. And um you
+know, at Ripley, it was it was a lot
+easier because no matter how bad things
+got, I I sort of always had this thing
+where I'm like, "Oh man, this like just
+pales in comparison to how bad things
+were, you know, right at the end and
+just after I left at Zenits when things
+got like really very dark." And so
+there's this sort of like idea in
+Silicon Valley that you should learn a
+lot from failures. And I I I'm not sure
+that I agree a lot with I I think that
+actually people probably learn a lot
+more from their successes. And you know,
+companies fail for like many dumb
+reasons and like it's really hard to
+sort of take a lot of lessons away from
+that. Um and actually you probably learn
+a lot more by being at a company that's
+working and seeing like how how it
+works. I remember talking to you during
+that period and when you were just
+starting the company and I think you
+said something to me like starting a
+company sucks especially when you were
+you know not in Silicon Valley and you
+know the uh social sphere is good graces
+at the time you were sort of fighting a
+big reputational battle and you
+described it as like well you're just
+like sitting in your parents' basement
+again and like nobody believes in what
+you're doing that sucks what what made
+you do it anyway and start over
+I felt like I didn't have a lot of
+choices to be honest honest,
+you weren't going to work at Google.
+I mean, I didn't have an offer, you
+know, like I think I was personally like
+probably pretty radioactive and and I
+and I think it would have been hard for
+me to get get a job. I've started three
+companies and I think the first company
+I started because I was naive and didn't
+know what I was getting into and the
+second company I started because I sort
+of looked around and I'd been at the
+first company for like seven or eight
+years and kind of it was sort of
+worthless from a resume perspective and
+was sort of like totally unqualified for
+you know any job that wasn't sort of
+like entry level other than like maybe
+starting another company. And so I felt
+like h crap like this is I guess I'm
+doing this again. Um, and then the third
+time around it really felt like, you
+know, this was kind of um, there weren't
+really a lot of other options. And also
+this was kind of like the one path that
+that I sort of saw that maybe there was
+this sort of narrow ray of light when
+when sort of it felt like I was being
+buried reputationally that like okay if
+I if I could like build this specific
+company and make it really successful.
+you know, maybe there was some future
+world where um you know, there would be
+like a different story or a different
+narrative or you know, a chance to kind
+of like um you know, sort of tell my
+side of the story on it.
+So, in learning from you know, the
+success um and as and as far as
+Ripling's scale today, what have you
+learned about founder psychology um for
+yourself beyond perhaps uh well, you
+could go through like a really bad
+crucible and just assume it's not going
+to get that bad again? I mean I
+generally sometimes people come to me
+and you know say you know starting a
+company like do I have any advice like
+what do I think about and my advice is
+is pretty much always like don't do it
+and it's because there are a number of
+reasons I think that like you're you're
+you're most people are likely to fail um
+and I think that failure gets glamorized
+inappropriately um or or just
+incorrectly maybe um that you know you
+don't actually usually take away a lot
+from failure and it's extremely
+destructive. It's destructive. It's
+destructive to your psychology. It's
+destructive to your your marriage, to
+your relationships, you know, it's like
+it's it's really hard. And so, like,
+there there are a lot of costs to doing
+this that I think are generally in most
+cases like not worth it. And that's like
+why I tell people they probably
+shouldn't do it. Um, nobody ever follows
+that advice, of course. You know, if
+anything, it sort of like redoubles
+everyone's resolve. But, um, but I I do
+think that that's the case. And so I
+don't I don't have an answer for why for
+the sort of psychology piece. I think
+there are some people that are just like
+better at it um than than like I have
+been in in my career.
+I think of you as one of the nicest
+angry people I know. Um but I remember I
+I saw you it was maybe a year back and
+you told me that you were uh hopefully
+this is okay to say. You told me you
+were worried you weren't angry enough
+anymore to make Rippling as successful
+as it should be. And I just burst out
+like [&nbsp;__&nbsp;] laughing and said like,
+"Well, like my friend, don't worry about
+this. No one else is worried." Um, do
+you think being angry is important? I
+don't know if being angry is important,
+but I think that there were at least in
+the in early on for the first couple
+years of Ripling, um this sort of like
+um for me personally um this sort of
+idea that this was like the only way and
+this was the only thing and like this
+the sort of focus of that um you know
+was the first thing I thought about
+every morning when I got out of bed and
+it was the last thing that I thought
+about when I went to sleep and it was
+the thing that got me up in the middle
+of the night, you know, and and I I
+think that that was extremely
+motivating, like not maybe not like
+super healthy. It sort of got me through
+a bunch of like difficult years and a
+and a bunch of a bunch of sort of grind
+because it is a grind for a number of
+years. And I think like since then, um I
+don't remember this conversation by the
+way, but I think you know since then
+like there are a lot of other like
+motivations, you know, that are that are
+there like I I really love the product
+that we're building. I really like the
+people um that I work with. So, there's
+a lot that I enjoy about work. There are
+a lot of other sort of like positive
+motivations. Um um but yeah, you know,
+the nature of like some of that other
+stuff is it it starts to kind of fade
+over time, you know, that's just the
+reality.
+You um has the ambition of Ripling
+changed over time? It was always like a
+wildly ambitious company. You're like,
+"Oh, well, don't worry. we're going to
+take HR and IT and identity and you know
+do all of it all at once from the
+beginning. And I remember talking to one
+of your early engineers in the first I
+don't know if it was like the first real
+office or the first office but he was
+just like yeah this is like we're going
+to do Salesforce and I'm like Salesforce
+took a long time to get there and he's
+like we're going to do it all now. Um do
+you I tried to remember who this was. Do
+you do you uh feel like the ambition is
+the same or is changing ambition part of
+that? we've probably gotten better at
+articulating like sort of how we think
+about it. And so it started out with
+just this like this belief that like
+actually you all all of this these ideas
+that people had that the way to build
+great products were to like focus you
+know really narrowly was wrong. um and
+that actually the the right path was to
+try and build um like a coherent product
+suite um of seamlessly integrated and
+and interoperable applications. At first
+it was just like no no no we're going to
+do like HR and IT and there are these
+other things on the road map like you
+know sort of finance and stuff like
+that. Um, and I think over time, uh, we
+we probably got like a little bit better
+at articulating sort of why that why
+that was. And I think the the best way
+to express it is that I think that what
+what people get wrong about software is
+historically we've been building
+software in this way where if you f you
+focus really really narrowly on a very
+specific domain or application area um,
+and people think that you can sort of
+craft these arteasonal products and
+experiences that way. The problem that
+you run into is that ultimately
+companies end up having a lot of
+different applications and that creates
+a lot of problems for them. But also
+these arteasonal software companies
+really can't afford to invest in a set
+of underlying capabilities that are
+ultimately what make these applications
+powerful for their customers. Um, and
+that end up being repeated across a lot
+of these different application areas. So
+things like permissions and reports and
+analytics and workflow automations and
+approvals and like there's a set of
+underlying capabilities in in business
+software that end up being repeated and
+relatively conserved across this just
+broad array of domains. And if you're
+building a lot of applications, you can
+afford to invest much more deeply in
+those areas and make what are ultimately
+much better experiences for customers
+because of that. Um, and you simply
+can't afford to make that R&amp;D lift if
+you're building just one thing. And
+that's also like if you sort of look
+back like this isn't it's not really a
+new idea. It's sort of an old idea that
+that's coming again which is that you
+you know this is the way you know Oracle
+and SAP and Salesforce and Microsoft
+were built was that sort of idea of like
+building
+you know what what they would call
+platform you know that this underlying
+set of capabilities that you then you
+know use in sort of assembling all these
+different applications. Um and that that
+kind of articulation came later but I
+think the sort of the fundamental idea
+was like the company was deeply
+committed to building software
+religiously committed to building
+software in this way like right from day
+one.
+So that's not been as you mentioned like
+the conventional wisdom in building
+software startups for maybe a decade and
+a half now. Why do you think people miss
+that? Because as you say like some of
+the biggest software companies for a
+time and I' I'd add like Epic to that
+list, right? some of the biggest and
+most powerful companies like the reason
+they are so powerful is because they
+work in an integrated way and they have
+a lot to sell their customers but um I I
+have a hypothesis I was wondering if you
+do
+I think it's because of like the
+platform shift from like onrem to cloud
+created a bunch of opportunities for
+like a bunch of kind of like base hits
+um you know with SAS where you could
+sort of peel off like one one sort of
+application area from these sort of big
+onrem providers that you know just took
+a long time to move to the cloud and and
+get that really stood up and you could
+you could very easily actually get a lot
+of traction with something that was
+extremely narrow and that was like good
+enough for a period of time and I think
+what happens is over time the bar goes
+up in terms of what you need to be able
+to do for clients and it's like no
+longer enough to have like you know a
+standalone SAS application you are
+needing these other capabilities or
+these these deeper capabilities and that
+that sort of forces things like back
+together. Um and I think like that's you
+know sort of you know where where we're
+going right now. It's it'll be
+interesting to see you know with with AI
+like how AI because some people would
+argue like well AI is sort of like a
+similar kind of shift from like onrem to
+cloud and I I I probably don't agree. I
+think it's actually probably more
+centralizing as a technology. But that,
+you know, that's that's kind of my view
+on sort of what what triggered that at
+least for a period of time.
+I think that's right. I also think that
+there I mean, you know, the latter half
+of the SAS revolution has coincided with
+like a massive bull market, right,
+through like the 22 period, right? And I
+think that um if you had internet
+distribution of software to like
+mid-market companies that could buy
+online and rapidly, then Rippling might
+be the exception to this, but selling
+point solutions was a faster thing than
+getting people to shift core systems. Um
+and you could start selling with much
+less product. I think you guys worked on
+Ripling for a while with a lot of people
+before you really had something to sell.
+Um, and so I think it's also part of the
+investing cycle of like how quickly
+people expected progress from the
+investing community.
+I think it that's some of that is like
+the nature of like the the sort of bar
+raising where I think there was a period
+of time where you know yeah if there was
+no sort of SAS application for
+I don't know whatever like time tracking
+or expense management or something like
+that. Yeah,
+you could build a standalone thing for
+that and it would get like very rapid
+uptake. But as soon as you start to get
+the sort of bigger core systems that now
+just that comes standard in a SAS, you
+know, SAS way and you know in the cloud,
+not on prem software, suddenly it's like
+that's not good enough anymore. Um, and
+so there's like the window of
+opportunity that kind of closes over
+time, but eventually you need to find
+sort of new islands of product market
+fit that are a little bit further out
+and sort of maybe over the edge of the
+horizon. Um, and and I think that tends
+to be sort of something that solves a a
+a bigger and broader class of problem
+for customers that usually requires you
+to take on a lot more in order to solve
+problems that are often often about
+um sort of like internal business
+process coordination that that that do
+cut across a lot of these different
+applications and it's a lot less work
+for customers ultimately to be using one
+thing. How do you I'm sure this has
+changed over time but given platform and
+broad application surface area like how
+do you organize at Ripling given you
+don't have like contemporary many
+contemporary companies with a similar
+strategy um and you can't be like I'm
+going to do what Microsoft does at this
+scale. I mean I think we try and um I
+mean we have we have teams that build
+capabilities you know that are kind of
+the platform teams and then we have
+application teams that are building you
+know sort of hopefully out of the
+underlying platform capabilities
+applications and I think it's like it's
+really important to have like the right
+leader for these application teams like
+former founders are great um but also
+you need people that can like scale over
+time um as as the product grows um and
+so So I you know ideally in an ideal
+world you want someone with just like
+real ownership of those areas who could
+drive it because otherwise you get this
+um you get this sort of bottleneck at
+the level of executive attention where
+you know if I have to drive it it's just
+like I can't do that I can only do that
+for so many things and then inevitably a
+lot of balls get dropped and so you need
+people like in seat who can like really
+own it and run like the business
+holistically who can think about the
+product roadmap the marketing
+um you know the sales elements, you
+know, the competition you like the whole
+thing and kind of you know and
+synthesize it down to like okay here's
+what we're going to do. Um and that's
+that's always sort of the most
+challenging thing is to find those
+people. I mean we we try and hire a lot
+of founders at Ripling to make it work.
+Um but that's always ultimately the
+bottleneck.
+I don't know a single founder who
+doesn't feel like they could use more
+owners at their own company. Like do you
+um do you have any advice on how you
+filter for this?
+No. In terms of filtering, I think it's
+hard like people who have had that
+experience before. Um, I think it's uh
+some sometimes it just, you know, having
+a conversation with someone, you know,
+are they kind of naturally,
+you know, jumping to, you know, sort of
+conclusions and implications about the
+business and kind of getting there on
+their own or, you know, how much do you
+kind of need to lead them there? It's
+hard. And I think the difference is like
+it sort of comes out in um in like
+planning in like quarterly planning like
+some people show up to quarterly
+planning and there's like there's a list
+of they're like here are the things that
+we kind of need to get done from a
+product perspective and the list
+inevitably sort of like you know you
+unfurl it and it kind of goes like down
+the hallway and and some people are like
+okay well you know we're going to do
+about one quarter's worth of work. we've
+prioritized the list and one quarter's
+worth of work is like this much of the
+list and that's what we're going to get
+done. That's my job. And the problem is
+it's like now it's like my job to kind
+of make the ends meet because like that
+part that's not going to cut it. You
+know, it doesn't you know, we actually
+have to get a lot more done to make
+things work. And so now it's it's sort
+of my job to figure out like how do we
+sort of bridge this gap. Um, and what
+you really want is you want people who
+are going to find a find a way sometimes
+through seemingly impossible constraints
+where they're like this is the reality
+is is like it's not it's not like the
+CEO of the company who's like giving me
+this impossible task. Like the problem
+is like this is fundamentally the
+situation that we're in. Like this is
+the market reality. Um, you know, we're
+here, we need to be here, we can't win
+unless we get there. And it's it's a lot
+of that is like, you know, it's what you
+see at a startup because you're sort of
+doing a startup is somewhere between
+completely impossible and very very
+hard. And there's this just kind of very
+slim sort of like uh window between
+those two to make it out. And you know,
+companies often have to find early on
+ways to do seemingly impossible things.
+And you need someone in in these roles
+who's going to like find a way to make
+it work. So there's the innate, there's
+like finding people with that um
+mentality and ability and you know
+recruiting them. And then there's like
+trying to get people to act more like
+this, which I'm sure you do. I know that
+you do across Ripling. Uh when I was
+looking at the I think it was the series
+A, I called 20ome people that used to
+work for you. And one of the things that
+was like most universally loved was uh
+like I would follow Parker to the ends
+of the earth because he got more out of
+me than like I knew how to give in terms
+of my own capability and I got more
+done. What advice would you have for
+founders on making that happen? It's
+it's an amazing skill.
+I'm not sure I'm great at and that's and
+that's wonderful that that you've played
+you you've sort of couched it.
+I didn't say it.
+There probably other people that are
+like [&nbsp;__&nbsp;] [&nbsp;__&nbsp;] like you know just
+as drives everything way too hard.
+Totally unreasonable. Yeah. totally
+unreasonable. So I I have like two
+thoughts on this. One is I you know I
+genuinely believe that people are
+usually capable of so much more than
+they believe themselves to be capable
+of. People sort of grumble about the
+kind of um the work culture in Silicon
+Valley being sort of about this sort of
+grind kind of culture. And I think what
+that what that misses is it's not I
+think it's important to understand like
+it's not that I'm like you know why
+isn't everyone in the office like seven
+days a week or something like that. It's
+it's like look this is the situation
+that we're in and it sucks and like the
+reality is is like this is you know we
+need to kind of find a way to bridge
+this gap and I can kind of lay out the
+gap and it's not but you know I didn't
+create the gap you didn't maybe you
+didn't create the gap either it's just
+but it like it's there and we can either
+give up and go home or we can like try
+and find a way. Um, and sometimes when
+you kind of lay it out for people, they
+can really accomplish incredible things
+like like Patrick Collison has this
+great site that talks about these
+different organizations and how how like
+you know teams of people that like you
+know did the the moon landing in four
+years or like the sort of Vaness lane in
+San Francisco in like 12 or whatever it
+was and like just the the discrepancy
+between how some organizations are able
+to do so much in such a small amount of
+time and some organizations are Not. And
+and so I think the difference between
+like working really hard, you know, you
+know, some people think it's like, well,
+if I sort of kill myself, it's like an
+extra 20%. And and actually like the
+difference between teams that can really
+accomplish a lot. It's it's not like 20%
+on the margins. It ends up being like an
+order of magnitude in terms of what you
+can do. Um, and so I think you've really
+got to like ask for that and ask for
+people to try and find that within
+themselves. Like one very concrete
+example of this is I um a lot of times
+sort of I get um people like to come to
+to CEOs with with what I call like CO in
+the box options where they say look you
+can have A or you can have B like which
+one is it going to be? you you tell us
+like what the priority is and it's this
+sort of illusion of choice where you
+know the important decision has already
+been made because the important decision
+is like you know A or B versus like you
+know A and B and so reflexively I try
+whenever I get choices like that to sort
+of reject the premise and and be like I
+want A and B like why can A and B not
+coexist is does it violate like the
+second law of thermodynamics like what
+um and some you know one way of looking
+at that is like, oh my god, you know,
+this guy like asking for something
+impossible, but sometimes it's really
+just about the solution is to just, you
+know, think a little more deeply about
+the problem and like, you know, is there
+some third path? Is there, you know,
+like what, you know, what's the sort of
+creative approach? Because often there
+is a real cost to making those
+trade-offs. Um, uh, that if you can find
+a way around it, um, you know, it it it
+can mean the difference between success
+and failure.
+Yeah. One thing that's striking to me is
+uh there are a lot of very talented
+people at Ripling, but um I think most
+people be like, "Well, they're not all
+Parker Conrad except that you are
+treating them like they should be,
+right?" Like you're saying, like, "But I
+think you can figure this out." I tend
+to expect a lot of people, but you know,
+in reaction, I think I like see people
+do amazing things. And I I wonder if
+like more founders shouldn't try
+actually to like have real belief that
+their people can figure more out and
+we'll get a lot more from that.
+You know, for me it it I mean it comes
+from like you know some like like sort
+of deep reservoirs of like panic and
+insecurity about you know sort of like
+the the company and sort of the you know
+looming you know there's sort of looming
+failure constantly when you're building
+a business. And so the way to I think
+channel that productively is is to sort
+of really push it down into the organ
+sort of lay out for people, you know,
+here are here is the situation. you
+know, when you're when you're facing um
+sort of like tough situations and you
+know, see if you can't get people bought
+in to like, oh man, like this is like,
+okay, we've got to we've got to bridge
+the gap between point A and point B
+versus like, you know, I've got to like
+do this like task for the next month or
+the next quarter. You know, it's like it
+sort of you can get people to take more
+responsibility for um you know, where
+you need to get to. I guess I would just
+posit that many leaders, they don't
+necessarily push that problem down into
+the organization because they don't
+really believe other people can solve
+it, right? And I I think if they do, I
+think they'll they'll get more back. You
+have capabilities teams and then you
+have these um application teams like
+what is the cadence of communication and
+coordination there across such a big
+product surface?
+You know, I think that's that's an area
+that like candidly like we always we
+don't always get that right. Um I think
+there's there's constant you know anyone
+that's like trying to build in this way
+there's constant tension between you
+know people building at the application
+layer and people building at the
+platform layer because you get you know
+the interface there is not always clean
+and and you know you get an application
+team and they don't want to build on the
+platform team stuff and like you know
+they're you know they they need
+something slightly different and so a
+lot of I think the really kind of meaty
+product decisions end up being around
+that kind of stuff like when you When do
+you allow teams to disconnect from the
+underlying systems? When do you rep
+prioritize the platform team to build
+the stuff that they need? You know, when
+do people have to sort of, you know,
+eventually migrate back onto like the
+core underlying platform capabilities?
+You I don't know that there's like a
+good that there are good rules of thumb
+about this. Um because it's one of these
+problems where locally people would
+almost always like prefer to disconnect.
+Like it's easier for them to just like
+build their own thing. But ultimately
+and long-term, you know, it's the worst
+thing for the business and and even the
+worst thing for their application
+because like you lose the benefit of
+shared investment in the underlying
+capabilities if you do this like you
+know as the underlying systems get
+better and better because you're
+continuing to you know every every like
+dollar of R&amp;D that I spend on the
+underlying stuff it pays off 35x because
+it you know it hits you know every
+system in Rippling that gets like a
+little bit better because of the new
+capabilities I've built in the
+underlying systems. And that's the
+dynamic or that's that's really the
+underlying math that I think makes this
+approach to building software work
+better than building sort of, you know,
+narrow focused point solutions. And so
+you got to you got to hold on to that.
+Um, which means that you've got to
+ultimately build on the Lego blocks that
+you have.
+It's very interesting to me. I was
+talking to Olivier, the uh you know
+co-founder CEO of Data Dog, which I
+think is one of the other true platform
+companies of this era, and they bought a
+company that I was on the board of in a
+new space and then made them rewrite it
+over the first like year and a half onto
+their platform, which I don't think I'm
+like exposing any secrets to say was a
+painful process. And yet, like exiting
+that, all of the people from the
+acquired company screen were like, "We
+believe, right?" like you know there's
+there's religiosity in that. It's very
+interesting to me that if you look at
+companies from um that at least got to
+scale in the last era that are still
+very dominant like Workday, people tend
+to make fun of these companies that have
+the like you know we have our internal
+language, we have a bunch of development
+frameworks, we have a bunch of
+components, we have a platform team, we
+have applications as very insular um and
+yet like this is how some of the most
+dominant platforms are are built. I mean
+workday obviously one in you know in the
+htm industry but also like I think
+there's a lot you know a lot of the
+thinking around this like comes from
+like Microsoft you know like you know
+it's certainly the way they think about
+the world
+um so I think there are a lot of
+you know um sort of big and even kind of
+like multicategory companies that that
+sort of think think about the world in
+that way
+rippling I mean we've been talking about
+uh a bunch of principles that are very
+specific to to rippling doing its own
+thing versus listening to conventional
+wisdom. How much do you think about
+beating incumbents and hm or payroll or
+identity or whatever it is versus
+capturing green field and like your
+strategy internally?
+The two things are related. Like a lot
+of the time, you know, we can we can we
+can beat incumbents because of the the
+sort of we've we've sort of pushed the
+envelope a little bit into new horizons.
+And so that allows us to solve problems
+for customers that incumbents can't
+solve. Um, and even like sometimes like
+it's like not always clear to me
+internally like what the difference is
+for customers between like new
+applications versus existing, you know,
+and like new features versus bug fixes.
+Like a lot of times like whether we
+categorize something as like a fix or
+like a new thing is about whether we
+internally believed that this capability
+was part of like the original spec. But
+from the customer's perspective, it's
+always just like, I wish it did this
+thing and it doesn't do it. Um, you
+know, so to them, like everything's a
+bug. We're building a variable
+compensation product right now. And like
+in some sense, it's a new thing. It's a
+new application, new skew, but it also
+like, you know, really helps um, you
+know, if you're if you're an existing
+customer, it's an existing problem that
+you have.
+You just wanted Ripley to do this.
+Yeah. they're kind of like, "Oh yeah,
+like this makes like payroll easier
+because I have people whether it's like
+salespeople or like other other people
+that are on simpler kind of you know,
+variable compensation structures." A lot
+of businesses end up having, you know,
+bonuses, commissions,
+you know, things like that that um you
+know, are just kind of tough to manage
+that if you did it in one place it would
+be a lot easier. But to answer your
+question, I think um more more directly,
+you know, if you look at the headcount
+of the org, like over 80% of the
+engineering headcount is really focused
+on the existing stuff. Very little
+headcount is focused on building the new
+things. Like most of it is just in
+continuing to develop and sort of extend
+all of the existing applications and the
+underlying platform um of the system.
+And some of I think why that is is like
+you need fewer people when you're
+building something new. Um and you don't
+you don't have any existing customers
+yet and you get to build on a lot of
+these underlying applications. Like you
+can make it very far with a very small
+team. And so the you know we always kind
+of have like you know four or five like
+new things in the works but collectively
+the teams that are building those are
+it's it's not that large. It's, you
+know, it might be, you know, five to
+seven engineers on each one, you know,
+out of an engineering org that's now,
+you know, I don't know, over a thousand
+people.
+I'm going to use this as a a chance to
+talk about AI because we're not going to
+get away without that, but we'll start
+with engineering approximately thousand
+person engineering team, right? Um, do
+you do you believe in the premise of
+like do a lot more with many fewer
+people over the next two years in
+engineering? I like am very skeptical
+that AI will be employment conserving.
+Um because I just think that like in
+basically every area like we have not
+seen and I think most large engineering
+orgs have not seen like a huge number of
+efficiencies from these sort of like the
+sort of coding assistants that um you
+know they're they're very popular with
+the engineering team. there are clearly
+some ways that they, you know, that they
+help. Um, but it's not like we're like,
+"Oh man, we need like so many fewer
+people." Yeah.
+To kind of do this. And and I think that
+I mean that it could be that we're just
+like not very good at using them, but
+like in talking to like a number of
+other kind of latestage companies, I
+think that that's been true for most of
+the organizations that I've spoken with.
+Um, I don't I don't know like quite why
+that is and maybe it will come. But even
+then I think like if you make it easier
+to build software I think the demand for
+software will actually go way up. Um and
+and I think by the way I I actually
+think the same like I believe the same
+thing is going to be true for customer
+support. I think as you um you which is
+the other major area of product market
+fit here that you know as you make it
+easier for customers to access something
+that feels like support where where the
+experience is really good and it's
+instantaneous and it's not you know it's
+not frustrating because like you know it
+takes a while to communicate something
+and there's a lot of back and forth and
+maybe the person doesn't know you know
+what what you're asking exactly. Um I
+think people will use more of that not
+less. um you know even as like ticket
+deflection rates go up you know we see
+like at least internally at Riplane um
+like you know a lot more use of like our
+sort of like AI enabled support tools um
+where it's clear that people have just
+found that like hey actually it's like
+this is an easy way to sort of get
+things done quickly in the product and
+so they start they start using it a lot
+more and and like with on the
+engineering side like one sort of theory
+I have is that I think that as um you
+know if and when it gets to a point
+where it's just much much easier to
+build software um because you know like
+engineering engineers are so much more
+productive I think what will happen is
+rather than needing like way fewer
+engineers what's going to happen is a
+lot of these like core software systems
+are going to end up getting like highly
+verticalized um you know like you're
+going to end up having rippling for
+opthalmology clinics where there's going
+to be a lot of specific capabilities of
+the system like just for like opth
+themology clinics and that's going to be
+possible because you know it's like a
+lot easier to build an application much
+more quickly because the cost has come
+down. Um and and unlike sort of people
+that are building like independent
+vertical software like if you're a
+company that's actually building like
+hey we're rippling for opthalmology
+clinics the challenge is I think it's
+like it's really hard to have all of the
+underlying platform capabilities that
+you need in that system. And so you know
+some of the challenges with vertical
+software historically have been that you
+have this choice between like heavily
+customized for the industry but missing
+a lot of like core underlying
+capabilities. And so if you're as a
+company that needs something like you
+know serious you eventually need to go
+to like you need to move to Salesforce
+or something from like the the thing
+that's like very industry focused. And I
+think what will happen is that like
+actually as the cost of software
+building applications comes down it will
+let the sort of core companies build a
+lot of like industry specific indust
+industry specific vertical applications.
+And so this is just kind of a long way
+maybe maybe of sort of giving an example
+of like why I think that like look if if
+you and your small team can like vibe
+code an application that gets a lot of
+distribution very quickly,
+so can a lot of other people. And so
+inevitably what's going to happen is
+like the bar will go up and like what
+what customers expect um and it might
+not happen immediately, right? Like you
+might get you might be able to get for
+some moment of time a lot of
+distribution very quickly, but
+eventually
+they're they're going to be competitors
+and like the the expectations are going
+to go up, the pricing is going to come
+down. You know, you're going to need to
+like the frontier is going to move out
+and you're going to need to be there and
+that's going to take people. It's going
+to require more engineers, more
+investment, you know, at the sort of
+bleeding edge of whatever is possible.
+And the same thing I think will be true
+on the go to market side that you know
+that it will become harder to make
+progress through the market and you're
+going to need to have teams of people um
+that can like interface with the world
+that can talk to customers can talk to
+decision makers um and like yes those
+people maybe they're they're more
+productive because like some of those
+interactions are you know handled or or
+enabled by AI but you're still going to
+be competing against a set of businesses
+that also have all of those
+efficiencies.
+And it's going to be as a result of that
+like that much harder to cut through the
+noise. Um, and so there's always going
+to be this sort of like leading there's
+going to be this frontier that you're
+going to need to play at and that's
+usually going to require investment and
+headcount. I think I see the race the
+same way and then for some set you know
+there's going to be some set of
+industries that have like different
+enough workflows maybe not around people
+but around go to market like pharma is
+the classic example right if you're
+designing around a a regulatory regime
+like maybe that is different from
+Salesforce enough I think there's one
+version of like more verticalized
+companies that like you know they ship
+something that won't work for customers
+forever and then they're investing
+backwards in capabilities and in a race
+against um companies that more
+horizontal. I think the other version
+and now I'm talking my own book because
+I think there you know we have portfolio
+companies that are doing well in this
+direction is um uh they don't really
+look at themselves as much as software
+companies in the traditional category
+sense. Um they look at themselves as
+doing more work that people used to have
+done. The horizontal players like will
+clearly see this too but you know the
+specialization may be useful in some
+verticals.
+Yeah, that makes sense. I want to go
+back to something you said at the very
+beginning about um being allergic to ops
+because of benefits or you know from
+from that experience. Uh I'm I'm sure
+you've heard about a bunch of um these
+ideas of well you know we we believe
+we're going to need humans doing
+distribution. Um they own the
+distribution. These verticals are not uh
+adopting AI technology as quickly as
+they logically should. We're impatient
+for that as technology people. let's go
+buy distribution and roll services
+companies up or whoever has access to
+the customer. What is your perspective
+on that given those are like
+operationally intensive businesses?
+Yeah, I'm I'm not sure that like we
+fundamentally disagree because it sounds
+like they're also saying hey we don't
+want to be in the ops business like we
+want to we want to be and so so it's
+about replacing the ops with software. I
+think it's hard to replace ops with
+software. At least I found it difficult.
+Um, you know, maybe AI changes
+everything, but like, you know, at Zens,
+we kind of had this this theory that was
+ultimately, I think, part of like the
+downfall of the company that, you know,
+we could move through the market more
+quickly by doing a lot of things
+manually. And then, you know, we would
+just replace it with software over time.
+And like, it sort of turned out that it
+was actually very hard to replace ops
+with software like after you'd scaled it
+up. Like it's a lot easier to start
+small with automation and gradually grow
+over time even hopefully grow quickly
+but like the point is is like you you
+sort of start with sort of a simpler set
+you know you start with a small set of
+customers I don't really think that
+there are like customers with simple
+needs I think all customers have sort of
+like ultimately have a bunch of you know
+edge cases and longtail things that they
+that they require but just a smaller set
+of customers is easier to deal with than
+a larger set of customers and If you
+start with that, I think you can
+gradually expand the capabilities over
+time. And if you start with like like a
+really large group, it's like hard to
+even capture the requirements like the
+superset of all of the requirements that
+you need the system to do. Um that was
+like sort of the problem that we found
+is like we thought we were going to
+automate everything and then the
+automation was just much harder and it
+was constantly delayed and so we were in
+this situation where the automation was
+constantly coming but like never there
+and that that caused a lot of issues.
+So, you know, I don't know if people
+will be more successful at that with um
+with AI, but I think it's like really
+probably important to understand if
+you're in an area where things have to
+be deterministically correct or not. And
+that's obviously the place where um you
+know it it gets like harder to do that
+reliably with AI, particularly when you
+have just like a really large complex
+space of edge cases and longtail
+scenarios and things like that that need
+to like definitely work correctly every
+time. Um which is sort of like the space
+that we're in. if your payroll is like
+not correct, you're super pissed and
+like you know and and so you you kind of
+need like there are deterministic rules
+about how this needs to work and and so
+you need to just make sure that that
+rules engine is like programmed in and
+it it can't be you know sort of entropy
+of some of these AI systems.
+Rippling is one of my favorite examples
+of like software companies that I think
+are very durable to um everything that's
+happening with AI. Does it change
+anything about your strategy
+fundamentally?
+It definitely
+um makes us a lot more focused on data
+um like a lot of other companies
+obviously and and capabilities around
+data. What I think is going to be very
+durable with with AI is like everything
+that I've seen is like building the the
+applications is like uh I mean I don't
+want to say it's like trivial obviously
+everything's hard but what's much harder
+than building AI applications are
+building you know governance and
+permissions and data pipelines and
+things like that. Um and so you know
+that those are the areas like you know
+that we spend a lot of time on because
+they they tend they tend to be like our
+core strengths particularly because like
+permissions and governance are very tied
+to an understanding of the ORC. You know
+understanding you know usually
+permissions are about job and role and
+function and or chart relationships. And
+so if you understand that deeply, you
+can be opinionated about who should have
+access to what, you know, who can do
+what in the system. And ultimately, I
+think like all of these AI agents are
+going to need to inherit the permissions
+of a person. Like some people would say,
+well, you know, maybe it can be like a
+service account that has distinct
+permissions. And the problem then is
+like well ultimately like people are
+going to be interfacing with it. And if
+it has different permissions than they
+do, there's just this leakage problem.
+Um and so I think you always need to
+ensure that the agent inherits the
+permissions of the person that it's like
+working with directly and then when you
+do that you need to understand okay what
+what permissions this does this person
+have across all these systems and you
+start getting into like identity and job
+function um and governance and and
+things like that that tend to be I think
+like some of our like strengths from a
+platform perspective.
+A last question for you. Rippling is
+already at, you know, public company
+scale, but at the same time, you know,
+companies are staying private for much
+longer. Um, how do you think about this
+choice?
+I don't have any any religion about it
+and and I'm not sure that like I am like
+the the world's expert on it. Um, it you
+know, it seems like um you know,
+historically, one of the big advantages
+of being public is is is liquidity. And
+and and what's happened over the last
+couple years is obviously there's just a
+lot more liquidity in the private
+markets. you know, whether it's for
+employees or early investors. Um, and
+so, you know, if you can if you can do
+that in the private markets, you know,
+there's a lot of upside to staying
+private. I mean, certainly, I think you
+look at like data bricks versus
+snowflake and it it seems like data
+bricks has had some advantages by not
+being public. um you know in in that in
+that fight and and and then you also
+have this dynamic in in the public
+markets where the public markets have
+kind of become something of like a
+retirement community for you know very
+slow growth but very profitable
+companies you know just everything is
+sort of structured around that you know
+like when when research analysts are
+talking about like high growth versus
+low growth public companies they're like
+are you growing more than 20% you know
+because it's not more than 30 anymore
+because it doesn't exist in the public
+markets And so, you know, if you're a
+company that is growing a lot more
+quickly than that, there just aren't
+comps in the public markets. And so
+there I think there's actually a lot of
+risk as a result of that. Um because um
+you know there aren't there aren't clear
+comps on like what the multiples will
+be, what the valuation's going to be. Um
+that could change though. I mean like
+you know we could we could look at this
+in a couple years and you know suddenly
+you know it's very clear the public
+markets like do value fast growing
+companies. um like more than than slow
+growing ones and you also may have like
+you know maybe there isn't as much
+capital in the private markets anymore
+and suddenly like you know the entire
+kind of calculus changes on this. Um so
+you know like we we've decided to be
+private for now. Um but that doesn't
+mean you know forever. So you know you
+kind of get to make that choice again
+every year. Um um but obviously if you
+go public you know that that's a you
+know it's hard to undo.
+Awesome. Thanks so much, Parker. This is
+great.
+Cool. Thanks, Sarah.
+Find us on Twitter at no prior pod.
+Subscribe to our YouTube channel if you
+want to see our faces. Follow the show
+on Apple Podcasts, Spotify, or wherever
+you listen. That way, you get a new
+episode every week. And sign up for
+emails or find transcripts for every
+episode at no-priers.com.
+[Music]

@@ -1,0 +1,1116 @@
+Kind: captions
+Language: en
+MIMS. So many companies, even surprising
+ones like Clorox and McDonald's, they're
+using AI for things like customer
+service and product innovation. But how
+does that actually work? Based on what
+I've heard, I've got one word for you.
+Agents.
+&gt;&gt; Like secret agents, talent agents, who I
+need to call about this job, travel
+agents. What do you mean by agents?
+&gt;&gt; I'm talking about AI agents. AI agents
+are advanced computer programs that can
+do tasks for you. And we talked about
+this with Salesforce CEO Mark Beni off
+last year. But we're about to hear from
+a CEO who is actually selling his
+company to Beni off and Salesforce for 8
+billion in order to take this technology
+to the next level. That's next.
+[Music]
+Informatica is a company that's been
+around since 1993. It's not a household
+name, but many of its clients are and
+CEO Amit Walia helps them manage the
+mountain of data that modern companies
+generate. That data is even more
+important than ever as it is helping
+companies fuel their ambition in
+artificial intelligence. AI, after all,
+is powerful when it runs on proprietary
+information. It allows companies to set
+up AI as customer service
+representatives or to glean new business
+insights from their operations.
+But it takes work to make that data
+usable. And businesses like a
+pharmaceutical company doing drug
+discovery can't afford to get the wrong
+answers.
+&gt;&gt; In the enterprise world, everybody's
+ready for AI except that data. So I
+think we expect the same for the world
+because on the worldwide web the data is
+free available and and by the way if
+your answer is 95% accurate or 90%
+accurate you're not going to you're not
+going to have a wrong drug come or
+you're not going to have a wrong product
+that will bring bring down a particular
+uh infrastructure you can't afford to do
+that in enterprise right that puts Wally
+in position to understand how everyday
+businesses are preparing and thinking
+about how to use AI it also makes
+Informatica an appealing acquisition
+target. Earlier this year, Salesforce
+announced it had reached a deal valued
+at$8 billion dollar to acquire
+Informatica. It's just one of the many
+big moves in Silicon Valley to gobble up
+AI talent, which has become so precious.
+&gt;&gt; AI is not created by AI. People are
+creating AI and as long and I really
+hope it stays that way and we control
+that. Talent matters.
+&gt;&gt; From the Wall Street Journal, I'm Tim
+Higgins and I'm Christopher Mims. This
+is Bold Names, where you'll hear from
+the leaders of the bold named companies
+featured in the pages of the Wall Street
+Journal. Today we ask, how are
+businesses preparing themselves for AI?
+[Music]
+Welcome. Uh before we talk about this
+blockbuster deal for Salesforce to buy
+your company, let's set the table and
+explain what Informatica is all about.
+For a lot of listeners, this isn't going
+to be a household name. Though many
+household names such as Toyota, PayPal,
+Unilver use your services. So in the
+most basic sense, what do you do?
+&gt;&gt; Great question. Well, I think uh in
+another way instead of Blockbuster,
+maybe you call it the Netflix. is the
+next gen, the streaming world or the AI
+world. That's
+&gt;&gt; absolutely it's not Blockbuster. It's
+it's the Netflix. It's Hulu.
+&gt;&gt; It's Hulu. Yes. Yes. Well, look,
+Informatica, like you said, we are uh
+clearly not a consumer name. We serve
+consumers. Uh step back. I mean,
+Informatica actually is a data
+management company. What does that mean?
+I mean, look, we help enterprises
+create value from that data. Help them
+bring data from all kinds of places
+within that organization, which sits in
+many places. him in a very disorganized
+way, in bad quality. We bring it all
+together for them to do productive work
+with them like you know do analytics,
+help understand how their business is
+doing or figure out what the next best
+offer would be for their customers or
+figure out how to create new products
+based on the data they have or govern
+all the data they have so that they can
+continue to make sure everybody within
+the organization has the right way to
+interact with that data and do other
+value added things on top of that data
+like understanding your customer better,
+understanding your supplier better. All
+of those things are called data
+management and we serve any of the uh
+fortune thousand names that you see
+across the globe making them better
+companies to serve their end customers.
+&gt;&gt; Yeah, I think it's one of those things
+when you hear about the power of data is
+if all data is like maybe water and it
+can just be used for greater purposes.
+It's never quite that simple, right?
+You've got to you got to pull it from
+all the different places. You got to
+make sure it can work across the
+organization. And it's very complex and
+companies like yourself are kind of if
+you think about chat GPT as everybody
+knows the other end of that kind of
+world is a company like yours helping
+companies get their data ready to be
+used in however however they need to do
+it.
+&gt;&gt; Totally. And I think Chad GB is a great
+example right I mean Chad GBT leverages
+the whole internet right
+&gt;&gt; and uh you know we index the whole
+internet so you can go out and search
+for any kind of data out there. We do
+that exactly the same thing for
+enterprises. In fact, we have our own
+GPD called clear GPD and we index the
+entire enterprise data. So you can
+search the data and you can do something
+productive with it versus just writing
+essays as my teenagers have done with
+chat,
+&gt;&gt; right? But to be clear, you I mean this
+company was founded in 1993 and you've
+had kind of a twisty history along the
+way, right? like you went private in
+2015,
+public again in 2021,
+and you know, meanwhile, you've been
+rising up the ranks since 2013.
+What was your priority since you became
+CEO? Was it was it an acquisition like
+this?
+&gt;&gt; I mean, kind of think of Informatica as
+like one of your great Netflix series
+that's going on and it's like what?
+Season 3, season 4. Pick your whichever
+favorite.
+&gt;&gt; We're like season seven, I think. 10.
+&gt;&gt; Yeah, whatever it is, right? This is
+this is like the law and order SVU of
+companies. 1993 you were founded. Wow.
+&gt;&gt; So we've seen many technology curves and
+that's what make this company very
+unique that we've seen many technology
+uh innovations and trends come by and go
+and what has stayed constant for us is
+that our northstar that a we have become
+we've continued to innovate and each
+technology curve data has just become
+more important. We create more data and
+we make a mess of the data we create.
+Somebody has to go out and make that
+more usable. So whether
+&gt;&gt; like the data janitors
+&gt;&gt; well I don't like that
+I call it the the data genie we
+basically come out there and make make
+truly magic happens because you today in
+today's world with a few clicks you can
+actually do the stuff that 20 years ago
+was total serious amount of programming
+right so whether it was the days of
+transactional databases we saw the world
+of the internet the world of big data
+the world of mobile and now the world of
+AI and you know it's not just the same
+technology not only techn Technology
+curves have changed, technology trends
+have changed. We've also added many many
+many more capabilities. We were a single
+product company. Today we are a platform
+with all things that encompasses data
+management. You know it's integration,
+quality, governance, mastering,
+cataloging. 30 years ago we started as a
+tiny single product company that did a
+small slice of data integration. So many
+of things have changed but to your point
+we have seen it all and we've come out
+winners bigger company more innovative
+company and that's what's very unique
+about us
+&gt;&gt; I got to ask if we create a pie chart of
+your customers who what kind of
+companies tend to be your customers
+&gt;&gt; all large companies so we serve
+enterprises so pick names like Uber in
+the nextG company world by the way
+Salesforce themselves are a customer you
+know you pick many of the airlines
+JetBlue you pick Royal Caribbean you go
+out across the globe entity Indeed, any
+country, large enterprise customers,
+government customers, the IRS, so on and
+so forth end up being our customers
+because that's where the most complexity
+is and we help them. You're you're
+helping companies kind of make the
+transition in a fastmoving tech world,
+but you're also making the transition
+yourself as a company, right? I think
+earlier this year, Informatica stock uh
+dropped dramatically, something like 33%
+after missing some revenue estimates.
+And in part it was because your
+customers are actually moving their data
+from on premise services to cloud too
+quickly. And so I'm just curious what
+does that signal about where the
+customer is where your business is this
+year going forward?
+&gt;&gt; Actually to give that answer let's take
+three steps back. We've gone through a
+tremendous amount of transformation.
+Actually we were a public company like
+you said before 2016 we went private and
+we were a quintessential classic onrem
+licensed software company. And when we
+went private actually we basically
+wanted to become a subscription company
+be with cloud being the driver but I
+took over in 2020 I make the significant
+pivot towards being a cloud company and
+within 2020 to 2023 we basically pivoted
+100% towards the cloud and in 2023 we
+became a cloud only company literally
+like there were customers who wanted to
+buy our on-prem product and we says no
+we wanted to have the only singular
+force of going towards the cloud as we
+had built out the platform From there
+along the way in that journey I took the
+company public in 21 fall and we got
+listed again on NYC. So we were public
+we went private we came out as a public
+company again and we basically pivoted
+to the cloud. But if you step back this
+year
+starting from scratch the company that
+had zero cloud business we've guided to
+a billion dollar of cloud ARR and that
+if you look at many of startups we talk
+about billion dollar valuation. We built
+a billiond dollar business from scratch
+within an existing company. Now what
+we're doing along the way is that we've
+taken our legacy business and we're
+shedding it. We're moving it to the
+cloud and we are actively not selling it
+at all. It's kind of there as it moves
+to cloud or goes away. And we're okay
+with that because that's the hardest
+part. Companies stick to their legacies
+and hold on to it. And we knew that
+that's not where the world is going. So
+we pivoted very bravely and not many can
+do that to be very honest. It's a very
+hard decision to make to shed your old
+and build the new and the new is only
+usually done by startups. Now along the
+way what happens is that if you if you
+have basically you're reducing one
+growing new you're going to have a
+weighted average that goes down. But our
+cloud business by the way was growing
+mid30s last year. We've guided to mid20s
+this year on a billion dollar run rate
+&gt;&gt; and that weighted average going down
+&gt;&gt; weighted average because it remains mid-
+single digits because you have a billion
+dollar old on-prem business that is
+reducing and you have a new business
+that's growing. So you can do the math
+but the reality is that within we built
+a startup within the company that is now
+a billion dollar on guidance revenue and
+that's at of course at scale your growth
+rate is going to slow down as an example
+&gt;&gt; right and but earlier this year your
+your stock plunged by about a third
+after you missed your revenue estimates.
+&gt;&gt; We we guided down yes we guided down and
+you know people want us to keep guiding
+up and and we took a hit on that one and
+that's fine. I mean you know we the
+stock was on a high up too you know and
+I think if we all look at the day the
+stock goes down we can all look at the
+day the stock goes up and at the end of
+the day life normalizes in the long term
+and we got to be careful on that one.
+&gt;&gt; When we come back we ask Wallia why
+Informatica was worth so much money and
+what it means for the future.
+&gt;&gt; Why then were you worth $8 billion to
+Salesforce?
+&gt;&gt; Simple GI like I said everybody's ready
+for AI except the data. They see it. We
+see it. They talk to the same customers
+we do.
+&gt;&gt; Stay with us.
+[Music]
+You're experiencing the challenges of of
+kind of the next generation of
+technology just like your customers are.
+in in your role, I mean, you have great
+insight into what normal businesses, and
+I say normal, not just tech companies,
+um, how they're making these transitions
+in tech. And I'm just curious, you know,
+what you're seeing with businesses these
+days when it comes to AI. Um, if you
+live in Silicon Valley or in San
+Francisco where I do, you think
+everybody's gaga for AI, but uh, what's
+your sense outside of the bubble that
+we're in? where where are CTO's minds
+and and uh the IT department's minds on
+this new technology.
+&gt;&gt; Yeah. No, I think I think you is the
+right word the bubble we live in like I
+live in Silicon Valley too, right? And I
+have startup friends, I have VC friends
+and I think if you look at one part of
+the narrative, the whole world is being
+run on AI today. And the reality is that
+I always say when you when you leave
+Silicon Valley you're in let's say
+Witchah Kansas and you have a customer
+over there that's where the reality is
+and the answer is like anything by the
+way in some ways is it's not different
+than any other technology in the
+enterprise world the adoption takes time
+not for any wrong reason but the reality
+is that if you if I use this phrase that
+in the enterprise world everybody's
+ready for AI except their data.
+So I think we expect the same for the
+world because in the on the worldwide
+web the data is free available and and
+by the way if your answer is uh Jim you
+know 95% accurate or 90% accurate you're
+not going to you're not going to have a
+wrong drug come out or you're not going
+to have a wrong person passing through
+the immigration counter or you're not
+going to have a wrong product that will
+bring bring down a particular uh
+infrastructure. You can't afford to do
+that in enterprise. Right? So in
+enterprise classically takes time and
+every cycle has taken time and what
+happens that we hype it up and then we
+say well it's going to take over
+tomorrow and then we say well it hasn't
+taken over yesterday so what's wrong
+with it nothing's wrong with it you know
+you know think of the things like first
+of all your data has to be right that
+takes work skill sets have to be there
+you have to figure out the right use
+cases blah blah blah all that stuff you
+add up and it takes time so where where
+enterprises are is that everybody's
+doing something with the app make no
+mistake absolutely yes it's not a matter
+of if it's a matter of when and there
+are a lot of them are in what I call
+pilot pre-pro experimenting some have
+done production stuff but on the margin
+and where you are seeing is that
+everybody is lading up because what we
+see in our in our concept customer like
+we are now getting ready we're doing the
+plumbing work to get the data ready
+because for example even if I got a use
+case ready now I got to make sure that I
+have the right governance on top of it
+right you don't want wrong decisions to
+come out you don't want wrong answers to
+come out you don't want wrong person
+accessing wrong data if you're a
+pharmaceutical company let's say doing
+drug discovery you want to use AI even
+99.5% won't be very good for you. So
+they're all going through that and I I
+totally see that the risk is very high.
+Right. Rightfully so. So that's where
+enterprises are.
+&gt;&gt; So
+why then were you worth $8 billion to
+Salesforce?
+&gt;&gt; Simple Genai. Like I said everybody's
+ready for AI except the data. They see
+it. We see it. They talk to the same
+customers we do. They are users of our
+technology. They see it. And when you
+look at that, getting the data estate
+ready
+is the hardest problem right now.
+&gt;&gt; So wait wait wait to translate that into
+just lay person's terms. You mean
+getting this unstructured data which
+supposedly Genai can just chew through
+on its own even so there's a lot of data
+preparation that needs to be done.
+&gt;&gt; The models have to be fed something.
+&gt;&gt; A model by itself.
+&gt;&gt; Can't I just feed them everything that
+I'm storing in my like Microsoft or Box
+Cloud or whatever?
+&gt;&gt; They'll elucidate like hell. So,
+&gt;&gt; and hallucinate means they come up with
+crazy answers. They say that bold names
+is the the best podcast ever. Oh,
+actually it is. But
+&gt;&gt; so, so exactly right. And then you know
+where do you go? How do you find the
+data? Right. So, and by the way, the
+other one is that in any organization
+not everybody's accessing all the data,
+right? You want to make sure that there
+is a model ready for doing let's say
+drug discovery. There's a model doing
+code to market uh campaigns. You got to
+have two different people accessing
+those models have to be trained for
+that. And by the way, nobody's looking
+to put all the data into some worldwide
+web for the model to be fed over there.
+They want the models to be working
+within their four walls. There's a lot
+of prep work to be done for that. Right.
+&gt;&gt; So clearly Salesforce being a customer
+of Informatica, they had some visibility
+into not just what you do, but the
+necessity of what you do.
+&gt;&gt; Could you take us inside that courtship?
+&gt;&gt; Yeah. Did you get flowers uh from Mark
+Benny?
+&gt;&gt; Did you go to the island in Hawaii?
+Please tell. Give us a little bit of a
+tik tok of what happened. Just so you
+know, Mark has been a guest on Bold
+Names and he uh dialed in from Hawaii
+and we saw his dogs in the background.
+So, it seems like a pretty nice place.
+&gt;&gt; Yeah, we know what's going on.
+&gt;&gt; Yeah. Yeah. Well, look, I mean, I think
+um
+I said Mark's Mark's Mark's an amazing
+guy and you know, obviously he's he's
+got a vision. I mean, he's built
+something terrific at scale and he's
+like looking at the next big thing which
+is all around where the agentic world is
+going. So when Mark and I chatted and I
+think his vision was really bold and
+he's he sh
+&gt;&gt; Wait, how did that but how did that
+conversation start? Did he just like hit
+you up on signal or you guys were
+already talking? How did this happen?
+&gt;&gt; Hit me up on signal. No, I don't think
+we use signal. I'm I'm not a signal kind
+of guy. We're not doing anything that
+secretive to be honest. Everything is
+fine. It's all public. We disclose
+everything. You'll see all the uh you
+know through the regulatory compliance
+process everything being published. I've
+been looking at it this way in all
+simplicity, right? Mark and I chatted
+and I think his vision was uh very bold
+that agent force where he's taking the
+agentic world and the world is going to
+go agentic we all know that and he
+realized that the stumbling block
+everybody will face is at the data layer
+and his is is he what he wanted to hear
+from me first is like what's your vision
+and when I took him through our vision
+of AI which is RAI called clear and we
+going with GPT and our vision for agent
+it just harmonized very well and he's
+talking to his customers his customers
+are telling him where the stumbling
+blocks for data is or stumbling for AI
+to be successful is and and they are our
+customers and they're telling him that
+hey in a lot of places they use us by
+the way the other thing was very
+important for both sides was also that
+obviously look there are two things that
+matter at the end of the day it's the
+innovation you build ultimately in tech
+it's all about you know innovation
+second is people ultimately people are
+still building innovation
+&gt;&gt; so he wanted your talent to some extent
+&gt;&gt; absolutely and the values on both sides
+mashed a lot like I mean in fact we have
+our values data do good act as one team
+think customer first and aspire to
+innovate and they have their values and
+it was literally a match. I mean,
+different words how they phrase it, but
+literally a match. And that matters a
+lot to us.
+&gt;&gt; Well, let's take a step back here
+because really what Salesforce vision
+for AI is that they use these things
+called agents. So, essentially the AI
+can go maybe perhaps do customer service
+for a company. The idea being the
+customer will come and plug in their
+data in a way that will allow that to
+work. And so, that's why I I would
+imagine he was interested in your
+company because you need help cleaning
+up that data. But one thing I wonder
+here is Informatica has been called the
+Switzerland of data because you work
+with everybody. Uh how does this change
+the game once this deal goes through?
+It's I I believe on track to close in
+early 2026. Is that correct?
+&gt;&gt; Does not change. Absolutely. They were
+very clear in saying that and that was
+one of the big discussions we had. In
+fact, I think people sometimes confuse.
+They have no desire to change it for all
+the right reasons that ultimately the
+Switzerland of data, the metadata that
+we collect, all of those things become
+extremely important the wider they are,
+the bigger they are in the context of
+the agentic world for agent force in
+particular. So they want that and they
+were very clear, Mark was very clear
+that that doesn't change. So that does
+not change. And by the way, we talked to
+all of our partners and and and give
+them and they all see that. So none of
+that changes. That's important. That's
+important to us. That's important to
+them and that's important to our joint
+customers.
+&gt;&gt; I guess one of the things I'm curious as
+we talk about this deal, it seems like
+okay, you know, we can understand why
+you would want to do it. Why did the
+talks break down last year?
+&gt;&gt; I'm looking at where we are today and
+where we're going with that, right? And
+I think uh so
+I believe in generally in life there's
+always things happen and things happen
+the right things happen at the right
+time for all the right reasons. I'm a
+big believer in those and I think we can
+always try to always piece part things
+but in life things happen when they have
+to happen. You can try as much as you
+want to. We are all analytical people.
+Sometimes we can put our head against
+banger against the wall even when we
+developing product. Sometimes we are
+ahead of the market by the way and I
+thought there was a product that we were
+ahead of the market and we you know we
+we we didn't take off it took off much
+later like why it made so much sense but
+sometimes things have to happen when
+they have to happen. So, you just
+couldn't come to terms in 2024?
+&gt;&gt; Uh, you know, I think I look at it where
+we are today. I mean, I I think well
+don't want to for all the right reasons.
+I, you know, just
+&gt;&gt; we love the drama. Give us the drama.
+&gt;&gt; I think what is it? We can create drama
+without for a lack of not having drama.
+We can create drama. No, there is
+unfortunately remember we are the boring
+enterprise B2B software company. We
+believe in reducing drama.
+&gt;&gt; Well, well, you're not so boring because
+I you know, there have been some critics
+of this deal. I think um you know, some
+worry that Salesforce acquired Mulesoft
+uh in 2018, essentially kind of one of
+your rivals. So, don't they already have
+some of this in house? And then one of
+the co-founders of uh Informatica was
+telling Market Watch uh before this this
+was announced that um he thought it
+would take five years to integrate
+Salesforce in your company and that this
+was really about Salesforce trying to
+bulk up its revenue and its engineering.
+What do you think of those criticisms?
+&gt;&gt; So on new first of all look uh we first
+of all our business is much broader. We
+do data integration, app integration,
+data quality blah blah blah. There's a
+very very broad suite of data management
+from the outside some of the words look
+very similar from the inside that's not
+very true in some cases very
+complimentary they do a bunch of API
+related stuff that we don't do we do a
+lot of so I think the how people
+perceive that to be on paper is actually
+not true in practicality and I leave it
+at that I mean I can't comment on what
+people have to say you really want me to
+like win
+I mean I I I don't know the guy never
+met the guy no clue what he does where
+he is. Anybody can have an It's a free
+world, remember, right? So, I'll leave
+it at that.
+&gt;&gt; Still a free world, I guess.
+&gt;&gt; But you you you are I mean, especially
+in AI, there is this in incredible
+incredible arms race for talent right
+now. I mean, reportedly hundred million
+dollar deals. It's like people are
+signing LeBron James to a 5-year
+contract, but it's AI engineers.
+&gt;&gt; You and I have to go find those deals.
+&gt;&gt; Oh, we're looking. Trust us. Trust me,
+we're looking for it every day.
+&gt;&gt; Here's the thing, though, right? So, you
+know, Meta has been spending money like
+it's water. Um,
+and presumably that was part of why Beni
+off wanted your company, right? You have
+experienced seasoned talent. What do you
+think is driving this uh talent arms
+race?
+&gt;&gt; Well, no doubt talent matters.
+Absolutely talent matters. AI is not
+created by AI. I mean maybe someday
+it'll be like some AI will write its own
+AI and we will and AI will deploy its AI
+and all of us will be sitting there
+watching this whole show happen. That's
+a creepy world. I don't want to be in
+that world. People are creating AI and
+as long and I really hope it stays that
+way and we control that talent matters
+and and and very clear like and and and
+when Mark was looking this company has
+amazing talent. We make the best
+products because we have the best people
+in the world making the best products.
+It matters at the end of the day. So no
+doubt that's very true and and we're
+proud of that one. and and like I go
+back I mean without talent where we
+going to go it's true in our case and
+it's going to be true in any tech curve
+right ultimately
+&gt;&gt; but there there have been I mean to date
+there have been tens of thousands of uh
+net job losses in tech and I believe the
+past 12 18 months so it's not about any
+kind of talent right now it's about AI
+talent why is AI talent so special right
+now when you know Microsoft is
+announcing thousands of layoffs and the
+like. I I mean look in some ways it's
+why is AI talent because it's it's the
+it's the next gen thing not many people
+know about it and to be honest like
+whenever a new technology has come and
+there's always few people at the
+beginning who know that technology right
+I mean and then of course as and when
+the technology becomes more mature more
+and more people know that technology and
+that talent war eases out and I think
+things change but in some ways there's
+always new technology fewer people
+everybody wants to get ahead of the
+curve there's a winner there's always
+the first more advantage. Whosoever wins
+who's in the market first and nobody
+wants to lose that battle. So that's
+that's quite natural in a way obviously
+being played out at a bigger stake
+because it's I think a massive change
+that's going to happen in the world of
+tech through AI. We all I mean we all
+believe that even if it takes 5 years 10
+years in different ways shape or form
+it's going to have a massive impact on
+all of us.
+A Salesforce spokesperson said the
+planned acquisition of Informatica is a
+strategic step to accelerate its
+customers AI transformations. The
+company also said it's committed to
+investing in Informatica's ecosystem of
+data and infrastructure partners as well
+as utilizing its marketing and
+distribution teams to accelerate the
+growth of Informatica's cloud business.
+When we come back, Wallia talks about
+the hype around AI and what comes next.
+Everybody wants to find the winner. Only
+a few will come out. And so I think the
+bubble is a natural thing.
+&gt;&gt; Stay with us.
+&gt;&gt; You've been in the valley a long time.
+We've seen bubbles come and go. Is AI in
+a bubble right now?
+&gt;&gt; Look, I I I'll say that tongue and
+cheek. Every technology curve creates
+its own bubble. When has it not? But at
+the same time, and it's very natural. I
+mean, let's be analytical about it. We
+all call it a bubble. Why? Here's what
+happens. I'll take the analogy of the
+big data world. Big data world. We saw
+that in our market, right? Every VC
+invested in every part of the big data
+stack. And pick a number. If there are
+100 VCs, 200 VCs, and then number of VCs
+are growing, 500 VCs, thousand VCs,
+everybody wants to make an investment in
+that part of the stack. Suddenly you
+have what thousand startups running
+around right not all of them will
+survive so that's the bubble right now
+what will happen is that then some will
+come out as winners and then many will
+go away and that's the law of the best
+survive it's happening now too now there
+are more VCs who are putting more money
+into that so we will have a bigger but
+it's the same everybody wants to find
+the winner only a few will come out and
+so I think the bubble is a natural thing
+I I don't look at it something not
+natural it's
+&gt;&gt; how how far away from a correction. Do
+you think we are? And what does a
+correction look like this time around?
+&gt;&gt; I have no idea. I mean, I was reading
+something the other day. These I mean, I
+catch up on podcast. I'm like, okay, 18
+months away, 24 months of me, I have no
+ide
+if I can predict the future. I have no
+clue.
+&gt;&gt; Okay. I just I just pulled a book off my
+shelf. Are you familiar with this book,
+by the way? How big things get done?
+&gt;&gt; No, I'm not.
+&gt;&gt; Okay. The reason I ask is the core
+principle of this book who it's by a guy
+who like plans how you build giant civil
+engineering projects for a living is a a
+principle that you've espoused right
+going slow to go fast
+and what does that mean to you and how
+does that work in AI development where
+it seems like everybody's trying to go
+fast to go faster.
+&gt;&gt; True. So look I mean I think the word
+slow is kind of looked down upon.
+&gt;&gt; Mhm.
+&gt;&gt; Of course we all want to go fast. We've
+been going fast like hell. I mean chat
+GPT came out in 22 and 23 May we
+launched our version of GPT. So we were
+running like crazy ourselves. The point
+being go back to the principles of
+engineering. If you start coding without
+writing a proper design dock or without
+having the concept clear in your mind
+about building the product what you will
+do you will create a lot of pain for you
+down the line. And in enterprise
+software if you're basically serving
+large customers the cost for that is
+very high very high because they're
+going to implement for mission critical
+use cases where we are serving and you
+can say no I got that wrong and I'm
+going to change it over it's it's very
+high and customers have elephant in
+memory of getting something wrong and
+they're going to be like well now I'm
+going to wait for it. So go slow to me
+is that do you have the right vision for
+the of course iterate fast get previews
+get customer feedback but do you have
+the right vision for the product? Have
+you been very crystal clear about what
+you want the outcome to be? What exactly
+the use case is serving and what will
+you get? And sometimes we want to rush
+through that getting the right
+architectural decision because you
+making some of those right in the first
+stage can help you in the long term. Of
+course, you're going to get some wrong.
+That's okay. So to me that's about step
+back. So every time you're rushing then
+I hold the team back and say let's have
+a have a design day. We're going to
+talk. We're just going to talk. And that
+to me is what I mean by go slow to go
+fast so you don't make big mistakes and
+errors for the long term but you should
+make short for the short term because
+that's tech. You're going to you're
+going to keep fixing them which I have
+to imagine is somewhat important to some
+of your huge clients who some of these
+boards are really worried about kind of
+compliance issues when it comes to their
+data and and making sure that they don't
+kind of get over their skis as they roll
+this stuff out. I mean, we've seen just
+how some of these AI chatbots can be
+very embarrassing to some of these
+companies already. And when you've got
+the company's reputation on the line,
+that can be nerve-wracking. What's your
+advice there?
+&gt;&gt; Totally. And by the way, this is where I
+going back to the earlier question as
+why why are things slow in enterprise?
+And the reason for that is not because
+they want to be slow. As they get to
+more heavyduty production, now they're
+thinking about compliance use cases,
+governance use cases. And by the way, we
+think of we think of regulatory
+compliant industries. It's just not just
+that. Your brand matters. If you do
+something wrong, your brand will suffer,
+right? If I basically let my chatbot do
+whatever it is on the customer end of
+things and chatbot gets it totally
+wrong. I'm going to have a very
+pissed-off customer. That's a very
+distasteful experience for a customer
+spending a lot of money, right?
+Customers care about compliance and data
+should not go into the hands of wrong
+people and you know all those kind of
+things. So, you got to get that right.
+This is where enterprises are different
+than consumers and enterprise serving
+consumers have a much higher bar.
+&gt;&gt; We've talked a lot about enterprise
+customers here. Not surprising given
+your role, but you have a good insight
+into where things are going for the
+consumer given your role. And I'm just
+curious, put your magic ball out there
+where things are going. Clearly, you're
+a believer in aic AI. And I guess I
+wonder what does the rise of these
+agents mean for consumer computing, in
+particular mobile? How are we going to
+interact with our digital overlords?
+&gt;&gt; Yeah. How much autonomy are we going to
+give them?
+&gt;&gt; Rise of the agents, digital overlords.
+I'm I'm feeling a little scared right
+now.
+&gt;&gt; I mean, it'll be an agentic world for
+sure. We all we all see that coming and
+now it'll take different spans of time
+for different consumer apps versus
+enterprise apps and front-end apps
+versus backend apps. All those things
+will go through at their different life
+cycle for sure. But agentic is the way
+to go. No doubt about that. Does that
+mean it's the end of the app store?
+&gt;&gt; Uh, no. It could be the I don't know. It
+could very well be. I I'm I'm no expert
+in in the world of consumer. Maybe app
+store becomes agent store. I don't know.
+I have no idea.
+&gt;&gt; Where do you think we're going to see
+adoption first? Because right now,
+the folks who tell me that they're
+actually using agentic AI, it's very
+much in the back end. It's very much,
+you know, using it as a factory worker
+rather than as a an employee. And uh,
+you know, great if you want to translate
+from one codebase to another, but at
+what point are is this going to start to
+affect me in any way as a consumer?
+&gt;&gt; Any anything takes time. I think you're
+right. I think part of the part of the
+reason is that the even the technologies
+to support doing that stuff are not
+fully ready. Right. Right. Even the
+agentic stuff is not ready yet to be out
+there but definitely so much of the
+backend stuff is happening right now
+like you said right I mean look at how
+code writing has changed and how we can
+do things and assisted code code
+creation is just is just gone through
+the roof right now so on and so forth
+but I think some of them have to be
+properly vetted out and I think that's
+what is happening and and a lot of
+startups are vetting it out a lot of a
+lot of companies like ours are
+internally you know basically running
+experiments to do that so I think it's
+it's time uh I mean look I think 2026
+will be a big
+A lot of stuff is happening this year. I
+think you will start seeing a lot
+happening. I think we will visibly see
+some stuff in the sense of impacting us
+end to end. But we will I I expect
+visibly to see some stuff that like, oh,
+so that happened and and oh, so I can
+see that becoming something bigger. I I
+expect to see that 2026.
+&gt;&gt; Well, uh I think that's probably a good
+spot to end it today. We could go on for
+much longer, but I really appreciate you
+making time to talk about not only the
+now, but also the future. Thank you for
+hosting. We really love talking to both
+of you. Let's see how the world holds
+together. Maybe we can come back
+sometime next year and see what happened
+and then we can give a report card to
+the last year and then figure out the
+next 12 months.
+&gt;&gt; I like that. I like that. We're going to
+we're going to have you come back and uh
+either crow about your agentic AI
+prediction or e crow on that particular
+account.
+&gt;&gt; We I keep saying we'll go slow to go
+fast.
+&gt;&gt; Absolutely.
+&gt;&gt; Thank you guys.
+&gt;&gt; Stick around. Tim and I are going to get
+into how this moment compares to the
+early dot boom and why now is the moment
+for Salesforce to spend big on
+acquisitions like Informatica.
+&gt;&gt; So Mims, what do you think about uh his
+answer the why Informatica is worth 8
+billion to Salesforce?
+&gt;&gt; I think a big part of this clearly is
+the fact that Informatica has been in
+this game for so long and Salesforce is
+a customer. So data preparation doesn't
+exactly stir the blood, but if you need
+them, if you're a customer of them,
+&gt;&gt; it's not an only fans account, that's
+for sure.
+&gt;&gt; Then
+you know, you know what their value is.
+And and of course, this is the thing
+about AI. We just keep hearing this over
+and over again. Generative AI was
+supposed to make it possible to just
+kind of magic any giant pool of data.
+But you just can't get away from the
+fact that you got to clean it up. You
+got to do the basic data science to make
+it good, to make it usable. There's no
+escaping that.
+&gt;&gt; All the headlines out there, the biggest
+headlines are about the open AIs of the
+world raising all of these huge billions
+of dollars and all the money they're
+spending. But I think you think of the
+gold rush of another era in San
+Francisco and that is the Levis's jeans
+of the world who made the money off of
+everybody rushing to the gold mines,
+right? And that Informatica in a lot of
+ways
+&gt;&gt; not expect that gold rush.
+&gt;&gt; Informatica is kind of like that, right?
+Just like Nvidia is like that just like
+a lot of these companies um who maybe
+are not uh you know as popular but are
+key to making this kind of leap um are
+finding new new relevance I guess or new
+new value.
+&gt;&gt; Yeah. Well, I appreciate you picking an
+example from your youth, but if we fast
+forward to my youth, I was thinking
+about the gold rush of the internet,
+right?
+&gt;&gt; Oh, I heard about that. I read about it.
+&gt;&gt; Yeah, you might have. I think maybe you
+were asleep. That was before you cut off
+your beard and woke up and discovered
+the 20th century. But um obviously what
+happened then was you built out a lot of
+infrastructure which makes the internet
+physically today, right? So you have all
+the fiber optic stuff that was put in
+the ground and some of those companies
+were people forget the biggest ones in
+the bubble then they died but the
+infrastructure that they built later
+gave rise to the subsequent internet
+booms. And I do wonder sometimes with a
+lot of this AI stuff and people tell me
+this, right? They think a lot of the big
+tech companies are hedging their bets by
+investing tens of billions into these
+giant AI data centers. But when there's
+a pullback, what's going to be left? Is
+this less exciting but super necessary
+stuff like what Informatica does? So is
+Informatica a good deal for Salesforce
+or if they waited a little bit longer,
+you think they could have got more? you
+know, at a certain point, a few, you
+know, a few months ago, a few months
+earlier, they were valued much higher.
+Um, just curious, did they did they meet
+did they prime the time the market
+correctly?
+Well, here's a a fun little uh finance
+lesson that I learned recently.
+Salesforce could wait until there's a
+fire sale on AI companies, but by that
+point, maybe it's too late because
+Salesforce's value is that much lower.
+So when we're in this inflated bubble
+environment, these crazy valuations
+make sense because the company doing the
+acquisition, whether it's Salesforce or
+Meta or even Open AI, they've got the
+money to burn, right? Or they have the
+equity, right,
+&gt;&gt; if it's stock is any part of that deal
+or they're borrowing against that stock.
+And in some ways it seems as investors
+and of these public companies are kind
+of excited to see some of this big
+spending going on, right? Because if
+you're changing the world, what's a few
+hundred million between friends, right?
+And those are the kinds of salaries that
+that uh Meta is paying to to lure in big
+AI talent. And 8 billion, maybe this is
+a deal. Maybe it'll it'll help them get
+to the next level at Salesforce.
+And that's bold names. Our producer is
+Danny Lewis.
+We had additional help this week from
+Ariana Osperu. Our fact checker is Aarna
+Nathan. Michael Lval and Jessica Fenton
+are our sound designers. Jessica also
+wrote our theme music.
+&gt;&gt; Our supervising producer is Katherine
+Milsop. Our development producer is
+Aisha Al-Muslim. Scott Saloway and Chris
+Sinsley are the deputy editors and Fana
+Patterson is the Wall Street Journal's
+head of news audio. For even more, check
+out our columns on wsj.com.
+We've linked them in the show notes.
+&gt;&gt; I'm Tim Higgins.
+&gt;&gt; And I'm Christopher Mims. Thank you for
+listening.

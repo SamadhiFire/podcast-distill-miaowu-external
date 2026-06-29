@@ -1,0 +1,1397 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+Hello and welcome to another episode of
+the OddLots podcast. I'm Joe Weisenthal.
+And I'm Tracy Aloway. Tracy, here's
+something that surprised me. Okay. So,
+it's 2025.
+I would have thought, you know, are you
+surprised it's 2025? I'm surprised we
+made it this long. I'm surprised.
+I'm surprised, you know, and I think
+back to 2021 and like the crypto boom of
+that era and the stock the spack mania
+and all that stuff, that craziness. Like
+I sort of thought to some extent that
+would have been a little bit more flash
+in the pan because you know like 99 2000
+a couple years later like people were
+not talking about.com stocks like two
+years later and because I'm like I I
+thought it was going to be a repeat of
+that all of this retail obsession with
+options and call options and speculation
+etc. I thought that would be a thing,
+you know, short phenomenon. A bunch of
+people lose their money in 2022 and 2023
+when some of that stuff busts and then
+they lose interest and they go on to
+other things and sort of forget about
+trading for a while. But I don't think
+that was an incorrect assumption on my
+part. I think people discovered that
+they really enjoy losing money. It is um
+Yes, they certainly Okay. Genuinely,
+what I would say is this all started in
+the pandemic, right? To some Yeah, to
+some extent. But I think crypto opened
+the door to this idea that you can have
+a number on a screen and just bet
+whether it's going to go up or down like
+basically a synthetic number almost,
+right? It's just this token. And then
+what happened during the pandemic is
+everyone was really bored. GameStop
+became a thing. Uh everyone kind of
+discovered that Momentum was uh maybe
+more fun to play uh than boring stuff
+like Value. And I was, you know, it did
+honestly feel like a cultural shift when
+it came to the way people were thinking
+about trading. And I'm not I guess I'm
+not as surprised that it's it's
+continued to this day. And if anything,
+this sort of tokenization of the stock
+market, people playing options, people
+playing crypto has become bigger than
+ever. It is this cultural shift. It's
+also like everything has a price now,
+which I think is very important. Like
+today, like we're constantly looking at
+prices for politics right now. We're
+constantly looking for prices related to
+geopolitical events on sites like Kelshi
+or Poly Market etc. It has expanded so
+much so there's crypto, there's options
+trading there, etc. Like we are like
+drenched in a culture of like there's a
+price on something, there's a thing
+that's going on, you can trade it. And I
+now think, you know, it's going to be
+with us forever because it clearly was
+not just like a uh, you know, a one-year
+sort of zer era everyone bored at home
+phenomenon. Well, it's not just that you
+could trade it. You can trade it really
+easily now, right? You can just open up
+your phone. Um, some things you can
+trade 24 hours a day and just make or
+lose money as you choose. I love uh I
+love making or losing money as I choose.
+Anyway, one of the companies that we
+really associate with the sort of boom
+in retail participation that era and
+that of course is uh Robin Hood, the
+company that uh was uh famous for being
+the first to introduce free stock
+trading which is kind of mind-blowing
+and lots of people use it. For me, many
+people was their introduction to trading
+options and stocks particularly during
+the pandemic associated with the meme
+stock era which kind of still exists.
+Anyway, we have the perfect guest. Go
+on. What were we going to say? I was
+going to say Robin Hood in my mind like
+definitely caught the wave of this
+cultural shift at exactly the right
+time. But it's also in my mind like an
+ode to the importance of user interface.
+Like genuinely the app is just more
+interesting, more fun. I guess some
+people would say more easy to use than a
+lot of other things. This sounds like an
+ad. I don't mean it to be, but I
+remember for instance when uh you know
+when you used to make trades on Robin
+Hood and you would get like a little
+confetti animation every time you did
+it. Like can you imagine TDM trade or
+like Schwab or something doing something
+like that? Uh the one other thing I'll
+say about them is they're doing
+phenomenally well. The stock is like
+back at like basically at all-time
+highs. It's not just a company that
+offers free trades. I think they have
+like nine different units at a hund00
+million annual run rate raid. Truly, I
+think it's becoming a juggernaut.
+Anyway, thrilled to say we have it CEO
+and founder Vlad Tennv on the podcast
+today. So, in studio, Vlad, thank you so
+much for coming on OddLog. Thrilled to
+finally be chatting with you. Thank you
+for the warm welcome. It's great to be
+here. that cohort that came into markets
+in like 2020 and 2021 that sort of you
+know the whatever that cohort was do
+they behave differently today than say
+the 2019
+cohort or the 2018 cohort is there
+something about them that if you look at
+say trading in April during the
+volatility is there are they are they
+different
+yeah so I I should rewinding four five
+years at this point. Yeah. Long time ago
+now. There were lots of people that came
+into the market for the first time in
+2019 and and 2020. Uh I think right
+before the pandemic, I was in New York.
+Uh and and I remember that visit because
+it was sort of like before everything
+got weird. We announced 10 million
+approved accounts on the platform, which
+was a crazy number for us. But um Robin
+Hood was already quite big even even
+before the pandemic started. So we had
+10 million approved accounts. It was
+like pretty clear that we had created
+sort of the new era of retail investing
+because before the pandemic we were a
+series D company. So like latestage
+private company. I think the valuation
+was something like 7 billion. We had a
+few hundred million in annual run rate
+revenue and basically the entire
+industry ended up having to replicate
+our business model in order to survive
+and not all of them could survive as
+independent entities. You know TDMIR
+trade had to get folded into Schwab.
+Erade, which was sort of like the the
+leader of the prior disruptive era in
+retail trading, which was the the.com
+era, had to get folded into Morgan
+Stanley to to survive as a standalone
+company. And so we we were already, I
+mean, we we had already accelerated and
+kind of
+turned back the clock. Everyone was
+saying retail trading and investing was
+over. Everyone was indexing into ETFs.
+Passive was the new thing. So there was
+a lot of skepticism, but we we kind of
+inverted that. And then you had the
+pandemic where pretty much across all of
+our business metrics, which we already
+thought were doing well, we kind of
+increased an order of magnitude. And I
+think the behavior of customers
+as a result of the pandemic is a bit of
+an intricate question because there have
+been so many things that happened in the
+macro since then and we have so many
+different types of customers. So to like
+dramatically oversimplify, you could
+think of Robin Hood as having two
+diametrically different classes of
+customers. One is the active trader. Uh
+and and these are the folks to to give
+like a motorport analogy, right? The
+active traders are the folks that are
+like motorheads like they care about
+performance. They care about having like
+really fast cars. They want to be at the
+frontier of technology and innovation.
+These are the people posting lost porn
+on Wall Street Bets, right? Not
+necessarily. I think some of them are. I
+think that that's a more general Can we
+talk about lost porn later, too? I'm
+fascinated by that. But yeah, keep
+going. Keep going. These are the folks
+that are like strapped into their battle
+stations and have like nine. They're
+monitoring the situation. Exactly. Some
+of them are incredibly sophisticated and
+wealthy and they even have Bloomberg
+terminals or good. It would have been
+sort of like the Bloomberg terminal
+customer and and so that's like a higher
+net worth very active group small group
+but premium and then we have to to come
+back to the motorsport analogy the folks
+that buy minivans right the mass market
+they just want to invest they want a
+relatively hands-free and sort of like
+low friction way of investing and saving
+for the long term And we we have
+products that serve both of those. So we
+we want to be number one in the active
+trader market. We're rapidly we're
+rapidly gaining market share there. But
+also we want to be the place where if
+you're a millennial or Gen Z customer,
+you put all of your wealth. So you
+deposit your bank account uh direct
+deposit in there. You do all of your
+spending with us with our credit card.
+Of course, you do your trading, but you
+also have your retirement account, your
+long-term passive investments as well.
+So, we're kind of focused on both of
+these things with two very different
+customer bases. And I say it's
+oversimplifying because you also have
+customers that have both of these
+behaviors. So a lot of our active
+traders, they also need banking tools,
+they need spending, they have a passive
+portfolio which can be larger elsewhere,
+but not everyone is an active trader.
+And so um also since co you had a
+whipssaw of low rates, zero interest
+rate environment, which made stocks and
+more speculative, higher growth
+investments more attractive. But then we
+whipsaw to the highest interest rate
+environment we've seen in multiple
+decades. And then Robin Hood had to
+respond very rapidly and aggressively to
+survive in that environment. And we
+introduced things like retirement like
+the highest APY in the industry on cash
+so that you could earn interest while
+your cash was sitting there. And you
+know just a ton of diversification of
+the business so that our customers who
+became less interested in trading during
+that time Yeah. could could find ways
+to, you know, t take advantage of the
+environment and capitalize with their
+strategies. So, I know one of the um
+initial competitive advantages you had
+was the the zero trading fees, but
+beyond that, you know, I mentioned in
+the intro that like I honestly think
+Robin Hood is sort of a I guess a story
+about the importance of user interface.
+And some people would say that's a great
+thing. You know, users can come on and
+you can transfer money relatively
+quickly. Um, it's very easy to set up
+and execute a trade. You can basically
+do it without typing very much while
+you're sitting at a bar or in a
+restaurant or whatever. But, you know,
+you also have things like the screen
+itself is very colorful. It photographs
+well so that people can post those
+screenshots on forums like Wall Street
+Bets. I guess my question is like to
+what extent would you attribute the
+success of the company versus old school
+competitors to that user interface or
+maybe the gamification of stock market
+trading which you really you know you
+played into at exactly the right moment.
+I reject the uh gamification premise. Um
+you don't think uh the the app is
+designed really well. I think it's
+designed well, but I think when when I
+think about So, obviously I grew up as a
+as a gamer, so I'm I'm a bit of a a
+student of traditional gamification. And
+when you say gamification, to me it
+means, you know, leaderboards, social
+dynamics, and people claim we do all of
+that, but we actually do none of it. I
+think the reason Robin Hood was
+successful in the early days is that we
+offered something that nobody else
+offered, which was commission-free
+trading. And I I think the reality is if
+I look at the design of the Robin Hood
+app and old screenshots of it, I don't
+think it was particularly easy to use. I
+mean, it was easier to use than the
+competition maybe because we weren't
+really competing against traditional
+technology companies that are known for
+user interface, but but I think the
+reality was that the value proposition
+was so strong that people could actually
+put up with a lot of cruff in the user
+interface to just get the the core value
+which which was commission free trading
+and investing. I think over time what
+happens is as sort of like the unique
+thing we had commission free trading
+became universal there was like a
+competitive dynamic where the the
+services that reduce friction there's
+just a natural force to to make the
+services less frictionful and more easy
+to use and and I think you kind of see
+that across industries and that just
+comes from paying close attention to the
+users looking at their pain points and
+having a system where you just like
+systematically reduce those pain points.
+Like we we literally spend time sitting
+with users watching them use the
+product, see the points where they get
+confused and and try to try to fix it.
+And and I think you'll see that in in
+any technology company, but you know,
+most companies have become technology
+companies at this point. any any company
+that's like doing a reasonable job, I
+think, will will come to the level where
+they're actually doing user feedback and
+iterations on design based on it. If you
+don't do that nowadays, you'll you'll
+essentially not survive in the in the
+marketplace.
+[Music]
+Just going back though to that um 2021
+or 2020 cohort, you said something
+interesting which is that some people
+trade and they have like a more passive
+long-term book there, you know, not uh
+people people do both. The word
+maturation, I don't know, a little
+condescending, but has there been a
+maturation of that base in some sense
+where people who initially got into
+trading because it looked fun or was
+exciting or they were bored, etc. Those
+customers over time of like, oh, and
+also long-term buy and hold and indexing
+is also something that's probably a good
+idea. Like, do you see growth among that
+cohort in terms of what they're
+interested in? Generally every person
+ends up have having a need to invest now
+like an actual invest not just trade
+when you say yeah yeah so not everyone
+actually sticks with trading and becomes
+an active trader. Uh a lot of people
+trade more actively at first and then
+eventually end up doing like more
+passive investing. Interesting. mostly
+because they don't, if you talk to these
+people, they don't want to put in the
+time to like spend. They have other
+things to do. So, they prefer all of
+their investments to be hands-off. Some
+people end up trading a lot. And I I do
+believe that it's a skill that you could
+actually get better at and improve at.
+And, you know, not not everyone actually
+wants to put in the time and effort to
+do that. And so we serve those people
+with other tools, you know, retirement
+accounts. We have a new product that we
+rolled out called Robin Hood strategies
+that you just deposit money and it'll
+invest for you and of course give you
+the rale. Is that like copy trading or
+is this different? It's it's a digital
+advisory product. Okay. So it's a uh
+yeah we have a registered investment
+advisor and it will just invest. Is it
+closer to like Betterment or something
+like that sort of business like the sort
+of robo? Yeah, it's similar to a robo
+except there's a couple of interesting
+elements. One is your fee is capped.
+It's capped at $250 per year if you have
+100,000 in your account. So most robo
+products, even though they're lower cost
+than traditional advisors, get more
+expensive for you the more money you put
+in there. And and we thought that was
+like fundamentally broken. As you put
+more money, the service should get more
+compelling for you. you should feel like
+you're getting more value because the
+overall relationship to Robin Hood is is
+much more valuable. So we sort of like
+inverted the model so that it actually
+on a percentage basis gets cheaper the
+more money you have. And then uh also we
+have these personalized insights every
+time something happens to your
+portfolio. You can read about it and why
+we made that change and you can also
+listen to us explain it via audio which
+has been really really popular for uh
+for our customers. Well, this leads into
+something that I want to ask you
+actually which is you're doing all these
+different things now and you clearly
+have ambitions to be a sort of like
+one-stop shop for everyone's financial
+needs. How do you actually decide which
+new products or which new capabilities
+to expand into? Is it a case of like
+okay well people are on the platform
+they're trading so maybe they would be
+interested in some sort of robo advisory
+service or is it you look at the
+competitive landscape and you think like
+well this company has you know they're
+using cobalt or something like that and
+they can't do what we can do with a new
+tech stack and so there's an opportunity
+there. How do you assess all those
+different opportunities then ultimately
+decide what you want to do? Yeah,
+basically our business strategy falls
+into three buckets and you can kind of
+align that with time horizon arcs. So we
+have sort of like a near-term arc which
+we're in the climax of right now which
+is to be the number one platform for
+active traders. If you're an active
+trader, you know, if you're one of these
+people that has the six terminals in
+front of you and you've got your battle
+station, oh yeah, we want to make it
+clear that you're at a disadvantage
+using any other platform. And these
+folks are at the frontier of technology
+and innovation. So, uh 24 so uh Robin
+Hood 24-hour market is an example there.
+It's not just about better tools and
+interfaces, although that's a part of
+it. It's also having things that are not
+available elsewhere. 24-hour market
+being probably the best example there.
+And that's that's become very very
+popular. And you're literally at a
+disadvantage if you're not using Robin
+Hood because if you need to manage your
+risk on a Sunday night, our our platform
+offers access to equity markets and you
+know those aren't easily found
+elsewhere. So that's the near-term arc.
+Then we have sort of a medium five-year
+arc which is being number one in wallet
+share for the next generation. And
+that's millennials and Gen Z for now.
+But we don't want to also get stuck in
+the millennial and Gen Z bucket. We We
+always want to be relevant to the needs
+of the next generation as they evolve.
+Of course. Yes. Wait alpha. What
+generation are you saying you are? I'm
+Gen X. You're Gen X. Well, you're in the
+other direction more Gen Alpha. I
+thought you were saying that you're
+really young. No, no, no. I want to make
+sure that there's still financial
+services that cater to old people. No,
+no. Gen Gen X. I I would say it's a
+simplification. I mean, there's Gen X
+and and baby boomers that love Robin
+Hood. I think the the common ground is
+actually less your age and more how
+digitally savvy you are. Like, if you're
+comfortable doing digital banking and
+financial services on your phone, you
+know, you could be 80 years old and
+really enjoy Robin Hood, but you know,
+some people, particularly as they're
+older, prefer to go in person and uh
+talk to a human. And I think we're a
+lagard in developing those types of
+services. So the the second arc,
+medium-term arc of being the place where
+we put all of your money, we basically
+look at uh a few things there. One is
+where are people withdrawing to? If you
+take your money out of Robin Hood to do
+something, can we just better serve that
+within our ecosystem? So, you know, for
+example, a lot of people took money off
+of Robin Hood to pay their bills. So, we
+saw that and we thought that was a great
+opportunity to just allow them to pay
+their bills via us. So, we launched the
+Robin Hood Gold card, which, you know,
+in my opinion, I'm I'm biased, is the
+best credit card on the market by a wide
+margin. 3% cash back on all categories,
+which you have to be a high net worth
+individual to get, coupled with a very
+nice user interface that lets you create
+virtual cards on demand. You can add
+your whole family, help them build their
+credit. So that that's just an example
+of of how we think about it. But for
+each of these products individually, I
+don't think it's enough to come up with
+the category. I think we have to have a
+great idea for how we can make the
+economics better for users and also how
+to make the user experience better. And
+when we have that combination, I think
+that's the ingredient to a successful
+Robin Hood product. I should mention the
+third arc because that's the long-term
+one and it's pretty relevant here given
+the uh event we just had in the south of
+France. It's called building the number
+one global financial ecosystem and what
+that means that's all just that. Yes. So
+that's a long-term arc. So it's going to
+take a while uh like 10 years but
+basically it involves expanding Robin
+Hood across two linearly independent
+vectors. One is from US only to fully
+global and the other is from retail only
+to business and institutional and that's
+where we get into really interesting
+platform aspects like tokenization. So
+let me talk to me about equity tokeniz.
+Here's my question. In what year? Tell
+me about equity tokenization. You know,
+thinking about like a a stable coin is a
+tokenized dollar, right? And so
+obviously a you could do the same thing
+where you have like a a stock Tesla
+whatever and crypto forum, etc. And it
+trades on a chain 24/7. In what year
+will I be able to trade any stock 24/7
+onchain? Well, if you are a European
+customer, definitely 2025. So, what we
+announced in in our event to catch a
+token in the south of France is stock
+tokens by Robin Hood, which are
+essentially tokenized US equities and
+ETFs. Uh we also did a giveaway of
+tokenized shares of SpaceX, which is
+very exciting. And that the the
+technology for both is ready right now.
+It's working for tokenized equities. You
+can trade them 245 right now, but 247 is
+coming over the next few months. And
+we'll also unlock full onchain
+capabilities. So, swapping,
+collateralized lending and borrowing,
+anything you can do in DeFi. So, the
+barrier to adoption in the US, yeah,
+kind of mirrors what we saw in
+stablecoin. The technology is there.
+It's it's available in Europe. It'll be
+available in a bunch of jurisdictions.
+It's all just regulatory clarity, which
+we're we're hopeful will come later this
+year, but uh it's not a technological
+barrier by any means. Why is
+tokenization a part of it if we're not
+really solving a technological problem,
+but a regulatory problem? Well,
+tokenization solves a lot of problems,
+but the necessary piece to make it
+available to the US is is essentially a
+regulatory issue. We just need rules of
+crypto regulation and for the private
+stock side which is also an interesting
+element because there you start to
+really see the benefits of tokenization.
+What does tokenization do or allow you
+to do? Yeah. So tokenization takes an
+asset and puts it on chain and
+essentially uh makes it tradable 24/7
+just like a stock or a crypto asset
+would be. So you can buy or sell it on a
+crypto exchange. I can buy or sell a
+stock, right? Like what are we doing
+here? What is the tokenization
+accomplish that you can't just do on a
+database that you can buy stock on?
+Yeah. So good question. I think the
+answer is slightly different if we're
+talking about a customer in the US
+versus internationally. And I'll explain
+why. So in the US, we already have a
+pretty robust financial system. Uh Robin
+Hood exists right and you can onboard on
+Robin Hood and buy stocks. You can buy
+them 245 which is pretty good. So there
+the delta between token the tokenized
+experience and what you have currently
+would be expanding to 24/7 and also
+eventually when we plug into DeFi making
+all of the DeFi aspects which are right
+now a little bit more niche but
+incredibly powerful available. So
+collateralized lending and borrowing
+self-custody self-custody is
+interesting. So right now your stock in
+your Robin Hood or or other brokerage
+account is kind of locked into a broker,
+right? So let's say that broker has
+issues like a tech technical outage.
+You're kind of stuck. But if the stock
+were to be tokenized, not only would it
+become seamless to use another broker,
+you just kind of attach to your wallet,
+but the reliability would be much
+higher. I also don't have to worry about
+losing my seed phrase when I have stock
+in a traditional brokerage. Is that
+something that people are going to have
+to think about if they're trading
+tokenized equity? It's less concerning
+with traditional assets because there's
+always going to be a process to connect
+your token with the real asset. So, you
+know, it's it's a big problem with
+Bitcoin. Yeah. For example, because
+there's no like physical representation.
+But if you have a tokenized dollar or an
+asset, you will be able to there will be
+a process where you can claim the actual
+real thing. Sorry, just to press on this
+further. I'm trying to understand. Okay,
+so a tokenized equity and it's going to
+I think what's the chain you're using?
+Arbitum like uh arbitum at first, but
+not for long. We're we're actually
+rolling out our own blockchain. Oh,
+you're going to have a base competitor.
+Yeah, in in a way. I mean it's just a
+layered build on top of arbitum though.
+Uh it's it's going to be on top of
+Ethereum. It's a layer two. So Okay. So
+you're building you're you're building
+your own Ethereum layer 2 setting aside
+Europe or the United States. Random
+person who has uh some USDC in
+Indonesia, will they be able to interact
+with this and then have Tesla exposure
+eventually? Yes, that's the plan. And so
+like right now if I want to own Tesla
+shares through Robin Hood like I tell
+you my name and I presumably give you
+some identifying information etc. But in
+the future in theory anyone will be able
+to get exposure to these assets without
+actually having to reveal anything about
+themselves because they're just
+interacting pseudo anonymously on chain.
+In large part, yes. There's some caveats
+where depending on the jurisdiction, we
+might have to like KYC some elements of
+the experience. For example, minting and
+burning the actual physical stocks uh
+and turning them back and forth into
+tokens will likely require KYC. But
+yeah, in the same way that you can
+transfer a tokenized stable coin on
+chain, you'll be able to transfer
+tokenized stocks identically. And kind
+of in the same for the same reasons that
+stable coins have become more popular
+and have really gained mass adoption
+outside of the US first, just because
+outside of the US it's much harder to
+get a hold of US dollars.
+tokenized stocks I think will gain
+a ton of adoption outside of the US
+before the benefits and the technology
+acrewing to the US and and kind of
+disrupting the the the structure here.
+And so just to be clear, if I have a
+tokenized stock, I can stake that,
+right, and use it to do other things.
+You will be able to connect it Yeah. to
+to all of the DeFi capabilities. Now,
+exactly what those are, I think we're
+we're going to have a developer
+ecosystem and they're going to have to
+build a whole bunch of things, but yeah,
+you you can put it in pools into
+collateralized lending pools. Staking is
+interesting because technically staking
+is dedicating tokens and resources to
+support the network itself. And and so
+when when you say staking a stock, a lot
+of people actually mean lending it,
+which which I think will be able to to
+be done eventually. But um could you
+stake it to support the network? Sort of
+old school as well. I think the way that
+that would actually work is you'd have
+to convert that into the network gas
+token. Um and and you would stake it
+that way, but I think it's a little bit
+early for us to to get into yet. So you
+mentioned that you're only doing this on
+arbitrum for a short amount of time and
+then you're transitioning to to your own
+tech.
+Why? I guess is my question. like why
+start there um and then do your your own
+um layer versus just starting out with
+your own thing. I think that the um the
+ambition is to actually make this the
+best chain for real world assets. So
+we're starting with stocks. We're also
+doing private stocks as well. But we we
+want to tokenize everything that people
+would want to make tradable. So you can
+imagine real estate in the future. You
+can imagine carbon credits. Uh really
+anything. But if you're going to use
+Ethereum, then why not start out with
+Ethereum rather than Arbitum? Ethereum
+is is the base layer one. And the
+problem with transacting directly on
+Ethereum is that it the the fees can be
+quite high. So that that's why Arbitum,
+which is a layer on top of Ethereum,
+they they've been able to essentially
+consolidate lots and lots of
+transactions and sync up to the base
+layer 1 chain at an infrequent cadence.
+Oh, I see. And that way you can kind of
+like split up what would be a large
+transaction fee into lots and lots of
+small transactions and get the cost down
+from, you know, high cone high
+congestion. you know, Ethereum could be
+multiples, multiple dollars per
+transaction down to
+like individual cents, you know, a
+handful of cents. And I know we've been
+having this conversation for years now,
+but what happens to the gas fees? What
+if this really takes off and people
+start using this service on mass? Yeah,
+I mean uh the gas the gas fees are very
+scalable. Part part of the benefits of
+being a layer on top of the chain is to
+some degree we we'll be running
+sequencers and we'll be able to to
+handle the gas fees. And I think that
+the the goal would be for for this to be
+essentially transaction cost free or
+very very low cost.
+[Music]
+you obviously as part of the core
+company competitive advantage is
+building tech, right? And building and
+one of the things that you did several
+years ago is you built your own clearing
+stack instead of um you know using uh
+some uh third party company, I forget
+what it was, you know, could you in your
+vision for Robin Hood, could you ever
+see whitelisting some of your own tech?
+You know, I think about like Amazon and
+eventually it built its own computers
+and then it started selling them and
+then it started selling its warehouse
+capacity. As you build up these
+capacities, could you see uh selling it
+to other fintexs or access to these
+platforms? Yeah. And I think tokenized
+uh stock tokens is a great example of
+that. I think that that could become a
+standard if you're another fintech Yeah.
+and you know you're you you may not be
+offering stocks to your customers. Maybe
+you have a big international presence
+and you want to add stocks. Uh you would
+just be able to integrate with our chain
+and then those stocks would be available
+to your customers. We also have a
+service called Robin Hood Connect which
+essentially took um our trading services
+that were that we've optimized so finely
+for our own firstparty app and made them
+available to third party developers. So,
+if you're a non-custodial wallet
+provider like a Moonshot or Uniswap or
+MetaMask, uh you have this problem of
+how how do you streamline
+people getting their dollars into crypto
+and back out to dollars if they want to.
+So Robin Hood Connect offers um you know
+one of the lowest rates to do that just
+because we've optimized that so much
+that you know handing that out and and
+giving that service to third parties is
+is now easy for us to do. So we're going
+to continue to to iterate on that. the
+chain will be full-fledged developer
+platform made available to third parties
+and uh we we always will continue to
+look for opportunities in the future to
+have our tech uh I I wouldn't call it
+white labeled but at least um made
+available to institutions and and other
+customers. You know what's really
+interesting to me? I was thinking about
+like several years ago when crypto
+started taking off and I used to make
+fun of these people when crypto start
+when crypto started taking off and you'd
+get these conferences and people would
+go on panels and they say well we're
+really we're really interested in
+blockchain technology bitcoin butchain
+we're really interested in blockchain
+technology not bitcoin and I never
+really knew what it meant and it didn't
+seem to go anywhere and it just seemed
+like a way like okay if I like worked
+for like a big whatever big legacy
+financial institution. I want to sound
+smart. I want to get invited to panels.
+I say like, "Oh, we're really excited
+about the blockchain here." Totally. But
+actually, it kind of sounds like maybe
+they're being vindicated a little bit.
+Well, you've noticed that I'm not using
+the word blockchain or web 3, but you're
+using we're talking about the you're
+talking about the ch the idea of chains.
+Yeah. And like I might like I'm kind of
+sitting here in 2025 and it's like maybe
+I shouldn't have made fun of those
+people as much as I did because it does
+seem like chains per se as opposed to
+coins are kind of where a lot of the
+action is. I think you should make fun
+of those people a little bit because
+people have been talking a lot about
+this stuff for many many years. There's
+been a lot of talk including from me and
+you know more recently put tomato
+lettuce on the blockchain putt we're
+going to put you know fancy I still
+fancy purses on the blockchain which
+maybe it'll do it'll happen but um yeah
+there's been a lot of talk and not much
+action. So yeah me personally uh I try
+very hard not to brand stuff and say
+it's the next big thing. I I just want
+to make products available that people
+use and and I think the best buzzwords
+come out organically because
+consumers are actually calling things
+and and the things arise naturally,
+right? And I think that there's a
+running gag that I'm going to make fun
+of him less though. I really am. Yeah,
+mass adoption is is a year away. It's
+always kind of been a year away.
+Institutional money is always a year
+away, too. But it seems like it's
+happening. But uh yeah, I I think that
+we're we're finally at the precipice of
+crypto technology not being just Bitcoin
+and memecoins and actually being applied
+to things that are useful in the real
+world. I'm kind of convinced. I will
+believe it when I see it. Um but if you
+have tokenized stocks, what what
+regulatory regime does that actually
+fall under in the US at least? Like is
+that a security or is that a derivative
+or is that something else? And how are
+you navigating that aspect of it? Well,
+so they're not they're not uh
+permissible in the US yet, but our
+belief is that in the ideal world, they
+would not be treated as a derivative.
+Okay? They would instead be treated as a
+security kind of par pasu uh traditional
+stocks. So basically all of the
+protections, all of the structure that
+the SEC can kind of promulgate to
+individual stocks should pass through to
+stock tokens as well. And and our belief
+is actually that this doesn't require
+new legislation. The SEC can basically
+make the rules. They can do rulemaking.
+They can even do relief in advance of of
+rulem like they did for reggga ATS if
+you guys are familiar a few decades ago.
+M so we we've been working with them and
+I think actually the folks at the SEC
+Hester and the crypto task force you
+know we've been engaging in a lot of
+roundts including tokenization
+I think they're pretty keen to make this
+happen and I actually think the EU
+launch and and showing that you know
+these tokens are useful it works well
+customers love it it's a huge efficiency
+improvement and infrastructure
+improvement behind the scenes that makes
+all kinds of things that they care about
+easier. My my hope is that that'll help
+kind of spur innovation and and spur
+activity and acceptance worldwide, not
+just in Europe. The changing
+administration must be must have been
+huge for you. Uh it was definitely a
+positive because um you know pro
+probably over the much of the past much
+of the period of 2020 to 2024 we had to
+play defense. our business was under
+assault from multiple angles and I think
+at first when the administration changed
+having that not be a huge factor was a
+huge relief. Just just not having
+regulation by enforcement and not having
+to like spend a significant amount of
+mind share and resources on defending
+our business from from this onslaught.
+And then that shifted into, okay, well,
+we we've got to exercise a muscle that
+we haven't really had to exercise
+before, which is there's an openness to
+create new rules and to like actually
+move forward and and encourage
+innovation. What does that look like?
+What does it look like to actually work
+with an administration that wants to get
+on the front foot and make the US the
+leader? And I I think that's been very
+welcome. Yeah, I think you saw with the
+stable coin bill, you'll see with market
+structure that uh I think we'll be able
+to execute on this. What's it been like
+working with them? Just give us some
+color of like the actual process in this
+administration versus the last one.
+They've been moving fast, which is
+pretty amazing. I mean, uh Bo Hines and
+David Saxs care a lot about this. They
+care a lot about us being number one in
+in crypto as well as AI. They've been
+engaging industry and they're also like
+allergic to bureaucracy. I think in the
+in the previous administration, frankly,
+it was it was hard to get a meeting,
+right? Uh first of all, I I don't know
+for how long people weren't going into
+offices, but like it was remote
+meetings. It's hard to get this stuff
+done remotely. to you made a substantive
+difference in terms that that made a
+substantive difference because I think
+it's really hard to solve complex
+problems with multiple stakeholders
+remotely. So even just something as
+simple as like having a roundt wasn't
+really done couldn't couldn't really be
+done in the previous administration
+because they were all it was all just
+virtual chats everyone was working
+remotely. I have another crypto related
+question. I some one of the things I
+wonder about is who makes money in
+crypto and by that I mean like at one
+point there was a lot of excitement
+about the specific L1s right so Ethereum
+versus Salana etc but it's not clear to
+me that they're going to like collect
+tons of fees especially you know it's
+like you're using a layer 2 I don't know
+how much value or you're build and then
+you're going to build a layer two I
+don't know how much value actually then
+occurs to uh say Ethereum circle
+recently came public doing incredibly
+Well, that business is seems like it's
+insanely good. On the other hand, they
+pay a lot of their money to Coinbase for
+uh distribution, etc. So, I don't really
+know if they're going to like make a ton
+of money in the long time. Maybe it'll
+be the distribution. Are you going to,
+by the way, are you going to get in on
+that? Like, will Circle like at some
+point will you be collecting money from
+the stable coin issuers to the customers
+who hold that coin on your platform?
+Well, we we announced last year that we
+joined the dollar global network, which
+is a consortium with Paxos, Kraken, a
+bunch of other uh companies to create a
+new stable coin that's going to be
+global in nature and we'll pay very
+competitive interest to holders. So, the
+goal would actually be to take much of
+those economics and pay them in the form
+of interest to customers. Because if you
+think about it, if you're if you're
+holding, you know, USDC or most or
+tether, most other stable coins, uh
+you're not getting interest, which is
+Coinbase users are getting interest
+indirectly though, right? If they hold
+USDC on Coinbase and Circle remits money
+to Coinbase and then Coinbase remits
+money to the user, they are they are
+getting rewards. Uh which is which is
+true, but I think it's a little bit
+different than interest. And I think
+it's also not universal. I mean, you
+have to be holding it custodially. You
+can't be just like holding it on chain.
+And uh you're certainly not getting it
+if you're using Tether or or one of
+these others. So yeah, I think I think
+they can get rewards and incentives, but
+uh I think over time they'll have to
+they'll have to get interest as well
+because if you're not getting interest,
+you don't really have an incentive to
+hold US dollars in the form of stable
+coin. The incentive would just be Yeah.
+Right. convert it immediately and put it
+in a bank, which I think most crypto
+people would tell you it it kind of
+defeats the whole point of uh of using
+crypto. I think internationally it's
+okay because those people just want you
+get a convenience service. Yeah. So you
+can you can get rid of uh I think it's a
+good enough value proposition for now.
+But I think over time as the interest is
+unlocked um the the best stable coins
+will will actually the ones that
+ultimately gain market share are going
+to pay a very competitive interest rate.
+So that's going to become an axis for
+for competition and the end user will
+benefit. So, so actually to uh to cut to
+the chase, I'm not sure that's a
+long-term sustainable large revenue
+stream. I think it'll get competed away.
+Maybe no one will make money in crypto
+and it'll be the benefit of the
+consumer. I Well, okay, this is exactly
+the question I wanted to ask. Okay, so
+who makes money here? When I think about
+capital markets, like if I'm an old
+school investor or an old school
+economist thinking about capital
+markets, I think like, okay, well, an
+investor comes along and they give a
+company money uh and they get equity in
+return and the company uses that money
+to go out and expand their business and
+eventually they pay back the investor.
+And then I look at investing nowadays,
+I'm sure you've heard this criticism
+before, but so much of it seems
+extremely synthetic. you know, tokens
+built on top of tokens on top of tokens.
+I guess my question is like to you, what
+is the actual purpose of capital markets
+and this type of trading? I do think
+that
+there's a valuable purpose of of capital
+formation. I think it's gotten a little
+bit lost uh or or I'd say the retail
+investor in the US has gotten
+disconnected from that purpose because
+not too many companies are going public
+nowadays. I think past few months have
+been an exception locally. But if you
+look out broadly, you know, back in the
+80s or late '7s, you used to be able to
+get into a public company at IPO at a
+pretty low valuation and kind of get a
+thousandx or 10,000x return. I mean, if
+you'd invested in Microsoft or Apple at
+IPO, you you had a lot of upside left.
+So, companies used to go public earlier.
+Nowadays, you know, you've got SpaceX,
+Open AI, companies that are worth
+hundreds of hundreds of billions of
+dollars still staying private and those
+gains are acrewing to a smaller and
+smaller
+set of wealthy insiders. And I think
+that's another potential for the
+technology because, you know, as as I
+mentioned, we release SpaceX tokens to
+consumers as part of this um as part of
+our to catch a token event. And what
+that will do over time is you'll have
+24/7 liquid markets and private stocks
+as well. And uh I I think that's going
+to be very exciting. And in in the US,
+if those are permissible, which I think
+requires the crypto stuff, but also a
+relaxation of the accreditation
+standards, I think things start to get
+really interesting. Yeah. because then
+you you unlock capital formation at a
+greater scale and also uh participation
+for retail in uh some of these great
+opportunities like if you're retail and
+you want to gain exposure to the AI boom
+your options in the US are extremely
+limited and I actually think that's a
+huge problem because the AI boom is very
+very consequential to everyday people
+man the cir I'm also looking at the
+circle IPO this thing is insane it goes
+up like 20% % a day. I have a question
+about IPOs. I'd love to get your take on
+this. Um, every time there's an IPO that
+goes up, you have like the sort of like
+N is like actually this was bad and they
+left all this money on the table. There
+have been alternative routes to IPOing
+for decades actually late 90s Google
+famously did a Dutch auction when it
+became public etc. Yet the IPO as a
+thing persists. Do you have a theory for
+why? Like why is it that like the IPO
+model where the big bank the big legacy
+banks they get their allocation and
+their best clients get this big bump etc
+and the company leaves money on the
+table. Why does it persist for so long
+in your view? What does it say about
+market? Is this a roundabout way of
+asking why Robin Hood IPOed? No, I mean
+yeah sure maybe but like what is it
+about the traditional IPO that's so
+lindy? Uh well I think it's just uh
+enshrined in regulatory. No, it's not.
+The Google did a Dutch auction. There
+clearly other ways to go. Spaxs existed
+for they're coming back already. And yet
+and yet good companies continue to
+basically go by the IPO route. Yeah,
+that's a good question. I I would say
+those are all kind of variants of the
+IPO that people have experimented with.
+You have direct listings as well. Yeah.
+Downside of course with the direct
+listing is you can't raise primary
+capital which I think is is useful to a
+lot of companies like they do look at it
+as a financing event. Yeah. So uh I I
+think there will be some iteration and
+some experimentation within the IPO
+sandbox like we've seen. But I think you
+you look at tokenization of private
+companies. If we kind of pull on that
+thread, that that presents an
+interesting alternative to to companies
+as well, both for raising primary
+capital and for tapping into secondary
+liquidity for shareholders. I think it's
+not yet clear what the impact of that
+will be long-term to capital markets,
+but it's definitely coming. So, you
+mentioned the um accredited investor
+limitations regulations in the US, and
+I've never I've never really decided how
+I feel about them because, you know, on
+the one hand, they're supposed to
+protect uninformed retail investors, I
+guess. On the other hand, they do seem
+to lock people out of a lot of
+opportunities in the market. And one
+thing you hear from companies such as
+Robin Hood is this idea of democratizing
+finance. Like that is the buzz word and
+the catch word and we're going to bring
+all these opport
+No, they talked about that with E Trade.
+I I I was I was a day trader in 99. Also
+peer-to-peer lending like they were all
+over that. Okay. But on that note, fine.
+We'll let you. They got it from us.
+Okay. Okay. Okay. But on this note, like
+is there a limit to how far you can
+democratize finance or do you believe
+there should be like any guard rails in
+terms of investor access? I think any is
+a big term. I mean obviously I can think
+of some examples of things that
+maybe shouldn't be uh democratized or at
+least democratized first. like I I don't
+know if retail needs to be trading
+collateralized debt obligations or some
+of these heavily institutional products,
+but um I I think with private companies,
+it's a little bit of an easier
+discussion. Um I think that it's hard to
+imagine an argument for why retail
+should not have access to that. Like the
+the an argument that on its face isn't
+illogical. I mean, you have access to so
+many things. You can just spend your
+money on Amazon and buy all sorts of
+trinkets that immediately lose value and
+depreciate. You can buy meme coins,
+right? So, the idea that those classes
+of ways to spend your money are okay,
+but buying open AI or SpaceX stock, I
+think I think on its face, it's
+illogical. either we have to ban a whole
+bunch of other things that people do to
+blow their money should be. Uh my issue
+is that I think in a world where
+everything is available, you induce a
+lot of people to essentially find ways
+to fraud to create fraud whereas a
+trinket is a trinket. Anyway, I think uh
+we have to let you go. We could talk for
+uh a really long time. Will everything
+be on chain in the future? I don't know
+about everything. Okay. But I think
+anything that people want to trade, buy
+or sell, and and get liquidity on, uh,
+will likely find its way on chain. All
+right, Blood Tennov, thank you so much
+for, uh, coming on Oddlash. That was a
+blast. Thank you guys. Thank you.
+[Music]
+Tracy, I really can't believe the degree
+to which like a blockchain I mean he
+didn't say blockchain, but it's every
+all these companies have their own
+chain. So like Coinbase has its own
+chain called base, Robin Hood with its
+own chain. Like I thought that was so
+ridiculous the idea like seven or eight
+years ago and and it's a little
+different like they're not putting
+tomatoes on chain but like the change
+themselves that where the coin is not
+that important. It sort of took off in a
+way that I wouldn't have guessed. Here's
+my question. If you're a person right
+now who is not trading crypto, yeah, is
+there anything in your day-today life
+that is, you know, trading or existing
+or being tracked onchain? I don't really
+think so. No, I don't think so. So, but
+it does but So, we're still we're still
+in the wait and see mode. People are
+still talking about it. And yeah, I
+guess like I'm I'm open to the idea that
+chain technology is going to change
+things and and make things different,
+but I guess like why hasn't it happened
+already? And then B, it sounds still
+like the barrier isn't necessarily
+technology. Like we have things that
+would allow you to do this, but it's
+still regulatory. I mean, it sounds like
+the reason it didn't happen is because
+all the Biden administration people were
+working from home and they could they
+didn't have round table. No, it does
+sound like probably that is part of it.
+the sort of changing regulatory
+environment and the deep suspicion
+towards crypto for better or worse uh on
+the part of the Democratic party in the
+US like obviously seems pretty real and
+I do think it's seems like that between
+the Genius Act moving forward in
+Congress and obviously the changing of
+the guard at the SEC there is a real
+movement and to my mind it's not really
+like and again I always sort of go back
+um and think about our episodes with
+Austin Campbell to my It's not like okay
+like there is some benefit to me right
+now in the existence of chains but the
+idea that like legacy software for
+reasons that we all know is never going
+to get its act together to have
+something like 247 trading for better or
+worse I don't even know if 247 is
+trading but some people want to do it
+because some people want to trade at 3
+p.m. in the afternoon and it sounds like
+uh or what I suspect and I think is
+probably like real or imminent is that
+through change that that will uh that
+that will be something that becomes
+fairly common. I guess here's where I'm
+coming from. It seems to me that a lot
+of this is incremental rather than
+revolutionary. And when people were
+first talking about it, it was very much
+in those revolutionary terms. And now it
+just seems like, you know, like an
+impiency
+improvement. I I totally agree with
+that. I mean, one thing this is
+definitely not is some sort of like
+cipher punk vision where people are
+trading everything without the
+government being able to look at it.
+That is definitely true. But, you know,
+like the efficiency improvement is
+actually it's not nothing. Like, don't
+get me wrong, it's not only not nothing.
+It's not nothing. It's actually kind of
+a surprise to me because the the um the
+way people talked about, you know, the
+thing with blockchains is that they're
+decentralized and costly. And you
+brought up the point of Ethereum gas
+fees, but if everyone can have these
+sort of basically low fee layer twos
+because they're more they're in large
+part centrally run, you sort of solve
+some of the compute issues because
+you're not you don't have to like uh
+coordinate all these different nodes
+around the world. It's the Robin Hood
+chain. It's the Coinbase chain. It's
+whatever.
+Maybe it is more efficient than legacy
+infrastructure that has been updated and
+cobbled together for like literally
+decades and will be here decades from
+now. It's certainly true that you don't
+hear the gas fee complaints the way you
+used to, right? Like some of that's been
+solved. All right. Well, should we leave
+it there? Yeah, let's leave it there.
+This has been another episode of the Odd
+Thoughts podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway. And I'm
+Jill Weisenthal. You can follow me at
+the stalwart. Follow our guest Vlad
+Tennv at Vladenev. Follow our producers
+Kerman Rodriguez at Carmen Arman Dashel
+Bennett at Dashbot and Kalebrooks at
+Kalebrooks. For more OddLots content, go
+to bloomberg.com/odlots
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+all of these topics 247 in our Discord,
+discord.gg/odlots.
+And if you enjoy all thoughts, if you
+like it when we talk about the future of
+trading, then please leave us a positive
+review on your favorite podcast
+platform. And remember, if you are a
+Bloomberg subscriber, you can listen to
+all of our episodes absolutely adree.
+All you need to do is find the Bloomberg
+channel on Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+[Music]

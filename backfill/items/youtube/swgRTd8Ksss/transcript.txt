@@ -1,0 +1,1232 @@
+Kind: captions
+Language: en
+[Music]
+This is business breakdowns.
+Business breakdowns is a series of
+conversations with investors and
+operators diving deep into a single
+business. For each business, we explore
+its history, its business model, its
+competitive advantages, and what makes
+it tick.
+We believe every business has lessons
+and secrets that investors and operators
+can learn from and we are here to bring
+them to you. To find more episodes of
+breakdowns, check out join colossus.com.
+All opinions expressed by hosts and
+podcast guests are solely their own
+opinions. Hosts, podcast guests, their
+employers or affiliates may maintain
+positions in the securities discussed in
+this podcast. This podcast is
+forformational purposes only and should
+not be relied upon as a basis for
+investment decisions.
+This is Matt Russell and today we are
+breaking down Agyant. If you aren't
+familiar with Agyant, it is a $30
+billion market cap company at the time
+of this recording and they focus on one
+of the more interesting niches,
+equipment and instruments sold into
+laboratories. So you can think of this
+equipment being sold to the life
+sciences sector, diagnostics,
+applied chemical markets, some very
+unique R&amp;D work. My guest is Mark Dvas,
+fund manager at Troy Asset Management.
+And Mark brings us through the story of
+Agelant. This is something that was born
+within Huelet Packard, spun off a little
+more than 25 years ago. And Mark helps
+break down what can be a very
+complicated concept around things like
+cromatography and some of the other
+things that Agyant's involved in. But
+this is a deeply ingrained industry
+player with a unique razor and razor
+blade model and a business that has
+evolved over time. These episodes tend
+to be my favorite and this one lives up
+to the others. Please enjoy this
+breakdown of Agyant.
+All right, Mark, I am excited to have
+you here to talk Agyant. We were
+laughing a bit last week before the
+episode. One of the key things is just
+going to be establishing what Agyant
+actually is, what they do. I love these
+niche industries and the niche
+businesses that don't get as much
+airtime or coverage. Let's just start
+there. Do your best simple overview of
+what Agyant does as a business.
+&gt;&gt; Agyant is a leading provider of
+instruments, services, and consumables
+for labs. Sounds simple. You can picture
+one of their typical agyant instruments
+to be about the size of a small fridge,
+maybe on a lab bench, something like
+that. And its core use case is to tell
+you what molecules are in a sample that
+you're testing. A real world use case of
+this might be you've got a
+pharmaceutical company producing a drug.
+Let's say they're making aspirin and
+they take one tablet off the production
+line for every thousand tablets that
+they make or something like that. Those
+samples could be run through an agent
+piece of equipment and they would be
+testing to check they have the right
+amount of the active ingredient in them
+and importantly that there are no
+contaminants in them as well. Agent will
+sell them the instrument that can
+analyze that sample and also provide the
+ongoing service supports and consumables
+needed to run the instrument. If I'm
+thinking about this right, it's mostly
+bio medical type work that they're
+operating around and specifically in the
+labs of those businesses. Is that a fair
+way to categorize their end market?
+&gt;&gt; Yes, the business itself is actually
+pretty broad today. They're in 110
+countries today, 285,000 labs. So, it's
+pretty broad, split between, you know,
+America's Europe and AP pack. In terms
+of the actual markets, the kind of end
+customers, pharmaceutical customers are
+the largest end market for them. So,
+that's about a third of their sales or
+so. Academia and government, you can
+imagine universities use stuff. That's
+another 10% or so. About 20% of the
+business is chemicals or advanced
+materials, which is interesting. So you
+could think of battery testing for EVs
+or semiconductor production. And another
+20% is actually food and environmental
+testing. So this would be for
+contaminants perhaps in your water
+supply, something like that.
+&gt;&gt; Is there any way to measure how big of a
+market this actually is? I'm always
+curious with these niche industries that
+revolve around very big end markets as
+it relates to drugs or anything along
+those lines. How do you categorize just
+overall market size for an agyant?
+Agelant do publish a sort of total
+address buildable market stat and it's $
+160 billion which is unsurprisingly a
+really big number when you think about
+all the companies and businesses in the
+world that need to test samples. Agent's
+revenue today is about $6.5 billion much
+smaller than that TAM number. In reality
+actually when you dig into those niche
+and markets they generally have a number
+one or two position in most of their key
+markets. It's generally a pretty stable
+competitor set. If a company publishes a
+TAM number, it's probably going to be a
+big one. That's a fair way, but
+interesting to get that context of 6 and
+a half versus 150 just for perspective.
+Let's go back to the origin of the
+business. Where did Agyant come from?
+What is the origin story? How long has
+it been around? Anything that's key to
+its history that you would include?
+&gt;&gt; I think Agelant has a really interesting
+history. It actually starts way back in
+1938. Huelet Packard or HP started by
+two electrical engineers. So Bill Hulet
+and Dave Packard work in the garage.
+Yeah, pretty well-known story. And the
+first product they developed, of course,
+was actually a testing instrument. It
+was used to test audio equipment used by
+Disney in the production of Fantasia,
+the movie way back then. Over the years,
+HP built out their testing and
+measurement business, both electrical
+testing, but also over time for
+molecular analysis. And this included
+the acquisition of a small business
+called F&amp;M Scientific in 1965. That
+business had quickly become the leader
+in what's called gas chromatography
+instruments. Their instruments were used
+for the first full-scale testing for
+steroids in the 1972 Munich Summer
+Olympics. The business continued to grow
+over the years that followed. In 1999,
+HP focused more on its computer
+business, and they spun out several
+businesses, including testing and
+measurement into a new business called
+Agyant. HP kept their computing and
+imaging business with everything else
+going into Agyant. It was a bit of a
+mixture of assets that they inherited,
+but there was also some real gems in
+there. obviously years or decades of R&amp;D
+particularly in chromatography. In the
+years that followed, the agyant
+management team refocused on its
+molecular testing business. So they sold
+their medical business to Philillips in
+2001. They actually had a pretty
+successful semiconductor component
+business that they sold in 2005 to KKR
+and Silverlake. This would go on to
+become a Vargo, which then became
+Broadcom after they bought it. So it's
+been tremendously successful on its own.
+In 2014, that's the most recent
+significant change. So Agent spun out
+their electronic measurement business
+into a separately listed company called
+Ksite Technologies. It's still listed
+today. It's doing well. That's really
+important. At the time it was about 40%
+of sales they were spinning out. And
+Ksite, whilst it was a great business,
+was selling equipment predominantly used
+for testing electronic devices during
+manufacture. So this was a really
+cyclical business and didn't really
+closely align with the rest of what
+Agelant was doing. The business that
+remained was entirely focused on
+analytical equipment for the life
+sciences, diagnostics, and chemicals
+market. So much more focus. What the
+management team was trying to do was
+have a much more clean, predictable,
+less volatile business, but still have
+those long-term growth drivers. It's
+very interesting when you find these
+family trees. Standard oil being one
+that broke up, but all essentially in
+the oil business in various forms. HP
+being a new one that prior to this
+episode I didn't appreciate just how
+much had been born out of that family.
+Quite some impressive market caps on
+those businesses that you referenced.
+You mentioned the electrical testing
+versus molecular testing feels very
+different to me in terms of yes they're
+both testing something at the surface
+level but molecular versus electrical
+feels like it's very wide gap. Was there
+a certain cultural DNA or recruiting
+mechanism that they got people attracted
+to the overall HP brand that allowed
+them to do that? This is a bit of a
+segue, but I am curious how they were
+able to foster innovation in two
+relatively different categories, at
+least to my brain. I think they
+inherited a lot of people. So, Agent is
+still based in Santa Clara. I think
+they're about 20-minute drive, their
+current HQ, from the original HP garage
+where it all started. There's obviously
+this sort of HP way culture as well,
+which we obviously own the shares. We've
+been impressed with the way that they
+run the business for the long term. The
+way they look after their people, you
+kind of get a sense for it, but we
+experienced that in COVID where right
+off the bat they were first out the
+doors saying no one in this company is
+losing their jobs or anything like that.
+I think that builds up loyalty and it's
+not unusual when we meet the managers.
+They're generally agent lifers that
+started as engineers. It's interesting
+where you might have a separation, but
+there still exists some type of relation
+to the original family tree and some of
+the talent that comes along with it. You
+mentioned when we were talking before a
+bit of a razor razor blade approach with
+their business, how would you categorize
+what they're doing beyond selling just
+equipment outright?
+&gt;&gt; In terms of how I think about the
+business, about a third of it is selling
+instruments. The largest category of
+which is chromatography instruments.
+These are large sort of initial sales
+and then two/irds of the business is
+selling consumables, servicing or
+software which are mostly related to the
+instruments they're selling. So it's
+that roughly 1/3 2/3 split. I've
+mentioned chromatography a few times.
+What this actually is is a machine that
+forces a sample, it could be a liquid or
+a gas at pressure through something
+called a column. You can think of a
+column as a metal tube that's stuffed
+with material that slows down the
+molecules in that sample at different
+rates. This means that the liquid or gas
+separates into different molecule groups
+as it passes through that column. And
+then on the output of the machine,
+you've got a sensor that detects the
+molecules now separated. And depending
+on the type of sensor, it could also
+quantify how much of those different
+molecules coming out. So it's a powerful
+tool. Typically, when they're selling
+one of those instruments, a
+chromatography instrument, it will cost
+around $100,000. Obviously, there's a
+huge range, but let's go with that for
+now. And it's got a useful life of about
+6 to 10 years. Over that useful life,
+the customer will typically spend
+another $100,000 on ongoing consumable
+and servicing spend. That spend is split
+roughly equally between physical
+consumables and service costs. So, just
+talking about the consumables for a
+second. The bulk of that expense is
+those columns that we just described.
+They've got a limited period of use,
+perhaps maybe 2,000 samples, something
+like that. and you need to replace them
+as the columns responsible for
+separating out that material and it's
+degraded by high temperature or extreme
+pH levels things like that and that
+impacts the resolution of the instrument
+these are used for pretty critical
+applications you basically have to
+replace it often it wouldn't be unusual
+to hear a customer replace it every
+month or so servicing is a bit different
+it's more focused on repairs
+recalibration cleaning or a service
+called qualification where they will be
+validating the machine is operating
+correctly so I saying Agyant is one of
+only two companies that has the ability
+to service other companies equipment in
+the same lab as well. So it's a pretty
+big benefit if you're dealing with a
+large customer and increasingly agent
+services are sold as part of a broader
+service contract that's agreed when they
+sell the new instruments. One of the
+ways to judge it would be they publish a
+number that's the percentage of
+instruments out there that have active
+service contracts. It's called the
+attach rate and it's been steadily
+increasing over time. So it's gone over
+the last five years from a sort of high
+20s number to a low30s percent and we
+expect it to continue to grow about a
+percentage point a year. This is a great
+business. It sounds boring but the bulk
+of agent's customers are operating in
+regulated industries where they need to
+spend on consumables and servicing if
+they're using the instrument. The
+example I gave earlier quite often the
+quality control process will be written
+into the FDA approval for a drug and
+they might even mention the exact
+instrument and consumables being used.
+Once that happens and it's approved,
+it's expensive for the customer to move
+to a different instrument and also
+there's some risks attached with that.
+So, it gives a really nice recurring
+revenue on that consumable service
+spend.
+&gt;&gt; Is it right to think about the agyant
+equipment being used in the assembly
+line essentially once a drug has already
+passed the approval rather than in the
+original testing or drug development
+stage?
+&gt;&gt; They straddle both. I think probably
+you're right though in that the sales
+split would skew towards production.
+They definitely make those cutting edge
+instruments which you use for your
+research and development. There's just a
+lot more production out there. When you
+look at the innovations, there's
+definitely innovations around making the
+machines higher resolution, more
+accurate, but actually a lot of the
+innovations are focused on throughput
+where this is a lab that's testing
+10,000 samples a day. And if you can do
+it with one less instrument, then that's
+a big saving. My next natural question
+was going to be what governs the
+decision for a lab to buy another piece
+of equipment, another agyant system. Do
+you see labs with multiple on their
+assembly line or is there typically just
+one associated with each drug? I'm
+trying to understand whether it's
+capacity constraints or what drives
+that.
+&gt;&gt; Typically in a production center, you'd
+have a lab attached to it and they would
+have several instruments as part of that
+and generally they will choose a single
+primary supplier. They may have a sort
+of secondary supplier there as well, but
+just for simplicity in terms of having
+spare parts on site, ongoing service and
+support, it's generally just easier to
+have one instrument when they're
+considering going from that fourth to
+that fifth machine. They're considering
+the service they've received. I think
+most customers would probably highlight
+service as the primary driver of their
+decision. It's worth saying the machines
+are complex. There is a technical
+capability, so it's not like there's 500
+options out there. It's a reasonably
+small group that you got to choose from.
+But Agent is this one-stop shop where
+you can get your instrument, you can get
+your consumables, you can get your
+servicing, you know, all in one package.
+&gt;&gt; Talk a little bit about the competition.
+You mentioned there's one other
+competitor that can actually service
+third party machines as well. What does
+the competition look like? Maybe we can
+start just in the equipment segment and
+branch out from there.
+&gt;&gt; Generally, they're competing, I'd say,
+against two main businesses. There are
+others, but two main ones. one being a
+company called Waters and another called
+Thermoffisher Scientific. Waters is a
+strong competitor in liquid
+chromatography, but it's more narrowly
+focused on the pharmaceutical market. So
+around 60% of their sales are from
+pharmaceutical customers. They're also a
+smaller business. So revenue for waters
+about half that of Agelin, so around $3
+billion. Adjun's just above six.
+Thermopish is almost the opposite. It's
+a huge business, $43 billion of revenue
+built largely through acquisitions. And
+if you to open a thermopisher scientific
+catalog, you would see there's a much
+broader array of products. So they sell
+everything lab fridges, test tubes, hot
+plates, centrifuges, lab shakers, water
+baths, etc. as well as the
+chromatography instruments that actually
+compete with Agelant. So maybe a bit
+less of a specialist in that sense. What
+drew us to Agelant was its diversified
+exposure by end market, but also its
+focus on niches where it has high market
+share. Can you talk a little bit about
+those niches? If you take a waters who's
+entirely focused on pharma, what would
+be the other categories or niches within
+those categories that would be
+highlights for an agyant?
+&gt;&gt; Gas chromatography is the golden
+business within agilant. That's
+obviously where it came from. So F&amp;M
+Scientific originally that HP bought,
+they were a gas chromatography
+specialist. Agyant is still by far the
+market leader in gas chromatography.
+They're probably twothirds of the global
+market for those instruments. they
+really dominate there. The difference
+between gas and liquid is predominantly
+driven by the the sample. So gas,
+unsurprising, you're testing a gas. The
+way you get it to a gas is you heat it
+or you burn it. If you're a
+pharmaceutical company and you're
+testing a complex protein or something,
+you can't heat it up because you'll
+destroy it in the process. So therefore,
+you have to test it as a liquid. So
+generally gas chromatography skews what
+we'll call applied markets. So you can
+think of that as battery testing,
+environmental testing for contaminants
+and pollutants and things like that.
+They're really uniquely strong, I would
+say, in applied markets for gas
+chromatography.
+&gt;&gt; These examples, they're reminding me of
+refineries from oil and gas just in the
+way that they can handle this input and
+turn it into many bride products or
+outputs. There's a lot of differences,
+but it's interesting how much similarity
+there is.
+&gt;&gt; One of their customers is testing the
+outputs of refineries. Obviously, there
+are other areas as well where they're
+pretty strong. So, liquid chromatography
+is the other one. They're probably about
+a third of the market. Waters probably
+has about a third of that market as
+well. And then the balance is smaller
+players and thermos showing the risk.
+They're also pretty strong in
+spectroscopy. So, that's 40 50% of the
+market. I'd say that gas chromatography
+and applied is a postchild market.
+&gt;&gt; I would assume that a lot of the
+consumables and maintenance has somewhat
+of a reoccurring or straightforward
+measurement from year to year. the new
+equipment sales. You have this 6 to 8
+year useful life. Are there major cycles
+boom bust oriented that don't just
+revolve around customer losses? From an
+industry perspective, have there been
+tailwinds or headwinds that have
+resulted in shocks over time?
+&gt;&gt; In short, yes. Agent's obviously pretty
+diversified by end market, which has
+meant when there's been cycles in some
+of their smaller markets, they've kind
+of been able to weather it. One end
+market's a bit weaker, another market's
+doing a bit better. Generally they
+struggle when their largest
+pharmaceutical companies when that's
+doing badly which we've just hopefully
+we're seeing the other side of now
+they're just coming out of a sort of
+downturn there effectively what happened
+was you obviously had the co9 pandemic
+there was a lot of investment from
+pharmaceutical companies into building
+out lab capacity and spending on R&amp;D and
+they bought well above the normal level
+of instruments so you saw this boom in
+instrument sales growth and then of
+course the CFO turns around and goes
+we've got lots of instruments we don't
+need to buy anymore for a couple of
+years you see the other side of that it
+looks like we're just returning back
+towards normal purchase levels now. So
+hopefully that's behind them. The other
+notable area is China. So China is about
+18% of group sales. It's half of that
+Asia Pacific region. Obviously there's
+been challenges in China. It's a market
+that's led quite heavily by government
+grants as well to local companies that
+then go on and buy agelant pieces of
+equipment. Basically we've been through
+a sort of down cycle there. Again, it
+looks like that's improving at the
+moment. for something like the COVID
+shock where you had this major
+investment when you think about the
+useful life of that equipment and at
+some point towards the end of the decade
+you'll come up on that 6 to8 years is
+the expectation that there would be
+renewals do pharmaceuticals tend to take
+capacity offline if it's related to
+something which has a shorter life cycle
+how does that work just in terms of the
+visibility that you might have on the 6
+to 8 years and the replacement cycle
+cycles coming through and showing up in
+revenue.
+&gt;&gt; I think just talking about
+pharmaceuticals, there should be growth
+really in pharmaceutical R&amp;D spend over
+the long term. We expect to see growth
+there driven by increasing demand for
+health care, whether that's aging
+populations. I know the World Health
+Organization has population over 60
+nearly doubling to 2050. Things like
+that are just going to drive healthcare
+spend in our opinion in one direction
+and that's a tailwind for agelant. The
+reality in the short term is that if an
+instrument's six years old, they could
+of course run it until it's eight years.
+There's nothing, it doesn't stop
+working, the parts are still available,
+they definitely could. What the drives
+are for that upgrade tend to be these
+instruments are operating at high
+temperature with sometimes nasty
+chemicals inside them. All components in
+them will eventually wear out. You've
+got the consumables which are designed
+to be replaced, but you can think of all
+the valves, the heaters, everything else
+will just start to break more after a
+long period of time. and lab downtime is
+problematic for these pharmaceutical
+companies. They'll want to be getting
+rid of these instruments before they
+start to see a fair amount of downtime,
+which will naturally happen as they
+become older instruments. They'll just
+be looking to upgrade. The other thing
+is there are typically reasonably
+significant upgrades to the platform
+every 3 years or so. After six years,
+you're probably two years, maybe eight
+years, three upgrade cycles in. And
+there should be a meaningful upgrade in
+terms of either resolution or
+throughput, which should help justify
+the upgrade spend effectively.
+&gt;&gt; With the competition, you mentioned that
+service is a major driver of the
+decision-m there. When it comes to
+innovation,
+has there been a historical trend line
+for Agyant or maybe a competitor where
+innovation has really driven market
+share gains or someone moving up the
+chain in terms of what they've captured
+of the market? I don't think so. We
+talked to the companies a fair bit and
+they talk about reasonably stable market
+shares overall. I think if you do a
+really good product launch after a
+couple years, you might gain a
+percentage point of market share. These
+are very entrenched, stable market
+shares. Waters actually had a chart in
+one of their investor days which showed
+sales of a specific type of column over
+time. We're talking over decades and it
+was basically a flat line and this was
+because of that point around it being
+tied into drug certifications and once
+it's tied in people just use the
+instruments again and again and again.
+If it works and they're getting good
+service they generally don't change it.
+So that's why that service component is
+so key.
+&gt;&gt; You mentioned there's stable market
+shares. Do those tend to be stable with
+the same existing customer base? Is
+there a lack of switching that tends to
+happen?
+&gt;&gt; It's pretty rare that a customer will
+build out a whole new lab. They'll
+generally be upgrading one section of a
+lab. There's that incumbency bias. We
+have seen companies talk about some
+opportunities where you're getting
+pharmaceutical companies thinking about
+maybe reshoring labs. That's one of the
+few examples where you're getting, you
+know, whole new labs being set up and
+that's an opportunity where you can kit
+out a lab. Increasingly, the service
+part is being folded into the discussion
+on instruments as well. And this is
+benefiting those large incumbents.
+Agelant has 4,000 service technicians
+that they employ directly. Pretty hard
+to compete with that. 75% of their
+technicians hold a degree in chemistry
+or biochemistry. 25% have a masters or
+PhD. So, these are really skilled,
+bright people that are out doing two and
+a half thousand on-site service calls a
+day. They're trying to fold that into
+the discussion around instrument sales
+more. I would say
+&gt;&gt; the point on the risk associated with
+switching providers might be the most
+meaningful thing. I'm curious, do you
+have any data points or measurement for
+what the cost of this equipment
+represents to the end customer just in
+terms of is it a large percentage of the
+overall cost of production or anything
+else that represents a large or
+relatively small piece of that? We're
+thinking about a production facility
+that maybe has five or so of these sorts
+of instruments, maybe slightly different
+types. Over those five instruments,
+let's say over an 8-year period, they're
+spending a million dollars on the
+instruments and servicing and
+consumables. It's sort of a rounding
+error in the scale of a pharmaceutical
+production facility over 8 years, both
+from a revenue generated, profit
+generated or the other costs in that
+business. This is one where obviously
+the cost of a product failure. So if
+you're failing to spot a contaminant or
+a problem or something like that, that
+cost is almost unquantifiable. The
+damage alone to the brand would be huge.
+One of the main things you will hear in
+these niche markets that represent a
+very small percentage of the overall
+product but are missionritical is it's a
+very good spot to be in if you've
+captured market share in those
+industries. I'm curious how that impacts
+the revenue model broadly. We can break
+it down if possible. You gave us some
+sense just in terms of volume trends
+over time. How do they decide on price
+and it might be different obviously for
+new equipment versus service and
+everything else? But is there a general
+framework for how you think about
+pricing as it revolves around the
+business?
+&gt;&gt; They don't give a sort of full
+disclosure on price volume, but from our
+conversations, it seems like they've
+been reasonably cautious on price. So
+low single digits in recent years per
+year kind of number price rises.
+Certainly not the 10 15% we've seen in
+the food companies for example. I think
+generally they're aware that often
+they've got relationships with these
+businesses that have been going on for
+30 40 50 years and they're much more
+focused around maintaining that business
+and that strong relationship and
+actually they take a little bit less on
+price but maybe the customer takes a
+service contract or something like that
+that more than pays for any loss
+pricing. Generally, I'd expect low
+singledigit price growth number with a
+balance driven by volume.
+&gt;&gt; How has revenue trended? Whatever
+periods you want to pick, whether it's
+three, five, 10, I know you have various
+things that impact those, but where does
+this business tend to grow and industry
+tend to grow at?
+&gt;&gt; I'll pick nine if that's okay. Not
+because I'm being selective with my date
+range. It's the longest that I can go
+post the key site spin. It all gets a
+bit noisy around that time. Since 2015
+or so, sales growth at the business has
+averaged about 5% organically, about 6%
+reported, so they've done a little bit
+of bolt-on M&amp;A. They've had decent
+margin growth over that period. EPS has
+grown a fair bit faster, about 13%
+kagger over that 9-year period. We can
+get into margins a bit. Is there a
+drastic variance to the extent that they
+split it between the various segments?
+Is there a massive variance between
+equipment sales versus the service and
+consumables in terms of margin profile?
+&gt;&gt; Yes, and surprisingly consumables and
+servicing is a fantastic business. I
+think the instrument sales is definitely
+more competitive than the servicing. I
+think consumables is probably the most
+competitive. So the instrument sale
+business depends a bit where they're
+selling to. Selling to life sciences,
+they're making around a 20% operating
+margin, but selling to the applied
+markets I spoke about, it's a little bit
+higher, sort of 24% or so operating
+margins. If we think about that
+consumable and servicing business,
+that's a 34% margin business. It's grown
+pretty steadily over time. It's also
+been amongst the fastest growing
+divisions at 50% of revenue. Obviously,
+it's a higher percentage of profit.
+Where does that go over time and where
+did it come from in terms of it being a
+business that's split 50/50 between
+those two? What do you expect that trend
+line to be? And maybe some context in
+the history will be useful as well. I
+think rolling back 10 years, I talked to
+the very smiley former CEO. He would say
+they didn't do an amazing job perhaps at
+selling services at the same time they
+were making instrument sales. So
+typically it was two different teams.
+One team would go, "Yes, we sold an
+instrument." And then maybe 6 months
+later, someone from Agilants, they call
+it Cross Lab. It's their servicesvicing
+division would walk in and try and sell
+their services. by which point maybe a
+local technician group, maybe a
+competitor had already gone in there and
+signed a deal. One of their core
+strategic focuses in recent years has
+been increasing that attach rate that I
+talked about. The percentage of
+instruments that have an active service
+subscription and they've been pretty
+successful at that. So they're in the
+low30s percent of active instruments out
+there. New instruments sold is obviously
+a fair bit higher. And if we were to
+look at some of their peers, Waters,
+who's been much better for much longer
+at selling those servicing contracts
+with instruments, they're in the 50s%.
+There's definitely a pretty long runway,
+I think, on that. And then when you
+think about the economics of that
+service business, it's a classic density
+business whereby you're in a city,
+you've got five technicians that operate
+in that city to take on 5% more
+business. You don't need an extra
+person. They're just filling out their
+calendar. You've got a fixed cost for
+the office. you got an admin team there.
+It really scales quite nicely as you
+build up density in a local area.
+&gt;&gt; In terms of the conversion, you
+mentioned earnings growth and that being
+quite a bit higher than revenue growth
+driven by that margin expansion. How has
+the cash flow profile evolved? Whether
+it's cash conversion, anything around
+free cash flow for the business over
+time.
+&gt;&gt; Company generates around $1.4 billion or
+so of free cash flow a year. It's about
+90% of adjusted net income. It's been
+pretty stable in recent years, that 90%
+number. The primary difference has been
+an increase in capex spend in recent
+years. They're basically building out a
+facility for a new business segment that
+they're working on.
+&gt;&gt; I would love to hear more about a new
+business segment that always adds
+something interesting to what feels like
+a pretty straight and narrow business
+story thus far.
+&gt;&gt; Perhaps new business segment is actually
+a little bit harsh. It's actually an old
+business segment which is growing
+rapidly. So they have a notable business
+that they call NASD nucleic acid
+solutions department NASD produces what
+are called oligoucleotides oligos we can
+call them they're basically short
+strands of labm made DNA or RNA and
+they're used to treat some genetic
+diseases and importantly in some RNA
+based vaccines or drugs including the co
+19 vaccine. So these oligos are a key
+part of the production process and
+they're used typically to help stabilize
+the RNA during production. Basically
+it's basically a chemical that's used
+during the production of these advanced
+drugs and vaccines and agent is the
+clear leader in producing these. It's
+interesting is it was actually initially
+a tiny part of agent. It was formed in
+2006 by merging some technology agent
+already had inhouse which was around
+knowledge on RNA molecule synthesis with
+a business they acquired called Signpro.
+again a tiny company they bought back in
+2006. They merged it, kept it running
+and then this really took off a few
+years ago. They continued to develop it
+over basically 20 years and then in 2018
+they started to see a lot of orders both
+the development and potentially
+commercialization of some of these
+drugs. At that point they had an
+interesting decision to make. They
+basically had to either invest $185
+million in growing this production
+facility or basically not and give away
+the business either to someone else or
+try and sell that asset. They decided to
+invest organically back their engineers
+and so they spent $185 million in 2018
+and demand continued to grow. So
+actually in 2023 they broke ground on a
+further $725 million expansion of that
+facility. It's in Frederick, Colorado.
+So far demand's been really strong and
+they're by far the leader in this sort
+of niche CDMO sector. It's the same
+customers but it's a different product
+to what they've done in the past.
+&gt;&gt; If cromatography was not complex enough,
+I'm glad we've introduced something else
+here. It's very interesting to hear how
+this has evolved. Am I right to think
+that the legacy business is in some ways
+selling the piction shovels to the gold
+rush here? They're developing an actual
+molecule. I'm just curious about the
+demand profile for that molecule and how
+it might vary versus what you look for
+in their legacy business or what else
+you would point to in terms of the
+differences cuz you tapped into it there
+and I'm just curious if you could expand
+on that a bit more.
+&gt;&gt; They're not generally tied to a single
+pharmaceutical company. They work with
+basically all of the main manufacturers
+of these types of drugs. There is
+definitely a more customization for each
+specific project. So they generally
+partner with them quite early during the
+development phase. Agent probably won't
+be making very much money on it while
+they develop these custom sort of oligos
+to support the project. But the payback
+is if they make it to commercialization
+and some of them are now moving to
+commercialization that the volume really
+ramps and that stays with Agyant.
+There's no other company that has equal
+capacity or larger capacity than Agelant
+for producing these specialist oligos.
+Like most things, it's probably easy to
+make in really small quantities, but if
+you want to make production grade stuff
+where you can make 100,000 vaccines,
+then really it's only agyant you can
+work with who have that facility. There
+are definitely differences. I think
+you're right, but it's similar in that
+it's not tied to a single all-inone drug
+or nothing.
+&gt;&gt; Is it tied to the mRNA more broadly that
+theme within pharma broadly?
+&gt;&gt; Correct. the step back of RNA based
+drugs is unhelpful and things like
+changing in the funding environment and
+things like that. You definitely see
+that in some of their results where
+companies focus less on R&amp;D one year and
+more on commercialization to respond to
+funding changes basically.
+&gt;&gt; And you mentioned it's gone from small
+to it's not huge but it's a much bigger
+portion of the business now. What does
+it represent versus what it was before?
+Their core NASD internally developed is
+a little over $300 million now of
+revenue. They've also acquired a
+business for about a billion dollars
+called Biovectra which is in a similar
+space. It does slightly different things
+but very similar. So altogether they're
+about $470 million of revenue. So about
+7% of sales or so.
+&gt;&gt; Impressive to come from something so
+small especially when the rest of the
+business is growing alongside you. When
+you think about that as a shareholder
+you mentioned a bit about the margin
+profile not being great in the early
+stages. So you're investing with this
+long cycle of return. I'm just curious
+to get into your head about how that all
+felt maybe years back versus where we
+are today because it is a bit different
+with inside the business and they've
+gone from if we go all the way back to
+the HP days that being a conglomerate in
+many things to much more pure play. How
+do you frame that type of somewhat
+strategic adaptation to include this
+with some of those things in mind?
+&gt;&gt; Way back at the start of the
+conversation in Agelant's history, I
+went through an example where they gave
+away or sold for a tiny price a business
+that went on to be a core part of
+Broadcom today. Obviously, it would have
+been nice to have kept hold of that one.
+Agent engineers have clearly developed
+something that's unique and seeing
+demand from customers. It's a healthy
+sign that the company is willing to back
+them with the capital that they need.
+They run a pretty cautious balance
+sheet. They've got one times net debt
+evid if it's a choice between basically
+giving away the opportunity to someone
+else who's going to spend that money
+backing your own engineers. We were
+pretty glad to see they had a culture
+firstly where they could reach the right
+people to make that kind of decision and
+then also where they decided to back
+their team and build out that
+facilities. We viewed it as a positive.
+When it comes to other capital
+allocation decisions, you have capex
+there reinvesting in the business and
+some of the opportunities. You tapped
+into some bolt-on M&amp;A historically and
+some bigger acquisitions. How core to
+the overall agyant thesis is M&amp;A and the
+willingness to continue to look for
+boltons, other deals that fit the
+general thesis of what they're doing. I
+think they've got a decent long track
+record of doing small bolt-ons. We think
+that's a pretty good thing. I wouldn't
+say it's a significant driver of growth,
+at least in the short term. They've
+generally used them for one of two
+purposes. One would be to fill in a
+small technology gap. So, for example,
+they recently acquired a software
+business that specializes in lab
+productivity software. So now you can
+buy your Agyant instrument consumable
+service and plug it into this Agyant
+piece of software that will track usage
+and reorder consumables and call service
+technicians automatically if you're a
+machine break. All of that kind of stuff
+seems pretty logical to acquire a small
+business that's doing that. So we like
+that. The other would be to add adjacent
+products where they're selling to the
+same customers. So that would be by
+Vectorra recently where they've got this
+NASD business that was organic.
+Bvectoring had some additional
+capabilities particularly around filling
+and packaging some of the products that
+benefited that NASD
+to us felt reasonably sensible. Of
+course there's always an element of risk
+and as the deals get larger the risk
+goes up. So we're keen there's a sort of
+upper level on acquisition prices but so
+far they seem to be being sensible and I
+wouldn't say it's core to the strategy.
+&gt;&gt; There's a history of it. It's not core
+to the thesis from year to year, but it
+can be a nice tack on when executed
+well. When thinking about valuation for
+Agyant or this type of business in
+general, how would you say investors
+generally frame valuation for this type
+of business, whether there's a specific
+methodology and feel free to group
+yourself in there with any type of
+methodology that you think is relevant.
+&gt;&gt; We tend to focus on either free cash
+flow yields or price to earnings
+multiples. I think we find them the
+right mix between simple enough to
+ensure usability but also comprehensive
+enough to actually be useful. Agyant,
+for example, is trading above 4% free
+cash flow yield in recent months, which
+is close to the highs it's been over the
+last 10 years, basically since the
+keysite spin, which we view as pretty
+reasonable for a business that we think
+should be growing earnings high single
+digit. That equates to a just sub 20
+times price to earnings multiple again
+looked reasonable for a business like
+Agent where cash conversion is pretty
+stable. The two are largely
+interchangeable. Generally trying not to
+over complicate it. If we really like
+the business and we're confident about
+the long-term growth, then as long as
+the valuation looks reasonable, we're
+likely to invest.
+&gt;&gt; I admire it. I will not poke any holes
+in it. Often times, I love a simple PE
+multiple inverted into a cash flow yield
+when the earnings conversion is fairly
+smooth into free cash flow. So, bonus
+points for me on that. Simplicity is
+often a good thing. You outlined it
+fairly simply even in that response
+where there's visibility into high
+singledigit earnings growth. You do have
+this cash flow conversion. Would you say
+there's any tailwinds that could result
+in more material outperformance? I
+rarely have to mention this in an
+episode because usually we get a very
+bullish presentation of the different
+things. cuz I think this has been very
+balanced and fair in terms of presenting
+the business and the outlook. Is there
+anything that you think is missing or
+not mentioned as a potential upside
+lever or catalyst?
+&gt;&gt; I wouldn't underestimate the need for
+telling what is in a sample and the
+unusual use cases that pop up for that.
+The most recent example of that I point
+to is PAS testing or forever chemicals
+as they're often referred to in the
+press. There's a huge amount of
+regulation that's appeared in the last
+two, three years around testing food and
+the environment and chemicals as well
+for the presence of these PAS. They're
+long-lasting chemicals that's used in
+everything from sort of non-stick pans
+to firefighting chemicals. The problem
+is they find their way into food and
+water and humans and children as well.
+And they've been shown to be harmful to
+consumers in several studies. There's a
+lot of regulation coming in. This is
+already a $400 million market growing
+20% per year and Agyant is the clear
+leader in this market. So this is a sort
+of market that popped up overnight where
+we need to test this sample. Agelant's
+the clear leader in applied market
+testing and it's growing like an
+absolute weed. So there's definitely
+upside from these testing markets
+seeming to appear out of thin air.
+&gt;&gt; Interesting example that paints the
+picture quite well. On the opposite
+side, when you think about the risks,
+you referenced some of the cycle
+exposure that they might have. Is there
+anything else, any customer
+concentration risk or anything else,
+whether it be from overseas, cheaper
+products, things along those lines that
+stand out to you?
+&gt;&gt; The primary risk of the business we
+spoke about earlier is that cyclicality
+based on those big ends. So, if your
+farmer isn't spending, that's not a
+great environment for them. They're not
+too reliant on US government funding or
+anything like that. So academian
+government is only just under 10% of
+sales and actually the NIH related
+funding which is the one that's
+particularly under pressure that's only
+about 1% of their sales. So it's not a
+huge part. China's the only other part
+that's hard to forecast. I think we can
+be confident about the need for testing
+there in the long term. In the short
+term of course it can be hard to
+predict. They're the main ones I'd point
+to.
+&gt;&gt; This question will come a bit out of
+order but the M&amp;A thesis that I
+described within the business. I'm
+curious if this is ever a target of M&amp;A
+in terms of them being acquired, Agyant
+being acquired. Does that come up?
+Because it does have certain
+characteristics which would fit what
+acquirers would look for and I just
+wonder if that's ever out there in the
+market or in the headlines.
+&gt;&gt; I haven't seen that in the market if I'm
+honest. It's hard for one of their
+direct competitors. Thermopisher would
+I'm sure love to buy them. Very
+acquisitive company. It's much larger.
+You probably could if it really wanted
+to. I think the challenge would be you'd
+attract competition scrutiny. I
+struggled to see that one happening.
+Otherwise, we certainly hope they remain
+a sort of independent business.
+&gt;&gt; Yes. Don't get in the way of
+compounding. Well, this has been
+fascinating and I think you simplified
+some pretty complex topics. So, I
+appreciate that. I can say that
+personally. The way that we close out
+these conversations are with the lessons
+that you could potentially take away and
+apply elsewhere as an investor. What
+would stand out from doing your research
+and your experience with Agyant that
+might be a takeaway for other investment
+work?
+&gt;&gt; There's two that came to mind. The first
+one would be not to underestimate the
+quality of what sounds like a boring
+business. If I was to tell you at the
+pub about a business that services lab
+instruments, you might be forgiven for
+telling me to move on. Actually, this is
+a fantastic business. 33% operating
+margins, growing high single digits with
+a really good long growth runway as they
+grow that attach rate. not to be
+underestimated. The other one would be
+that actually often it's better to be in
+the businesses that are supplying tools.
+In this case, the life science tools
+companies have outperformed the
+pharmaceutical sector, hands down, and
+Agyant is a testament to that. Picks and
+shovels. It's been working for almost
+200 years now. Well, Mark, this has been
+an excellent conversation. It's been a
+pleasure. Thank you so much for joining
+us.
+&gt;&gt; Thank you. To find more episodes of
+breakdowns ranging from Costco to Visa
+to Madna or to sign up for our weekly
+summary, check out join colossus.com.
+That's jolsus.com.
+[Music]

@@ -1,0 +1,714 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+[Applause]
+&gt;&gt; Hello and welcome to another episode of
+the Odd Thoughts podcast. I'm Tracy
+Aloway
+&gt;&gt; and I'm Joe Weisenthal.
+&gt;&gt; Joe, you wrote a good newsletter this
+week.
+&gt;&gt; Thank you. Thank you for saying that.
+&gt;&gt; Just just that one. I wrote a good
+newsletter this week. No, but
+interesting week because obviously
+there's for months, you know, talk about
+Fed independence. Would President Trump
+try to fire Jerome Powell? All of these
+uh different questions. It's heating up.
+This is a very difficult topic to talk
+about podcast-wise because there's
+always that chance that, you know, we
+record something on Fed Independence and
+by the time the episode is produced and
+edited, something new has happened. So
+very dicey, but you know, we're hoping
+that in the next short period of time
+this holds. But yes, this is a really
+important story.
+&gt;&gt; We're recording this on July 18th, and I
+think the ambition is to get it out on
+July 19th. So hopefully nothing changes
+that quickly, but of course, you never
+know. And just this week, we have had
+these back and forth headlines. We had a
+report that Trump was considering firing
+pal sort of imminently, and then he came
+out at a press conference and said, "No,
+he wasn't."
+&gt;&gt; Yeah. And he said there was a report
+that there was a literal letter that was
+signed. Other people affiliated in the
+administration have been hammering
+Powell. Some on related to monetary
+policy, some relating to the cost of
+renovations of the Federal Reserve
+offices. The criticism is of course uh
+getting intense. Anyway, I've been
+trying to learn more about this question
+of Fed independence. I came across a lot
+of the research that was done by uh
+economist Carol Binder which I thought
+was interesting which talks about how
+Fed independence is this cherished idea
+in economics but it's not just about the
+idea of whether the Fed is legally
+independent pressure on the Fed itself
+even if the Fed doesn't necessarily
+react just the rhetoric against the Fed
+and central banks around the world not
+the Fed specifically but central banks
+around the world just the rhetoric and
+the pressure the perception that the
+central bank is losing independence can
+have macroeconomic effects.
+&gt;&gt; Yeah. And despite some people cherishing
+that independence, we know from a lot of
+recent events, the rise of populism
+around the world that it seems a lot of
+people don't like unelected bureaucrats.
+Just put it that way. Okay. So, we
+actually have Carol here. She is of
+course the associate professor of
+economics in the school of civil
+leadership at UT Austin. Carol,
+&gt;&gt; welcome. Hum.
+Carola, thank you so much for coming on
+OddLots.
+&gt;&gt; Yeah, thanks so much for having me.
+Excited to be here.
+&gt;&gt; Do you just want to give us a maybe a
+summary of your previous work and why
+you got interested in the subject of
+central bank independence in the first
+place?
+&gt;&gt; Sure. Yeah. I mean, the paper that was
+mentioned in the newsletter is one
+called political pressure on central
+banks. And in that work, I really wanted
+to understand this distinction between
+legal central bank independence, which
+we know has been rising around the world
+for the past couple of decades, versus
+actual or de facto central bank
+independence. because it seems like even
+when the central bank does have legal
+protections that kind of insulate the
+bank from politics, there's still always
+going to be um reason for politicians to
+try to convince the central bank to do
+what they want. I mean, that's the whole
+reason why we have legal protections on
+central bank independence. So, it's kind
+of hard to measure that. Uh what I ended
+up doing with the help of a couple of
+research assistants was reading through
+these reports by economist intelligence
+unit that come out every quarter for
+basically every country and just seeing
+whenever there was a mention of some
+kind of political pressure on the
+central bank. And we tried to record
+whether it was pressure for easier or
+looser monetary policy and also whether
+the central bank resisted the pressure
+or succumbed to it. And then once we had
+this new data set about all of these
+instances, at least all the known
+instances of pressure on central banks,
+then I was able to use that to say,
+well, what happens afterwards,
+especially to inflation. And as Joe
+said, if the central bank succumbs to
+the pressure, it's almost always
+pressure for looser monetary policy. So,
+so that's certainly followed by higher
+inflation. But even if they try to
+resist,
+&gt;&gt; inflation still rises. Just not not as
+much, but it still rises. So my, you
+know, interpretation there is that it
+probably has something to do with
+expectations. So people start at least
+worrying that there's a chance that the
+central bank is going to give into those
+pressures. They know that if they do
+that'll be inflationary. So inflation
+expectations rise right now and that
+makes inflation itself start to rise.
+Also
+&gt;&gt; to back up for a second, I described in
+the intro central bank independence one
+of these sort of very cherished ideas
+and perceived as extremely important.
+What do you describe like why why is
+this actually because as Tracy mentioned
+there's a lot of people who find it
+distasteful that there are entities
+within any government that aren't
+directly democratically accountable.
+What is it about central bank
+independence that is perceived by
+economists to be such a such a goal so
+to speak?
+&gt;&gt; So the way I see it is two main parts.
+One is that there is a natural
+inflationary bias in monetary policy. So
+meaning if you had monetary policy
+controlled by elected politicians, they
+would always have this concern about the
+next election. They always want to make
+the public happy in the short term. So
+they're going to tend towards juicing
+the economy um even if in the longer run
+that's going to cause inflation. So in
+equilibrium you're always running
+monetary policy to loose and getting too
+much inflation. That happens if you
+don't have an independent central bank.
+So if elected officials are controlling
+monetary policy. The other side of it is
+think about the distinction between
+fiscal policy and monetary policy. So
+having independent central banks is very
+common. having independent fiscal
+authorities is not and the usual
+justification there is that fiscal
+policy has very obvious distributional
+consequences I mean that's basically the
+point of fiscal policy in some sense
+like you want maybe you want progressive
+taxes you want to spend on certain
+groups of people you want to tax certain
+activities and so that's inherently
+about distribution which is something
+that you really want to be a political
+decision you want like the voters to
+decide about what kind of distribution
+they want. Monetary policy on the other
+hand is thought of as being a lot more
+even, right? It affects the macroeconomy
+more than it affects distribution. So in
+that way, it's like kind of more
+acceptable in a democracy to delegate it
+to some technocrats. That's kind of the
+like traditional case, but of course
+that's been very much challenged,
+especially when the Fed during the
+financial crisis started doing more
+unconventional monetary policies. Those
+did have distributional consequences.
+They're kind of hard to measure, but
+they're there. And even conventional
+monetary policy, like inflation is going
+to hurt some people more than others.
+Having a a weak labor market is going to
+hurt some people more than others. So I
+think people do partly get dissatisfied
+with central bank independence when they
+realize that whatever the Fed is doing I
+think maybe hurts them more than it
+hurts others or that they didn't have
+any say in in that kind of decision
+which it is political inflation is
+political and and monetary policy is
+too.
+&gt;&gt; You just reminded me on the topic of a
+natural bias towards loosening of
+monetary policy and therefore inflation.
+Do you ever get governments trying to uh
+pressure for higher interest rates? I
+feel like I can't come up with a single
+example.
+&gt;&gt; Well, it might not be obviously for
+higher interest rates, but one of the
+few examples in that paper that I found
+of pressure for tighter monetary policy
+was in the US after the financial crisis
+when the Fed was doing so much QE. Um, a
+lot of Republicans in Congress
+especially were worried that that was
+going to be very inflationary. So they
+were pressuring the Fed to cut back on
+the QE or not do so much monetary
+easing.
+&gt;&gt; Those were wild times when we when a lot
+of people, myself included, probably
+thought QE was going to be inflationary.
+&gt;&gt; Yeah. Or people thought it was going to
+be hyperinflationary. The more cynical
+interpretation, by the way, is not that
+Republicans thought that, and this is
+just the cynical interpretation. I'm not
+even saying I'm going to say this, but
+not that they were worried about
+inflation, but that they didn't want the
+economy to recover particularly rapidly
+under a Democratic president. Again,
+different perceptions of what their
+motivations are. Okay. One of the things
+people say, and you talk to like veteran
+people on Wall Street and they're like,
+they've always done this. This is
+nothing new in this country. Every
+president has in some way tried to
+pressure their central banker typically
+for easing in some way. And I think
+there's all there are certainly examples
+of that without question. How novel and
+different when we talk about they're
+attacking him over the cost of
+renovations. They're directly saying cut
+300 basis points in a tweet, etc. Does
+this feel like a meaningful step up in
+the level of pressure that we've
+historically seen in the US?
+Yeah, I think the meaningful difference
+is that it's so public now and so
+obvious where it used to be like there
+was this protocol, right, that the
+president might want lower interest
+rates. They might want easier monetary
+policy, but they're not going to say so
+out loud. There was a lot of just
+careful procedure around it. So, the
+fact that it's really really like a
+public spectacle now is a difference. It
+does, I think, further politicize the
+Fed because now the general public sees
+the president tweeting about the Fed and
+depending on whether they support the
+president or not, they might be more
+angry at the Fed or more defensive of
+the Fed. So, it really makes it public
+in a way that is that is pretty new.
+But, I mean, I do get the point that
+there is always this pressure on the
+Fed, always from within Congress, too.
+You've had criticism of the Fed, which
+coming from Congress, it's a bit more
+appropriate than from the president
+because the Fed is accountable to
+Congress. So, it kind of makes more
+sense that you would you would see a lot
+of criticism of the Fed coming from
+Congress because that's more their role.
+&gt;&gt; They have the monetary power that
+they've delegated to the Fed,
+&gt;&gt; right? I know you're not in the sort of
+market coal mines on a daily basis, but
+I'm hoping I'm hoping you may
+nevertheless have an opinion on this
+because one of the weird things that
+happened this week when all the
+headlines about Trump possibly firing
+Pal started to fly around was the
+biggest reaction in the market seemed to
+be in the dollar in the US currency and
+we actually didn't see that much
+movement in yields at least going up
+like they didn't start surging. So, I
+guess I'm curious if your thesis holds
+that any type of pressure tends to be
+inflationary because it boosts
+perceptions of inflation, why wouldn't
+we have seen an upward rise in yields,
+that reaction this week?
+&gt;&gt; Well, it's it's not that any type of
+pressure is inflationary. It's that on
+average across all of these hundreds of
+data points I was looking at, on
+average, pressure was inflationary. this
+particular case could be very different.
+I think partly because there's so much
+so much uncertainty about what is Trump
+actually going to do. It's hard to even
+follow the news here where he says he's
+going to fire Powell or no, he didn't,
+you know, so any kind of announcement
+you get, I think the markets don't know
+exactly how to take it right away. And
+some of the news, right, like was
+already kind of baked in. Like we've
+known for a couple of months that
+President Trump was having this conflict
+with Chairman Powell. So maybe these
+most recent announcements are not really
+that much new news.
+[Music]
+Has
+[Music]
+the damage already been done? This is
+the sort of question that I'm wondering
+about, which is that okay, pressure has
+existed to some extent forever. It's
+become much more of a public spectacle.
+It's become much more aggressive, etc.
+There is this I would say safe
+assumption that Paul doesn't have that
+much longer in his term but that the
+assumption is that the next Fed chair
+will be some sort of capital L loyalist
+to Trump that there will be alignment. I
+forget who it was on TV talking about we
+need a new Fed Treasury accord. So would
+you say like to some extent that the
+glass has been broken here or the glass
+has been cracked and that the damage has
+been done even if the Fed legally
+retains its existing structure that the
+Fed going forward will not be the same
+independent Fed will not be as
+independent as we've had for the last
+several decades.
+&gt;&gt; Yes, I think that the damage to the
+perception of the Fed's independence has
+already been done. There are really big
+political divides in how people perceive
+the Fed. The kind of tradition that one
+president would reappoint the previous
+president's Fed chair even if they were
+from a different political party. I
+think that that tradition probably is
+over.
+&gt;&gt; Yeah. Kind of like Supreme Court
+nominations which used to fly through
+now are entirely done on political like
+the votes and this confirmation votes
+are completely political now.
+&gt;&gt; Yeah. But I would say it's not just the
+fault of Trump since his election, the
+since his most recent election. It's not
+just that. It's also what was happening
+during the pandemic and during the high
+inflation episode in 2021 and 2022 that
+did a lot of damage as well because
+there was so much on both sides of
+trying to like place the blame and
+saying was everything the Fed's fault,
+was everything the fault of the fiscal
+stimulus? Was it transi? Was inflation
+transitory or permanent? That really got
+things more politicized then and that's
+only been exacerbated by the past couple
+months. So,
+&gt;&gt; one of the other narratives that I've
+seen this week is this idea that okay,
+even if Trump fired Pal and put in place
+someone who would immediately push for
+lower interest rates, you wouldn't
+necessarily get them a because of the
+market expectations which you just
+described. So people might start pricing
+in higher inflation expectations which
+would move the curve up or steepen the
+curve
+&gt;&gt; but also because it's not just the Fed
+chair making decisions. It's a committee
+and Trump might not be able to influence
+the entire committee. How do you take
+into account I guess the rest of the
+FOMC members? How do they play into this
+type of political pressure?
+&gt;&gt; Yeah. So it is monetary policy by
+committee and different under different
+fed chairs the kind of committee
+decision-m has differed a little just
+the norms around it. So whether they
+like kind of how strong the fed chair
+was and making sure that everyone would
+come to a consensus versus allowing some
+more disagreement to be public. But
+yeah, I think the fact that I mean the
+fact that the members of the committee
+have these overlapping terms and pretty
+long-term lengths is part of what gives
+it independence because it means we
+don't have a complete turnover of the
+committee in at any given point in time.
+And there's going to be a lot of
+continuity there because of that
+institutional structure. Especially if
+you get a Fed chair that's kind of
+external, that's viewed as a loyalist,
+the rest of the committee may be quite
+reluctant to just go along with whatever
+the new Fed chair says if they don't
+feel like it's the right decision. The
+Fed, they emphasize all the time that
+they're data dependent, and I think
+that's the line that a lot of committee
+members would keep using. The
+unfortunate thing is we don't know
+exactly in what sense they are data
+dependent. like they don't publish a
+monetary policy rule that they follow,
+but they say that they they take into
+account not just the PCE inflation rate
+and the unemployment rate, but all all
+sorts of other indicators about where
+the economy is headed and they they
+react to all of those. So, so they would
+I'm pretty sure most of the committee
+would try to just stick to the course
+that they're on even if there were a new
+chair in place. It would be really
+interesting because dissents are very
+rare and you know sometimes you get a
+lot of times you get no descent
+sometimes you get one very rarely you
+get two in the last in my career I can't
+remember any decision in the US that I
+think ever got more than two descents it
+would be interesting if that norm were
+broken where the fed really does not
+control or have basically get to guide
+the committee on their preferred path I
+want to though like talk about in the
+broad research globally Establishing a
+central independent central bank is
+politically difficult and some countries
+attempt to do it by simply outsourcing
+their monetary policy to the Federal
+Reserve itself by setting up a dollar
+peg or currency board or something like
+that because they don't even have the
+sort of political capacity to establish
+a truly independent central bank. What
+are the patterns you see around the
+world? But I'm curious if in your
+research when pressure builds on a
+central bank, is it usually sort of a
+symptom of a broader domestic political
+disintegration that's happening where
+just all kinds of norms are being
+violated or all kinds of structures are
+sort of collapsing or deteriorating in
+some way?
+&gt;&gt; Yeah. Well, to the the part about how
+the central bank independence is set up,
+sometimes it's because there's already a
+very strong preference in that country
+for lower inflation. So they so then
+it's kind of easier to set up an
+independent central bank because they
+really want low inflation and they're
+committed to it which is why it's so
+hard in the research to say the central
+bank independence actually lower
+inflation because you you have like a
+reverse causality.
+&gt;&gt; Yeah.
+&gt;&gt; So sometimes that's how it gets set up.
+Sometimes it's imposed by like the IMF
+saying you know if you want to keep
+having our support there's some things
+you need to do and one of them is set up
+a independent central bank. But then the
+part about like when do politicians
+start pressuring the central bank? When
+does that really build up? Yeah, I mean
+there was a lot more of the pressure on
+the central banks around around crisis
+times. So I think the financial crisis
+did erode a lot of trust in institutions
+and made it more
+&gt;&gt; acceptable to pressure central banks.
+Also during the 2010s when inflation was
+really low that made it seem more like
+okay having higher inflation doesn't
+necessarily seem like so much of a
+threat. What we really want is to boost
+the labor markets at least in in certain
+countries. So then there was more
+pressure on the central banks that way.
+The other thing is also like the fiscal
+situation. So if there's big big debts
+to finance, right? And then there's
+going to be often pressure for the lower
+interest rates or to monetize the debt.
+&gt;&gt; Tracy, by the way, just as we're
+recording this headline from the AP, all
+this stuff about criticism of the Fed,
+it turns out Chris Rugerberg, Josh Boke
+of the AP reporting much of these costs
+were associated in 2020 with Trump
+officials demanding that there be more
+marble at the Fed instead of glass. So,
+a new wrinkle to the cost of these
+office constructions. Anyway,
+&gt;&gt; you got to have that marble.
+&gt;&gt; Trump loves marble.
+&gt;&gt; Marble and gold. He does have a very
+Louis the 15th style, I guess, taste in
+in interior design. Anyway,
+&gt;&gt; maybe we should do an interior design.
+Yeah,
+&gt;&gt; I would like that.
+&gt;&gt; Okay. Anyway, on a serious note, given
+those concerns around trusting unelected
+bureaucrats and the idea that maybe, you
+know, central banks started to overstep
+their traditional roles post 2008 or
+something like that,
+&gt;&gt; what's the best way of I guess ensuring
+that central banks are in some way
+answerable to the electorate or in some
+way, you know, there's accountability
+there without sacrificing that
+independence.
+&gt;&gt; Yeah, I mean this is a really important
+topic to me and something I focus a lot
+on in my book and in some of my other
+research, but I think that making sure
+that the role of the Fed or the central
+bank is limited to something like price
+stability and having a lot of
+transparency about how they're achieving
+that is really important. So the Fed has
+a dual mandate. Having the price
+stability and the employment side of the
+mandate gives them a lot of discretion
+because sometimes those two goals can
+come into conflict and then they need to
+just decide well what are we going to
+prioritize right now. The more
+discretion that unelected technocrats
+have, the more room there is for people
+to try to pressure them one way or the
+other. In my book, I advocate for a
+nominal GDP or a nominal income target,
+which I think would help them achieve
+both parts of that dual mandate, but
+with a single target that they're going
+after. And then it makes it really clear
+at any given point of time. Do they need
+tighter or looser monetary policy and
+there's not as much like wiggle room? It
+makes it easier for them to justify
+their actions and for the public to say,
+well, are they doing what they say
+they're going to do or not? versus if
+you have an inflation target and kind of
+full employment target then you can
+always argue kind of for either way and
+yeah so just keeping the role more
+limited not lately but before co there
+was a lot more pressure on central banks
+to do even more beyond those kind of two
+parts of the dual mandate to take on
+climate change and inequality
+&gt;&gt; and issues like that and I think that
+those are important
+things that somebody needs to do, but
+it's not really the job of the Fed
+because they're not elected to do that
+and those kinds of political topics need
+to be addressed by elected officials.
+One of the funny things I used to think
+in the 2010s is that had the Fed only
+had a single mandate, it's not it's
+conceivable to me that policy would have
+been looser if they were continuing to
+fail on its inflation target from the
+downside in those days that uh you know
+they continued to miss that 2% had they
+had a nominal GDP target, a nominal
+income target solely. It's possible
+actually that they might have achieved
+the employment part of the mandate
+sooner because it would be so sufficient
+that they were failing to hit that
+target. Anyway, Carol Binder, really
+appreciate you coming on. I'm I'm
+finding your research to be uh very
+fascinating. Happy to have dived into
+it. So, thank you so much for coming on.
+&gt;&gt; Thank you.
+[Music]
+Joe, obviously a very timely episode to
+get out. I do think the question you
+asked about whether or not attacks on
+central bank independence might be part
+of a broader deterioration in norms and
+what's deemed acceptable by society and
+political society. There is an element
+of that like it it does feel like that.
+No, like I think so. Like I think if you
+were to look around the world and you
+were to say find those examples where
+there is a lot of pressure or stress on
+central banks, I think almost always you
+would find it associated with other
+things happening in politics that are
+sort of you know the wheels are coming
+off in some way. Turkey strikes me as a
+great example. A country where the sort
+of like democratic norms have eroded
+over time. Certainly over the last 20
+years many would say and which gets to
+this whole idea which Carola talked
+about causality is often hard to
+establish. So you can point to on the
+line that this pressure on a central
+bank or central bank independence period
+associated with this or that inflation.
+But whether that's because the pressure
+or because many bad things are going on
+at the time, it's hard to disentangle.
+&gt;&gt; Absolutely. But I guess her broad
+conclusion that on average this type of
+political pressure does lead to higher
+inflation expectations like it does
+suggest that if your ambition is lower
+rates then maybe this doesn't help.
+&gt;&gt; I mean here's the thing we are almost
+certainly going to get a Fed chair
+sometime in the next year. Whether it's
+because Paulo has been removed from his
+term prematurely or just because at the
+end uh the next central banker is
+perceived as a President Trump loyalist,
+there is probably going to be a
+meaningful difference in the the
+reaction function of the Fed toward
+faster impulse to cut. Very naturally
+people can assume therefore that the
+future would be all things equal more
+inflationary.
+&gt;&gt; Ah very naturally the natural rate will
+go up. Okay, shall we leave it there?
+&gt;&gt; Let's leave it there. This has been
+another episode of the All Thoughts
+podcast. I'm Tracy Aloway. You can
+follow me at Tracy Aloway.
+&gt;&gt; And I'm Jill Weisenthal. You can follow
+me at the stalwart. Follow our guest
+Carola Binder. She's consis. Follow our
+producers Carmen Rodriguez at Carmen
+Dash Bennett at Dashbot and Kalebrooks
+at Kalebrooks. For more OddLots content,
+go to bloomberg.com/odlotss
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+all of these topics 247 in our Discord.
+discord.gg/odlots.
+&gt;&gt; And if you enjoy OddLots, if you want
+Joe to run for the next Fed chair, then
+please leave us a positive review on
+your favorite podcast platform. And
+remember, if you are a Bloomberg
+subscriber, you can listen to all of our
+episodes absolutely adree. All you need
+to do is find the Bloomberg channel on
+Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+[Music]
+Yeah.
+[Music]
+Woo.
+[Music]

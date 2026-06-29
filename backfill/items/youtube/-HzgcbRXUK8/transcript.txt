@@ -1,0 +1,4074 @@
+Kind: captions
+Language: en
+It's hard for us humans to make any kind
+of clean predictions about highly
+nonlinear dynamical systems. But again
+to your point, we might be very
+surprised what classical learning
+systems might be able to do about even
+fluid.
+&gt;&gt; Yes, exactly. I mean fluid dynamics,
+Navia Stokes equations, these are
+traditionally thought of as very very
+difficult intractable problems to do on
+classical systems. They take enormous
+amounts of compute, you know, weather
+prediction systems, you know, these kind
+of things all involve fluid dynamics
+calculations. But again, if you look at
+something like VO, our video generation
+model, it can model liquids quite well,
+surprisingly well, and materials,
+specular lighting. I love the ones
+where, you know, there's there's people
+have generated videos where there's like
+clear liquids going through hydraulic
+presses and then being squeezed out. I I
+used to write uh physics engines and
+graphics engines and in my early days in
+gaming. And I know it's just so
+painstakingly hard to build programs
+that can do that. And yet somehow these
+systems are, you know, reverse
+engineering from just watching YouTube
+videos. So presumably what's happening
+is it's extracting some underlying
+structure around how these materials
+behave. So perhaps there is some kind of
+lower dimensional manifold that can be
+learned if we actually fully understood
+what's going on under the hood. That's
+maybe, you know, maybe true of most of
+reality.
+The following is a conversation with
+Demis Hassabis, his second time on the
+podcast. He is the leader of Google Deep
+Mind and is now a Nobel Prize winner.
+Demis is one of the most brilliant and
+fascinating minds in the world today,
+working on understanding and building
+intelligence and exploring the big
+mysteries of our universe.
+This was truly an honor and a pleasure
+for me. This is the Lex Freedman
+podcast. To support it, please check out
+our sponsors in the description and
+consider subscribing to this channel.
+And now, dear friends, here's Deus
+Hassavas.
+In your Nobel Prize lecture, you propose
+what I think is a super interesting
+conjecture that quote any pattern that
+can be generated or found in nature can
+be efficiently discovered and modeled by
+a classical learning algorithm. What
+kind of patterns of systems might be
+included in that? Biology, chemistry,
+physics, maybe cosmology,
+&gt;&gt; neuroscience. What what are we talking
+about?
+&gt;&gt; Sure. Well, look, I I felt that it's
+sort of a tradition, I think, of Nobel
+Prize lectures that you're supposed to
+be a little bit provocative and I wanted
+to follow that tradition. What I was
+talking about there is if you take a
+step back and you look at um all the
+work that we've done especially with the
+alpha x projects so I'm thinking alpho
+of course alpha fold what they really
+are is we're building models of very
+combinatorily highdimensional spaces
+that you know if you tried to brute
+force a solution find the best move and
+go or find the the exact shape of a
+protein and if you enumerated all the
+possibilities you there wouldn't be
+enough time in the in the you know the
+time of the universe. So you have to do
+something much smarter and what we did
+in both cases was build models of those
+environments. Um and that guided the
+search in a in a smart way and that
+makes it tractable. So if you think
+about protein folding which is obviously
+a natural system you know why should
+that be possible? How does physics do
+that? You know proteins fold in
+milliseconds in our bodies. So somehow
+physics solves this problem that we've
+now also solved computationally. And I
+think the reason that's possible is that
+in nature, natural systems have
+structure because they were subject to
+evolutionary processes that that shape
+them. And if that's true, then you can
+maybe learn uh uh what that structure
+is. So this perspective, I think, is
+really interesting one. You've hinted it
+at it, which is almost like uh crudely
+stated. Anything that can be evolved can
+be efficiently modeled. Think there's
+some truth to that. Yeah, I sometimes
+call it survival of the stablest or
+something like that because you know
+it's it's of course there's evolution
+for life uh living things but there's
+also you know if you think about
+geological time so the shape of
+mountains that's been shaped by
+weathering processes right over
+thousands of years but then you can even
+take it cosmological the orbits of
+planets the um shapes of asteroids these
+have all been survived kind of processes
+that have acted on them many many times
+so if that's true then there should some
+sort of pattern um that you can kind of
+reverse learn and uh a kind of manifold
+really that helps you uh uh search to
+the right solution to the right shape um
+and actually allow you to predict things
+about it uh in an efficient way because
+it's not a random pattern right so um it
+may not be possible for for man-made
+things or abstract things like
+factorizing large numbers because unless
+there's patterns in the number space
+which there might be but if there's not
+and it's uniform then there's no pattern
+to learn there's no model to learn that
+will help you search. So you have to do
+brute force. So in that case you you
+know you maybe need a quantum computer
+something like this. But in most things
+in nature that we're interested in uh
+are not like that. They have structure
+um that evolved for a reason and
+survived over time. And if that's true I
+think that's potentially learnable by a
+neural network.
+&gt;&gt; It's like nature is doing a search
+process and it's so fascinating that
+it's in that search process is creating
+systems that could be efficiently
+modeled. That's right. Yeah.
+&gt;&gt; So interesting.
+&gt;&gt; So they can be efficiently rediscovered
+or recovered um because nature is not
+random, right? These everything that we
+see around us, including like the
+elements that are more stable, all of
+those things, they're subject to um some
+kind of selection process pressure. Do
+you think because you're also a fan of
+theoretical computer science and
+complexity, do you think we can come up
+with a kind of complexity class like a
+complexity zoo type of class where maybe
+it's the set of learnable systems, the
+set of learnable natural systems, lns.
+&gt;&gt; Yeah,
+&gt;&gt; this is a deis new class of systems that
+could be actually learnable by classical
+systems in this kind of way. Natural
+systems that can be uh modeled
+efficiently. Yeah, I mean I' I've always
+been fascinated by the P= MP question
+and what is modelable by classical
+systems I non-quantum systems you know
+cheuring machines in effect and that's
+exactly what I'm working on actually in
+kind of my few moments of spare time
+with a few colleagues about is should
+there be you know maybe a new class of
+problem that is solvable by this type of
+neural network process and kind of
+mapped on to these natural systems so
+you know the things that exist in
+physics
+and have structure. So I think that
+could be a very interesting uh new way
+of thinking about it. And it sort of
+fits with the way I think about physics
+in general which is that you know I
+think information is primary.
+Information is the most sort of
+fundamental unit of the universe more
+fundamental than energy and matter. I
+think they can all be converted into
+each other but I think of the universe
+as a kind of informationational system.
+&gt;&gt; So when you think of the universe as
+anformational system then the P= NP
+question is a is a physics question.
+&gt;&gt; That's right. And it's a question that
+can help us actually solve the entirety
+of this whole thing going on.
+&gt;&gt; Yeah, I think it's one of the most uh
+fundamental questions actually if you
+think of physics asformational
+uh and and the answer to that I think is
+going to be you know very enlightening.
+more specific to the PNNP question.
+This again, some of the stuff we're
+saying is kind of crazy right now. Just
+like the Christian Edinson Nobel Prize
+speech controversial thing that he said
+sounded crazy and then you went and got
+a Nobel Prize for this with John Jumper
+solved the problem. So, let me let me
+just stick to the P equals MP. Do you
+think there's something
+in this thing we're talking about that
+could be shown if you can do something
+like uh polomial time or constant time
+compute ahead of time and construct this
+gigantic model then you can solve some
+of these extremely difficult problems in
+a theoretical computer science kind of
+way.
+&gt;&gt; Yeah, I think that there are actually a
+huge class of problems that could be
+couched in this way. the way we did
+alpha go and the way we did alpha fold
+where you know you you model what the
+dynamics of the system is the the the
+the properties of that system the
+environment that you're trying to
+understand and then that makes the
+search for the solution or the
+prediction of the next step efficient
+basically polomial time so tractable by
+a uh classical system uh which a neural
+network is it runs on normal computers
+right classical computers uh chewing
+machines in effect and um I think it's
+one of the most interesting questions
+there is is how far can that paradigm
+go? You know, I think we've proven uh
+and the AI community in general that
+classical systems, cheuring machines can
+go a lot further than we previously
+thought. You know, they can do things
+like model the structures of proteins
+and play go to better than world
+champion level. And uh you know a lot of
+people would have thought maybe 10 20
+years ago that was decades away or maybe
+you would need some sort of quantum
+machines to to quantum systems to be
+able to do things like protein folding.
+And so I think we haven't really uh even
+sort of scratched the surface yet of
+what uh classical systems socalled uh uh
+could do. And of course AGI being built
+on a on a neural network system on top
+of a neural network system on top of a
+classical computer would be the ultimate
+expression of that. And I think the
+limit you know the the what what the
+bounds of that kind of system what it
+can do it's a very interesting question
+and and and directly speaks to the P
+equals MP question.
+What do you think again hypothetical
+might be outside of this maybe
+emergent phenomena like if you look at
+cellular automa some of the you have
+extremely simple systems and then some
+complexity emerges yes
+&gt;&gt; maybe that would be outside or even
+would you guess even that might be
+amendable
+&gt;&gt; to efficient modeling by a classical
+machine
+&gt;&gt; yeah I think those systems would be
+right on the boundary right so um I
+think most emergent systems cellular
+automter things that could be modelable
+by a classical system. You just sort of
+do a forward simulation of it and it
+probably be efficient enough. Um, of
+course there's the question of things
+like chaotic systems where the initial
+conditions really matter and then you
+get to some, you know, uncorrelated end
+state those could be difficult to model.
+So I think these are kind of the open
+questions. But I think when you step
+back and look at what we've done with
+the systems and the and the problems
+that we've solved and then you look at
+things like V3 on like video generation
+sort of rendering physics and lighting
+and things like that, you know, really
+core fundamental things in physics. Um
+it's pretty interesting. I think it's
+telling us something quite fundamental
+about how the universe is structured in
+my opinion. Um so you know in a way
+that's what I want to build AGI for is
+to help uh us uh as scientists answer
+these questions uh like p=mp.
+&gt;&gt; Yeah I think we might be continuously
+surprised about what is modelable by
+classical computers. I mean alpha fold 3
+on the interaction side is surprising
+that you can make any kind of progress
+on that direction. Alpha genome is
+surprising that you can map the genetic
+code to the function kind of playing
+with the emergent kind of phenomena. You
+think there's so many combinatorial
+options that and then here you go. You
+can find the kernel that is efficiently
+modeled.
+&gt;&gt; Yes. Because there's some structure
+there's some landscape you know in the
+energy landscape or whatever it is that
+you can follow some gradient you can
+follow. And of course what neural
+networks are very good at is following
+gradients. And so if there's one to
+follow and object and you can specify
+the objective function correctly you
+know you don't have to deal with all
+that complexity which I think is how we
+maybe have naively thought about it for
+decades those problems if you just
+enumerate all the possibilities it looks
+totally intractable and there's many
+many problems like that and then you
+think well it's like 10^ the 300
+possible protein structures uh it's 10^
+theund you know 70 possible go positions
+all of these are way more than atoms in
+the universe so how could one possibly
+find the the right solution or predict
+the next step and and it but it turns
+out that it is possible and of course
+reality nature does do it right proteins
+do fold so that that gives you
+confidence that there must be if we
+understood how physics was doing that uh
+in a sense uh then and we could mimic
+that process I model that process uh it
+should be possible on our classical
+systems is is is basically what the
+conjecture is about
+&gt;&gt; and of course there's nonlinear
+dynamical systems, highly nonlinear
+dynamical systems, everything involving
+fluid.
+&gt;&gt; Yes.
+&gt;&gt; Right.
+&gt;&gt; You know, I recently had a conversation
+with Terrence Ta who mathematically
+uh it contends with a very difficult
+aspect of systems that have some
+singularities in them that break the
+mathematics and it's just hard for us
+humans to make any kind of clean
+predictions about highly nonlinear
+dynamical systems. But again to your
+point we might be very surprised what
+classical learning systems might be able
+to do about even fluid. Yes, exactly. I
+mean fluid dynamics, Navia Stokes
+equations, these are traditionally
+thought of as very very difficult
+intractable kind of problems to do on
+classical systems. They take enormous
+amounts of compute, you know, weather
+prediction systems, you know, these kind
+of things all involve fluid dynamics
+calculations. And um but again, if you
+look at something like VO, our video
+generation model, it can model liquids
+quite well, surprisingly well, and
+materials, specular lighting. I love the
+ones where, you know, there's there's
+people have generated videos where
+there's like clear liquids going through
+hydraulic presses and then being
+squeezed out. I I used to write uh
+physics engines and graphics engines and
+in my early days in gaming and I know
+it's just so painstakingly hard to build
+programs that can do that and yet
+somehow these systems are, you know,
+reverse engineering from just watching
+YouTube videos. So presumably what's
+happening is it's extracting some
+underlying structure around how these
+materials behave. So perhaps there is
+some kind of lower dimensional manifold
+that can be learned if we actually fully
+understood what's going on under the
+hood. That's maybe you know maybe true
+of most of reality.
+&gt;&gt; Yeah. I've been continuously precisely
+by this aspect of V3. I think a lot of
+people highlight different aspects,
+including the comedic and the meme and
+all that kind of stuff. And then the
+ultra realistic ability to capture
+humans in a really nice way that's
+compelling and feels close to reality
+and then combine that with native audio.
+All of those are marvelous things about
+V3. But the exactly the thing you're
+mentioning, which is the physics.
+&gt;&gt; Yeah,
+&gt;&gt; it's not perfect, but it's pretty damn
+good. And then the really interesting
+scientific question is what is it
+understanding about our world
+&gt;&gt; in order to be able to do that because
+of the cynical take with diffusion
+models there's no way it understands
+anything
+&gt;&gt; but it seem I mean I don't think you can
+generate that kind of video without
+understanding and then our own
+philosophical notion what it means to
+understand then is like brought to the
+surface like do to what degree do you
+think V3 understands our world? I think
+to the extent that it can predict the
+next frames you know in a coherent way
+that's some that is a form you know of
+understanding right not in the
+anthropomorphic version of you know it's
+not some kind of deep philosophical
+understanding of what's going on I don't
+think these systems have that but they
+they certainly have uh modeled enough of
+the dynamics you know put it that way
+that they can pretty accurately generate
+whatever it is 8 seconds of consistent
+video that by eye at least you know at a
+glance is quite hard to distinguish what
+the issues are and imagine that in two
+or three more years time. That's the
+thing I'm thinking about and how
+incredible that there will look uh given
+where we've come from, you know, the
+early versions of that uh one or two
+years ago. And so, um the rate of
+progress is incredible. And I think um
+I'm like you is like a lot of people
+love all of the the the the standup
+comedians and the the that actually
+captures a lot of human dynamics very
+well and and body language, but actually
+the thing I'm most impressed with and
+fascinated by is the physics behavior,
+the lighting and materials and liquids.
+And it's pretty amazing that it can do
+that. And I think that shows that it has
+some notion of at least intuitive
+physics, right? um how things are
+supposed to work uh intuitively maybe
+the way that uh a human child would
+understand physics right as opposed to a
+you know a PhD student really uh being
+able to unpack all the equations it's
+more of an intuitive physics
+understanding
+&gt;&gt; well that intuitive
+physics understanding that's the base
+layer that's the thing people sometimes
+call like common sense like it it really
+understands something I think that
+really surprised a lot of people it
+blows my mind that
+&gt;&gt; I just didn't think it would be possible
+to generate that level of realism
+without understanding.
+&gt;&gt; You there's this notion that you can
+only understand the physical world by
+having an embodied AI system, a robot
+that interacts with that world. That's
+the only way to construct an
+understanding of that world. But V3 is
+directly challenging that it feels like
+&gt;&gt; yes and it's very interesting you know
+even if we if you were to ask me 5 10
+years ago I would have said even though
+I was immersed in all of this I would
+have said well yeah you probably need to
+understand intuitive physics you know
+like if I push this off the table this
+glass it will maybe shatter you know um
+and and the liquid will spill out right
+so we know all of these things but I
+thought that you know and there's a lot
+of theories in neuroscience it's called
+action in perception where you know you
+you need to act in the world to really
+truly perceive it in a deep way. And
+there was a lot of theories about you
+need embodied intelligence or robotics
+or something or maybe at least simulated
+action uh so that you would understand
+things like intuitive physics. But it
+seems like um you can understand it
+through passive observation which is
+pretty surprising to me and and again I
+think hints at something underlying
+about the nature of uh reality in in my
+opinion beyond um just the you know the
+cool videos that it generates. Um and
+and of course there's next stages is
+maybe even making those videos
+interactive. So uh one can actually step
+into them and move around them. Um which
+would be really mind-blowing especially
+given my games background. So you can
+imagine and then and then I think you
+know you're we're starting to get
+towards what I would call a world model
+a model of how the world works the
+mechanics of the world the physics of
+the world and the things in that world.
+And of course that's what you would need
+for a true AGI system.
+&gt;&gt; I have to talk to you about video games.
+So, you were being a bit trolly. I I
+think you're you're having more and more
+fun on Twitter on X, which is great to
+see. So, guy named Jimmy Apples tweeted,
+"Let me play a video game of my V3
+videos already. Uh, Google cooked so
+good playable world models when spelled
+we n question mark." Uh, and then you
+quote tweeted that with, "Now, wouldn't
+that be something?" So, how how hard is
+it to build game worlds with AI? Maybe
+can you look out into the future
+uh of video games 5 10 years out? What
+do you think that looks like?
+&gt;&gt; Well, games were my first love really
+and doing AI for games was the first
+thing I did professionally in my teenage
+years and and was the first major AI
+systems that I built and uh I always
+want to have I want to scratch that itch
+one day and come back to that. though,
+you know, and I will do, I think, and um
+I think I'd sort of dream about, you
+know, what would I have done back in the
+'90s if I'd had access to the kind of AI
+systems we have today? And I think you
+could build absolutely mind-blowing
+games. Um, and I think the next stage is
+I always used to love making all the
+games I've made are openw world games.
+So, they're games where there's a
+simulation and then there's AI
+characters and then the player uh
+interacts with that simulation and the
+simulation adapts to the way the player
+plays. And I always thought they were
+the coolest games because uh so games
+like theme park that I worked on where
+everybody's game experience would be
+unique to them, right? Because you're
+kind of co-creating the game, right? Uh
+we set up the parameters, we set up
+initial conditions, and then you as the
+player immersed in it, and then you are
+co-creating it with the with the
+simulation. But of course, it's very
+hard to program open world games. you
+know, you've got to be able to create uh
+content whichever direction the player
+goes in and you want it to be compelling
+no matter what the player chooses. Um,
+and so it was always quite difficult to
+build uh things like cellular automter
+actually type of those kind of classical
+systems which created some emergent
+behavior. Um, but they're always a
+little bit fragile, a little bit
+limited. Now we're maybe on the cusp in
+the next few years, 5 10 years of having
+AI systems that can truly create around
+your imagination. um can nar sort of
+dynamically change the story and
+storytell the narrative around uh and
+make it dramatic no matter what you end
+up choosing. So it's like the ultimate
+choose your own adventure sort of game.
+And uh you know I think maybe we're
+within reach if you think of a kind of
+interactive version of VO uh and then
+wind that forward 5 to 10 years and you
+know imagine how good it's going to be.
+&gt;&gt; Yeah. So you said a lot of super
+interesting stuff there. So one the open
+world
+built into that is a deep
+personalization the way you've described
+it.
+&gt;&gt; So it's not just that it's open world
+like you can open any door and there'll
+be something there. It's that the choice
+of which door you open
+&gt;&gt; in an unconstrained way defines the
+worlds you see. So some games try to do
+that to give you choice. Yes. But it's
+really just an illusion of choice
+because
+&gt;&gt; the only uh like like Stanley Parable
+game I recently played. It's it's it's
+really there's a couple of doors and it
+really just takes you down a narrative.
+Stanley Parable is a great video game I
+recommend people play that kind of uh in
+a meta way uh mocks the illusion of
+choice and there's philosophical notions
+of free will and so on. But uh I do like
+one of my favorite games of Elder
+Scrolls is Daggerfall. I believe that
+they really played with a like random
+generation of the dungeons.
+&gt;&gt; Yeah.
+&gt;&gt; Of you can step in and they give you
+this feeling of an open world and there
+you mentioned interactivity. You don't
+need to interact. That's a first step
+cuz you don't need to interact that
+much. You just when you open the door,
+whatever you see is randomly generated
+for you.
+&gt;&gt; Yeah. And that's already an incredible
+experience because you might be the only
+person to ever see that.
+&gt;&gt; Yeah. Exactly. And and so but what you'd
+like is a little bit better than just
+sort of a random generation, right? So
+you'd like uh and and also better than a
+simple AB hardcoded choice, right?
+That's not really uh open world, right?
+As you say, it's just giving you the
+illusion of choice. What you want to be
+able to do is is potentially anything in
+that game environment. Um, and I think
+the only way you can do that is to have
+uh generated systems, systems that uh
+will generate that on the fly. Of
+course, you can't create infinite
+amounts of game assets, right? It's
+expensive enough already how AAA games
+are made today. And that was obvious to
+to us back in the '9s when I was working
+on all these games. I think maybe Black
+and White uh was the game that I worked
+on, early stages of that that had the
+still probably the best AI learning AI
+in it. It was an early reinforcement
+learning system that you, you know, you
+were, you were looking after this
+mythical creature and growing it and
+nurturing it and depending how you
+treated it, it would treat the villagers
+in that world in the same way. So if you
+were mean to it, it would be mean. If
+you were good, it would be protective.
+And so it was really a reflection of the
+way you played it. So actually all of
+the uh I've been working on sort of
+simulations and AI through the medium of
+games at the beginning of my career and
+and really the whole of what I do today
+is still a follow on from uh those early
+more hardcoded ways of doing the AI to
+now you know fully general learning
+systems that that are trying to achieve
+the same thing.
+&gt;&gt; Yeah, it's been uh interesting,
+hilarious, and uh fun to watch you and
+Elon obviously itching to create games
+because you're both gamers. And one of
+the sad aspects of your uh incredible
+success in so many domains of science
+like serious adult stuff.
+&gt;&gt; Yeah.
+&gt;&gt; That you might not have time to really
+create a game. You might end up creating
+the tooling that others would create the
+game. You have to watch
+&gt;&gt; other others create the thing you've
+always dreamed of. Do you think it's
+possible you can somehow in your
+extremely busy schedule actually find
+time to create something like black and
+white? some some an actual video game
+where like you could make the childhood
+dream come become reality.
+&gt;&gt; You know, there's two things way to
+think about that is maybe with vibe
+coding as it gets better and there's a
+possibility that I could, you know, one
+could do that actually in in your spare
+time. So, I'm quite excited about that
+as a as that would be my project if if I
+got the time to do some vibe coding. Um
+I'm actually itching to do that. And
+then the other thing is, you know, maybe
+it's a sbatical after agi has been
+safely stewarded into the world and
+delivered into the world. You know, that
+and then working on my physics theory as
+we talked about at the beginning. Those
+would be the two my my two post AGI
+projects. Let's call it that way.
+&gt;&gt; I I would love to see which game post
+AGI which you choose. Solving uh the the
+problem that some of the smartest people
+in human history contended with, you
+know, P equals MP
+or creating a cool video. Yeah. Well,
+but they might but in my world they'd be
+related because it would be an openw
+world simulated game uh as realistic as
+possible. So, you know what what is what
+is the universe? That's that's that's
+speaking to the same question, right?
+NPL MP. I think all these things are
+related, at least in my mind. I mean in
+a really serious way like video games
+sometimes are looked down upon as just
+this fun side activity but especially as
+AI does more and more of the difficult
+uh boring tasks something we in in
+modern world call work.
+You know video games is the thing in
+which we may find meaning in which we
+may find like what to do with our time.
+You could create incredibly rich,
+meaningful experiences. Like that's what
+human life is. And then in video games,
+you can create more sophisticated,
+more diverse
+ways of living,
+&gt;&gt; right?
+&gt;&gt; I think so. I mean, those of us who love
+games, and I still do, is is is
+um you know, it's almost can let your
+imagination run wild, right? Like I I
+used to love games um and working on
+games. so much because it's the fusion
+especially in the '9s and early 2000s
+the sort of golden era maybe the 80s of
+of of game of the games industry and it
+was all being discovered new genres were
+being discovered we weren't just making
+games we felt we were we were creating a
+new entertainment medium that never
+existed before especially with these
+open world games and simulation games
+where you were co-create you as the
+player were co-creating the story
+there's no other media uh entertainment
+media where you do that where you as the
+audience actually co-create the the
+story and of course Now with multiplayer
+games as well, it can be a very social
+activity and can explore all kinds of
+interesting worlds in that. But on the
+other hand, you know, it's very
+important to um also enjoy and
+experience uh the physical world. But
+the question is then, you know, I think
+we're going to have to kind of confront
+the question again of what is the
+fundamental nature of reality? uh what
+is the going to be the difference
+between these increasingly realistic
+simulations and uh multiplayer ones and
+emergent um and what we do in the real
+world.
+&gt;&gt; Yeah, there's clearly a huge amount of
+value to experiencing the real world
+nature. There's also a huge amount of
+value in experiencing other humans
+directly in person the way we're sitting
+here today.
+&gt;&gt; But we need to really scientifically
+rigorously answer the question why.
+&gt;&gt; Yeah. And which aspect of that can be
+mapped into the virtual world.
+&gt;&gt; Exactly.
+&gt;&gt; It's not it's not enough to say, "Yeah,
+you should go touch grass and hang out
+in nature." It's like, why exactly is
+that valuable?
+&gt;&gt; Yes. And I guess that's maybe the thing
+that's been uh haunting me, obsessing me
+from the beginning of my career. If you
+think about all the different things
+I've done, that's they're all related in
+that way. This simulation, nature of
+reality, and what is the bounds of, you
+know, what can be modeled. Sorry for the
+ridiculous question, but so far, what is
+the greatest video game of all time?
+What's up there?
+&gt;&gt; Well, my favorite one of all time is
+Civilization. I have to say that that
+was the the the Civilization 1 and
+Civilization 2. My favorite games of all
+time. Um
+&gt;&gt; I can only assume you've avoided the
+most recent one because it would
+probably you would that would be your
+sobatical that you would disappear.
+&gt;&gt; Yes, exactly. They take a lot of time
+these Civilization games. So, I got to
+be careful with them.
+&gt;&gt; Fun question. You and Elon seem to be
+somehow solid gamers. Uh is there a
+connection between being great at gaming
+and and uh being great leaders of AI
+companies?
+&gt;&gt; I don't know. I It's an interesting one.
+I mean uh we both love games and uh it's
+interesting he wrote games as well to
+start off with. It's probably especially
+in the era I grew up in where home
+computers were just became a thing, you
+know, in the late ' 80s and '9s,
+especially in the UK. I had a Spectrum
+and then a Commodore Omega 500 which is
+my my favorite computer ever and that's
+why I learned all my programming and of
+course it's a very fun thing uh to
+program is to program games. So I think
+it's a great way to learn programming
+probably still is and um and then of
+course I immediately took it in
+directions of AI and simulations which
+so I may was able to express my interest
+in in games and my sort of wider
+scientific interests alto together. And
+then the final thing I think that's
+great about games is it fuses um
+artistic design, you know, art with the
+the the most cutting edge programming.
+Um so again, in the '90s, all of the
+most interesting uh technical advances
+were happening in gaming, whether that
+was AI, graphics, physics engines, uh
+hardware, even GPUs of course were
+designed for gaming originally. Um so
+everything that was pushing computing
+forward in the in the '9s was due to
+gaming. So interestingly that was where
+the forefront of research was going on
+and it was this incredible fusion with
+with art um you know graphics but also
+music and just the whole new media of
+storytelling and I love that. For me
+it's this sort of multi-disiplinary kind
+of effort is again something I've
+enjoyed my whole my whole life. I have
+to ask you, I almost forgot about one of
+the many and I would say one of the most
+incredible things recently uh that
+somehow didn't yet get enough attention
+is alpha evolve.
+&gt;&gt; We talked about evolution a little bit
+but it's the Google deep mind system
+that evolves algorithms.
+&gt;&gt; Yeah.
+&gt;&gt; Are these kinds of evolution-like
+techniques promising as a component of
+future super intelligence system? So for
+people who don't know, it's kind of um I
+don't know if it's fair to say it's LLM
+guided
+evolution search.
+&gt;&gt; Yeah.
+&gt;&gt; So evolutionary algorithms are doing the
+search and LLMs are telling you where.
+&gt;&gt; Yes. Exactly. So LLMs are kind of
+proposing some possible solutions and
+then you do you use evolutionary
+computing on top to to to find some
+novel part of the of the search space.
+So actually I think it's an example of
+very promising directions where you
+combine LLMs or foundation models with
+other computational techniques.
+Evolutionary methods is one but you
+could also imagine Monte Carlo research
+basically many types of search
+algorithms or reasoning algorithms sort
+of on top of or using the foundation
+models as a basis. So, I actually think
+there's quite a lot of interesting uh
+things to be discovered probably with
+these sort of hybrid systems, let's call
+them.
+&gt;&gt; But not to romanticize evolution. Yeah,
+&gt;&gt; I'm only human. But you think there's
+some value in whatever that mechanism is
+because we already talked about natural
+systems. Do you think where there's a
+lot of lowhanging fruit of us
+understanding being being able to model
+uh being able to simulate evolution and
+then using that whatever we understand
+about that nature inspired mechanism to
+to then do surge better and better and
+better.
+&gt;&gt; Yes. So if you think about uh again
+breaking down the sort of systems we've
+built uh to their really fundamental
+core, you've got like the model of the
+of the underlying dynamics of the
+system. Uh and then if you want to
+discover something new, something novel
+that hasn't been seen before, um then
+you need some kind of search process on
+top to take you to a novel region of the
+of the of the search space. And um you
+can do that in a number of ways.
+Evolutionary computing is one. um with
+Alph Go we just use Monte Carlo research
+right and that's what found move 37 the
+new kind of never seen before strategy
+in go and so that's how you can go
+beyond potentially what is already known
+so the model can model everything that
+you currently know about right all the
+data that you currently have but then
+how do you go beyond that so that starts
+to speak about the ideas of creativity
+how can these systems create something
+new discover something new obviously
+this is super relevant for scientific
+discovery or pushing met science and
+medicine forward, which we want to do
+with these systems. And you can actually
+bolt on some uh fairly simple search
+systems on top of these models and get
+you into a new region of space. Of
+course, you also have to um make sure
+that you're not searching that space
+totally randomly. It would be too big.
+So, you have to have some objective
+function that you're trying to optimize
+and hill climb towards and that guides
+that search. But there's some mechanism
+of evolution that are interesting maybe
+in the space of programs. But then the
+space of programs is an extremely
+important space because you can probably
+generalize to to everything you know for
+example mutation.
+So it's not just Monte Carlo tree search
+where it's like a search.
+&gt;&gt; You could every once in a while
+&gt;&gt; combine things. Yeah.
+&gt;&gt; Combine things alter like sub like a
+components of a thing. Yes. So then you
+know what evolution is really good at is
+not just the natural selection.
+It's combining things and building
+increasingly complex hierarchical
+systems.
+&gt;&gt; So that component is super interesting
+especially like with alpha evolve in the
+space of programs.
+&gt;&gt; Yeah. Exactly. So there's a you can get
+a bit of an extra property out of
+evolutionary systems which is some new
+emergent capability may come about but
+of course like happened with life.
+Interestingly, with naive uh sort of
+traditional evolutionary computing
+methods without LLMs and the modern AI,
+the problem with them, there was they
+were very well studied in the 90s and
+and and and early 2000s and some
+promising results, but the problem was
+they could never work out how to evolve
+new properties, new emergent properties.
+You always had a sort of subset of the
+properties that you put into the system.
+But maybe if we combine them with these
+foundation models, perhaps we can
+overcome that limitation. Obviously uh
+natural evolution clearly did because it
+it did evolve new capabilities right so
+bacteria to where we are now. So clearly
+that it must be possible with
+evolutionary systems to generate uh new
+patterns you know going back to the
+first thing we talked about and uh new
+capabilities and emergent properties and
+maybe we're on the cusp of discovering
+how to do that.
+&gt;&gt; Yeah listen uh alpha evolve is one of
+the coolest things I've ever seen. I've
+I've on my desk at home, you know, most
+of my time is spent behind that
+computers just programming. And next to
+the the three screens is a skull of a
+tectalic, which is one of the early
+organisms that crawled out of the water
+onto land. And I just kind of watch that
+little guy.
+It's like you whatever the computation
+mechanism of evolution is is quite
+incredible. It's truly truly incredible.
+Now whether that's exactly the thing we
+need to do to do our search but never
+dismiss the power of nature what it did
+here.
+&gt;&gt; Yeah. And it's amazing um which is a
+relatively simple algorithm right
+effectively and it can generate all of
+this immense complexity emerges
+obviously running over you know 4
+billion years of time but but it's it's
+it's you know you can think about that
+as again a pro a search process that ran
+over the physics substrate of the
+universe for a long amount of
+computational time but then it generated
+all this incredible uh rich diversity.
+&gt;&gt; So uh so many questions I want to ask
+you. But one, you do have a dream. One
+of the natural systems you want to uh
+try to model is a is a cell.
+&gt;&gt; Yes,
+&gt;&gt; that's a beautiful dream. Uh I could ask
+you about that. I also just for that
+purpose on the AI scientist front just
+broadly. So there's a essay uh from
+Daniel Cocatalio, Scott Alexander, and
+others that outlines steps along the way
+to get to ASI and has a lot of
+interesting ideas in it. one of which is
+uh including a superhuman coder and a
+superhuman AI researcher
+and in that there's a term of research
+taste that's really interesting. So in
+everything you've seen, do you think
+it's possible for AI systems to have
+research taste to help you in the way
+that AI co-scientist does to help steer
+human um human brilliant scientists and
+then potentially by itself to figure out
+what are the directions
+where you want to generate truly novel
+ideas because that seems to be like a
+really important component how to do
+great science. Yeah, I think that's
+going to be one of the hardest things to
+to uh mimic or model is is this this
+idea of taste or or judgment. I think
+that's what separates the you know the
+the great scientists from the good
+scientists like all all professional
+scientists are good technically right
+otherwise they wouldn't have made it
+that far in in academia and things like
+that but then do you have the taste to
+sort of sniff out what the right
+direction is what the right experiment
+is what the right question is. So the
+it's the it's picking the right question
+is is the hardest part of science. Um
+and and making the right hypothesis and
+um that's what you know today's systems
+definitely they can't do. So you know I
+often say it's harder to come up with a
+conjecture a really good conjecture than
+it is to solve it. So we may have
+systems soon that can solve pretty hard
+conjectures. um you know I I um mass
+Olympiad problems where we we you know
+alpha proof last year our system got you
+know silver medal in that really hard
+problems maybe eventually we'll be able
+to solve a millennium prize kind of
+problem but could a system have come up
+with a conjecture worthy of study that
+someone like Terren Tower would have
+gone you know what that's a really deep
+question about the nature of maths or
+the nature of numbers or the nature of
+physics and that is far harder type of
+creativity and we don't really Oh,
+systems clearly can't do that and we're
+not quite sure what that mechanism would
+be. This kind of leap of imagination
+like like Einstein had when he came up
+with, you know, special relativity and
+then general relativity with the
+knowledge he had at the time.
+&gt;&gt; As for conjecture,
+the you want to come up with a thing
+that's interesting and amenable to
+proof.
+&gt;&gt; Yes.
+&gt;&gt; So like it's easy to come up with a
+thing that's extremely difficult.
+&gt;&gt; Yeah.
+&gt;&gt; It's easy to come up with a thing that's
+extremely easy. at that at that very
+edge,
+&gt;&gt; that sweet spot, right, of of basically
+advancing the science and splitting the
+hypothesis space into two ideally,
+right? Whether if it's true or not true,
+you you've learned something really
+useful and um and and that's hard and
+and and and making something that's also
+uh you know falsifiable and within sort
+of the technologies that you have you
+currently have available. So it's a very
+creative process actually highly
+creative process that um I think just a
+kind of naive search on top of a model
+won't be enough for that.
+&gt;&gt; Okay. The idea of splitting the
+hypothesis space in two is super
+interesting. So uh I've heard you say
+that there's basically no failure in or
+failure is extremely valuable if it's
+done if you construct the questions
+right if you construct the experiments
+right if you design them right that
+failure success are both useful. So
+perhaps because it splits the hypothesis
+basically two, it's like a binary
+search.
+&gt;&gt; That's right. So when you do like, you
+know, real blue sky research, there's no
+such thing as failure really as long as
+you're picking experiments and
+hypotheses that that that that
+meaningfully spit the hypothesis space.
+So you know, and you learn something,
+you can learn something kind of equally
+valuable from an experiment that doesn't
+work. That should tell you, if you've
+designed the experiment well and your
+hypothesis are interesting, it should
+tell you a lot about where to go next.
+and um and then it's you're effectively
+doing a search process um and using that
+information in in you know very helpful
+ways. So to go to your dream
+of uh modeling a cell uh what are the
+big challenges that lay ahead for us to
+make that happen? We should maybe
+highlight that alpha I mean there's just
+so many leaps.
+&gt;&gt; Yeah.
+&gt;&gt; So AlphaFold solved if it's fair to say
+protein folding and there's so many
+incredible things we could talk about
+there including the open sourcing uh the
+everything you've released. Alpha Fold 3
+is doing protein, RNA, DNA interactions,
+&gt;&gt; which is super complicated and and
+fascinating. That's amendable to
+modeling. Alpha genome uh predicts uh
+how small genetic changes like if we
+think about single mutations, how they
+link to actual uh function. So um those
+are it seems like it's creeping along to
+sophistic to to much more complicated u
+things like a cell but a cell has a lot
+of really complicated components.
+&gt;&gt; Yeah. So what I've tried to do
+throughout my career is I have these
+really grand dreams and then I try to as
+you've noticed and then I try to break
+but I try to break them down any you
+know it's easy to have a kind of a crazy
+ambitious dream but the the the trick is
+how do you break it down into manageable
+achievable uh interim steps that are
+meaningful and useful in their own right
+and so virtual cell which is what I call
+the project of modeling a cell I've had
+this idea you know of wanting to do that
+for maybe more like 25 is and I used to
+talk with Paul Nurse who is a bit of a
+mentor of mine in biology. He runs the
+the you know founded the Craig Institute
+and and won the Nobel Prize in in 2001.
+uh is is we've been talking about it
+since you know before the you know in
+the '90s and um and I come used to come
+back to every 5 years is like what would
+you need to model the full internals of
+a cell so that you could do experiments
+on the virtual cell and what those
+experiment you know in silicone and
+those predictions would be useful for
+you to save you a lot of time in the wet
+lab right that would be the dream maybe
+you could 100x speed up experiments by
+doing most of it in silicone the search
+in silicico and then you do the
+validation step in the wet lab. That
+would be that's the that's the dream.
+And so u but maybe now finally uh so I
+was trying to build these components
+alpha fold being one that that would
+allow you eventually to model the full
+interaction a full simulation of a cell
+and I'd probably start with a yeast cell
+and partly that's what Paul nurse
+studied because a yeast cell is like a
+full organism that's a single cell right
+so it's the kind of simplest single cell
+organism and so it's not just a cell
+it's a full organism and um and yeast is
+very well understood And so that would
+be a good candidate for uh a a kind of
+full simulated model. Now alpha fold is
+the is the solution to the kind of
+static picture of what does a what does
+a protein look 3D structure protein look
+like a static picture of it. But we know
+that biology all the interesting things
+happen with the dynamics the
+interactions and that's what alpha 3 is
+is the first step towards is modeling
+those interactions. So first of all
+pairwise you know proteins with proteins
+proteins with RNA and DNA but then um
+the next step after that would be
+modeling maybe a whole pathway maybe
+like the to pathway that's involved in
+cancer or something like this and then
+eventually you might be able to model
+you know a whole cell
+&gt;&gt; also there's another complexity here
+that stuff in a cell happens at
+different time scales is that tricky
+like there you know protein uh folding
+is you know super fast
+&gt;&gt; yes
+&gt;&gt; um I don't know all the bi ological
+mechanisms, but some of them take a long
+time. And so is that that's an level. So
+the levels of interaction has a
+different temporal scale that you have
+to be able to model.
+&gt;&gt; So that would be hard. So you'd probably
+need several simulated systems that can
+interact at these different temporal
+dynamics or at least maybe it's like a
+hierarchical system. So um you can jump
+up and down the the different temporal
+stages. So can you avoid I mean one of
+the challenges here is
+not avoid simulating for example the the
+the quantum mechanical aspects of any of
+this right you want to not overm model
+you can skip ahead to just model the
+really highlevel things that get you a
+really good estimate of what's going to
+happen
+&gt;&gt; so you you got to make a decision when
+you're modeling any natural system what
+is the cutoff level of the granularity
+that you're going to model it to that
+then captures the dynamics that you're
+interested in. So probably for a cell I
+would hope that would be the protein
+level uh and that one wouldn't have to
+go down to the atomic level. Um so you
+know of course that's where alpha volt
+stock kicks in. So that would be kind of
+the basis and then you'd build these um
+uh higher level simulations that um take
+those as building blocks and then you
+get the emergent behavior. Apologize for
+the pthead questions ahead of time, but
+uh will do you think uh we'll be able to
+simulate and model the origin of life.
+So being able to simulate the first from
+from non-living organisms the the birth
+of a living organism.
+&gt;&gt; I think that's a one of the of course
+one of the deepest and most fascinating
+questions. Um I love that area of
+biology. you know, uh, people like
+there's a great book by Nick Lane, one
+of the top top experts in this area
+called the the 10 great inventions of of
+of evolution. I think it's fantastic and
+it also speaks to what the great filters
+might be, you know, prior or are they
+ahead of us. I think I think they're
+most likely in the past if you read that
+book of how unlikely to go, you know,
+have any life at all and then single
+cell to multisell seems an unbelievably
+big jump that took like a billion years,
+I think, on Earth to do, right? So it
+shows you how hard it was, right?
+&gt;&gt; Bacteria were super happy for a very
+long time,
+&gt;&gt; a very long time before they captured
+mitochondria somehow, right? I don't see
+why not why AI couldn't help with that
+some kind of simulation. Again, it's
+again, it's a bit of a search process
+through a combinatorial space. Here's
+like all the chem, you know, the
+chemical soup that that you start with,
+the primordial soup that, you know,
+maybe was on Earth near these hot vents.
+Here's some initial conditions. Can you
+uh generate something that looks like a
+cell? So perhaps that would be a next
+stage after the virtual cell project is
+well how how could you actually um
+something like that emerge from the
+chemical soup?
+&gt;&gt; Well, I would love it if there was a
+move 37 for the origin of life. Yeah,
+&gt;&gt; I think that's one of the sort of great
+mysteries. I think ultimately what we
+will figure out is their continuum.
+There's no such thing as a line between
+non-living and living. But if we can
+make that rigorous Yes.
+&gt;&gt; that that the very thing from the be big
+bang to today has been the same process.
+If we can break down that wall that
+we've constructed in our minds of the
+actual origin of from non-living to
+living and it's not a line that it's a
+continuum that connects physics and
+chemistry and biology. There's no line.
+&gt;&gt; I mean this is my whole reason why I've
+worked on AI and AGI my whole life
+because I think it can be the ultimate
+tool to help us answer these kind of
+questions. And I don't really understand
+why um you know the average person
+doesn't think like worry about this
+stuff more like how how can we not have
+a good definition of life and not and
+not living and non-living and the nature
+of time and let alone consciousness and
+gravity and all these things. It's it's
+just and quantum mechanics weirdness.
+It's just to me it's I've always had
+this sort of screaming at me in my face
+the whole and that it's getting louder
+you It's like how what is going on here?
+You know, in in I mean that in the
+deepest sense like in the you know the
+nature of reality which has to be the
+ultimate question uh that would answer
+all of these things. It's sort of crazy
+if you think about we can stare at each
+other and all these living things all
+the time. We can inspect it with
+microscopes and take it apart uh almost
+down to the atomic level and yet we
+still can't answer that clearly in a
+simple way that question of how do you
+define living?
+&gt;&gt; Yeah,
+&gt;&gt; it's kind of amazing. Yeah, living you
+can kind of talk your way out of
+thinking about but like consciousness
+like we have this very obviously
+subjective conscious experience like
+we're at the center of our own world and
+it it feels like something and then h
+how how are you not screaming
+&gt;&gt; at the mystery of it all I mean but
+really humans have been contending with
+the mystery of the world around them for
+long there's a lot of mysteries like
+what's up with the sun and and the rain,
+&gt;&gt; like what's that about? And then like
+last year we had a lot of rain and this
+year we don't have rain. Like what did
+we do wrong? Humans have been asking
+that question for a long time.
+&gt;&gt; Exactly. So we're quite I guess we've
+developed a lot of mechanisms to cope
+with this these deep mysteries that we
+can't fully we can see but we can't
+fully understand and we have to have to
+just get on with daily life and and and
+we get we keep ourselves busy right in a
+way. Do we keep ourselves distracted?
+I mean weather is one of the most
+important questions of human history. We
+still that's that's the go-to small talk
+direction of of the weather
+&gt;&gt; especially in England
+&gt;&gt; and then it's which is you know famously
+is an extremely difficult system to
+model and uh even that system uh Google
+deep mind has made progress on. Yes,
+we've yeah, we've created the the best
+weather prediction systems in the world
+and they're better than traditional
+fluid dynamics sort of systems that
+usually calculated on massive
+supercomputers takes days to calculate
+it. And we've managed to model a lot of
+the weather dynamics with neural network
+systems with our weather next system.
+And again, it's interesting that those
+kinds of dynamics can be modeled even
+though they're very complicated, almost
+bordering on chaotic systems in some
+cases. A lot of the interesting aspects
+of that um can be modeled by these
+neural network systems, including very
+recently we had, you know, cyclone
+prediction of where, you know, paths of
+hurricanes might go. of course super
+useful super important for the world and
+and and it's super important to do that
+very timely and very quickly and as well
+as accurately and uh I think it's very
+promising direction again of you know
+simulating and uh uh so that you can run
+forward predictions and simulations of
+very complicated real world systems.
+&gt;&gt; I should mention that uh I've got a
+chance in uh Texas to meet a community
+of folks called the stormchasers.
+&gt;&gt; Yes. And what's really incredible about
+them, I need to talk to them more, is
+they're extremely tech-savvy because
+what they have to do is they have to use
+models to predict where the storm is. So
+they're it's just it's it's this
+beautiful mix of like crazy enough to
+like go into the eye of the storm and
+like
+&gt;&gt; in order to protect your life and
+predict where the extreme events are
+going to be, they have to have
+increasingly sophisticated models of of
+weather.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. It's it's a a beautiful balance of
+like being in it as living organisms and
+the the cutting edge of science. So they
+actually might be using uh deep mind
+system. So that's
+&gt;&gt; Yeah, they hopefully they are and I I'd
+love to join them on one of those
+chases. They look amazing, right? To
+actually experience it one time.
+&gt;&gt; Exactly. And then also to experience the
+correct prediction where something will
+come and how it's going to evolve. It's
+incredible.
+&gt;&gt; Yeah.
+&gt;&gt; You've estimated that we'll have AGI by
+2030.
+Um so there's interesting questions
+around that. How will we actually know
+that we got there? Uh and uh what maybe
+the move quote move 37 of AGI.
+&gt;&gt; My estimate is sort of 50% chance by in
+the next 5 years. So you know by 2030
+let's say and uh so I think there's a
+good chance that that could happen. Part
+of it is what what is your definition of
+AGI? Of course, people are arguing about
+that now and and uh mine's quite a high
+bar and always has been of like can we
+match the cognitive functions that the
+brain has, right? So, we know our brains
+are pretty much general cheuring
+machines approximate. And of course,
+we've created incredible modern
+civilization with our minds. So, that
+also speaks to how general the brain is.
+And um for us to know we have a true
+AGI, we would have to like make sure
+that it has all those capabilities. it
+isn't kind of a jagged intelligence
+where some things it's really good at
+like today's systems but other things
+it's really uh flawed at and and that's
+what we currently have with today's
+systems they're not consistent so you'd
+want that consistency of intelligence
+across the board and then we have some
+missing I think capabilities like sort
+of uh the true invention capabilities
+and creativity that we were talking
+about earlier so you'd want to see those
+how you test that um I think you just
+test it one way to do it would be a kind
+of brute force test of tens of thousand
+thousand of cognitive tasks that um you
+know we know that humans can do uh and
+maybe also make the system available to
+uh a few hundred of the world's top
+experts uh the terren towers of each
+each subject area and see if they can
+find you know give them give them a
+month or two and see if they can find an
+obvious flaw in the system and if they
+can't then I think you're you're pretty
+uh you know pretty you can be pretty
+confident we have a a fully general
+system
+&gt;&gt; maybe to push back a little bit it seems
+like humans are really incredible as the
+the intelligence improves across all
+domains to take it for granted.
+&gt;&gt; Mhm.
+&gt;&gt; Uh like you mentioned Terrence Tao
+uh these brilliant experts they might
+quickly in a span of weeks take for
+granted all the incredible things it can
+do and then focus in well haha right
+there. You know I I consider myself uh
+first of all human.
+&gt;&gt; Yeah.
+&gt;&gt; Uh second I identify as human. Um
+I you know some people listen to me talk
+and they're like that guy is not good at
+talking the stuttering the you know so
+like even humans have obvious across
+domains limits even just outside of
+mathematics and physics and so on it I I
+I wonder if it will take something like
+a move 37 so on the positive side versus
+like
+&gt;&gt; a barrage of 10,000 cognitive tasks
+where it would be one or two where it's
+like yes, holy this is
+&gt;&gt; I think exactly. So I think there's the
+sort of blanket testing to just make
+sure you've got the consistency, but I
+think there are the sort of lighthouse
+moments like the move 37 that I would be
+looking for. So one would be inventing a
+new conjecture or new hypothesis about
+physics like Einstein did. So maybe you
+could even run the back test of that
+very rigorously like have a cut off of
+knowledge cutff of 1900 and then give
+the system everything that was you know
+that was written up to 1900 and then and
+then see if it could come up with
+special relativity and general
+relativity right like Einstein did that
+that would be an interesting test
+another one would be can it invent a
+game like go not just come up with move
+37 a new strategy but can it invent a
+game that's as deep as aesthetically
+beautiful as elegant as go and those are
+the sorts of things I would be looking
+out for. Uh and probably a system being
+able to do uh uh several of those
+things, right, for it to be very
+general. Um not just one domain. And so
+I think that would be the signs at least
+that I would be looking for that we've
+got a system that's a GI level. And then
+maybe to fill that out, you would also
+check the consistency, you know, make
+sure there's no holes in that system
+either.
+&gt;&gt; Yeah. Something like a new conjecture or
+scientific discovery. That would be a
+cool feeling. Yeah, that would be
+amazing. So, it's not not just helping
+us do that, but actually coming up with
+something brand new
+&gt;&gt; and you would be in the room for that.
+So, it would be like probably 2 or 3
+months before announcing it.
+&gt;&gt; Mhm.
+&gt;&gt; And you would just be sitting there
+trying not to tweet
+&gt;&gt; something like that. Exactly. It's like
+what is this amazing new you know
+physics idea? And then we would probably
+check it with world experts in that
+domain, right? and validate it and kind
+of go through its workings and it I
+guess it would be explaining its
+workings too. Um yeah be an amazing
+moment.
+&gt;&gt; Do you worry that we as humans even
+expert humans like you might miss it
+might miss
+&gt;&gt; it may be pretty complicated. So it
+could be the analogy I give there is I
+don't think it will be um uh uh totally
+mysterious to the to the best human
+scientists but it may be a bit like for
+example in chess if I was to talk to
+Gary Kasparov or Magnus Carlson and play
+a game with them and they make a
+brilliant move I might not be able to
+come up with that move but they could
+explain why afterwards that move made
+sense and we were to understand it to
+some degree not to the level they do but
+in you know if they were good at
+explaining which is actually part of
+intellg igence too is being able to
+explain in a simple way that what you're
+thinking about. Um uh I I think that
+that would be very possible for the best
+human scientists.
+&gt;&gt; But I wonder maybe you can you can
+educate me on the side of go. I wonder
+if there's moves for Agnes or Gary where
+they at first will dismiss it as a bad
+move.
+&gt;&gt; Yeah, sure. It could be. But then
+afterwards they'll figure out with their
+intuition that that this why this works.
+And then and then and then empirically
+the nice thing about games is one of the
+great things about games is you can it's
+a sort of scientific test. Does it do
+you win the game or not win? And then um
+that tells you okay that move in the end
+was good. That strategy was good. And
+then you can go back and analyze that
+and and and and explain even to yourself
+a little bit more why explore around it.
+And that's how chess analysis and things
+like that works. So perhaps that's why
+my brain works like that cuz I I've been
+doing that since I was four and you're
+train you know it's sort of hardcore
+training in that way. But even even now
+like when I generate code
+there there is this kind of nuanced
+fascinating con contention that's
+happening where I might at first
+identify as a set of generated code is
+incorrect in in some interesting nuanced
+ways but then I'm always have to ask the
+question is there a deeper insight here
+that that I'm the one who's incorrect
+&gt;&gt; and that's going to as the systems get
+more and more intelligent you're going
+to have to contend with that. It's like
+what what what do you is this a bug or a
+feature of what you just came up with?
+&gt;&gt; Yeah. And they're going to be pretty
+complicated to do. But of course it will
+be you can imagine also AI systems that
+are producing that code or whatever that
+is and then human programmers looking at
+it but also not unaded with the help of
+AI tools as well. So it's going to be
+kind of an interesting you know maybe
+different AI tools to the ones that the
+more you know kind of monitoring tools
+to the ones that generated it. So if we
+look at a AGI system,
+sorry to bring it back up, but alpha
+evolve,
+super cool. So Alpha Evolve enables on
+the programming side something like
+recursive self-improvement uh
+potentially like what who can imagine
+what that AGI system maybe not the first
+version but a few versions beyond that.
+What does that actually look like? Do
+you think it would be simple? You think
+it'll be something like a self-improving
+program in a simple one?
+&gt;&gt; I mean, potentially that's possible. I
+would say um I'm not sure it's even
+desirable because that's a kind of like
+hard takeoff scenario. But but you you
+these current systems like Alpha Evolve,
+they have, you know, human in the loop
+deciding on various things. They're
+separate hybrid systems that interact.
+Uh one could imagine eventually doing
+that end to end. I don't see why that
+wouldn't be possible but right now um
+you know I think the systems are not
+good enough to do that in terms of
+coming up with the architecture of the
+code. Um and again it's a little bit
+connected to this idea of coming up with
+a new conjectural hypothesis. How like
+they're good if you give them very
+specific instructions about what you're
+trying to do. Um, but if you give them a
+very vague high level instruction, that
+wouldn't work currently. Like, uh, and I
+think that's related to this idea of
+like invent a game as good as go, right?
+Imagine that was the prompt. That's
+that's pretty underspecified. And so the
+current systems wouldn't know, I think,
+what to do with that, how to narrow that
+down to something tractable. And I think
+there's similar like, look, just make a
+better version of yourself that's too
+that's too unconstrained. But we've done
+it in, you know, and as you know with
+Alpha Evolve, like things like faster
+matrix multiplication. So when you when
+you hone it down to very specific thing
+you want um it's very good at
+incrementally improving that but at the
+moment these are more like incremental
+improvements sort of small iterations
+whereas if you know if you wanted a big
+leap in uh understanding you need a you
+need a much larger uh advance.
+&gt;&gt; Yeah. But it could also be sort of to
+push back against hard takeoff scenario.
+It could be just a sequence of um
+incremental improvements like matrix
+multiplication like it has to sit there
+for days thinking how to incrementally
+improve a thing and that it does so
+recursively and as you do more and more
+improvement it'll slow down so there'll
+be like a like uh the path to AGI won't
+be like a it'll be a gradual improvement
+over time.
+&gt;&gt; Yes. If it was just incremental
+improvements that's how it would look.
+So the question is could it come up with
+a new leap like the transformers
+architecture right could it have done
+that back in 2017 when you know we did
+it and brain did it and it's it's not
+clear that that these systems something
+like Alpha wouldn't be able to do make
+such a big leap so for sure these
+systems are good we have systems I think
+that can do incremental hill climbing
+and that's a kind of bigger question
+about is that all that's needed from
+here or do we actually need one or two
+more um uh big breakthroughs
+&gt;&gt; and can the same kind of systems provide
+the breakthroughs also. So make it a
+bunch of scurves like incremental
+improvement but also every once in a
+while leaps.
+&gt;&gt; Yeah. I don't think anyone has systems
+that can have shown unequivocally those
+big leaps that the the right. We have a
+lot of systems that do the hill climbing
+of the S-curve that you're currently on.
+&gt;&gt; Yeah. And that would be the move 37 is a
+leap.
+&gt;&gt; Yeah. I think would be a leap. Um
+something like that. Uh do you think the
+scaling laws are holding strong on the
+pre-training, post- training, test time,
+compute? Uh do you uh on the flip side
+of that anticipate AI progress hitting a
+wall?
+&gt;&gt; We certainly feel there's a lot more
+room just in the scaling. So um actually
+all steps pre-training, post-training
+and inference time. So uh there's sort
+of three scalings that are happening
+concurrently. Um and we again there it's
+about how innovative you can be and we
+you know we pride ourselves on having
+the broadest and um deepest research
+bench. uh we have amazing you know
+incredible uh researchers and uh people
+like Nam Shazir who you know came up
+with transformers and and Dave Silva you
+know who led the Alph Go project and so
+on and um it's it's it's that research
+base means that if some new new
+breakthrough is required like an Alph Go
+or Transformers uh I would back us to be
+the place that does that. So I'm
+actually quite like it when the terrain
+gets harder, right? Because then it
+veers more from just engineering to to
+true research and you know re or
+research plus engineering and that's our
+sweet spot. And I I think that's harder
+it's harder to invent things than to
+than to um you know fast follow. And um
+so you know we don't know I would say
+it's a it's kind of 50/50 whether new
+things are needed or whether the scaling
+the existing stuff is going to be
+enough. And so in true kind of empirical
+fashion, we're pushing both of those as
+hard as possible. The new blue sky ideas
+and you know maybe about half our
+resources are on that and then and then
+uh scaling to the max the the current
+the current capabilities and um we're
+still seeing some you know fantastic
+progress on uh each different version of
+Gemini. That's interesting the way you
+put it in terms of the deep bench that
+if uh progress towards AGI is more than
+just scaling compute so the engineering
+side of the problem and is more on the
+scientific side where there's
+breakthroughs needed then you feel
+confident deep mind as well Google deep
+mind is well positioned to kick kick ass
+in that domain
+&gt;&gt; well I mean if you look at the history
+of the last decade or 15 years um it's
+been I you know maybe I don't know 80
+90% of the breakthroughs that that
+underpins modern AI field today was from
+you know originally Google brain Google
+research and deep mind so yeah I would
+back that to continue hopefully
+&gt;&gt; uh so on the data side are you concerned
+about running out of highquality data
+especially high quality human data
+&gt;&gt; I'm not very worried about that partly
+because I think there's enough data uh
+or and it's been proven to get the
+systems to be pretty good and this goes
+back to simulations again if you do you
+have enough data to make simulations or
+so that you can create more synthetic
+data that are from the right
+distribution. Obviously, that's the key.
+So, you need enough real world data in
+order to be able to uh uh create those
+kinds of generator data generators and
+um I think that we're at that step at
+the moment.
+&gt;&gt; Yeah, you've done a lot of incredible
+stuff on the side of science and biology
+doing a lot with not so much data.
+&gt;&gt; Yeah.
+&gt;&gt; I mean, it's still a lot of data, but I
+guess enough
+&gt;&gt; take off that going. Exactly. Yeah.
+&gt;&gt; So exactly
+&gt;&gt; uh how crucial is the scaling of compute
+to building AGI? This is a question
+that's an engineering question. It's a
+almost geopolitical question
+&gt;&gt; because it also integrated into that is
+the supply chains and energy a thing
+that you care a lot about which is um
+potentially fusion. So innovating on the
+side of energy also. Do you think we're
+going to keep scaling compute?
+&gt;&gt; I think so for several reasons. I think
+compute there's there's the amount of
+compute you have for training often it
+needs to be colloccated so actually even
+like you know uh bandwidth constraints
+between data centers can affect that so
+it's it's it's there's additional
+constraints even there and that that's
+important for training obviously the
+largest models you can but there's also
+because now AI systems are in products
+and being used by billions of people
+around the world you need a ton of
+inference compute now um and then on top
+of that there's the thinking systems,
+the new paradigm uh of the last year
+that uh where they get smarter the
+longer amount of inference time you give
+them at test time. So all of those
+things need a lot of compute and I don't
+really see that slowing down. Um and as
+AI systems become better, they'll become
+more useful and there'll be more demand
+for them. So both from the training
+side, the training side actually is is
+only just one part of that. It may even
+become the smaller part of of what's
+needed um uh in the overall compute that
+that's required. Yeah, that's one sort
+of almost memey kind of thing which is
+like the success and the incredible
+aspects of V3 there people kind of make
+fun of like the more successful it
+becomes the you know the servers are
+sweating.
+&gt;&gt; Yes, exactly the difference in
+&gt;&gt; Yeah. Yeah. Exactly. We did a little
+video of of the servers frying eggs and
+things and um that's right and and and
+we're going to have to figure out how to
+do that. Um there's a lot of interesting
+hardware innovations that we do as you
+know we have our own TPU line and we're
+looking at like inference only things
+inference only chips and how we can make
+those more efficient. We're also very
+interested in building AI systems and we
+have done the help with energy usage so
+help um data center energy like for the
+cooling systems be efficient um grid
+optimization
+um and then eventually things like
+helping with plasma containment fusion
+reactors. We've done lots of work on
+that with Commonwealth Fusion and also
+uh one could imagine reactor design. Um
+and then material design I think is one
+of the most exciting new types of solar
+material solar panel material super room
+temperature superconductors has always
+been on my list of dream breakthroughs
+and um optimal batteries and I think a
+solution to any you know one of those
+things would be absolutely revolutionary
+for you know climate and energy usage
+and we're probably close you know again
+in the next 5 years to having AI systems
+that can materially help with those
+problems. If you were to bet, sorry for
+the ridiculous question, but what what
+is the main source of energy
+in like 20, 30, 40 years, do you think
+it's going to be nuclear fusion?
+&gt;&gt; I think fusion and solar are the two
+that I I would bet on. Um solar, I mean,
+you know, it's the fusion reactor in the
+sky, of course, and I think really the
+problem there is is is batteries and
+transmission. So you know as well as
+more efficient more and more efficient
+solar material perhaps eventually you
+know in space you know these kind of
+Dyson sphere type ideas and fusion I
+think is definitely doable seems uh if
+we have the right design of reactor and
+we can control the plasma and uh fast
+enough and so on and I think both of
+those things will actually get solved so
+we'll probably have at least those will
+probably be the two primary sources of
+renewable clean almost free or perhaps
+free energy What a time to be alive. If
+I uh traveled into the future with you
+100 years from now, how much would you
+be surprised if we've passed a type one
+card scale civilization? I would not be
+that surprised if there was a like a
+100redyear time scale from here. I mean,
+I think it's pretty clear if we crack
+the energy problems in one of the ways
+we've just discussed, fusion or or very
+efficient solar, um, then if energy is
+kind of free and renewable and clean,
+um, then that solves a whole bunch of
+other problems. So, for example, the
+water access problem goes away because
+you can just use desalination. We have
+the technology, it's just too expensive.
+So, only, you know, fairly wealthy
+countries like Singapore and Israel and
+so on like actually use it. But but if
+it was uh cheap then every then you know
+all countries that have a coast could
+but also you'd have unlimited rocket
+fuel. You could just separate sea water
+out into hydrogen and oxygen using
+energy and that's rocket fuel. So uh
+combined with you know Elon's amazing
+self landing rockets then it could be
+like you sort of like a bus service to
+to space. So that opens up you know
+incredible new resources and domains. uh
+asteroid mining I think will become a
+thing and maximum human flourishing to
+the stars. That's what I uh dream about
+as well is like Carl Sean's sort of idea
+of bringing consciousness to the
+universe, waking up the universe. And I
+I think human civilization will do that
+in the full sense of time if we get AI
+right and uh and and and crack some of
+these problems with it.
+&gt;&gt; Yeah. I wonder what it would look like
+if you just a tourist flying through
+space. You would probably notice Earth
+because if you solve the energy problem,
+you would see a lot of space rockets
+probably. So it would be like traffic
+here in London.
+&gt;&gt; But in space,
+&gt;&gt; just a lot of rockets
+&gt;&gt; and then you would probably see floating
+in space some kind of source of energy
+like solar.
+&gt;&gt; Yeah.
+&gt;&gt; Potentially. So earth would just look
+more on the surface more um
+technological
+and then then you would use the power of
+that energy then to preserve the natural
+&gt;&gt; yes
+&gt;&gt; like the rainforest and all that kind of
+stuff
+&gt;&gt; because for the first time in in human
+history we wouldn't be uh resource
+constrainted and I think that could be
+amazing new era for humanity where it's
+not zero sum right I have this land you
+don't have it or if we take you know if
+the tigers have their forest just then
+the the local villagers can't what are
+they going to use? I I I think that this
+will help a lot. No, it won't solve all
+problems because there's still other
+human foibless that will will will still
+exist, but it will at least remove one I
+think one of the big vectors which is
+scarcity of resources, you know,
+including land and more materials and
+energy and um you know, we should be I
+sometimes call it like and others call
+it about this kind of radical abundance
+era where um there's plenty of resources
+to go around. But of course the next big
+question is making sure that that's
+fairly you know shared fairly uh and
+everyone in society benefits from that.
+So there is something about human nature
+where I go you know it's like borat like
+my neighbor like I like you start
+trouble we we we do start conflicts and
+that's why games throughout as I'm
+learning actually more and more even in
+ancient history serve the purpose of
+pushing people away from war actually
+hot war so maybe we can figure out
+increasingly sophisticated video games
+that pull us they that give us that uh
+scratch the itch of like conflict,
+whatever that is, about us, the human
+nature, and then avoid the actual hot
+wars that would come with increasingly
+sophisticated technologies because we're
+now long past the stage where the
+weapons we're able to create can
+actually just destroy all of human
+civilization. So, it's no longer um
+that's no longer a great way to to uh
+start with your neighbor. It's
+better to play a game of chess
+&gt;&gt; or football or football. Yeah.
+&gt;&gt; And I think I mean I think that's what
+my modern sport is. So, and I love
+football watching it and and I just feel
+like uh and I used to play it a lot as
+well and it's it's it's it's very
+visceral and it's tribal and I think it
+does channel a lot of those energies
+into a which I think is a kind of human
+need to belong to some some group and um
+but into a into a into a fun way, a
+healthy way and and a not a not
+destructive way kind of constructive uh
+thing. And I think going back to games
+again is I think they're originally why
+they're so great as well for kids to
+play things like chess is they're great
+little microcosm simulations of the
+world. They are simulations of the world
+too. They're simplified versions of some
+real world situation, whether it's poker
+or or go or chess, different aspects or
+diplomacy, different aspects of of the
+real world. And allows you to practice
+at them, too. And and cuz, you know, how
+many times do you get to practice a
+massive decision moment in your life,
+you know, what job to take, what
+university to go to, you know, you get
+maybe, I don't know, a dozen or so key
+decisions one has to make, and you got
+to make those as best as you can. Um,
+and games is a kind of safe environment,
+repeatable environment where you can get
+better at your decision- making process.
+Um, and it maybe has this additional
+benefit of channeling some energies into
+uh into more creative and constructive
+pursuits.
+&gt;&gt; Well, I think it's also really important
+to practice um losing and winning,
+&gt;&gt; right?
+&gt;&gt; Like losing is a really, you know,
+that's why I love games. That's why I
+love even um things like uh Brazilian
+jiu-jitsu.
+&gt;&gt; Yeah.
+&gt;&gt; Where you can get your ass kicked in a
+safe environment over and over. It
+reminds you about
+&gt;&gt; the way about physics, about the way the
+world works, about sometimes you lose,
+sometimes you win. You can still be
+friends with everybody. But that that
+feeling of losing, I mean, it's a weird
+one for us humans to like really like
+make sense of like that's just part of
+life. That is a fundamental part of life
+is losing.
+&gt;&gt; Yeah. And I think in martial arts as I
+understand it, but also in things like
+light chess is a at least the way I took
+it, it's a lot to do with
+self-improvement, self-nowledge. You
+know that, okay, so I did this thing.
+It's not about really being the other
+person. It's about maximizing your own
+potential. If you do it in a healthy
+way, you learn to use victory and losses
+in a way. Don't get carried away with
+victory and and think you're the just
+the best in the world. Keep and and and
+the losses keep you humble and always
+knowing there's always something more to
+learn. there's always a bigger expert
+that you can mentor you, you know, I
+think you learn that I'm pretty sure in
+martial arts and and and I think that's
+also uh the way that at least I was
+trained in chess. And so in the same way
+and it can be very hardcore and very
+important and of course you want to win,
+but you also need to learn how to deal
+with setbacks in a in a healthy way that
+and and and and wire that that feeling
+that you have when you lose something
+into a constructive thing of next time
+I'm going to improve this, right? Or get
+better at this. There is something
+that's a source of happiness, a source
+of meaning, that improvement step. It's
+not about the winning or losing.
+&gt;&gt; Yes. The mastery. There's nothing more
+satisfying in a way is like, "Oh, wow.
+This thing I couldn't do before, now I
+can." And and and again, games and
+physical sports and and mental sports,
+they're way they're ways of measuring.
+They're beautiful because you can
+measure that that progress.
+&gt;&gt; Yeah. I mean there's something about
+this is why I love role playing games
+like the uh number go up of like my on
+the skill tree like literally that is a
+source of meaning for us humans whatever
+our
+&gt;&gt; yeah we're quite we're quite addicted to
+this sort of yeah these numbers going up
+and uh and and and and maybe that's why
+we made games like that because
+obviously that is something we're we're
+hill climbing systems ourselves right
+&gt;&gt; yeah it would be quite sad if we didn't
+have any mechanism by
+&gt;&gt; color belts all of the we do we do this
+everywhere right where we just have this
+thing that
+&gt;&gt; it's and I don't want to dismiss that
+that there is a source of deep meaning
+for us as humans. U so one of the
+incredible stories on the business on
+the leadership side is um what Google
+has done over the past year. So I uh I
+think it's fair to say that Google was
+losing on the LLM product side uh a year
+ago with Gemini 15 and now it's winning
+with Gemini 25 and you took the helm and
+you led this effort. What did it take to
+go from, let's say, quote unquote losing
+to quote unquote winning in the in in
+the span of a year?
+&gt;&gt; Yeah. Well, firstly, it's absolutely
+incredible team that we have, you know,
+led by Cory and Jeff Dean and and Oral
+and the amazing team we have on Gemini.
+Absolutely world class. So, you can't do
+it without the best talent. Um, and of
+course, you have, you know, we have a
+lot of great compute as well. But then
+it's the research culture we've created,
+right? and basically coming together
+both different groups in in Google you
+know there was Google brain world-class
+team and and then the old deep mind and
+pulling together all the best people and
+the best ideas and gathering around to
+make the absolute greatest system we
+could
+hard um but we're all very competitive
+uh and we you know love research this is
+so fun to do um and we you know it's
+great to see our trajectory wasn't a
+given but we're very pleased with um the
+the where we are in the rate of progress
+is the most important thing. So if you
+look at where we've come two from 2
+years ago to one year ago to now you
+know I think our we call it relentless
+progress along with relentless shipping
+of that progress is um being very
+successful and you know um it's
+unbelievably competitive uh the whole
+space the whole AI space with some of
+the greatest entrepreneurs and leaders
+uh and companies in the world all
+competing now because everyone's
+realized how important AI is um and it's
+very you know been pleasing for us to
+see that progress
+you know, Google's a gigantic company.
+Uh can you speak to the natural things
+that happen in that case is the
+bureaucracy that emerges like you want
+to be careful like you know like that
+the natural kind of there's there's
+meetings and there's managers and that
+like what what are some of the
+challenges from a leadership perspective
+breaking through that in order to like
+you said ship like the the number of
+products
+&gt;&gt; Gemini related products that's been
+shipped over the past year is just
+insane
+&gt;&gt; right it is yeah exactly that's that's
+what relentlessness looks like um I
+think it's it's a question of like any
+big company you know ends up having uh a
+lot of layers of management and things
+like that is sort of the nature of how
+it works. Um but I still operate and I
+was always operating with old Deep Mind
+as a as a startup still large one but
+still as a startup and that's what we
+still act like today as with Google Deep
+Mind and acting with decisiveness and
+the energy that you get from the best
+smaller organizations and we try to get
+the best of both worlds where we have
+this incredible billions of users
+surfaces uh incredible products that we
+can power up with our AI and our and our
+research. Um, and that's amazing. And
+you can, you know, that's very few
+places in the world you can get that do
+incredible world-class research on the
+one hand and then plug it in and improve
+billions of people's lives the next day.
+Uh, that's a pretty amazing combination.
+And we're continually fighting and
+cutting away bureaucracy to allow the
+research culture and the relentless
+shipping culture to flourish. And I
+think we've got a pretty good balance
+whilst being responsible with it, you
+know, as you have to be as a large
+company and also uh with a number of,
+you know, uh huge product surfaces that
+we have.
+&gt;&gt; Uh so a funny thing you mentioned about
+like the the surface of the billion. I I
+had a conversation with a guy named um
+brilliant guy uh here at the British
+Museum called Irvin Fininkle. He's a
+world expert at Kuneaforms, which is a
+ancient writing on tablets. and he
+doesn't know about Chad GBT or Gemini.
+He doesn't even know anything about AI.
+But his first encounter with this AI
+&gt;&gt; is AI mode on Google. Yes.
+&gt;&gt; He's like, "Is that what you're talking
+about? This AI mode and you know, it's
+just it's just a reminder that there's a
+large part of the world that doesn't
+know about this AI thing."
+&gt;&gt; Yeah. I know. It's funny cuz if you live
+on uh X and Twitter and I mean it's sort
+of at least my feed it's all AI and and
+there's certain places where you know in
+the valley and certain pockets where
+everyone's just all they're thinking
+about is AI but a lot of the normal
+world hasn't hasn't come across it yet
+but
+&gt;&gt; that's a great responsibility to the
+their first interaction
+&gt;&gt; on the the the grand scale of the rural
+India or anywhere across the world like
+you get to
+&gt;&gt; right and we want it to be as good as
+possible and in a lot of cases it's just
+under the hood powering making something
+like maps or search work better and um
+and it's ideally for a lot of those
+people should just be seamless. It's
+just new technology that makes their
+lives more, you know, productive and and
+and helps them.
+&gt;&gt; A bunch of folks on the Gemini product
+and engineering teams spoken extremely
+highly of you on another dimension that
+I almost didn't even expect cuz I kind
+of think of you as the like deep
+scientist and caring about these big
+research scientific questions. But they
+also said you're a great product guy
+like how to create a thing that a lot of
+people would use and enjoy using. So can
+you maybe speak to what it takes to
+create a a AI based product that a lot
+of people would enjoy using?
+&gt;&gt; Yeah. Well, I mean again that comes back
+from my game design days where I used to
+design games for millions of gamers.
+People would forget about that. I've had
+experience with cutting edge technology
+in product. That that that that is how
+games was in the '90s. And so I love
+actually the combination of cutting edge
+research and then being applied in a
+product and to power a new experience.
+And so um I think it's the same skill
+really of of you know imagining what it
+would be like to use it viscerally um
+and having good taste. Coming back to
+earlier the same thing that's useful in
+science um I think is is can also be
+useful in in product design. And um I
+I've just had a very you know always
+been a sort of multi-disiplinary person.
+So I don't see uh the boundaries really
+between you know arts and sciences or
+product and research. It's it's a
+continuum for me. I mean I only work on
+I like working on products that are
+cutting edge. I wouldn't be able to you
+know have cutting edge technology under
+the hood. I wouldn't be excited about
+them if they were just run-of-the-mill
+products. Um so it requires this
+invention creativity capability. What
+are some specific things you kind of
+learned about when you um even on the
+LLM side, you're interacting with
+Gemini, you're like this doesn't feel
+like the layout, the the interface,
+&gt;&gt; maybe the trade-off between the latency,
+like how
+&gt;&gt; how to present to the user how long to
+wait
+&gt;&gt; and how that waiting is shown or the
+reasoning capabilities. There's some
+interesting things cuz like you said,
+it's the very cutting edge. We don't
+know
+&gt;&gt; how to present it, how to present it
+correctly. So is there some specific
+things you've you've learned?
+&gt;&gt; I mean it's such a fast evolving space.
+We're evaluating this all the time, but
+where we are today is that you want to
+continually simplify things. Um the
+whether that's the interface or all the
+inter what you build on top of the
+model. You kind of want to get out of
+the way of the model. The model train is
+coming down the track and it's improving
+unbelievably fast. This relentless
+progress we talked about earlier. You
+know, you look at 2.5 versus 1.5 and
+it's just a gigantic improvement. And we
+expect that again for the future
+versions. And so the models are becoming
+more capable. So you've got the
+interesting thing about the design space
+in in in today's world these AI first
+products is you got to design not for
+what the thing can do today the
+technology can do today but in a year's
+time. So you actually have to be a very
+technical product person because uh you
+got to kind of have a good intuition for
+and feel for okay that thing that I'm
+dreaming about now can't be done today
+but is the research track on schedule to
+basically intercept that in 6 months or
+a year's time. So you kind of got to
+intercept where this highly changing
+technology is going as well as that um
+uh uh new capabilities are coming online
+all the time that you didn't realize
+before that can allow like D research to
+work or now we got video generation what
+do we do with that um this multimodal
+stuff you know is it one question I have
+is is it really going to be the current
+UI that we have today these textbox
+chats seems very unlikely given once you
+think about these super multimodal uh uh
+systems Shouldn't it be something more
+like Minority Report where you're you're
+sort of vibing with it in a in a in a
+kind of collaborative way? Right? It
+seems very restricted today. I think
+we'll look back on today's interfaces
+and products and systems as quite
+archaic in maybe in just a couple of
+years. So I think there's a lot of space
+actually for innovation to happen on the
+product side as well as the the research
+side. And then we're offline talking
+about this keyboard is the the open
+question is how when and how much will
+we move to audio as the primary way of
+interacting with the machines around us
+versus typing stuff. Yeah, I mean typing
+is a very low bandwidth way of doing
+even if you're very fast, you know,
+typer and I think we're going to have to
+start utilizing other devices whether
+that's smart glasses, you know, audio,
+earbuds, um, and eventually maybe some
+sorts of neural devices where we can
+increase the the input and the output
+bandwidth to something uh, you know,
+maybe 100x of what is today.
+&gt;&gt; I think that you know underappreciated
+art form is the interface design. But I
+think you can not unlock the power of
+the intelligence of a system if you
+don't have the right interface. The
+interface is really the way you unlock
+its power. It's such an interesting
+question of how to do that. So h how
+&gt;&gt; you would think like getting out of the
+way isn't real art form.
+&gt;&gt; Yes. You know, it's the sort of thing
+that I guess Steve Jobs always talked
+about, right? It's simplicity, beauty,
+and elegance that we want, right? And
+we're not there. Nobody's there yet in
+my opinion. And that's what I would like
+us to get to. Again, it sort of speaks
+to like Go again, right? As a game, the
+most elegant, beautiful game. Can you,
+you know, that can you make an interface
+as beautiful as that? And actually, I
+think we're going to enter an era of AI
+generated interfaces that are probably
+personalized to you so it fits the way
+that you your aesthetic, your feel, the
+way that your brain works. And um and
+and and the AI kind of generates that
+depending on the task. You know, that
+feels like that's probably the direction
+we'll end up in.
+&gt;&gt; Yeah. Because some people are power
+users and they want every single
+parameter on screen, everything,
+everything based like perhaps me with a
+key keyboard based navigation. I like to
+have shortcuts for everything. And some
+people like the minimalism
+&gt;&gt; just hide all of that complexity.
+Exactly.
+&gt;&gt; Yeah. Uh well, I'm glad you have a Steve
+Jobs mode in you as well. This is great.
+Einstein mode, Steve Jobs mode. Um all
+right, let me try to trick you into
+answering a question. When when will
+Gemini 3 come out? Is it before or after
+GTA 6? The world waits for both. And
+what does it take to go from 25
+to 3 0? Because it seems like there's
+been a lot of releases of 25 which are
+already leaps in performance.
+&gt;&gt; So what what does it even mean to go to
+a new version? Is it about performance?
+Is this about a completely different
+flavor of an experience?
+&gt;&gt; Yeah. Well, so the way it works with our
+different uh version numbers is we you
+know we try to collect so maybe it takes
+you know roughly 6 months or something
+to to do a new kind of full run and the
+full productization of a new version and
+during that time lots of new interesting
+research iterations and ideas come up
+and we sort of collect them all together
+that you know you could imagine the last
+6 months worth of interesting ideas on
+the architecture front uh maybe it's on
+on the data front. It's like many
+different possible things and we collect
+package that all up, test which ones are
+likely to be useful for the next
+iteration and then bundle that all
+together and then we start the new you
+know giant hero training run right and
+and then uh and then of course that gets
+monitored uh and then at the end then
+there's the of the pre-training then
+there's all the post- training there's
+many different ways of doing that
+different ways of patching it so there's
+a whole experimental phase there which
+you can also get a lot of gains out and
+that's where you see the version numbers
+usually referring to the base model, the
+pre-trained model. And then the interim
+versions of 2.5, you know, and the
+different sizes and the different little
+additions, they're often uh patches or
+post-training ideas that can be done
+afterwards off the same basic
+architecture. And then of course on top
+of that, we also have different sizes,
+pro and flash and flashlight that are
+often distilled from the biggest ones,
+you know, the flash model from the Pro
+model. And that means we have a range of
+different choices if you are the
+developer of do you want to prioritize
+performance or speed right and cost. And
+we like to think of this parto frontier
+of of you know on the one hand uh the y-
+axis is you know like performance and
+then the the the x-axis is you know cost
+or latency and and speed uh basically
+and we we have models that completely
+define the frontier. So whatever your
+trade-off is that you want as an
+individual user or as a as a developer,
+you should find one of our models
+satisfies that constraint.
+&gt;&gt; So behind the version changes, there is
+a big hero run.
+&gt;&gt; Yes.
+&gt;&gt; And then there's uh just an insane
+complexity of productization.
+Then there's the distillation of the
+different sizes along that predator
+front. And then as with each step you
+take, you realize there might be a cool
+product. There's side quests.
+&gt;&gt; Yes.
+&gt;&gt; Exactly.
+&gt;&gt; But and then you also don't want to take
+too many side quests because then you
+have a million versions of million
+products. It's very unclear, but you
+also get super excited because it's
+super cool. Like how does even you look
+at VO
+how does it fit into the bigger thing?
+&gt;&gt; Exactly. Exactly. And then you're
+constantly this process of converging
+upstream we call it you know ideas from
+the from the product surfaces or or or
+from the post training and and even
+further downstream than that you you
+kind of upstream that into the the core
+model training for the next run. Right.
+So then the main model the main Gemini
+track becomes more and more general and
+eventually you know AGI
+&gt;&gt; one hero run at a time.
+&gt;&gt; Yes. Exactly. A few hero runs later.
+&gt;&gt; Uh yeah. So sometimes when you release
+these new versions or every version
+really
+are benchmarks um productive or
+counterproductive for showing the
+performance of a model you need them and
+and but it's important that you don't
+overfitit to them right so there
+shouldn't be the end the be all and end
+all so there's there's lmina or it used
+to be calledis that's one of them that
+turned out sort of organically to be one
+of the the main ways people like to test
+these systems at least the chat bots um
+obviously there's loads of academic
+benchmarks on from from that test
+mathematics and coding ability, general
+language ability, science ability and so
+on. And then we have our own internal
+benchmarks that we care about. It's a
+kind of multi-objective,
+you know, optimization problem, right?
+You you don't want to be good at just
+one thing. We're trying to build general
+systems that are good across the board
+and you try and make no regret uh
+improvements. though where you're
+improving like you know coding uh but it
+doesn't reduce your performance in other
+areas right so that's the hard part cuz
+you you can of course you could put more
+coding data in or you could put more um
+I don't know gaming data in but then
+does it make worse your language uh
+system or or uh in your translation
+systems and other things that you care
+about. So it's you've got to kind of
+continually monitor this increasingly
+larger and larger suite of of
+benchmarks. And also there's uh when you
+stick them into products these models
+you also care about the direct usage and
+the direct stats and the signals that
+you're getting from the end users
+whether they're coders or or or the
+average person using using the chat
+interfaces.
+&gt;&gt; Yeah. Because ultimately you want to
+measure the usefulness but it's so hard
+to convert that into a number right.
+It's it's really vibe based benchmarks
+across a large number of users and it's
+hard to know and I it would be just
+terrifying to me to you know you have a
+much smarter model but it's just
+something vibe based. It's not not not
+quite working. That's such a scary cuz
+and everything you just said it has to
+be smart and useful across so many
+domains. So you you get super excited
+because it's all of a sudden solving
+programming problems you've never been
+able to solve before.
+&gt;&gt; But now it's crappy poetry or something
+and it's just I don't know that's a
+stressful that's so difficult
+&gt;&gt; um to balance and because you can't
+really trust the benchmarks you really
+have to trust the end users.
+&gt;&gt; Yeah. And then other things that are
+even more esoteric come into play like
+um you know the style of the persona of
+the the the system you know how it you
+know is it verbose is it succinct is it
+humorous you know and and different
+people like different things so um you
+know it's very interesting it's almost
+like cutting edge part of psychology
+research or person personality research
+you know I used to do that in my PhD
+like five factor personality what do we
+actually want our assistance to be like
+and different people will like different
+things as well. So, these are all just
+sort of new problems in product space
+that I don't think have ever really been
+tackled before, but um we're going to
+sort of rapidly have to deal with now. I
+think is a super fascinating space
+developing the character of the thing
+and in so doing it puts a mirror to
+ourselves what are the kind of things um
+that we like cuz prompt engineering
+allows you to control a lot of those
+elements but can the product
+uh make it easier for you to uh control
+the different flavors of those
+experiences the different characters
+that you interact with.
+&gt;&gt; Yeah, exactly. So
+&gt;&gt; So what's the probability of Google Deep
+Mai winning? Well, I don't see it as
+sort of winning. I mean, I think we need
+to think winning is the wrong way to
+look at it given how important and
+consequential what it is we're building.
+So, funnily enough, I don't I try not to
+view it like a game or competition, even
+though that's a lot of my mindset. It's
+it's about in my view, all of us have
+those of us at the leading edge have a
+responsibility to um steward this
+unbelievable technology that could be
+used for incredible good, but also has
+risks. um steward it safely into the
+world for the benefit of humanity.
+That's always um what I've um uh uh I
+dreamed about and what we've always
+tried to do and I hope that's what
+eventually the community maybe the
+international community will rally
+around when it becomes obvious that as
+we get closer and closer to to AGI that
+um that's what's needed.
+&gt;&gt; I agree with you. I think that's
+beautifully put. You've said that um you
+talk to and are on good terms with the
+leads of some of these uh labs as the
+competition heats up. Um how hard is it
+to maintain sort of those relationships?
+It's been okay so far. I try to pride
+myself in being uh collaborative. I'm a
+collaborative person. Research is a
+collaborative endeavor. Science is a
+collaborative endeavor. Right? It's all
+good for humanity in the end if you cure
+incredible, you know, terrible diseases
+and you come with an incredible cure.
+this is net win for humanity and the
+same with energy. All of the things that
+I'm interested in in in helping solve
+with AI. So I just want that technology
+to exist in the world and be used for
+the right things and and and the the
+kind of the benefits of that the
+productivity benefits of that being
+shared for every the benefit of
+everyone. So I try to maintain good
+relations with all the leading lab uh
+people. They have very interesting
+characters many of them as you might
+expect. Um, but yeah, I'm on good terms.
+I I hope with pretty much all of them.
+And uh I I think that's going to be
+important when when things get even more
+serious than they are now. Uh that there
+are those communication channels and uh
+that's what will facilitate uh
+cooperation or collaboration if that's
+what is required especially on things
+like safety.
+&gt;&gt; Yeah, I hope there's some collaboration
+on stuff that's uh sort of less high
+stakes and in so doing serves as a
+mechanism for maintaining friendships
+and relationships. So, for example, I
+think the internet would love it if you
+and Elon somehow collaborated on
+creating a video game. That kind of
+thing that I think that enables
+camaraderie in good terms and also you
+two are legit gamers. So, it's just fun
+to Yeah.
+&gt;&gt; fun to create.
+&gt;&gt; Yeah, that would be awesome. And we've
+talked about that in the past and it may
+be a cool thing that that you know we
+can do. And I agree with you. It'd be
+nice to have um kind of side projects in
+a way where where one can just lean into
+the collaboration aspect of it and it's
+a sort of uh win-win for both sides and
+it's um and it kind of builds up that
+that that uh collaborative muscle.
+&gt;&gt; I see the scientific endeavor as that
+kind of side project for humanity and I
+I think deep Google deep mind has been
+really pushing that. I would love it if
+to see other labs do more scientific
+stuff and then collaborate cuz it just
+seems like easier to collaborate on the
+big scientific questions. I agree and I
+would love to see a lot of people a lot
+of the other labs talk about science but
+I think we're really the only ones using
+it for science and doing that and that's
+why projects like Alpha Fold are so
+important to me and I think to our
+mission is to show uh how AI can vis you
+know be clearly used in a very concrete
+way for the benefit of humanity and and
+also we spun out companies like
+isomorphic off the back of Alphafold to
+do drug discovery and it's going really
+well and build sort of you know you can
+think of build additional alpha fold
+type type systems to go into chemistry
+space to help accelerate drug design and
+the examples I think we need to show uh
+and society needs to understand what AI
+can bring these huge benefits.
+&gt;&gt; Well, from the bottom of my heart, thank
+you for pushing the scientific efforts
+forward wi with rigor, with fun, with
+humility, all of it. I just love to see
+and still talking about P equals NP. I
+mean, it's just incredible. So, I love
+it. Uh there there's been uh seemingly a
+war for talent. Some of it is meme, I
+don't know. Um, what do you think about
+Meta buying up talent with huge salaries
+and and the heating up of this battle
+for talent? And I I should say that I
+think a lot of people see Deep Mind is a
+really great place to do uh cutting edge
+work for the reasons that you've
+outlined is like there's this vibrant
+scientific culture.
+&gt;&gt; Yeah. Well, look, of course, um, you
+know, there's a strategy that that Meta
+is taking right now. I think that um
+from my perspective at least I think the
+people that are real uh believers in the
+mission of AGI and what it can do and
+understand the real consequences both
+good and bad from that and what's what
+that responsibility entails I think
+they're mostly doing it to be like
+myself to be on the frontier of that
+research so you know they can help
+influence the way that goes and steward
+that technology safely into the world
+and you know meta right now are not at
+the frontier maybe they'll they'll
+manage to get back on there and um you
+know it's probably rational what they're
+doing from their perspective because
+they're behind and they need to do
+something but I think um there's more
+important things than than just money.
+Of course one has to pay you know people
+their market rates and all of these
+things and that continues to go up. Um
+but as pro and and and I was expecting
+this because more and more people are
+finally realizing leaders of companies
+what I've always known for 30 plus years
+now which is that AGI is the most
+important technology probably that's
+ever going to be invented. So in some
+senses it's it's rational to be doing
+that. But I also think there's a much
+bigger question. I mean people in AI
+these days are very well paid. You know
+I I remember when we were starting out
+back in 2010 you know I didn't even pay
+myself for a couple of years because
+wasn't enough money. We couldn't raise
+any money. And these days interns are
+being paid you know the amount that we
+raised as our first entire seed round.
+So it's pretty funny. And I remember the
+days where we used I used to have to to
+work for free and and almost pay my own
+way to do an internship. right now it's
+all the other way around but that's just
+how it is. it's the new world and um but
+I think that you know we've been
+discussing like what happens post AGI
+and energy systems are solved and so on
+what is even money going to mean so I
+think uh you know and the economy and
+and we're going to have much bigger
+issues to work through and how does the
+economy function in that world and
+companies so I think you know it's a
+little bit of a side issue about uh uh
+salaries and things of like that today
+&gt;&gt; yeah when you're facing such gigantic
+consequences and and gigantic
+fascinating scientific questions
+&gt;&gt; which maybe only a few years away. So,
+&gt;&gt; so on the practical pragmatic sense, if
+we zoom in on jobs, we can look at
+programmers because it seems like AI
+systems are currently doing incredibly
+well in programming and increasingly so.
+So, a lot of people that uh program for
+a living, love programming, are worried
+they will lose their jobs. How worried
+should they be, do you think? and what's
+the right way to uh sort of adjust to
+the new reality and ensure that you
+survive and thrive as a human in the
+programming world.
+&gt;&gt; Well, it's interesting that programming
+and it's again counterintuitive to what
+we thought years ago maybe that some of
+the skills that we think of as harder
+skills are turned out maybe to be the
+easier ones for various reasons but you
+know coding and math because you can
+create a lot of synthetic data and
+verify if that data is correct. So
+because of that nature of that it's
+easier to make things like synthetic
+data to train from. Um it's also an area
+of course we're all interested in
+because as programmers right to help us
+and get faster at it and more
+productive. So I think the for the next
+era like the next 5 10 years I think
+what we're going to find is people who
+are kind of embrace these technologies
+become almost at one with them um
+whether that's in the creative
+industries or the technical industries
+will become sort of superhumanly
+productive I think. So the great
+programmers will be even better but
+they'll be even 10x even what they are
+today and because there you'll be able
+to use their skills to utilize the the
+tools to the maximum uh you exploit them
+to the maximum and um so I think that's
+what we're going to see in the next
+domain um so that's going to cause quite
+a lot of change right and so that's
+coming a lot of people benefit from that
+so I think one example of that is if
+coding becomes easier um it becomes
+available to many more creatives to do
+more uh and uh but I think the top
+programmers will still have huge
+advantages as terms of specifying going
+back to specifying what the architecture
+should be the question should be how to
+guide these um uh coding assistants in a
+way that's useful and you know check
+whether the code they produce is good so
+I think there's plenty of um uh headroom
+there for the foreseeable you know next
+few years
+&gt;&gt; so I think there's there's several
+interesting things there one is there's
+a lot of imperative to just get better
+and better consistently of using these
+tools. So they they're riding the wave
+of the improvement improving models.
+&gt;&gt; Yes.
+&gt;&gt; Versus like competing against them.
+&gt;&gt; But sadly, but that's the the nature of
+of life on earth. Um there could be a
+huge amount of value to certain kinds of
+programming at the cutting edge and less
+value to other kinds. For example, it
+could be like, you know, front end
+&gt;&gt; web design might uh be more amendable to
+to to as as you mentioned to generation
+&gt;&gt; uh by AI systems and maybe for example
+game engine design or something like
+this or backhand design or or guiding
+systems in high performance situations,
+high performance programming type of
+design decisions that might be extremely
+valuable. But it it will shift where the
+humans are needed most and that's scary
+for people to adjust. I can I think
+that's right that the any time where
+there's a lot of disruption and change
+you know and we've had this it's not
+just this time we've had this in many
+times in human history with the internet
+u mobile but before that obviously
+industrial revolution um and it's going
+to be one of those eras where there will
+be a lot of change I think there'll be
+new jobs we can't even imagine today
+just like the internet created and then
+those people with the right skill sets
+to ride that wave will become incredibly
+uh valuable right those skills but maybe
+people will have to relearn or adapt a
+bit uh their current skills. And it's
+the the thing that's going to be harder
+to deal with this time around is that I
+think what we're going to see is
+something like probably 10 times the
+impact the industrial revolution had and
+but 10 times faster as well. Right? So
+instead of 100 years, it takes 10 years.
+And so that's going to make it, you
+know, it's like a 100x uh the impact and
+the speed combined. So that's what's I
+think going to make it more difficult
+for society to to to deal with and it's
+there's a lot to think through and I
+think we need to be discussing that
+right now and I I you know I encourage
+top economists in the world and
+philosophers to start thinking about um
+uh how should is society going to be
+affected by this and what should we do
+including things like um you know
+universal basic provision or something
+like that where a lot of the um
+increased productivity
+uh gets shared out and distributed uh to
+society um and maybe in the form of
+surface services and other things where
+if you want more than that you still go
+and get some incredibly rare skills and
+things like that um and and make
+yourself unique. Um but uh uh but
+there's a basic provision that is
+provided
+&gt;&gt; and if you think of government as a
+technology there's also interesting
+questions not just in economics but just
+politics. How do you design a system
+that's responding to the rapidly
+changing times such that you can
+represent the different pain that people
+feel from the different groups? And how
+do you reallocate resources in a way
+that um addresses that pain and
+represents the hope and the pain and the
+fears of different people uh in a way
+that doesn't lead to division because
+politicians are often really good at
+sort of fueling the division and using
+that to get elected the other
+defining the other and then saying
+that's bad and sort of based on that
+&gt;&gt; I think that's often counterproductive
+ive to leveraging a rapidly changing
+technology how to help the world
+flourish. So we almost need to improve
+our political systems as well rapidly if
+you think of them as a technology
+&gt;&gt; definitely and I think I think we'll
+need new governance structures
+institutions probably to help with this
+transition. So I think political
+philosophy and political science is
+going to be key uh to that. But I think
+the number one thing first of all is to
+create more abundance of resources right
+then there's the so that's the number
+one thing increase productivity get more
+resources maybe eventually get out of
+the zero sum situation then the second
+question is how to use uh those
+resources and distribute those resources
+but yeah you can't do that without
+having that abundance first. Uh you
+mentioned to me uh the book the maniac
+uh by Benjamin Levitut a book on uh
+first of all about you there's a bio
+about you um strange yeah
+&gt;&gt; it's unclear yeah sure it's unclear how
+much is fiction how much is reality um
+but I think the central figure that is
+John vonman I would say it's a haunting
+and beautiful exploration of madness and
+genius and let's say the double-edged uh
+sword of discovery
+And you know for um people who don't
+know John vonman is a kind of legendary
+mind. He contributed to quantum
+mechanics. He was on the Manhattan
+project. He is widely considered to be
+the father of or pioneer the modern
+computer and AI and so on. So as many
+people say he's like one of the smartest
+humans ever. So it's just fascinating.
+And what's also fascinating is as a
+person who saw nuclear science and
+physics become the atomic bomb. So you
+you got to see ideas become a thing that
+has a huge amount of impact on the
+world. He also foresaw the same thing
+for computing.
+&gt;&gt; Yeah.
+&gt;&gt; He he and that's the a little bit again
+beautiful and haunting aspect of the
+book. um than taking a leap forward and
+looking at this at least at all alpha
+zero alpha go alpha zero big moment that
+maybe John vonman's
+thinking was brought to to to to
+reality. So I I I guess the question is
+um what do you think if you got to hang
+out with John Noman now? What what would
+he say about what's going on?
+&gt;&gt; Well, that would be an amazing
+experience. you know, he's a fantastic
+mind and and I also love the where he he
+spent a lot of his time at Princeton at
+the Institute of Advanced Studies, a
+very special place for thinking and um
+it's amazing how much of a polymath he
+was in the the spread of things he
+helped invent including of course the
+vonoyman architecture that all the
+modern computers are based on. And um he
+had amazing foresight. I think he would
+have loved where we are today and he
+would have um I think he would have
+really enjoyed Alph Go being you know
+games he also did game theory. I think
+he foresaw a lot of what would happen
+with learning machines systems that that
+that are kind of grown I think he called
+it rather than programmed. I'm not sure
+how even maybe he wouldn't even be that
+surprised this the fruition of what I
+think he already foresaw in the 1950s.
+&gt;&gt; I wonder what advice he would give. You
+got to see the building of the atomic
+bomb with the Manhattan project. I'm
+sure there's
+&gt;&gt; interesting stuff that maybe is not
+talked about enough. Maybe some
+bureaucratic aspect, maybe the influence
+of politicians, maybe
+&gt;&gt; maybe not enough of picking up the phone
+and talking to people that are called
+enemies by the said politicians. There
+might be some like deep wisdom that we
+just may have lost from that time
+actually.
+&gt;&gt; Yeah, I'm sure. I'm sure there is. I
+mean, I've we we you know studied I read
+a lot of books for that time as well.
+chronicle time um and some brilliant
+people involved. I I agree with you. I
+think maybe there needs to be more
+dialogue and understanding. Um I hope we
+can learn from those those times. I
+think the difference here is that the AI
+has so many it's a multi-use technology
+obviously we're trying to do things like
+that like solve you know all diseases um
+uh help with energy uh and scarcity
+these incredible things. This is why all
+of us and and myself, you know, I worked
+started on this journey 30 plus years
+ago. And um but of course there are
+risks too and probably vonoman my guess
+is he foraw both and um and I think he
+sort of said I think is to his wife that
+that that it would be this is computers
+would be even more impactful in the
+world and as we just discussed you know
+I think that's right. I think it's going
+to be 10 times at least of the
+industrial revolution. So I think he's
+right. So I think he would have been I
+imagine fascinated by uh uh uh where we
+are now.
+&gt;&gt; And I think one of the maybe you can
+correct me but one of the takeaways from
+the book is that reason as uh said in
+the book mad dreams of reason. It's not
+enough for guiding humanity as we build
+these super powerful technology that
+there's something else. I mean there's
+also like a religious component.
+Whatever God, whatever religion gives it
+G, it pulls at us something in the human
+spirit that raw cold reason doesn't give
+us.
+&gt;&gt; And I I agree with that. I think we need
+to approach it with whatever you want to
+call it, the a spiritual dimension or
+humanist dimension. Doesn't have to be
+to do with religion, right? But this
+idea of of a soul, what makes us human,
+this spark that we have perhaps is to do
+with consciousness when we finally
+understand that. Um, I think that has to
+be at the heart of the endeavor. Um, and
+technology, I've always seen technology
+as the enabler, right? The tools that
+that enable us to to flourish and to
+understand more about the the world. And
+I I'm sort of with Fman on this, and he
+used to always talk about science and
+art being companions, right? You can
+understand it from both sides, the
+beauty of a flower, how beautiful it is,
+and also understand why the colors of
+the flower evolved like that, right?
+That just makes it more beautiful, the
+the the just the intrinsic beauty of the
+flower. And and I've always sort of seen
+it like that. And maybe you know in the
+renaissance times the great discoverers
+then like people like Da Vinci you know
+they were I don't think he saw any
+difference between science and art uh
+and perhaps religion right they were
+everything was it's just part of being
+human and um being inspired about the
+world around us and that's what I the
+philosophy I tried to take and u one of
+my favorite philosophers is Spininoza
+and I think he combined that all very
+well you know this idea of trying to
+understand the universe and
+understanding our place in it and that
+was his kind of way of understanding
+religion and I think that's quite
+beautiful and for me every all of these
+things are related interrelated the
+technology and um what it means to be
+human and uh I think it's very important
+though that we remember that as when
+we're immersed in the technology and the
+the research I think a lot of
+researchers that I see in in our field
+are a little bit too narrow and only
+understand the technology and I think
+also that's why it's important important
+for this to be debated by society at
+large and I'm very supportive of things
+like this the AI summits that will
+happen and governments understanding it
+and I think that's one good thing about
+the chatbot era and the product era of
+AI is that everyday person can actually
+feel and and interact with cutting edge
+AI and and and feel feel it for
+themselves.
+&gt;&gt; Yeah. Because they they force the
+technologist to have the human
+conversation. Yeah, for sure. That's the
+hopeful aspect of it. Like you said,
+it's a dual use technology that we're
+forcefully integrating the entire of
+humanity into it by into the discussion
+about AI because ultimately AI AGI will
+be used for the things that states use
+technologies for which is uh conflict
+and so on. And the more we uh integrate
+humans into this picture by having chats
+with them, the more it will guide
+&gt;&gt; Yeah. be able to adapt. society will be
+able to adapt to these technologies like
+we've always done in the past with with
+uh the incredible technologies we've
+invented in the past.
+&gt;&gt; Do you think there will be something
+like a Manhattan project
+where
+um there will be an escalation of the
+power of this technology and states in
+their old way of thinking will try to
+use it as weapons technologies and there
+will be this kind of escalation.
+&gt;&gt; I hope not. Um I think that would be uh
+very dangerous to do and I think also um
+you know not the right use of the
+technology. I I hope we'll end up with
+more something more collaborative if
+needed like more like a like a CERN
+project you know where um it's research
+focused and the best minds in the world
+come together to carefully complete the
+final steps and make sure it's
+responsibly done before you know like
+deploying it to the world. We'll see. I
+mean it's difficult with the current
+geopolitical climate I think uh to to
+see cooperation but things can change
+and um I think at least on the
+scientific level it's important for the
+researchers to to to to keep in touch
+and and and keep close to each other on
+at least on those kinds of topics.
+&gt;&gt; Yeah. And I I personally believe on the
+education side and um immigration side,
+it would be great if both directions uh
+people from the west immigrated to China
+and China back. I mean there is some
+like family human aspect of people just
+intermixing.
+&gt;&gt; Yeah.
+&gt;&gt; And thereby those ties grow strong. So
+you can't sort of divide against each
+other this kind of old school way of
+thinking. And so uh multi- uh
+multicultural multid-disciplinary
+research teams working on scientific
+questions. That's like the hope. Don't
+don't let the the warm leaders that are
+warmongers because it divide us. I think
+science is the ultimately really
+beautiful connector.
+&gt;&gt; Yeah. Science has always been uh I think
+quite a a very collaborative endeavor
+and you know scientists know that it's
+it's a it's a collective endeavor as
+well and we can all learn from each
+other. So perhaps it could be a vector
+to get a bit of cooperation. What's your
+uh ridiculous question? What's your
+pdoom? Probability the human
+civilization destroys itself.
+&gt;&gt; Well, look, I I don't have a
+it's a you know, I don't have a pdoom
+number. The reason I don't is because I
+think it's would imply a level of
+precision that is not there. So, like I
+don't know how people are getting their
+poom numbers. I think it's a kind of a
+little bit of a ridiculous notion
+because um what I would say is it's
+definitely nonzero and it's probably non
+negligible. So that in itself is pretty
+sobering and my my view is it's just
+hugely uncertain, right? What these
+technologies are going to be able to do,
+how fast are they going to take off, how
+controllable they going to be. Some
+things may turn out to be and hopefully
+like way easier than we thought, right?
+Um but it may be there's some really
+hard um uh uh problems that are harder
+than we guess today and I think uh we
+don't know that for sure and so in under
+those conditions of a lot of uncertainty
+but huge stakes both ways you know on
+the one hand we we could solve all
+diseases energy problems the not the the
+the scarcity problem and then travel to
+the stars and conscious of the stars and
+maximum human flourishing on the other
+hand is this sort of p doom scenarios so
+given the uncertainty around it and the
+importance of It's clear to me the only
+rational sensible approach is to proceed
+with cautious optimism. So we want the
+outcome. We want the um uh the benefits
+of course uh and uh all of the the
+amazing things that AI can bring and
+actually I would be really worried for
+humanity if I if given the other
+challenges that we have climate dis you
+know aging uh resources all of that if I
+didn't know something like AI was coming
+down the line right how would we solve
+all those other problems I think it's
+hard um so I think we've you know it
+could be amazingly transformative for
+good um but on the other And you know
+there are these risks that we know are
+there but we can't quite quantify. So
+the the best thing to do is to use the
+scientific method to do more research to
+try and uh more precisely define those
+risks and of course address them. Um and
+I think that's what we're doing. I think
+there probably needs to be uh 10 times
+more effort on that than there is now as
+we're getting closer and closer to the
+to the to the AGI line.
+&gt;&gt; What would be the source of worry for
+you more? Would it be human caused or AI
+AGI caused?
+&gt;&gt; Humans abusing that technology versus
+AGI itself through mechanism that you've
+spoken about which is fascinating
+deception or this kind of stuff
+&gt;&gt; getting better and better and better
+secretly and then
+&gt;&gt; I think they they operate over different
+time scales and they're equally
+important to address. So there's just
+the the the the common garden of variety
+of like you know bad actors using new
+technology uh in this case general
+purpose technology and repurposing it
+for harmful ends and that's a huge uh
+risk and I think that has a lot of
+complications because generally you know
+I'm in huge favor of open science and
+open source and in fact we did it with
+all our science projects like AlphaFold
+and all of those things uh for the
+benefit of of of the scientific
+community. Um but how does one restrict
+bad actors access access to these
+powerful systems whether they're
+individuals or even rogue states uh and
+but enable access at the same time to
+good actors to to maximally build on top
+of. It's pretty tricky problem that
+there's I've not heard a clear solution
+to. So there's the bad actor use case
+problem and then there's obviously uh as
+the systems become more agentic and and
+closer to AGI um and more autonomous how
+do we ensure the guard rails and they
+stick to what we want them to do uh and
+under our control. Yeah, I tend to maybe
+on my mind is limited worry more about
+the humans. So the bad actors
+&gt;&gt; and there it could be uh in part how do
+you not put destructive technology in
+the hands of bad actors but in another
+part from again geopolitical technology
+perspective how do you reduce the number
+of bad actors in the world that's that's
+also an interesting human problem.
+&gt;&gt; Yeah it's a hard problem. I mean, look,
+we we we can um maybe also use the
+technology itself to help um
+early warning on some of the bad actor
+use cases, right? Whether that's bio or
+nuclear or whatever it is, like AI could
+be potentially helpful there as long as
+the AI that you're using is itself
+reliable, right? So it's a sort of
+interlocking problem and that's what
+makes it very tricky and and again it
+may require some agreement
+internationally at least between China
+and the and and the US of of of some uh
+basic standards right I have to ask you
+about the the book the maniac there
+there's this the the hand of God moment
+Lisa doll's move 78
+&gt;&gt; that perhaps the last time a human did a
+move of sort of pure human genius and
+beat Alph Go or like broke its brain if
+sorry to anthropomorphize but it's an
+interesting moment cuz I think in so
+many domains it will keep happening.
+&gt;&gt; Yeah, it's a special moment and you know
+it was great for Lisa Doll and you know
+I think it's in a way they were kind of
+inspiring each other. We as a team were
+inspired by Lisa Doll's brilliance and
+nobleness and then maybe he got inspired
+by you know what AlphaGo was doing to
+then conjure this incredible
+inspirational moment. it's all you know
+captured very well in the in the
+documentary about it and um I think
+that'll continue in many domains where
+there's this at least for the for the
+again for the foreseeable uh future of
+like the humans bringing in their
+ingenuity um and asking the right
+question let's say uh and then utilizing
+these tools uh in a way that um then
+cracks a problem.
+&gt;&gt; Yeah. What as the AI becomes smarter and
+smarter, one of the interesting
+questions we can ask ourselves is what
+makes humans special? It does feel I'm
+perhaps biased that we humans are deeply
+special. I don't know if it's our
+intelligence.
+It could be something else that that
+other thing that's outside the mad
+dreams of reason. I think that's what
+I've always imagined uh when I was a kid
+and starting on this journey of like um
+I was of course fascinated by things
+like consciousness did did a
+neuroscience PhD to look at how the
+brain works especially imagination and
+memory I focused on the hippocampus and
+it's sort of going to be interesting I
+always thought the best way of course
+one can kind of philosophize about it
+and have thought experiments and maybe
+even do actual experiments like you do
+in neuroscience on on real brains but in
+the end I always imagined that building
+AI a kind intelligent artifact and then
+comparing that to the human mind and
+seeing what the differences were uh
+would be the best way to uncover what's
+special about the human mind if indeed
+there is anything special and I suspect
+there probably is but it's going to be
+hard to def you know I think this
+journey we're on will help us uh
+understand that and define that and you
+know there may be a difference between
+carbon based substrates that we are and
+silicon ones when they process
+information you know one of the best
+definitions I like of of of
+consciousness is it's the information
+feels when we process it, right? Um, it
+could be I mean doesn't it's not a very
+helpful scientific explanation. I think
+it's kind of interesting intuition in
+intuitive one and um and so you know on
+this this this journey this scientific
+journey we're on will I think um help
+uncover that mystery.
+&gt;&gt; Yeah. What I cannot create I do not
+understand. That's uh somebody you
+deeply admire Richard Feman like you
+mentioned. you also reach um for the the
+Wignner's dreams of universality that he
+saw in constraint domains but also
+broadly generally in in mathematics and
+so on. So so many aspects on which
+you're pushing towards
+&gt;&gt; not to start trouble at the end but uh
+Roger Penrose.
+&gt;&gt; Yes.
+&gt;&gt; Okay.
+So uh you know do do you think
+consciousness there's this hard problem
+of consciousness how information feels
+&gt;&gt; um do you think consciousness first of
+all is a computation and if it is if
+it's information processing like you
+said everything is
+&gt;&gt; is it something that could be modeled by
+a classical computer?
+&gt;&gt; Yeah.
+&gt;&gt; Or is it a quantum mechanical in nature?
+Well, look, Pero is an amazing thinker,
+one of the greatest of the modern era,
+and he we've had a lot of discussions
+about this. Of course, we cordily
+disagree, which is, you know, I I feel
+like um I mean, he collaborated with a
+lot of good neuroscientists to see if he
+could find mechanisms for quantum
+mechanics behavior in the brain. And
+they, to my knowledge, they haven't
+found anything um convincing yet. So my
+betting is there is is that that that
+it's mostly you know it is just
+classical computing that's going on in
+the brain which suggests that all the
+phenomena uh are modelable or mimickable
+by a classical computer but we'll see
+you know there may be this final
+mysterious things of the feeling of
+consciousness the qualia these kinds of
+things that philosophers debate where
+it's unique to the substrate we may even
+come towards understanding that when if
+we do things like neural link and and
+have neural interfaces to the AI
+systems, which I think we probably will
+eventually um maybe to keep up with the
+AI systems. Uh we might actually be able
+to feel for ourselves what it's like to
+compute on silicon, right? So um and
+maybe that will tell us. Uh so I think
+it's it's going to be interesting. I had
+a debate once with the late Daniel
+Dennett about why do we think each other
+are conscious? Okay, so it's for two
+reasons. One is you're exhibiting the
+same behavior that I am. So that's one
+thing. behaviorally you seem like a
+conscious being if I am. But the second
+thing which is often overlooked is that
+we're running on the same substrate. So
+if you're behaving in the same way and
+we're running on the same substrate,
+it's most parsimonious to assume you're
+feeling the same experience that I'm
+feeling. But with an AI uh that's on
+silicon, we won't be able to rely on the
+second part. Even if it exhibits the
+first part, the behavior looks like a
+behavior of a conscious being. It might
+even claim it is. Um but we but but we
+wouldn't know how it actually felt. Um
+and it probably couldn't know we what we
+felt at least in the first stages. Maybe
+when we get to super intelligence and
+the technologies that builds perhaps
+we'll we'll be able to um bridge that.
+&gt;&gt; No, I mean that's a huge test for
+radical empathy is to empathize with a
+different substrate.
+&gt;&gt; Right. Exactly. We never had to confront
+that before.
+&gt;&gt; Yeah. So maybe maybe through brain
+computer interfaces be able to truly
+empathize what it feels like to be a
+computer
+&gt;&gt; for information to be computed not on a
+carbon system. I mean that's deeply I
+mean some people kind of think about
+that with plants with other life forms
+which are different similar substrate
+but sufficiently far enough on the uh
+evolutionary tree
+&gt;&gt; that it's requires a radical empathy but
+to do that with a computer
+&gt;&gt; I mean Lou we sort of there are animal
+studies on this of like of course higher
+animals like you know killer whales and
+dolphins and dogs and and monkeys you
+know they have some and elephants you
+know they have some aspects certainly of
+consciousness right? Even though they're
+not might not be that that that smart on
+an IQ sense. So so we can already
+empathize with that and maybe even some
+of our systems one day like we built
+this thing called dolphin Gemma, you
+know, which can one a version of our
+system was trained on dolphin and whale
+sounds and maybe we'll be able to build
+a an interpreter or translator at some
+point which should be pretty cool.
+&gt;&gt; What gives you hope for the future of
+human civilization?
+&gt;&gt; Well, what gives me hope is I think our
+almost limitless ingenuity first of all.
+I think the best of us and the best
+human minds are incredible. Um, and you
+know, I love, you know, meeting and
+watching any human that's the top of
+their game, whether that's sport or
+science or art. You know, it's it's it's
+just nothing more wonderful than that,
+seeing them in their element in flow.
+Um, I think it's almost limitless. You
+know, our brains are general systems,
+intelligent systems. So, I think it's
+almost limitless what we can potentially
+do with them. And then the other thing
+is our extreme adaptability. I think
+it's going to be okay in terms of
+there's going to be a lot of change. But
+but look where we are now with our
+effectively our hunter gatherer brains.
+How is it we can you know we can cope
+with the modern world, right? Flying on
+planes, doing podcasts, you know,
+playing computer games and virtual
+simulations. I mean, it's already given
+that was developed for, you know,
+hunting buffal
+[Music]
+societyy's already adapted to this
+mind-blowing AI technology we have today
+already. It's like, oh, I talk to chat
+bots. It's totally fine.
+&gt;&gt; And it's uh very possible that this very
+podcast activity, which I'm here for,
+will be completely replaced by AI. I'm
+very replaceable and I'm waiting for
+&gt;&gt; not to the level that you can do it,
+Lex. So don't think
+&gt;&gt; Thank you. That's that's what we humans
+do to each other. We compliment.
+&gt;&gt; All right. And uh I'm uh deeply grateful
+for us humans to have this uh infinite
+capacity for curiosity, adaptability,
+like you said, and also compassion and
+ability to love.
+&gt;&gt; Exactly.
+&gt;&gt; All of those human
+&gt;&gt; all the things that are deeply human.
+&gt;&gt; Well, this is a huge honor, Demis.
+You're one of the truly special humans
+in the world. Uh thank you so much for
+doing what you do and for talking today.
+&gt;&gt; Well, thank you very much, Lex.
+Thanks for listening to this
+conversation with Demos. To support this
+podcast, please check out our sponsors
+in the description and consider
+subscribing to this channel.
+And now, let me answer some questions
+and try to articulate some things I've
+been thinking about. If you would like
+to submit questions, including in audio
+and video form, go to lexfreman.com/am.
+I got a lot of amazing questions,
+thoughts, and requests from folks. I'll
+keep trying to pick some uh randomly and
+comment on it at the end of every
+episode. I got a note on May 21st this
+year that said, "Hi, Lux. 20 years ago
+today, David Foster Wallace delivered
+his famous this is water speech at uh
+Kenyan College. What do you think of
+this speech?"
+Well, first I think this is probably one
+of the greatest and most unique
+commencement speeches ever given. But of
+course, I have many favorites, including
+the one by Steve Jobs. And David Foster
+Wallace is one of my favorite writers
+and one of my favorite humans.
+There's a tragic honesty to his work.
+And it always felt as if he was engaging
+in a a constant battle with his own
+mind. and the writing, his writing were
+kind of his notes from the front lines
+of that battle.
+Now, onto the speech. Let me quote some
+parts. There's of course the parable of
+the fish and the water that goes, "There
+are these two young fish swimming along,
+and they happen to meet an older fish
+swimming the other way who nods at them
+and says, "Morning boys. How's the
+water?"
+And the two young fish swim on for a bit
+and then eventually one of them looks
+over at the other and goes, "What the
+hell is water?"
+In the speech, David Foster Wallace goes
+on to say, "The point of the fish story
+is merely that the most obvious
+important realities are often the ones
+that are hardest to see and talk about."
+stated as an English sentence. Of
+course, this is just a banal platitude.
+But the fact is that in the dayto-day
+trenches of adult existence, bal
+platitudes can have a life or death
+importance. Or so I wish to suggest to
+you in this dry and lovely morning. I
+have several takeaways from this parable
+and the speech that follows. First, I
+think we must question everything and in
+particular the most basic assumptions
+about our reality, our life and the very
+nature of existence and that this
+project is a deeply personal one in some
+fundamental sense. Nobody can really
+help you in this process of discovery.
+The call to action here, I think, from
+uh David Foster Wallace, as he puts it,
+is to quote, to be just a little less
+arrogant, to have just a little more
+critical awareness about myself and my
+certainties.
+Because a huge percentage of the stuff
+that I tend to be automatically certain
+of is, it turns out, totally wrong and
+deluded.
+All right, back to me. Lex speaking.
+Second takeaway is that the central
+spiritual battles of our life are not
+fought on a uh mountain top somewhere at
+a meditation retreat but it is fought in
+the mundane moments of daily life.
+Third takeaway is that we too easily
+give away our time and attention to the
+multitude of distractions that the world
+feeds us. the insatiable black holes of
+attention.
+David Foster Wallace's call to action in
+this case is to be deeply aware of the
+beauty in each moment and to find
+meaning in the mundane.
+I often quote David Foster Wallace in
+his advice that the key to life is to be
+unorable.
+And I think this is exactly right. Every
+moment, every object, every experience
+when looked at closely enough contains
+within it infinite richness to explore.
+And since uh Deus Lasabus of this very
+podcast episode and I are such fans of
+Richard Feineman, allow me to uh also
+quote Mr. Fineman on this topic as well.
+quote, "I have a friend who's an artist
+and has sometimes taken a view which I
+don't agree with very well. He'll hold
+up a flower and say, "Look how beautiful
+it is." And I'll agree. Then he says,
+"I, as an artist, can see how beautiful
+this is, but you as a scientist take
+this all apart and it becomes a dull
+thing." And I think that's kind of
+nutty.
+First of all, the beauty that he sees is
+available to other people and to me too,
+I believe. Although I may not be quite
+as refined aesthetically as he is, I can
+appreciate the beauty of a flower. At
+the same time, I see much more about the
+flower than he sees. I can imagine the
+cells in there, the complicated actions
+inside which also have beauty. I mean
+it's not just beauty at this dimension
+at 1 cm. There's also beauty at the
+smaller dimensions. The inner structure
+also the processes. The fact that the
+colors in the flower evolved in order to
+attract insects to pollinate it is
+interesting. It means that the insects
+can see the color. It adds a question.
+Does this aesthetic sense also exist in
+lower forms? Why is it aesthetic? all
+kinds of interesting questions which the
+science knowledge only adds to the
+excitement, the mystery and the awe of a
+flower. It only adds
+all right back to uh David Foster
+Wallace's speech. He has a great story
+in there that I particularly enjoy.
+It goes, "There are these two guys
+sitting together in a bar in the remote
+Alaskan wilderness. One of the guys is
+religious. The other is an atheist and
+the two are arguing about the existence
+of God with that special intensity that
+comes after about the fourth beer. And
+the atheist says, "Look, it's not like I
+don't have actual reasons for not
+believing in God. It's not like I
+haven't ever experimented with the whole
+God and prayer thing. Just last month, I
+got caught away from the camp in that
+terrible blizzard and I was totally lost
+and I couldn't see a thing and it was 50
+below. And so I tried it. I fell to my
+knees in the snow and cried out, "Oh
+God, if there is a God, I'm lost in this
+blizzard and I'm going to die if you
+don't help me."
+And now back in the bar, the religious
+guy looks at the atheist all puzzled.
+"Well, then you must believe now," he
+says. After all, there you are alive.
+The atheist just rolls his eyes. No,
+man. All that happened was a couple of
+Eskimos happened to be wandering by and
+show me the way back to the camp.
+All this, I think, teaches us that
+everything is a matter of perspective
+and that wisdom may arrive if we have
+the humility to keep shifting and
+expanding our perspective on the world.
+Thank you for allowing me to talk a bit
+about David Foster Wallace. He's one of
+my favorite writers and he's a beautiful
+soul.
+If I may, one more thing I wanted to
+briefly comment on. I found myself to be
+in this strange position of getting
+attacked online often from all sides,
+including being lied about sometimes
+through selective misrepresentation, but
+often through downright lies. I don't
+know how else to put it. This all breaks
+my heart, frankly, but I've come to
+understand that it's the way of the
+internet and the cost of the path I've
+chosen. There's been days when it's been
+rough on me mentally. It's not fun being
+lied about, especially when it's about
+things that are usually for a long time
+have been a source of happiness and joy
+for me. But again, that's life. I'll
+continue exploring the world of people
+and ideas with empathy and rigor,
+wearing my heart on my sleeve as much as
+I can. For me, that's the only way to
+live. Anyway, a common attack on me is
+about my time at MIT and Drexel, two
+great universities I love and have
+tremendous respect for. Since a bunch of
+lies have accumulated online about me on
+these topics to a sad and at times
+hilarious degree, I thought I would once
+more state the obvious facts about my
+bio for the small number of you who may
+care.
+TLDDR, two things. First, as I say
+often, including in a recent podcast
+episode that somehow was listened to by
+many millions of people, I proudly went
+to Drexen University for my bachelor's,
+masters, and doctor degrees.
+Second, I am a research scientist at MIT
+and have been there in a paid research
+position for the last 10 years.
+Allow me to elaborate a bit more on
+these two things now, but please skip if
+this is not at all interesting. So, like
+I said, a common attack on me is that I
+have no real affiliation with MIT. The
+accusation, I guess, is that I'm falsely
+claiming an MIT affiliation because I
+taught a lecture there once.
+Nope. That accusation against me is a
+complete lie.
+I have been at MIT for over 10 years in
+a paid research position from 2015
+to today. To be extra clear, I'm a
+research scientist at MIT working in
+lids, the laboratory for information and
+decision systems in the college of
+computing.
+For now, since I'm still at MIT, you can
+uh see me in the directory and on the
+various lab pages. I have indeed given
+many lectures at MIT over the years, a
+small fraction of which I posted online.
+Teaching for me always has been just for
+fun and not part of my research work. I
+personally think I suck at it, but I
+have always learned and grown from the
+experience. It's like Fineman spoke
+about, if you want to understand
+something deeply, it's good to try to
+teach it.
+But like I said, my main focus has
+always been on research. I published
+many peer-reviewed papers that you can
+see in my Google Scholar profile. For my
+first four years at MIT, I worked
+extremely intensively. Most weeks were
+80 to 100 hour work weeks. After that,
+in 2019, I still kept my research
+scientist position, but I split my time
+taking a leap to pursue projects in AI
+and robotics outside MIT and to dedicate
+a lot of focus to the podcast. As I've
+said, I've been continuously surprised
+just how many hours preparing for an
+episode takes. There are many episodes
+of the podcast for which I have to read,
+write, and think for 100, 200 or more
+hours across multiple weeks and months.
+Since 2020, I have not actively
+published research papers. Just like the
+podcast, I think it's something that's a
+serious full-time effort. But not
+publishing and doing full-time research
+has been eating at me because I love
+research and I love programming and
+building systems that test out
+interesting technical ideas, especially
+in the context of human AI or human
+robot interaction.
+I hope to change this in the coming
+months and years.
+What I've come to realize about myself
+is if I don't publish or if I don't
+launch systems that people use, I
+definitely feel like a piece of me is
+missing. It legitimately is a source of
+happiness for me. Anyway, I'm proud of
+my time at MIT. I was and am constantly
+surrounded by people much smarter than
+me, many of whom have become lifelong
+colleagues and friends.
+MIT is a place I go to escape the world,
+to focus on exploring fascinating
+questions at the cutting edge of science
+and engineering. This again makes me
+truly happy. And it does hit pretty hard
+on a psychological level when I'm
+getting attacked over this.
+Perhaps I'm doing something wrong. If I
+am, I will try to do better.
+In all this discussion of academic work,
+I hope you know that I don't ever mean
+to say that I'm an expert at anything.
+In the podcast and in my private life, I
+don't claim to be smart. In fact, I
+often call myself an idiot and mean it.
+I try to make fun of myself as much as
+possible and in general to celebrate
+others instead.
+Now, to talk about Drexler University,
+which I also love, am proud of and am
+deeply grateful for my time there. As I
+said, I went to Drexil for my
+bachelor's, masters, and doctor degrees
+in computer science and electrical
+engineering.
+I've talked about Drexel many times,
+including, as I mentioned, at the end of
+a recent podcast, the Donald Trump
+episode, funny enough, that was listened
+to by many millions of people, where I
+answered a question about graduate
+school and explained my own journey at
+Drexel and how grateful I am for it. If
+it's at all interesting to you, please
+go listen to the end of that episode or
+watch the related clip. At Drexel, I met
+and worked with many brilliant
+researchers and mentors from whom I've
+learned a lot about engineering,
+science, and life. There are many
+valuable things I gained from my time at
+Drexel. First, I took a large number of
+very difficult math and theoretical
+computer science courses. They taught me
+how to think deeply and rigorously, and
+also how to work hard and not give up
+even if it feels like I'm too dumb to
+find a solution to a technical problem.
+Second, I programmed a lot during that
+time, mostly C, C++. I programmed
+robots, optimization algorithms,
+computer vision systems, wireless
+network protocols, multimodal machine
+learning systems, and all kinds of
+simulations of physical systems.
+This is where I really develop a love
+for programming, including yes, Emacs
+and the Kinesis keyboard.
+Uh I also during that time read a lot. I
+played a lot of guitar, wrote a lot of
+crappy poetry and uh trained a lot of uh
+injudo and jiu-jitsu
+which I cannot sing enough praises to.
+Jiu-jitsu humbled me on a daily basis
+throughout my 20s and it still does to
+this very day whenever I get a chance to
+train.
+Anyway, I hope that the folks who
+occasionally get swept up in enchanting
+online crowds that want to tear down
+others don't lose themselves in it too
+much.
+In the end, I still think there's more
+good than bad in people. But we're all,
+each of us, a mixed bag. I know I am
+very much flawed. I speak awkwardly. I
+sometimes say stupid I can get
+irrationally emotional. I can be too
+much of a dick when I should be kind. I
+can lose myself in a biased rabbit hole
+before I wake up to the bigger, more
+accurate picture of reality.
+I'm human and so are you. For better or
+for worse.
+And I do still believe we're in this
+whole beautiful mess together.
+I love you all.

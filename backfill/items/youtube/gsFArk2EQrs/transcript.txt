@@ -1,0 +1,648 @@
+Kind: captions
+Language: en
+From the New York Times, I'm Natalie
+Kitroof. This is the daily.
+[Music]
+The race to dominate artificial
+intelligence has become an allout talent
+war with tech companies offering pay
+packages of a4 billion dollars and
+poaching their competitors best
+employees.
+Today, my colleague Mike Isaac on how we
+got here and why all the hype is raising
+fears that AI could become the next big
+bubble.
+[Music]
+[Applause]
+It's Monday, August 25th.
+[Music]
+Mike, we are here with you because in
+the last few weeks and months, we've
+started to see something truly
+extraordinary happen in the world you
+cover, which is Silicon Valley. I'm
+talking about these enormous pay
+packages, $250 million being handed out
+left and right to AI talent. And I think
+at a really basic level, for a lot of
+us, this has been a moment where we
+looked up and said, "Wait, what's going
+on here?" And so I want you to help me
+understand why is this happening?
+&gt;&gt; Well, just to reassure you, people here
+think it's pretty crazy, too. So it's
+it's you're not alone. But I do think
+it's really a singular moment in Silicon
+Valley right now where all of the
+leaders of these big tech companies see
+artificial intelligence as the next big
+thing coming around the corner. And so
+they've kicked off what I say is kind of
+an arms race where they're reshaping
+their companies to figure out how to
+build the next great AI product. But
+they've realized that they don't have
+the type of talent they need. They don't
+have the type of organizational
+structures they need. And their
+solution, for a lot of them at least,
+has been to just throw enormous amounts
+of money at the problem.
+&gt;&gt; And what kicked off this AI arms race?
+Because it did not seem like it was
+happening in this really obvious way
+until pretty recently. So, if I had to
+pick a moment,
+&gt;&gt; I think we have the opportunity here to
+kind of completely reimagine what it
+means to use a computer,
+&gt;&gt; it would be when OpenAI made this huge
+announcement in May through this highly
+produced video.
+&gt;&gt; Johnny is the deepest thinker of anyone
+I've ever met. and they revealed that
+they were going to bring on Johnny IV,
+the now legendary inventor of the
+iPhone, iPad, iMac, the Apple Watch,
+stuff that we use basically every day.
+&gt;&gt; Right.
+&gt;&gt; I have a growing sense that everything I
+have learned over the last 30 years
+has led me to this place and to this
+moment.
+&gt;&gt; They announced that they were going to
+bring him on for $6.4 4 billion to help
+develop the next great AI consumer
+product.
+&gt;&gt; Wow.
+&gt;&gt; So, Donnie IV is partnering with Open
+AI.
+&gt;&gt; So much news from OpenAI this week, but
+$6.5 billion.
+&gt;&gt; Open AAI, which is the leader in AI
+development, kind of musling into the
+devices games.
+&gt;&gt; And it's a really huge deal. It's a ton
+of money. and everyone across the valley
+kind of chafed at it because they
+haven't given any details about what
+this device would actually be and it's,
+you know, unclear if it'll work. But I
+think it planted the idea in a lot of
+executives minds at some of these other
+companies that, hey, this is now a
+talent war.
+&gt;&gt; And I'm assuming based on what we know,
+what they do with all that anxiety is
+channel it into spending. They open
+their wallet.
+&gt;&gt; That's right. I mean the one thing that
+all of these companies have especially
+the big companies is cash. You know all
+of them are doing well financially but I
+think the one that really typifies the
+sort of excessive spending is Meta.
+&gt;&gt; Okay. And what does that look like for
+Meta? Tell me about that.
+&gt;&gt; Yeah. So back in June, Sam Alman, the
+CEO of OpenAI, decides to go on a
+podcast that is conveniently hosted by
+his brother. Look, I' i've heard that
+Meta thinks of us as their biggest
+competitor
+&gt;&gt; and he confirms
+Meta is aggressively trying to poach
+people.
+&gt;&gt; They started making these like giant
+offers to, you know, a lot of people on
+our team,
+&gt;&gt; you know, like $100 million signing
+bonuses.
+&gt;&gt; And Alman says Mark Zuckerberg, the
+chief executive of Meta, had been
+offering OpenAI employees like $100
+million signing bonuses to come over and
+work on AI for Meta. I'm really happy
+that at least so far none of our best
+people have decided to take them up on
+that.
+&gt;&gt; But Zuckerberg really doesn't get super
+far at this point because there's a lot
+of OpenAI employees who actually like
+working at OpenAI. They believe in the
+mission. But then Mark starts to ratchet
+things up.
+&gt;&gt; He decides $100 million is not enough.
+How about $200 million? How about $250?
+How about we frontload half of that
+offer within the first year? And then
+you get the rest of it over four years.
+He goes from, "Hey, this is crazy." to
+this is generational wealth I'm about to
+offer you someone who may be like a
+22-year-old researcher at OpenAI.
+&gt;&gt; And does that work? I mean, I'm sorry,
+but 250 million might work on me.
+&gt;&gt; Yeah. I mean, like, we could talk about,
+you know, I believe in the mission all
+day long, and then when someone, you
+know, backs a dump truck full of money
+up to your doorstep and says, "Here you
+go." is hard to say no.
+So he did start getting people. He got
+someone at Apple who was very important
+for you know more than $200 million.
+&gt;&gt; This is roaming Ping the most respected
+AI researcher and AI executive at Apple.
+Uh he was basically holding everything
+together there.
+&gt;&gt; He started grabbing people from Google
+and Deep Mind. Meta has appointed Xen
+Jiah Xiao, co-creator of Chad GBD and a
+key contributor to GPD4 as
+&gt;&gt; there were some key OpenAI hires that he
+started grabbing and bringing over to
+Meta.
+&gt;&gt; Look, I think they want to assemble the
+top 50 AI researchers that are out
+there. But I think a really big moment
+was when Zuckerberg announced they had
+purchased a 49% stake in this company
+called Scale AI, which is essentially a
+startup that kind of does this data
+labeling for $14.3 billion. Wo. Now, a
+source gave me more color around
+incentives as well, saying that this is
+more about Scale AI founder Alexander
+Wang's AI network. And what he did was
+pay that money to bring over Scales
+28-year-old CEO Alexander Wang and a
+number of his deputies to head up this
+new organization that Zuckerberg is
+calling Meta's new super intelligence
+lab.
+&gt;&gt; And Zuckerberg's apparently moving desks
+in the office so that all of these
+people can sit right by him.
+Okay, so Zuckerberg is figuring it out.
+It's not just him though, right? There
+are other companies that have been
+getting in on this.
+&gt;&gt; Yeah, totally. This is when things get
+really wild. I think every other company
+in the valley starts kind of freaking
+out and saying, "Hey, Zuckerberg is kind
+of messing up our compensation here. We
+need to figure out how to start coughing
+up more money to keep our talent." And
+you know, some of these researchers have
+been there for a while. They certainly
+aren't getting paid, you know, hundreds
+of millions of dollars. And so, I think
+what we started seeing is all of the
+talent kind of congregating together and
+strategizing for how they could take
+advantage of this situation.
+&gt;&gt; H can I ask who are by the way all these
+people? What do they do that makes them
+so valuable to these companies? So the
+people that are really in high demand
+these days are folks who are doing kind
+of niche research called frontier
+research which means they've been
+pursuing farflung parts of AI research
+that maybe most researchers are not
+looking into and it's a pretty small
+number of them are studying what's
+called reasoning which is basically
+helping to teach a computer to think
+more like you and me when it's trying to
+solve problems.
+And there's just not a lot of people who
+do this and do this well.
+&gt;&gt; You know, I've I've heard people refer
+to this as the kind of sportsification
+of the tech industry. And and this is
+why, right? I mean, typically you really
+only hear of athletes getting lured to
+new companies or or teams with this kind
+of money, you know, like Show Otani
+getting paid hundreds of millions to go
+play for the Dodgers.
+&gt;&gt; And look, hey, we don't chafe at that
+when we hear it, right? I mean,
+&gt;&gt; totally. It's crazy money, but at this
+point it's sort of normalized, I think.
+Like, of course, Steph Curry is getting
+like a huge contract. Of course, you
+want to pay LeBron a crazy amount of
+money because they made these teams like
+championship teams, right? That is the
+analogy that a lot of tech CEOs are
+making right now. And frankly, a lot of
+the people inside of these companies,
+like the rank and file, are starting to
+see these folks as as superstars,
+&gt;&gt; as difference makers.
+&gt;&gt; Yeah. I mean, they may not be household
+names to you or me, but certainly around
+Silicon Valley, they have really good
+reputations. There's even this show that
+has developed over the past year. It's
+called TBPN.
+&gt;&gt; You're watching TBPN.
+&gt;&gt; We start at 11:00 a.m. sharp.
+&gt;&gt; It streams 5 days a week, 3 hours a day.
+&gt;&gt; Speaking of AI research, we have a ton
+of stories in the AI trade deal world.
+Zuckerberg continues to be on a tear. is
+basically a running commentary on the
+tech industry, the media industry.
+&gt;&gt; Amazing.
+&gt;&gt; That kind of treats it like an ESPN
+Sports Center type show, but for
+business.
+&gt;&gt; We got a red flag.
+&gt;&gt; We got a red flag. Elon Musk and Sam
+Alman are fighting. Mom and dad are
+fighting.
+&gt;&gt; It's really funny. They they do this
+stuff where if someone goes to Meta,
+they'll spin up a a funny graphic that's
+like traded. Open AI guy becomes chief
+scientist at Meta's super intelligence
+labs and they have fun with it.
+&gt;&gt; Apple Inc. is plotting its artificial
+intelligence comeback. Don't call it a
+comeback. Uh actually you can call it a
+comeback. Give you
+&gt;&gt; Yeah. And it sounds like there's a lot
+of people that are interested in this
+news and that that is kind of reflective
+of how attuned the industry is to these
+moves at this moment.
+&gt;&gt; Very much so. I think, you know,
+everyone in Silicon Valley is paying
+very close attention to who's going
+where, who's got the next big hire,
+who's getting uh paid the craziest
+salary.
+And, you know, really, just like in
+sports, everyone is watching to see how
+these moves or these trades, if you
+will, is going to affect other companies
+and see who comes out on top.
+[Music]
+We'll be right back.
+Okay, I want to get into those questions
+of how this money is actually changing
+things, how the money is affecting the
+landscape of AI as you're seeing it.
+&gt;&gt; Yeah. So, look, I I think we should
+remember we're literally in the middle
+of all of this happening right now. You
+know, this is like a moment in time. All
+of this stuff is like a wild flurry of
+trading people back and forth. These
+companies are building new things.
+Everything is up in the air. I do not
+feel comfortable saying who's going to
+win the race.
+&gt;&gt; Sure.
+&gt;&gt; That said, I think we can still look at
+the landscape and see where companies
+are right now and, you know, who's got a
+great lead or who's the biggest long
+shot. And I think that's something that
+we can still just try to sus out.
+&gt;&gt; Yes, let's do that. Give me a a power
+ranking of these companies as it were.
+&gt;&gt; Okay. When I think of this market, I
+like to think of it in terms of
+companies creating consumerf facing
+products. And I say that because while a
+lot of the rhetoric around AI is about
+building the the next robot god or this
+allseeing all- knowing AI, a lot of
+these companies, you know, aside from
+open AI, haven't been able to do
+something pretty basic, which is just to
+convince people to use artificial
+intelligence in their everyday lives and
+build a business around that. And so
+when I think about that metric, I try to
+break these companies down into three
+different tiers.
+There's the bottom tier, companies that
+are definitely in the mix, but are
+probably more of like a long shot in
+this greater race.
+&gt;&gt; You have Perplexity, which is a startup
+that creates this Google search-like
+product.
+&gt;&gt; You have Anthropic, which is certainly
+bigger. They have their own chatbot
+called Claude which is used by people
+and enjoyed but certainly not as widely
+used as some others. And then you have
+XAI, which is the artificial
+intelligence wing owned by Elon Musk and
+kind of grafted on to X, the social
+network formerly known as Twitter that
+has this chatbot called Grock, which you
+know has done some interesting, even
+impressive things, but when it screws
+up, it screws up in a big way. There was
+this moment where it decided it was a
+Mecca Hitler bot and offended basically
+everyone at the same time before they
+had to apologize for it.
+&gt;&gt; That's a pretty big error.
+&gt;&gt; Yeah, that's uh that's not great. And I
+think it's one of these things where
+they have the advantages of having Elon
+Musk and his endless bank account, but
+they also seem to stumble in a very
+highprofile way. Yeah, it's interesting
+that Elon, who's, you know, often seen
+as out ahead on so many things, does not
+seem to be leading the pack on this.
+&gt;&gt; So, what's tier two?
+&gt;&gt; So, tier two, I would probably put the
+more established tech companies. Think
+Apple, Meta, Google, and these companies
+have two key advantages,
+scale and cash.
+But they have a lot of disadvantages,
+too.
+Let's take Meta, which we've already
+established is behind.
+A lot of researchers are sort of worried
+that Mark Zuckerberg doesn't have a
+clear vision for what AI will look like
+at Meta. And frankly, they don't want to
+work on building the next algorithm that
+keeps you in Instagram or Facebook for
+longer because it's suggesting better
+content using AI. That is not exactly
+what they signed up for when they got
+into the field. Hm.
+&gt;&gt; Then, you know, Apple, I think they're
+weak because, you know, even though
+they've sold billions of iPhones at this
+point, Siri, the AI tool that comes with
+it is not even really thought of as an
+AI tool. It's like a voice assistant
+that only works half the time and is
+considered pretty bad in Silicon Valley
+circles. And even Apple acknowledges
+Siri is not where it should be, right?
+It's it should be this incredible
+assistant. is what they promised it to
+be and it just hasn't been. It hasn't
+panned out because for years Apple has
+not really invested in the type of
+technology that these other companies
+have. So I would say they have a lot of
+potential but they're just not there
+yet.
+&gt;&gt; And Google
+is interesting. You know Google has been
+working on AI arguably the longest of
+most of these companies. They have made
+huge advances. They're very
+missionoriented. They're likely
+literally want to cure cancer. That is
+huge in helping recruit talent. But I
+think the AI that most people are
+familiar with from Google is the little
+summaries at the top of search results
+that happen these days. And they've had
+some, you know, pretty high-profile
+stumbles with that summary. There was
+this moment where they gave a recipe
+putting glue on pizza, which is like, I
+don't know about you, that's not
+something I'm super into, but like It's
+not quite Hitler chatbot, but it's
+pretty bad.
+&gt;&gt; I think in the rankings of bad, it's
+down the ladder a little, but still like
+the entire point of Google is getting
+you the best search results. And that is
+clearly not the best.
+&gt;&gt; And I think we're now at the top tier,
+right? Which I assume is the company
+we've been talking about that everyone's
+been chasing, Open AI.
+&gt;&gt; That's right. Open AAI really kicked
+this whole thing off a few years ago.
+They were the ones that first released
+the most successful chatbot. Millions of
+people downloaded it overnight
+basically. And to this day, they still
+have an enormous amount of people using
+it and continue to grow every single
+day.
+But they do have some disadvantages. You
+know, for one, they're losing enormous
+amounts of money because it costs a lot
+of money to keep this successful chatbot
+running. I think it's it's one of these
+things where they're dramatically ahead
+as far as the number of people using it,
+but that can change almost overnight
+sometimes if a company puts out another
+better product.
+&gt;&gt; And yet there is something remarkable
+about the fact that this company is so
+far ahead right now at least. And I
+think it's because the American tech
+industry is a place where there has been
+a lot of talk of monopolies. You know,
+there's these massive companies that
+just own so much of the internet. And
+then you have this industry that is like
+the most important thing on earth to
+many people right now.
+&gt;&gt; And there's a company outside of the big
+ones that's dominant.
+&gt;&gt; I mean, this is honestly classic Silicon
+Valley as a story, right? You may look
+at Google, Meta, Apple. that think these
+companies are going to be dominating the
+landscape forever. But like I would have
+said the same thing about Blockbuster
+Video 20 years ago, right? Where of
+course I go every Friday night and get a
+movie and I go home and watch it on DVD.
+Y
+&gt;&gt; and then Netflix comes along and now
+they're mailing you DVDs and then a few
+years later they're streaming every
+video to your TV at home so you don't
+even have to leave your couch. Right?
+It's the classic idea of the innovator's
+dilemma. If you're big, if you're
+dominant, you don't need to worry about
+creating the next big thing because you
+can just sort of coast on your laurels
+and I don't know, let's milk the sports
+analogy. You can keep playing defense
+rather than offense.
+&gt;&gt; Yeah. And and that leaves you behind
+when an upstart comes in with something
+new.
+&gt;&gt; That's exactly right. And all these
+companies are now kind of on their back
+foot and trying desperately to catch up
+to open AI which as you said came out of
+nowhere and lapped them all.
+&gt;&gt; We ranked well you ranked these
+companies based on their relative
+positions in the race toward a kind of
+consumer product the effort to capture
+the consumer market. I mean, and the
+stakes for that, for getting people to
+use this stuff seem pretty high given
+how much we've said they're spending and
+investing in this. And it's not just
+salaries, it's the data centers, it's
+developing these models in the first
+place.
+&gt;&gt; Yeah.
+&gt;&gt; And so I have to ask, how sustainable is
+that? I mean, many of these companies
+are public companies. They have
+shareholders. They have investors.
+&gt;&gt; How long can this last? Is there a
+limit?
+It's a It's a good question. I
+appreciate you bringing us back down to
+earth with money because all this stuff
+is insanely expensive. This is not just
+billions, but hundreds of billions of
+dollars in spending on infrastructure.
+You know, building data centers is not
+cheap.
+&gt;&gt; Developing products that maybe people
+use, maybe they won't is not cheap. It's
+adding up and it's adding up quickly. I
+think the companies have been given a
+lot of latitude for years just because
+they all basically print money. Google
+created the perfect internet business
+model with search ads. Meta has me
+buying stuff on Instagram incessantly
+and makes billions every quarter. You
+know, as long as their businesses have
+been running smoothly, investors have
+allowed them to pursue these far-flung
+ideas that are losing big amounts of
+money. H
+But I think we're starting to see the
+limits of that mentality. In recent
+weeks, Wall Street has started to get a
+little shaky on this. They've seen how
+much this stuff costs to build and
+they're starting to ask more questions
+saying, "Hey, can this be an actual
+business? And do people want to use this
+stuff?"
+&gt;&gt; Yeah. on that there has been some talk
+right of whether this might be a bubble
+you know reminiscent of the kind of dot
+bubble in the early 2000s where you had
+this huge amount of internet startups
+that had these insane valuations and
+then that bubble popped
+&gt;&gt; do you see that here is is that a
+parallel
+&gt;&gt; no one likes the b- word out here but
+yeah I think I think it's totally I
+think it's fair. Look, I mean, there's
+so much money tied up in this. Every VC
+firm is spending insane amounts to get
+into AI companies. There's AI companies
+built a top of AI companies, data and
+infrastructure companies that are
+relying on the success of this stuff.
+It's kind of like all interconnected and
+really dependent on each other's
+success. And I think it's a really fair
+and important to question whether this
+stuff is going to even work out, not
+treat it as an inevitability.
+What does that mean for the economy?
+Because so much of our economy is being
+driven by this huge spending and this
+this massive new industry. If the bubble
+does go pop, what does that mean for the
+rest of us? I mean, look, it reminds me
+of how tied into this we all are. You
+have to remember the big tech stocks
+often lead the entire market, right?
+Sometimes the Dow is up and down based
+on the performance of Meta or Google or
+Apple or whatever. My 401k is probably
+tied up to this as is yours. You know,
+this is kind of woven into our economy
+whether we want this version of the
+future or not. So in a way we are kind
+of tied to the success here. The idea
+that if you choose not to use chat GPT
+doesn't insulate you from the idea that
+AI is not going to affect you at all. I
+think it's more woven into different
+parts of how the world works than you
+and I might realize.
+&gt;&gt; Right. It's like even if you personally
+are not bought in, the entire economy
+is. So you're on this train.
+&gt;&gt; Yep. Welcome aboard.
+[Music]
+Mike, thank you. Thanks for having me.
+[Music]
+We'll be right back.
+Here's
+what else you need to know today.
+&gt;&gt; After we do this, we'll go to another
+location and we'll make it safe. Also,
+we're going to make our country very
+safe. We're going to make our cities
+very, very safe.
+&gt;&gt; President Trump said that he planned to
+target Chicago for his next federal
+crackdown on crime.
+&gt;&gt; Chicago is a mess. You have an
+incompetent mayor, grossly incompetent,
+and uh we'll straighten that one out
+probably next. That'll be our next one
+after this. Trump said the National
+Guard deployment in DC was helping clean
+up the city and suggested that he was
+also willing to use active duty troops
+on city streets.
+&gt;&gt; We haven't had to bring in the uh the
+regular military, which we're willing to
+do if we have to.
+&gt;&gt; But the president may not be able to
+easily replicate the show of force in DC
+in other major cities. Because DC is a
+federal district, not a state, Trump has
+more control there than anywhere else in
+the country. That includes the ability
+to take control of the local police
+force.
+[Music]
+Today's episode was produced by Diana
+Wyn, Alex Stern, and Carlos Pto. It was
+edited by Lexi Dio, Mark George, and
+Maria Burn with help from Michael
+Benois, and was engineered by Alyssa
+Moxley.
+[Music]
+That's it for the daily. I'm Natalie
+Ketro. See you tomorrow.
+[Music]

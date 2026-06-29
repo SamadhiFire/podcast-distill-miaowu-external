@@ -1,0 +1,14 @@
+{
+  "status": "retryable",
+  "method": "whisper_cpp",
+  "language": "zh",
+  "attempts": 1,
+  "duration_seconds": 6564,
+  "last_timestamp_seconds": null,
+  "coverage_ratio": 0.95,
+  "text_chars": 0,
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "completed_at": "2026-06-29T18:06:50.677865",
+  "error_type": "low_text",
+  "error_message": "text chars 0 < 200"
+}

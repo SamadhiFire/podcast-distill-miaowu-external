@@ -1,0 +1,4336 @@
+Kind: captions
+Language: en
+If I had to buy something, I would
+rather buy stocks rather than buy bonds.
+&gt;&gt; I think the investment for AI has to
+take place now.
+&gt;&gt; AI models are so powerful, driving so
+much demand that we do expect them to
+grow into next year.
+&gt;&gt; What you see going forward though from
+the four hyperscalers is clearly more
+spending.
+&gt;&gt; The AI race continues. This is Bloomberg
+Surveillance with Jonathan Pharaoh, Lisa
+Abramowitz, and An Marie Hordern
+&gt;&gt; live from New York City this morning.
+Good morning. Good morning. For our
+audience worldwide, Bloomberg
+surveillance starts right now. Coming
+into Thursday, the boom is over.
+Earnings from Nvidia underwhelming,
+forecasting a deceleration in growth.
+The tech giant failing to record any
+sales of its H20 chip to customers in
+China as the CFO cautions the plan to
+pay the White House 15% of its revenue
+there hasn't been formalized.
+&gt;&gt; So here's the question with Nvidia's
+performance. On one hand you could say
+it's deceleration from this sort of
+moonshot that we had seen and it really
+raises questions about its valuation.
+But as you can see from the market
+reaction where you see these shares down
+less than 2% after more than a 35% rally
+so far this year. A lot of people are
+shrugging this off as maybe just
+underestimating how much revenue they
+could ultimately take from China and a
+China story more than some sort of end
+of the AI boom type of narrative.
+&gt;&gt; China in focus. Morgan Stanley saying
+this, China remains impossible to
+forecast.
+&gt;&gt; What you can see from these earnings
+results is basically how challenging it
+is to guide when you are dealing with on
+andoff policy out of Washington DC. And
+I think for Nvidia, it's so delicate the
+situation. The downside, only a select
+number of Chinese firms are able to get
+those licenses for the H20, but none
+have been shipped. The upside, Jensen
+Wang talking about potentially this idea
+of selling the Blackwell chip, talking
+about basically lobbying the White House
+for it. There could be tremendous
+upside, but at the moment they are not
+raking it in. And when it comes to that
+15%, Jonathan, subject to litigation,
+increase our cost and harm our
+competitive position and benefit
+competitors with this kind of
+arrangement. So it's not all rosy at the
+moment between the sweet sea suite and
+the oval office.
+&gt;&gt; As Lisa said, the stock is only down by
+about 2%. The broader market unchanged.
+This is a change. How dependent are we
+on the gains from one stock anymore? If
+you look elsewhere in the equity market,
+banks at record highs, home builders
+rallying so far this month. Cyclical
+parts of the equity market holding up.
+&gt;&gt; Yeah, this idea of a broadening out in
+the rally. And it wasn't necessarily
+because AI is trickling out into all
+parts of our economy. It's because guess
+what? Suddenly people are counting on
+rates going lower and they're counting
+on a more accommodative stance from
+Federal Reserve officials and given that
+a lot of people are looking at small
+caps. We saw this particularly late last
+week. They're looking at the rest of the
+market and they're saying okay we are
+ready for a boom and that seems to be
+reflected in the market.
+&gt;&gt; It's good to have you backed
+completely rested from the bears. So I
+guess that the bears did not get the
+dominance over this and I will say I had
+to come back. It was Nvidia. It was a
+5-year auction yesterday that was tepid.
+I mean had to clearly get back on my
+feet.
+&gt;&gt; Brought you back in.
+&gt;&gt; I mean it was just absolutely
+compelling.
+&gt;&gt; It's good to see you. Coming up this
+hour more from Brammo plus Keith Learner
+of Truist. The stocks look for a third
+day of gains. Dan Ives of Wed Bush
+breaking down results from Nvidia and El
+Davis of Beimo on the risk building in
+the bond market. We begin this hour with
+stocks pushing higher after shrugging
+off a lukewarm forecast from Nvidia.
+Keith Lerner, the chief market
+strategist at Truist writing the
+following. We still like tech longer
+term, but the rubber band became
+stretched too far and in need of a
+digestion period. This will likely lead
+to some further rotation. Keith joins us
+now for more. Keith, welcome to the
+program, buddy. It's got to catch up.
+Just how dependent are we on this single
+name. Based on the price action this
+morning, maybe not that much.
+&gt;&gt; Yeah, well, great to be with you on uh
+Nvidia day. Uh for the broadband based
+market, I mean, it's still somewhat
+important since it's 8% and it's a big
+driver of overall tech, which is a big
+driver of the overall market. But I
+think you know so far if you're bullish
+on this market you got to be somewhat
+happy that uh the market's relatively
+flat and really Nvidia is trading back
+to where it was last Friday and you know
+this market is a lot about expectations
+right markets are always about
+expectations we talk about that rubber
+band from the uh the lows in April you
+know the S&amp;P is up 30%. Um the the tech
+sector is up about 50 and Nvidia was up
+almost 100. So in our view, you know,
+expectations are just somewhat elevated
+and it needs a digestion period. Longer
+term, we're still bullish on technology.
+We're still bullish on the AI theme, but
+I do think as we're seeing this morning,
+you take a little bit out of some of
+these big cap stocks into like say small
+caps, which are a bit up this morning a
+bit. Uh it doesn't take much. I mean, we
+all know that Nvidia by itself is bigger
+than the entire small cap index.
+&gt;&gt; Well, let's talk about what's happening
+with the small caps, Keith. We're seeing
+a pickup. We're seeing a pickup in the
+home builders so far in August. bank
+stocks at all-time highs. Keith, we're
+expecting a shift in the rate regime. Do
+you think that shift in the rate regime
+leads to a shift in leadership?
+&gt;&gt; Yes, I think it's one component of it.
+Um, again, I want to be clear longer
+term, we still think the dominant theme
+remains with AI, but on a shortterm
+basis, the next month, next few months,
+I think there's some rotation that will
+likely continue. So, it's a couple fold,
+Jonathan. Um, one is the rate cuts.
+That's true. But two, the starting point
+is we have the most extreme
+underperformance for small caps relative
+to large caps since 2000. So that's the
+setup going into this even with last
+Friday's move. On top of that, what's
+changed more recently in our work, the
+forward earning estimates for the small
+cap index are rising at the fastest pace
+that we've seen for some time. So that's
+a positive. That's different than what
+we saw last uh year. And where's that
+coming from? Well, it's coming from from
+also tech and communications within that
+sector, but we're also seeing
+industrials and then financials which
+will benefit from the lower rates,
+steeper curve, and also a pickup in M&amp;A
+and deregulation uh as well. And then
+positioning is still somewhat off sides.
+Earlier uh a few months ago, we saw the
+greatest outflows out of small caps that
+we've seen over the last decade. So, I
+think you put all that together and you
+throw on top the one big beautiful bill
+which has some incentives for more
+leverage companies. It provides a setup
+for small caps to uh to uh to do better
+here even on a relative basis.
+&gt;&gt; A lot to unpack there. Let's just start
+on the rate story. Does 50 basis points
+of rate cuts really get that done given
+that there still is potentially a longer
+way to go based on current analyst
+estimates to get to neutral.
+&gt;&gt; Uh well, I think it's the the path of
+over the next say 12 to 18 months. But
+no, I mean, you know, a quarter point or
+15 basis points by itself isn't going to
+dramatically change the game. I think
+it's it's it's on the margin. It's a
+positive, but it's not the only factor
+that matters for small caps. Everything
+else I laid out as far as, you know, the
+the one big beautiful bill that I think
+was underappreciated about the positive
+impact on tax rates for small caps, the
+pick up in M&amp;A, even we're not there
+yet, Lisa, but a little bit more clarity
+on tariffs is helpful. And then the
+other thing for small caps, too, you
+need to tend to see better economic
+growth uh as we move into next year. you
+know, we're around 1.3% for the economic
+growth this year. We're expecting that
+to to move up closer towards 2% next
+year. So, it's not gang busters, but
+again, all these things are on the
+margin at a time where position is still
+relatively light and it doesn't take
+much of a rotation out of these big cap
+names to move these smaller cap index.
+&gt;&gt; One reason why a lot of people are
+skeptical of that argument, Keith, is
+that there's been an underperformance
+from the sector for a very long time. is
+sort of the perennial underperformer and
+everyone keeps hoping that that means
+that it's cheap and it ends up just
+being undervalued for a reason. A lot of
+people have argued bigger companies can
+adapt to whatever changes there are in
+the tariff regime in some of the
+regulatory regime than smaller companies
+and we've seen them gain share. How do
+you understand how to evaluate that to
+understand whether something is cheap
+given this sort of structural change
+between big companies and small
+companies?
+&gt;&gt; Yeah. Well, we we've been making the
+same arguments on loss caps and why
+we've been overweight and still secular
+still prefer them. But how do we make
+that decision? Well, going back to that
+kind of weight of the evidence approach,
+you know, cheapness is not a catalyst. I
+mean, people have been saying that small
+caps are cheap every single year and
+they haven't moved. I think the
+difference this time that we're seeing
+is earnings. Like, you know, earnings
+for small cap and talking about the S&amp;P
+600 are still below where they were in
+2021. What we've seen more recently is
+is those earning trends start to move
+forward. So if we look at the condition
+is still were oversold as far as
+performance. We're seeing the earnings
+move up and then you have again a little
+bit of deregulation, a little bit of
+lower rate cuts, a little bit of fiscal
+stimulus. And then on top of that we
+look at the technical trends. The techn
+technical trends are improving. We have
+a the index is in a nice uptrend and on
+a relative basis we're seeing um
+improved performance. So you put that
+all together and that leads us to say
+hey the outlook has brightened here in
+the near term for small caps. Keith,
+Keith, do you basically think the fiscal
+uptrend with the one big beautiful bill,
+the deregulation outweighs this
+potential hit we can see on small caps
+in the next 6 to 12 months when it comes
+to the settling of tariff rates?
+I
+&gt;&gt; I think this is I mean it's still an
+issue, but part of the reason why small
+caps have underperformed by the most you
+know we've seen since 2000 and that's on
+a three-year basis or even over the last
+year they're still underperforming by
+about 10%. Is because of this
+uncertainty around tariffs. Now the
+question becomes is that tariff outlook
+going to become worse or do we know what
+it is or do we have a better kind of uh
+uh starting point today that at least
+companies know how to adjust better. So
+listen for all those reasons the you
+know large caps can adjust better but at
+some point saying what is priced in
+relative to expectations. What we're
+seeing in the large cap space is at
+least on a short-term basis a lot of
+good news is priced in probably needs a
+digestion phase where again you move a
+1% move invidia equates to you know more
+than the biggest stock in the uh the
+small cap index. So it's also about
+positioning as well and I want to
+distinguish maybe a shorter term several
+months versus the long-term trends which
+we think is filled with AI and tech.
+Well, when it comes in within the small
+caps, what industries are best prepared
+to weather the storm?
+&gt;&gt; Well, I think you know, if you look
+about the the small cap indexes, a lot
+of times it's a it's a story about
+sectors. And the biggest sectors in um
+small caps are financials and
+industrials. And what they have in
+common is they do benefit from some of
+this stimulus. On the financial side,
+they benefit from lower rates to pick up
+an M&amp;A and a steeper curve. the
+industrial side benefits for some of the
+incentives that we're seeing in that one
+big beautiful bill and there also
+backdoor AI plays as well. So I mean
+those if you have if you're going to be
+positive on the small cap area you have
+to be somewhat positive on financials
+and industrials because the sector uh
+I'm sorry small caps have about half the
+allocation to tech relative to to large
+caps and we are positive on those like I
+said financials and industrials. Hey
+Keith, it's got to catch up. Keith
+Linder there of Truist with the Russell
+up by 610 of 1% of the small caps
+outperforming once again this morning.
+It's interesting the market's telling
+you one thing and the data is telling
+you something completely different. The
+market's telling you that we're looking
+at a reaceleration and growth
+potentially. Look at the data from the
+conference board earlier this week. The
+shares of consumers that said jobs were
+hard to get rose for a second month to
+the highest since 2021. Last week on
+house purchases from Red Fin, home
+purchase contracts in the US canled at a
+record rate for the month of July.
+Something a miss here. What's right at
+the moment?
+&gt;&gt; You've been talking about this this idea
+of can we price in the recovery before
+the downturn has happened? Can we can we
+bake in the idea of rate cuts forming
+some sort of reaceleration before we
+even get the weakness that the Fed would
+ultimately be responding to? That's the
+conundrum. Are we accurately
+understanding just how much rate cuts
+can stave off the weakness that we're
+seeing in the data that will then lead
+to a reaceleration that hasn't really
+started yet? If your mind is somewhat
+numb, well, just go buy stocks evident
+at least.
+&gt;&gt; My head's spinning and apparently people
+are still buying stocks. Exactly.
+&gt;&gt; Equities at a close yesterday. Alltime
+highs on the S&amp;P 500 this morning.
+Little change with an update on stories
+worldwide with your Bloomberg brief.
+Here's Yahara Arnard. Hey, Yahara.
+&gt;&gt; Hi, John. We're seeing Nvidia shares
+falling nearly 2% in the pre-market. The
+chipmaker gave a tepid revenue forecast
+for the current period, signaling that
+growth is decelerating after a
+staggering 2-year boom in AI spending.
+Nvidia says it expects sales to be
+roughly $54 billion in the third quarter
+that is in line with the average
+estimate on Wall Street. Meanwhile, the
+Mexican government is planning to
+increase tariffs on China, fulfilling a
+longstanding demand from President
+Trump. sources telling us here at
+Bloomberg that the tariff hikes are
+expected for imports including cars and
+textiles as Mexico aims to shelter
+domestic manufacturers from subsidized
+Chinese competition. And there's been
+another shake shakeup within the Trump
+administration. CDC director Suzanne
+Monarez was fired just weeks into her
+tenure. Her attorneys say health
+secretary Robert F. Kennedy Jr. targeted
+her because she refused to quote rubber
+stamp unscientific reckless directives.
+That's your boomer brief. John
+&gt;&gt; Yhara, thank you. More from Yihara later
+this hour. Up next on the program, the
+boom is over.
+&gt;&gt; It's actually been about almost 5
+quarters since the last time we saw a
+significant beat and raise from an
+Nvidia. I mean, a narrative I think
+still largely very positive, but we just
+didn't quite see the, you know, this
+this beat and raise that market's been
+looking for. That conversation up next
+with Dan Ies of Wed Bush live from New
+York City this morning. Good morning.
+[Music]
+Live from New York City this morning.
+Good morning. Bremo's back. So, let's do
+this. The bond market in Europe. Check
+this out. Germany, France, and Italy.
+France trading super tight to Italy now.
+And the spread between Germany and
+France in the last 24 hours opening up
+to a spread of about 80 basis points.
+We're talking about that spread
+potentially getting into triple digits.
+The French want to get through, when I
+say the French, I mean the prime
+minister wants to get through 44 billion
+euros worth of spending cuts and tax
+hikes. And once again is proving rather
+difficult.
+&gt;&gt; Yeah. Which means maybe even the
+collapse of the French government.
+You're also seeing, and I know that this
+will get you and Anorie both excited,
+this idea that Italy is almost on par
+from an implied creditworthiness as
+France with France uh with 10-year
+yields now trading just 10 basis points
+under the similar denomination over in
+Italy. That is the tightest since 2003
+at a time where there's a real question
+about how they deal with what their
+current premier says is just an
+absolutely overwhelming debate.
+&gt;&gt; You know, outside of the bond market,
+it's interesting. Euro weakness bank
+stocks the big winner in Europe of the
+year so far down 5% so far this week
+just wonder to what extent this starts
+to infect the overall let's get long
+Europe let's look for that
+outperformance over the US story
+&gt;&gt; yeah we've been seeing a little bit of a
+softening at least in the stands today
+when you see some of the equity rebound
+uh particularly in the likes of French
+and France but you're right people who
+talk about US political dysfunction need
+to look elsewhere and look at the yield
+uh particularly the 30-year yield across
+the world rising to a significant
+ificant degree because it's not just a
+US political dysfunction story. It is a
+global developed market political
+dysfunction story and you're seeing that
+very much expressed in the bond market.
+&gt;&gt; That's the latest on the continent. Just
+to reinforce what Lisa said, this is a
+story that you're seeing play out
+worldwide, not just state side. State
+side, the main event, this stock right
+here, Nvidia in the pre-market, negative
+by 1.8%. Some push back from the analyst
+community. 72 buys, seven holds, just a
+one sell. A very constructive tone from
+analysts overnight as well. City saying
+we continue to see upside in data center
+sales with or without China. Hargreaves
+lands down out of the UK. Lisa smart
+investors will look through the noise.
+&gt;&gt; And this is the reason why Nvidia is on
+course for annual sales of $200 billion.
+That number expected to surpass $300
+billion by 2028, which means that
+they're getting about a third of the
+entire revenue for the entire chip
+industry. This isn't exactly a stock
+that you really want to short. That's
+basically what they're saying. stock is
+down by 1.7% in early trading under
+Savylvanas this morning. The boom is
+over.
+&gt;&gt; In a word, we just didn't see a beaten
+raise. Uh and and it's actually been
+about almost 5 quarters since the last
+time we saw a significant beat and raise
+from an Nvidia. I mean, a narrative I
+think still largely very positive, but
+we just didn't quite see the, you know,
+this this beat and raise that market's
+been looking for. I mean, I think, you
+know, we have continued to see uh that
+uh demand is strong, but you know, the
+market's gotten so used to them, you
+know, or hope to see for them to beat
+numbers, and they haven't.
+&gt;&gt; Here's the latest this morning. Nvidia
+forecasting a deceleration in growth,
+signaling the 2-year AI spending boom
+may be coming to an end. Dan Ies, the
+global head of tech research at Wedbush,
+writing, "We view any decline in Nvidia
+stock to be a clear buying opportunity
+as it remains the only game in town
+fueling this fourth industrial
+revolution." Dan joins us now for more.
+Dan, you've seen the headlines. The boom
+is over. What's the push back this
+morning?
+&gt;&gt; I think the boom's just starting. I
+mean, if you look at these numbers,
+especially when you factor in what China
+is going to be, I mean, you know, Jensen
+talked about 50 billion 50% type growth
+number. This just shows the next stage
+of adoption is actually just starting. I
+think look, I think this stock is green
+today.
+&gt;&gt; By the end of the day, Dan, that's what
+you're saying. You think that by the end
+of the day, people will realize, come
+around to your point of view, that
+actually what the disappointment was was
+a non-inclusion of any China sales, but
+a real robust uh growth elsewhere. Is
+that your argument? you just exactly
+like summarize it because the reality is
+is that when you look at data center and
+then you actually factor in what China's
+going to be when you look at two to five
+billion and you look at the acceleration
+in the next few quarters I mean there's
+no region that's not accelerating and
+now in China with the payforplay model
+back in you're talking about could be an
+incremental 20 25 30 billion that's why
+it comes down to the the godfather of AI
+Jensen Avidia continue to dominate is
+and I think this is just a further
+validation. Tech stocks go higher.
+&gt;&gt; Dan, I feel like we should do a show
+where in the world is Dan Ies of Wed
+Bush because you're always somewhere
+different and this morning it looks like
+you're down under in Sydney and I'm
+curious about the rest of the world.
+It's actually really uh telling that
+you've been traveling the world because
+outside of China, Nvidia's growth has
+been tremendous and we've seen a real
+increase particularly in other Asian
+countries. How much does that give you
+that extra bullish push that even if
+it's not China, you are seeing the rest
+of the world rush to adopt as much as
+they can of Nvidia before maybe some of
+the policies change.
+&gt;&gt; Yeah. Look, and I think you see that le
+when you look at Middle East, I mean
+Middle East, perfect example where
+they're just continuing to just
+massively build that out, you know, when
+it comes to Saudi UAE. Look, the reality
+is is that they're years ahead of any
+other chip player. I mean, you look at
+everything happened from a Huawei
+perspective. They're they've narrowed
+the gap. But the reality is that every
+Chinese big tech player wants Nvidia
+chips. And I think what you starting to
+now realize is that you you talk about a
+third of that overall revenue going to
+Nvidia. This is trillions that's going
+to be playing out. That's why I believe
+there's a $5 trillion market cap, you
+know, either by year end or early 26.
+&gt;&gt; But Dan, the China policy is subject to
+change on the US side. And also we have
+seen in the past Beijing telling firms
+not to buy Nvidia chips. Can this
+company continue to grow the way you
+envision if say China was taken out of
+the of the play?
+Yeah, look there's no doubt China
+continues to be that's the golden goose
+for Jensen and Vinnie but that's also
+why look Jensen 10% politician 90% CEO
+and when you think about the China
+market but also Beijing telling Chinese
+companies big tech not to buy Nvidia
+chips that's like telling a kid oh don't
+eat the candy the reality is they want
+Nvidia chips they don't want to have a
+third fourth rate chip and that's why
+Genta knows it and they're going
+continue to kind of play this policy and
+I think we sit here 6 9 12 months from
+now. China's a $50 billion annual market
+for them. Jensen Wang last night said
+they keep advocating on the sensibility
+of an importance of American tech
+companies to lead and win the AI race.
+Basically, we keep lobbying the American
+government when it comes to Blackwell.
+Do you think at some point they'll be
+able to sell those chips into China?
+&gt;&gt; Payforplay model, right? I mean, maybe
+that 15% goes to 25%. Look, because
+Jensen understands that what they can
+sell that gives Huawei and China that
+much more power. And I think in this AI
+arms race between the US and China,
+biggest poker chip on the table
+continues to be Nvidia. And I think
+that's the reality. There's no one that
+has more influence when it comes to AI,
+you know, relative to Trump than Jensen.
+I mean, he's become really, I think, a
+big strategic advisor for Trump
+administration when it comes to AI.
+&gt;&gt; Dan, nobody's saying the growth story is
+going away. We don't think this is going
+x growth. No one's suggesting that we're
+going to see healthy double-digit growth
+figures based on what we heard from the
+company overnight. What they are
+suggesting is that the level of growth
+is going to change and perhaps we need
+to reassess our view of this company.
+With that in mind, Dan, how have you
+changed your view as growth decelerates
+just by definition?
+Yeah, I mean look, my view is is that as
+you start to actually go into physical
+AI world and you go into autonomous, you
+go into robotics, you look at the next
+few years, I could argue streets
+underestimating numbers 25 30% next few
+years. So, I think as this actually
+plays out, my view is like Nvidia is
+undervalued relative to where this is
+all going. And we're only in, like I've
+talked about, the AI party was 9:00 p.m.
+It's now 10 10:15 p.m. That party goes
+to 4:00 a.m. And Jensen's going to be
+out there in the dance floor because he
+and Nvidia are we in the AI revolution
+along with the hyperscalers and
+Palunteer. What's become clear though
+from the earnings of the likes of
+Microsoft and and Google or Alphabet is
+that there is some push back when it
+comes to the investor and community
+about how much some of these companies
+are spending and it needs to broaden out
+in a significant way and if it does that
+raises questions about how much Nvidia
+has to steal market share from other
+players. Who's going to be the bigger
+loser as Nvidia continues and charts its
+path over complete dominance of this
+industry?
+&gt;&gt; Yeah, look losers are clearly Intel,
+right? I mean despite obviously what we
+see with US government and you know and
+obviously Soft Bank I mean I just think
+there's a better chance of me playing
+Ryder Cup Beth Paige than Intel gaining
+share you know and I think that's that's
+part of the issue is that AMD is going
+to gain share Nvidia is going to gain
+share you're clearly you know Broadcom
+and others but I think it's a have and a
+have knots that's going to continue to
+play out but but you look at last
+night's quarter along with what we've
+seen earnings as a bull. You feel really
+good in terms of the validation story
+for AI.
+&gt;&gt; Dan, before you go, should Keegan
+Bradley have chosen himself?
+&gt;&gt; Look, I think he could have chosen
+himself. I you know, it was obviously
+maybe a good decision for him, but I
+think ultimately US wins that uh wins
+that Ryder Cup. Beth Paige.
+&gt;&gt; Oh, we'll see what happens. Dan Ies,
+thank you, sir. Dan I of Wish 8:24 p.m.
+8:25 now. It's Sydney, Australia. Dan
+Ives should be on the dance floor in a
+few hours time. He'll still be there and
+he's dressed for it.
+&gt;&gt; You just had your golf conversation. I'm
+sorry. You managed to get some golf with
+someone who really relates.
+&gt;&gt; I wasn't expecting it to happen later on
+the program. All right. That was my
+chance.
+&gt;&gt; That was your chance. You had to
+&gt;&gt; made it happen. I think the European
+team gets announced on September 1st.
+Okay. All right. More on that still to
+come. Not today. For like next month or
+something. Up next, Toby Marcus of Wolf
+Research.
+There was a time not too long ago when
+Nvidia would come out with underwhelming
+results and you'd imagine this market
+would collapse. I say collapse but down
+at least 1% on the S&amp;P. Not seeing that
+this morning. Totally unchanged on the
+S&amp;P 500. Even the Nasdaq where Nvidia
+makes up 10% of the index on the NASDAQ
+100. That benchmark is totally unchanged
+so far this morning. The equity market
+going nowhere. outperformance on the
+Russell up by 6/10 of 1% seen that a few
+times in the past few weeks off the back
+of the rate discussion so let's have the
+rate discussion in the bond market
+2-year 10 year 30-year compare the
+extreme ends of the curve the front end
+and the long end twos versus 30s the
+steepest going back to November 21 in
+yesterday's session and winding some of
+that this morning with the front end
+higher by a basis point and the very
+long end lower by a basis point but
+Bramo as you know that's been a story
+over the last week
+&gt;&gt; a lot of people have been attributing
+this to this question of Fed independent
+dependence and will the Fed essentially
+cut rates substantially even in the face
+of inflation allowing inflation
+expectations to pick up in a significant
+way. When you take a look at break even
+rates, it sort of throws some questions
+around that story because you're not
+seeing them break out. You're not seeing
+inflation expectations absolutely surge
+and this seems to be a global story. So,
+it goes to a real question. Is this a
+question of supply and demand, of just
+too much long-term debt that needs to
+get sold to finance deficits around the
+world, and too little demand at a time
+of increasingly skeptical investors?
+&gt;&gt; Yes. Yes. And yes, and worldwide in
+France, in the UK, in Japan, and not
+just the US. And we have to keep going
+back to their story. We're seeing this
+all over the place.
+&gt;&gt; And all over the place, we're seeing
+renewed concerns about a deficit and
+frankly governments that are crumbling
+over the need to actually finance it and
+not just keep borrowing. And it raises a
+question about the resilience of
+developed market democracies to come
+together at a time of increasing
+polarization because that is a story
+globally, not just in the United States.
+&gt;&gt; We'll get to France in just a moment.
+For the United States, 2 hours away,
+8:30 Eastern time, you'll get jobless
+claims. That's the next stop for this
+market on the data front. With 3 hours
+until the opening hour, let's get you
+some single names, some morning movers.
+We can do that with Danny Burgerer for
+more. Hey Danny.
+&gt;&gt; Hey John. Well, we did get through one
+risk event and that was Nvidia earnings
+yesterday. You pointed out that the
+NASDAQ isn't moving much. Nvidia for its
+sake is down less than 2%. Postmarket
+yesterday was down 3%. So even some of
+that has come back. It was a tepid
+forecast 54 billion dollars worth of
+revenue. Some of the estimates were as
+high as 60 billion. But you heard from
+Dan Ives who was just speaking to you
+thinking that this stock would end green
+by the end of the day. Jensen Huang
+talking that there's still a lot of
+demand there. The hyperscalers are still
+spending. So maybe why you're not seeing
+as much pessimism. Where you are seeing
+pessim pessimism though is crowd strike.
+Those shares are down 3%. They also
+reported after the bell yesterday. It
+was a disappointing quarter for crowd
+strike. It would appear that remember
+that whole thing a year ago when crowd
+strike went down and brought down with
+it a lot of airlines and other things
+that's still having lingering impact and
+lingering cost. So that affecting their
+quarter. The real winner though from the
+earnings last night was Snowflake. This
+is the software company. They gave a
+forecast that was very strong, stronger
+than expectations. There had been a
+concern with this company that because
+of an economic slowing that less
+customers would be buying their products
+and at the same time AI coming into the
+force would also make them less
+relevant. That didn't happen. Again,
+strong figures for those shares up
+nearly 14%. John
+&gt;&gt; Danny, appreciate the update. More from
+Danny in the next hour on a radar this
+morning. Nvidia CEO Jensen Wang saying
+it's a real possibility the company
+brings its advanced Blackwell chip to
+China. The company currently limited to
+selling the less advanced H20 chip to
+China where it owes the US a 15% cut of
+sales. Elsewhere, a letter from Chinese
+President Xi to his Indian counterpart
+written in the run-up to President
+Trump's liberation day tariffs now
+coming to light. The letter expressing
+concerns over the US and urging the
+countries to test the waters on
+improving ties. And finally, as
+promised, the French Prime Minister
+Franu ramping up efforts to hold
+together his government as the country's
+parliament pushes for his resignation.
+the French leader warning against
+holding snap elections and saying he'll
+negotiate directly with lawmakers.
+&gt;&gt; Yeah. And he has until September 8th
+when they have that no confidence vote
+potentially. Uh and this real question
+of how do you bring together two sides
+that are increasingly polarized? This is
+what I was hinting out earlier. That's
+very much what he's saying. How we can't
+govern. So you get rid of me as a
+premier. Who are you going to put in
+next? Are they going to be able to
+handle this so much better? And we've
+got this crippling debt load that we've
+got to deal with. This is the reason why
+long-term yields around the world are
+rising because it is not a a problem
+that's isolated to any one developed
+market democracy.
+&gt;&gt; And it's deja vu. If they put someone
+else new in, they're going to deal with
+these same exact problems. How to get a
+budget through when you have a very
+polarized parliament. Michelle Bonnet,
+who he took over for, similar situation
+we saw lasted only 90 days. This new
+prime minister is in the chair for 9
+months. This basically means we are
+likely going to see a collapse of the
+French government. This is going to be
+very challenging for Manuel Macron.
+&gt;&gt; You're gonna see this problem on repeat.
+We talked about this earlier this week.
+I think we've really got to think this
+through. They will not vote for this
+stuff until the alternative is worse. I
+said that repeatedly earlier this week.
+So, what do I mean by that? They won't
+vote for this stuff until the market
+consequences are worse. And this is
+nothing to get the kind of reforms, the
+kind of cuts to spending and tax hikes
+that a lot of people think the likes of
+the French government need to do. to get
+those politicians on board for that to
+be politically palatable for them. They
+need to prove that the alternative is
+worse. And we're not there yet. And
+that's the worrying thing for me. To get
+better, things need to get worse. That's
+a problem.
+&gt;&gt; It seems like governments around the
+world are playing chicken with bond
+markets and everyone's saying bond
+markets are the ultimate adult in the
+room and they have to come and
+discipline governments around the world
+and they don't really want to do it yet
+because the yield is still appealing on
+some kind of level. So to your point,
+what kind of sell-off do you need to
+see? What kind of yield spike do you
+need to see before there's some kind of
+step toward improvement? It's a great
+question and right now it's one that
+markets want to just ignore, keep
+buying, and go back to the beach.
+&gt;&gt; It's not 350 on French 10s. Let's put it
+that way. I like the beach line. Very
+European.
+&gt;&gt; Yeah, you want to go there.
+&gt;&gt; That that works.
+&gt;&gt; Maybe this weekend.
+&gt;&gt; Why not? Yields lower in France by a
+basis point. Stop distracting us. This
+holiday mood, I feel it. Those vacation
+vibes.
+&gt;&gt; You want to squelch it? You're like
+taking How long's this going to last?
+Well, you know, maybe another Well, I'm
+go off again tomorrow. It's great.
+&gt;&gt; There you go. Me, too. Me, too. Weekend.
+Very European. Okay, let's turn to the
+Federal Reserve. A lawsuit from Fed
+Governor Lisa Kirk looming as President
+Trump moves to fire her from her
+position. The NEC director Kevin Hassid
+calling on Cook to take leave while the
+case plays out. For the latest, here's
+Tyler Kendall with more. Morning, Tyler.
+&gt;&gt; Hey, John. Good morning. Well, Fed
+Governor Lisa Cook could file her
+lawsuit as soon as today challenging
+President Trump's efforts to oust her.
+Now, it is widely expected that Cook is
+going to seek something known as a
+preliminary injunction, which would
+decide whether or not she's able to
+remain in her seat, not to mention vote
+in the September meeting while the
+broader legal issue of her case plays
+out in courts. And I had the chance to
+catch up with one legal expert who told
+me that it is this injunction request to
+really pay attention to because that is
+going to set the table for at least the
+next few months. Now, as you all know,
+the president says he has sufficient
+cause to fire Cook over these
+allegations of mortgage fraud, but no
+formal charges have been filed. And
+perhaps we got a little bit more insight
+into how the White House is thinking
+about this legal case yesterday when
+senior trade adviser Peter Navaro joined
+Bloomberg television and said that the
+White House is prepared to argue that it
+does not matter that these allegations
+have to do with Cook's private conduct
+and not her time at the Federal Reserve.
+That is going to be one of the big
+questions that the courts have to decide
+because John, we know that President
+Trump is looking to get that majority on
+the Fed uh board of governors. He said
+it himself that he's looking for that
+four out of seven seats to be Trump
+appointees, but we are not there yet. A
+person familiar though does tell
+Bloomberg News that the Senate Banking
+Committee is prepared to kick it into
+high gear and hold a confirmation
+hearing next week for Steven Myin who's
+been uh appointed or nominated for that
+uh temporary board seat when it comes to
+the Fed. If this were to happen by that
+September 17th date uh John that would
+be considered pretty fast movement by
+the US Senate.
+&gt;&gt; Tyler Kendall with the latest. More from
+Tyler in the next hour. Tyler, thank
+you. Joining us now is Tobin Marcus, the
+head of US politics and policy at Wolf
+Research. Tobin, welcome back to the
+program. Where do you think ultimately
+this one is going?
+&gt;&gt; Thanks. Good to be here. Um, my guess
+would be that at the end of the day, the
+Supreme Court will side with President
+Trump and uphold the firing of Fed
+Governor Cook. I think at the lower
+court level, I do think she will get a
+preliminary injunction. The district
+court in DC has tended to side with
+independent agency commissioners who've
+been fired in these disputed cases. It's
+a fairly democratic leaning
+jurisdiction. I think that'll get held
+up at the circuit court level. But when
+this gets to the Supreme Court, I you
+know, I think that the the centerright
+block in the court, Roberts, Kavanaaugh,
+and Barrett, who are going to be
+decisive here, I just think that they're
+going to be quite reluctant about
+second-guessing what constitutes cause
+for the president given their investment
+in sort of a strong unitary executive,
+given the lack of specificity in the
+statute about cause. The Federal Reserve
+Act doesn't say anything about cause. it
+doesn't specify what constitutes cause
+and it certainly doesn't call for a
+specific set of procedural guard rails
+around that. So, you know, I I think
+it's um despite their protectiveness of
+the Fed, which we did see in that Trump
+vers Wilcox decision, I I think I'll be
+reluctant to second guess him.
+&gt;&gt; Tobin, when it comes to that decision
+though in May, they signal that the Fed
+is inoculated. It is a quasi private
+entity. Why would they almost do a
+reversal? So they signal that the Fed is
+carved out from their invalidation of
+the for cause uh protections for other
+independent agencies. So what that
+decision in May said was the the uh
+requirements that you can only fire
+independent agency commissioners for
+cause everywhere except the Fed are not
+good law. Even though that's in the
+statute, we're going to say you can fire
+them whether you have cause or not. And
+that's held up at the FTC and the NLRB
+and all these other alphabets
+independent agencies. The Fed, they
+said, is sort of it has a special and
+distinctive history. This is a basically
+totally ad hoc uh legal distinction they
+drew, I think, basically because they're
+concerned about the Fed more so than
+they are about agencies like the FTC.
+But that was about whether or not you
+need cause. It didn't say anything about
+what cause is. And so I think when you
+get into that latter question, that's
+where looking over the president's
+shoulder and kind of micromanaging the
+executive from the judiciary is
+something that is is kind of counter to
+a lot of what uh the Roberts court has
+has tried to do over the past few years.
+But taking a step back, there's been no
+formal investigation. She hasn't been
+charged, let alone convicted. Does that
+make it that much more difficult for the
+Supreme Court?
+&gt;&gt; Uh, yeah. I mean, it it weighs on one
+side of the ledger. I think those are
+reasons why you might think that cause
+does not exist here. Uh, but again,
+there's nothing in the statute that
+requires any of that. So, you know, I
+mean, reading across from how uh kind of
+for clause provisions in private sector
+contracts uh have sometimes been
+adjudicated. I think it's you can make
+an argument that you do need something.
+You need some sort of formal uh
+determination. You need some due
+process. Uh but that's not written into
+the statute anywhere. And so, I think
+kind of coloring outside the lines of
+the the black letter of the law is
+something that they um will be will be
+reluctant to do. I do think it could go
+either way. I think this is a close
+call. It's it's legally novel. There's
+not a lot of clear precedence. We
+haven't adjudicated a lot of cases like
+this in the past. But my guess would be
+at the end of the day, this particular
+court is not going to want to go there.
+&gt;&gt; To it seems like uh the analyst
+community is talking about the loss of
+Fed independence when it comes to this
+case. It looks like the markets don't
+care at all. It looks like the markets
+have basically shrugged this off and
+said it's a non-story at this point. It
+really matters who comes in, what they
+do, what the response function is should
+inflation start to pick up. Why is there
+such a dissonance? Who's right?
+Yeah, it's been a really interesting uh
+reaction or or lack of reaction from the
+market. So, I mean, I will say the
+movements when Trump announced Cook's
+firing were not dramatic, but they did
+point in the direction you'd expect. You
+were talking earlier on the program
+about the long end of the curve
+remaining stickly high. I think that's
+been notable even before this this uh
+story about independence. Just as
+expectations for policy rate cuts at the
+front end have gotten priced in, we
+haven't really seen the long infall
+especially the 30-year. So to some
+extent like those concerns about whether
+or not we really do have inflation
+managed were already kind of baked in
+the dovish pivot is already baked in
+both based on the chair transition and
+based on Powell's meshing at Jackson
+Hole. Um and then I think that to the
+extent we do see a change here from like
+even in the Cook firing case it's months
+down the road because I do think that
+you will get a preliminary injunction um
+early on and there's at least some some
+question as to whether this will stick
+at all. So I think between the fact that
+this may not hold up and the fact that
+it's kind of pointing in the same
+direction as a set of less extraordinary
+policy shifts that we're already
+underway um I think that's kind of why
+we're not seeing a bigger market
+reaction. But I I agree it's certainly
+an interesting uh uh non-response. It
+&gt;&gt; it's messy all around that's for sure.
+Apart from in the market Toby Marcus
+there of Wolffra Research Tobin
+appreciate it. Thank you sir. I found
+this situation really bizarre over the
+last week. I understand why the
+establishment view and the conversation
+is suffocated by worries about Fed
+independence. I get all of that. But at
+the same time, we're almost ignoring
+what underpins all of this, real
+allegations of mortgage fraud, which
+should be very simple to clean up one
+way or the other. And I've been
+surprised in the last couple of days,
+and maybe we need to give it some more
+time, and we should give space for due
+process, of course, that this hasn't
+been addressed very clearly. Go out and
+say this happened or it didn't happen.
+And if you believe it did on the
+government side of things, open up the
+investigation, which hasn't happened
+either. And that's the thing that I'm
+focused on more than just can the
+president fire a Fed governor or not.
+Let's talk about why this came about.
+Can we clear that up or not? And why is
+it taking so long? That's where my
+attention is.
+&gt;&gt; Yeah. And that's the reason why the Fed
+has said we'll abide by whatever the
+court's decision is on this case. A lot
+of people shrug this off as it's noise.
+And frankly, we have seen a lot of noise
+this year, and the more we look through
+it, the better. At the same time, there
+are some real questions here. Another
+question is what is the reaction
+function for any incoming new Fed member
+if there is some sort of increase in
+inflation, right? Is there a reaction or
+is there going to be some sort of yield
+curve control? All of these questions
+leave people in sort of a some state and
+that's what we see this morning.
+&gt;&gt; Bonus this morning down about a basis
+point of 30 a year at 491. Let's give
+you an update on stories worldwide with
+your Bloomberg brief. Here's Yahihira.
+Hey yhara.
+&gt;&gt; Hi John. White House trade adviser Peter
+Navaro is pressuring India to halt its
+purchases of Russian oil. In an
+interview here on Bloomberg, Navaro
+accused New Delhi of funding the
+Kremlin's campaign in Ukraine and even
+calling the conflict Mod's war. The US
+has doubled tariffs on India to 50% this
+week in an effort to secure concessions
+on trade and pressure Russia. Meanwhile,
+MercedesBenz is urging US and EU
+officials to quickly follow through on
+their trade deal to lower auto tariffs
+as it says manufacturers are being
+squeezed by the ongoing duties. European
+automakers still face a 27.5% tariff on
+vehicles to the US with the rate set to
+fall to 15% once the EU, as we've
+reported, removes levies on US
+industrial goods. And things got tense
+on the court at the US Open with
+American Taylor Townsend telling her
+opponent Yelena Oapenko she has no
+class. The heated exchange which you can
+see there happened yesterday right after
+Townsend won their second round match.
+Ostenko claiming Townsend disrespected
+her when she didn't say sorry about a
+net ball in a deciding moment of the
+match. That grief John
+&gt;&gt; nothing beats Medvidev for scenes at the
+US Open so far but this has been fiery
+hasn't it? Yeah. Well, I mean, a little
+bit of drama. This idea of the right
+etiquette. You say sorry if there's a
+net ball. I never knew that.
+&gt;&gt; You're meant to really like hold up your
+hand. Yeah.
+&gt;&gt; Really? And if you don't hold up your
+hand, then you start, you know, words
+fly. Fist fly.
+&gt;&gt; I don't know about fist. That'd be an
+interesting thing. I'd stay up to watch
+more US Open tennis. If that kind of
+thing happens,
+&gt;&gt; if you want drama, go to the Central
+Park tennis courts 96%
+without a doubt.
+&gt;&gt; 80-year-olds beating each other up. No
+one apologized. Oh, it is great for
+drama.
+&gt;&gt; Up next on the program, questioning Fed
+independence.
+&gt;&gt; You've got the long end which is being
+confronted by the fiscal situation being
+confronted by questions around Fed
+independence. So, I do think the steer
+trade makes sense. I have got more
+confidence in owning shorter dated
+intermediate bonds rather than the long
+end. Up next, El Davis of Beimo.
+[Music]
+live from New York City. Welcome to the
+program. Equity futures on the S&amp;P
+unchanged, slightly softer on the NASDAQ
+100 down by not even a tenth of 1% even
+with some underwhelming forecasts coming
+out of Nvidia. The outperformance this
+morning actually on the Russell, the
+Russell 2000 up by 0.4%.
+and Savanis this morning questioning Fed
+independence.
+&gt;&gt; Yields still look elevated versus where
+they've been. Does feel like we're in an
+environment where owning bonds makes
+sense. You've got the long end which is
+being confronted by the fiscal situation
+being confronted by questions around Fed
+independence. So I do think the
+steepener trade makes sense. I have got
+more confidence in owning shorter dated
+intermediate bonds rather than the long
+end. And I think that's not just a US
+phenomenon. That is a global phenomenon.
+So here's the latest this morning. The
+long end of the yield curve in focus as
+President Trump's attack on the Fed
+raises questions about the central
+bank's independence. O Davis of the head
+of fixed income at Beimo Asset
+Management writing the following. We
+prefer being outright short 30-year
+duration as the global tailwinds are
+pointing towards higher bond yields.
+Joins us now for more. Welcome to the
+program, sir. I'm pleased you picked up
+on the global theme. What is it about
+what's happening developing globally
+that's leaving the 30-year the long end
+of the yield curve looking like it's in
+a weak spot at the moment?
+&gt;&gt; Yeah, there there's there's two things
+that that are doing that. Uh one is um
+increasing fiscal spending. Um and
+that's driven a lot by defense and the
+other one is unsustainable um global tax
+policies maybe not in the US but in in
+France that's exactly why the confidence
+vote is coming up. And we have the same
+the same thing in UK. So all these
+things are adding a lot of duration risk
+a lot of uh risk that people need to
+premier from or risk premier additional
+yield to own
+&gt;&gt; which is interesting because one thing
+that it's not necessarily is a market
+increase in inflation expectations. I
+was looking at 30-year break evens at
+least in the United States. They haven't
+really gone out of this range there at
+2.3%. It's not that people expect
+runaway inflation. So is it this
+expectation that a number of developed
+market economies are going to trade I
+don't want to say more like emerging
+markets going forward but there's going
+to be a greater question of doubt of
+their ability or willingness to pay in a
+way that this world has not reckoned
+with before.
+&gt;&gt; Oh I I I wouldn't agree with that. I
+would still think inflation is very very
+important to the market. Um, but I've
+been in the market 30 years and one
+thing that I've come to uh to a
+conclusion on is that the market only
+focuses on one thing at a time and
+inflation is one of the five things it
+could focus on. The fiscal defendant
+dependence, the data releases and and
+right now because the market can only
+focus on one thing at a time. It's not
+inflation right now and and the reason
+is we haven't seen the tariff flow
+through or that come through. Uh my
+expectation is that inflation will be a
+story of 2026 but it's just not a story
+for 2025 or the balance of 2025. Earl,
+does it make you nervous to outright
+short 30-year bonds at a time where
+you're getting 4.9% carry and
+potentially this is getting to be a
+crowded trade as one potential offset to
+some of the anxieties out there about
+Fed independence and inflation?
+Uh, no, not not at all. Not at all. And
+this is the beauty of uh being a fixed
+income active manager. There's actually
+math involved in it. And to to offset
+call it 5% carry um a fixed income
+30-year bond has a 20-year duration.
+That means you only need like a 30 basis
+point move and your mark tomarket will
+be more than 5%. So 30 basis point move
+is well within the possibility. Uh I
+think it'll be choppy until we get
+through 510. Uh just a lot because of
+like you said that 5% yield is it's a
+shiny thing but you know the key as a
+fixed income active manager is not to
+get uh distracted by all the shiny
+things.
+&gt;&gt; Well Earl, you've been in the market for
+30 years. Are you surprised that the
+market is not really trading off this
+idea of this potential threat to the
+independence of the Federal Reserve?
+&gt;&gt; Uh, no. No, not not not at all. And the
+reason why I'm not is basically trading
+101. When I have a trainee come on the
+desk, I said there's two things you look
+at at the market to determine where
+yields are going to go directly and then
+indirectly. Uh, the basic things are
+monetary policy. So, Fed Fed um uh what
+the Fed does and the other one's fiscal
+policy. So all that's going to happen
+with with with Fed independence if it
+changes is more of the weight's going to
+go to fiscal policy than than monetary
+policy. But there obviously will still
+be a weight with monetary policy. People
+are anticipating lower rates uh given
+what fiscal is doing. So no um not
+worried about that at all. You know the
+Fed wasn't created as a independent
+body. It became independent during its
+lifespan. So the regime is just going to
+revert to where it was. So uh one of the
+key things it it doesn't matter what
+your end state is and you could talk
+about anything for this. What matters to
+the markets the delta how fast you get
+there. And I believe that's what's being
+reflected in the market. That's what's
+being reflected in the headlines. That's
+what's being reflected in the yield is
+that this change from uh independence to
+less independence. It's happening very
+rapidly and and faster than people
+thought. So I think that's that's what
+the focus is on now. But the end state
+uh it'll still be business as usual from
+our perspective.
+&gt;&gt; I've got about 40 seconds. I really
+wanted to squeeze in this question. It's
+on tariffs. When tariffs were first
+introduced, it was actually negative for
+treasuries. Yields rose. Over the last
+few months, we've been focusing on how
+much revenue those tariffs have been
+raising, and people have been making a
+case that's supportive of fixed income.
+If these tariffs fail to stand up to
+legal scrutiny in the next few days,
+would that be bond positive or bond
+negative?
+&gt;&gt; That's a hard one. Um, I I I think it
+it's it's bond positive. um because
+there's less uncertainty. You know what?
+It's probably bond negative. It probably
+increases the uncertainty because I
+don't believe uh if if they're reversed
+in the next few days, that's going to be
+the last last chapter. So, it increases
+the uncertainty until you get the last
+chapter on on terrorists whe whether
+they stand or not be through legislation
+or legal things. Uh so, it increases
+uncertainty. So, bond bond negative
+immediately.
+&gt;&gt; I appreciate that you're thinking this
+through in real time. Thank you. Well,
+thank you very much, sir. El Davis there
+of Beimo. something we've all got to
+think about maybe over the next 24
+hours.
+&gt;&gt; Yeah. This idea that more uncertainty is
+not a good thing for markets given the
+fact that they've looked for certainty
+and right now people debating whether
+the central bank is becoming more
+politicized or whether unsustainable
+policies and governments are going to
+force central banks hands and that's
+what we've seen increasingly.
+&gt;&gt; It's all very calm, isn't it? Equity is
+going nowhere on the S&amp;P 500 very close
+to alltime highs. Bond yields actually a
+little bit lower this morning at the
+long end of the curve, the 30-year at
+490. Coming up next on Bloomberg
+Surveillance in the second hour, we'll
+catch up with Stuart Kaiser City, John
+Lieieber of Eurasia Group, the IMF
+deputy managing director, Gita Gopanath,
+plus Chris M of Ocean First Financial
+from New York City. This is Bloomberg
+TV.
+It's a very dynamic economy. Things
+could be materially different next year.
+The labor market is in the process of
+weakening and will continue to weaken.
+&gt;&gt; Ultimately, the Fed is on an easing
+trajectory.
+&gt;&gt; If we're just on a path towards more
+gradual rate cuts, there is effectively
+been a K-shaped recovery in the economy
+for a number of years.
+&gt;&gt; As we get a sense of who the new Fed
+chair will be, we might very well have
+to build in a more dumb reaction
+function.
+&gt;&gt; This is Bloomberg Surveillance with
+Jonathan Pharaoh, Lisa Abramowitz, and
+An Marie Hordern.
+&gt;&gt; Live from New York City this morning.
+Good morning. Good morning. for our
+audience worldwide. The second hour of
+Bloomberg surveillance starts right now
+and your price action looks like this.
+Nvidia is only negative by close to 2%
+in the pre-market even with an
+underwhelming forecast. And the broader
+market, check this out, is doing okay.
+Equity futures on the S&amp;P 500 basically
+unchanged. The outperformance coming
+from the Russell up by 0.5%. The Y, the
+Y is coming from the bond market
+reassessing the path forward for the
+Federal Reserve in the last week or so.
+a 2-year yield down to 36188.
+&gt;&gt; And it goes to this conundrum that you
+talked about earlier, the economic data
+pointing to some weakening at least in
+consumer confidence and consumer
+spending power at the same time that
+people are planning for a revival of
+said consumer confidence and spending
+power on the heels of rate cuts, which
+is reviving the belief in the Russell
+2000. It's head spinning. At the same
+time, rate cuts are making everybody
+really happy. With the Nvidia point
+though, it is interesting to note people
+are seeing this more as a China problem
+than a broader AI issue.
+&gt;&gt; Well, when it comes to China, they're in
+a very tricky position. One, it's the on
+andoff policy coming from Washington
+whether or not they can get these export
+licenses to sell. They were able to get
+the export licenses to sell. Now,
+they're saying they potentially will
+face litigation because the 15% profit
+the US government wants to sell them.
+And then at the end of the day, China
+may not want them. So, Jensen Wang has
+to make another trip to Washington DC to
+up another ask, the Blackwell. and
+basically saying that this is
+sustainable good AI policy to make sure
+the US is dominating in the Chinese
+market but the market is left with so
+many questions about what actually they
+can do in China.
+&gt;&gt; The stock is down by 1.6% in the
+pre-market as we've said repeatedly so
+far this morning. The rest of the
+market's doing all right, pretty much
+unchanged on the S&amp;P 500 all-time highs.
+Coming up this hour, we'll catch up with
+Stuart Kaiser of City as investors shake
+off underwhelming Nvidia results. John
+Lieber of Eurasia Group on the growing
+legal fight at the Federal Reserve and
+Chris Mahar of Ocean First Financial as
+bank stocks hit record highs. We begin
+this hour with stocks shaking off a
+tepid Nvidia forecast. Stuart Kaiser,
+the head of equity trading strategy, a
+city writing the following. Nvidia's
+earnings is the largest event for the
+S&amp;P 500 over the next month. For equity
+investors, the AI theme and the impact
+of that on returns is on par with the
+Fed. Stu joins us now for more. Stu,
+good morning.
+&gt;&gt; Good morning.
+&gt;&gt; Things are pretty calm, aren't they?
+What you make of that? Uh I mean I think
+the Avidia numbers were just about good
+enough effectively probably right at the
+low end to where the whisper number was.
+Uh the China stuff obviously adds a
+little bit a little bit of noise to it
+but I mean margin 70 you know 70
+whatever four and a half 73 and a2%
+exactly they wanted to be 54 billion in
+revenues. I think that the test here was
+if Nvidia was really strong what would
+it have done to the Russell trade and I
+think that's what a lot of people were
+sort of debating was if we get a cuz uh
+you know snowflake and MongoDB both very
+strong results on the software AI side.
+If you had gotten that from Nvidia,
+would that have made people U-turn out
+of the Russell and and and value trade
+back into growth? It doesn't seem like
+the numbers were strong enough to do
+that, but they were strong enough to
+keep the S&amp;P from selling off.
+&gt;&gt; So, Milto toast Nvidia report is good
+for small caps.
+&gt;&gt; Uh yeah, at least tactically. I you
+know, at least I highlighted with with
+the mix of policy versus data. I think
+that that small cap trade has really
+poor riskreward as we go into September.
+Um because it's a careful what you wish
+for wish for. Good news, good news, bad
+news, bad news type situation. But yeah,
+exactly. But yeah, I think I think the
+Nvidia report kind of like threaded the
+needle, right? It was strong enough that
+you didn't get kind of a liquidation in
+those long positions, but it wasn't so
+strong that it disrupted the rotation
+that's been going on for the last couple
+weeks.
+&gt;&gt; Is this actually a connected idea that
+somehow big tech winning? Is small
+companies losing? Or is this just simply
+that markets can only focus on one idea
+at a time, and if they're not focused on
+AI, they're focused on the Fed? Yeah,
+it's probably a little bit of both, but
+yeah, I I would agree with that. I think
+there is some view that how do you keep
+up with the spending that these
+hyperscalers are doing or if if you're a
+smaller company, the market right now is
+to some degree in one big trade, right?
+And that trade is long growth, long
+large cap, long the AI thematic, right?
+And everything else has sort of been
+ignored to some degree. What we saw in
+August is people trying to re-engage
+with those smaller cap, lower quality
+laggers to some extent. And to your
+point, I mean, there's a limited amount
+of money, right? Money's got to be in
+one place and and right now it's getting
+kind of rotated a little bit into that
+that value trade.
+&gt;&gt; Is any money coming out of bonds and
+going into stocks? And this is something
+that a number of people had been
+flirting with earlier in the year. The
+idea that they could get better yield on
+stocks at a time when inflation was
+going to be a little bit more elevated
+than say bonds, especially with
+uncertain policy.
+&gt;&gt; Yeah. Yeah, it' be interesting to see if
+the Fed actually does start cutting and
+those money market yields actually get
+down to a level where it's a little bit
+attractive if we see a re-engagement. If
+you look at the balances in retail money
+market funds, I mean, you're at like
+three trillion bucks. It's a it's a lot
+of money. Um, not all of that is coming
+into stocks, right? I think some of that
+was basically bank account money that
+got put into money markets for yield. I
+don't necessarily know that that would
+go directly into equities, but there's a
+potential you get a little bit of a
+tailwind. A little bit of a tailwind
+there. Question there though is if if
+they're is why are they cutting is
+ultimately what this gets into. If
+they're cutting because the labor market
+is falling apart, money is not going to
+be rushing into equities and that's
+going to be net negative for Russell
+etc. If they're cutting because that
+sort of base cases in play where they're
+just gradually going back to neutral
+neutral and otherwise solid economy then
+yeah you might get money out of bonds
+and equities.
+&gt;&gt; Well, with the event of Nvidia behind
+us, what's the market going to be
+focused on now? Is it squarely on the
+labor market report ahead of the Fed
+meeting? Yeah, I think it's payrolls and
+then September 9th you get the BLS
+revision to payrolls which uh as you
+cover Trump I'm sure that'll be very uh
+very very
+&gt;&gt; said this week in the cabinet meeting
+that he expects a very strong labor
+market report.
+&gt;&gt; He he might get a decent labor market
+report. But look, I mean consensus is
+sub 100k. Chairp last week said break
+even on on jobs right now is 50 to 75k.
+So look, I mean a strong report right
+now would probably be 125. But, you
+know, our economists think you might
+get, you know, 400,000, you know, uh,
+negative revisions from the BLS
+benchmark. That is not going to go over
+well politically. And honestly, from a
+markets perspective, that's that's a
+sneaky event on September 9th. You know,
+how many jobs get kind of revised out of
+the BLS?
+&gt;&gt; It's a really odd setup, isn't it? This
+market's pricing in a cyclical upturn.
+Federal Reserves really concerned,
+increasingly concerned about a cyclical
+downturn. What gives?
+&gt;&gt; I I agree with you 100%. I actually
+thought the response to the Fed, the
+response to the Fed was much more
+positive than than I would have guessed.
+I think what happened was the initial
+headline was, you know, about they're
+getting ready to cut, but if you read
+his speech, it was because they are
+seeing some, you know, weakness in the
+labor market. Not only is he saying
+weakness, they think the riskreward is
+really poor. And then a lot of folks, I
+think, believe that they're prioritizing
+growth, but he also specifically said
+we're not going to allow tariff driven
+inflation to become a bigger problem.
+So, I I I was surprised honestly at how
+positively the market react reacted to
+the Fed. Um, but yeah, I I I with you. I
+think you have a little bit of I don't
+want to say disagreement, but you have a
+situation where the Fed is clearly
+worried about the growth side of their
+mandate. The market has been willing to
+ignore that to some degree. Um, and as I
+said, I think that gives you really poor
+riskreward in some of these smaller cap
+trades.
+&gt;&gt; There's a phrase I really don't like,
+but I'm going to use it. Hawkeish cup.
+Is that kind of what you're thinking
+about going into September 17th? of
+course all relative to what's expected
+at the time and what comes in on the
+data front over the next few weeks. But
+is that where you're at now?
+&gt;&gt; I guess, you know, in the sense that
+yeah, they are probably going to cut and
+yes, I think they're going to be very
+cautious in how they cautious in how
+they message that in the sense that this
+is not, you know, an aggressive kind of
+cutting regime. And look, if you get a
+very weak labor market report, that cut
+may not may not come across as as
+hawkish. So, you know, they are they are
+very very data dependent. But all else
+equal, let's say we print a consensus
+job number of call it 75K and you get an
+okay inflation print, then yes, they'll
+cut. But to your point, they're not
+going to message this as an aggressive
+cutting cycle. They're probably going to
+message this as a meeting by meeting
+process that that is data dependent. So,
+if you just turn this on its head and
+take it a step further, is this
+essentially a market that's hoping this
+is a politicized rate cut and that it's
+going to be a politicized rate cutting
+cycle that doesn't necessarily warrant
+it based on where the economy is, which
+will give fuel to equities, but won't
+actually be as a result of economic
+weakness.
+&gt;&gt; Well, to keep myself out of trouble, I'm
+going to call those insurance cuts. Yes.
+And I think
+I think the market will probably Yes. um
+enjoy some insurance cuts. Look, there
+is a a sneaky Uber bull case out there
+lurking, right? Which is that for 3
+months, corporate America sat on their
+hands, did less hiring, did less capital
+investment because of the uncertainty
+around tariffs and taxes and
+immigration. And we get into September,
+things have calmed down, and you have
+budgets that need to be spent into your
+end, and you get some hiring. That is a
+low probability, but very kind of, you
+know, bullish outcome. You know, you say
+that it's low probability, but I was
+looking at your very own economic
+surprise index, and it actually is at
+the highest, the most positive going
+back to the end of last year. So, if you
+see, yes, the economic data hasn't been
+great, but it's been trending in the
+right direction. It's actually going the
+opposite direction of some sort of doom
+and gloom in the economy. So, how do you
+square that with the idea that there
+really is weakness under the hood that
+the Fed is responding to?
+&gt;&gt; Well, what's what's interesting about
+that, too, is a lot of this coming from
+the soft data, which is survey data. Um,
+Missish was actually quite weak. So it's
+the survey data that's improved. You're
+triggering. No, but the survey data
+that's improved has been corporate
+survey data. It's been the PMIs. So in
+the sense if you believe that corporates
+are going to re-engage, that's very
+positive news. If you're worried about
+the labor market, you're kind of a
+little more circumspect about it. So
+agree that the data looks pretty good.
+Look, economic surprise can be positive
+for two reasons. It could be really
+strong data or really low expectations.
+In this case, it might be that the
+expectations were kind of low and we're
+clearing a relatively low bar. that kind
+of setup with corporate America having
+the one big beautiful bill,
+deregulation, and some clarity on
+tariffs. What does that mean for the Fed
+in 2026?
+&gt;&gt; I mean, it probably means the Fed will
+be really, if they're in a cutting
+cycle, doing it very very methodically
+and and maybe like a quartertoquarter
+basis instead of a meeting to meeting
+basis. Look, if they get if you were to
+have all of that stuff kind of coalesce
+into a little bit of an upturn in in the
+US economic data, then yeah, the Fed is
+going to be much more focused on
+ensuring that the inflation risk is out
+of there. I mean, you have a a Fed chair
+who was there during an inflation surge,
+is getting ready to leave that seat. I
+can't imagine he wants to leave that
+seat with inflation pressure again kind
+of being an issue. So it would actually
+be a a blessing for the Fed, I think, if
+you got an upturn in corporate econ
+corporate economic activity that allowed
+the Fed then to kind of take their time.
+&gt;&gt; I didn't take you as a um kind of guy.
+&gt;&gt; I used to be a Mitch kind of guy and
+then I realized the respondent rate, you
+know, the response rate is just
+ridiculous.
+&gt;&gt; Yeah. You you need to defend yourself
+here because you know you kind of guy
+evidently is sort of your new kind of uh
+&gt;&gt; it's like conspiracy theorist kind of
+guy.
+&gt;&gt; This is what happens when the British
+come. They don't like the Dow. They
+don't like you.
+&gt;&gt; I think Governor Waller likes you.
+&gt;&gt; They're anti-American.
+&gt;&gt; Well, please.
+Oh, boy.
+&gt;&gt; I'm I'm more pro-American than half this
+country right now. Stu,
+&gt;&gt; fair enough. I'll give you that. I'll
+gra
+away. Let's get you an update on stories
+worldwide. That's true. Let's get you a
+Bloomberg brief with Yahara. Hey,
+Yhierra.
+&gt;&gt; Hi, John. We start with our top story.
+Nvidia trading lower 1.8% in the
+pre-market. The chipmaker gave a tepid
+revenue forecast for the current period,
+signaling that growth is decelerating
+after a staggering 2-year boom in AI
+spending. Nvidia says it expects sales
+to be roughly 54 billion in the third
+quarter in line with the average analyst
+estimate on Wall Street. And on the flip
+side, we are seeing TD Bank shares
+rising 3 and 3/4% in the pre-market. The
+bank reported thirdarter earnings that
+beat Wall Street estimates. TD saw
+record revenue in its Canadian business
+which was a key point to focus for
+growth in the wake of its US
+anti-moneyaundering
+issues and a correction on an early
+reporting about the incident at the US
+Open. Taylor Townsen was the was the
+tennis player who claimed her opponent
+yelling at Oapena told her that she has
+no class. The tense moment came after
+Townsen won their second round match.
+Oapeno says town census respected her
+when she didn't apologize about breaking
+an unwritten rule over a net ball.
+That's our brief. John, thank you.
+Thanks for the update. Up next on the
+program, asserting control at the Fed.
+&gt;&gt; I think these are bogus charges. This is
+more about his effort to exert control
+over the Fed because I think they're
+concerned that their trade agenda is is
+causing great weakness in the labor
+market and they want rates lower. Up
+next, John Lieieber of Urasia Group from
+New York City this morning. Good
+morning.
+[Music]
+Live from New York City. Welcome to the
+program. Equities doing okay. No real
+drama whatsoever so far this morning.
+Futures negative by not even a tenth of
+1%. A touch of underperformance on the
+NASDAQ 100 and a little bit of
+outperformance on the Russell. Small
+caps making a comeback, winning again
+this morning by 0.45%.
+Under surveillance this morning,
+asserting control at the Federal
+Reserve.
+&gt;&gt; I think these are bogus charges. I
+believe there's probably plenty of
+people in the administration who have
+done the same. This is more about his
+effort to exert control over the Fed
+because I think they're concerned that
+their trade agenda is is causing great
+weakness in the labor market. And they
+want rates lower. And to be fair, this
+is what the president has always wanted
+is lower rates. Here's the latest this
+morning. A lawsuit from Fed Governor
+Lisa Kirk looming as President Trump
+attempts to fire her over allegations of
+mortgage fraud. With the latest, here's
+Bloomberg's Tyler Kendall. Hey, Tyler.
+&gt;&gt; Yeah. Hey, John. Well, Fed Governor Lisa
+Cook could file her lawsuit as soon as
+today challenging President Trump's
+efforts to oust her. Our eyes are glued
+on the dockets to see when this lands
+because it is widely expected that Cook
+is going to seek something known as a
+preliminary injunction which would
+decide whether or not she's able to keep
+her seat, not to mention vote in the
+September meeting while the broader
+issue of her firing plays out in the
+courts. And I spoke with one legal
+expert who said it is really this
+decision on the injunction to pay close
+attention to here because that is going
+to set the tone for at least the next
+few months as this really does play out
+uh in the legal system. And as you well
+know, President Trump says that he has
+sufficient cause to fire Cook over
+allegations of mortgage fraud. But we
+should say no formal charges have been
+brought against her. Though we did get
+some new insight yesterday into how the
+White House is thinking about this idea
+of cause. I think it's worth mentioning
+again that we had the White House senior
+trade adviser Peter Navaro on Bloomberg
+television who said that the White House
+is prepared to argue that it does not
+matter when these allegations took place
+or that they have to do with private
+conduct instead of her work as a Federal
+Reserve governor. That is going to be
+one of the top questions that the courts
+have to decide because of course the
+stakes are very high here. But perhaps
+there is even heightened pressure by the
+fact that Cook's term is not expected to
+end until 2038. And John, we did get a
+statement from the Federal Reserve
+earlier this week outlining that one of
+the reasons why Fed governors have such
+lengthy tenures is to uh basically
+insulate them from political pressures.
+The Fed also said that it will abide by
+any legal court decision. It's an a
+sentiment that was echoed by President
+Trump as well when Amory pressed him on
+it during a cabinet meeting earlier this
+week.
+&gt;&gt; Tyler Kendall with the latest. Tyler,
+thank you. To extend the conversation,
+joining us now, John Lieieber, managing
+director at the Eurasia Group. John,
+welcome to the program. What are you
+telling clients about how you think this
+ends down in Washington? What's the end
+of this look like?
+&gt;&gt; I mean, uh, like we just heard, the end
+of this comes with the Supreme Court
+case. And the Supreme Court has been
+fairly differential to the president in
+his exercise of executive authority, at
+least so far this year. And I don't
+really think this issue is going to be
+that different. So, I expect Cook will
+be removed by the courts. And I'm not a
+legal expert, so you should probably
+talk to folks who are, but I think she
+will be removed by the court. Trump will
+be able to put his people on the board.
+And what that means is that by the
+middle of next year, you'll have a
+majority of Trump appointees who are
+going to be much more susceptible to
+listening to what the president wants,
+uh, which is lower interest rates, uh,
+no matter what the facts say. So, I
+think that's where this is headed. This
+is about control of the Fed, and that's
+Trump's goal, and it looks like he has
+the tools in order to get there. Tobin
+Marcus had the same view when it comes
+to Supreme Court in the last hour. I
+just pushed back on this idea. The
+Supreme Court signal that they think
+that the Fed should be a shield, should
+not have this political pressure, saying
+it's quasi private entity. Why is that
+not going to be the take from the
+Supreme Court this time around?
+&gt;&gt; Right. So, the Fed said that in the
+context of Trump's ability to just kind
+of randomly fire people at the heads of
+agencies because he doesn't like them.
+But what's unique about this situation
+is that the statute, the Federal Reserve
+statute, the one that created the banks
+and created the board positions, says
+that the president has the ability to
+remove people from the board for cause.
+And that's why the pretext of Cook's
+mortgage allegations is important here
+because it's giving Trump cause to
+follow the statute and then remove her
+and then presumably other members of the
+board as he wants if he finds cause. I
+think that's going to be one of the
+important parts of the court's
+litigation here of litigation in the
+courts here is whether or not he has
+sufficient cause to remove her. And like
+I said, they've been so differential to
+the president. Why wouldn't they say
+that he's the one who gets to determine
+what cause is?
+&gt;&gt; This is going to be the final straw when
+it comes to this legal process. In just
+the next few weeks, do you think she's
+going to be able to stay at the Fed?
+Will she be at the September meeting
+when they decide on the next interest
+rate to cut?
+&gt;&gt; Yeah, that's a lot harder to say. I
+don't No, I mean this question of the
+injunction is important and you know the
+fed said they're going to follow
+whatever the courts say. So if the
+courts give an injunction and tell the
+that president that he can't remove her
+then I think that she'll probably stay
+in her seat. The fed will let her in.
+That could cause some controversy. But
+you know the White House has been
+differential to the legal process uh as
+they've done these expansions of
+executive authority. So it's just a
+question of whether or not the courts
+grant this injunction. If they do, she's
+on the board. If they don't, I imagine
+the Fed escorts her out of the building
+and tells her, you know, you've got to
+you got to fight this out in the courts
+and we'll see you once you get a
+decision.
+&gt;&gt; John, are you surprised that there
+hasn't been more of a discussion around
+why there is not an investigation that
+has been revealed about exactly what the
+allegations are? I mean, it feels a
+little bit frustrating to be speculating
+on something that seems to lack a lot of
+details. Well, I hate think that's one
+of the wilder parts of this story is
+that the whole allegation came out of
+the FHFA, which has no business randomly
+looking into the mortgages of high
+ranking federal officials. And it looks
+like that's what they're doing. So, I
+actually think that's probably an
+underrated piece of this is the
+weaponization of these federal agencies
+uh against people that the Trump
+administration doesn't like. I would
+have kind of thought this would come out
+of the IRS before it came out of the
+FHFA, but it came out of the FHFA. And
+and you know what's another interesting
+data point here is that she hasn't
+denied the directly denied the
+allegations against her. Um maybe she
+doesn't remember and has to look up the
+paperwork like she says or maybe she did
+it and it's actually a fairly common
+practice. I don't know but I think
+that's a uh interesting thread to pull
+on here.
+&gt;&gt; And as the story does progress and if
+there is going to be some sort of
+replacement on the Fed, we know there's
+going to be a new Fed chair. There's a
+question of what the role of Congress is
+going to be in terms of confirmation and
+how high the bar is for them for someone
+who is an independent thinker versus
+someone who wants to lower interest
+rates regardless of the economic
+backdrop. How much of a check do you
+think they'll be on that?
+&gt;&gt; Right now, I don't think there'll be a
+check at all. I mean, I think that
+they've basically rolled over for
+everything Trump's want Trump wants so
+far this year. They're appointing people
+to the uh judiciary to the um uh to law
+enforcement positions who are pretty
+unqualified. And I think that right now
+they're in a mood to give Trump what he
+wants. Now, this the Fed is a unique
+institution. And one of the reasons it's
+unique is because it affects a lot of
+people that fund campaigns. And so
+there's going to be a lot of um uh
+political donors that are in the ears of
+members of Congress over the next few
+months about the quality of Trump's
+replacements on the board. Um but and I
+think that could have some influence,
+but I'd be very surprised to see them
+stand up at this point and deny the
+president the ability to appoint the
+people that he wants. John, this
+morning, who is running the CDC given
+what took place overnight?
+&gt;&gt; Yeah, I have no idea. I mean, you look
+at these other removals that are
+happening at the CDC, uh, at the BLS,
+uh, you look at what's happening at the
+Defense Intelligence Agency, and it's
+clear that they are going to put Trump's
+people in place, and if you aren't on
+board with the Trump administration's
+agenda, you're going to be out. So, I
+don't know what's happening at the CDC.
+I think that's that'll be an important
+storyline to watch over the next few
+months.
+&gt;&gt; But this person was a Trump pick. No.
+So, what happens now? Is this going to
+be another legal battle that we're
+seeing take place as well, similar to
+Governor Cook?
+&gt;&gt; Well, what I saw last night from the
+press releases was that she hadn't been
+officially informed that she'd been
+removed from her job. I imagine the
+president has the ability to remove her
+if he wants or the secretary. That could
+just be a process thing and she just has
+to get the uh the letter in the mail
+that says she's gone. Um I don't she
+doesn't have the same protections as far
+as I know that a uh that the Fed the
+Federal uh the Federal Reserve does. Um
+I imagine if they want her gone, she's
+out.
+&gt;&gt; Hey John, appreciate your take as
+always, sir. Thank you. John Lieber
+there of Eurasia Group on the current
+situation down in Washington. As if the
+job of the Federal Reserve wasn't hard
+enough right now. They've got to
+confront some really conflicting data.
+This this morning, Dixs raising its
+outlook. Another retailer in America
+saying that things might get better
+going into year end. I think Victoria
+Secret doing the same thing too.
+&gt;&gt; We've seen that across the board. We saw
+TJ Maxx come out beating expectations.
+This is the reason why some people
+including what our conversation to start
+off the show is all about how earnings
+expectations have actually gone up for
+the Russell 2000. So, it's not just rate
+cuts. It's actually that things are
+getting better, which speaks to the big
+bull case that Stuart Kaiser was laying
+out that maybe there is sort of a soft
+patch rate cuts and then better data
+that already is in the pipeline with
+companies ready to spend.
+&gt;&gt; Is this really your tension right now?
+market pricing a cyclical upturn. Fed
+worried about a cyclical downturn.
+Christian Malardi was in that chair
+yesterday. Christian making the point
+that he thinks the real risk here is
+reaceleration just as the Federal
+Reserve is cutting interest rates.
+&gt;&gt; Yeah. And how much does this really feed
+into inflation? And I think that that's
+really the question. Is it re
+acceleration in an increase in
+productivity and hiring that all comes
+with this disinflationary tilt or do we
+see inflation pick up in a way that a
+lot of people were expecting on the
+heels of tariffs and some of the uh sort
+of disagregation of traditional supply
+chains?
+&gt;&gt; It's an interesting moment Q3 into Q4
+into year end 2025 and then 26 for the
+Federal Reserve once we get to May sort
+of in no man's land. Who knows what
+happens in 2026. Futures on the S&amp;P 500
+just a little negative this morning down
+by close to a tenth of 1%. Coming up on
+the program, we'll catch up with Gita
+Gopernath in her final interview as the
+IMF deputy managing director. Plus,
+we'll catch up with Danny with your
+morning movers. I mentioned Dick
+Sporting Goods. We'll also talk about
+Victoria Secret boosting its fullear
+outlook. That stock up in a pre-market
+by 8% from New York City. This is blimp.
+[Music]
+Some pretty decent reports from
+retailers so far this morning. We'll get
+to that in just a moment. Here's a
+snapshot of the price action. Equity
+futures on the S&amp;P just a touch negative
+down by not even a tenth of 1% on the
+S&amp;P 500. Outperformance again on the
+Russell. Small caps up by 0.4. Let's get
+you those movers, those single names.
+Your morning movers with Danny Ber. Hey
+Danny.
+&gt;&gt; Hey John. Yeah, for the most part they
+were positive. Let's start with maybe
+the uncertainty around Best Buy. When it
+first reported earnings, shares were
+down nearly 2%. Now it moves to
+unchanged. The nervousness is around
+what happens with the holiday period.
+They've raised prices. So this current
+quarter was pretty good. They beat on
+all the metrics, but they unch they did
+not change their outlook. So, do
+consumers finally start pushing back
+against higher prices? Again, this
+market trying to decide what to make of
+it. And then the shares go positive.
+Now, the the blatantly positive story
+starting with Victoria Secret shares up
+7 and a3%. They raised their outlook for
+the full year. And not just that, the
+CEO in the earnings release talking
+about how their margins have really
+started to strengthen that it's not just
+sales growth that they've been able to
+pull different levers to make sure that
+they're not impacted by higher prices.
+Then there's Dick Sporting Goods as
+well. Really clear demand for the
+products that they're selling. Even so,
+this one flipping too. Dicks initially
+raising their outlook for the entirety
+of the year. Initially shares rallied to
+a healthy amount. Those starting to come
+back too. Again, it's this question, do
+things remain sunny during the holiday
+period. They also have to incorporate
+Foot Locker. It doesn't seem like
+there's quite yet a clear plan for what
+they're going to do with that when the
+acquisition is complete. So, those
+shares now starting to slump. John,
+giving up earlier gains. Danny, thank
+you. Appreciate the update. More from
+Danny in the next hour. On a raise this
+morning, stocks shaking off an
+underwhelming forecast from Nvidia with
+the chip maker missing lofty
+expectations. Now, the CEO, Jensen Wang,
+saying it's a real possibility the
+company brings its advanced Blackwell
+chip to China. Elsewhere, the Mexican
+government planned to increase tariffs
+on China following pressure from
+President Donald Trump. The levies
+likely impacting cars, textiles, and
+plastics. Specific tariff rates are not
+yet clear, and the plan could change.
+And finally, the European Union
+considering secondary sanctions to stop
+other countries from helping Russia
+circumvent the block's existing
+sanctions. The EU foreign ministers are
+also weighing measures to target
+Moscow's oil, gas, and financial
+sectors. Remember when the Treasury
+Secretary told us that when they were
+talking about secondary sanctions or
+tariffs, he was sitting down with
+European leaders and it got really
+quiet. Everyone at that moment to his
+his words started looking at what kind
+of shoes they were wearing. Well, the
+Europeans are actually finally
+considering this. This potentially is
+what the United States is doing when it
+comes to basically India. We are going
+to put a penalty on you if you keep
+buying Russian oil and gas. the issue
+and you keep making the same point.
+Europe is still importing Russian energy
+at this moment.
+&gt;&gt; Some good developments though for the
+White House, those two stories. One to
+get Mexico on side. Mexico was heading
+in that direction anyway, I think. So,
+point one. Point two, just the idea that
+also the secondary sanction story goes
+along with the Mexicans doing that. I
+think those two things add up quite
+nicely. Get the Europeans on side,
+Mexico on side. That's what the White
+House wants to see.
+&gt;&gt; The White House is forcing trading
+partners to choose between it and China,
+it and Russia. And that is the reason
+why maybe and it relates to the idea of
+India trying to get closer to China
+because there has been the us or them
+mentality and you're seeing that in some
+of the sanctions plans elsewhere.
+&gt;&gt; Let's stay on the global economy. Gita
+Gopernath has been deputy managing
+director of the international monetary
+fund during one of the most
+transformative economic periods in
+modern history including the pandemic
+inflation shock and the push to
+delobalize after seven years at the IMF.
+She's stepping down tomorrow and joins
+us now for a final conversation. Gita,
+welcome back to Bloomberg Surveillance
+and thank you for sharing your time with
+us this morning. Let's start there.
+Let's look at your time at the
+International Monetary Fund. Just how
+much has changed over almost a decade?
+&gt;&gt; Hi and a pleasure to join you. Pretty
+much I think everything has changed. I
+started at the IMF in 2019 and that
+feels like that was the calm before the
+storm and you had the pandemic, you had
+war in Ukraine and now geocconomic
+fragmentation. I think the global
+economic order is transforming in ways
+we haven't seen in decades and it's
+still highly unclear where the global
+economy will settle. I think a second
+big difference between 2019 and now uh
+is on the fiscal front debt levels are
+incredibly high. they are ever
+increasing and while in the past you
+might have said so what markets will
+take it that's not the case anymore even
+in advanced economies you see that in
+France the UK and also in terms of long
+yields in the US and I say the third big
+change is on technology AI over the last
+few years has certainly caught the
+imagination of everybody huge promise
+but also huge risks how has the IMF's
+role changed during this period given
+that it was set up under a very
+different infrastructure at a time and a
+lot of people are saying we're now in
+the post Breton Bretton Woods era.
+&gt;&gt; The IMF has great experience dealing
+with turbulence. You know, there was a
+period when you had the end of Breton
+Woods going off the fixed exchange rate
+to the dollar and the dollar to gold.
+That change happened and the IMF adapted
+and we are obviously now in a world with
+big shifts in terms of how countries
+work with each other. The IMF has always
+functioned as trying to do the art of
+the possible which is do the best you
+can given the constraints and done it
+very successfully. So if ever there was
+a time for this institution,
+it's super important now. It has the
+ability to bring different countries
+together around the table, good
+discussions to happen on the in the
+economy, on the outlook. Again, very
+vital institution for the world.
+&gt;&gt; Do you see a risk that it doesn't
+survive though at a time when funding is
+uh really in question with a lot of
+major economies? We've seen China go it
+alone. There have been questions about
+the United States.
+Firstly, the IMF funding structure
+doesn't rely on any budgetary support
+from any country. So, it's in a very
+strong place uh because of that and
+everything we've seen so far points to
+all the members wanting the IMF to
+continue functioning as it has. We work
+very closely with the US administration
+that that engagement is going extremely
+well, but also the other 190 member
+countries that we have. So as of now
+lots of support of course the
+environment has changed and the IMF is
+going to adapt to it in this new
+geopolitical environment that we have
+but it has a lot of experience dealing
+with these kinds of events. One thing
+that you've done during your tenure at
+the IMF is really study the change in
+the geopolitical relationship. You've
+talked a lot about that including the
+reliance on the dollar and that's been a
+point of big speculation of late in
+markets as well. How much you actually
+seeing worldwide nations try to shift to
+alternatives from the green back? This
+idea of insulating themselves from some
+of the policy uncertainty that have made
+a lot of headlines this year.
+So we do see small shifts on the margin,
+right? We are seeing countries
+diversifying out of the US, but again on
+the margin because they were so exposed
+to the US, several of them are hedging
+against dollar risk. We're seeing some
+of that too. But I think the narrative
+that somehow something has dramatically
+changed about the behavior of the
+dollar, it's really too early. People
+point to the correlation between what's
+happening with long-term bond yields and
+the strength of the dollar and saying,
+"Well, that's changed and therefore
+something has changed dramatically."
+That's not the case. If you take a long
+enough period, the relationship between
+the dollar and borrowing costs is, you
+know, there's it can move in different
+ways. So there's nothing unprecedented.
+But of course, these are still early
+days. we shall see where all of this
+shifts in the global economic order are
+headed and I think that's the source of
+tremendous uncertainty that's still
+weighing on the world economy. How much
+has any perceived loss of Fed
+independence changed that? And and we've
+been talking about how there's this
+dissonance between the commentary by a
+lot of analysts and uh economists about
+the fear of some sort of loss of
+independence and then a lack of market
+reaction that you would kind of expect
+on the other side. Are you seeing any
+shifts that maybe are less visible?
+&gt;&gt; I think everybody agrees and this would
+be markets and e economic professionals,
+policy makers, everybody agrees that
+central bank independence is critical.
+Monetary policy independence is
+critical. So if we are not seeing much
+market reaction, it must be that people
+think that well that independence is
+still intact. that invent has been
+critical to bring down inflation from
+the high levels we saw post pandemic.
+Inflation expectations were anchored
+because of that inflation came down. So
+I don't think there's any ifs and buts
+about that. It must be that everybody
+still believes that independence
+especially operational independence in
+terms of setting monetary policy rates
+will be maintained.
+&gt;&gt; So you reject the idea that the market's
+just somehow ignoring a reality or
+something like that. You think the
+market's speaking and that we should
+listen to the market?
+No, I just think that everybody at this
+point is functioning uh under the fog of
+uncertainty. I mean, there's really a
+lot of information thrown out there
+uh separating the wheat from the shaft.
+It's not that easy. And so, I I think
+everybody is on wait and see mode. And
+right now at least, of course, I think
+that the markets are putting very very
+low probability on any big negative
+event that may be excessive. I think
+that there is more to worry about than
+what the markets are showing right now.
+U but again we should have to wait and
+see
+&gt;&gt; and ga let's put some of these things
+together if you look at developments in
+the UK in France the inability to
+address fiscal concerns and find that
+additional fiscal space the latest
+developments here in America as well are
+you witnessing do you think we're
+witnessing a convergence between the
+kind of dynamics we typically see in EM
+with DM and do you think those terms are
+useful anymore in quite the same way
+&gt;&gt; I think we have certainly moved away
+from the case of advanced economies,
+rich economies can keep increasing their
+debt, which is what's projected to
+happen. And there's not much to worry
+about. I think we're certainly past
+that. Major uh economies are beginning
+to worry about what's happening to their
+eels. You're seeing that it's a major
+concern in France right now uh as we
+speak. But even in the US, long-term
+yields are basically back to pregfc
+level. we are away from that world of
+big global savings gap away from that
+world of central banks buying large
+amounts of government assets. So I think
+it would be really uh you know
+complacent for any government rich or
+poor to say that well no our debt will
+always be bought. And I think one point
+I want to make is that we talk about
+resilience for the global economy and
+which has been really the you know the
+positive of these last many years
+despite all these shocks but we should
+recognize that the reason we've seen
+resilience is because we haven't had a
+financial crisis despite the pandemic
+despite wars despite geoeconomic
+fragmentation despite Fed rates going up
+very sharply we've not had a financial
+crisis that doesn't mean that that will
+never happen we have very high levels of
+debt around the world I think bond
+markets are are you know in a fragile
+place. You have valuations in equity
+markets that are skyhigh. So I would say
+tread carefully because if you do have a
+financial crisis we know those the
+scarring that comes from that is
+longlasting.
+&gt;&gt; And when you talk about a financial
+crisis some people were wondering what
+could potentially trigger it. Are you
+saying that the sovereign debt market of
+developed markets is of the greatest
+concern at this point?
+I mean, usually when you get a financial
+crisis, it's a combination of events
+that can trigger it, right? And so, if
+you have multiple markets that seem to
+be in a vulnerable position, you could
+end up with a negative event, right? And
+so the bond markets what you're seeing
+with very high levels of debt uh
+fragility associated with that equity
+valuations that are very high. Yes,
+there's a promise that maybe AI will
+truly transform the world but as we know
+from the dotcom bust even a technology
+like the internet that did transform the
+world went through a boom bust cycle. So
+that combination non-bank financial
+institutions
+they have we've never had a crisis. Well
+they've been as large as they are right
+now. the amount of corporate borrowing
+that's happening with NBFIS much higher
+than pre209.
+So there's a lot that looks stretched at
+this moment and at the same time I think
+the world economy is gambling with all
+kinds of new policies. So I would say
+tread carefully, make sure that
+financial supervision and regulation is
+continued. See what needs to be done
+with NBFIs. What's the appropriate level
+of supervision and regulation that's
+required over there? All of that is
+going to be very important.
+&gt;&gt; So you're leaving the IMF and you're
+going back to Harvard, a university that
+you've known uh very well. What are you
+going to be doing there? And how
+important is it for you to really get
+this sense back in the economics
+profession of pure research and uh true
+rigor versus some of the politicization
+that we've seen recently.
+So I think the reason that the economics
+profession has been able to contribute
+so well over these last few years is
+because in the face of unprecedented
+shocks, you really need to go back to
+some of your training to figure out how
+you going to respond to a pandemic that
+you haven't seen in a 100 years or war
+in Europe. Right? So having that base of
+knowledge is very important. But at the
+same time I think the economics
+profession has to recognize that there
+is something of a trust deficit
+especially with you know mainstream uh
+economists and how do we get over that
+there's broad consensus in the economics
+profession that open trade central bank
+independence super important those are
+the crown jewels for good economic
+policy and yet the policy direction is
+away from that so I think there is
+absolutely some bit of soulsearching
+some bit of stepping back and asking
+yourself how do to solve this trust
+deficit. How do you make sure this in
+this new world of communication that the
+good ideas still come through?
+&gt;&gt; Gita, you've always been generous with
+your time. We appreciate it and we wish
+you the best of luck. Thanks for sharing
+your time with us this morning. Thank
+you, Gita Gopanatha at the IMF. Your
+final point so important. How do we
+divorce partisan politics from policym?
+And the answer of course is with great
+difficulty. Well, and this is something
+that's been a perennial issue, but it's
+even more so at a time of increasing
+polarization because ultimately, can't
+you say that your vision for the economy
+is intimately tied to your vision for
+some sort of political system? I will
+just say that second-guessing oneself
+and sort of a rigorous debate is
+appropriate. And I think that the
+question is how do you get to that at a
+point when a lot of people don't seem to
+want that.
+&gt;&gt; If you are just tuning in, welcome to
+the program. Equities at all-time highs
+at a close yesterday. futures just a
+little bit softer with an update on news
+worldwide with your Bloomberg brief.
+Back with us here is Yahara. Hey yhara.
+&gt;&gt; Hi John. North Korean leader Kim Jong-un
+is visiting China for its military
+parade next Wednesday. Other world
+leaders including Russian President
+Vladimir Putin will also be in
+attendance. Kim's appearance will be his
+first overseas trip since his 2023 talks
+with Putin and is set to underscore the
+three leaders growing relationships.
+Meanwhile, shares of Dollar General are
+rising 6 and a half% in the pre-market
+after the discount retailer posted
+stronger than expected sales and raised
+its forecast. An increase in higher
+income shoppers looking for deals has
+helped Dollar General bring more traffic
+to its stores even at as its core
+customer base feels the squeeze. And
+there's been another major shakeup
+within the Trump administration. CDC
+director Susan Manarez was fired just
+weeks into her tenure. Her attorneys say
+health secretary Robert F. Kennedy Jr.
+targeted her because she refused to
+quote rubber stamp unscientific reckless
+directives. Dr. Bloomberg brief John
+&gt;&gt; Yhara. Thank you. Appreciate it. Up next
+on the program, bank stocks at all-time
+highs.
+&gt;&gt; We continue to like financials. you're
+going to continue to see at these levels
+of market um uh excitement and sentiment
+capital markets recovering.
+&gt;&gt; In just a moment, we'll catch up with
+Chris M of Ocean First Financial. That
+conversation up next
+[Music]
+equities on the S&amp;P 500 a little bit
+snoozy unchanged on the S&amp;P 500 this
+morning on the NASDAQ down about a tenth
+of 1% outwound the Russell up 0.4%. But
+check this out. Remember what we said
+about Walmart? Good news at Walmart,
+probably not good news for the broader
+economy. Some debate about that, but
+good news at Dollar General. That stock
+is up by 6.4% in the pre-market. What
+does that tell you about the broader
+economy?
+&gt;&gt; Yeah, alarms going off. Oh no, Dollar
+General, people are looking for
+discounts and trading to lowerc cost
+places. You're seeing this also from uh
+TJX and Raw Stores and all these
+discount stores. But maybe you're seeing
+it elsewhere, too. So maybe
+&gt;&gt; so much conflicting information, isn't
+it, Bremo? It's so confusing. I mean
+right now I can't tell you I've got
+answers which is the reason why I'm
+going to take tomorrow off.
+&gt;&gt; Likewise long weekend spend money help
+the economy
+&gt;&gt; bra. This is just the American way.
+&gt;&gt; Right there with you. Spend spend spend.
+Equity futures close to alltime highs
+under spenders this morning. Bank stocks
+at record highs.
+We continue to like financials. People
+have actually been better sellers of
+banks. So I would say positioning today
+is not really that full on the
+institutional front. you're going to
+continue to see at these levels of
+market um uh excitement and sentiment
+capital markets recovery. And lastly,
+deregulation, right? This is an area of
+the market that should benefit really
+well from deregulation tailwinds.
+&gt;&gt; So, here's the latest this morning. The
+KPW Bank index hitting fresh record
+highs. Chris Mah, the chairman and CEO
+of Ocean First Financial, writing, "A
+rate reduction in September may result
+in a slightly steeper yield curve, which
+will provide for margin expansion at
+most banks over time." Chris joins us
+now for more. Chris Kimmonic,
+&gt;&gt; great to be with you.
+&gt;&gt; Let's talk about your business and it's
+good to see you, sir. Mainly focused on
+the Northeast still all, right?
+&gt;&gt; That's right.
+&gt;&gt; How are corporate clients approaching
+this moment? You
+&gt;&gt; know, it's really interesting, John.
+Earlier in the year, we had that
+trepidation over what's happening with
+tariffs and people in uncertainty about
+tariffs and rates and and even the big
+beautiful bill which resolved some tax
+issues. Taxes were another big thing.
+That's all kind of fading. We have
+record pipelines. Customers are making
+investments. They're making commitments.
+We're seeing a lot um higher rate of
+velocity than we did earlier in the year
+which is which is nice to see.
+&gt;&gt; Can you describe the kind of industries
+the kind of businesses that you're
+talking to right now and in what ways
+they are re-engaging with the economy?
+&gt;&gt; Yeah. So we cover a very wide swath. So
+it's everything from shipping for
+example we have a great shortage of
+ships in the US especially Jones Act
+ships. Um it is everything around data
+centers which are not just chips right
+it's the data center it's concrete it's
+it's power generation it's all that
+housing is another big one. And then
+there's logistics around warehousing and
+manufacturing. So people are adjusting
+to the new kind of tariff regime and
+making investment decisions now that are
+long-term in nature.
+&gt;&gt; How much of it is dependent on the idea
+of lower rates going forward?
+&gt;&gt; You know, some of it is Lisa, but not as
+much as you'd think. Most commercial
+borrowing happens at the short end of
+the curve and whether it's a quarter
+point or a half a point off of that uh
+really wouldn't make a big difference in
+your investment decision. I think the
+bigger issues were tax policy, tariff
+policy, the kind of long-term things
+that will impact them.
+&gt;&gt; A lot of what you mentioned were
+industrial companies looking for
+industrial projects. I just wonder what
+about the consumerf facing companies,
+especially as we see lowcost uh
+retailers do better and some questions
+around some of the other retailers. Is
+there sort of a bifurcation between the
+consumerf facing and the industrial?
+&gt;&gt; That's right. And Lisa, as you point
+out, it's the low end in the consumer is
+a little bit more stressed than the high
+end. And we've seen over the last 5
+years, it's been an interesting trend.
+More and more of US spending is in
+higher income spenders. So although
+there is weakness on the low end, that's
+a smaller dollar fraction that it's
+historically been. So uh we really need
+to watch the high end. And if those
+numbers start to pull back, you could
+see, you know, real weakness in the
+economy.
+&gt;&gt; Are commercial clients out and hiring
+again, though? Well, you know, Emry,
+they're not hiring as much as as as you
+might like to see them hire. So, we're
+seeing hiring very slow. Uh we're not
+seeing layoffs. We're not seeing
+retrenchment. Uh we are starting to see
+some of that AI impact where people are
+saying, you know, I may not need to hire
+that incremental person. Let me just see
+if I can make it out. There's certain
+segments like call center that uh
+there's a that there's just a runoff and
+you know, the AI's got so good today
+that call centers are losing staff at a
+pretty astounding rate. This is the
+crazy thing and just to jump in, forgive
+me. The crazy thing that I see at the
+moment developing in this economy that
+we could see all this investment that's
+good for the GDP numbers but then bad
+for the labor market and this tension
+begin to build between what we
+traditionally would say is good growth
+GDPs up and a labor market that's just
+not hiring in the same way. How is the
+seauite going to navigate that moment?
+because at some point they have to sit
+there and think, well, someone's got to
+buy the product and if they don't have a
+job, what are they going to do?
+&gt;&gt; That's right. You have to be watching
+the data very closely. Uh the recent
+weakening in employment data is
+concerning. We're not seeing any of that
+in spending patterns. We're not seeing
+it in overdrafts. We're not seeing it in
+kind of a FICO drift or lay payments or
+anything like that. But that could turn
+very quickly and some of this data uh
+has the ability to be very volatile. So
+if it turns quickly, you don't have a
+lot of time to react to that. I get a
+sense from you the hiring freeze or the
+slowing to really go out into the market
+and hire is because of AI, not because
+of the uncertainty of what the policy
+was going to be from Washington,
+especially when it comes to tariff
+rates.
+&gt;&gt; Yeah, that's what we're seeing now. So
+earlier in the year, Enry, we saw that
+people were a little bit concerned about
+what might be coming out in terms of
+policy. That's kind of set aside now.
+Now, it's really just a question about
+do you believe you're going to need
+these people long term? Because hires
+are a long-term contract, right? It
+doesn't matter. It's hard to unwind them
+and and to get out.
+&gt;&gt; Chris, it's good to see you. It always
+is.
+&gt;&gt; Do you want to find a word on the Fed?
+You're feeling good about things, how
+things are developing down there.
+&gt;&gt; Well, you know what? I'm looking towards
+September. I think it's time for a rate
+cut and uh let's see. Let's see how that
+all works out.
+&gt;&gt; You thinking about 26? What does 26 look
+like? New Fed chair chosen by the
+president, confirmed by the Senate.
+&gt;&gt; One of one of the things I love about
+the Fed is that it is the only
+decentralized central bank in the world.
+And you know, we got 12 people on the
+FOMC. We got all these reserve banks. It
+is a big institution and uh I think
+it'll weather this.
+&gt;&gt; Chris, it's good to see you.
+&gt;&gt; Thanks, John.
+&gt;&gt; Thanks for catching up with us. Chris
+Mother of Ocean First Financial,
+diplomatic about the future of central
+bank independence down in Washington,
+DC.
+&gt;&gt; You said, "How does 2026 look?" And my
+mind just went wild. I mean, I'm
+thinking of all the potential
+possibilities and I think, you know,
+that's why people aren't really going
+there.
+&gt;&gt; I can't even get to 2026 still. I know
+the market is thinking about that re
+acceleration and growth and all those
+rate cuts, but
+&gt;&gt; I can't get to October. I mean, let's
+get through some of these next.
+&gt;&gt; I don't know what's happened since
+April.
+Where did that sign go?
+&gt;&gt; So, listen to us. It's
+&gt;&gt; like September next week. My goodness.
+Up next, Matt Stucky of Northwestern
+Mutual, John Vin of Key Bank, Nita
+Richardson of ADP, Jim Tney of Lance
+Bernstein. The third hour of Bloomberg
+Surveillance just around the corner.
+[Music]
+If I had to buy something, I would
+rather buy stocks rather than buy bonds.
+&gt;&gt; I think the investment for AI has to
+take place now.
+&gt;&gt; AI models are so powerful, driving so
+much demand that we do expect them to
+grow into next year.
+&gt;&gt; What you see going forward though from
+the four hyperscalers is clearly more
+spending.
+&gt;&gt; The AI race continues.
+&gt;&gt; This is Bloomberg surveillance with
+Jonathan Pharaoh. Lisa Abramowitz and
+Ann Marie Hordern
+&gt;&gt; live from New York City this morning.
+Good morning. Good morning. The third
+hour of Bloomberg surveillance starts
+right now. And your scores look like
+this. Starting with this name in the
+pre-market, Nvidia with an underwhelming
+forecast. That stock is down by just
+1.2% and the broader market is still
+positive on the S&amp;P 500 even if it's a
+bit softer on the NASDAQ. The Nasdaq 100
+down by not even a tenth of 1%. The
+outperformance is on a Russell up by 0.5
+as this market looks for rate cuts.
+Looking for rate cuts? Look for the
+data. 29 minutes away. Jobless claims at
+8:30 Eastern time. Then later, the
+chairman of the Federal Reserve. I'm
+joking. He might be. Governor Wallace
+speaks at 6 p.m. Eastern time.
+&gt;&gt; Yeah, you put those two ideas together.
+really jobless claims going to have new
+import as uh the Federal Reserve has
+talked about a softening in the labor
+market that has been actually more
+marketked recently that they're trying
+to address with rate cuts. Yes, Chris
+Waller has already been on the tape
+saying he wants a rate cut. He wanted
+one actually uh at the most recent Fed
+meeting. He will be cutting or he'll be
+voting to vote cut I'm sure in
+September. But what he says to how he
+messages his caution going forward about
+some sort of rate cutting path will
+actually be market moving because of
+what you just said because of the
+expectation that his voice carries a bit
+more clout.
+&gt;&gt; He's setting the tone for this committee
+right now. He's setting the tone for the
+chairman of the Federal Reserve. You
+said it Monday straight out of the gate.
+That speech on Friday from Chairman Pal
+in Jackson Hall, Wyoming sounded like a
+speech written by Governor Waller.
+&gt;&gt; It was like Governor Waller wrote the
+speech for J. Pal and said this is what
+you need to read in Jackson Hall.
+Because JP pal four weeks prior wasn't
+that worried about the labor market. He
+wasn't that concerned. He was still
+really concerned about potentially the
+tariff impacts. Not only did we learn
+that he has this bias at this moment
+with this concerned labor market, but
+also when it comes to tariffs, it's
+going to be staggered in terms of when
+the impact might hit. So basically
+giving the market investors a chance to
+just ignore it. That CPI prints we might
+get hot, not hot, look through them.
+Everyone on that committee right now
+believes that we are restrictive. So
+this move in September in many ways is
+actually quite easy. Drop 25 basis
+points. It gets harder and harder over
+time because other people will start to
+say actually I don't think we are
+sufficiently restrictive anymore. That's
+when the push back begins. So it's
+September easy. From there it gets
+harder into 26 and then you've got the
+change in May. So there's like three
+different periods here. You've got the
+September decision. You've got the call
+between September and May. And then
+you've got life after chairman pal. Life
+after Chairman Pal could look very
+different.
+&gt;&gt; Yeah. Big question mark I think for a
+lot of people especially because we
+don't know who is going to put in
+hisstead. You talk about a phrase that
+you hate. So I'm going to repeat it.
+Adnauseium hawkish cut. And are we going
+to see some sort of signaling going
+forward that this is going to be not
+necessarily one and done but one and
+then just another one and then just sort
+of wait and see. That's the key question
+for anyone who replaces Fed Chair Jay
+Powell. What is the reaction function if
+the inflation data comes in hotter? Do
+they stop cutting? Are they prepared to
+hike rates or are they prepared to look
+through that and maybe look to yield
+curve control or beyond? That's when the
+market might start to wake up and this
+is the changes potentially we can expect
+with monetary policy. We don't even know
+if Chair Powell though will stick around
+and basically hover around the Fed and
+keep his seat as a governor. All of this
+is also taking place while the president
+is ousting a governor that as soon as
+today we can get this injunction. We
+don't even know if she's going to be
+there in September to vote. So, even
+though we're talking about changes in
+monetary policy, tremendous amount of
+changes when it comes to personnel.
+&gt;&gt; If you are just joining us, welcome to
+the program. Coming into Thursday,
+record highs on the S&amp;P 500. Futures
+this morning almost totally unchanged.
+Coming up this hour, we'll catch up with
+Matt Stucky of Northwestern Mutual as
+markets try to shake off Nvidia
+earnings. John Vin of Key Bank Capital
+Markets after raising his outlook on the
+tech giant and Nita Richardson of ADP as
+we break down the latest jobs data at
+8:30 Eastern time. We begin this hour
+with stock steady despite Nvidia shares
+slipping post earnings. Matt Stoki, the
+chief portfolio manager at Northwestern
+Mutual, writes the following. Weakness
+in the near-term reaction is likely to
+be short-lived or shortlived as they
+might say over at the Federal Reserve.
+Have we cleared that up yet?
+&gt;&gt; Well, look, shortived. When you say
+shortlived, I think that the correct
+academic interpretation is short-lived.
+Okay,
+&gt;&gt; which takes out a new connotation saying
+I am an economist.
+&gt;&gt; Forgive me for totally derailing this.
+Let me start this again. Matt Suki, the
+chief portfolio manager at Northwestern
+Mutual, writes the following. Weakness
+in the near-term reaction is likely to
+be shortlived and more likely a function
+of elevated expectations of bullish
+positioning heading into the print.
+Okay, Matt, welcome to the program, sir.
+Why do you think the market is shaking
+this off? Why is there some comfort with
+that deceleration?
+&gt;&gt; Well, I think um as you're looking at
+the quarter was right down the middle of
+the fairway u controlling what they
+control outside of, you know, the H20
+revenue with China. I think the bigger
+picture to me I think is you look at
+just the revisions higher uh in terms of
+what the addressable market for for
+Nvidia has been specifically I'm talking
+about what hyperscalers are expected to
+spend in 2026 just in the second quarter
+alone those expectations have have risen
+by another 19% on top of the 20% that we
+saw in Q1 and so what we're seeing here
+is just a continued rise in terms of the
+demand profile for Nvidia and so it
+comes down to are they are they able to
+continue to build enough supply to to
+meet demand. Um, and so a little bit of
+an inline inline guidance to inline uh
+prints as it relates to kind of more the
+buy side of expectations to to me is is
+just a a signal that um you know, Nvidia
+continues to execute well in this
+market.
+&gt;&gt; So Matt, you still see this as a supply
+constrained story potentially and not
+necessarily a story of weaker demand in
+the future?
+&gt;&gt; I do. Um, I I think if you kind of go
+around and listen to conference calls,
+listen to what leaders in AI are are
+talking about, everyone's still talking
+about how they're short compute
+capacity, how they could continue to
+grow if they had more Nvidia chips to to
+utilize in terms of their data centers.
+Uh, and we expect that to continue to be
+the case at least with the next few
+quarters. Is it one or the other in
+terms of an investment strategy that
+you're either all in on big tech or
+you're all in on small caps or and I'm
+saying allin a little bit tongue and
+cheek this idea that you're either
+overweight uh big tech or you're bullish
+on small caps and you got to pick one or
+the other.
+&gt;&gt; I'm not sure why you can't have both. Uh
+to to hedge out a couple of different
+outcomes as it relates to the economy.
+Um, you know, one thing that we know in
+terms of kind of how small caps can
+perform is, you know, the the increase
+in expectations that the Federal Reserve
+will start to um ease policy again is
+good for small caps. I think having some
+exposure there makes a lot of sense.
+However, we are a little bit later in an
+economic cycle. And if you're looking
+for companies that are higher quality in
+terms of their their margin structure,
+their balance sheet health, as well as
+their perceived kind of more
+insensitivity to the es and flows of the
+economy, it's in mega cap tech. And so,
+you can hedge both sides of that
+distribution a little bit just in terms
+of how stylistically you're building
+your equity exposure. It's really
+interesting that you point that out,
+Matt, because we've been discussing that
+all morning, the sort of uh
+contradiction in the expectation for
+rate cuts and the expectation for
+ongoing resilience. Is that the way that
+you're squaring that circle? The idea
+that there is probably a bit of truth to
+both. You're not sure which one is going
+to rule out. It's just going to hedge at
+this point.
+&gt;&gt; I think it's a reflection of, you know,
+the the tales of the distribution, I
+think, are a little bit fatter than
+maybe what consensus is is discussing
+here. Um, you know, we we are still kind
+of working through, you know, the the
+the rise in in tariff levels and and if
+you're looking at kind of where tariff
+levels sit today, they're not fully
+reflected yet in terms of kind of what
+is stated on paper versus what actually
+is being charged at the ports yet. And
+so, as inventories are replenished, we
+don't know the ultimate economic outcome
+of that. Additionally, you know, the
+state of the labor market, you know,
+might firm up, it might not. Um, and so
+having diversification to different
+different styles of what uh what could
+potentially perform well in a variety of
+economic backdrops, I think makes sense
+if you're an investor here.
+&gt;&gt; Speaking of tariffs, and John's been
+bringing this point up all week, we
+could potentially get the AIPA court
+decision. What do you think could happen
+to equities if that's struck down? What
+the president is doing in terms of using
+AIPA to set tariff rates?
+&gt;&gt; Well, markets tend to dislike
+uncertainty in any form. Um I think if
+you know the ruling comes back that you
+know this is this is you know something
+that's going to be uh discontinued on a
+go forward basis there's still other
+avenues for tariffs to come back into
+the foray and I think that's probably
+where markets will ultimately land in
+terms of um you know just the ongoing
+expectation that tariffs in some form
+either through the or through another
+kind of function are going to be higher
+than where we started this year. uh
+maybe not all the way up to to 18 19%.
+But you know, still quite a bit elevated
+versus the 2% plus that we were to start
+2025.
+&gt;&gt; When it comes to trade policy, China is
+of course still in negotiations with the
+United States. One of the biggest chips
+the US is using is chips, Nvidia. Can we
+just go back to that? How are you
+actually thinking about what Nvidia
+might be able to sell at some point into
+Beijing? Does it concern you that some
+of those profits they're going to have
+to somehow get back to the US government
+to bring down the deficit according to
+the Treasury Secretary?
+&gt;&gt; Yeah, I mean I I I think if you're an
+investor in the video here, you kind of
+think about it as, you know, upside
+potential versus kind of base case part
+of the story. Um, you know, in in terms
+of what Jensen was talking about on the
+call yesterday, they they view it as a
+$50 billion revenue opportunity growing
+50% per year. So it's a very large
+market and so the ability to penetrate
+just a fraction of that uh is upside in
+my mind as it relates to Nvidia and just
+to put a little firepoint on that you
+know Nvidia got into 54 billion of of of
+revenue in the third quarter uh with the
+potential for another 5 billion plus of
+of H20 revenue if they can start to get
+some of these issues resolved in terms
+of the ability to place product into
+that market.
+&gt;&gt; Matt Stucky appreciate catching up with
+you Matt Stucky there of Northwestern
+Mutual Wealth Management. Nvidia still
+recovering down by only 1% at the
+moment. Futures on the S&amp;P just about
+green. Dan Abbush on the program earlier
+said we're going to finish green I think
+on Nvidia by the end of today
+&gt;&gt; based on the where it was uh last night
+after earnings in uh after hours. I will
+just say this is basically green. I mean
+can we just say that right now down 1%
+is basically green after 35% gain so
+far. Well, it's you know changing to
+green.
+&gt;&gt; Okay, I can go with that if you want. I
+mean just is that what you want me to
+do? No, I actually just think it's
+really remarkable how far this stock has
+come, how high expectations were, and
+the fact that we're seeing such a muted
+reaction is considered a win and
+certainly something that people are
+taking and saying this isn't something
+to spook you
+&gt;&gt; because inline typically would be
+considered a massive miss over Nvidia.
+&gt;&gt; Well, especially given the fact that
+expectations are so high and people
+always look for massive beats. The fact
+that they shrug this off indicates
+people are somewhat comfortable.
+&gt;&gt; Stock is down by 1% in the pre-market.
+I'm with you. We're on the same page.
+It's basically green.
+&gt;&gt; Futures basically green. Unchanged but
+basically green. Let's give you an
+update on stories elsewhere this morning
+with your Bloomberg brief. Here's
+Yahara. Hey yhara.
+&gt;&gt; Hi John. As you all said, Nvidia
+trimming its losses. Shares are down
+just 1% in the pre-market. Now the
+chipmaker gave a tepid revenue forecast
+for the current period signaling that
+growth is decelerating after a
+staggering 2-year boom in a AI spending.
+Nvidia says it expects sales to be
+roughly $54 billion in the third quarter
+in line with the average estimate on
+Wall Street. Meanwhile, the Mexican
+government is planning to increase
+tariffs on China fulfilling a
+long-standing demand from President
+Trump. Sources telling us here at
+Bloomberg the tariff hikes are expected
+for imports including cars and textiles
+as Mexico aims to shelter domestic
+manufacturers from subsidized Chinese
+competition. And in sports, the fourth
+day of the US Open wrapping up yesterday
+with Arena Sabalanka, Ben Shelton, and
+Carlos Alcarez all cruising into the
+third round in straight sets. While
+Novak Djokovic battled back to win in
+fourth later today, there will be some
+more big names on the court including
+Yanik Center, Koko Golf, and Naomi
+Osaka. That's your Bloomberg brief. John
+&gt;&gt; Yhara, thank you. More from Yhierra
+later this hour. Up next on the program,
+the morning calls as analysts are
+staying bullish on Nvidia. Plus, John
+Vin of Key Bank Capital after raising
+his outlook on the tech giant from New
+York City. You're watching Bloomberg TV.
+[Music]
+The godfather of AI, Jensen, Nvidia,
+continue to dominate this. And I think
+this is just a further validation. Tech
+stocks go higher. The boom's just
+starting. I mean, if you look at these
+numbers, especially when you factor in
+what China is going to be, I mean, you
+know, Jensen talked about 50 billion,
+50% type growth number. This just shows
+the next stage of adoption is actually
+just starting. I think, look, I think
+this stock is green today.
+Not far off this morning. That was Dan
+Ies of Wed Bush there on Nvidia. Guess
+what, Dan? Still bullish. The broader
+market equity futures on the S&amp;P 500.
+Just about unchanged. Brammo calls this
+green
+&gt;&gt; on the NASDAQ 100.
+&gt;&gt; Overweight.
+&gt;&gt; Negative by a tenth of 1%.
+Outperformance on a Russell. There's
+some green.
+&gt;&gt; Thank you.
+&gt;&gt; Up by a third of 1% so far this morning.
+That's the price action. Let's get you
+some morning calls with one stock in
+focus, Nvidia. First up, JP Morgan
+raising its price target on the stock
+from 170 to 215, noting multiple levers
+at play to drive upside. Your second
+call from Truist raising its price
+target on the stock to 228, focusing on
+the company's resilient long-term
+outlook. And your third and final call
+from City, raising its price target on
+Nvidia to 210, citing continued data
+center sales upside with or without
+China. Staying with the stock, CEO
+Jensen Wang telling investors that
+opportunities in AI are quote immense
+even after the company forecast
+decelerating growth. Mandep Singh of
+Bloomberg Intelligence joins us now for
+more. Mandep, good morning.
+&gt;&gt; Morning.
+&gt;&gt; Do we need China? Do we need China?
+Based on some of the commentary, maybe
+we don't.
+&gt;&gt; And actually he gave one uh anecdote
+yesterday on hypers scale the four
+hypers scale capex combined capex going
+to $600 billion per year. So right now
+based on our calculations we are close
+to $400 billion dollars uh per year from
+the four uh US hyperscalers. He said
+it's going to 600 billion 50% growth and
+it's going to sustain. So uh think of
+you know Nvidia's exposure to the
+hyperscalers. The top two hyperscalers
+for them are Microsoft and Meta. They
+make up almost 40% of uh the revenue uh
+Nvidia's revenue. and he's saying that's
+going to grow 50%. So to my mind, this
+is like suggesting Microsoft's capex is
+going to grow at least 50% next year. So
+will Meta, Amazon and Alphabet are
+smaller customers for uh Nvidia, but
+clearly this is big. I mean, if he's
+suggesting Capex is going to grow 50%.
+It's going to have a lot of
+repercussions for the rest of the
+market.
+&gt;&gt; I'm old enough to remember when people
+cared about concentration risk, the idea
+that the entire Nvidia revenue depended
+on the hyperscalers. Is that no longer a
+concern? it sort of doesn't need China
+just as long as Microsoft and Google
+keep spending so much
+&gt;&gt; better and and so just the two of them
+in fact you know the four hyperscalers I
+said 600 billion just the two of them
+and by that math actually that 40% will
+be a higher number because Google has
+their own TPUs Amazon has their own
+chips they're investing in so to my mind
+the concentration will even increase
+further and so we talk about pull
+forward all day long to my mind this is
+the one risk the biggest risk everything
+else looked great the commentary was
+great there are a lot of use cases but
+then when two of your customers make up
+you know such a big portion of your
+revenue you have to ask yourself what if
+meta decides to go with its own chips or
+Microsoft what risk is
+&gt;&gt; there I mean let's talk about next year
+what if Mark Zuckerberg suddenly decides
+it's the year of discipline you know
+what is the risk of that happening in
+&gt;&gt; and look if meta's capex is going up 50%
+I bet you it's going to be a drag on a
+Meta stock. Nobody is factoring in. Yes,
+they guided to over 100 billion but
+nobody is factoring in 50% capex
+increase for Meta and Microsoft. So this
+clearly was news to me last night and
+there's no doubt that they're executing
+very well. Exchina
+&gt;&gt; Mandy stay close. I want to bring in
+John Vin the equity research analyst at
+Key Bank Capital Markets. He raised this
+price target on Nvidia to 230 from 215
+and keeps an overweight rating on the
+stock. John joins us now. John, welcome
+to the program. Let's just start on
+China. You heard what Mandep had to say
+just moments ago. Do you think we are
+overstating the importance of the story
+in China?
+&gt;&gt; No, I don't think we we are you know um
+you know China I think in terms of the
+outcome and the outlook last night there
+was a little bit of consternation where
+they guide with China without China.
+Obviously we felt they were going to
+exclude it just given the crossurrens
+that are going down there. So I think
+the the best possible outcome occurred
+last night where they guided to a clean
+name number excluding China which could
+be another two to five billion dollars
+in revenues and numbers are still going
+up. So I think longer term um China is
+an important part of the the AI pie for
+Nvidia but I think near to medium term
+you know the setup looks very clean
+because potentially it could be a source
+of upside in in the October quarter.
+John, I'm sure you were listening to
+what Mandep had to say, and I'm still
+just thinking about, okay, maybe China
+doesn't matter as much, at least uh for
+future growth, but that means that some
+of these hyperscalers matter all the
+more and this dependence on Mark
+Zuckerberg's uh wallet is is concerning
+for some people. Is that concerning for
+you?
+&gt;&gt; Um not in the longer term. You know,
+certainly could there be a hiccup where
+um as you had stated, maybe there could
+be a moment of discipline in the near to
+medium-term. Maybe he tightens up his
+capex budget for next year. But the AI
+capex spending is driving an
+acceleration and growth for these major
+hyperscalers and they're in an arms race
+right now and they know that if they let
+up um you know that could be a risk to
+their long-term business model. There
+was a a time when people were talking
+about the need for broadening out for
+other companies outside of the
+hyperscalers, outside of the tech space
+entirely to adopt uh artificial
+intelligence and really gravitate
+towards some of Nvidia's products. Are
+you saying that we don't need to see
+that that ultimately the hyperscalers
+will be the intermediaries for Nvidia
+will be the providers of cloud and some
+of these systems and that we won't see a
+broadening out in terms of clientele for
+Nvidia?
+No. Um I do think that you do need some
+longerterm diversifications and I think
+you do need some other drivers of AI
+capex growth, right? The next potential
+legs are going to be sovereign, right?
+You know, other countries looking at
+their AI strategies. It's kind of a
+small but fastly growing number. And
+then enterprises, right? you know, we're
+enterprises right now are in kind of a
+tough environment, but I think every
+single major enterprise uh in the world
+and Fortune 500 company is is evaluating
+and trying to figure out what their AI
+strategy is. And uh and then lastly, you
+know, the other emerging driver of
+growth is potentially robotics, right?
+Just with the labor shortages globally,
+um we think these are also uh going to
+be emerging as diversifying drivers of
+growth for Nvidia.
+&gt;&gt; Well, you mentioned sovereigns. I
+remember when Jensen Wang was in the
+Gulf alongside the president, very
+excited about getting into that market.
+What's the latest on that story besides
+just the show of force he had with the
+administration?
+&gt;&gt; I think the administration is still
+trying to figure out exactly what their
+sovereign strategy is, right? Obviously,
+you know, we we showed what our, you
+know, cards were in respect to China. I
+don't know if that's the right strategy.
+I think the right strategy for countries
+like China and the rest of the world is
+you want them to use our technology. You
+want the US AI platform to be the
+platform of choice because if you take
+the policy of just restricting uh
+exports to to countries that you're
+concerned about, you know, competitive
+risk, uh these countries are ultimately
+going to figure out their own strategy
+or rely on other sources of of supply
+potentially from our competitors. Given
+that thinking, do you think this
+government will allow the higherend
+chips to go to Beijing?
+&gt;&gt; Not in the near term. Right. I think
+it's pretty clear where we're drawing
+the line. We're drawing the line at
+H20s. Uh we believe that Nvidia is also
+developing on working on another
+compliance skew that doesn't use high
+bandwidth memory. So I think in the in
+the near term, uh I don't think we're
+going to allow higher performance GPUs
+to China.
+&gt;&gt; John, appreciate your time. Thanks for
+breaking it down. jump in there of key
+bank the latest on Nvidia that stock is
+negative by about 1% so far this morning
+mandep I just want to finish with you on
+China and this revenue share with the
+white house I guess what you say when
+the cameras are rolling in the white
+house is different to what you say on an
+earnings call because I didn't get a
+clear read on what's happening with that
+revenue whatsoever yesterday did you did
+not look uh they're saying the
+administration will have to give a clear
+directive in terms of what they are
+allowed to sell and also the revenue
+sharing the 15%. So from that
+perspective look the guide is obviously
+exchina and they are doing very well
+when it comes to managing expectations
+but there is no doubt when you look at
+the large language model companies if
+your customers are able to train your
+models on someone else's chip why would
+they come back to Nvidia and the you
+know the delay that's going on 2 3/4
+delay those companies are not stopping
+their training process or their
+inferencing process they have to find
+compute and so I'm curious curious to
+know how are the Chinese large language
+model companies right now managing their
+compute what what sort of chips are they
+leaning in on and uh to my mind the more
+the delay it'll be harder for Nvidia to
+capture that
+&gt;&gt; we've introduced a lot of political risk
+into this name this year alone
+&gt;&gt; yeah and this is really the reason why
+you heard Jensen Wang say we just have
+to keep advocating that the sensible the
+sensibility of and the importance of
+American tech companies to be able to
+lead and win the race they're making a
+very political argument What did uh what
+did we hear from Dan Ives? 10%
+politician and 90% CEO seems to be what
+we uh are witnessing here too.
+&gt;&gt; Feels that way big time. Maybe the other
+way around.
+I think it's the other way around.
+&gt;&gt; 90% politician at the moment.
+&gt;&gt; Up next on the program, we've got some
+economic data for you. City saying this
+payroll growth averaging just 35k a
+month will keep Fed officials focused on
+downside risk to employment, continuing
+jobless claims in focus. Nita Richardson
+of ADP on the other side.
+[Music]
+Definitely about 60 minutes away. The
+data is about 25 seconds away. So, let's
+focus on the data and start with the
+scores. Equity futures on the S&amp;P 500
+negative by not even a tenth of 1% down
+about a tenth on the NASDAQ 100 positive
+on the Russell up a third of 1% on the
+small caps getting very excited about
+rate cuts in our future that's going to
+depend on the economic data ahead of the
+data bond yields are a little bit lower
+at the long end down by two basis points
+490 on 30s and yields are higher at the
+front end by two basis points to about
+363 let's get you that economic data
+let's cross over to Mike McKe good
+morning
+Good morning, John. We're waiting for
+the jobless claims numbers to do drop.
+So, I'll tell you that GDP in the first
+revision rises to 3.3%
+from the prior forecast of uh prior
+number of 3%. Now, here are claims 229
+significantly lower than last week's 234
+and uh below the 230 that was forecast,
+although that's pretty close. 1,954,000
+continuing claims up from uh or down a
+little bit actually from 1,961.
+Uh the previous number was 1,972.
+So a little bit of a pullback there in
+the number of people who hadn't gotten
+jobs. So jobless claims, labor market
+looks status quo at the present time.
+Going back to GDP, at this point, what
+we're looking at is a 1.6% 6% increase
+in personal consumption uh consumer
+spending. That's up from 1.4% in the
+initial report. Uh the price index is on
+a quarterly basis unchanged uh 2.5%
+on a core basis and 2% on a
+year-over-year basis. I'll look uh
+deeper into these numbers while you tell
+us if anybody is paying attention on
+Wall Street.
+&gt;&gt; Mike, thank you sir. No shocker here. No
+drama. So claims look rock solid and in
+the bond market yields are a little bit
+higher at the front end of the curve and
+in the FX market the dollars just a
+little bit stronger to discuss the
+numbers and then we'll come back to Mike
+McKe and get some details in just a
+moment. We'd like to bring in Nita
+Richardson the chief economist over at
+ADP. Nita, good morning.
+&gt;&gt; Good morning.
+&gt;&gt; If you took some time off, not that you
+ever do, but if you did and you didn't
+know any of the economic data and I just
+showed you jobless claims, would you
+have a decent read on the labor market
+right now?
+&gt;&gt; Yes, I would think it was pretty strong.
+But if I unpacked it a little bit, and I
+haven't taken a lot of time off
+actually, so I've been unpacking quite a
+bit. I I actually identify four
+crosswalks between macro trends that are
+big in the making and also the very
+granular real-time data that we're
+seeing. Then the first one is the
+consumer um that consumer spending,
+which you're seeing picked up in the GDP
+numbers, has been a resilient driver of
+the labor market as well. where you see
+strength in the consumer, you're seeing
+strength in the jobs market, namely
+leisure and hospitality, and there's
+some trade and transportation that has
+been strong. But then you see this other
+macro theme of uncertainty, and I think
+that's depressing some job gains in
+professional services. So there's a lot
+going on between the big picture macro
+trends and the smaller granular realtime
+hiring that businesses are doing right
+now. How much is there stealth firing or
+sort of attrition plans that are in
+place that don't make it some of the
+overall numbers as necessarily job
+losses in the traditional way?
+&gt;&gt; You know, this is a super and I'm glad
+you asked me this question because it's
+a super complex question. Um because
+what we're seeing on the part of the
+employer may not be demand driven. First
+of all, we had this great big res uh
+great uh resignation in 2022 and young
+people are supposed to turn over.
+They're supposed to leave these jobs.
+They're staying put. And so there's a
+little bit less hiring because people
+are staying put. And then you have the
+effect of AI. There's been new research
+from Stanford that was out using uh ADP
+data. It was a paper was released
+yesterday saying that in AI exposed
+fields like software developers or
+customer service reps you are seeing an
+impact in early career. So you can't
+look at the macro. You have to dig
+beneath the surface to see all the
+things that are different about this
+labor market making it very challenging
+to predict its next moves. But do you
+get a sense uh of whether it is
+weakening in a way that would justify
+some sort of Fed move or that would
+require some sort of policy adjustment
+or is it just transforming? Is it just a
+structural shift that has nothing to do
+with policy? Frankly, it has to do
+everything with technology.
+&gt;&gt; Yes. And yes, and that's what makes it
+so hard. Yes, it is weakening. We are
+seeing a slowdown in hiring momentum.
+It's a slowdown from the beginning of
+the year. It's a slowdown from last
+year. Some of that is the what uh chair
+pal said in his speech that we're seeing
+lower supply, lower demand, but still
+some equilibrium that gives us a pretty
+good unemployment rate. But yes, it is
+structural. We're seeing uh aging
+demographics really cut into labor and
+these nent technologies affecting early
+career in real time. So yes and yes,
+it's both. And that's why you can't
+predict it. You're going to see
+companies be hesitant and slow down.
+They're hiring because of macro trends
+that have nothing to do with their
+customer base and then they're going to
+become back in the market and hire when
+they need to. And so we won't know if a
+a one-mon slowdown is indicative of a
+really uh weakening labor market or just
+some hesitancy. So we have to look at a
+couple more months to get that trend
+right.
+&gt;&gt; The Ocean First Financial CEO was just
+on. He was saying with his commercial
+clients, they're not hiring as much
+because of AI. You were at Jackson Hole.
+The theme was labor in transition. Yet
+you said no one presented a paper on
+artificial intelligence. Is the Fed too
+late to really understanding what's
+going on?
+&gt;&gt; You know, so new and it's a great
+question. These themes, these papers in
+in general, I mean, economists have a
+lot of good attributes. Being on track
+all the time in the micro data is not
+always one of them. So some of them I
+know it's a big reveal, but so these
+papers were really important. They had
+big themes like fertility and population
+growth and mobility.
+&gt;&gt; But what's happening right in front of
+them right now?
+&gt;&gt; But AI is harder because you have to
+have granular data. And that's why this
+paper that I mentioned from Stanford
+looking at ADP's millions of job titles.
+You actually see the effect AI is
+happening. So for employers there are
+some big investments in AI. Some of that
+investment will augment career. So for
+later career more tenured workers AI is
+seen to boost productivity and those
+investments are being made by companies
+but for jobs that are easily automated
+you might see uh a transition of those
+workers and you're already seeing that
+transition happening. I think it's going
+to be short-term. I think labor shifts
+to where the puck is heading when it
+comes to productivity. But we're in the
+midst of that transformation right now
+and yes it's not really being picked up
+in economic models. If you are just
+tuning in again, welcome to the program.
+Just moments ago, some economic data on
+GDP and on jobless claims. Mike McKe
+standing by who has a little bit more.
+Mike, you've had a second look. What do
+you see?
+&gt;&gt; Well, we can see what's under the hood
+here. And the basic reason we saw a rise
+in GDP in the first revision for the
+second quarter is personal consumption
+rose to 1.6% from 1.4% and business
+investment significantly increased.
+Non-residential fixed investment up
+5.7%. It was 1.9% in the original print.
+Exports were down 1.3% a little bit less
+than they were in the initial print and
+imports were down 29.8% basically
+unchanged in terms of overall trade
+numbers. But we did see that shift from
+the first quarter to second quarter
+where imports were huge in the first
+quarter and dropped off negative
+actually uh in the second quarter. And
+then finally, we had na the federal
+government down four spending down 4.7%
+and non-defense spending down 12.5%. So
+a big drop there in what the government
+was spending. And the bottom line, and
+Nila will appreciate this, I guess, as
+one of those economists who looks at the
+micro and macro numbers, is that real
+final sales uh to domestic purchasers
+were up 1.6%
+uh over 1.1% in the first initial print.
+Overall, real final sales 6.8%
+from 6.3%.
+So, we have a little bit stronger GDP
+than we thought we had in the second
+quarter. Of course, now it's all about
+quarter three. Mike McKe, just before
+you go, it feels like in April there was
+some paralysis in the economy. A lot of
+people held back trying to work out what
+was happening with policy. Are you
+getting a read, a clean read on anything
+to do with just things bouncing back
+that maybe we will see that
+reaceleration as the year progresses and
+people re-engage with the economy? I
+think we're too far away from the second
+quarter numbers to say that they have
+this revision has much bearing on what's
+going to happen. The good news was that
+businesses were spending in the second
+quarter and that's been what everybody's
+watching. Were they going to hold off or
+not? Consumer spending continues at a
+slower pace than it had, but they're
+still hanging in there. So where do we
+go from here? Everybody's been waiting
+to see what effect the tariffs would
+have and this is about the time when
+we're going to start seeing that.
+&gt;&gt; Mike McKe, appreciate it, Mike. Thank
+you, sir, as always. Mike, on the data
+there, Nila's still with us. Nila, we
+wanted a word from you on the Federal
+Reserve. September in some ways feels
+like an easy call now. They're going to
+cut rates. How would you set things up
+for people for September and beyond into
+26 of the Federal Reserve? I think it's
+really helpful to look at how the Fed
+has moved uh historically, which is in
+small bites moderated over a long time
+frame. Um that may not be the way that
+they can act now because there's so many
+moving parts of this economy. Whether
+you think that tariffs are a one-time
+price increase or have ripple effects,
+um the the fact is the the lags between
+monetary policy and the lags between
+what's going on in the economy, they
+might miss each other. And so I expect
+um a Fed that will be constantly data
+driven and may have to pause to
+recalibrate where the economy is moving.
+I don't think it's going to be clear to
+them even when they start acting. And
+this is something we were talking about
+earlier on this morning that after
+September, what was the phrase? Our
+favorite phrase,
+&gt;&gt; hawkish cut.
+&gt;&gt; Hawkish cut.
+&gt;&gt; Yep. That's exactly what people are
+expecting.
+&gt;&gt; Many people believe that you get that
+first cut and it's the start of
+something deeper. Other people believe
+that in September they might cut
+interest rates, but then open the door
+to a much more nuanced conversation
+about the rest of the year.
+&gt;&gt; Yeah. the idea of a dual mandate in
+conflict and how that's going to cause
+them to be a lot more cautious and the
+fact that we haven't really seen the
+inflationary ramifications and just how
+this Fed will handle and potentially
+look through or not some of the
+inflation related uh to tariffs and
+beyond.
+&gt;&gt; Nita, it's good to see you. Always is.
+Thanks for dropping by Nita Richard
+there of ADP. Some breaking news just
+moments ago. It comes from Fox Business.
+Allow me to share it with you that the
+CEO Jensen Wang tells them he's in talks
+with the president and the
+administration about selling his better
+Blackwell AI chip to China and he's also
+willing to give the US government a cut
+of those sales. Plus, he wants US tech
+of course to be like the US dollar, the
+global standard. But the more important
+factor here is the Blackwell chip. Now,
+what isn't clear here is whether he's
+talking about the less advanced
+Blackwell chip but the more advanced H20
+or whether he's actually talking about
+the tiptop chip that comes from this
+company or not.
+&gt;&gt; Yeah, I think that's a nuance we need to
+understand from either Nvidia or really
+the Trump administration. What export
+license are they willing to give? The
+president had signaled he is willing to
+make a deal when it comes to Blackwell.
+He's basically saying, you know, we'll
+take 30 50% of it in order to do this.
+Another interventionist approach from
+this White House and a real pay-to-play
+kind of opportunity for Nvidia and
+likely given how the president explained
+the 15 20% deal that was cut for those
+H20s. It looks like this is something
+Nvidia would be game for even though on
+their call the CFO says it might open
+them up to litigation. The more time
+Jensen Wang spends with President Trump,
+the more the shares are going to rally.
+And I think that that really speaks to
+the political moment we're in and the
+idea that as long as he can get his
+story out that the more that the US
+technology is the standard, that's going
+to be the better for the United States,
+the more Nvidia is going to really
+benefit.
+&gt;&gt; We need some more clarity on this story.
+Let's put it that way. But I can tell
+you the stock's recovering. We're down
+now just a tenth of 1% in the pre-arket.
+&gt;&gt; Green 100%.
+&gt;&gt; Stay tuned. Let's keep an update on
+stories worldwide with your Bloomberg
+brief. Back with us, here's Yahara. Hey,
+Yahihara.
+&gt;&gt; Hi, John. White House trade adviser
+Peter Navaro is pressuring India to halt
+its purchases of Russian oil. Navaro
+here on Bloomberg accused New Delhi of
+funding the Kremlin's campaign in
+Ukraine and calling the conflict Mod's
+war. The US doubled tariffs on India to
+50% this week in an effort to secure
+concessions on trade and pressure
+Russia. Meanwhile, Brazilian President
+Lula Dilva's popularity is waning this
+month, suggesting the momentum he gained
+from his trade fight with President
+Trump may be over. Lula's approval fell
+to 48%, down two points from July. His
+disapproval rating rose to 51%.
+And shares of Victoria's Secret are
+rising 5.5% in the pre-market. The
+company raised its outlook after strong
+quarterly sales, a sign the new CEO's
+turnaround plan is taking hold. The
+company expects fullear revenue to reach
+up to $6.4 billion which includes an
+estimated tariff impact of about $100
+million. That is double the prior
+projection projection. Dr. Bloomberg
+brief. John
+&gt;&gt; Yhara. Thank you. Appreciate it. Up
+next, Jim Turny of Alliance Bernstein is
+market shakeoff Nvidia earnings. And
+Nvidia shakes off Nvidia earnings too
+apparently. Plus, Danny Burgerer with
+your morning movers. Bath and Body Works
+warning of a multi-million dollar tariff
+hit. That stock is down by 3.6%. 6%
+[Music]
+the Nvidia report kind of like threaded
+the needle, right? It was strong enough
+that you didn't get kind of a
+liquidation in those long positions, but
+it wasn't so strong that it disrupted
+the rotation that's been going on for
+the last couple weeks. The market right
+now is to some degree in one big trade,
+right? And that trade is long growth,
+long large cap, long the AI fanatic,
+right? And everything else has sort of
+been ignored to some degree.
+&gt;&gt; Lisa, as always, ahead of it. It was
+green before it was green.
+&gt;&gt; It was basically green and now it's
+getting close. So, there we go.
+&gt;&gt; Getting closer and closer to turning
+positive. That was Stuart Kaiser of
+City. The broader market's doing okay.
+Equity futures just about positive on
+the S&amp;P 500. As we count you down to the
+opening bell, that opening bell is about
+42 minutes away. With your morning
+movers is Danny Ber. Hey Danny.
+&gt;&gt; Hey John. Even more retailers reporting
+earnings this morning. Some really tough
+set of numbers. Hormel Foods, they make
+all of the deli meats you find in
+grocery stores. A miss and a cut to
+their guidance. The CEO saying that the
+issue is higher prices. Really feeling
+the strain of that in the current
+quarter. and they expect it to bleed
+into the next. They also talked about
+trying to raise some of their prices in
+order to offset some of the
+profitability hit, those shares down
+over 10 and a half percent. Bed Bath and
+Body Works, Bath &amp; Body Works rather,
+those shares down 5.2%. For them, it was
+their first miss since 2020. It was a
+tariff impact that they are citing. $40
+million will be the hit to them for
+tariffs, contrasting with some of the
+other retailers we've been hearing from.
+And we also heard from Urban Outfitters,
+another retailer with a poor set of
+numbers. 1.7% is the decline that we're
+seeing for them pre-p profofit. It was
+an outlook that m missed expectations in
+a downgrade to their gross margins. They
+say the tariff hit will be 75 basis
+points. Previously, they saw 20 at
+issue. And the new thing to incorporate
+for them was the 50% tariff from India.
+They say that they're going to try to
+negotiate with vendors, rework some of
+their shipping routes, and do what they
+called gentle price raises to try to
+offset that. John
+&gt;&gt; Danny, thank you. That's a new one.
+Gentle price raises
+&gt;&gt; over at that retailer. Gentle.
+&gt;&gt; The way that people are going to message
+this is just incredible.
+&gt;&gt; First move, though. You saw it, right?
+First move. Negotiate with suppliers.
+This is why it takes time.
+&gt;&gt; Well, you I'm looking right now at uh
+Bath &amp; Body Works, expecting to see this
+hit. And yet they say that they've been
+actively reshoring to the United States
+and over 80% of their products are made
+in the United States. So it just raises
+this question of how you identify made
+in the United States, how they identify
+the tariff pit and how much gentle
+pricing increases we're going to see.
+&gt;&gt; Also potentially maybe just consumers
+are not interested in your products
+anymore. But a really easy way to guide
+that is just oh we're dealing with
+tariffs and all that uncertainty.
+&gt;&gt; Let's stay with the markets. We're
+joined now by Jim Turney, the chief
+investment officer of Concentrated US
+Growth Alliance Bernstein. Jim Turney
+joins us now for more. Jim, good
+morning.
+&gt;&gt; Good morning.
+&gt;&gt; Good to see you, sir. We've got
+comfortable with these Nvidia earnings
+after about 12 hours and change. How
+comfortable should we be with these
+numbers this morning? I think we should
+be very comfortable when you look at the
+numbers. The revenues were essentially
+in line for the quarter. Next quarter
+met expectations excluding China and
+China could be some upside. And
+importantly on the expense side, things
+are well controlled. We're going to see
+margin increases as we go into the third
+quarter. So all in very positive.
+&gt;&gt; Does this remind you of Apple in the
+days where people would line up to bet
+against this stock and they were always
+wrong and Apple kept going higher? I
+feel like that's starting to happen with
+Nvidia now that people are just they've
+missed out on this massive boom over the
+last few years and a lot of people are
+lining up to say this is it. It's over.
+Does it feel the same way?
+&gt;&gt; It does. And one of the things that I
+think people are missing here a little
+bit is the absolute growth percentages.
+We're talking 50% plus growth. Those are
+spectacular numbers. And if it's 45 and
+a quarter, that's okay, too. Uh and you
+look at what Jensen laid out in terms of
+three or four trillion dollars of
+spending out 5 years from now versus
+where we are today, those are massive
+growth rates, and we're not seeing that
+anywhere in the US economy or the global
+economy.
+&gt;&gt; But the the issue isn't whether or not
+it's growing quickly. The issue is that
+it's been priced in and then some and
+it's a $4.4 trillion stock. The issue is
+where valuations have gone to and people
+have already gotten ahead of that. Does
+it worry you that the majority of that
+growth is set to come from just a small
+handful of names that could turn off the
+spigot if things uh warranted it?
+&gt;&gt; I think there are two issues there. One
+is the valuation. And when you look at
+Nvidia off of $7 of earnings in calendar
+26, it's about 25 or 26 times earnings.
+I don't consider that expensive for a
+company that's growing that fast. So,
+I'm not worried about Nvidia's uh
+valuation. If you look at what's driving
+the market and is it a very small group
+of companies, absolutely. That's very
+concerning because if for some reason
+capex spending doesn't hit that three or
+four trillion dollars that is talked
+about, we may have a little bit of an
+air pocket. But when you look at the
+arms race that's going on right now
+within AI spending, there is no end in
+sight. Well, it's international and this
+is a reason why it's sort of how much is
+Jensen Huang a diplomat and how much is
+he a CEO because ultimately it depends
+on the sovereign buying of some of these
+chips as well as China the sort of
+elephant in the room and how much they
+will be able to adopt US technology. How
+much do you get comfort and want to buy
+press by as soon as you see Jensen Wang
+visiting the president again?
+&gt;&gt; I don't think I get caught up in that as
+much as some others might. uh I think
+when I look at the drivers of demand
+over time there are multiple buyers and
+it's not just the hyperscalers and not
+just the sovereigns it is going to
+spread out to enterprise over time and
+we haven't even talked about robots
+which robotics is is a next leg of
+growth that people shouldn't sleep on
+&gt;&gt; when do you think you're going to see a
+catalyst where the risk is no longer
+worth taking when it comes to AI
+&gt;&gt; you'd have to see companies missing
+earnings materially and we didn't see
+that where you saw the biggest beat was
+from the tech the tech complex coming
+out of the second quarter. So the
+earnings are very strong.
+&gt;&gt; So just go back to Lisa's point. When it
+comes to China, you think it's all noise
+when it comes to how basically what
+Jensen Wang does in China and Nvidia's
+growth there is really dependent on what
+kind of policy comes out of the White
+House.
+&gt;&gt; I don't think it's noise and that's a
+real part of their business. So no one
+wants to see that go away. But at the
+same time, there are other drivers that
+are filling in that divot and and to be
+able to cover that two to five billion
+dollar divot is pretty spectacular.
+&gt;&gt; And Jim, can we talk about the potential
+big picture here, the potential for some
+political constraints in the years to
+come, the price of electricity for
+consumers, the prospect of job losses,
+the kind of push back we could see from
+politicians at both the state, local,
+and federal level going forward from
+here? How are you thinking about those
+potential developments in the years to
+come? Certainly a lot of different
+issues there. Power is a constraint and
+when you look at Nvidia's revenues and
+sales, uh they probably could have done
+better if there was more power widely
+available in the US. In terms of will
+the hyperscalers be stealing that power
+from the US consumer? That obviously
+can't happen and we need to solve that
+problem. Uh when you look at job loss,
+uh I think that's a reality. We've had
+creative destruction in our country for
+decades and and you look at Microsoft.
+Microsoft is a great example of a
+company that is holding headcount down
+by using technology and therefore
+margins keep rising. I love that. I
+mean, that's exciting when you can see a
+company do that.
+&gt;&gt; I'm pulling you away from your seat just
+a little bit, but I just wonder how
+tolerant these politicians will be of
+creative destruction in 25 and beyond
+given developments politically down in
+Washington and beyond.
+&gt;&gt; I think the goal is to bring more
+manufacturing back to the US and fill
+that hole. But you would have made the
+exact same argument a hundred years ago
+with farmers and and the farming
+population is pretty darn small today
+and people have found other jobs. So so
+something to worry about but but I think
+solvable.
+&gt;&gt; I'm always worried. I hope we can solve
+it. Anyway, Jim, it's good to see you.
+Thanks for dropping by. Thank you, sir.
+Jim Turney there of Alliance Bernstein.
+I know you're thinking about a similar
+issue as well. The price of electricity
+keep going back to it. It's getting
+higher and higher. It's getting more and
+more expensive. So that caters to the
+middle and older demographics and the
+younger demographics are going to get
+hit by uh some of the job losses that
+you've seen in terms of artificial
+intelligence entry level for software
+producers. I'll just give you this
+anecdote. I've got two sons. They're
+three years apart. My older one worried
+about getting a job. My younger one
+worried about killer robots. It kind of
+sums up where we're at.
+&gt;&gt; Well, also politically, it already is
+infiltrating Washington DC. The the
+concern about this. It's kind of weird
+when you have Barack Obama and Steve
+Bannon lining up when it comes to AI and
+the concern that it could do in terms of
+destruction on white collar jobs.
+&gt;&gt; What did you say when he started to
+worry about killer robots?
+&gt;&gt; Well, he then started showing me
+pictures. He's like, "They've built the
+torso to the killer robot." And I'm
+like, "Get off TikTok. Just stop.
+Whatever your eyes seeing this stuff.
+&gt;&gt; It's it's YouTube reals." I don't know.
+It's social media. See,
+&gt;&gt; be careful. That's the Chinese
+trying to get the kids to fear AI so
+that we lose the race in the AI race
+here in the United States. Is that
+what's happening? I think he's worried
+about a killer robot. I don't think it
+has to do with AI race. I think that
+that is actually a real one. Yeah, but
+maybe you think so. Yes,
+&gt;&gt; but this is this is YouTube real. Okay,
+that's gonna be I don't even know.
+&gt;&gt; You're doing great.
+&gt;&gt; Just I'm counting down the seconds.
+&gt;&gt; I know you are. Got to go.
+&gt;&gt; Coming up tomorrow, Brian Nick of New
+Edge Wealth, Kelly Kaminsky of Alpha
+Simplex, Dana Tely of Taly Advisory
+Group, Zack Griffith of Credit Sites
+from New York City. I'm joking. I was
+joking. Or was I? Sort of. Or was kind
+of a little bit. This was Bloomberg
+Surveillance. You're watching Blindberg
+TV.
+[Music]

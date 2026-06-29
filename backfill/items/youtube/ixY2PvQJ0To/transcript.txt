@@ -1,0 +1,2901 @@
+Kind: captions
+Language: en
+You were a product leader at Dropbox,
+then Instacart. Now you're the PM of the
+most consequential product in history.
+&gt;&gt; I didn't know what I would do here. It
+was a research lab. The first task was
+like fix the blinds or something like
+that.
+&gt;&gt; When someone offers you a rocket ship,
+don't ask which seat. We set out to
+build a super assistant. It was supposed
+to be a hackathon codebase.
+&gt;&gt; What was it called before?
+&gt;&gt; It was going to be chat with GBD3.5
+because we really didn't think it was
+going to be a successful product.
+&gt;&gt; And then Sam Alman's just like, "Hey,
+let me tweet about it."
+&gt;&gt; This is a pattern with AI. You won't
+know what to polish until after you
+ship. My dream is there. We ship daily.
+By the time people hear this, they're
+going to have their hands on GPT5.
+&gt;&gt; About 10% of the world population uses
+every week. With scale comes
+responsibility. It just feels a little
+more alive, a bit more human. This model
+has taste.
+&gt;&gt; Kevin Wheel, your CPO, said to ask you
+about this principle of is it maximally
+accelerated?
+&gt;&gt; I just really want to jump to the punch
+line. Why can't we do this now? I always
+felt like part of my role here to just
+set the pace and the resting heartbeat.
+&gt;&gt; Everyone's always wondering, is chat the
+future of all of this stuff?
+&gt;&gt; Chat was the simplest way to ship at the
+time. I'm baffled by how much it took
+off. I'm even more baffled by how many
+people have copied.
+&gt;&gt; Chat GPT is now driving more traffic to
+my newsletter than Twitter.
+&gt;&gt; That is the type of capability that has
+been incredibly retentive. I've been
+really excited about what we've been
+doing in search.
+&gt;&gt; Can you give us a peek into where this
+goes long term?
+&gt;&gt; Chatbt feels a little bit like MS DOS.
+We haven't built Windows yet and it will
+be obvious once we do.
+&gt;&gt; Today my guest is Nick Turley. Nick is
+head of chatbt at OpenAI. He joined the
+company 3 years ago when it was still
+primarily a research lab. He helped come
+up with the idea of chat GPT and took it
+from zero to over 700 million weekly
+active users, billions in revenue, and
+arguably the most successful and
+impactful consumer software product in
+human history. Nick is incredible. He's
+been very much under the radar. This is
+the first major podcast interview that
+he has ever done and you are in for a
+treat. We talk about all the things
+including the just launched GPT5. A huge
+thank you to Kevin Wheel, Claire Vo,
+George O'Brien, Joanne Jen, and Peter
+Ding for suggesting topics for this
+conversation. If you enjoy this podcast,
+don't forget to subscribe and follow it
+in your favorite podcasting app or
+YouTube. And if you become an annual
+subscriber of my newsletter, you get a
+year free of a bunch of incredible
+products including Lovable, Replet,
+Bolt, Nadant, Linear, Superhum, Dcript,
+Whisper Flow, Gamma, Perplexity, Warp,
+Granola, Magic Patterns, Raycast, Chapar
+D, and Mobin. Check it out at
+lenny'snewsletter.com and click bundle.
+With that, I bring you Nick Turley. This
+episode is brought to you by Orcus, the
+company behind Open-source Conductor,
+the orchestration platform powering
+modern enterprise apps and agentic
+workflows. Legacy automation tools can't
+keep pace. Siloed low code platforms,
+outdated process management, and
+disconnected API tooling fall short in
+today's event-driven AI powered agentic
+landscape. Orcus changes this. With
+Orcus Conductor, you gain an agentic
+orchestration layer that seamlessly
+connects humans, AI agents, APIs,
+microservices, and data pipelines in
+real time at enterprise scale. Visual
+and codeforce development, built-in
+compliance, observability, and rock
+solid reliability ensure workflows
+evolve dynamically with your needs. It's
+not just about automating tasks. It's
+orchestrating autonomous agents and
+complex workflows to deliver smarter
+outcomes faster. Whether modernizing
+legacy systems or scaling nextgen
+AIdriven apps, Orcus accelerates your
+journey from idea to production. Learn
+more and start building at
+orcus.io/lenny.
+That's oke kes.io/lenny.
+This episode is brought to you by Vanta
+and I am very excited to have Christina
+Casiopo, CEO and co-founder of Vanta,
+joining me for this very short
+conversation.
+&gt;&gt; Great to be here. Big fan of the podcast
+and the newsletter. Vanta is a longtime
+sponsor of the show, but for some of our
+newer listeners, what does Vanta do and
+who is it for?
+&gt;&gt; Sure. So, we started Vanta in 2018
+focused on founders, helping them start
+to build out their security programs and
+get credit for all of that hard security
+work with compliance certifications like
+SOCK 2 or ISO 2701. Today, we currently
+help over 9,000 companies, including
+some startup household names like
+Atlassian, Ramp, and Lang Chain, start
+and scale their security programs, and
+ultimately build trust by automating
+compliance, centralizing GRC, and
+accelerating security reviews.
+&gt;&gt; That is awesome. I know from experience
+that these things take a lot of time and
+a lot of resources, and nobody wants to
+spend time doing this.
+&gt;&gt; That is very much our experience, but
+before the company and to some extent
+during it. But the idea is with
+automation, with AI, with software, we
+are helping customers build trust with
+prospects and customers in an efficient
+way. And you know our joke, we started
+this compliance company so you don't
+have to.
+&gt;&gt; We appreciate you for doing that. And
+you have a special discount for
+listeners. They can get $1,000 off Vanta
+at vanta.com/lenny.
+That's venta.com/lenny
+for $1,000 off. Thanks for that,
+Christina.
+&gt;&gt; Thank you.
+Nick, thank you so much for joining me
+and welcome to the podcast.
+&gt;&gt; Thanks for having me, Lenny.
+&gt;&gt; I already had a billion questions I
+wanted to ask you and then you guys
+decided to launch DPT5 the week that
+we're recording this. So, now I have at
+least two billion questions for you. I
+hope you have I hope you have a lot of
+time. First of all, just congrats on the
+launch. It's coming tomorrow, the day
+after we're recording this. Just uh
+congrats. How you feeling? I imagine
+this is an ungodly amount of work and
+stress. How you doing? It's a busy week,
+but you know, we we've been working on
+this for a while. So, it also feels
+really good to get it out.
+&gt;&gt; So, by the time people hear this,
+they're going to have their hands on
+GPT5 and the newest Chat GPT. What's the
+simplest way to just understand what
+this is, what it unlocks, what people
+can do with it. Give us kind of the the
+pitch.
+&gt;&gt; I'm so excited about GPD5. It uh I think
+for most people is going to feel like a
+real step change. If you're the average
+hatg user and we have you know 700
+million of them um this week we uh
+you've probably been on GPD40 for you
+know a while you probably don't even
+think about the model that powers the
+product and GPD5 is is it just feels
+categorically different I'll talk about
+a lot of the specifics but you know at
+the end of the day the vibes are good at
+least we feel that way we hope that
+users feel the same u and increasingly
+that is the thing that I think most
+people notice right um they don't look
+at the academic benchmarks They don't
+look at evaluations. They try the model
+and and see what it feels like. And just
+on that dimension alone, I'm so excited.
+I've been using it for a while. But it
+is also, you know, the smartest um most
+useful and um fastest Frontier model um
+that we've ever launched. You know, on
+pure smarts, one way to look at that is
+academic benchmarks. on many of the
+standard ones. Um whether or not it's
+math or reasoning or you know just raw
+intelligence, this model is
+state-of-the-art. I'm especially excited
+about its performance on coding. Um
+whether or not that's bench, which is a
+common benchmark, or actually front-end
+coding is really really good, um as
+well. And um that's an area where I I
+feel like there's there's a true step
+change improvement in in in GPT5. But
+really, no matter how you sort of
+measure the smarts, it's it's it's quite
+remarkable and I think people are going
+to feel the upgrade, especially if they
+weren't using 03 already. And you know,
+the the second thing um beyond smarts is
+it's just really useful. Coding is one
+access of utility whether or not you
+have coding questions or you're vibe
+coding an app. Um but it's also a really
+good writer. I write for a living uh
+internally, externally. I just wrote a
+big blog post um that we published
+Monday. you know, this thing is like
+such an incredible editor. Um, and and
+you know, compared to some of the the
+the older models, it's just got it's got
+taste, which I think is really exciting.
+And, um, to me, that's like something
+that is truly useful um, in in in my
+day-to-day. And, um, there's other a
+bunch of other areas like it's state of
+the art on health, which is useful when
+you need it. But again, the sort of the
+thing you can't really express in use
+cases or even yeah, in use cases or or
+data is sort of the vibe of the model
+and it just feels a little bit more
+alive, a bit more human in a way that is
+kind of hard to articulate until you try
+it. So feel good about that. And yeah,
+as mentioned, it's faster. Um, it uh it
+thinks too just like 03 did, but you
+don't have to manually, you know, tell
+it to do that. It'll just dynamically
+decide to think when it needs to. Um,
+and when it doesn't need to think, it
+just responds instantly. And that ends
+up feeling quite a bit faster than using
+03 did. And then, you know, maybe the
+thing that's most exciting is that we're
+making it available for free. And that's
+like one of those things that I feel
+like we can uniquely do at OpenAI
+because, you know, many companies I
+think if they have a subscription model
+like us, they would gate it behind their
+paid plan. And for us, you know, if we
+can scale it, we will. And that just
+feels awesome. We did that with 40 as
+well. So, everyone's going to be able to
+try GBD5 uh tomorrow hopefully.
+&gt;&gt; How long does something like this take?
+Like I don't know if there's a simple
+answer to this but just how long have
+you guys been working on GPT5?
+&gt;&gt; We've been working on it for a while. Um
+you know you can kind of view GPD5 as a
+culmination of a bunch of different
+efforts. You know we had the reasoning
+tech. We had a more classic post
+screening uh methodologies
+um and therefore it's really hard to put
+a beginning on it but but you know um it
+really is kind of the end point of a
+bunch of different techniques that we
+for a while. Can you give us a peek into
+the vision for where Jat GPT is going?
+GPT in general is going like if you look
+at on the surface it's just it's been
+kind of the same idea with a much
+smarter brain for a long time. I'm
+curious where this goes long term.
+&gt;&gt; So to to maybe back up a bit um now you
+think of chat as this kind of ubiquitous
+product. Um again about 10% of the world
+population uses every week. Um you know
+I think we have like five million
+business customers now. um it's like you
+know an established category in its own
+right but really when we started we set
+out to build a super assistant that's
+what we that's how we talked about it at
+the time in fact the code base that we
+use is called SA server um it was it was
+supposed to be a hackathon codebase um
+but you know things things always turned
+out a little bit differently and uh uh
+so so yeah in some ways that is still
+the vision the reason I don't talk about
+it more than I you know do is because I
+think a system is a bit limiting in
+terms of the mental model we're trying
+to create you think of this like very
+personified human thing, maybe
+utilitarian maybe uh you know and and
+frankly you know having an assistant is
+not particularly relatable to most
+people unless they're like in Silicon
+Valley and they're a manager or
+something like that. So it's imperfect
+but like really what you know we
+envision is is this entity that can help
+you with any task whether or not that's
+at home or at work or at school um
+really any context and uh it's an entity
+that you know knows what you're trying
+to achieve. So you know unlike chat
+today you uh uh don't have to describe
+your problem in in in minute to detail
+because it already stands your
+overarching goals and has context on
+your life etc. Um so you know that's one
+thing that we're really excited about.
+Um the the sort of inverse of giving it
+more inputs on your life is giving it
+more action space. So we're really
+excited to allow it to do um over time
+what a smart empathetic human with a
+computer could do for you. Um, and I
+think, you know, the limit of the the
+types of problems that you can solve for
+people once you give it access to tools
+like that, um, is is very very different
+than what you might be able to do in a
+chatbot today. So, you know, that's more
+outputs. And I often think, okay, you
+know, I'm a general intelligence if I
+what would happen if I, you know, became
+Lenny's intern or something. Um, and,
+you know, I wouldn't be particularly
+effective despite, you know, having both
+of those attributes that I just
+mentioned. Um, and it's because, you
+know, um, I think this idea of building
+a relationship with this technology is
+also incredibly important. So, that's
+maybe the third piece that I'm excited
+about is building a product that can
+truly get to know you over time. And you
+saw us launch some of those things, you
+know, with uh, improved memory earlier
+this year. And that's just the beginning
+of what we're hoping to do. So, that it
+really feels like your AI. So, I don't
+know if Super Assistant is still the
+right um, exact analogy, but I think
+people just think of it as their AI. Um,
+and I think we can put one in everyone's
+pocket and uh um help them solve real
+problems. Whether or not that's becoming
+healthy, whether or not that's, you
+know, um starting a business, whether or
+not that's, you know, just having a
+second opinion on anything. Um there's
+so many different problems that you can
+help with people in their in their daily
+life. And that's what motivates me.
+&gt;&gt; So, an interesting uh kind of between
+the lines that I'm reading here is the
+vision is for it to be an assistant for
+people, not to replace people. It feels
+like a really important uh piece of the
+puzzle. maybe just talk about that
+&gt;&gt; AI is really scary to people. Um, and I
+understand, you know, there's decades of
+movies on AI that have a certain mental
+model kind of baked in. And even if you
+just look at the technology today once
+everyone I think has this moment where
+the AI does something that was really
+deeply personal to them and you're like
+kind of thought, hey, the AI can never
+do that. You know, for me it was like
+like weird music theory things where I
+was like, wow, this thing actually like
+understands music better than I do and
+that's like something I'm passionate
+about. And uh, you know, so so it it's
+naturally scary. And I think the thing
+that's been really important to us um
+for a long time is to build something
+that feels like it it's helpful to you,
+but you're in the driver's seat. And
+that's even more important as the stuff
+becomes agendic, right? Um like the
+feeling of being in control. And that
+can be small things like, you know, we
+built this way of sort of watching what
+the AI is doing when it's in agent mode.
+Um, and it's not that like you actually
+are going to watch it the whole time,
+but it gives you a mental model and
+makes you feel in control in the same
+way that when you're in a Whimo, you you
+get that screen for those of you who
+have tried Whimo. You know, you can see
+the other cars. It's not like you're
+going to actually watch, but it gives
+you the sense that you know how this
+thing works and what's happening. Or we,
+you know, we always check with you to
+confirm things. It's a little bit
+annoying, but it puts you in the
+driver's seat, which is which is um
+important. And for that reason, you
+know, we always view technology and the
+technology that we build as something
+that amplifies what you're capable of
+rather than replacing it. And uh that
+becomes important as the deck gets more
+powerful.
+&gt;&gt; Okay. So you mentioned the beginnings of
+chat GPT. I was reading in a different
+interview. So you joined OpenAI. ChatGpt
+was kind of just this internal
+experimental project that was basically
+a way to test GPT 3.5. And then Sam
+Alman's just like, "Hey, let me tweet
+about it. Maybe see if people find this
+interesting." yada yada yada. It's the
+most uh successful consumer product in
+history, I think, both in growth rate
+and users and revenue and just absurd.
+Can you give us a glimpse into that
+early period before it became something
+everyone's obsessed with?
+&gt;&gt; Yeah. Um so we had decided that we
+wanted to do something consumerf facing
+I think you know right around the time
+that GB4 finished training and it was
+actually u mainly for a couple reasons.
+You know we already had a product out
+there which was our developer product.
+That's actually what I came in um to
+help with initially and uh you know that
+has been amazing for the mission. In
+fact, it's grown up and now it's the
+open platform with I don't know 4
+million developers I think. But you know
+at the time it was you know early stage
+and and we were running running into
+some constraints with it because um we
+there was two problems. One you couldn't
+iterate very quickly because every time
+you would change the model you would
+break everyone's app. So it was really
+hard to try things and then the other
+thing um was that it was really hard to
+learn because the feedback we would get
+was like the feedback from the end user
+to the developer to us. So it was very
+disintermediated and we were excited to
+make fast progress toward towards AGI
+and it just felt like we needed a more
+direct relationship with with consumers.
+So we were trying to figure out where to
+start and you know in classic openi
+fashion especially back then um we put
+together a hackathon of enthusiasts of
+just hacking on GPD4 to kind of see what
+awesome stuff we could create and maybe
+ship to users and um everyone's idea had
+was was some flavor of a super assistant
+like they were more specific ideas like
+we had a meeting bot that would call
+into uh meetings and you know the vision
+was you know maybe we would like help it
+will help you run the meeting over time.
+And we had a coding tool which you know
+uh full circle now probably ahead of its
+time. Um and you know the challenge was
+that with we tested those things but
+every time we tested these more bespoke
+ideas people wanted to use it for all
+this other stuff because it's just a
+very very generically powerful
+technology. So after a couple months of
+prototyping, we took that same kind of
+crew of volunteers and it was truly a
+volunteer group, right? We had like
+someone from the supercomputing team who
+had built an iOS team iOS app before. We
+had um someone, you know, on the
+research team who had written some
+backend code in their life. They they
+were all part of this initial chat GBT
+team and we decided to ship something
+open-ended because we just wanted a real
+use case distribution. Um and this is a
+pattern with AI I think where you know
+you really have to ship to understand
+what is even possible and what people
+want um rather than being able to reason
+about that a priori. So chatbt came
+together at the end because we just
+wanted the learnings as soon as we could
+and um we shipped it right before the
+holiday thinking we would sort of come
+back and get the data and then wind it
+down. And obviously that part turned out
+super differently because um um people
+really liked the product as is. Um, so I
+remember sort of going through the
+motions of like, oh man, dashboard's
+broken. Oh wait, people are liking it.
+I'm sure it's just, you know, going
+viral and and stuff is going to die down
+to like, oh wow, people are retaining,
+but I don't understand why. Um, and then
+eventually we kind of like, you know,
+fell into product development mode, but
+it was a little bit by accident.
+&gt;&gt; Wow. I did not know that uh Chat GPT
+emerged out of a hackathon project.
+Definitely the most successful hackathon
+project. I like to tell this story when
+we when we talk about uh when we when we
+do our our hackathons because I really
+do want people to feel like they can
+ship their idea and it's certainly been
+true in the past and we'll continue to
+make it true.
+&gt;&gt; Maybe you don't want to share these
+things but I wonder who that team was.
+&gt;&gt; The team's um largely still around. Some
+of the researchers working on GPT5
+actually you know they were always part
+of the the chat GPT team. Um engineers
+are still around um designer um
+designers are still around. I'm still
+here I guess. So, you got the team still
+running things, but obviously we've
+grown up tremendously and we've had to
+because you know with scale comes
+responsibility and um you know um we're
+going to hit a billion users soon and
+you you kind of have to begin acting in
+a way that is appropriate um um to that
+scale.
+&gt;&gt; Okay. So, let me spend a little time
+there. So I don't know if this is 100%
+true, but I believe it is that Chat GPT
+is the fastest growing, most successful
+consumer product in history. Also the
+most impactful on people's lives. It
+feels like it's just part of the ether
+of society now. It's just my wife talks
+to it. Like it every question I have, I
+go to it. Voice mode. My wife's just
+like, "Let me check with check with
+JPT." It's just such a part of our life
+now. And and I think it's still early.
+So many people don't even know what the
+hell is going on. just as someone
+leading this, how does just do you ever
+just take a moment to reflect and think
+about just like holy I have to
+it's quite humbling to get to run a
+product like that and um I have to binge
+myself very frequently and I also have
+to sometimes sit back and let you know
+just think which is really hard when
+things are moving so quickly you know I
+love setting a fast pace um at the
+company but in order to do that with
+confidence I you know I need at least
+one day every week that I'm like
+entirely unplugged and I'm just thinking
+about you know what what to do and
+process the week etc. Um, and uh,
+the other thing is I've never ever
+worked on a product that
+is so empirical in its nature where if
+you don't stop and watch and listen to
+what people are doing, you're going to
+miss so much like both on the utility
+and on the risks actually because
+normally, you know, by the time you ship
+a product, you you you uh know what it's
+going to do. You don't know if people
+are going to like it. that's always
+empirical, but you know what it can do.
+And with AI, because I think so much of
+it is emergent, you actually really need
+to stop and listen after you launch
+something and then you know iterate on
+on on the things people are trying to do
+and and on on the things that aren't
+aren't quite working yet. So for that
+reason alone, I think it's very
+important to, you know, take a break and
+and just watch what's going on.
+&gt;&gt; Okay. So you take a day off every week.
+Not off. Okay. That's not the right way
+to put it. You take a day of of thinking
+time, deep work.
+&gt;&gt; I I need it. Yeah. Yeah. Yeah. and and
+um and I need to hard unplug you know on
+a Saturday or something like that
+obviously
+&gt;&gt; on a Saturday like the next
+&gt;&gt; but uh you know it's just not possible
+otherwise it's this has been a giant
+marathon for three years now um
+&gt;&gt; like a sprint marathon
+&gt;&gt; sprint marathon that's right or interval
+training or something I I don't know how
+to exactly describe the open air launch
+cadence but you know uh you got to you
+got to you know set yourself up in a way
+that is sustainable even even if even if
+this wasn't AI and it didn't have the
+interesting attributes that I just
+mentioned And I think you you would need
+to do that, but um especially with AI,
+it's important to go watch.
+&gt;&gt; So along those lines, I talked to a
+bunch of people that work with you that
+work at OpenAI. Uh Joanne specifically
+said that uh urgency and pace are a big
+part of how you operate that that's just
+uh something you find really important
+to create urgency within the team
+constantly even when you are the fastest
+growing product in history, growing like
+crazy. Talk about just your philosophy
+on the importance of pace and urgency on
+teams.
+&gt;&gt; Well, it's nice of her to say that. Um
+you know I I spent a lot of two things
+you know with chatbt I you know the when
+we decided to do it you know we had been
+prototyping for so long and I was just
+like you know in 10 days we're going to
+ship this thing and you know we did. So
+that was like maybe a moment in time
+thing where I just really wanted to make
+sure that we go learn something. Um but
+for you know ever since then I I spent
+so much time thinking about why chat
+became successful in the first place and
+I think there was some element of just
+doing things where you know there was
+many other companies that had um
+technology in the LM space that just
+never got shipped and I just felt like
+you know of all the things we could
+optimize for learning as fast as
+possible is incredibly important. And so
+I just started rallying people around
+that and that took different forms like
+for a while when we were of that size. I
+just ran this like you know daily
+release sync and it had everyone who was
+required to make a decision in it and we
+would just talk about what to do and to
+pivot from yesterday etc. Obviously at
+some point that doesn't scale but I
+always felt like part of my role here
+obviously was like to think about you
+know the direction of the product but
+also to just set the pace and the
+resting heartbeat um for our teams. And
+again, this is important anywhere, but
+it's especially important when you know
+the only way to find out what people
+like and um and and what's valuable is
+to bring it into the external world. Um
+so for that reason, I think it's become
+a superpower of OpenAI and I'm glad that
+Joanne thinks I had some part in that,
+but it it really has taken a village.
+&gt;&gt; I love this phrase, the resting heart
+rate of your team. That's such a perfect
+metaphor of just the pace uh being
+equivalent to your resting heart rate.
+&gt;&gt; I actually learned that at Instacart
+when I when I showed up there because we
+were in the pandemic and it was um kind
+of all hands on deck for a while. There
+was this like you I think there was a
+companywide standup um because we
+disbanded all teams. is trying to keep
+the site up and for me you know I I had
+been used to kind of taking my sweet
+time and just thinking really hard about
+things and that's important but I really
+learned to hustle over there and um I
+think that's come in handy um at open
+&gt;&gt; okay so along these same lines I asked
+Kevin Wheel your CPO what to ask you and
+he said to ask you about uh this
+principle of is it maximally accelerated
+talk about that
+&gt;&gt; it's funny we have a slack emoji
+apparently for this now there because I
+used to say that now now I try to like
+paraphrase Um sometimes I just really
+want to jump to the
+you to the punch line of like okay why
+can't we do this now or why can't we do
+it tomorrow and I think that you know
+it's a good way to cut through a huge
+number of blockers uh with the team and
+just instill especially if you come from
+a larger company you know at some point
+we started hiring people from from you
+know larger tech companies I think
+they're used to you know let's check
+check in on this in a week or let's you
+know um circle back next quarter to see
+if it can go on the on on the plan. And
+I just kind of as a thought exercise, I
+was like people asking like, okay, if
+like this was the most important thing
+and you wanted to truly maximally
+accelerate it, what would you do? That
+doesn't mean that you go do that, but
+it's really a good forcing function for
+understanding what's critical path
+versus what you know can happen later.
+And I've just always felt like, you
+know, execution is incredibly important.
+Like these ideas are they're everywhere.
+Everyone's talking about, you know, hey,
+personal AI, you know, you might have
+seen news on that, you know, and and and
+you know, I I really think that
+execution is is is one of the most
+important things in the space and this
+is a tool. So, um it's funny that that
+became a meme. Um it's like a little
+pink slack emoji that people just put on
+um whatever they're trying to to force
+the question.
+&gt;&gt; I was going to ask what the emoji was.
+So, it's a little pink. Is there
+something in there like Max?
+&gt;&gt; It's a comic sense emoji that says, "Is
+this Maximalist?"
+And so the kind of the culture there is
+when someone is working on something the
+question the push is is this maximally
+accelerated is there a way we can do
+this faster? Is there anything we can
+unblock?
+&gt;&gt; Yeah. And you know we use that sparingly
+right because it has needs to be
+appropriate to the context. Um there
+there's some things where you don't want
+to accelerate um as as quickly as
+possible um because you you kind of want
+process and we're very very deliberate
+on that where you process is a tool and
+one of the areas where we have an
+immense amount of process is safety uh
+because you know a the stakes are
+already really high um especially with
+these models you know GPT5 which is the
+frontier in so many different ways but b
+you kind of if you believe in the
+exponential which I do and you know most
+people who work on this stuff do you
+have to play practice this for a time
+where you know you really really need
+the process for sure for sure sure and
+that's why I think it's been really
+important to separate out you know the
+product development velocity which has
+to be super high from okay for things
+like frontier models there actually
+needs to be a rigorous process where you
+red team you work on the system card you
+get external input um and then you put
+things out with with confidence that
+it's gone through you know the right
+safeguards so again it's a nuanced
+concept but I found it very very useful
+when we need it um And for everything
+product development, you're a dead on
+arrival. So it's it's important to get
+stuff out.
+&gt;&gt; We got to open source as memes so that
+other teams can build on this approach.
+&gt;&gt; Absolutely.
+&gt;&gt; So interestingly with Chat GPT, and it's
+not a surprise, but not only is it the
+fastest growing, most successful
+consumer product ever, retention is also
+incredibly high. People have shared
+these stats that one month retention is
+something like 90%, six-month retention
+is something like 80%. First of all, are
+these numbers accurate? Quick, can you
+share that?
+&gt;&gt; I'm obviously limited on what exactly I
+can share. Um, but it is true that our
+retention numbers are really exciting
+and that is actually the thing we we
+look at. You know, we we don't care at
+all how much time you spend in the
+product. Um, you know, in fact, our
+incentive is just to solve your problem
+and you know, if you really like the
+product, you'll subscribe. But, you
+know, there's no incentive to keep you
+in the product um for long. But we are
+obviously really really happy if you
+know over the long run you know 3 month
+period etc you're still using this thing
+and for me this was always the elephant
+in the room early on it's like hey this
+may be really cool product but you know
+is this really the type of thing that
+you come back to and it's been
+incredible to not just see strong
+retention numbers but to see you know in
+improvement in retention over time um
+even as our cohorts become you know um
+less of an early adopter and more you
+know the the average person. So um
+&gt;&gt; yeah so like that note is something that
+I don't think people truly understand
+how rare this is when a product the
+cohort of users comes tries it out and
+then retention over time goes down and
+then it comes back up people come back
+to it a few months later and use it more
+and that's it's called a smiling curve
+or smile curve and that's extremely
+rare.
+&gt;&gt; Yeah. Yeah. Yeah. know this there's some
+smiling going on um not just on the team
+and um the you know I feel I have to
+acknowledge that some of it is is not
+the product I think people are actually
+just getting used to this technology in
+like a really interesting way where I
+find and this is why the product needs
+to evolve too that this idea of
+delegating to an AI it's not natural to
+most people it's not like you're going
+through life and figuring out what can I
+delegate like certain sphere of Silicon
+Valley does that you know because
+they're in like a self-optimization mode
+and they're trying to delegate
+everything they can but I think for most
+people in world. It's actually quite
+unnatural and you really have to learn
+okay what what are my goals actually and
+what could another intelligence help me
+with and I think that just takes time
+and people do figure it out once they've
+had enough time with the product but
+then of course there's been tons of
+things that we've done in the product
+too whether or not it's making the core
+models better whether or not it's you
+know new capabilities like search and
+personalization
+um and and all that uh kind of stuff or
+you know um just standard growth work
+too which we're starting to do you know
+that stuff matters Of course.
+&gt;&gt; So you might have you might be answering
+this question already, but let me just
+ask it directly. People may look at this
+and be like, okay, they're building this
+kind of layer on top of this godlike
+intelligence. Uh, of course, it will
+grow incredibly fast and retention will
+be incredible. What the heck does what
+are you guys actually doing that sits on
+top of the model that makes it grow so
+fast and retain so much? Is there
+something that has worked incredibly
+well that has moved metrics
+significantly that you can share? I
+mean, one thing we've learned, um, I'll
+answer that question in a minute, but
+you know, the the one thing we've
+learned with Chad CBT is that there
+really is no distinction between the
+model and the product. Like, the model
+is the product. Um, and therefore, you
+need to iterate on it like a product.
+And by that I mean is like, you know, if
+there's you obviously you typically
+start by shipping something very
+open-ended. Um, at least if you're open
+AI, that's kind of a playbook. Um, but
+then you really have to look at what are
+people trying to do. Okay, they're
+trying to write, they're trying to code,
+they're trying to get advice, they're
+trying to get recommendations, and you
+need to systematically improve on those
+use cases. And that is pretty similar to
+product development work. Obviously, the
+methodology is a bit different, but the
+discovery is is is the same. You got to
+talk to people, you got to do data
+science, and you got to try stuff and
+and get feedback. Um, so that's like one
+chunk of work that we've been very
+consciously doing. Um, is improving the
+model on the use cases people care
+about. And there's also such thing as
+vibes as because I'm sure you you know
+and that's one of the things that I'm
+excited about in GPT5 is that the vibes
+are really good. So that too is you know
+we have a model behavior team and they
+really focus on you know what is the
+personality of this model and how you
+know how does it speak and talk. So
+there's that kind of work. I would say
+that's maybe you know a third of the you
+know retention uh improvements that we
+see or so just roughly. And then I think
+another third is is is what I would call
+sort of product research capabilities.
+Um they're research driven for sure.
+They have a research component but
+they're really new product features or
+capabilities. And like search is one
+example of that where you know if you
+remember in the olden days aka like you
+know maybe 20 months ago or something
+you would talk to chatd and be like you
+know as of my knowledge cut off or I
+can't answer that because that happened
+too recently or something like that. And
+you know that is a type of capability
+that has been incredibly retentive. Um
+and um for for good reason. It just
+allows you to do more with the product.
+Personalization like this idea of
+advanced memory where things can really
+get to know you over time is another
+example of a capability like that. You
+know I think that's another good chunk.
+And then you know the third stuff is the
+stuff you would do in any product and
+those things exist too. you know, um
+like not having to log in was a huge hit
+um because it removed a ton of the
+friction and um um I think we we had
+this intuition from the beginning, but
+we never got to it because we didn't
+have enough GPU or, you know, other
+other constraint to really really really
+go do that. So, you know, there's the
+like kind of traditional product work
+too. So, I often think about it sort of
+as roughly a third, a third, a third,
+but really, you know, we're still
+learning and um we're planning to evolve
+the product a ton, which is why I'm sure
+there's going to be new levers.
+&gt;&gt; You mentioned something that I want to
+come back to real quick. You said that
+the it was something like 10 days from
+hackathon to Sam tweeting about chatbt
+being live.
+&gt;&gt; You know the hackathon happened much
+earlier and we were prototyping for a
+long time but at some point we basically
+ran out of patience on you know on
+trying to you know build something more
+bespoke and again that was mostly
+because people always wanted to do all
+this other stuff uh whenever we tested
+it. So it was 10 days from from when we
+decided we were going to ship to when we
+shipped. Um and um you know the the
+research we'd been testing for a long
+time it was kind of an evolution of what
+we'd called instruction following uh
+which was the idea that you know instead
+of just completing the sentence these
+models could actually follow you
+instructions. So if you said summarize
+this it would actually do so. And the
+research had evolved from that into a
+chat format where we could do it
+multi-turn. So that research took way
+longer than 10 days and I kind of baking
+in the background but the you know the
+productization of this thing um was very
+very fast um and you know lots of things
+didn't make it in like I remember we
+didn't have history which of course was
+like the you know first user feedback we
+got the model had a bunch of you know
+shortcomings and it was so cool to be
+able to iterate on the model like the
+thing I just talked about like treating
+the model as a product was not a thing
+before chat shipp because we would ship
+it more like hardware where you know we
+there'd be a a release like GPD3 three
+and then we would start working on GP4
+and these were giant big spend R&amp;D
+projects that would take a really long
+time and you kind of the spec was
+whatever the spec was and then you'd
+have to wait another year and chat GBT
+really broke that down because we were
+able to make make uh iterative
+improvements to it just like software
+and really my dream is that it would be
+amazing if we could just ship daily or
+even hourly like in software land
+because you could just fix stuff etc but
+there's of course all kinds of
+challenges in how you do that while you
+know keeping the personality intact
+while like not regressing other
+capabilities. So, it's an open open
+field to get there.
+&gt;&gt; This such a good example of is it
+maximally accelerated? Okay, we're going
+to ship chat GT. Okay, 10 days.
+&gt;&gt; Holy moly. We've been talking about chat
+GBT. Clearly, it's a kind of a chat
+interface. Everyone's always wondering
+is chat the future of all of this stuff.
+Interestingly, Kevin Wheel made this
+really profound point that has always
+stuck with me when he was on the podcast
+that chat is actually a genius interface
+for building on a super intelligence
+because it's how we interact with humans
+of all variety of intelligence. It
+scales from someone at the lower end to
+the to a super super smart person. And
+so it's really valuable as a way to kind
+of scale this spectrum. Uh maybe just
+talk about that and just is chat the
+long-term interface for chat GPT. I
+guess it's called chat GPT.
+&gt;&gt; I feel like we should either drop the
+chat or drop the G GPT at some point
+because it is a mouthful. Uh we're stuck
+with the name. Um but you know, no
+matter what we do with that, you know,
+it it uh um the product will evolve. I I
+think that I agree that there's
+something profound about um natural
+language. like it just really is the
+most natural form of communicating um to
+humans and therefore it feels important
+that you should be communicating with
+your software in natural language. I
+think that's different from chat though.
+I think chat was the simplest way to put
+something to you know to ship at the
+time. I'm baffled by how much it took
+off um as as a concept. I'm even more
+baffled by how many people have copied
+the paradigm rather than, you know,
+trying out a different way of
+interacting with AI. I'm still hoping
+that will happen. So, I think natural
+language is here to stay, but this idea
+that it has to be a turnbyturn chat
+interaction, I think, um, is really
+limiting. Um, and this is one of the
+reasons I don't love the super assistant
+analogy, even though we, you know, used
+to always use it, is because if you
+think that way, then you kind of feel
+like you're talking to a person. But,
+you know, and TPD5 is amazing at at um
+making great front-end applications. So,
+I I don't see a reason why you wouldn't
+have, you know, AIS that, you know, can
+can render their own UI in some way. And
+you obviously want to make that
+predictable and feel good. But it feels
+limiting to me to think of the end all
+be all interface as a chatbot. It
+actually kind of feels dystopian almost
+where like I don't want to use all my
+software through the proxy of some
+interface. Like I love being in Figma. I
+love being in, you know, uh, Google
+Docs. Those are all great products to me
+and they're not chatbots. So, um, yes on
+natural language, but no on chat is is
+where I would describe my my point of
+view. Um, and I'm just hoping in general
+that we see more sort of consumer
+innovation on how people interact with
+AI. There's so many possibilities
+and you just got to try stuff. That's
+why chat stuck is like, you know, we
+just did it and people liked it. So, I'm
+hoping that um we we see more there and
+we'll we'll try to do our part. So, you
+mentioned that you kind of like got
+stuck with this name chat GPT. Uh, maybe
+this is part of the answer, but I'm
+curious just are there any accidental
+decisions you guys made early on that
+have stuck and have essentially become
+history changing?
+&gt;&gt; There there there's so many and it's
+it's funny because you have like no time
+to think about them and then they end up
+being super consequential. You know, the
+day was one, you know, we went from chat
+with GBD 3.5 to chat GB2 the night
+before. Slightly better but still really
+bad.
+&gt;&gt; What was it called before? It was going
+to be chat with GBD3.5.
+&gt;&gt; We because we really didn't think it was
+going to be a successful product. Like
+we were trying to actually be as nerdy
+as we could about it because that's
+really what it was. It was like, you
+know, a research demo, not not a
+product. So, we didn't think that was
+bad. But, um, you know, I I think that
+in the original release, you know,
+making it free was a big deal. I I don't
+think we appreciate that because the uh
+GPD 3.5 model was in our API for, you
+know, at least 6 months prior to that. I
+think anyone could have built something
+like this. Might not have been quite as
+good on the modeling side, but I think
+it would have taken off. So making it
+free and putting a nice UI on it very
+consequential in the way that you take
+for granted now. And this is why I think
+that a distribution and b the you know
+the interface are continued continuously
+important even in in 2025. the paid
+business which now is it's it's it's a
+it's a giant business um both in you
+know the consumer space and in the
+enterprise space the birth of that was
+just to turn away demand originally like
+it was not like you know we brainstormed
+oh what is the best monetization model
+for AI it was really what is what
+monetization model has or what what
+mechanism would allow us to turn away
+people who are like you know less
+serious than the people who are really
+trying to use it and subscriptions just
+happened to have that property and it
+you know grew into a large business.
+Yeah, I think
+shipping really kind of funky
+capabilities before they were polished
+is another thing where you know that
+feels like a tactical decision but it
+became a playbook because we would learn
+so much like remember when we shipped
+code interpreter we learned so much
+after u we shipped it you know now it's
+known as I think data analysis and chat
+GBT or something like that just because
+we actually got real world use cases
+back that we could then optimize so I
+think there's been like a lot of
+decisions over over time that um proved
+pretty consequential, but you know, we
+made them very very quickly as as as we
+have to. So, um
+&gt;&gt; the the $20 a month feels like an
+important part of this. Feels like
+everybody's just doing that now. And
+&gt;&gt; oh, that one actually I remember I had
+this like kind of panic attack because
+we really needed to launch subscriptions
+because at the time we were we were
+taking the product down every time. Um
+it was like I don't know if you remember
+we had this like fail whale. There's
+like a little E3 generated poem
+&gt;&gt; on it. They were like, "We had to get
+this out." And I I remember calling up
+um someone I greatly respect who's like,
+you know, incredible at pricing. Um and
+and you was like, "What should I do?"
+And like we talked a bunch and I just
+ran out of time to to incorporate most
+of that feedback. So what I did do is
+ship a Google form to Discord with like
+I think the four questions you're
+supposed to ask on how to price
+something.
+Yeah. Exactly. Yeah. It literally had
+those four questions and I remember
+distinctly a you know I got a price
+back. Um, and that's kind of how we got
+to $20. But B, uh, the next morning
+there was like a press article on like
+you won't believe the like four genius
+questions the Chachi team asked to price
+their it was like if only you knew. So
+there's like something about building in
+this extreme public where people
+interpret so much more intentionality
+into what you're doing than you know
+might have actually existed at the time.
+But we got with the 20. We're debating
+you know something slightly higher at
+the time. I often wonder what would have
+happened because so many other companies
+ended up copying the $20 price point. So
+I'm like, did we like erase a bunch of
+market cap by pricing it this way? But
+ultimately, I don't care because like
+the more accessible we can make this
+stuff, the better. And I think this is
+the price point that in Western
+countries has been um reasonable to a
+lot of people in terms of the value that
+they get back. And um more importantly,
+we're able to push things down to the
+free tier um semi-regularly. And we
+always do that when we can um including
+with GP25. So the survey just to give it
+the official name the van western drop
+survey uh is how you guys ended up
+pricing chap.
+&gt;&gt; It was the top Google result. This was
+before chat had real time information
+otherwise it could have maybe priced
+itself but uh it was discord plus google
+forum plus a blog post on that
+methodology that um got us there. So
+&gt;&gt; that is incredible. What a fun story.
+This is the survey that Rahulvore at
+superhuman popularized in his first
+round article.
+&gt;&gt; Yeah. Yeah. Yeah. That's right. That's
+right. Uh yeah, definitely don't bring
+me on here as a pricing expert. I think
+you you you have got better people for
+that.
+&gt;&gt; Whether it was right or wrong, it is now
+the fastest growing insane revenue
+generating business in the world. So, uh
+I wouldn't feel too bad.
+&gt;&gt; No, it worked out. Yeah,
+&gt;&gt; it worked out. Uh and by the way, I'm on
+the 200 a month tier, so there's clearly
+room.
+&gt;&gt; Thank you. Thank you. You know that the
+story of that one is is interesting too
+because you know originally the purpose
+of the plus plan was to be able to ship
+first uptime and then be able to ship
+capabilities that we couldn't scale to
+everyone and at some point we got so
+many people in the plus tier that it
+just lost that property. Um so the re
+the main reason we came up with the $200
+tier is just we had so much incredible
+research that's actually really really
+powerful. um like you know 03 Pro or to
+you know tomorrow GPD5 Pro. Um and just
+having a vehicle of shipping that to
+people who really really care is
+exciting even though it kind of violates
+the standard way a SAS page should look.
+Um it's like a little jarring to see the
+see the 10x jump. So um thank you for
+being a subscriber on that and thank you
+everyone else who's watching you
+subscribe to any tier. Um it's it's
+great.
+&gt;&gt; I'm just going to throw a fishing line
+into this pond of are there any other
+stories like this? You shared this
+incredible story of chat with GPT 3.5
+being the original name, how you came up
+with pricing. Is there anything else?
+&gt;&gt; Enterprise interesting one too because
+we've been seen so much um
+incredible adoption in the enterprise
+and it's sort of objectively crazy to
+try to take on building a developer
+business and a consumer business and a
+develop and and an enterprise business
+and an and all at once. But you know the
+story there is in in like month one or
+or two I it was like very clear that
+most of the usage was like kind of worky
+usage actually much more than today
+where you've got so many like kind of
+consumers uh on the product and you know
+it's kind of sort of transcended into
+pop culture but at the time it was like
+you know writing coding analysis that
+kind of stuff and uh we were pretty
+quickly in you know organically in like
+90% of Fortune 500 companies in a way
+that I had seen maybe at Dropbox back
+when I you know that
+two jobs ago where we kind of had a
+similar story and since then there's
+been more PLG companies but the real
+reason we did enterprise I remember we
+were debating should we do enterprise or
+should we launch an iOS app because
+that's how small the team was and the
+reason they did yeah did is we were
+starting to get banned in companies
+because they all you know felt you know
+rightfully or wrongfully that you know
+the the privacy and deployment story etc
+wasn't there so I was just like man we
+have to do something we're going to miss
+out on a generational opportunity to
+build a a a a work product and you know
+we've literally really define AGI as,
+you know, outperforming most humans at
+economically valuable work or I probably
+butchered that, but you know, I think um
+I think that's the way we put it. And um
+um so it I feel like we had to be
+present there. And it was a fairly, you
+know, quick decision at the time, but
+it's grown into an immense uh business.
+We just hit 5 million um business
+subscribers, up from three, I think, u a
+month or two ago. So it is kind of this
+spin-off that's taking a life of its own
+that I'm really really excited about. um
+um for for obvious reason
+&gt;&gt; that is a lot to be handling uh the
+platform essentially the API the
+consumer product the fastest growing
+most successful product in history and
+also the B2B side which is uh clearly a
+massive business uh do you have any kind
+of heristics for how to make these
+trade-offs do all this at once and stay
+sane and be successful
+&gt;&gt; uh it's a good question and you first
+off I don't run the developer stuff
+anymore we found someone way more
+competent uh to do that um and he's
+amazing So I still look after the, you
+know, various forms of of of chat, but
+you know, I luckily don't have to make
+make that trade-off. Open eye does, and
+I can get into that, too. But, um, it
+keeps me a little bit more sane. I will
+say that
+there you kind of have to prioritize in
+two different ways when you're when
+you're building on this AI stuff. One is
+sort of working backwards from the model
+capabilities and that is much more art
+than science where I think you really
+need to look at what tech do we have
+available and what is like the most
+awesome way to product productize it and
+if you applied to some sort of PM
+framework to that I think you would do
+something horribly wrong because if you
+have tech that's you know um for example
+GPD5 is is really really good at
+front-end coding now like I think we
+that means you got to rep prioritize it
+you how to like actually bring that
+capability to life. Maybe that's you
+know uh making making chatb better at at
+vibe coding and rendering you know
+applications. Maybe that's more like you
+know leveraging the taste of the model
+to make the the UI more expressive.
+There's like a number of things we could
+do right but you kind of have to replan
+and rep prioritize and that you know is
+more important than any particular
+audience segmentation. It's really just
+looking at you know what is the magic
+thing we have and how do you make it
+shine. Voice is a similar thing. It
+wasn't like our customers need voice.
+They're begging for it or something like
+that. It's like, wow, we figured out a
+way how, you know, to make these things,
+anything in, anything out. What is like
+a creative awesome way to productize
+that? And then we can see what people
+do. So, I think that's one chunk of it.
+But then the other chunk of it really is
+more like classic product management
+where you need to listen to customers
+and then when your customers are really
+different, that can be confusing because
+uh you know, chatbt is a very general
+purpose product. We see when you look at
+end users there's actually an immense
+amount of overlap in terms of what they
+want like primitives like projects or um
+you know history um search or um sharing
+um collaboration like all all those kind
+of things they are actually very very
+present whether or not you're talking to
+people at work or you're talking to
+people at home and school they're
+slightly different mechanics sometimes
+um but they're they're largely similar
+investments that I think we can get a
+lot of mileage out of and then there's
+enterprise specific work that we just
+have to do like you got to do hippa, you
+got to do soak two, you got to do all
+those things if you want to be a serious
+player and those are just
+non-negotiable. So, it's complex as you
+correctly identified. Um, but it's kind
+of the the curse of working on a very
+open-ended and powerful um technology.
+Uh, one analogy that that um, someone at
+Open who I really respect sometimes uses
+is like we're kind of like Disney where
+Disney has this like one kind of
+creative IP um, which is like their
+their content and they have cruises and
+they have um, uh, you know, uh, theme
+parks and they have comics and they have
+all these different things and I think
+we have amazing models but there's all
+these different ways that you could
+productize them and we kind of just have
+to maximize the impact in um, in all
+these different ways. As we were
+talking, I was thinking about how
+usually uh horizontal platforms that are
+just so general and can do so much take
+a long time to take off because people
+don't know what to do with them. They're
+not amazing at anything. And this is an
+amazing counter example where it took
+off immediately and everyone figured it
+out and then over time they figured it
+out more and more.
+&gt;&gt; But I I think the reason why is because
+it just went live. Talk about another
+consequential decision actually. You
+know, we were debating weight list, no
+weight list because we just really knew
+we couldn't scale the engineering
+systems and you know, the fact that
+there was no weight list, which no open
+AAI release had worked like that before,
+you know, ended up being consequential
+because like you were able to watch what
+everyone else was doing live. So, I
+think when you launch these things all
+at once for everyone, there really is a
+special moment where you can see what
+other people are doing and learn from
+that. And a lot of that is actually out
+of product. there's these crazy Tik Tok
+posts that go viral and they have like
+2,000 use cases in the comments and I go
+through those in detail because it's
+it's not like I knew about those use
+cases either like they're they're very
+very emergent and I just go through the
+comments and you know process because
+there's so much to learn and for that
+reason I think we get to escape the
+empty box problem a little bit because
+you know so much learning is happening
+out of product um as people are watching
+each other either IRL or uh or online.
+That is so interesting because you you
+think about air tableable you think
+about notion all these companies they
+took like years to just build and craft
+and think and go deep on what it could
+be. It's like compare air table which
+like you know they they had to do
+templates they had to do um like all
+these kind of things of taking the
+horizontal product and making it like
+use case driven compared to the like the
+Instapot
+um which you know there's recipes being
+shared everywhere online like there's a
+kind of this whole ecosystem around it.
+I think we were really lucky with chat
+GPT that that happened where there's
+just users sharing use cases with other
+users everywhere. Um and and therefore I
+I think you know we we we we kind of got
+very lucky by by by you know jumping
+jumping ahead um on on that journey
+right
+&gt;&gt; and it feels like a core there is Sam
+had a big following and everyone would
+pay attention to something you launched.
+So that's a really interesting new
+strategy for launching horizontal
+product with a huge distribution
+channel. Just launch it and see what see
+what comes up.
+&gt;&gt; Yeah. Yeah, and of course I'm actually
+really excited to take some of that into
+the product. Like I think there's
+there's we shouldn't, you know, rest on
+the fact that there's so much out of
+product discovery happening. Like I
+actually think for the average consumer,
+it would be amazing if the product did a
+little bit more work on really exposing
+to you what is possible. I I still feel
+like chat feels a little bit like MS
+DOS. uh we haven't built Windows yet and
+it will be obvious once we do but you
+know there there there's something that
+feels a little bit like like imagine MS
+DOS had gone viral and you were just
+trying to like hack like little
+conversation starters onto it that might
+have missed sort of the big picture in
+terms of how to really communicate
+affordances and value to people and so I
+I think there's actually a ton more
+product work to do in addition to you
+know just seeing use cases spread.
+&gt;&gt; Are you able to share just what you
+think that might look like this Windows
+version of chat GBT versus
+&gt;&gt; I'll let you know when we figure it out.
+Um, we're hiring. Um, I think there's so
+many interesting product problems here.
+&gt;&gt; Okay, got it. Uh, by the way, I also
+love that Tik Tok was like your feedback
+uh channel.
+&gt;&gt; Those comment threads are they're
+they're just so wild and and also the
+love that people have for it. Like the
+excitement with what you're sharing
+their product. I I I I kind of feel like
+it's it's it's special that people are
+so excited about to share what they're
+doing with your product. And um I don't
+take that for granted either. This
+episode is brought to you by Postthog,
+the product platform your engineers
+actually want to use. Post Hog has all
+the tools that founders, developers, and
+product teams need like product
+analytics, web analytics, session
+replays, heat maps, experimentation,
+surveys, LLM observability, air
+tracking, and more. Everything Post Hawk
+offers comes with a generous free tier
+that resets every month. More than 90%
+of customers use Post Hawk for free. You
+are going to love working with a team
+this transparent and technical. You'll
+see engineers landing pull requests for
+your issues and their support team
+provides code level assistance when
+things get tricky. Post hog lets you
+have all your data in one place. Beyond
+analytics events, their data warehouse
+enables you to sync data from your
+Postgress database, Stripe, HubSpot, S3,
+and many more sources. Finally, their
+new AI product analyst, Max AI, helps
+you get further faster. Get help
+building complex queries and setting up
+your account with an expert who's always
+standing by. Sign up today for free at
+postthhog.com/lenny
+and make sure to tell them Lenny sent
+you. That's postthogg.com/lenny.
+How do you find emergent use cases these
+days? I imagine the volume is very high.
+Do you have kind of a trick for figuring
+out, oh, here's a new thing we should
+really think about? Before I built the
+product team, I actually built the data
+science team. Um because I I was getting
+frustrated. I was talking to as many
+users as I could and my calendar you the
+weeks after chat was just 15-minute user
+interview the whole week through and it
+was usually I stopped doing interviews
+when I like can predict what the next
+person's going to say. That's how I know
+I've talked to enough users. But it just
+wasn't happening. Like I just kept
+getting new stuff. So data is one way
+out where I think you you know we we
+have conversation classifiers that
+without you know us having to look at
+the conversations allow us to kind of
+figure out what are people talking about
+what use cases are taking off etc. And I
+think that's very very helpful. The
+qualitative stuff is important for
+empathy even though you're never going
+to get a rep on like all the use cases
+people have. Um I still spend a huge
+amount of my time doing that. And then
+yeah, things like those Tik Toks, um,
+collections of threads, I think they're
+really, really useful and, um, um, it's
+just fun to watch people talk to each
+other about the various use cases that
+they have.
+&gt;&gt; Is there kind of a new emergent use case
+that you're excited about or is there
+like a really unusual use of chat GBT
+that you think about that would be fun
+to share? I mentioned this earlier, but
+I had always conceptualized Chat GBT as
+a a workie product. Whether or not
+you're at home or you at work like you I
+feel like you know helping getting help
+with your tax is very similar to you
+know um the types of things you do at
+work or you know planning a trip is
+actually very similar to you know
+planning an event for work. So I've
+always felt like okay this thing is
+going to kind of be a productivity tool
+and I think something has happened. I
+realized you know a few months where
+that has begun to change and I really do
+think the fact that you have consumers
+turning to this thing for day-to-day
+advice helping them like have better
+relationships like that seeing like you
+know people talk about how this thing
+like you know saved their marriage is
+like really exciting to me because like
+they you know proc use it to process
+their own emotions, get feedback on
+their communication style. is have a
+buddy to talk to about like really
+difficult things. And that comes with a
+ton of responsibility and work that we
+have to do to make those things like
+life advice great. But it also is really
+really important to me because you can't
+run away from those use cases. You have
+to run towards them and make them
+awesome. And um that's part of what
+we're trying to do. So that emerging
+behavior is really really cool. And more
+broadly I am so excited about education.
+And I'm so excited about um health. Like
+I I think it would really be a waste if
+we didn't take the opportunity of using
+chatbt to really really help people. And
+I think we've just begun to scratch the
+surface um on on that. So um there's
+many aspirational use cases that I want
+to make happen.
+&gt;&gt; Along those lines, an interesting use
+case I've recently had, I feel like it's
+going to be really helpful for uh
+couples that are disagreeing about
+something when they need like a third
+opinion. I just had this recently where
+my wife's like, "You can't heat a whole
+thing that you're gonna only eat part of
+in the microwave and then put it back in
+the fridge." It's like, "What's the
+problem? I'll heat it up. I'll put it
+back in the fridge." And she's like,
+"No, that's really dangerous." I'm like,
+"Let's ask JPT." And the fact that she
+so trusts Chiao GPT now and relies on it
+throughout the day. It's such a valuable
+third independent party that we can go
+to.
+&gt;&gt; Yeah. Yeah. Totally. And and you know
+the a lot of those micro interactions,
+talk about like interesting product
+work, right? Those are micro
+interactions are important, right? Did
+it like definitively weigh in or did it
+help you guys think through, you know,
+that that that disagreement and, you
+know, um, solve it on your own? I think
+those details actually matter a lot and
+it's where we're spending a bunch of
+time.
+&gt;&gt; Along those lines, there was this whole
+launch of the very sickopantic version
+of Chad GBT where it was just you are
+the best person in the world. Everything
+you tell me is amazingly correct. Uh,
+are you able to tell us just what
+happened there? Yeah, we have, you know,
+we have all kinds of collateral um
+online because we really felt like we
+should overcommunicate on how we
+discovered it, what we did about it,
+etc. So, I encourage people to check
+that out. Um we have a whole retro um on
+on on that model release, but basically
+what happened is that we pushed out an
+update that, you know, made the model
+more likely to, you know, tell you
+things that sound good in the moment.
+And um like you're you're totally right.
+you know, you you you should break up
+with your boyfriend or something like
+that. And you know, that's just really
+dangerous. And it's and and we we took
+it more seriously than you even might
+expect because again, at current
+technology levels, you can kind of laugh
+about it. Maybe it's like, ah, this
+thing's always complimenting me. I
+thought it was just me. I saw all those
+comments online. But, you know, it
+actually is is really important to make
+sure that um these models are optimized
+for the right things. And we have an
+immense I think luxury to have a mission
+that affords us to really help people a
+business model that does not incentivize
+you know maximizing engagement um um you
+know um or time spent in the product
+right so it's really important to us
+that you feel like this product is
+helping you with your goals whether or
+not that's your current goals or even
+your long-term goals and often times you
+know uh being extremely complimentary
+with the user isn't actually in in
+service of that. So we instilled new
+measurement techniques like you know
+whenever we put these models in contact
+with reality and we you know learn about
+a problem we actually go back and make
+sure we have good metrics for this
+stuff. So you know we measure safety now
+with every release to make sure we don't
+regress and can actually improve on that
+metric. Um GPD5 is an improvement which
+is really exciting for me but we have
+more work from there. Um and more
+broadly it caused us to articulate our
+point of view. who actually spent a
+bunch of time on a blog post that we
+just published on Monday on what we're
+optimizing chatbt for. And it really is
+for your you know to to to help you
+thrive um um and achieve your goals, not
+to you keep you in the product and um um
+so there was a bunch of good outcomes
+from from that incident. It's a good
+example of how contact familiality is
+not just important for the use cases but
+also for learning what to avoid because
+you would have never discovered this
+issue purely in a lab unless you
+actually heard it.
+&gt;&gt; I am excited to read that blog post then
+I was going to ask you this just like
+&gt;&gt; yeah have your feedback on it. Yeah
+&gt;&gt; and yeah I guess is there anything more
+there just like how you because this
+tension is so difficult like you know
+helping people feel supported but not
+just letting them believe everything
+they want to believe. Is there anything
+more you can share there just trying to
+find that middle ground?
+&gt;&gt; Incentives are important.
+There's a famous saying, you know, show
+me the incentive and I'll show you the
+outcome.
+&gt;&gt; Charlie Munger, maybe.
+&gt;&gt; Um, yeah, I think that's where it came
+from, right? And I think that's very,
+very important. So, I would take a good
+look at, you know, our mission, our
+business model, the type of product
+we're trying to build. And, you know, I
+I I really think that, you know, chat is
+a very special product because it I
+think in vast majority of cases, it
+makes you you leave it feeling better,
+not worse. and you like you know feeling
+like you're achieving something you're
+trying to trying to do and so I think
+that those incentives really matter
+because it helps you reason about okay
+when there isn't behavior in the wild
+that's not good was that a bug or was
+that by design you know and with sopy I
+can very much say that to us that's a
+bug and then on you know the the
+forward-looking work there's so many you
+know kind of challenging
+scenar to get right. And you could
+easily run away from from from these use
+cases like you know the like you know
+you and your wife going to this thing um
+for you know input on a relationship um
+um uh question or like a dispute. You
+could very easily run away if you were
+totally risk avoidant and say sorry I
+can't help you with that. I think that's
+what most tech companies do when they
+hit a certain scale. They run away from
+these use cases and I think it's a loss
+opportunity to help people. So we want
+to run towards these use cases by making
+the model behavior really really great.
+Um that can mean connecting you with
+external resources when you're
+struggling. That can mean not directly
+answering your question but instead of
+giving you a helpful framework you know
+in the case of like should I break up
+with my boyfriend should probably not
+answer that question for you but it
+should help you think through that
+question in the way that a thoughtful
+companion would. So I think it's really
+important to do the work because because
+I think the upside is immense. That is a
+really profound point you're making
+there that if most companies if they're
+if their users want to ask them
+something risky like get medical advice
+or should I break up with my partner or
+what should I do with this big problem I
+have. I feel like we would have immense
+regret if you had a model that was
+state-of-the-art on Healthbench, which
+is, you know, a um GP5 is
+state-of-the-art on, you know, a bunch
+of these medical benchmarks, right? And
+you didn't use that to help people, like
+if you just disable that use case
+because you wanted to like avoid all
+possible downside. I I think the duty is
+to make it awesome um and to do the
+work, talk to experts, figure out how
+good it really is, where it breaks down,
+communicate that. And um you know I
+think this this technology is too
+important and has too much potential
+positive impact on people to to run away
+from from um these high stakes use
+cases.
+&gt;&gt; And fast forward to today, it's saving
+lives regularly. It's probably saving
+relationships regularly. Such a
+consequential decision which I imagine
+was made early on.
+&gt;&gt; You know, we're just at the beginning of
+of watching how this people this this
+this stuff can transform people. Um,
+it's incredibly democratizing if you
+compare, you know, the roll out of this
+with the roll out of the personal
+computer, right? You know, computers
+were like so scarce when they first came
+out. And this stuff is ubiquitous in a
+way where you you have access to a
+second opinion on on medical stuff. You
+have access to, you know, um um a a
+relationship buddy. You have access to a
+personal tutor on literally any topic
+that uh makes you curious. Uh it's
+really really special that that that we
+get to do that. So um um unique point in
+in history.
+&gt;&gt; Let me zoom out a bit and talk about
+OpenAI and just product in general. So
+you've worked at traditional let's say
+traditional product companies, Dropbox,
+Instacart. Now you're at OpenAI. What's
+what's maybe the most counterintuitive
+lesson you've learned about building
+products from your time at OpenAI? each
+time like I always tried to pick the
+most different maximally different job
+whenever I made a job change you know so
+you know after Dropbox I was like
+craving a real world product because it
+was just so different than working on
+SAS etc uh and after Instakart I was
+craving on working on something that
+intellectually was interesting um and
+had you know this kind of like sort of
+invoked the nerd in me and you know so
+I've always looked for things that are
+really different and then once I showed
+up at these places I tried to understand
+what makes that place successful like
+what is truly the thing that they
+cracked and how we can lean in that into
+that even more and I think I spent a lot
+of time thinking about this with open AI
+um especially after chat before that you
+know it was kind of a moot point because
+we didn't really have much revenue or
+products or anything that you know like
+that
+and there's a you know a few things um
+that that that that come to mind that
+have driven many decisions Um, one is
+the empiricism. We talked about that a
+bit. The fact that you can only find out
+by shipping. Um, which is why Max and I
+lean into that and that's, you know,
+huge part of why, uh, we ship so much.
+Um, one of them is that, you know,
+amazing ideas come from anywhere. Um,
+the thing about running a research lab
+is you really don't tell people what to
+research. Um, that's not what you do.
+And we inherited that culture even as we
+become a research and product company.
+So just letting people do things who
+have amazing ideas rather than sort of
+being the gatekeeper or prioritizer of
+everything or something like that um has
+been proven you know immensely valuable
+to us and that's where much of the
+innovation comes from is empowered smart
+people on any function really um so that
+was a good inheritance from what I think
+made openi successful and makes us
+successful the interdisiplinariness
+of really making sure that you put
+research and engineering and design and
+product together rather than treating
+them as silos. I think that's the thing
+that has made us successful and that you
+see come through in every product we
+ship. Like if you know we're shipping a
+feature and it doesn't get 2x better as
+the model gets 2x smarter, it's probably
+not a feature we should be shipping. Um
+you know not always true. You know sock
+2 doesn't get better with uh you know
+threader models but you know I think for
+many of the core capabilities that's a
+good litmus test. So, I've always found
+you really have to lean into why is this
+place successful and then maximally
+accelerate that so to speak because um
+it's it's what allows you to turn
+something that feels like an accident
+into something that is a repeatable uh
+playbook.
+&gt;&gt; So, you talked about this kind of
+collaboration between researchers and
+product people and you've been at the
+beginning of chat GPT from day one to
+today from zero to 700 million weekly
+active users not just registered users
+weekly active users. How have you
+approached building out that team over
+time?
+&gt;&gt; One of the other inheritances of um
+being in a research lab is that you take
+recruiting really seriously. That's
+something that you know AI labs know.
+Every person matters. But many tech
+companies they go through hyperrowth and
+they kind of lose
+their identity. They lose, you know,
+their talent bars. They they they just
+kind of have chaos. Um so we've always
+had this tendency to run relatively
+lean. So it is a small team that is
+running chat GPT. Um I I take
+inspiration from WhatsApp where like you
+know it was a very small team running a
+very global scale product. Um and then
+more importantly I yeah I you know you
+have to treat hiring a little bit more
+like executive recruiting and less like
+just pure pipelineed recruiting where
+you really need to understand what is
+the gap you're trying to fill on each
+team. what is the specific skill set and
+how do you fill it? Um to give you an
+example, you know,
+I'm a product person at heart, but
+sometimes a team doesn't need a product
+person because there's already someone
+doing that role like like you know, in
+many cases we have a really talented
+engineering leader who has amazing
+product sense or we have a researcher
+who has product ideas and then and my
+mind they can play that role and maybe
+we have something else missing um
+instead like maybe we need like a little
+bit more front end um or something like
+that. In other cases, uh maybe what
+you're missing is an incredible data
+scientist. So, I really like to go
+through every single team and figure out
+what is the skill sets that that team
+needs and how do you put it together
+from principles rather than just
+assuming, hey, we're going to do like,
+you know, a bunch of pipeline recruiting
+for all these different roles and then,
+you know, people will find a team later.
+So, so I think that's always felt really
+important to me. Um, and it's the way
+that you keep your team really small yet
+super high throughput. also allows you
+to hire people who I think Keith Ke
+Keith Ro calls this like like barrels I
+think um barrels of ammunition where he
+thinks I think I think this comes from
+him but um the idea being that sort of
+the throughput of your or depends on how
+many barrels you have um which is like
+people who can make stuff happen and I
+think you can hire um and then you can
+add ammunition around them um which is
+people helping those people and you know
+I I think that's been really true for
+our recruiting too where we try to
+maximize sort of the number of empowered
+people who can ship
+because that's how you have a small team
+and still get a ton done. So, those are
+a couple things. Um, and uh I spent a
+lot of time on like vibes too with like
+each team because I think one of the
+things that is challenging when you try
+to do research and product together is
+that the cultures are different. People
+have different backgrounds
+and um I think to make that go super
+well, you need to spend time team
+building and making sure that people
+have a huge amount of trust for each
+other's skill sets.
+um feel like they can think across their
+boundaries. Um like you know um I really
+believe that product is everyone's job
+for example and and and for that reason
+the recruiting sort of doesn't stop when
+the people are in the door it actually
+starts because you have to you know
+start making the teams awesome.
+&gt;&gt; Is there something you do with team
+building that would be fun to share just
+like something you do to create a
+&gt;&gt; I just love whiteboarding with teams
+like I just like like love getting into
+a generative mindset. It breaks down
+everything. So that's that's the thing
+that I I I try. not particularly
+creative, but I found it to be um a
+universal tool where the minute you can
+get people to stop thinking about, you
+know, what's my job versus the other
+person's job and more like, you know,
+we're all in a room like trying to crack
+something together. That is incredible.
+&gt;&gt; You mentioned this idea of first
+principles. This came up actually when I
+talk with a lot of people about you. Is
+this something you're really big on? A
+lot of people talk about first
+principles. Most people are like, I
+don't really understand like or they
+think they're amazing at thinking from
+first principles. Is there something you
+can share of just what it actually looks
+like to think from first principles?
+Maybe an example that comes to mind
+where you really went to first
+principles and came up with something
+unexpected.
+&gt;&gt; Yeah, this is not something I'd ever say
+about myself. I said someone else would
+say it, but um you know, it's a
+mysterious thing. Yeah, I think you just
+really got to
+get to ground truth on
+what you're really trying to solve. Like
+for example, as I mentioned with the
+recruiting thing, like I'm not dogmatic
+that you have to have a product manager
+and an engineering manager and a
+designer or whatever. We're just trying
+to make an awesome team that can ship.
+So in that case, first principles means
+just really understanding what we
+actually need and what we're missing
+rather than applying a previously um
+learned process or behavior. So you
+know, I think that's a good example.
+Another good example of of I think being
+first principles in this environment is
+is is you know does this feature need to
+be polished? You know we get a lot of
+crap for the for for the model chooser
+and I own it. Um I've tried to say that
+every to everyone who will listen. Um
+you know for those who don't know model
+chooser is this like giant drop down in
+the product that is like literally the
+anti-attern of any good product
+traditionally. But you know if you are
+actually reason from scratch of like is
+it better to wait until you've got a
+polished product or to ship out
+something raw even if it makes less
+sense and start learning and getting it
+into people's hands. Um I think a
+company with a lot of process or a lot
+of just you know learned behaviors will
+make one call which is know we have like
+a quality bar when we ship and that's
+what we do. if your first principles
+about it, I think you're like, you know
+what, we should chip. It's embarrassing,
+but that's strictly less bad than, you
+know, um, not getting the feedback you
+wanted. So, I think just approaching
+each scenario from, you know, from
+scratch
+is so important in this space because
+there is no analogy for what we're
+building. Like there's just you can't
+copy an existing thing. There's no, you
+know, are we like an Instagram or are we
+like, you know, a Google or like a like
+a, you know, productivity to tool or
+something like that. I don't know. But
+you can learn from everywhere, but you
+have to do it from from from scratch.
+And I think that's why that trait um
+tends to make someone effective at
+OpenAI and it's something we test for in
+our interviews, too. So this theme keeps
+coming up and I think it's just
+important to highlight something that
+you keep coming back to which is this
+trade-off of speed and polish and how in
+this space speed is more important not
+just to stay ahead but to learn what the
+hell people actually want to do with
+this thing. Is there anything more that
+you think people just may be missing
+about why they need to move so fast in
+the space of AI?
+&gt;&gt; Yeah, I mean the boring answer would be
+oh it's competitive and everyone's an AI
+and they're trying to you out compete
+each other. Yeah, I think that's that
+may be true, but that's not the reason
+that I believe this. I the the reason
+really is that you're gonna be polishing
+the wrong things in the space. You
+absolutely should polish, you know, um
+things like the model output, etc., but
+you won't know what to polish until
+after you ship. And I think that is
+uniquely true in an environment where
+the properties of your product are
+emergent and not knowable um in advance.
+Uh, and I think many people get that
+wrong because like the best product
+people tend to be crafts people. Um, and
+they have a traditional definition of
+craft. I also think it would be easy to,
+you know,
+use all what I just said as an excuse
+not to eventually build a great product.
+So, I often tell my teams that shipping
+is just kind of one point on the journey
+towards awesomeness and you should put
+pick that point uh intentionally where
+it doesn't have to be the end um of of
+your iteration at all. It can be the
+beginning, but you better follow
+through. So, we've been doing a bunch of
+work, especially over the last quarter,
+of like really cleaning up the UI of
+ChatVt. I'm really excited to do the
+same for the sort of the response
+layouts and formats next simply because
+once you know what people are doing,
+there's no excuse to not polish your
+product. Um, um, it's just really in a
+world where you don't know yet, you
+might get very distracted. So, it's
+situational. Again, you kind of have to
+be first principles about it. But I do
+think using velocity especially early on
+as a tool you actually this has been
+said about consumer social for example.
+This is it's not the first space where
+people have said hey you just got to try
+10 things because you're probably going
+to be wrong. So I I don't think this is
+you know never existed before as a
+dynamic either. But I do think with AI
+um it's it's it's important to
+internalize
+&gt;&gt; and there's also an element of the
+models are getting are changing
+constantly and so you may not even
+realize what they're capable of. I
+imagine
+&gt;&gt; totally the models are changing and um
+you the best way to improve them whether
+or not you're a lab or actually just
+someone who's doing context engineering
+or or uh you know um fine-tuning a model
+maybe you need failure cases real
+failure cases to make these things
+better. The benchmarks are increasingly
+saturated. So really you need real world
+scenarios where your product or model is
+not actually doing the thing it was
+supposed to do. And the only way you get
+that is by shipping because you get back
+to sort of use case distribution and you
+can make those things good. Um, and
+therefore, you know, it it's actually
+the best way to then go articulate to
+your team, especially your MEL teams,
+what to climb on. It's like, oh, you
+know, people are trying to do X and the
+model's failing in ways why. Now, let's
+make those things really good. This
+point about failure cases makes me think
+about something that both Kevin Wheel
+and Mike Kger shared which is that eval
+are becoming a huge new skill that
+product people need to get good at
+because so much of product building is
+now eval.
+Is there something there you want to
+share?
+&gt;&gt; My entire open ed journey has been this
+journey of rediscovering
+eternal product wisdom and principles in
+like slightly new contexts.
+So I remember I I started writing evals
+before I knew what an eval was because
+like I was just outlining sort of very
+clearly specified ideal behavior for
+various use cases until someone told me,
+"Hey, you should make an eval." And I
+realized there was this entire world of
+research evaluation benchmarks that had
+nothing to do with the product that I
+was trying to make. And I was like,
+"Wow, this might be the lingua frana of
+how to communicate what um the product
+should be doing to people who do AI
+research." And that really clicked for
+me. And at the end of the day, it's not
+that different from the wisdom of you
+ought to articulate success before you
+do anything else. It's just a new
+mechanism for doing that. But you can do
+it in a spreadsheet. You can you do it
+anywhere. And I really want to demystify
+it for people who hear that term like
+it's not some technical magic that you
+have to understand. It's really just
+about articulating success in a way that
+is maximally useful for for training
+bots.
+&gt;&gt; Awesome. There's a I have a post coming
+out uh soon that gives you a very good
+uh how-to for PMs of how to write eval.
+&gt;&gt; I would love to read it. Um and I hope
+you dis I hope you agree what I with
+what I just said because maybe there's
+something deep to it. Yeah.
+&gt;&gt; Yeah. And now there's all these tools
+that make this easier for you.
+&gt;&gt; Totally.
+&gt;&gt; Okay. So this this basically backs up
+this point that this is just a very
+important skill that product teams and
+builders need to get good at.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Okay. Just a few more questions. I know
+you have a lot going on today. Um one is
+that this trend of chat GPT being a big
+driver of growth for traffic to sites uh
+for products. For example, Chat GPT is
+now uh driving more traffic to my
+newsletter than Twitter, which
+completely shocked me. I just was
+looking at my stats. I'm like, "What the
+hell? This is not something I knew was
+coming." So, just I guess thoughts on
+the future of this, how much how you
+think about just ChatBT driving growth
+and traffic to products and sites.
+&gt;&gt; I'm really excited about it. Um because
+you know in the same way that I I find
+it dystopian to talk to everything
+through a chatbot, I also find it
+dystopian to uh you know not have
+amazing new highquality content out
+there. And u for that reason, you know,
+I talked a little bit earlier about uh
+search and how that solved like a really
+important user problem early on because
+you had this like knowledge cut off
+thing and you suddenly you could talk
+about anything. uh very obvious in
+retrospect a it wasn't just a user
+problem right it was an ecosystem
+problem where like the original chat GBT
+it didn't have outlinks it would just
+you know um answer your question it keep
+you in the product and you know even if
+you wanted to keep reading or or go
+deeper there was no way for us to drive
+traffic back to uh the content ecosystem
+and I've been really excited about what
+we've been doing in search not just
+because it gives people more accurate
+answers because it allows us to surface
+really high quality content like this
+podcast to people um who want to see it.
+And of course there's so many
+interesting questions about well in the
+sort of Google era you know there was
+the search engine optimization and there
+was like clearly understood mechanisms
+of how to show up and get more traffic.
+So, I get a lot of questions from people
+like what is the equivalent of that the
+IRA, you know, if I'm Lenny and I, I
+want to like 10x the traffic to my
+podcast. You know, what do I actually
+need to do? And the truth is we don't
+have amazing answers there. Um, simply
+because the way to appeal to an AI model
+ideally is the same way that you would
+appeal to a u real user because the
+model's supposed to proxy the interest
+of the user and nothing else. At least,
+you know, that's how I want our product
+to work. And for that reason, you know,
+my advice is super lay, which is like
+make really high quality content. Um,
+which, you know, is is is not as
+actionable as I think people making
+content would ideally like. And I think
+this is why we have more work to do
+because maybe there's a better mechanism
+or protocol um that we could come up
+with. But uh I'm excited this is driving
+beautiful uh traffic for you. And I hope
+that you know other other um people
+making great content start to feel this
+way because again it's a very neat
+scenario. There's two uh acronyms people
+have been using for this specific skill
+of AIdriven SEO. I think one is AEO
+which is answer engine optimization. The
+other is GEO. Is that I don't I forget
+the G one.
+&gt;&gt; Generative. Yeah, I don't know.
+&gt;&gt; Generative. Yeah, AI optimization. Do
+you have a favorite of those too? Are
+you
+&gt;&gt; No, no, I I I tried to shy away from
+these terms unless they become
+inevitable just because I I'm not
+entirely sure if if yet if that should
+be a concept or not. Um again I think
+ideally
+chatbt understands your goals and
+therefore understands what content would
+be um interesting to you and the content
+creator's job is to to you know um share
+enough information and metadata about
+that content such that the model can
+make a user aligned decision and
+therefore I'm I'm not sure if giving
+this thing a name and you know making a
+thing is is is is what we should be
+doing or not. I'm very eager to learn um
+from folks making content about what
+this could look like because um again um
+we're we're we're still working through
+&gt;&gt; along these lines. Another question
+people think about is you have GPTs
+which are kind of these like uh GP
+custom GPT apps that you can build to
+answer very specific use cases. There's
+always this question of you're going to
+build kind of like an app store where I
+can plug in my news my product into chat
+GPT monetize that. Is there stuff there
+that you could talk about that might be
+coming someday?
+&gt;&gt; GBTs are cool. They're they're kind of
+ahead of their time in the sense that we
+built that kind of concept before you
+could really build very differentiated
+things. Uh at least in the consumer
+space, you know, um you're like learning
+GPT is going to be pretty similar to
+what the model could already do out of
+the box. So it's mainly like a way of
+articulating a use case to people. U but
+it doesn't have enough tools yet to make
+something that feels like an app. um so
+to speak different in the enterprise by
+the way we're seeing a ton of adoption
+of GPTs there because just every single
+company has very bespoke business
+processes and and problems etc and it's
+a really really useful tool there they
+also have unique data that they can hook
+up to these things that it can retrieve
+over so we've seen a lot of success
+there I think the idea is the right one
+um and I and I think we're going to
+figure out a good mechanism for it
+because when you have so much capability
+packed into AI.
+It feels really powerful to allow people
+to package that up in ways that have a
+clear affordance, a clear use case and
+are differentiated from each other. I
+also would love it if you could start a
+business on chatbt. Like I think there
+really is a world where you know as this
+thing hits building user scale, it can
+get you distribution. It can get you
+know started on making something in the
+same way that people built on the
+internet and you know there was entirely
+new businesses to be built. So I think
+we'll have more to share there in the
+future. GBTS was an early stab and I'm
+just excited to evolve the thinking
+there um as the models get good and our
+reach uh increases as well.
+&gt;&gt; Amazing. That is really cool. I'm really
+excited to see what you guys do there.
+Okay. Uh completely different direction.
+Something that I know about you is you
+studied philosophy in college.
+&gt;&gt; I did
+&gt;&gt; computer science and philosophy, right?
+A combo.
+&gt;&gt; Yeah. I started as a philosophy major um
+um and uh uh took one coding class
+because I really liked logic and
+programming most similar was most
+similar to that and then I fell in love
+with coding and then eventually computer
+science and I just kept doing more and
+more of it but until then I never really
+thought of myself as a technical person
+so it was kind of a late discovery in my
+life um that I'm very grateful for. What
+an incredible combination for someone
+leading this product. Just
+&gt;&gt; it's true. It is really coming in full
+circle in a way that I couldn't have
+predicted. Like the amount of questions
+you have to grapple with are truly super
+interesting and philosophy is it's not a
+traditionally practical skill, but it
+does really teach you to think things
+through from scratch and to you know
+articulate a point of view and I think
+that has come in handy numerous times.
+Is there a specific philosopher or
+school that has been most handy to you
+or is there more just a
+&gt;&gt; general there's so many I I I wrote my
+like senior thesis on whether and why
+rational people can disagree um which um
+you know also comes in handy when a lot
+of people with very different values
+have opinions on your model behavior or
+on you know how things should work um so
+um I really like you know 20th century
+analytical philosophers um it's it's
+kind of nerdy stuff uh but uh Um um I
+don't know if I have a favorite. Um it's
+too many to count. Um but um that's the
+kind of stuff I like. Um and some of it
+ends up being quite analytical like you
+have like let P be this theory of love
+and let Q be you know this other theory
+of love and then you do some sort of
+symbolic manipulation. So it is just as
+much a like sort of brain thought
+exercise as it is or is much more that
+than than practical. But it taught me
+how to think in a way that continues to
+be pretty valuable.
+&gt;&gt; Incredible. What a cool what a cool
+combo of skills and in background. Uh
+last question before we get to your very
+exciting lightning round. So you were a
+product leader at Dropbox, then
+Instacart, now you're the PM of arguably
+the most consequential product in
+history. How did you land in this role?
+What was the story of joining OpenAI and
+taking on this work?
+Every single career decisions I ever
+made, um, including my first one out of
+college was just figuring out who who
+are the smartest people I know that I
+want to like hang out with and learn
+from and can I work with them? And I
+don't know how to pick companies. I
+don't know how to really logically think
+through, you know, what space is going
+to take off or something like that. But
+I just do feel like I have a sense on
+people and um you know for Dropbox I you
+know followed like the head teaching
+assistant for a class that I uh was
+TAing and um you know for Instacart I
+followed some of the smartest product
+people I knew and for for OpenAI um the
+person who I recruited who recruited me
+uh Joanne u I had messaged her about
+getting off the dolly wait list and she
+said only if you interview here so she
+like kind of turned it into like a
+reverse recruiting
+thing and you know initially honestly I
+didn't know what I would do here because
+it was a research lab and I was a
+product person and they said you know
+don't worry um we'll figure it out and
+they were sort of being cy and I thought
+they were being ky because it's open AI
+and they can't share anything but they
+were being cy because we we actually
+just didn't know yet um at the time so I
+showed up and I kind of did everything
+under the sun and it definitely wasn't
+product you know it was like you know I
+think my first task was like fix the
+blinds or something like that And then,
+you know, I started sending out NDAs for
+people because they were needed some
+operational help. And then, you know, I
+started asking, wait, why am I sending
+out NDAs? Oh, so we could talk to users.
+And I was like, talking to users? That
+sounds like the thing I know how to do.
+And I quickly stumbled into doing
+product work. Um, and then eventually,
+you know, leading a bunch of uh uh
+product work, but it was organic by
+just, you know, showing up and doing
+what had to be done. Um, because again,
+the company I joined was not a product
+company by any
+&gt;&gt; Wow. Uh this is such a good example of
+uh I don't know if you think of it this
+way, but when someone offers you a seat
+on a rocket ship, don't ask which seat.
+Uh maybe
+&gt;&gt; I didn't know it was a rocket ship. I
+just thought it was I I kind of got nerd
+sniped is what I would would describe it
+as or like you know as I prepared for
+the conversation to get you off the
+dolly weight list really. U I I just
+started you know reading about the space
+and that you know peaked the like
+philosophy brain and then also actually
+the computer science brain. I was like
+wait this is cool. And then I started
+reading all the academic papers of that
+era and uh you know so so I just it was
+intellectual itch and and the people but
+then I stayed for the product
+opportunity obviously I I you know post
+chat GBT when that took off realized
+that you know we'd built a rocket ship
+um uh where we launched it while
+building it uh maybe this analogy uh but
+I can't say that you know it felt like a
+hyped job or um um or anything like that
+when I wide.
+&gt;&gt; So, kind of a a lesson there is follow,
+as you said, follow the smartest people,
+you know. There's also just this thread
+of uh follow things that are interesting
+to you. Just you playing with Dolly led
+to this opportunity.
+&gt;&gt; Yeah. Yeah. And actually, that's
+something we still test for is is
+curiosity is like an attribute that we
+think matters so much more than your ML
+knowledge. Um, you know, I'm not making
+a comment on research hiring. I think
+you do need some ML knowledge, I'm
+afraid. But you know on like for product
+and engineering and design people and
+you know those kinds of functions I
+actually think that if you are just
+curious about the stuff works it doesn't
+matter at all if you've never done it
+before. In fact if you were to filter
+for people who have done it before you
+would have a very narrow filter of very
+lucky people rather than necessarily the
+best people you can get. So um I think
+we've scaled that certainly what got me
+here but I think it's actually just
+generically been a good predictor of
+success at open. Nick, I told you I had
+a billion. I said I had two billion
+questions to ask you. I feel like I've
+asked a lot. I feel like I still have a
+billion left, but I know you told me
+right after this you have a big GPT5
+check-in that you got to get to. So,
+&gt;&gt; we got a ship.
+&gt;&gt; We got a better ship now that this is
+recorded and we're putting this out.
+&gt;&gt; This is true.
+&gt;&gt; This is
+this is the forcing function. Okay. So,
+before we get to very exciting lightning
+round, is there anything else that you
+want to share, leave listeners with,
+think is important to to share?
+I try to share a little bit about how I
+made decisions because I hope to
+I'm not that far out of school. I like
+relate a lot to people who are coming in
+the job market who are trying to figure
+out what to do with their life right
+now. And I feel very confident that if
+you surround yourself with people that
+give you energy and if you follow the
+things you're actually curious about
+that you're going to be successful in
+this era. So my, you know, parting
+advice u to folks really is put yourself
+around good people um and do the things
+you're actually passionate about because
+in a world where this thing can like you
+know answer any question asking the
+right question is very very important
+and the only way to get you know um
+learn how to do that is is to to you
+know nurture your own curiosity. So, um
+I uh it worked for me and um it's the
+one repeatable thing that I can um
+share. Everything else is luck.
+&gt;&gt; And this is counter to what a lot of
+people are doing right now, which is
+follow the money. Where can I make the
+most? How do I grow this thing and make
+$100 million? Like all these people that
+are getting these crazy offers were not
+planning to make a lot of money doing
+this.
+&gt;&gt; It's quite interesting to see that stuff
+play out because I think all these
+people entered, you know, school for
+genuine reasons. They were like excited
+about the space. they were researching
+it. They were pursuing knowledge and I'm
+happy that that's being rewarded. Um,
+and I don't know what the rewards will
+look like in the future, especially in a
+post AGI um world, but I I just have a
+feeling that if you if you you know, if
+you if you follow that advice, um,
+you'll end up okay.
+&gt;&gt; With that, Nick, we've reached our very
+exciting lightning round. I've got five
+questions for you. Are you ready?
+&gt;&gt; Sure.
+&gt;&gt; Yeah.
+&gt;&gt; What are two or three books that you
+find yourself recommending most to other
+people
+&gt;&gt; in the product space? probably things
+like high output management or the
+design of everyday things or you know
+those kind of classic type things
+because I think they're extremely
+applicable in
+&gt;&gt; we talked about philosophy I don't know
+is there a philosophy book you you like
+here's the one to read if you're getting
+&gt;&gt; oh man like anything by like rolls and
+nosic like I like the political stuff um
+it's I think it's really fun like it's
+that is the type I think I recommend I
+don't think there's a practical reason
+to to read that stuff but I will nerd
+out about it with you so um at your own
+peril
+&gt;&gt; do you have a favorite recent movie or
+TV show you've really enjoyed if you've
+had time to watch anything.
+&gt;&gt; I think you got to do a little bit of
+sci-fi to be in this space. Um, you
+shouldn't copy any of it, but um, I
+think I think you you learn from it. So,
+regularly rewatch her and Westworld.
+Severance is Severs was great. Um, I
+think that's the stuff that, you know,
+when I have time, I'll I'll I'll meddle
+with.
+&gt;&gt; That is awesome. I love that those are
+the two of all the sci-fi movies. Those
+are the ones you resonate most with and
+find most interesting and valuable.
+&gt;&gt; Um, yes, but that's probably my own
+limitation. Um um so I'm sure there's
+more to more to discover.
+&gt;&gt; By the way, have you read Fire Upon the
+Deep, a sci-fi book?
+&gt;&gt; Um
+&gt;&gt; Okay. I don't know if you have time to
+read this book, but it's I think you
+would love it. It's such a good
+&gt;&gt; AI oriented sci-fi space opera sort of
+book.
+&gt;&gt; Great.
+&gt;&gt; Yeah. Okay.
+Um Okay. Is there a favorite Do you have
+a favorite product you recently
+discovered that you really love?
+&gt;&gt; I actually don't. I am like at extreme
+capacity. It's Yeah. it. Yeah, it's it's
+it's kind of interesting sometimes like
+you know API developers ask me it's like
+hey are you like you know cop going to
+copy all of our products that is like I
+actually just do not have time to to
+follow up you know what's going on
+outside of OpenAI because the pace here
+is is so so intense so um don't have
+good Rex for you I'm afraid
+&gt;&gt; that's a really that's a comforting
+answer I think to a lot of product
+companies okay Nick has no time to even
+look at our stuff
+oh man okay do you have a favorite life
+motto that you find yourself using when
+things are tough, sharing with friends
+or family that other few people find
+useful.
+&gt;&gt; Being the average of, you know, the the
+five people you you spend the most time
+with is is like a thing I really
+internalize and both in my personal life
+where there's like people who give me
+energy and who you lift me up and make
+me like a better person. Um my fiance is
+one of those people, but you know
+there's many people in my life. But then
+there's also just like you know um at
+work there's the equivalent and again
+that's how I've made all the career
+decisions. It's like you know who do I
+want to learn from? So I apply that
+principle constantly.
+&gt;&gt; Final question. Everybody I talked to
+told me that you are a very good jazz
+pianist. You have won competitions. I
+think you were planning to do this as
+your main thing and then you somehow
+took the side quest.
+&gt;&gt; Yeah. I chickenened out of that at the
+very last minute, but I was going to I
+was going to go to school for for music
+and um that's still my like hopefully
+chapter two. Um
+&gt;&gt; I love that. That might still happen.
+&gt;&gt; Might still happen. Now I'm like I'm in
+some some some for fun bands. Um and we
+will kick from time to time. It's like
+the the one thing I can do when I'm
+otherwise, you know, super tired and
+can't can't can't think anymore because
+it it balances me out in in good ways.
+But uh yeah, hopefully I'll get to do
+more of it um in the future.
+&gt;&gt; Is there any analoges between music and
+your job? Anything that you you find?
+Yeah, actually I feel like I feel like
+you could think of software development
+as like you or being a product person as
+you could you could be a conductor of an
+orchestra or you could be in a jazz
+band. And I think of it as a jazz band
+where I'm like don't believe in in the
+idea of everyone having this like set
+part that they have to play um and me
+like kind of you know telling people
+when to play. I I I love how, you know,
+in in jazz or like other forms of
+improvised music, you're kind of riffing
+off of each other and you listen to what
+one person played and then you like play
+something back. And I I think that great
+product development is like that in the
+sense that ideas could come from
+anywhere. It shouldn't be a scripted
+process. You should be like trying stuff
+out, having fun, having play in and in
+in in what you do. So I use that analogy
+a lot for those for those who like
+music. It tends to resonate. Mick, I am
+so thankful that you made time for this.
+I know today is insane. Today, tomorrow
+is going to be even more insane for the
+entire world. They have no idea what's
+coming. Thank you so much for doing
+this. Two final questions. Where can
+folks find you if you want them to find
+you online? Where can folks find GPT5
+potentially? And then just how can
+listeners be useful to you? Just use the
+product. You don't even have to pay. Um
+should be your default model starting
+tomorrow. Um and just use it and don't
+think about models anymore. Uh unless
+you want to and you're a per user, in
+which case you get all little models. So
+um rest assured and uh useful honestly I
+I learned so so much from people at
+large and chatbt users etc. So just keep
+doing your thing. I'm watching and
+learning and u I appreciate all the
+feedback. So I'm sure after we fix the
+model chooser you guys will roast me for
+something else and I'll take it. So keep
+it coming.
+&gt;&gt; Amazing. Nick, thank you so much for
+being here.
+&gt;&gt; Thanks for having me Lenny
+&gt;&gt; and good luck tomorrow.
+&gt;&gt; Thanks. Bye everyone.
+Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

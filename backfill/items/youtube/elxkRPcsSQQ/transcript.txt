@@ -1,0 +1,1276 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+[Applause]
+&gt;&gt; Hello and welcome to another episode of
+the Odd Thoughts podcast. I'm Tracy
+Aloway
+&gt;&gt; and I'm Joe Weisenthal. Joe, if I had
+said to you a few years ago that there's
+a bank and the bank is taking deposits,
+you know, checking accounts, and it's
+putting that money into US treasuries
+and that business model is going to
+completely fail, the bank is going to
+collapse. What would you have said?
+&gt;&gt; Uh, I would have said, "Let's short the
+stock." That's what I would have said. I
+said if you told me that and you knew
+the only insight the only actionable
+thing there I said all right let's short
+it
+&gt;&gt; all right that's the right answer
+clearly if you were a banking regulator
+what would you have done
+&gt;&gt; well
+I don't know anything about being a
+banking regular it seems really hard and
+regulators in general often get
+criticized in various ways
+&gt;&gt; and they're like oh you busted this
+really small time ticky tech etc trading
+ring it's not that big of a deal or oh
+here's this uh thing that collapsed and
+why didn't you catch it before? They're
+always going to get upset about that.
+But I have to say I have a lot of
+sympathy for the regulators because for
+the most part my impression is that the
+US has one of the most robust,
+transparent, high-epth capital markets
+and financial systems in the entire
+world, which for the most part does not
+collapse. And so I feel like when it
+comes to regulatory issues, there's a
+lot of unseen where what we see is like
+if they're in the news, it's not good.
+But most of the time things aren't in
+the news. That should be the tagline for
+America's uh financial system. Most of
+the time does not collapse.
+&gt;&gt; Yeah.
+&gt;&gt; All right.
+&gt;&gt; Unironically.
+&gt;&gt; Well, I'm talking of course or I was
+talking about Silicon Valley Bank and
+the collapse there. And I think it's
+still very surprising to me. In in one
+sense, it was an old-fashioned bank run,
+but in another sense, it's very
+surprising that here's a bank that's
+basically buying a bunch of ultra safe
+assets, US treasuries, and still it ran
+into trouble. And banks of course are
+mandated to buy treasuries as well.
+We've talked about this on the show any
+number of times now. But
+&gt;&gt; I want to talk more about it.
+&gt;&gt; Sure. You know, the one thing I'll say
+too that I've been thinking a lot with
+SVB is I think in the wake of the 2008
+2009 financial crisis, we got very
+focused on the asset side of the balance
+sheet, right? And so it's like, oh, what
+do they have? What kind of subprime
+loans do they have and how good are
+their all of that, etc. But one of the
+things, you know, like Josh Younger
+talked about recently and others,
+Stephen Kelly had a note in our
+newsletter, you know, a lot of it is the
+difficulty in modeling the liability
+side and the slipperiness of the deposit
+base and how hard that is to know
+because you can have long duration
+deposits that suddenly become overnight
+deposits. It's really tricky and I still
+think these are difficult things to
+understand.
+&gt;&gt; Yeah, it feels like we're always
+fighting the last bank battle or the
+last bond battle. Okay. Well, on that
+note, we do in fact have the perfect
+guest. We are going to be speaking with
+Roit Chopra. He is, of course, the
+former director of the Consumer
+Financial Protection Bureau, also a
+former FTC commissioner, so really the
+perfect person to talk to if we want to
+dig into what happened to SVB, what it
+means for bank regulation, and then also
+what banks are doing right now. Yeah,
+&gt;&gt; Roit, thank you so much for coming on a
+thoughts.
+&gt;&gt; Thanks for having me.
+&gt;&gt; Here's my first question. Maybe it's a
+little pointed, but does the CFPB still
+exist? So, we just got the one big
+beautiful bill that's been passed and it
+looks like it slashes funding for the
+bureau. And of course, we know that
+Trump isn't exactly a fan of federal
+agencies. So, I'm curious, is it still
+functioning?
+&gt;&gt; It was already kind of gutted.
+&gt;&gt; Yeah. Anyway,
+&gt;&gt; yeah, it's a good question. And it seems
+by every single piece of evidence that
+it's just maybe there technically, but
+not doing a damn thing. We are hearing
+nearly every day about another financial
+institution that is being released from
+obligations.
+&gt;&gt; It has been months since there has been
+an enforcement action and many are
+estimating that this means billions and
+billions of dollars that consumers are
+not getting back in refunds and frankly
+a big disadvantage to all of those
+financial companies that follow the
+rules. when it was working when it or
+when it was operating. Describe to me
+what the remmit of the CFPB is and one
+of the criticisms of the that people
+leveled is they didn't know what the
+scope was etc. What is the formal scope
+of the CFPB?
+&gt;&gt; Well, essentially we saw decades ago
+that there weren't just banks in the
+business of offering consumer loans and
+products. It was all sorts of other
+companies, payday lenders, auto lenders,
+and in fact now the bulk of mortgages
+are originated outside of banks, the
+bulk of auto loans. And so after the
+subprime mortgage crisis, there was
+broad agreement that the Federal Reserve
+Board and other agencies just didn't
+focus and have the attention on making
+sure that existing consumer law
+&gt;&gt; was being followed. So the CFPB is
+responsible for inspecting the largest
+financial institutions and taking them
+to court when they break the law. Of
+course, also administering all sorts of
+rules that keep the mortgage markets,
+the credit report, credit reporting
+companies, and so many others in line.
+&gt;&gt; How does the CFPB interact with all the
+other bank policy stakeholders? Because
+there there seems to be quite a few. You
+mean the other regulators?
+&gt;&gt; Well, certainly the CFPB is the only
+&gt;&gt; regulator that oversees that gigantic
+non-bank consumer lending apparatus
+&gt;&gt; and also it has primary and exclusive
+jurisdiction over all banks and credit
+unions over 10 billion in assets. That
+means every credit card company, every
+big player in the market is primarily
+overseen by the CFPB. So the fact that
+it is now functionally a dead fish is
+leaving a very very big gap that no one
+can even legally fill in.
+&gt;&gt; Where do you see the biggest gap
+manifesting right now when you look at
+the consumer financial landscape? What
+isn't being enforced or what isn't being
+examined that in your view merits
+enforcement or examination? Well, I
+think the top priority is always trying
+to understand the linkage between the
+biggest markets and the broader economy.
+We saw that that linkage with the
+mortgage market was pretty damn big and
+its failure really crashed not just the
+US financial system but the entire
+global marketplace. So, of course,
+making sure that mortgages are fair and
+transparent, that key rules like the
+qualified mortgage rule, which sets some
+of the core standards to make sure there
+is not predatory mortgage lending, but
+also Joe, the nuts and bolts. Most of
+the issues that come in are people who
+have errors on their credit report. They
+say, "That's not even my name." or
+people whose bank accounts were
+illegally debited or cleaned out due to
+fraud. There's all sorts of issues that
+protect specific populations,
+military members, and so many other
+pieces that keep the markets working.
+So, I don't want to pinpoint anything
+other than to say that when I took
+office, it was after another few years
+where there really wasn't much going on
+there. And we saw how financial firms
+not just pushed the envelope but
+sometimes outright took advantage of
+people without any accountability.
+&gt;&gt; Well, speaking of accountability, you
+know, we mentioned SVB at the top of the
+show, and one thing I've heard, there's
+a little bit of a chicken and egg
+situation when people are analyzing the
+root cause of that particular bank
+collapse. So some people say, well,
+interest rates went up and that led to
+paper losses on the bank's bond
+holdings, and so people got nervous and
+started pulling their money. And then
+other people say, well, people started
+pulling their money even though the bond
+losses didn't necessarily need to be
+crystallized anytime soon. So I'm
+curious, can you pinpoint the spark that
+set off the latest bank crisis? Well,
+for me it really was March 8th
+&gt;&gt; 2023.
+Two things happened that day. One was
+the windown of a bank called Silvergate
+Bank which was heavily involved in
+banking some of the major crypto trading
+platforms. There was a flight of
+deposits out of that bank after the
+crypto winter and the collapse of FTX.
+We had been tracking I serve on the FDIC
+board and we were tracking Silvergate
+Bank and on that day they announced that
+they were not going to need to be put
+into receiverhip. they would be
+self-liquidating.
+And simultaneously on that same day, we
+had an announcement by Silicon Valley
+Bank, which is a little bit of a goofy
+press release they issued, saying
+they're experiencing some real losses on
+their securities portfolio and they're
+going to be looking for capital. It
+raised a lot of red flags and suspicions
+about whether they were viable. And this
+is something that is just so fundamental
+about banking and deposit taking is that
+it really is based on a belief that your
+money is going to be there.
+&gt;&gt; And the truth is is with federal deposit
+insurance and Federal Reserve discount
+window lending, it always is. Except
+when you have a bank that is over 90%
+uninsured deposits. This is something
+that is really unusual and some would
+argue is not even really a bank
+&gt;&gt; when you are that dependent on very very
+large depositors that you grew so
+quickly
+&gt;&gt; and so then the run began. How much
+would you ascribe it to the high
+percentage of non-insured deposits
+versus the concentration? So, in very
+specific industries. So, you mentioned
+the crypto one, but also here were all
+of these startups that had raised a ton
+of money in 2020 and 2021. A bunch of
+them apparently just put their money in
+a bank, which is kind of weird to me,
+and uninsured. And then we had the stock
+market plunge in 2022. Funding dried up.
+There was no very little new VC
+fundraising. So new dry powder to be put
+into the bank. Startups drawing down
+their own deposits just to make payroll
+or whatever else. And so you have two
+things going on. One is the high level
+of uninsured deposits, but also the
+concentration. So that there was this
+one specific sector that was all going
+through the cycle at the same time. So
+let me just push on that because even
+though it is one sector and I agree with
+you the concentration
+&gt;&gt; was an important factor in this but
+let's remember that the individual firms
+that were funded by venture capital many
+of them were doing fine. Um there was
+not necessarily something specifically
+or systemically wrong with those
+businesses. But I think and I agree with
+every small and midsize business out
+there. If I am launching a startup,
+whether it is an AI company or a dry
+cleaner,
+it doesn't rank in the top 20 reasons of
+my business failing that my bank is
+going to fail.
+&gt;&gt; Sure. And so what you start hearing is
+that these businesses which are highly
+networked as well as much faster
+communication, you get the advice from
+your funders and others that you need to
+run.
+&gt;&gt; And it was very clear that it was not
+just happening at SVB, it then was
+happening all over the system. I was on
+a train to Connecticut around that time
+and someone was sitting kind of close to
+me and it turned out they were banking
+with SVB. Their company was and I could
+hear the panic in their voice as they
+tried to like digest the news of what
+was happening. But on that note, why did
+corporate treasurers why did they put
+all their deposits in a single bank when
+presumably they know that there's a cap
+on FDIC insurance?
+&gt;&gt; Yeah, it it's a good question. I think
+there are some practical issues for some
+small and midsize businesses about when
+you're running payroll or when you're
+getting in a lot of receipts. I don't
+have as much sympathy for some of the
+very large companies that we have
+learned through public reporting
+&gt;&gt; put a whole lot of funds in that bank
+including really their entire cash
+reserves. So at the end of the day
+though the regulators we had we saw an
+active run that was occurring and of
+course those insured depositors the
+insured depositors really through the
+entire crisis did not really run. It was
+those uninsured
+it beca it started at Silicon Valley
+Bank after that Wednesday release by
+Friday morning they were dead. We had
+actually voted the night before or maybe
+at the pre-dawn hours to accept it into
+receiverhip and I believe by the time it
+was closed it had roughly $und00 billion
+queued up of outbound wires. So this was
+an enormous and fast run. And many of
+those technol libertarians that we often
+hear about who want no regulation, they
+were actively beating the drum online
+asking
+&gt;&gt; for a bailout.
+&gt;&gt; Well, this is actually interesting point
+and I was going to go there next and I
+think again it was a thing that Stephen
+Kelly wrote for us, but one of the
+things about 2023 I think he said it
+wasn't a crisis of regional banks. It
+was a regional bank crisis as in
+specifically the region of California
+because then there were other parts of
+there were other banks that got into a
+lot of trouble and the all thing they
+had in common was that they were all
+sort of in some way connected to
+California. I think I remember like
+people were going out looking for any
+bank that had California in the title in
+some way and betting against them. But
+talk to us about regulating banks and
+monitoring runs in a world of these
+networks, whether they're the public
+networks on social media or just the
+sort of networks of like-minded
+individuals who are all in the same
+WhatsApp group.
+&gt;&gt; Yeah, I'm a believer that we can never
+fight and we shouldn't want to fight the
+speed of communication. We want markets
+to have live information. I will say
+this, we saw the run start first at
+Silicon Valley Bank and then I think
+because of the confluence of factors
+with Silvergate, it wasn't just
+California is anything that seemed to
+have any crypto or tech adjacency. Of
+course, the second bank that we closed
+that Sunday was Signature Bank, which
+operated a crypto network, but also had
+a very real business. It is a New York
+City bank that was deeply involved in
+New York City multifamily real estate.
+You at the same time Joe had people
+worried about commercial real estate.
+&gt;&gt; But what we were seeing was that the
+banks with the highest percentage of
+uninsured deposits,
+&gt;&gt; they were being badly battered almost
+immediately.
+[Music]
+So ultimately a decision was made to
+expand the deposit insurance net and
+basically bail out SVB customers and
+others.
+What was the decision-making process
+like building up to that? And how big a
+deal is that? Is there like a legacy
+from that decision?
+&gt;&gt; It's a very big deal and it's one that
+in many ways is still hard to live with
+the decision even though it was the
+right decision. I think
+&gt;&gt; here's how it works. The federal law
+basically directs the Federal Deposit
+Insurance Corporation, the FDIC, to
+resolve a failed bank at the least cost
+to the deposit insurance fund. That's
+the fund that everyone pays into with
+their bank deposits. And it builds up a
+fund to pay for certain bank failures
+and make sure deposits are made whole.
+And here's what was interesting about
+Silicon Valley Bank and Signature Bank
+and then later First Republic. It was a
+super majority of uninsured deposits.
+That means a bank failure is not that
+expensive to resolve. the cost to the
+deposit insurance fund for a bank that
+is 90% plus uninsured is going to be
+pretty low. And if the law says resolve
+it at the least cost, in many ways the
+best case is sometimes to liquidate it,
+make as many people whole as possible
+and top them up with the deposit
+insurance fund. But there is a proviso
+in the law which says that if a failure
+is likely to lead to systemic effects or
+to threaten the viability of the US
+financial system. There's a process of
+key turning that a series of regulators
+must go through to recommend to the
+Treasury Secretary who must consult with
+the president to authorize the FDIC to
+take a different path. So over the
+weekend, the Sunday after the failure of
+Silicon Valley Bank and Sunday morning
+roughly, Signature Bank was taken into
+receiverhip.
+First Republic was a zombie and
+basically dead already.
+&gt;&gt; Oh yeah.
+&gt;&gt; There was a decision where the FDIC
+board, we voted
+to turn that key and the Federal Reserve
+Board had voted to turn that key and
+ultimately the Treasury Secretary
+discussed it with the president and
+activated that authority. The authority
+essentially led to the backstopping of
+all uninsured deposits.
+&gt;&gt; That meant that everyone would be made
+whole in the case of the failure and it
+was a tough decision. I think there was
+a question.
+I was arguing and questioning should we
+be maybe raising the limit dramatically
+perhaps to 25 or $50 million. What we
+were seeing in the system was active
+movement of uninsured deposits
+everywhere.
+And ultimately the decision to invoke
+that exception really did calm the
+system for the most part with the big
+exception of First Republic Bank.
+&gt;&gt; So the other thing that happened other
+than the expanded deposit insurance was
+the creation of a new Fed lending
+facility. Another acronym, the BTFP. How
+big a deal was that one?
+&gt;&gt; That one was weird. All banks have the
+ability to access the discount window
+through the Federal Reserve,
+&gt;&gt; right?
+&gt;&gt; But the Federal Reserve used some
+bailout authorities to launch this bank
+term funding program. This allowed banks
+to pledge their Treasury securities at
+par and draw
+&gt;&gt; draw funds from the Federal Reserve. I
+think there were a lot of us who raised
+our eyebrows at this. If the banks
+already had access to the discount
+window, why did they need this special
+program? I worried about the precedent
+setting of this. It was justified on the
+basis that there is stigma of going to
+the discount window. Ultimately, we saw
+some financial institutions game and
+arbitrage the program by drawing on it
+but then earning interest on reserves. I
+think we just have to be really careful
+when the Fed engages in lots of bailout
+programs because it sends a signal to
+the market that they can expect it the
+next time around. as a regulator and
+there are many people who say this and I
+you had a high level of scrutiny towards
+companies that banked crypto companies
+and many of them claimed that they were
+treated unfairly. What is it just from a
+high level? Let's start there. From a
+high level, what issues emerge when if
+any issues emerge from a bank that tries
+to build up a business among crypto
+companies?
+&gt;&gt; I think this is a bit of a conspiracy
+theory.
+&gt;&gt; Yeah. No, look, I'm but I'm just from a
+regulatory pers. Okay, go on. Because
+the truth is is that the issues with
+Silicon Valley Bank as you know and and
+described earlier was really about being
+so deeply underwater on their treasury
+securities.
+&gt;&gt; But there's whether we're talking about
+Signature Bank which did have a pretty
+big crypto book but also you just get
+all these crypto companies like oh we
+don't have it's so difficult for us to
+find a bank account. Is it difficult for
+them to do banking?
+&gt;&gt; Yeah. So let's see what we mean about
+banking for for crypto lending.
+&gt;&gt; Certainly there are going to be some
+banks who feel they have no expertise in
+this. I think the really interesting
+question is about deposit taking.
+&gt;&gt; Yes, definitely. I'm not talking about
+crypto. I'm talking about the deposit
+taking from cryptonative or crypto
+companies. deposit taking. There are a
+set of issues that banks always are
+going to want to look at when it comes
+to taking very very large deposits with
+a lot of in-n-out activity. And much of
+that is related to their own obligations
+for money laundering as well as what was
+mentioned before deposit concentration.
+So when you are a bank that has a couple
+of depositors who are the super majority
+of your deposit base, you are obviously
+going to take some steps to be careful
+around that. And I would say that the
+crypto issues in this run were fairly
+muted. It was really the perception
+about the potential exposures that we
+saw through the market. Though I feel
+that within a few days the fixation
+again was on uninsured deposits.
+&gt;&gt; When it comes to the bond losses, it
+strikes me that the Fed is kind of in a
+difficult position because on the one
+hand it has to conduct monetary policy.
+If inflation is high, it has to raise
+benchmark rates. But on the other hand,
+it also has a financial stability
+mandate. It's not part of the dual
+mandate, but it is a regulator. and
+raising interest rates in this case
+sparked a bank run it seems. How is the
+Fed supposed to balance these two goals?
+&gt;&gt; I don't see that as a balance at all.
+Okay. I think there is a lot that the
+Federal Reserve has really missed the in
+in many of the situations involving
+financial stability
+around Lehman Brothers as well as even
+including
+COVID. But certainly this one was a more
+clear linkage where when you have high
+concentrations
+of bond portfolios that are underwater,
+you need to be extra careful to not make
+sure that they are under capitalized,
+that they lack liquidity, and frankly
+that you are not turning a blind eye
+when you are supervising that
+institution. The warning signs with
+Silicon Valley Bank were there for
+months. And I do think there was a bit
+of a culture at the Federal Reserve of
+really taking a light touch in the years
+leading up to the crisis that I think
+has proven to be costly.
+[Music]
+I want to go back to crypto because I
+want to talk not just I understand the
+the obligations that a bank has in terms
+of money laundering in terms of lots of
+in-n-out transactions etc. However, from
+a regulatory perspective were banks that
+built up a crypto book of business did
+they get extra scrutiny in some way or
+did they does that merit extra scrutiny?
+I think you always want to make sure
+that rules are as clear as possible. And
+I do think bank regulation has turned
+into really a messy set of rules.
+Frankly, I think to accommodate the
+largest players rather than simple
+bright line rules. with when it comes to
+new types of activities,
+&gt;&gt; there's no question that novel
+activities are going to need a little
+bit more look than say a straightforward
+mortgage or a straightforward small
+business loan. So when you have
+particularly a bank that doesn't have
+experience in a product that may pose
+some real risks to them, I don't think
+it's unreasonable for a bank regulator
+to kick the tires.
+&gt;&gt; What is kicking the tires look like
+specifically?
+&gt;&gt; I think it can take a wide range of
+activities. It really depends on what
+type of new business that that bank is
+offering. But at the core making sure
+that that bank is well capitalized and
+liquid
+&gt;&gt; is always the top priority. But of you
+know banks play a major role in the
+financial state craft of America and one
+of the big reasons and benefits of the
+reserve currency is the role in
+detecting and deterring terrorism,
+finance, drug cartels, and more. and
+federal law puts some real obligations
+on them for that.
+&gt;&gt; Okay. So, speaking of novel businesses,
+I want to widen the net a little bit and
+maybe talk about fintech and what banks
+are doing right now. And here I have to
+issue a disclaimer which is I am very
+jaded about fintech in general. I used
+to cover it at the FT and I heard the
+same stories, the same themes over and
+over again like big tech is coming for
+the banks or retail is coming for the
+banks like Walmart start starting a
+financial product and things like that.
+Fast forward to today, I mean it does
+seem like this is something that is
+actually happening. What's the ultimate
+ambition there in the payment space?
+Well, payments is really something that
+has so rapidly changed. Many of it is
+very good. It's easier to move money,
+particularly with mobile devices. It's
+faster than it used to be. I do think
+that we have some real concerns about
+the playbook that many of the firms who
+are moving money, how are they
+monetizing it? A lot of our payments
+companies and big tech companies I think
+are really drooling over what they see
+in China where Alip pay and WeChat pay
+are trafficking almost all of the
+consumer payments non-cash payments in
+&gt;&gt; you can't pay in cash at a Starbucks in
+Beijing. I know from personal experience
+&gt;&gt; and we there's a lot of questions about
+what is the monetization scheme there.
+When I was at the CFPB, we led a study
+that looked at all of these major
+payment platforms. And I think there was
+a desire to monetize a lot of that
+payments information
+through surveillance, being able to know
+exactly not just the amount someone is
+paying, but the skew level data in their
+basket, ultimately feeding a
+foundational algorithm that ultimately
+could serve up personalized prices.
+There was lots of issues we dealt with
+when it comes to fraud and identity
+theft. There were certainly issues when
+it comes to the shift of where money was
+being stored. Many people believed that
+the app they were using to send money
+had money in a bank account somewhere
+but in fact maybe it was in an uninsured
+account. So I think that we should be
+looking at payments in terms of what is
+the ambitions of those companies and why
+do they want it. We worked hard with
+global central banks and regulators to
+inject more competition.
+Apple for example had a real chokeold
+over iOS devices only allowing Apple Pay
+to be used. Europe has banned that
+practice. other countries are looking to
+restrict it as well. So I think that
+stable coin and once stable coin becomes
+part of the broader ecosystem which it
+may it will open up some additional
+issues about how payments in America
+will ultimately work. Yeah, I was just
+going to ask about that actually because
+to some extent
+that seems like a potentially good thing
+if I'm worried about okay there's a
+handful of internet giants and a handful
+of commerce giants who want to have more
+and more skew level data about myself
+and what I buy to my mind it seems
+possible that stable coins and having
+your own distributed wallet on your
+phone or something like that could
+change the architecture of the internet
+such that there isn't such a information
+bottleneck that only a few giant
+companies have access to.
+&gt;&gt; Yeah, it depends on who's issuing them.
+Okay. When I was at the Federal Trade
+Commission, Mark Zuckerberg, Cheryl
+Sandberg, others
+&gt;&gt; announced the Libra project, which I
+think was completely a way to cement
+more of a moat of Facebook and and now
+Meta's empire of being able to track and
+trace the flow of money and ultimately
+to be able to ensure that merchants
+operating in their ecosystem would use
+their currency of choice. So I think
+it's really important that we do not
+have payments and money controlled by
+any real big commercial player. it is if
+it if there is a stable coin that is
+issued completely separately that is not
+affiliated with one of those companies
+but I worry that the market could easily
+tip toward an existing big tech network
+and ultimately that might provide huge
+advantages to that firm but not
+necessarily the whole economy. Tracy,
+you know what's funny to me is, you
+know, you have all the crypto people and
+there a lot of them got really upset
+about Libra again and how that thing
+whole failed. But to my mind, if you
+think about it, many of those same tech
+people hated the speech regulations that
+existed on the big social networks in
+the early 2020s and the late 10s and the
+idea of shadow banning and all of this
+stuff. And it's like, imagine if they
+did that to payments, right? Like do you
+really want to invest that same power
+that they have to decide what is
+appropriate speech and not appropriate
+speech into the realm of okay now they
+also have the ability to regulate what
+is appropriate payments and
+inappropriate payments. That's a lot of
+investature of power.
+&gt;&gt; This is the issue that came up in the UK
+right there was already some drama about
+who was it Nigel Farage's bank account
+being taken away because of his
+politics. So yeah, that concern is
+definitely there.
+&gt;&gt; And we had that here where PayPal had
+sent out some terms and conditions
+that allowed PayPal to find people for
+their speech presumably off platform.
+And I think we need to be really careful
+about giving any of those firms the
+ability to really have a big footprint
+either on speech or on commerce. And
+that is part of the reason why most
+developed countries have separated
+banking and commerce. But we are now
+potentially in a new era. And I would
+argue stable coin is not really about
+crypto. That might certainly be the
+technology, but it is essentially a new
+type of payments and banking charter.
+&gt;&gt; Wait, talk more about that because most
+people when they think of stable coins,
+they probably think of a money market
+fund, but as you point out, there's a
+huge overlap with banking in the sense
+that stable coin issuers are taking in
+people's money and for the most part
+supposedly putting it into things like
+US treasuries, maybe gold, ultra safe
+assets. And the whole business is built
+on the premise that depositors are
+always going to get their money back.
+Right. That seems like an echo of a
+bank.
+&gt;&gt; That's right. And I think over time we
+have seen how
+the line has blurred between a bank and
+other types of deposit instruments. You
+know, essentially the Federal Reserve
+has multiple times needed to stabilize
+money market funds and in fact has a
+facility at the New York Federal
+Reserve, the overnight reverse repo
+program that one could consider a sort
+of daily bailout program to keep it
+stable and transmit monetary policy. I
+really worry that if we keep having
+enormous flows from banks to these money
+funds, we are essentially
+going to create problems with how we
+transmit and intermediate credit to the
+real economy.
+&gt;&gt; I would argue that a stable coin, if it
+was a tokenized bank deposit
+&gt;&gt; versus a tokenized money market fund,
+has a lot of different effects long
+term. Most of us know that banks are
+still the key to lend to small
+businesses, to lend to farms, and to
+lend to the real economy. If you are
+essentially putting a thumb on the scale
+toward money market funds or tokenized
+money market funds, the beneficiaries
+are very large firms, sovereigns, and
+others who can access those money
+markets. So we should really want to
+make sure that banks or there is some
+something that takes the place of
+filling in the gap for small businesses,
+farmers and others who depend on bank
+credit.
+&gt;&gt; So the Senate in June passed the Genius
+Act to, you know, start creating a more
+robust set of stable coin regulations,
+but it did not allow for yieldbearing
+stable coins. So that's a great business
+if you're in the stable coin business.
+Collect all that yield, but you don't
+have to pass it on unlike a bank. What's
+your perspective on that? Is this about
+preserving the importance of deposit
+taking bank institutions so that they're
+not dismediated into this way or is this
+just a sop to the banks so that normal
+old deposits are still a good business?
+&gt;&gt; It's a very messy piece of legislation.
+I think there is some arguments that
+yield chasing of a uninsured product is
+probably a recipe for more bailouts and
+more mess. On the other hand, we can't
+be setting federal laws to advantage
+banks. Um, they often get what they want
+anyway. I would argue that one of the
+best ways to pursue some tokenized
+payment systems that could potentially
+disintermediate the incumbent payment
+networks would be to use tokenized bank
+deposits. And just like we could have
+paper cash, each issued by a different
+regional Federal Reserve Bank, our
+digital wallets could host tokenized
+bank deposits that are sitting in banks
+across the country and being
+intermediated into credit to the real
+economy. I think what we see is largely
+a legislative framework that is going to
+benefit the big crypto incumbents. Well,
+speaking of benefiting the big, another
+largeish trend in the banking system is
+consolidation, of course. And post the
+financial crisis, I think we saw the
+number of small banks, regional banks
+out there absolutely plunge. And I think
+it took a few years before we actually
+got a new bank set up, a denovo bank.
+And it was, I think, in Pennsylvania,
+Amish country, which was kind of funny.
+I guess my question is like presumably
+you want a diverse network of lenders
+out there because you want to avoid the
+too big to fail problem and you want
+people to have access to credit to your
+point earlier. How do you encourage a
+more diverse or dynamic banking system
+and avoid the outcome where, you know,
+Joe and I always like to throw up the
+charts of how JP Morgan or Wells Fargo
+came into being and it's just a story of
+them snapping up lots and lots of
+companies. Decades ago, there was a
+Supreme Court case that was very preient
+that warned that consolidation
+in the banking system would ultimately
+contribute to mass consolidation in the
+real economy. And you're right, the
+number of small community banks has
+dwindled. And there's all sorts of
+reasons for this, including changing
+technology, consumer preferences so much
+more. But I think one of the real big
+reasons is that there is a perception
+that the very largest banks as you
+mentioned will be protected. When
+Silicon Valley Bank was failing, where
+was all the money flowing to?
+&gt;&gt; They were taking their money out of
+Silicon Valley Bank, Signature Bank and
+others. It went to the very big guys
+because every investor believes that
+these banks are essentially always going
+to be protected. They are able to raise
+money with that implicit guarantee and
+that means they are able to out compete
+on so many dimensions
+unfairly I think their smaller
+counterparts. So I I really think we
+need to be careful about giving benefits
+and picking winners and losers and
+that's what we have been doing is
+essentially picking the very largest
+banks as the winners and others as the
+losers.
+[Music]
+We recently had the Robin Hood CEO on
+the podcast. They're very excited about
+tokenization of all kinds of things
+including uh tokenization of stock for
+that matter. And due to uh crypto
+technology of some sorts, there's
+enforcing borders in terms of defining
+what a regulatory perimeter even is from
+a geographical standpoint is really
+hard. And due to smart contracts and
+stable coins, etc., It's very plausible
+that you could somewhere in the world,
+maybe in an offshore or a lightly
+regulated country, create some token
+that tracks some regulated instrument
+and it trades like a regulated
+instrument up until maybe something goes
+bust. Is there a danger that regulating
+consumerf facing financial products that
+law won't be able to keep up? that there
+is this sort of like technological
+explosion of things and that to some
+extent because anyone who has access to
+a stable coin wallet and access to the
+internet could theoretically trade
+anything anywhere that it would just be
+a crisis from the regulatory perspective
+and keeping a handle on everything
+that's going on.
+&gt;&gt; Well, I think we do have a jump ball
+right now on the future of the dollar.
+We do see the Trump administration very
+interested I think in fundamentally
+rethinking the role of the dollar in the
+system. You raise this example of
+technology but for years we have seen I
+believe it's a $14 trillion market of
+offshore dollars euro dollars which
+poses very serious and significant
+issues for the entire regulator. Now we
+could have euro stocks like literally
+not the Euro stocks index but something
+that resembles in trading a US listed
+regulated stock except it's on some
+digital exchange. It's a decentralized
+exchange but it moves in the same way
+and how do you even like begin to wrap
+your head around? I think the way in
+which you want to is constantly
+to figure out how do we solve real
+problems in the economy
+&gt;&gt; and how do you build for that rather
+than allowing for products services to
+create it purely based on arbitrage. I
+also think we want to make sure that we
+don't try and create something so
+complex that it will always be
+arbitrageed around and we need a lot
+more simple bright lines that investors,
+consumers, everyone can really easily
+understand and easily follow.
+Ultimately, the US is going to be the
+place where people want to do business
+because of strong rule of law and a good
+legal system and all of those things.
+And that's one of the most important
+things to safeguard. Speaking of novel
+businesses and I guess the idea of
+policy kind of chasing after new tech,
+I'm just going to go all Seinfeld on
+this question and ask what's the deal
+with buy now pay later because that is
+everywhere nowadays and obviously
+&gt;&gt; the question the wider question it poses
+is whether or not consumers are just
+taking on a load of credit in a new way
+that possibly isn't accounted for very
+well. Well, it's always interesting.
+There's a table published by the Federal
+Reserve about consumer credit
+outstanding and it is always missing
+many things including buy now pay later
+which we have seen surge through the
+pandemic growing more than 10x.
+&gt;&gt; Wow.
+&gt;&gt; It has really changed quite a bit. Tracy
+by now pay later strangely was not
+really homegrown in America. It came
+from other jurisdictions. It was popular
+in Sweden, Australia, and now it is a
+major form of credit. Just so everyone
+understands what it is,
+&gt;&gt; you take out a loan, often pay in for.
+It does not have an interest rate, but
+the the buy now pay later lender takes a
+cut from the merchant just like a credit
+card company does. So you have seen a
+lot of consumers believe that this is a
+better way because it is no interest.
+But the CFPB
+did extensive study on it and found that
+there's very significant issues when it
+comes to people returning goods and not
+necessarily getting it credited.
+&gt;&gt; There's issues of people having multiple
+buy now pay later loans across different
+lenders and are levered up. I would hear
+actually complaints from auto lenders
+who would say to me, "How am I supposed
+to write this auto loan if I don't know
+what the buy now pay later loans are?"
+Because they're not on the credit
+report. Often
+&gt;&gt; this this strikes me as super
+interesting. I mean just like how
+inadequate right now is our tracking
+both in terms of the scale of it just
+when we think about okay we want to have
+aggregate sense of consumer consumer
+indebtedness and then how how much of a
+struggle is it for actual lenders to
+judge the creditworthiness of consumers
+because of the lack of visibility into
+the
+&gt;&gt; BNPL the faster it grows the more
+difficult it will be and I think a key
+piece of this is we are seeing all sorts
+sorts of buy now pay later like products
+go beyond the traditional lenders. We're
+seeing banks and credit card companies
+saying use my card and then go online
+and you can convert it to buy now pay
+later or some people thinking about how
+to
+&gt;&gt; connect it to community bank debit
+cards. So I do believe it is a big blind
+spot about consumer credit outstanding
+right now. Obviously, it is a relatively
+modest piece of the overall unsecured
+debt, but if it continues its
+trajectory, even if it slows its growth,
+it will be a big piece of that pie.
+&gt;&gt; I mean, presumably by now pay later
+would fall or could fall under the remit
+of the CFPB,
+but
+&gt;&gt; Well, it does.
+&gt;&gt; It does, but I mean the CFPB is not
+really functioning anymore. That seems
+like an issue.
+&gt;&gt; Well, what we are seeing is that the
+protections that the CFPB tried to put
+in place for buy now pay later
+borrowers, some basic ones, and you can
+get some statements that you're able to
+return goods and get it credited.
+&gt;&gt; It looks like a lot of that is just
+being thrown in the trash or just not
+enforced. We are seeing states all over
+the country though looking to beef up
+protections because they see how this
+could create a treadmill of debt for
+people. Just one more question from me.
+So you were head of the CFPB under the
+Biden administration and you were at the
+FTC under the first Trump administration
+and you got to experience some some of
+the second Trump administration. What's
+your sense of the difference between
+Trump 1 and Trump 2.0 and how that
+administration is operating and thinking
+about things like regulation?
+&gt;&gt; Yeah, I think that there is when it
+comes to finance a real sense of
+concern about how they want to think
+about the dollar and how they want to
+think of the future of Treasury
+securities. I see Secretary Besson talk
+very deliberately about wanting stable
+coin, for example, to be a way to boost
+demand for treasuries. Of course,
+there's lots of issues with that,
+&gt;&gt; but I think more broadly, the first
+Trump administration was a lot less
+organized
+and now there is a clear clearly a plan
+that they are executing on even if it
+seems chaotic. So I think for those who
+have concerns about it, I don't think
+they should write it off as just chaos
+or craziness. I think there is a lot of
+things that are being done that will
+have lasting effects on the financial
+system.
+&gt;&gt; All right, Roit Chopra, thank you so
+much for coming on a thoughts. That was
+so interesting and really good to get a
+regulator's actual perspective. Thanks
+for having me.
+&gt;&gt; Thank you so much. That was great.
+[Music]
+Joe, that was really interesting and I'm
+so glad we could have Roit on to give a
+sort of fly onthe-wall perspective of a
+regulator during, you know, what was a
+pretty dramatic time.
+&gt;&gt; There's so many interesting things
+happening in FinReneg right now in
+general. just obviously the sort of like
+turning of the dial you know I think
+like a really big picture story that
+doesn't get a lot of attention because
+we focus a lot on the changing
+administrations because the financial
+crisis was a really long time ago these
+things always eb and flow right so you
+have a crisis and everyone cracks down
+and you sort of uh you know you do the
+max and then memories fade you're like
+why do we have the like this is I feel
+like it's human nature as the 2009200
+reforms go further into the past, we're
+just going to have this sort of natural
+loosening until the financial crisis of
+2045 or whatever it is.
+&gt;&gt; Well, I mean, why do we have the CFPB?
+The whole answer is it was created after
+the 2008 financial crisis. The other
+thing I thought was really interesting
+and this gets to the consolidation point
+which I think is a massive massive story
+in uh the US financial industry but it's
+just that idea of okay if you're worried
+about your deposit at a smaller bank the
+natural thing is to move it into a too
+big to fail bank because you know that
+the US government based on precedent is
+not going to let them go and so that
+again seems to give the big banks a sort
+of uh unnatural edge perhaps in terms of
+deposit I mean, I we I know we talked
+about this after SVB in multiple
+episodes, but the sheer number of banks
+in the United States that still exist
+like boggles the mind, right? There is
+no other country in the world that has
+as many. Canada's like six banks. We're
+so heavily banked in this country. It's
+still today the random
+&gt;&gt; There used to be a lot more. A lot more.
+&gt;&gt; Yeah. But I mean it's staggering the
+number of community banks and regional
+banks that exist in the United States
+even with all the consolidation.
+&gt;&gt; Do you want to be like Canada, Joe?
+That's the question.
+&gt;&gt; No, I don't know. I I mean I I like
+genuinely don't know like what the
+optimal distribution is or anything, but
+given the advantages that the big banks
+have, the perception of safety, their
+technological capabilities that they can
+invest in that a community bank will
+never be able to replicate, brand, etc.
+the proliferation of banks is still like
+a sort of interesting phenomenon of our
+financial system.
+&gt;&gt; The other thing that struck me from that
+conversation was the buy now pay later
+stuff which you know
+&gt;&gt; we got to do more on that period.
+&gt;&gt; Absolutely. It's becoming a really
+interesting story but it just kind of
+blows my mind that no one is actually
+tracking that credit because the whole
+thing is supposed to be
+technologydriven. It's plugged in to the
+checkout process of a website. It's
+really easy to do. It seems insane to me
+that like the credit bureaus can't track
+it at the same time and it seems like a
+huge huge data hole for the US economy.
+&gt;&gt; That's a huge story. I completely agree.
+And then uh you know we sort of talked
+about at the end. I mean I think
+&gt;&gt; it's such an interesting question the
+degree to which if it happens we'll see
+stable coins become part of the payments
+landscape in a meaningful way rather
+than just a way to get money onto
+cryptocurrency trading websites which is
+where they began. And then all of the
+things around tokenization of equity. I
+mean, it's just a fact that Robin Hood,
+whose CEO we had on, unilaterally
+announced that at some point there's
+going to be some version of tokenized
+equity or tokens that correspond to
+equity in private companies, doing it
+unilaterally. How regulators are going
+to actually get their handle on this, I
+have no idea.
+&gt;&gt; Yeah. Tokens, tokens everywhere and not
+a bank to lend. I think that was Roit's
+point, right? All right. Shall we leave
+it there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the Odd
+Thoughts podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Joe Weisenthal. You can follow
+me at the stalwart. Follow our guest,
+Roit Chopra. He's choprausa. Follow our
+producers, Carmen Rodriguez, Carmen,
+Dash Bennett at Dashbot, and Kellbrooks
+at Kellbrooks. For more OddLots content,
+go to bloomberg.com/odlots.
+We have a daily newsletter and all of
+our episodes. And you can chat about all
+of these topics 24/7 in our Discord,
+discord.gg/odlotss.
+&gt;&gt; And if you enjoy OddLots, if you like it
+when we do autopsies of failed banks
+with regulators, then please leave us a
+positive review on your favorite podcast
+platform. And remember, if you are a
+Bloomberg subscriber, you can listen to
+all of our episodes absolutely adree.
+All you need to do is find the Bloomberg
+channel on Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+[Music]
+Heat. Heat.
+[Music]
+Yeah.
+[Music]
+Heat.
+[Music]

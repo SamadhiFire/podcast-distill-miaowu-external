@@ -1,0 +1,1536 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the OddLots podcast. I'm Joe Wisenthal
+&gt;&gt; and I'm Tracy Aloway.
+&gt;&gt; Tracy, we're still here at Jackson Hall.
+It's funny saying things like we're
+still here because we're recording all
+these episodes at the same time and we
+don't really know exactly when you're
+listening. But this is yet another
+Jackson Hole episode.
+&gt;&gt; Another special missive from Jackson
+Hole. So I think there's like an element
+if uh if I'm being honest a certain
+surreality of Jackson hold this year
+because it is an academic conference
+historically and you know the setting
+aside the chairman's speech which we'll
+uh talk about more setting aside that
+speech you know it's a place for like
+talking about important issues and yeah
+academic economics and that's great and
+I love that stuff and it's super
+interesting and all that and yet the big
+story is really the attack on the whole
+premise on the independent central banks
+and yet it's sort of like feels like
+everything but that gets talked about.
+&gt;&gt; I think that's right. And you said
+setting aside Pal's speech, but it was
+very very noticeable that in his speech
+he could have taken it as an opportunity
+to talk about things like central bank
+independence or things like data
+integrity given what's been happening at
+the Bureau of Labor Statistics, but he
+chose not to.
+&gt;&gt; Yeah, great point. You're right. Like he
+could have I because we're wondering
+like you know this is going to be his
+last speech last time speaking as the
+Federal Reserve chairman. So he could
+have said something really big about
+reflecting on a career of being a
+central banker and the importance of all
+these things and he he gave a uh you
+know macroeconomic policy speech.
+&gt;&gt; There's also this other layer which is a
+lot of what he's trying to do now which
+seems to be to focus on labor market
+deterioration and maybe look through
+some of the upside risks to inflation
+right now. that only happens if you have
+a credible central bank that can pin
+longer term expectations for inflation
+down. Like
+&gt;&gt; yes,
+&gt;&gt; the only reason he's able to do some of
+this is because of the credibility the
+social capital that the Fed has built up
+over decades.
+&gt;&gt; Exactly right. And the reason why we're
+talking about this, just to be very
+clear, it's because of the attacks from
+the Trump administration on Jerome
+Powell, also other uh Fed governors,
+also, you know, the whole thing. And
+this is just part and parcel of one
+attempt to sort of you know restructure
+how the US does both domestic and
+international policy because there's the
+tariffs obviously and those intersect
+with monetary policy but then there's
+just also the sort of changing
+relationship with other countries that
+gets into things like you know like
+let's get like payment for security or
+something like that like big so many
+like big hinges and pivots at one point
+&gt;&gt; it's I mean I don't think it's hyperbole
+to say it's a attempt at restructuring
+of the global order both in terms of the
+economy via the international financial
+system and also in terms of security. I
+think the confusing part for me is I it
+is a fact that America has the world's
+biggest economy. America came through
+the pandemic a lot better than a lot of
+other countries. We ended up having
+lower inflation than a lot of other
+parts in the world. And yet the Trump
+administration seems very very convinced
+that the US is somehow losing out from
+the current international order or maybe
+they feel that there's just more that
+they could get from restructuring it. So
+I think we should talk about maybe the
+motivations behind some of this and then
+what the new world could possibly look
+like.
+&gt;&gt; Well, we literally have the perfect
+guest, someone we've had on the someone
+who we always catch up with in Jackson
+Hall.
+&gt;&gt; It's becoming a tradition. It's a
+tradition and he's literally the perfect
+guest because he used to be on the
+monetary policy committee at the Bank of
+England. So he has all the uh monetary
+policy bonafides. He is currently the
+president of the Peterson Institute for
+International Economics and he is the
+author of a recent article the new
+geography who profits in a postamerican
+world that was in foreign affairs and
+he's not one to like sort of dance
+around big issues.
+&gt;&gt; He doesn't mince his words.
+&gt;&gt; Yeah. So this is when I say perfect
+guest to talk about this. Someone that
+was like, "Okay, if we talk to Adam
+Posen, we can actually really like talk
+about all these things that maybe many
+people are anxious to talk about." So
+Adam, thank you so much for coming back
+on OddLots. Great to see you again here
+at Jackson Hall.
+&gt;&gt; Thank you for having me back and
+congratulations Tracy and Joe on the
+upwards profile of OddLots ever higher.
+So it's very cool.
+&gt;&gt; Very kind of you to say. Are we right
+that there is a certain surality to the
+vibes here right now?
+&gt;&gt; Yeah, it is. As you said, there was a
+lot of deliberate focusing down of chair
+pal speech and there's been a lot of
+self-discipline of members of the FOMC
+and everybody to be quite restrained uh
+at a time when the attacks on the Fed
+and the weaponization of government
+files to attack individual Fed members
+and so on is going on. I think Tracy's
+absolutely right and we didn't script
+this in advance but it is all part of
+this broader context of do you keep
+inflation expectations anchored do you
+have faith in the dollar do you have
+faith in the credit of the US do you
+have faith in US foreign policy and
+those are all things which Fed officials
+are not supposed to talk about with the
+exception of the inflation expectations
+and on the inflation expectations even
+there they're reluctant to talk about it
+because it can becomes self-fulfilling.
+If they talk about worrying about it,
+then it starts to unravel. But also, to
+be fair, because the
+&gt;&gt; seeming message of the rapid come down
+in inflation that we talked about our
+last two times we were together in
+Jackson Hall over 2022
+was due to having anchored long-term
+inflation expectations. At least that's
+one argument. But it is surreal, Joe. I
+mean, I I've gotten to talk to several
+of the members of the committee and they
+are trying to get on with their lives
+and um it's hard. But I also just want
+to emphasize it's not that different
+than their colleagues in Washington at
+the Treasury or at EPA or at the Bureau
+of Labor Statistics that they also are
+under attack. So, we've done an episode
+on this before, but I would love to get
+your take. What exactly happens to
+central banks when their credibility
+starts to come under attack or even when
+maybe on the fiscal side you see
+politicians interfere a little bit more
+with monetary policy even if that
+interference is just a truth social post
+or something like that?
+&gt;&gt; Yeah, I think Tracy the emphasis is
+should be on the latter part of what you
+said. When elected officials who are
+superior to central banks in any power
+struggle, when fiscal policy, which if
+it gets really out of whack, has what's
+called dominance, fiscal dominance, can
+overpower whatever monetary policy is.
+When the context for central banking
+changes, then it's not so much
+necessarily the credibility of the
+central bank per se. It's the
+credibility of the central bank will be
+allowed to deliver what it's supposed to
+deliver. And I'm not saying that to make
+excuses for the central bank. There are
+instances like Arthur Burns in the 70s
+where the central bank itself is
+compromised and fails to deliver. But I
+think that's the way to see it. And
+where you see it is where we're already
+seeing it in the US, which is you see it
+in a slightly higher risk premium on
+long-term government bonds. You see it
+in weakening of the currency. And you
+know, some of this I think can be tied
+to the broader, again, I'm sorry to keep
+coming back to that, but to the broader
+Trump economic agenda. As both of you
+said, it is a real regime change, but
+we're seeing it already. And so there's
+a chart in this foreign affairs article,
+the new economic geography I put out.
+Thank you again. That does a simple
+version of something a lot of
+economists, academics have done, more
+sophisticated versions, which is
+basically the correlations on the dollar
+have reversed,
+&gt;&gt; right?
+&gt;&gt; That with a couple interruptions in
+2008, in the late '7s, early 80s, the
+dollar has the quality that when it gets
+into trouble, more money flows into it.
+And even if the US is causing a problem
+in the world, people believe they're
+safer in the US than
+&gt;&gt; 2008 was the ultimate example.
+&gt;&gt; 2008 was the ultimate example. Dollar
+adjust down. But basically, Treasury
+bond rates and dollar move in lock step,
+which is another way of saying they
+don't have to put up the rates to defend
+the dollar.
+&gt;&gt; And it also means that most of the
+movement in the dollar daytoday is just
+macro news, just day-to-day news. And so
+putting it simple-mindedly, there's a
+correlation very strongly positive in
+intraday intrae data between the dollar
+and the 10-year Treasury rate until
+April 1. April 1 of this year that
+correlation shifts from plus 0.8 to
+minus0.4.
+It reverses sign. And what happens is
+when something screwy happens in the US,
+like we decide unilaterally to bomb
+Iran, like when we do crazy stuff on one
+big beautiful bill that's fiscally
+irresponsible, like when Powell is
+attacked in vicious terms by the
+president. Gee, interest rates go up,
+dollar goes down. That looks like an
+emerging market. Anyway, this is this is
+not just a data mining. You can do it in
+very fancy econometric ways. You get the
+same result. the correlation of safety
+on the dollar has reversed and that
+would be a sign of what you're talking
+about Tracy.
+&gt;&gt; Our friend Carrick Sankeran who's been
+on the podcast always talks about sort
+of the definition of an emerging market
+is if your rates at the long end go up
+in the recession, right? Because you
+know in times of crisis in the US
+historically you're like oh things are
+really bad in the US. I'm going to pile
+into dollars at treasuries. This is what
+you're talking about which is that that
+reflex has not kicked in exactly this
+time since we've got four and a half
+months of very clear data. it's going
+the other way. A lot of the things the
+Trump administration is doing are going
+to reinforce that because they've talked
+about taxing foreign investors
+differently in the US than domestic
+investors. They've talked about
+punishing people who try to switch out
+of the dollar. Steven Moran, who's been
+nominated to be Federal Reserve Board
+Governor, you know, has talked about a
+Mara Lago accord and re putting the
+dollar down. There's real reason for it
+to behave this way. Now talk to us about
+like your your foreign affairs piece
+like the sort of you know this idea of
+like the restructuring of the global and
+who profits from it because you also
+talk about this idea of like the US is
+like sort of the global insurer of last
+resort but talk to us a little bit about
+what this whole piece was about.
+&gt;&gt; Thank you Joe and and this goes to what
+Tracy was saying at the start about how
+what you think you're achieving with
+this world change. So what I'm trying to
+argue is that the Trump administration
+decided that the world economy is
+playing the US for a sucker and that
+very harsh direct bilateral measures
+starting with tariffs but also with
+other threats, demands for investment,
+demands for military assaults on social
+media, all these things, threats to
+withhold military assistance in the case
+of Ukraine and others that this will be
+a rebalancing that this will get more
+money from these countries into the US
+and thereby make our fiscal situation
+better, be fairer and somehow do great
+things for the US economy.
+This is wrong on every level. But the
+fundamental point going to the insurer
+is I build a mental model, not a
+mathematical model, but a mental model
+that I think most people have found
+quite apt that for the last 80 years
+since World War II, the US's main role
+in the world economy has been to be the
+insurance provider. We made sure that
+you could ship things through with
+through different oceans and get there
+safely. That there was basically respect
+for property rights, respect for
+intellectual property rights. There were
+some standards, particularly technical
+standards, some brands. There was a
+dollar that you could get in and out of
+and park money in. And it was deep
+enough markets and treasuries that you
+could get in and out that nobody cared
+and it didn't affect prices. There was
+stability to US currency into the
+treasuries that let you do that. Just a
+whole host of things. Plus military and
+alliance as well, obviously for NATO
+allies, for Japan, for Korea and others.
+And we charged premiums for that. We did
+get premiums. We had much lower interest
+rates. People would put a lot of money
+into US government debt and that made
+the whole economy go off better. We had
+basically obedience from all these
+countries and military alliances that
+they would do sanctions for the most
+part. If we wanted to do sanctions, they
+would in Okinawa in in Rinmine Air Base,
+they would take our troops and support
+them and have them garrisoned in their
+country. to have our troops forward and
+doing this whole host of things. And on
+the economic front, it gave us
+disproportionate shares not just of the
+stable investment in treasuries,
+but things like our standards for
+technology, our standards for legal
+matters, our our financial system were
+the default. Anyways, this had lots of
+benefits, lots of benefits for them,
+lots of benefits for us. It was a good
+business.
+Essentially, what's happened is you have
+a beach house in Malibu which you had
+insured and you weren't going to build
+the beach house unless it was insured.
+Fine. You're paying insurance. You're
+getting something for it. Now there's
+global warming. Hurricanes are more
+likely. There's erosion in the beach.
+You're prepared to pay a bit more for
+your insurance. But instead, you find
+your insurer has decided, "Nope, we're
+going to deny your claims or you have to
+slip something under the table to get
+your claim adjusted. Nope, we're
+tripling your premium and if you don't
+like it, we're going to leave the state
+and you're not going to have insurance
+anymore. That's what the Trump
+administration is doing.
+&gt;&gt; I mean, the role of insurance also acts
+as a sort of like umbrella for economic
+development, right? Because if you have
+insurance on the beach in Malibu, other
+people can build houses and you can have
+shops and things and maybe your house
+price starts to rise and you benefit
+from that. So, this is a slightly unfair
+question because I'm going to ask you to
+channel someone else's thinking, but
+what exactly is the argument from the
+Trump administration here as to why they
+are losing out from the current
+international economic or financial
+order which very much seems to have been
+built by the US and as you pointed out
+has a lot of tangible and intangible
+benefits for America. Well, this is
+something I and colleagues of the
+Peterson Institute have been struggling
+against for several years now. Uh, not
+just Trump. There are people on the
+Democratic side who've had this view as
+well. So, in the same issue of foreign
+affairs, Wally Adamo, who you know, who
+was deputy treasury secretary in the
+Biden administration, has an article,
+yes, the trade system was broken. During
+the Biden presidency, the US trade
+representative gave a speech in which
+she said she basically agreed with
+everything her predecessor, Robert
+Lighheiser, had said during the Trump
+adation. So, this has been out there a
+long time.
+&gt;&gt; Yeah,
+&gt;&gt; I know you want me to answer a question,
+but I'm I'm not going to try to
+rationalize it. I think there are three
+or four things going on. One is there is
+an excessive sense that China has been
+unfair, but even more so that China got
+away with being unfair and is dangerous
+because of things we did on the economic
+side.
+&gt;&gt; And I don't think this is justified. Not
+that I have any love for the Chinese
+Communist Party. I'm on record calling
+she an autocrat, but just that Tom Brady
+and Bill Bich didn't win Super Bowls
+because they cheated
+in a little ways. China did not become
+China because it cheated a little bit
+here and there. The second thing is
+there was a legitimate concern which the
+Biden people cared about and the Trump
+people say they care about but don't
+seem to care about that if we're too
+dependent on concentrated single sources
+for things like the semiconductors in
+Taiwan that puts us at a national
+security risk. That puts us at an
+economic risk. The reason I say the
+Trump people don't seem to genuinely
+care about that is because being totally
+concentrated in the US in one spot isn't
+any good either because then you're
+subject still to natural disasters, to
+terrorism, to political problems, to
+corruption. You can care about this and
+say we got to make sure it's
+diversified.
+Third thing that's going on is there's a
+perception fed by the so-called China
+shock literature that US manufacturing
+was devastated and this led to
+particular small cities and towns in the
+US being devastated.
+There's a lot of exaggerations and
+problems with this literature and it
+doesn't square well with the reality
+including the reality that most of the
+places that are cited as having had
+problems had problems in the 70s and
+that there's plenty of places like
+Pittsburgh and Raleigh, North Carolina
+that got back. But anyway, there's that
+sense and I think you've had on my
+colleague Robert Lawrence from Peterson
+and Harvard who talks about the limits
+of a manufacturing strategy. And then
+finally, and this is my own
+interpretation. People get mad at me
+when I say this. I think there's a lot
+of displaced anger. I think there are
+people who were relatively privileged.
+They weren't necessarily rich, but
+relatively privileged in older society
+in the way the US society used to be
+that have been disrupted and offended by
+change and by
+&gt;&gt; forces towards equality. I also think
+there's a bunch of people who are
+understandably very angry and
+disappointed with elites after the 2008
+financial crisis after co been
+perceptions of mishandling after the
+Iraq Afghanistan invasions and
+occupations for 20 years that didn't
+produce anything. So there's a lot of
+anger that's discredited
+that of discredited elites who are
+associated with being globalists, right?
+But I don't think that anger is well
+placed. And and I'm not trying to be
+patronizing. I mean, we've seen this in
+the US history and other history. you
+know, people will stir up anger against
+immigrants or stir up anger against
+Native Americans or people of color or
+refugees or com mythical communists in
+the government in the 50s because
+they're angry about something else or
+they're scared of something else, but it
+gets blamed on that. So, that's where I
+think it comes from. But I just want to
+emphasize what you've said at the start
+and that's part of the point my article
+is trying to make is there's a very
+clear list of benefits the US had by
+running the system and by had a good
+business model was a profitable business
+model providing insurance and like you
+said if you're providing insurance for
+some people that lets commerce expand
+and it lets other people free ride and
+that's a good thing that they free ride
+and because then then you get more
+commerce and more taxes and more
+livelihood and better off people. And
+additionally, one thing where the
+analogy breaks down, it's even more
+favorable for the US because, you know,
+if you're Chub or Liberty Mutual or or
+State Farm Insurance, you don't really
+have a big effect on the extent of risks
+out there by how much insurance you
+give. But if you're the US and you say,
+"I'm going to guarantee your security,"
+you actually do reduce the risks that
+are out there. And that means you're
+collecting the same premiums and paying
+out less
+[Music]
+at the risk of uh carrying the insurance
+analogy too far. I mean, it is true that
+we have insurers pulling out of areas
+like Florida because they say it's no
+longer economic to insure these areas.
+It's just too risky. It's going to cost
+too much to rebuild. Is there a case to
+be made at all here that maybe maybe the
+Trump administration is looking around
+the world and saying, "Well, it's
+riskier now than it was before and we
+don't want to be on the hook to put out
+a billion fires." I think there is a
+case to be made in the national security
+sphere more narrowly defined that the US
+may have overextended or needs to
+prioritize and there is a set of foreign
+policy thinkers out there talking about
+this issue. I still don't think that's
+quite right because actually deterrence
+and protection kind of like you said
+before there's an umbrella effect. But
+let's say that the national security
+part you can set aside and say there is
+an argument to be had. The rest of it
+doesn't make any sense because you're
+giving up strength of the dollar and
+lower interest rates. You're giving up
+disproportionate compared to your size
+in the world foreign direct investment.
+You're giving up disproportionate
+compared to your size in the world,
+influence over technical standards, love
+for your brands, spread of your
+services. You're giving up
+disproportionate amounts of influence on
+other populations. Again, it's just like
+looking at foreign students coming here,
+which I know you've talked about on some
+of your episodes, that unless you come
+up with some absolutely mythical number
+of how many of them are not only spies
+for the Chinese, but successfully pull
+it off, are undetected, and take the
+Chinese information that they couldn't
+possibly have gotten through cyber
+attacks and other means. Unless you come
+up with an absolutely absurd number like
+that, all the benefits come to us from
+having foreign students here. And that's
+what's can be said about all these
+things on the economic side.
+&gt;&gt; By the way, when you were talking about
+the um you know what we had going, you
+know, it's like that Breaking Bad speech
+that I've seen is we had a good thing
+going.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; You know, one of the reasons I like
+talking to you, I do feel like it's
+refreshing, frankly,
+&gt;&gt; the sort of unreformed liberal cuz
+everyone is like post, you know,
+everyone's sort of post liberal now and
+everyone. So, I appreciate that. Also,
+two years ago when we first had you on
+the podcast and you recommended Ezra
+Vogel's biography of uh Deng Xiao Pang
+to me and I then I read it the next
+month and I read so I appreciate the
+book recommend that led me down.
+&gt;&gt; I think that's I was going to say that's
+the thing that
+&gt;&gt; led me down the whole rabbit hole. I
+read like 50 books about 20th century
+Chinese all thanks to you. But I want to
+talk about China a little bit more
+because I take all your points about
+about everything. However, and you know,
+you've been sort of like refreshingly
+skeptical of a lot of these ideas that
+it's particularly important to have more
+manufacturing in the United States, etc.
+But there is this very real concern that
+without robust manufacturing, you
+actually can't have a worldclass
+military. And if you're just thinking
+about like okay we provide this
+insurance role in some ways very
+literally say with our navy through
+various straits around the world and
+setting aside whether China cheated or
+not. Should we be anxious if pure like
+manufacturing capacity and the
+technological frontier in building
+things including weapons is in China?
+&gt;&gt; Anxious is not the right word.
+&gt;&gt; Okay.
+&gt;&gt; And I appreciate you're saying about the
+liberal and that's the part I didn't
+say. I mean, I think a lot of people are
+making the case that you I'm pushing
+back against the tracing you asked about
+because it's seems to be politically
+advancable to to say that old-fashioned
+liberal values are bad. In the case of
+China, again, there's a difference
+between arguing in a frankly not just
+liberal but neoliberal, if I can use
+that word, way that there is a specific
+market failure
+to make sure we have adequate minimum
+sourcing and diversified sourcing of key
+national security
+inputs, right?
+&gt;&gt; Yeah.
+&gt;&gt; So, you know, that's fine. You can say
+that and it's like, yeah, wouldn't it be
+good if the defense department and the
+commerce department and the intelligence
+community actually had a process by
+which they identified this
+&gt;&gt; and actually had a ongoing commission
+and had a list and had expert advice and
+decided, excuse me, in a nonpartisan way
+how to do that and then actually
+marshaled specific money and measures to
+do that.
+And if you could do that, and you
+should, that would affect, you know,
+some tiny percentage of the US economy,
+it might be incredibly important for
+having drones or aircraft carriers or
+whatever the right technology is. And
+I'm not going to pretend I know what it
+is,
+&gt;&gt; okay?
+&gt;&gt; To to keep the straits of Malaa open or
+to keep the Taiwan straight open, but
+you could do that. And when I was
+fighting against the Biden
+administration on some of their national
+security excuses for economics
+interventions and their industrial
+policy a few years ago, I actually had a
+meeting with a senior person in the
+White House, not somebody that senior,
+but senior enough. And I said, you know,
+you guys have to have a list. You have
+to do this. And this person laughed and
+said, you got to be kidding me because
+no one wants to write down a list
+because once you write down a list, then
+you're annoying certain people and
+excluding others. And if you're the
+defense department, you want to include
+as many things as possible. And you know
+the general dynamic of how these things
+go. So I don't think the right response
+is anxiety. I think the right response
+is yeah, let's take this seriously.
+Let's act like bloody grown-ups and
+actually set up a policy process that
+deals with this and let's do the
+spending. And even to go back to the
+international side, go to our specific
+allies and say again, it's like raising
+taxes on a specific thing where you're
+tying it to a user fee or on in the
+insurance. I'm raising your premiums not
+threefold and threatening to leave. I'm
+raising your premiums for 25%.
+And if you put a fire detector in your
+house, I will only raise it 20%. go to
+Germany, go to Japan, go to Korea, go to
+the Netherlands and say in the effect
+I'm raising your premium, I want you to
+spend this much more on defense, but if
+you chip in specifically on this list of
+military sensitive equipment, I won't
+ask for as much.
+&gt;&gt; Yeah, the carrots are kind of missing.
+There's a lot of sticks and not that
+many carrots. You touched on this just
+now, but I'm basically going to ask
+Joe's question in a slightly different
+way, but are tariffs the right way to
+bring manufacturing back to the US?
+&gt;&gt; No. Sorry. You want more? Um, I mean,
+look, again, because of the nature of
+tariffs, which are a tax, which are a
+distortion tax on a narrow part of the
+tax base that has bad distributional
+effects. They're regressive. They
+primarily either hurt small business on
+the corporate side or they hurt lower
+income people on the household side and
+they tend to lead to corruption even if
+not literal bribes but distortions of
+hey Apple showed up in the president's
+office with a gold phone and what do you
+know they got an exception to the tariff
+you know it tend to lead to stuff like
+that in a way that most things do
+tariffs are good for two things right if
+there is a very specific specific
+industry and a very specific
+bargaining situation
+not against the whole world in general
+all at the same time one specific
+country with whom you can bargain and
+you can get other people to join you in
+the tariffs so it's effectively a form
+of economic sanction that can work the
+other thing is if you are an
+underdeveloped country with no state
+capacity
+like the US in 1820 or a number of
+&gt;&gt; South Asian and subsaran African and
+Central American countries today even
+there not that many tariffs are a way to
+collect necessary revenues because you
+can literally set up guards at the
+border and make sure somebody gets the
+money whereas other more less intrusive
+less regressive more efficient forms of
+taxation are harder to collect if you
+don't have a good state capacity those
+are the only two things tariffs are
+&gt;&gt; this is a good point because I' you know
+you see people like oh back in the old
+days the golden manage tariffs. Well,
+it's like we, you know, we didn't have
+like W2 forms and stuff like that. There
+was So, yeah, of course, you just have
+to do it at the ports. Let's go back to
+like, okay, setting aside the sort of
+structural issues with tariffs and the
+bad distribution effects, etc. Like just
+right now in August 2025 and we look at
+the state of the US economy and people
+like how do you perceive the interaction
+of tariffs with everything else that are
+going on right now?
+&gt;&gt; It's a fair question. We've done a lot
+of work at the Peterson Institute,
+colleagues of mine that we've published
+and others have done slightly different
+work and we all come out roughly the
+same place. This is the way the Trump
+administration is doing it in terms of
+the short-term economic outlook is it's
+a tax hike. It's stagflationary, meaning
+it's raising inflation at the same time
+as slowing growth. It's collecting a
+sizable chunk of revenue on the order of
+2002 250 billion a year at an annual
+rate at this very high level of taxes.
+That will probably diminish over time
+because people get around that kind of
+tax and people choose to produce things
+elsewhere and people evade it. But for
+the moment, it's a significant tax
+increase that would have been better
+done through more efficient means. It
+also is going to do nothing for
+manufacturing because what it does on
+net is well there are certain industries
+that are being helped as I know you've
+covered in your supply chain stories you
+know there are a lot of small businesses
+or even big businesses
+&gt;&gt; that have imported inputs whether from
+China or elsewhere and it costs them and
+it's going to be very hard to replace
+that and it's very expensive and then
+you've got the issue again which I know
+you've covered, but has to be said that
+there aren't American workers
+for good reason. There aren't American
+workers who want to be sitting there
+screwing screws into the back of
+iPhones. I don't mean to keep picking on
+Apple, but it's just it's a it's a clear
+example. So, you either have to pay them
+an incredible amount for that or you
+have to let somebody else do it. So in
+the short term, getting back to the
+monetary policy since we're in Jackson
+Hole,
+&gt;&gt; I think it's not a surprise that we
+haven't had huge inflation yet from the
+tariffs because there were a number of
+things that mainstream people like us
+expected. People were going to be in
+denial about whether the tariffs would
+stay and how big they would be. People
+were going to have to take time to
+figure out if you're a business whether
+you can find a substitute source,
+whether that substitute source is
+domestic. If you move it to Vietnam,
+does that really get you out of the
+tariffs? Do you have a good
+relationship? I mean, it takes, as
+you've discussed in detail, these supply
+chains emerge organically and they're
+not top down. Somebody makes one
+decision. So, it takes time to re
+reformulate the supply chains if you're
+signing the tariffs. Third, you've got a
+bunch of companies that were called out
+by name by President Trump, like GM or
+Walmart, that were told, "Don't raise
+prices because of the tariffs." And so,
+of course, they're going to hold off as
+long as they can. And then eventually,
+when everybody's raising prices at ex
+roughly the same time, they'll raise
+prices. And then finally, a lot of these
+companies and a lot of the consumer
+goods companies had inventories and they
+built up inventories in the first
+quarter of imported goods. and they
+weren't going to raise the prices until
+passed through the tariff costs until
+they got burnt through the inventories.
+So you had four very solid reasons why
+it would take at least a few months for
+the tariffs to really start showing up
+in prices. So if I'm sitting at the Fed
+right now,
+in my view, the tariff inflation just
+goes up from here.
+first round effects probably will peak
+in second quarter of 2026
+and then the debate is and I my estimate
+is higher than most people's a lot of
+people think it'll peak around four on
+CPI I think it's going to peak closer to
+a five or a little more
+&gt;&gt; wow
+&gt;&gt; and then the discussion which Governor
+Wallers put out there which the chair
+talked about today talked about in the
+speech is how much do you think this
+translates into a second round inflation
+effects how persistent is this
+inflation. And that's the interesting
+debate and that's a good faith debate
+you can have. But the tariff inflation
+is coming.
+It's on its way. It's not surprisingly
+low. It's not surprisingly slow. It's a
+tiny bit slower than I expected, but not
+really. And we're here.
+[Music]
+Well, I'm going to take you up on the
+debate tease, but where do you fall on
+the side of uh the second order effects
+debate? Because you can make it feels a
+convincing argument for either side. You
+could say that, well, tariffs are
+attacks and so they destroy demand and
+maybe lead to deflation. Or you could
+argue that tariffs perhaps give
+companies an excuse to all start raising
+their prices together and so you don't
+get that competitive activity that would
+normally keep prices in check.
+&gt;&gt; I think you can make a plausible serious
+debate on both sides, but I think the
+arguments are very clearly on the side
+that the second round effects are going
+to be large and persistent. There's
+several reasons which is why I think
+it's pretty clear. The first one is we
+know from what happened with the tariffs
+under Trump one under Biden from other
+countries in recent times that the pass
+through what generally you end up being
+if you're the company that ultimately
+buys the imported input or the household
+that buys it the pass through the final
+purchaser is usually 85 to 90% of the
+tariff. It's already very clear from the
+data that the foreign companies are not
+paying for any of this. So the question
+is how much are the importers eating it
+versus passing it on and it takes a
+little time for you to get to that but
+generally it's a very robust result. So
+even if you get less than that you get
+65 70% on average that's still a lot.
+The second is implicit in what you said
+and then sometimes in things uh some of
+the people on the other side of this
+argument say is essentially the demand
+destruction is either symmetric to the
+price increase or is larger than the
+price increase and there's no
+particularly good reason to assume that.
+So you have to look at what actually is
+going on.
+&gt;&gt; We have a pretty robust economy pretty
+close to full employment. We are about
+to get, though it hasn't shown up yet.
+This to me is the big surprise, but
+we're about to get more damage in a
+stagflationary way from migration
+restrictions, deportations, sudden stop
+of growth in the labor force. That's
+going to give American workers more
+bargaining power in the short term.
+That's going to create labor shortages,
+which put upward pressure on wages.
+That's going to decrease productivity
+and and capacity. So on balance you may
+get some recessionary forces out of both
+that and the tariff increase but I
+strongly doubt they will outweigh the
+inflationary impulses that there will be
+room for price setting price increases
+excuse me and wage increases. Third,
+going back to where one of the things
+you said at the start, anchoring
+inflation expectations is the game. That
+ultimately is what allows a central bank
+to say, as Bernanki, Labbach, Michigan,
+and I argued 25 years ago in the
+inflation targeting book, you're allowed
+to look through the first round effect
+of supply shocks if it's clear what the
+supply shock is and you have anchored
+expectations.
+I think the Fed, whether they admit it
+or to themselves or not, is publicly
+underestimating how much the 2020 to
+2022 experience deankored inflation
+expectations. It didn't take us to
+Argentina in 1980, but anybody who says
+that they're the same as they were
+before 2020, I think is deluding
+themselves. And then additionally,
+going back to what Joe was saying about
+the surreal aspect of this time, if the
+Trump administration has been, as they
+have,
+hugely attacking the independence of the
+Fed in multiple ways, and this is
+showing up in a less strong dollar,
+then that's another reason to think that
+the expectations aren't going to be
+anchored, and you're not going to get an
+offset from the currency.
+to the tariff inflation. So bing bing
+bing, that's four reasons
+why I think the argument is clear that
+we're going to get more inflation, more
+persistence of inflation, more second
+round effects than some people are
+saying. I have a question. I've been
+asking this to a bunch of people. I'm
+not totally satisfied with any of the
+answers I've gotten. So I'm going to try
+again. Even before the tariffs, even
+before Trump, it appeared that from the
+perspective of the market that long-term
+rates were going to be durably higher
+than they had been in the decade prior
+to yco. How come? What changed?
+&gt;&gt; So, isn't there a place where I'm
+there's a legitimate real discussion and
+I'm very strongly on one side of it.
+&gt;&gt; Okay. So I think the useful discussion
+all credit goes to Larry Summers roughly
+was it 2019 2018 he gave the speech
+about secular stagnation
+&gt;&gt; reviving the concept from Alvin Hansen
+and oh sorry that was much earlier he
+gave that speech then he gave the speech
+in 2019 in which he said secular
+stagnation may be ending and he made a
+number of points but the biggest one was
+if you're in an environment where you're
+going to have sustained expansionary
+fiscal policy pushing up demand and
+meeting shortfalls of demand then the
+rstar the neutral interest rate is
+higher and that's that's pretty clear
+economics and then the reasons which he
+said and others of us have developed I
+think are right that going back to the
+insurance metaphor the risks are higher
+now there's climate change China is no
+matter whose fault it is or whether it
+was inevitable or not China is more of a
+security threat than it was Russia is
+more belligerent than it was people have
+to spend more on that our societies are
+aging at least our almost all the large
+societies with the exception of India
+are aging and you have to spend more on
+healthcare and more on social security
+all of these things are going to lead to
+sustained increases in government
+spending irrespective of whatever else
+you do and they are unlikely as we've
+already seen to be fully tax financed so
+that is a fundamental the second
+fundamental I would argue that's pushing
+up our star is that we don't know when
+AI is going to kick in. We don't know
+how big an effect. We don't know how
+many jobs. You guys again have had many
+good guests talking about this, but I
+think we can all agree that sometime
+between 2 and 10 years from now there
+will be a meaningful increase in the
+productivity growth trend. There are a
+few smart people like Osmoglu and
+Johnson who say no. But most of us think
+&gt;&gt; interesting
+&gt;&gt; that there will be an increase of some
+sort. Now I don't have to go all the way
+to Mackenzie Global Institute and
+believe you know it's some enormous
+number but whatever it is that number an
+improvement in productivity growth trend
+is generally one for one should be
+thought of as raising the
+equilibrium interest rate because you're
+raising the average return on capital
+essentially.
+&gt;&gt; That's totally counterintuitive to me. I
+would have thought that a big
+productivity increase would be all
+things equal disinflationary and rates
+lower and It's it's disinflationary
+but it remember inflation we should
+think about as a short-term phenomenon a
+cyclical phenomenon not as a structural
+phenomenon. So it's disinflationary in
+the sense that in any gi for while the
+productivity gain is ongoing you're
+getting more stuff for less but as a
+structural matter you are raising the
+average returns on capital in the
+society and so all capital that's
+competing has to compete with a higher
+return and so therefore our star is up
+&gt;&gt; interesting
+&gt;&gt; so now that we are deep in ourstar
+territory I'm going to ask a central
+banking question with your central bank
+hat on So you mentioned stagflation. He
+actually has visitors at home. His
+central bank hat is a Boston Red Sox cat
+for those who those aren't in the room.
+&gt;&gt; That's right. All right. So you
+mentioned stagflation earlier. What
+exactly are central banks supposed to do
+when they're faced with a stagflationary
+scenario? Because we just listened to
+pal talk about downside risks to
+employment and upside risks to
+inflation. He clearly seemed to choose
+the labor market over the inflationary
+risk at this moment in time. But there's
+clearly a trade-off. You have to make a
+choice here.
+&gt;&gt; Yes. And this is why you try to avoid
+bad policies such as the ones the Trump
+administration are doing which get you
+into a stagflationary situation if you
+can. Essentially, it's a contingent
+choice. And this is why the Fed is right
+to be putting so much emphasis on
+debating over second round effects of
+inflationary shocks and things like you
+were saying how much pricing power there
+is. How much recessionary effect do you
+get from these station? It's essentially
+a balance issue. If you're forced to
+choose between the two goals, the two
+halves of the Fed's mandate, but the two
+goals for any central bank,
+essentially you have to go after the one
+that's more likely to spiral out of
+control.
+&gt;&gt; Ah, so this is their argument that labor
+market deterioration can be very nonid
+linear, right? It can kind of explode.
+&gt;&gt; Yeah. Nonlinear is the way they think of
+it. I think again it's another reason I
+would take the other side because the
+evidence is yes and there was the
+discussion about the so-called SOM rule
+that you can have these very rapid
+increases in unemployment
+but what we've seen is much to people's
+surprise but has to be taken seriously
+is both after 2008
+and after 2020 so after the financial
+crisis after COVID unemployment actually
+came down pretty
+And there wasn't evidence of what
+economists call hysteresus,
+which is the idea that once you put a
+lot of people out of work, it's harder
+for them to get back into work. And so
+it's taken from engineering. It's a
+concept that was very true of Europe in
+the 70s and 80s that every time you got
+an unemployment rate hike because of a
+recession, it wouldn't come all the way
+back down to where it was before the
+recession because there would be a
+certain number of people who couldn't
+get back into work. and ahead of the
+2008 crisis and during it including what
+my time at the Bank of England speeches
+and then chair pal and others in 2020
+during co worried a lot about this
+potential for permanently having rises
+in the unemployment rate.
+&gt;&gt; Yeah.
+&gt;&gt; And but the thing is all the evidence
+from 2008 and all the evidence from 2020
+is that didn't happen. And again, it was
+a surprise, but it's a really important
+and a really robust result.
+&gt;&gt; You really are an unreformed neoliberal
+because so many people have accepted the
+opposite. Everyone almost everyone
+thinks there's some hysteresis
+and like I said, I respect it.
+&gt;&gt; Well, it's I'm not in this is not so
+much I appreciate that joke, but this is
+not so much being a neoliberal as being
+an empiricist. So, so I mean on my staff
+at of a colleague of mine is Olivia
+Blanchard and he coined the hysteresus
+concept 40 years ago and he and Larry
+Summers and a co-author his name of
+course I forget I apologize did a paper
+in 2013 it was like the first paper they
+did for us after I took over at Peterson
+looking for hysteresus effects in the
+2008 to10 data and they couldn't find it
+and then Powell again I think with a
+great deal of sympathy from me and
+others talked a lot about hysteresus for
+why they were so aggressive in cutting
+in response to co
+&gt;&gt; but then again we know the unemployment
+rate came right down so people care
+about this they're coming from a good
+place to care about this but it's not
+neoliberal it's the evidence the
+evidence isn't there and so the
+implication is not that you shouldn't
+care about unemployment you should have
+temporary measures of fiscal policy like
+we did during COVID to extend
+unemployment insurance to extend health
+insurance to make it less miserable for
+people who are unemployed, but the
+inflation is probably the thing that's
+more likely to get out of control in my
+view.
+&gt;&gt; Tracy asked you a question putting on
+your monetary policy hat, but I'm going
+to ask you a question specifically with
+your monetary policy committee hat
+having served at the now the hat
+backwards. Um, having served at the Bank
+of England, long-term rates in the UK
+are higher than the so-called Liz Truss
+moment. And I asked you a question about
+this last year and it was very vague at
+the time. I was like, "What's going on
+with the UK?" And because it always
+seems like there's some sort of mess.
+But now I actually have something
+specific to ask, which is what's going
+on with the UK in the sense that it
+seems bad in terms that rates are very
+high. What What's going on there?
+&gt;&gt; I think I said to you when you asked
+about this last year, Joe, that
+&gt;&gt; the single biggest call I got wrong in
+terms of analysis and forecasting in my
+career was 2012 at Bank of England.
+I and some others on the committee at
+the time, but I'm responsible for me
+said,
+"Yeah, productivity has been lower the
+last few years to 2012 because of the
+financial crisis, but it's going to come
+back up because it's been the same
+long-term trend since 1850."
+And and there was nothing destroying a
+trend from
+&gt;&gt; Yeah. I don't remember if it's 1850 or
+1860, but there's some incredibly long
+data series we have for UK productivity
+growth. And even if you watch it, it's
+just a straight upward line. And even
+the Great Depression sort of makes a
+little blip and World War II makes a
+little blip and this and then suddenly
+in 2008 it goes flat
+&gt;&gt; and I and a bunch of other people said,
+"Well, it's not like the Blitz, right?"
+And so productivity growth is going to
+come back up to trend. It never did.
+Huh?
+&gt;&gt; The UK is the one rich economy,
+high-income economy, where productivity
+growth not just went down for a while,
+but kept going down. And so now we've
+had a dozen years of very low
+productivity growth in the UK
+and at some point that catches up with
+you. Um, and I think that's the way to
+look at it is you throw Brexit in on top
+of that, which may be one of the reasons
+why productivity growth hasn't come
+back. And there's debate about that, but
+they have been running making less with
+more rather than more with less for a
+very long time. And wages and prices and
+the pound all haven't dropped
+accordingly. So it's not like
+unfortunately Greece suffered through
+say or Portugal during the financial
+crisis. And so something's out of whack.
+And this shows up eventually in the
+fiscal policy, which is what you're
+talking about, that they have a bunch of
+really hard choices to make. If the
+government, the current Labor government
+doesn't make lots of cuts, the interest
+rates keep going up.
+&gt;&gt; Yeah.
+&gt;&gt; If they do make lots of cuts, then
+probably growth doesn't improve. So,
+they're just in a really, really tough
+situation. So Joe asked you a question
+with your BOE hat on and I'm going to
+ask something similar which is one of
+the things that makes Jackson Hole such
+a big deal is that we don't just have
+the Fed here. We also have other central
+bankers uh like the ECB, the BOJ and you
+see them do the classic walk with the
+Fed chair every year. When it comes to
+central bank credibility and the
+independence issue, what do you think
+those other central bankers are thinking
+here? And do they possibly use some of
+Jackson Hole? We're still waiting to
+hear from them. That usually happens on
+Saturday morning. We're recording this
+on Friday afternoon. Do you think they
+maybe use this as a platform to try to
+push back against some of it? So, the
+central bankers, both publicly and in
+conversations I've had with them from
+around the world, are shocked and
+horrified that the Trump administration
+is doing this to the Fed. Beyond just
+the obvious, they're sympathetic to
+their colleagues from the Fed and it's
+pretty yucky is just the fact that they
+have taken it for granted. The entire
+economics profession has taken it for
+granted for more than 40 years going
+back to a classic paper by Ken Rogoff in
+1986 and then some subsequent work
+others did that in central bank
+independence is good. It reduces
+inflation and reduces the volatility of
+inflation on average for a country in a
+large way without reducing the average
+growth rate. Full stop. And this is
+lived experience. This is what the
+European Central Bank was based on. This
+is why the Bundus Bank and the Germans
+were willing to give up sovereignty to
+the European Central Bank. This is the
+standard practice that dozens of
+countries have adopted. The Bank of
+Japan got independence over the last 30
+years.
+So, it's kind of like with trade
+economists in the past, but even more on
+questions. It's like, you know, this is
+like questioning vaccines, which of
+course nowadays people do, but at one
+point would have been thought of as what
+kind of anti-scientific illiterate are
+you that you would question central bank
+independence? So, I mean, there's no way
+to exaggerate. That's the response. At
+various international versions of
+central bank summer camp, you know,
+which is what Jackson Hole is. So, the
+ECB has their version which is called
+the CRA conference. And this year at
+CRA, everybody was rallying around Jay
+the sheriff pal and there were public
+statements about central bank
+independence and support for him at the
+BIS annual meeting which is a sort of
+similar thing which this year I got
+invited to. I don't usually get invited
+to that. I do get this. Anyway, again,
+there were public statements, there were
+private statements. Everyone was
+rallying around. But as we discussed,
+the Fed leadership seems to have decided
+that Chair Pal should not mention a word
+about central bank independence in his
+speech this year. And so, this is pure
+extrapolation. By the time this
+recording comes out, we'll find out.
+Yeah. But my expectation is they will
+have passed a memo to ECB President
+Lagarde, Bank of England Governor
+Bailey, Bank of Japan, Governor Auea,
+who are the three big central bank
+governors speaking on Saturday. Please
+don't talk about it. And I think what
+they've probably decided
+is having foreign central bankers talk
+about this would not play well in
+Magaland
+and might just induce more problems with
+the Trump people. So I think the
+instinct of the foreign central bankers
+here would be to talk very loudly about
+this, but I think they explicitly or
+implicitly have been told not to. Well,
+this is exciting because by the time
+this comes out, this will either have
+been our listeners will already know.
+&gt;&gt; We'll already you'll either be very
+wrong or very right. Edison,
+&gt;&gt; always great catching up with you and uh
+we'll do it again next year.
+&gt;&gt; Thank you for having me. Congrats to
+both of you. Great substantive
+discussion.
+&gt;&gt; Thank you so much.
+&gt;&gt; Thank you.
+[Music]
+Tracy, I I love our annual catchup with
+Adam. It really He was like the perfect
+guest because he'd just say whatever.
+Just say what's on his mind.
+&gt;&gt; Well, at a time when a lot of people
+don't want to talk about this stuff,
+right?
+&gt;&gt; Yeah. When people are like anxious, when
+people feel like there's like
+recriminations where people people want
+to people want to keep low. Yeah. People
+want to keep their heads low at a time
+when they don't know if there's going to
+be some attack on them from the White
+House or, you know, on Twitter or TR.
+People want to keep low. And Adam, I
+appreciate his cander.
+&gt;&gt; Can I just say I'm always really
+impressed by people who are able to
+organize their thoughts in real time to
+be like, well, there are three reasons.
+Number one, that's right. That's right,
+Joe.
+&gt;&gt; But that was a fantastic conversation.
+One thing well I guess the thing that I
+still don't get and I think it is really
+hard to make an argument that the US has
+lost out from an economic and financial
+and in some respects political system
+around the world that it has helped to
+create right like there are tangible
+instances where you can say like the US
+benefits in sometimes incredibly weird
+ways like if you look at the debt crisis
+in like 2013 or 2011 You know this is a
+crisis emanating from the US from the
+United States from US politics and what
+you saw was investors flock to the
+security of US treasuries and you know
+yields actually go down which helps with
+US debt. So there are these like
+sometimes perverse benefits that the
+Trump administration seems to want to
+throw away. You know, one thing I will
+say that I was thinking about in your
+intro is and I go think back to, you
+know, that book trade wars are class
+wars, which I think is actually I
+suspect Adam almost very disagrees with
+the premise of that book, etc. But
+regardless of where you stand on some of
+these questions,
+&gt;&gt; there is that relationship between you
+can't disrupt the domestic without
+disrupting the international and or vice
+versa. Like these are like inextricably
+linked. if you perceive to be there some
+sort of inequality in the United States
+or whatever it is these things like the
+trading relationship all of these things
+they are interlin so it's like one thing
+to say like you know there's this view
+is like oh knocking over all of these
+different institutions I think they're
+they're linked in fundamental ways and
+there it sort of makes sense that if you
+you know you go after the Fed because
+you perceive whatever that that's part
+and parcel of the whole thing
+&gt;&gt; you can argue they're linked but I would
+say if you're trying to solve domestic
+inequality through international means.
+That doesn't seem that it seems like the
+emphasis and the focus is wrong. I guess
+what I'm saying is I'm not surprised
+that it all goes to because like that
+was my toy for like like that that the
+sort of Klein Pettis theory etc that you
+know there's this inequality in the
+United States because of these winners
+and losers from the international
+trading system right and so we fight
+these trade wars etc because we are it's
+about something internal that rectifying
+some sort of internal imbalance and so I
+do think like I I get so this just gets
+to all I'm saying is I'm not surprised
+at all goes together because then I see
+I get
+&gt;&gt; as part of like a policy agenda
+&gt;&gt; but it's possible that we should be
+looking at domestic policy more rather
+than fighting with trading partners.
+&gt;&gt; That also seems
+&gt;&gt; you're not going to say you're lying low
+now.
+&gt;&gt; No, I'm just saying I don't have an
+opinion on the right way to do it. I'm
+just saying I'm not surprised that this
+is one way.
+&gt;&gt; Okay. Shall we leave it there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the All
+Thoughts Podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Joe Weisenthal. You can follow
+me at the stalwart. Follow our guest
+Adam Posen at Adam Posen. Follow our
+producers Carmen Rodriguez at Carmen
+Arman Dashel Bennett at Dashbot and
+Kalebrooks at Kalebrooks. For more
+OddLots content, go to
+bloom.com/odddlots
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+all of these topics 24/7 in our Discord,
+discord.gg/odlotss.
+And if you enjoy all thoughts, if you
+like our annual tradition of catching up
+with Adam Posen at Jackson Hole, then
+please leave us a positive review on
+your favorite podcast platform. And
+remember, if you are a Bloomberg
+subscriber, you can listen to all of our
+episodes absolutely adree. All you need
+to do is find the Bloomberg channel on
+Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+Yeah.
+[Music]
+Hey.
+[Music]

@@ -1,0 +1,1981 @@
+Kind: captions
+Language: en
+Octis, which was formerly known as
+Reorg, is today's presenting sponsor on
+Business Breakdowns. This is an
+essential credit intelligence and data
+provider. And they have grown to over
+40,000 professionals across leading buy
+firms, investment banks, law firms,
+advisory firms. And what they're doing
+is they're taking the human expertise,
+which is so important in credit. They're
+embedding it with AI, technology, data
+and workflow tools. And that's going to
+allow you to unlock all the things you
+need, the truths to fuel that decisive
+action that you need in the credit
+markets. So head over to octis.com to
+learn how they have taken this verified
+intelligence platform, delivering it at
+speed and giving you that complete
+picture across the credit life cycle.
+You can follow Octis on LinkedIn or X.
+there. They will share breaking news and
+exclusive coverage and you can find
+links to everything in the show notes.
+[Music]
+&gt;&gt; This is Business Breakdowns.
+Business Breakdowns is a series of
+conversations with investors and
+operators diving deep into a single
+business. For each business, we explore
+its history, its business model, its
+competitive advantages, and what makes
+it tick.
+We believe every business has lessons
+and secrets that investors and operators
+can learn from and we are here to bring
+them to you. To find more episodes of
+breakdowns, check out join colossus.com.
+All opinions expressed by hosts and
+podcast guests are solely their own
+opinions. Hosts and podcast guests may
+maintain positions in the securities
+discussed in this podcast. This podcast
+is forformational purposes only and
+should not be relied upon as a basis for
+investment decisions. All projections
+are based on estimates and analysis from
+due diligence from various publicly
+available sources. Projections represent
+hypothetical performance and do not
+reflect the performance achieved or
+projected by the podcast guests. There
+is no guarantee that such performance
+will be achieved and actual results may
+vary.
+[Music]
+This is Matt Russell and we are going
+back into the world of alts today with a
+breakdown on EQT. Now, right off the
+top, I need to mention our guest today,
+Shawn Barrett. Couldn't have been more
+perfect for this breakdown. You will
+hear Shawn has been investing in the
+alts since Blackstone christened this
+asset class just over a decade ago. He
+is the founder of Counter Global and
+Alts investing is ingrained in Counter's
+DNA. So, we cover the massive yet
+lesserk known EQT. We touch on the
+Wallenberg family ties, how this
+business has continue to generate
+returns at scale. But beyond that,
+beyond the EQT conversation, you're
+going to get a master class on alts
+investing throughout this conversation.
+I got into some of the nitty-gritty
+details that I'd be curious about and I
+think any investor would be curious
+about when it comes to looking at these
+names. I could tell you a million more
+reasons why I enjoyed this one, but
+let's just get on to the episode.
+All right, Sean, I am excited to have
+you here to talk EQT
+and for this conversation, we were going
+back and forth before the episode and I
+actually thought the best place to start
+for the audience was to share a bit
+about your own background in this space
+of asset managers, alternative asset
+managers. I think you bring some history
+in terms of looking at these names. So
+maybe you could just start there and we
+can take the conversation towards EQT
+after we set that in place.
+&gt;&gt; Yeah, thanks so much for having me. Love
+the show. I listen to a lot of your
+episodes and it's great to be here. I've
+been studying and following the alt
+space for close to 15 years now. The
+history really goes back to 2011 2012
+when I started studying Blackstone and
+back then it was a very complicated
+space relatively speaking. I think there
+are still some complexities about the
+space that make it quite interesting and
+allow for investors to be
+differentiated. But if you go back to
+2012, a lot of the alternative asset
+managers, pretty much all the
+alternative asset managers that were
+public were publicly traded partnerships
+or PTPs and that created a lot of
+complexity. It meant investors would get
+K1s. There was actually a question if
+you invested in Blackstone for example,
+you might end up with a K1 in every
+state where Blackstone operates. So
+imagine someone making a $100,000
+investment in Blackstone and having 50
+K1s. And then adding to that complexity
+was the accounting treatment. And that
+still continues today. A lot of these
+alts are required to consolidate their
+underlying funds globally. So what you
+end up with is just this mess of
+accounting if you don't know what to
+look for. But that's what makes it
+interesting as well and allows you to
+have some differentiation and have a
+view on the business that might be
+different from others. So over the years
+I ended up studying these alts in a way
+that I thought was unique and allowed me
+to predict the businesses with a little
+more clarity than what I was seeing from
+the analyst community. That really
+started with building up these
+businesses on a fund level. So all of
+these alts, they manage anywhere from 20
+to 50 to 100 funds depending on the alt
+that are meaningful funds for them. And
+I had this thought that if you could
+actually go down and understand each
+fund, then you would be able to
+understand the two earning streams
+better than most. So they earn
+management fees and carry. And if you
+understood what the funds were doing,
+you could figure out are they likely to
+raise a bigger fund in the future. And
+obviously if you could understand the
+investments in each fund, you could
+understand when and how much carry they
+were going to generate. So all very
+interesting stuff. That's still how I
+think about the space today. And yeah,
+excited to go deeper.
+&gt;&gt; I'm just picturing a lot of tabs in an
+Excel model depending on which alt
+manager you're looking at. But in many
+ways, we've come a long way since those
+early days of partnerships and the
+questions over 50k ones. We'll bring EQT
+into the conversation. You referenced
+some other names in that first answer
+like a Blackstone. EQT I don't think
+gets the same type of press coverage
+that the others do, but there's some
+obvious reasons why perhaps and some
+less obvious reasons. How would you just
+describe EQT at a high level for those
+that aren't as familiar with the name?
+&gt;&gt; EQT is a thematic private markets
+investment manager. They're based in
+Stockholm, but they operate globally. By
+thematic I mean they invest behind large
+secular growth trends such as
+digitization,
+AI infrastructure, health care for aging
+populations and ecom warehousing. EQT
+manages about 270 billion euros of AUM
+on a marked basis and about 140 billion
+of fee paying AUM. The business can be
+broken down into four strategies. They
+have a private equity business that
+focuses on Europe and the Americas.
+That's about 35% of fee paying AUM.
+Private equity Asia is about 20%. So
+together private equity is about 55% of
+the business. Infrastructure is about
+30% of fee paying AUM and real estate is
+about 15% of fee paying AUM.
+Historically, and this is important for
+the thesis and the story, EQT's funds
+have been top quartortile performers
+across strategies, generating 2 and a
+halfx gross MOIX for their investors on
+those funds and roughly 20% net IRS for
+their investors across those funds. We
+can get into the differences later, but
+I think the whole space should be
+grateful that Blackstone went first and
+created this wonderful playbook and now
+folks like EQT and others get to follow
+that playbook and grow their businesses
+substantially over the next handful of
+years.
+&gt;&gt; Yeah. Standing on the shoulders of
+giants, even if you become a giant
+yourself over time, every alt manager I
+feel like has this incredible backstory
+typically with larger than-l life
+characters. You mentioned Stockholm
+origins here. What is the backstory to
+EQT and if you can get into just some of
+the major stepping stones along the way,
+however you would describe the various
+chapters because they all seem to start
+with these small beginnings before they
+get to what we know them as today. What
+does that look like for EQT?
+&gt;&gt; Yeah, absolutely. To understand EQT, you
+really need to understand EQT's heritage
+which was driven by the Wallenburgg
+family. So the Wallenberg family was
+responsible for the founding of SEB in
+the 1850s. SEB is the largest bank in
+Sweden today and was instrumental in the
+country's growth over the last 150
+years. So early on SEB the bank took
+ownership stakes in companies during
+downturns. They would lend to these
+companies and they would end up with
+shares which led to the creation of
+investor AB in 1916 as a dedicated
+holding company. The Wallenbergs became
+investors in a bunch of Swedish
+industrial giants over the years. And
+then in the early 1990s, Connie Jansen,
+now the chairman of EQT, then in his 30s
+and a vice president, pitched the idea
+of a Wallenburgg backed PE firm and
+investor AB gave Jansen the mandate to
+create EQT in 1994. So that was a big
+moment. That launch was backed by the
+Wallenbergs, but it was also backed by
+the Rockefellers and the Melons. And
+Conniey's vision was really to marry
+Wallenberg corporate governance
+practices, values, and industrial
+expertise with active ownership that EQT
+is known for today.
+&gt;&gt; The Wallenburgg ethos, it's a name that
+I keep seeing as I research different
+things, particularly abroad. What goes
+into that?
+&gt;&gt; Yeah, the Wallenberg family is really
+legendary. They've been a huge part of
+Swedish culture and financial
+development over the last 100 or 200
+years, but their values are incredible.
+And I think when it comes to their
+values, it's different from a lot of the
+private equity world. Frankly, they say
+do business the right way. Doing good is
+simply good business. They say things
+like make friends, not enemies. And if
+you actually go to EQT offices and you
+meet people who work there, they're
+kind, they're transparent, they're
+authentic, they're informal. These are
+the kinds of things that the Wallenbergs
+wanted to see. Those were the values
+they lived. And it's really played out
+into this culture that embodies the old
+values of the Wallenbergs. And then from
+a more tangible perspective, it actually
+results in really high employee
+retention which is rare in the finance
+space. I think the attrition rate at EQT
+is something like 10% as far as employee
+attrition per year and regrettable
+attrition we think is 1 or 2%. that
+comps very very well to the private
+equity world and a lot of that comes
+from these values from the Wallenbergs
+that makes EQT such a great place to
+work and a great place to be an
+investor.
+&gt;&gt; So they got this incredible foundation
+or backing but you obviously can learn a
+playbook. It doesn't mean you can
+execute a playbook. What did the
+execution look like over the next 25
+plus years that led them on this path to
+where they are? There were a few really
+important milestones I would say or
+inflection points. So in 1994 they
+launched the first fund that was about a
+hundred million euros. It was just
+focused on Nordic industrial companies
+and tech companies. But the idea was to
+take these companies and futureproof
+them. Find businesses and growing
+sectors and futureproof them and make
+them better. So it's very similar to
+what you hear EQT talk about today, but
+it was a smaller version. And then in
+the late 1990s,
+EQT expanded out of Sweden. And I think
+that's a really important moment. Their
+first office was in Munich, but it's a
+really important part of the company's
+history because they wanted to invest
+across Europe. And someday they had
+aspirations to even go further than
+that. But they realized that they
+couldn't do that with just a small team
+sitting in Stockholm. If they wanted to
+grow and do it in a thoughtful way, they
+needed people all over. And that really
+led to their local with locals approach.
+And the local with locals approach is
+something they talk about a lot today.
+It's a differentiator for EQT. But they
+have people all over the world. I think
+30 plus offices at this point. So if you
+have a deal getting done in Italy, it's
+led by an ekitarian in Milan who
+probably knows the selling family, knows
+the local nuances, the local
+regulations. That was born by necessity
+really in the '9s when they realized
+they couldn't do it well just sitting in
+one office. And when it comes to putting
+a 22 billion euro fund to work and doing
+a really good job with it, they really
+only need to do about a deal per office
+versus a lot of peers that manage big
+funds out of two or three flagship
+offices and it becomes much more
+difficult for those firms to generate
+great returns crossborder.
+&gt;&gt; Yeah, deal making is very much a contact
+sport and having some connectivity to
+the counterparty certainly helps. I
+think us in the US there's often cliches
+about the coastal elites trying to make
+their way to the Midwest to do deals and
+not quite clicking.
+&gt;&gt; Yes. So yeah, I think this is a
+particularly good example. Before we
+push forward, I want to get into a lot
+more what you just mentioned there. If
+you were to take a snapshot of what
+truly differentiates EQT and I think you
+mentioned some aspects with thematic but
+if we were to take the big names in the
+US like an Apollo, KKR, Brookfield and
+comp EQT, what stands out that might
+feel different about EQT's operations
+from those large players in the US?
+&gt;&gt; It's probably a good moment to just
+discuss why we like the alt space to
+start with and then I can get into the
+differentiating factors. Obviously, I've
+been investing in the alts for many
+years as we discussed. I would say
+number one, we're in the middle of a
+multi-deade shift from banks and
+traditional asset managers to
+alternative capital providers. And when
+you look at the alts, they can provide
+capital with more flexibility, more
+consistency. So, that's number one. The
+alt space is gaining share, growing 10%
+a year. We think the alt space will
+double by 2030 and probably double again
+by 2040. Number two, within the alt
+market, the space is consolidating and
+the leadership positions are really
+durable. So, there's a lot to like. You
+mentioned some of the other alt players.
+There is a lot to like about these
+scaled players. If you look at the list
+of leading alts 20 years ago, it's more
+or less the same list that you see
+today. So, these are very durable
+businesses and the barriers to success
+are very high. Number three, the
+financial models for these businesses
+are really attractive. They have
+long-term capital, 10-year funds. The
+businesses are easy to model and predict
+for the most part, and they generate a
+lot of free cash flow. And then lastly,
+with few exceptions, the large alts are
+run by super highly ambitious, talented,
+and innovative leaders, which is hard to
+find in most companies, but it tends to
+concentrate pretty well in the alt
+space. And then to your question, what
+makes an attractive alt for us? How does
+EQT differentiate? We think about
+quality in the alts like we do for any
+business at counter which is based on
+product and profits. So for product
+quality, this is a people business. The
+quality of the business really starts
+with the quality of the people and does
+the firm have an ability to recruit and
+retain amazing people. We talked about
+EQT having industry low attrition rates.
+They've got a great culture and they've
+got the ability to recruit and retain
+amazing people and they pay them well.
+So it self- selects for great investors
+who want the accountability around
+carry. Second, we want to see the firm
+have a repeatable process for generating
+great returns at scale. And if a firm
+can't do that, we aren't interested.
+EQTs generated 20% net IRS for its
+investors at scale for many decades.
+It's incredibly hard to do, but they've
+got a process around it that is
+repeatable and has endured. And then
+third, we want to see a firm that
+innovates. So if you look at the
+traditional asset managers of yester
+year, they were seemingly unstoppable.
+And most of them didn't innovate and
+they are shrinking ice cubes now. So
+it's really important to us as long-term
+investors that we see great people,
+great process, and then innovation. And
+then for its profit model, we'll get
+into it a bit later. EQT has 50% EBITDO
+margins with low capital intensity, lots
+of free cash flow that it delivers back
+to shareholders through dividends and
+share buybacks. So, it's a great fit for
+how we think about highquality
+businesses at counter.
+&gt;&gt; You mentioned one of the dynamics that
+exists within all of finance, which is
+the idea of generating great returns
+even as you're getting higher scale,
+more scale, bigger in size. And the math
+says it's going to be increasingly
+difficult to keep up that rate of
+return. What would you say that process
+is for EQT in the best way that you
+could describe it? I'm sure there's some
+secret sauce that exists only behind
+closed doors at EQT, but what would your
+own description be around what allows
+them to do that?
+&gt;&gt; I love talking about the differentiation
+here and so I could go on for a while,
+so please pause me if it's too much.
+&gt;&gt; Give it to us. But yeah, the
+differentiation at EQT really starts at
+the beginning of the life cycle of an
+investment which starts with the firm's
+thematic investment approach. So they're
+investing in growing sectors. A lot of
+what they do is software, healthcare,
+and data centers. And within those,
+they're typically buying a leader that
+will benefit from those secular trends
+and benefit from pricing power. With
+regards to sourcing, EQT operates that
+local with locals approach that started
+really in the 90s. And again, it allows
+them to do two things. One is that if a
+deal is getting done by a local, that
+local investor has better knowledge of
+the respective geography and the local
+nuances and usually has a relationship
+with the seller. So that helps with the
+returns, but it also leads to higher
+velocity deal sourcing. As we talked
+about on a 22 billion euro flagship
+fund, EQT only needs about a deal per
+fund per office to get that fund
+complete. So it's a real differentiator.
+From there, they futureproof the
+companies they own. That work typically
+starts with establishing a new board,
+improving the management team if needed,
+and establishing a plan to digitize the
+business. So that's their big thing
+digitizing and futurep proofing
+businesses and then the board has an
+informal subcommittee which is called a
+troa and this is really unique to EQT.
+The troa is made up of the portfolio
+company CEO an EQT partner and the
+chairperson who is generally an
+independent advisor from the EQT
+network. On a side note EQT's specialty
+in governance and management is really
+unique. It's consistent with its Nordic
+heritage. A lot of it's attributed to
+the Wallenbergs and governance practices
+in Sweden are I think unique globally. I
+sat on the nominating committee of a
+public company for many years in Sweden
+and it's a really admirable corporate
+culture where the board explicitly works
+for the nominating committee who
+explicitly works for shareholders in
+Sweden. It's great process. It's great
+alignment and a lot of that is
+attributed to EQT and the Wenbergs. And
+then after the acquisition, EQT gets to
+work on adding value further often
+through making bolt-on acquisitions.
+Now, historically, making bolt-on
+acquisitions in private equity was a
+super time inensive process. You'd
+usually have an analyst and an associate
+go and put together a list of maybe 20,
+30 targets. It might take them two or
+three weeks to create that list, debate
+it internally, see if they can find
+contact information. EQT realized this
+was an important part of their playbook.
+And they started what 10 years ago was
+just a data analysis tool called
+Motherbrain. Motherbrain actually
+evolved into an AI automated decision
+support tool over time and it's a real
+differentiator for them. So effectively
+it pulls data from tons of sources
+online, pitchbook, LinkedIn and then it
+also combines that data with EQT's
+internal data from prior diligence. So
+when a portfolio company today wants to
+make an acquisition, instead of an
+associate spending two weeks pulling a
+list together and maybe reaching out to
+people a month or two down the line,
+Mother Brain can take a few prompts and
+give the team a list of targets
+immediately. Usually that's accompanied
+by revenue size and contact information.
+So that's been a really cool
+differentiator for the business. And
+I've given you a lot here, but when you
+combine all that, the strategy around
+thematic investing, the repeatable
+process, future proofing companies based
+on local with locals, and an intense
+focus on governance. It's all resulted
+in EQT owning companies that on average
+grow revenue 12 to 15% a year and IBIDA
+15 plus percent a year on average. So
+the composition of EQT's fund returns is
+much more growth driven than multiple
+expansion or leverage driven and that's
+what's resulted in this top quartile
+return generation at scale with 20% net
+IRS for their investors. Yeah, it
+certainly seems like there's an
+operational expertise which is
+differentiated and stems from the
+business itself of EQT into the
+businesses that they own and that's
+reflected with some great naming
+conventions for the various things that
+they roll out as well. One of the things
+that we usually talk about when we talk
+about alts which we haven't really got
+into with EQT is the leadership team and
+you described some of the early leaders
+of the business. Usually you have
+someone who holds the torch and then
+we've seen with some of the North
+American alts there's been a passing of
+the torch recently. I know EQT has a
+slightly different model. So walk
+through that and the players that are
+involved or even how you would frame
+leadership's importance to what they're
+doing. Leadership at the alternative
+asset managers is so critical because
+again it is a people business and going
+back to first principles on what makes a
+great alt for us the ability to recruit
+and retain and manage great people
+that's a first principle requirement for
+success. So when you look at a lot of
+the alts they've dealt with succession
+in a pretty similar way. They've started
+with a founding group and they've passed
+it on to a successor group that they
+think can run the business usually for
+15 20 plus years and you've seen that in
+the US with some really great leadership
+transitions that worked really well.
+This was a big risk if you go back 10 or
+15 years there was a big philosophical
+question about alts going public how
+they would able to handle the
+transitions from founder groups to the
+next generation. would that disrupt the
+businesses in meaningful ways? And I
+think most of the alts did a really
+fantastic job of finding a great next
+generation of leaders. If you look at
+EQT,
+they've handled it differently. So
+instead of the founders picking a new
+leader or a new generation that can run
+the business for 20 years, they've
+decided that they will run the business
+more like a typical operating company or
+a typical company. So if you look at
+average CEO tenure in public markets, I
+think it's about 5 years in Europe. And
+EQT has been pretty similar in its
+current form. EQT has been around for
+about 30 years. They've had five or six
+CEOs. And Christian Sindling, the CEO
+for the last 6 and a half years, just
+recently was elevated to chairman and
+passed the reigns on to P Fronen, who
+was running the private equity business
+for a bunch of years. Christian's young.
+I think Christian's in his 50s. He's got
+a lot of energy. And I actually got to
+spend some time with him in London last
+month. And I asked him, why now? You're
+young. You're obviously talented
+manager. you've done so much for this
+business. He's had an incredible impact
+on EQT. He started with EQT something
+like 28 years ago. He ran the PE
+business and ultimately led the firm
+through its IPO in 2019. Since then,
+EQT's assets have increased forex and
+the firm's returns have been excellent.
+So, it's been an intensely productive
+period for the company and a lot to be
+proud of for Christian. But as Christian
+pointed out to me, EQT's culture is very
+forward thinking, very forward-looking,
+and they believe deeply in elevating
+generations of leadership while those
+new leaders still have the energy and
+the ambition to create substantial
+value. So, Pere Francon is taking over
+as CEO for Christian, but when Pere
+elevates from head of PE to CEO at EQT,
+it's not just one person elevating. It's
+actually a whole group of people who get
+to elevate. Again, this is a bit
+different from how the US alts have
+thought about succession. Like
+everything at EQT, they do it in their
+own way and stick to their values and
+this is one of their values.
+&gt;&gt; Yeah, there was a somewhat viral
+interview with Chris Hone and Christian
+on stage recently and my immediate
+takeaway was Christian does not look old
+enough to retire. when you consider what
+he went through as he over the past five
+years, that is a career's worth of
+accomplishment. So, I can certainly
+understand that. But I do have this
+sense of succession planning as a piece
+of very effective governance and tying
+it back to the culture there and I think
+it's perhaps overlooked sometimes in the
+US where succession planning is done
+when there's an event that requires it
+or a catalyst that it needs to happen
+rather than being thought out well in
+advance. And I think the precedent of
+these 5year or so tenurs would point to
+that. So it is interesting to see how
+that differs from some of the other
+businesses where it feels like the value
+really sits with a lot of the people at
+the top of the business and it's hard to
+differentiate the enterprise versus the
+individual.
+&gt;&gt; Yes, absolutely. So one other question I
+had which somewhat referenced the idea
+that the alt space has had this
+opportunity recently with the
+flexibility that they have especially
+relative to banks or historical funds
+and one thing that comes to mind
+whenever I think about flexibility is
+regulation. Regulation is the one thing
+that can hamper down flexibility and
+restrict it. Is there anything unique
+about operating in Sweden, operating in
+Europe that is very different from what
+North American funds would have to think
+about when it relates to regulation?
+&gt;&gt; Yes, operating in Europe is actually
+quite complex and the EU is obviously a
+big place, but there are tons of borders
+and each country has its own set of
+regulations, its own set of rules and
+its own cultural nuances. So, I actually
+think operating with success in Europe
+is very, very difficult. It has some
+pros and cons when it comes to
+regulation around the financial side of
+the business. Sweden actually has its
+own central bank. So that's unique
+within Europe. It has a Rick's bank,
+it's called, whereas there are broader
+central banks that manage the rest of
+Europe, UK, and the US. So that's a
+nuance. But the Ricks Bank has always
+been, I think, really well-managed.
+Their focus at the Rick's bank is
+basically to manage inflation whereas a
+lot of central banks around the world
+have dual mandates to manage inflation
+and employment. That focus on stability
+at the Ricks Bank I think actually makes
+it a really nice place to operate as a
+financial services firm. And then a
+benefit I would say depending on how you
+look at it is you do have at times
+looser regulation around financial
+services firms in the US and at times in
+Europe. The US has really adopted this
+model of asset bases being the important
+focus and when you hit a certain asset
+base that's when you get more regulated
+in the banking system that starts at 50
+and 100 billion and then 250 billion is
+a real line in the sand where your
+regulation goes up substantially from
+there. In Europe, I think they think
+more around systemic risks and they tend
+to have really responsible operators as
+a result who don't want to get into that
+gray area of systemic risk. And then the
+last thing I would say that's
+interesting about operating in Europe as
+a financial services firm and
+specifically for EQT is that based on
+their ability to have entities in
+different jurisdictions, they benefit
+from a really low tax rate. EQT's tax
+rate on a blended basis is something
+like 10%. They actually don't get taxed
+at all on the carry business and that's
+a nuance that might change over time,
+but the tax rate is very low and so the
+free cash flow generation that they can
+send back to shareholders is actually
+substantially higher than other markets.
+The nuance and the nitty-gritty details,
+but I always find that stuff interesting
+and it can make a difference. some of
+those differences in rates can compound
+quite largely over time. So interesting
+to hear about getting into their
+strategy which you outlined really well.
+One question I had on the thematic
+approach, are they deploying that with
+specific funds dedicated to those themes
+or are those underlying themes that
+exist within a broader private equity
+fund where we're going to target these
+three themes within this vintage? How
+did they approach that?
+&gt;&gt; Historically, it was all part of big
+flagship private equity funds and a fund
+historically the flagship strategy at
+EQT was roughly 40% healthcare and 60%
+tech enabled services. A lot of software
+a lot of tech increasingly over time
+again Blackstone led the charge and
+really created the playbook for
+everyone. Everyone should be very
+grateful for that. But over time, EQT
+has actually started launching sleeve
+strategies that allow investors to have
+exposure to one trend if they want it.
+An example of that would be energy
+transition. So out of the infrastructure
+business, their infrastructure business
+really focuses on growing sectors. It's
+not toll roads or what I would call
+boring infrastructure. These are growthy
+businesses like data center businesses
+that have lots of underlying tailwinds
+from stuff like AI digitization and AI
+infrastructure. But then within that
+they've also realized that people might
+want exposure to specifically to data
+centers and they can focus on that
+through co-invest or specifically energy
+transition where EQ is very good and so
+they have an energy transition fund and
+I think these sleeves will be more and
+more common. Another example is that EQT
+Asia, we'll get into more detail on it,
+really has an advantage in India
+specifically. So something like 40% of
+the Asia private equity business at EQT
+is India focused. They've done a
+tremendous job investing in India. It's
+a very hard place to invest. You need
+talented people on the ground. That's
+become a strength. I wouldn't be
+surprised at all if EQT launches an
+India sleeve at some point so people can
+just focus on that. And by the way, I
+think it would be really valuable for
+their investors if they chose to do
+that. Unbundling of private equity or
+private capital just like everything
+else. A conglomerate era is no more
+certainly makes a lot of sense and I
+think we see it everywhere. diving into
+the strategies that you laid out a bit.
+There's increasingly sleeves of
+different strategies that they're
+looking into. I think when I looked at
+various presentations that talked about
+private assets, real assets, wealth,
+would you say that there is a
+bellweather strategy for the business
+that you think is viewed as the most
+important thing to monitor or a growth
+strategy that you think is most
+important to keep an eye on? Obviously,
+they're all important, but how would you
+frame that?
+&gt;&gt; They have four strategies. We're
+actually tremendously excited about all
+four of them, and they're really great
+franchises. So, stop me if anything
+becomes interesting, but the first
+strategy is private equity, Europe, and
+Americas. So, that's Asia. It's about 50
+billion euros of fee paying aum. And
+again, they invest behind thematic
+sectors. So, it's a lot of healthcare
+and tech within that strategy. That's
+most of the strategy if you really break
+it down. And I think they're trying to
+find
+important tech and healthcare companies
+of the future. Usually leaders in their
+markets, but businesses that need some
+help futureproofing and growing to get
+into that inflection and hit the next
+level of their growth. I think a good
+case study for example would be IFS,
+which IFS is a leader in industrial
+software or software that helps
+companies manage their assets and
+people. It's effectively an ERP software
+company for capital intensive
+industries. This was a publicly traded
+company 10 years ago that nobody really
+cared too much about. It was doing a few
+hundred million of revenue. It was on
+premise software. It was growing single
+digits. EQT took it over and really got
+to work. I think they had the vision
+that this was a great market and they
+got to work on futureproofing the
+company. So what did that mean here?
+That meant switching the company,
+replatforming the business into a true
+cloud provider. And today that business
+is doing 1.2 billion euros of ARR,
+growing 30 plus% with EVIDA margins of
+30 plus%. So think about that as a
+transformation. That is not your old
+boring private equity playbook. That's
+taking a business at 300 million of
+revenue growing, single digits, 4xing
+the business, and taking revenue growth
+from single digits to 30%. It's really
+impressive. And that's the playbook at
+EQT.
+&gt;&gt; Guessing somewhere in the 1 to3 billion
+range in terms of the acquisition size.
+Is that in the ballpark of what they're
+normally buying? How much does that vary
+just in terms of the size of what
+they're doing when they deploy capital?
+&gt;&gt; Yeah, we think a lot of their check
+sizes end up being in the flagship fund
+end up being in that 500 million to one
+a.5 billion euro range on the very high
+end. Their most recent fund was 22
+billion euros in private equity. That's
+one of the bigger private equity funds
+in the world. And within that, they also
+have the ability to tack on co-invest.
+So if they have a need for more capital,
+they can tap their partners and the
+partners can help with co-invest. It's
+also something that big LPS really like.
+They view that co-invest as an
+opportunity to bring down the blended
+fee rate and it's good partnership. On a
+side note, it's also a reason that we're
+comfortable that EQT can continue
+generating great returns at larger and
+larger fund sizes because if you look
+back over the last 5 or 10 years, yes,
+their flagship fund has doubled in the
+last seven years, the fund size has
+doubled, but at the same time, they use
+so much co-invest along the way that
+they've actually been investing more and
+more over time, bigger dollars over
+time, and then they've done a really
+good job with returns. So the private
+equity business has generated a 21% net
+irra historically for investors.
+EQarians they like to call themselves
+performance gatherers not asset
+gatherers but if you keep generating 21%
+net IRS for your investors they will
+happily give you more and more money and
+that's why this business has grown so
+quickly.
+&gt;&gt; Yeah. One certainly leads to the other.
+That is the case. I interrupted as we
+progressed through some of the
+strategies so we can push on. Yes. So,
+EQT Asia, this is a strategy that we're
+really excited about. EQT Asia manages
+about 25 billion of fee paying AUM if
+you include the most recent fund raise
+in 2025. And EQT acquired this business
+in 2022. It was formerly the Bearings
+Private Equity Asia business. So,
+everyone refers to this business as BPA,
+but it's a fantastic franchise that's
+been generating great returns for
+investors for almost 30 years. Almost
+half of EQT Asia's business is in India
+and they have effectively no China
+exposure but the India market is really
+attractive. It's growing GDP 6 to 8%
+perom and EQT is buying tech and
+healthcare leaders in that market that
+can typically grow revenue 15 to 20%.
+The interesting thing about India it's
+really underpenetrated from a private
+equity perspective. It's actually a very
+small private equity market. EQT we
+think has a 10 or 20 percent market
+share of that private equity market in
+India. So they've established themselves
+as a leader but you really need people
+on the ground. If I think back actually
+early in my career 10 or 15 years ago I
+was looking at a couple software
+businesses in India that I thought were
+quite interesting and attractive and I
+actually called a friend who's been
+investing and operating businesses in
+India for at this point 30 years. I said
+hey you know here are some interesting
+businesses. What do you think I should
+do? He says, "Don't do it." He says,
+"You're gonna get your face ripped off.
+You can't invest in India sitting in
+California. You need people on the
+ground. You need to know the players.
+You need to know what's going on on the
+ground." And it was really good advice
+that he gave me, but it's even more
+impressive looking at what EQT has done.
+They've just created an unbelievable
+business. They've got a great team. I
+think a repeatable process to find great
+businesses there. So when you think
+about what EQT Asia is doing, think IVF
+businesses in India, underpenetrated
+market, big impact on society, nice
+long-term grower or Nord Anglia, which
+is an education business. They actually
+took private almost I think 17 years ago
+and they've owned off and on since then,
+but they've expanded that business into
+India and it's a great case study. I
+think they've actually grown revenue 10x
+in that business since they bought it.
+And more importantly, Nord Anglia has a
+96% student retention rate. 40% of its
+students go to top 100 universities
+globally after. So, it's had a great
+impact on society, but it's also made
+EQT investors a lot of money along the
+way. And I think that's what EQT really
+is known for. It's like great impact and
+great returns. Is the purchase of
+Bearing's business was that unique to
+that specific situation or is that
+something that they use a strategic tool
+to expand into new strategies?
+&gt;&gt; It is something that EQT is used as a
+tool, the M&amp;A muscle. And frankly, I'm
+always skeptical of M&amp;A, whether it's in
+the financial services industry or the
+tech industry. It comes with different
+risks. For tech, the integration of the
+technology is always very difficult,
+more difficult than people think. And it
+creates a huge risk. It takes focus off
+from other things management can be
+doing. In financial services, it's also
+a huge risk. I mean, it's a people
+business. You have to get the cultures
+right. Sometimes there's organ failure
+and it can be a huge problem. So, I was
+actually skeptical. I'll admit it. When
+EQT bought BPA, I thought, gosh, this is
+going to be tough. It's a big business.
+It's a different geography. I will give
+EQT credit. They did an unbelievable job
+not only sourcing this investment or
+sourcing this acquisition, but also
+integrating it. The leadership at EQ
+Asia is exceptional. They've actually
+held on to the shares that they got as
+part of that acquisition and some of the
+leaders there are now the largest
+shareholders in EQT and the returns have
+been exceptional. So, that's been a
+great one. EQT also bought what is now
+its real estate business. It was known
+as Exitter before that. I think this was
+a slightly easier integration if you
+will just because the geographies but EQ
+acquired the exit business in 2021 and
+they've roughly doubled extorum since
+then. So while M&amp;A is really tough in
+financial services, I think EQT is a
+thoughtful process around how they do
+it. they do it consistent with their
+values and they've done a pretty good
+job even though they don't have credit
+today for example I could see them
+leaning back into a credit through an
+acquisition sometime in the future was a
+future question on my list so we got
+that one checked off
+give us some description about the
+remaining buckets that we haven't talked
+about
+&gt;&gt; yes so moving on to the infrastructure
+business of EQT's
+140 billion euros of fee paying AUM.
+This business is about4 billion and it's
+growing really quickly. So, I'm glad
+we're touching on it. Consistent with
+EQT's thematic strategy, this business
+isn't buying toll roads. They're buying
+assets in big thematic growth areas. So,
+they specialize in stuff like digital
+infrastructure and energy transition
+markets. Both of these are massive
+growth opportunities, but they require a
+lot of deep sector expertise. and EQT
+has been investing in both for a really
+long time. By chance, both of these
+sectors have really exploded with AI,
+which requires a lot of digital
+infrastructure or data centers, but it
+also requires a lot of energy to power
+those data centers. So, EQT is in a
+really good spot now with what the world
+probably looks like in the next 10
+years. And the numbers are just totally
+astronomical. But both of these sectors
+will require many trillions of dollars
+of investment in the next couple decades
+and the capital just isn't there. And
+whenever you have a large supply demand
+imbalance like this, it generally
+results in really great returns. And EQT
+we think is probably the best positioned
+all out there to capitalize on AI
+trends. Briefly digging into the
+business of EQT infrastructure just for
+a second. It's the same size flagship
+fund as the private equity. So they have
+a 22 billion euro flagship fund in
+infrastructure. That's up from the last
+vintage at 16 billion euros. And
+historically they've generated about a 2
+and a halfx gross MOIC on their
+infrastructure business. So we're really
+excited about this business. Not only do
+we think EQT will continue generating
+great returns in infrastructure for
+their investors, we think that'll result
+in a lot of growth in the flagship fund.
+And then they're also launching sleeve
+strategies outside of that that will
+supplement growth.
+&gt;&gt; Yeah, it's certainly very thematic and
+of the moment speaks for itself. What is
+the final bucket of the four?
+&gt;&gt; Yeah, lastly, we could briefly cover the
+EQT real estate business. This was
+formerly known as Exitter, an
+acquisition they made in 2021. And
+again, they've doubled AUM at exit since
+then to about 20 billion euros today.
+digging into the business of EQT real
+estate. It's a really unique business
+because they effectively raise a new
+vintage every year. So that's different
+from how a lot of opportunistic real
+estate investors work globally. And then
+they put that to work and then they go
+back and raise more. Like the rest of
+EQT, the real estate strategy is focused
+on thematic investing using local with
+locals approach. And that's a real
+advantage in real estate. around 90% of
+the business is industrial and
+warehousing. So that benefits from
+trends like global ecom and they're
+local with local investors again make it
+a great fit but it's vertical real
+estate. They talk a lot about doing real
+estate not just investing in real estate
+meaning EQT does all the development
+operations leasing and property
+management themselves. Again, this is
+super unique in the industry and in
+fact, they're so good at it that when
+they sell a property, the buyer usually
+retains EQT to continue operating the
+asset. I think that just speaks worlds
+to how good they are at operating. I
+mean, imagine buying an asset from a
+competitor of yours and then paying them
+to continue running that asset. And
+that's literally what people do with
+EQT. Historically, the EQT real estate
+business has been top quartile or top
+decel across its funds. Just a really
+exceptional track record. Blackstone
+real estate is the gold standard in the
+industry and obviously they've done an
+exceptional job. But we think EQT has
+the right to grow based on its
+historical returns and we think this can
+be a much bigger business over time. So
+if you put all of that in the soup, we
+talked about four strategies. I gave you
+a lot there, but EQT as a whole is
+generating amazing returns for its
+investors and as a result, the LPs are
+entrusting it with more and more capital
+over time. So, we think the GP can
+double its assets in the next few years
+and then probably double assets again in
+the next four or five years after that.
+One followup I had on the real estate
+strategy, the annual fundraising. Is
+there a reason why they go with that
+versus what you would see in the other
+strategies?
+&gt;&gt; It's really interesting. I think it's
+actually a part of the history of exit,
+which was a unique asset manager that
+did things that way for so long. And I
+think when EQ bought it, they had the
+idea that the rest of the industry does
+it this other way, raising opportunistic
+funds every 3 to 5 years. But actually
+this way that Extra does it makes a lot
+of sense and they've done a really good
+job doing it and the returns have been
+incredible. I think there are some
+benefits to it and I think the
+investors, the LPS exit have been so
+happy that they're really excited to go
+back and invest more and more every
+year. You can't do that unless you have
+really strong DPI or distribution to
+paid in capital. If you're not giving
+money back to your investors, you can't
+expect them to reup every year. But EQT
+has seasoned its investors, if you will,
+to get them used to the idea of giving
+more and more money or entrusting the
+firm with more and more money every
+year. And it's really unique. The last
+piece of the deal process that I wanted
+to talk about relates to exiting an
+investment and I think you brought up a
+very interesting case there where they
+own a business for 17 years which would
+fall out of any traditional fund
+timeline. So do they have a different
+philosophy when it comes to owning
+investments? It's something that's very
+topical right now in the market and just
+the thought process around that. And I
+think it's something that Christian was
+actually talking about in that
+previously mentioned interview. How do
+you think about their approach to the
+final step of the process and realizing
+a return on an investment?
+&gt;&gt; I think this gets to EQT's ability to
+innovate over time and stay ahead of the
+group when it comes to both sourcing but
+also exiting. And so when we look at
+exiting, historically in the alt market,
+there were really two ways to exit
+investment. that was to either sell to
+another private equity firm or a
+strategic or take a company public. And
+the problem with those two things is
+that they both require at the very least
+a very stable macro environment and
+usually a pretty good macro environment
+to get either one of those done. EQT's
+innovated a lot as far as how it exits.
+So obviously they still have the regular
+way exits, the IPOs, the sales to
+strategics, the sales to private equity
+firms. Increasingly, they have started
+using alternative forms of exits, some
+that are unique to EQT. So, the first
+one that they actually just started
+doing recently, and I think you'll see a
+lot more of, is what they call a private
+IPO. Historically, secondaries, if you
+wanted to sell a secondary, you would
+just sell a 50 or $100 million chunk to
+one buyer. You would negotiate directly
+with that buyer. What EQT realized was
+the secondary market is growing very
+quickly. There actually a lot of buyers
+for potential secondaries. Why don't we
+run a process like you would with an
+IPO? You can sell a billion euros of
+stock to 20 investors. And behind the
+scenes, they're probably competing with
+each other for capital. It's giving EQT
+a better price, but it also allows them
+every year for a business they love to
+just have this private IPO, hold on to
+what they want to, and monetize what
+they want to. So, that's a really cool
+piece of innovation. We think they'll
+use that a lot more in the future. They
+continue to use the secondary market.
+The secondary market's growing very
+quickly. It's actually got a lot of
+tailwinds behind it and we think with
+more and more capital that'll actually
+be a benefit to private equity sellers
+as well who want to monetize a bit. And
+then the last one is something we talked
+about but it's running with the winners
+is what EQT says and that can be in the
+form of continuation funds or selling
+investments to future funds. Now, they
+have to be careful because continuations
+of bad deals would really upset
+investors, but EQT has historically done
+a good job holding on to its true
+winners for a long time. So, they have
+investor trust in this regard. If you
+look back and the last two really big
+ones, they held on to Nord Anglia for 17
+years off and on, IFS for 9 or 10 years.
+These are huge multiples of money. So
+when they go to investors and they say,
+"Hey, we want to do a continuation
+vehicle for this investment or we want
+to sell it into our new flagship fund,"
+investors actually trust them to do
+that.
+&gt;&gt; I have to say, I love the private IPO
+strategy. That's a new one, but I like
+it and it makes a lot of sense. So
+interesting to see the innovations as
+you mentioned. The other side of the
+coin, which we've talked about
+throughout the conversation, is
+fundraising. And they hit on a
+staggering number. I think it was 75
+billion euro in the 21 to 23 fundraising
+cycle. Just focusing on that period of
+time, was that a surprise in terms of
+their ability to raise at those levels?
+Did it just come in line with the
+expectations that you might have had? I
+just want to capture some of the
+historical precedent because they've
+obviously laid out a number for the
+future and coming off that big number.
+How do you remember that time frame and
+their ability to execute on that?
+&gt;&gt; Yeah, actually I do think this was a bit
+of a surprise at least for me. EQT was
+managing about 50 billion euros of fee
+paying AUM going into that last fund
+raise. So that jump organically took
+them from something like 50 billion of
+fee paying aum all the way to 125 and
+then they acquired a bit and all in they
+got to 130 to 140 billion of fee paying
+aum which is where they are today. But
+for a company with 50 billion to jump
+and raise 75 billion euros is
+unbelievable. And I think it really
+comes down to a trend that we've seen.
+And I think this was an aha moment for
+me frankly where at sub50 billion sub7
+75 billion you have a few channels that
+you can really go to for fundraising and
+it's really the more traditional
+institutional channels. You don't have a
+lot of retail because your brand isn't
+there and you don't have a ton of
+exposure to sovereign wealth funds who
+are writing those 1 to2 billion euro
+checks. And then what we've noticed is
+that when alternative asset managers get
+to that 50 to 100 billion euro scale,
+their world really opens up. If they
+have good returns, they can go to other
+retail channels, new retail channels,
+and tap that. Retail's 10% of the
+business today. It was probably very
+little, a very small piece of the
+business 10 years ago. We think it'll
+continue getting bigger. and then more
+importantly the sovereign wealth funds
+writing 1 to2 billion euro checks all of
+a sudden you're right in their
+wheelhouse. So what we've seen is that
+these alts that hit 50 to 100 it's very
+hard for an alt to get to 50 to 100 and
+then once they get there if they have
+good returns they can hit this
+inflection point their world opens up
+their channels opened up and I think EQT
+really experienced that same trend.
+Yeah, it's always interesting when you
+find something that has a slope that
+inlects and there's an acceleration in
+growth or at least the opportunity. When
+you mention retail, should I be thinking
+about that as high net worth channels
+that exist in large pools through
+whatever you might call brokerages or
+whatever it might be, but is that the
+right framing to have for the retail
+bucket? When we refer to retail in the
+alt space, it's really referring to a
+lot of it's coming from the wirehouse
+channels. So, think the big banks that
+serve high- net worth clients. And
+again, this is a benefit of not going
+first. So, if you look back at the
+history of this market, the idea that
+the alts would serve retail was a bit of
+a pipe dream for a long time. And
+Blackstone did a ton of work on this and
+then other great investment firms in
+parallel were doing a ton of work. Aries
+and others that you know that are public
+KKR, Apollo, etc. So at EQT, they've
+built out this retail business called
+Nexus and it's a NAV based strategy
+unlike its other funds and it
+effectively offers evergreen vehicles to
+retail investors. So again, frankly
+following the Blackstone playbook that's
+been so successful. So this is like
+BEIT, the non-traded REIT that
+Blackstone has, BCRED, but it's for
+EQT's flagship funds. EQT started with a
+retail vehicle in 2024 in private
+equity. They quickly raised a billion
+euros. They realized, wow, this is a big
+opportunity. Our brand is actually good
+enough that we can do this now. And in
+2025, they're set to launch five more
+retail vehicles around infrastructure
+and different geographies. So, this is
+going to be a big growth driver for
+them. Again, we think retail for EQT is
+probably 10% of the capital today. We
+think it can go to 20% of AUM over time.
+Big buckets and I think they'll take
+advantage of those.
+&gt;&gt; As you think about the fundraising
+target of 100 billion for the next
+cycle. We've touched on your drive
+returns that leads to higher likelihood
+of successful fundraising. What else
+would you just discuss when you think
+about monitoring that target and
+following along that pace of fundraising
+because you have the feebase and then
+the carry and the fee base is a big
+piece of the story. So how do you think
+about framing that what is another very
+large number
+&gt;&gt; and it is a big piece of the story. I
+mean what we've seen historically is
+that the stock prices tend to be very
+well correlated to asset growth for the
+alts. So it's an important part of the
+thesis. It starts with generating great
+returns like you said and having LPs who
+are willing to entrust you with more and
+more capital. I think for the upcoming
+fundraising cycle there is a lot of
+skepticism in the market from investors
+and research analysts as to whether EQT
+can raise the hundred billion euros.
+It's a lot of capital. They manage 140
+billion euros today. So adding a hundred
+billion euros to that is no small feat.
+And if you look at the market, rates are
+a lot higher than they were during the
+last fundraising cycle. And a lot of
+investors are increasingly full up on
+private equity. At the same time, large
+LPS need to generate good returns to
+cover their future liabilities, which
+are also growing very rapidly with
+higher inflation and higher social
+inflation. So those investors are
+looking to best-in-class private equity
+firms to help them accomplish those
+goals. I think smaller PE firms will
+struggle in this environment, especially
+those that haven't generated great
+returns for their investors, but the
+large best-in-class PE firms with great
+returns are frankly benefiting and
+gaining a ton of share. We just saw a
+couple weeks ago Toma Bravo announced
+they' raised $34 billion,
+24 in the flagship private equity
+vehicle, and 10 billion in sleeves
+around that vehicle. That tells me that
+the market's healthy enough for great
+investment firms to continue raising
+money, but I think the mediocre ones
+will have a lot of trouble. And then,
+while the market's tougher today than it
+was in 2021, EQT also has some growth
+drivers today that it didn't have back
+then. So we talked about the retail
+business continuation vehicles, the
+sovereign wealth channel that's becoming
+a bigger part of their business and then
+lastly EQT is innovating and launching
+these carveout strategies like the
+transition strategy, regional
+strategies, future strategy. So even if
+the fundraising environment is tougher,
+going back to the building blocks again,
+we build up and predict this business
+based on each fund. And when I look at
+each flagship fund they're trying to
+raise across private equity, across
+Asia, infrastructure and real estate,
+the returns and the DPI have been so
+good in the last 5 or 10 years that you
+build those up and you realize that
+those franchises are likely to continue
+growing pretty substantially. The last
+thing I'll say about it, the first data
+point we have on this fund raise is BPA,
+Bearings Private Equity Asia, which is
+raising its flagship fund right now. The
+last fund was 10 billion. It looks like
+this next fund will either hit the hard
+cap at 14 billion or maybe end up at 12
+a.5 to 13. But it's a 30% step up. And
+that's consistent with what you want to
+see for them to go from 75 billion in
+the last fund raise to something more
+like 100 in this fund raise.
+&gt;&gt; Yeah, it's interesting how power law
+shows up. Feels like what you're
+describing in the private equity space
+is another example of that being the
+case. One thing you mentioned there
+which is admittedly how I thought about
+this the asset growth and what assets
+they have under management a feebased
+model it's very easy to understand and
+run through and excel versus the
+investment results which most people
+just aren't going through the individual
+funds to model that out. Do you see
+large gaps or opportunities just from
+your own perspective as looking at these
+as stocks where there's a disconnect
+between the AUM and what they're
+generating within the funds themselves
+that create opportunities? Oh,
+definitely. If you go back gosh 10 or 15
+years, the best time to invest in these
+alts was always when people were not
+expecting much in the form of carry. So
+that's a lesson that I got to see from
+many of the other alts and it's
+something that we've applied to EQ. If
+you look back to 2015 and 16 investing
+in firms like Apollo and Blackstone at
+the time macro was shaky and public
+market investors were very reluctant to
+ascribe value to the future carry that
+could be generated by those great firms.
+And it turns out that was a great time
+to invest because those were growing
+innovative firms. And if you fast
+forward, of course, they did generate a
+ton of carry. And on top of that, they
+innovated and they grew substantially in
+the years ahead. So, we're using that
+pattern recognition here to our
+advantage. At the moment, analysts are
+expecting very little for EQ in the form
+of carry over the next few years.
+Meanwhile, EQT has generated carry on
+every fund it's ever had since the early
+1990s. and management has said that just
+on the existing funds they think they'll
+generate over 8 billion euros of carry.
+That doesn't include the funds from the
+next fund raise. So it's pretty likely
+that you end up getting back almost a
+third of your market cap in the form of
+carry just in the next 5 years and then
+of course the firm can continue
+generating a lot more carry after that.
+&gt;&gt; It's a very interesting observation that
+then leads into a feedback loop with the
+fundraising. So, it's fun to get into
+the weeds on this. I think we've covered
+the financial model in some high level,
+but can you just describe how you would
+frame the business maybe from an income
+statement standpoint through margins
+which you described a little bit into
+free cash flow just whatever description
+you might have and the easiest way to
+frame it for EQT?
+&gt;&gt; Yeah, absolutely. As we talked about
+earlier, the reported accounting either
+GAAP or IFRS for these businesses is
+very complicated because it often
+requires that these companies
+consolidate their underlying funds. So,
+you really got to parse through it and
+understand that there are effectively
+two earning streams that matter a lot to
+EQT. The first is the management fee
+business and the second is the carry
+stream. Starting with the management fee
+business, EQT earns roughly 1.5%
+management fees on committed capital.
+That's important because market swings
+don't move revenue around like they
+would for a traditional asset manager.
+In 2024,
+management fees were about€2 billion
+euros. So that's 1.5% on the 140 billion
+of fee paying AUM and EBITDA on that
+revenue stream was about a billion euros
+or roughly 50% margin and that margin is
+going up over time. So we think about
+EQT raising another hundred billion more
+or less they can do that with the same
+team. So the incremental margins are
+tremendously high and we'd expect those
+margins to continue going up. Again, in
+the industry, that earning stream is
+known as fee related earnings or FRE.
+And based on fundraising cycles, EQT has
+historically experienced a really big
+step up in FRE every few years. And
+those step ups can be 50 to 80% and
+we're about to get one of those. And
+then the second earning stream is carry.
+So EQ earns 20% of the profits on its
+funds. That's the carry portion. And
+from the carry revenue it generates, it
+pays about 70% to its deal teams. That's
+higher than a lot of the other alts
+globally, but it results in attracting
+really great investors and it results in
+really long-term employee retention. And
+then the GP or the public shareholders
+keep about 30%. From an accounting
+perspective, the carry to the GP, that's
+us, the public shareholders, rolls
+through as net revenue at almost 100%
+margin. So again, the firm's generating
+very little carry right now and
+historically that's a great time to
+invest in the alts. We think that carry
+will step up to a billion plus euros of
+annual net revenue in the next few
+years. One important side note on the
+carry, EQT funds have a structure known
+as a European waterfall. Meaning EQT
+only generates carry at the tail end of
+a fund after its investors have received
+their full preferred return of about 8%
+annualized and then after that EQ gets
+100% catch up and they generate a lot of
+carry all at once. This is different
+from many of the US players who benefit
+from American waterfalls, meaning they
+get carry after each deal is exited and
+then their investors can claw that back
+later if the fund ends up performing
+below the prep. So based on the European
+waterfall, EQT again is generating very
+little cash carry right now, but that's
+an opportunity because we think that
+they will generate a lot of carry in the
+next 5 years. It's interesting to hear
+some of the nuance and I know to your
+point the accounting conventions can be
+a struggle but even that higher portion
+that goes to the deal team you can make
+a very strong case that is the best
+alignment that you can have as a
+shareholder in terms of what they're
+being rewarded for. Totally agree. When
+you compare alts against one another,
+can you compare the financials? You
+mentioned the percentage that would go
+to the GP. Is there anything like in the
+margin profiles of the business that are
+comps to one another? I'm just curious
+if there's anything else that stands
+out. It might just be that GP carry, but
+given the nature of the operating
+leverage that exists within these, I'm
+curious.
+&gt;&gt; Yeah, I think the biggest nuance or the
+biggest thing to look out for when
+studying these alts is the difference in
+the balance sheet profiles. And EQT is a
+caplike business, meaning they have a
+very small balance sheet. and EQT pays
+out the majority of its fee related
+earnings and carry earnings to
+shareholders in the form of dividends
+and stock buybacks. So putting that all
+together that equates to something like
+a 3 to 5% free cash flow yield perom
+right now going up probably to 8 to 10%
+in the next few years and all of that
+will come back to shareholders. The
+other strategy that some of the alts
+have taken is the balance sheet or
+capital heavy investment strategy which
+is to grow the balance sheet and
+compound it as much as they can over
+time. And I would put KKR and Apollo in
+that bucket. And then going even
+further, they've actually acquired
+captive insurance companies to add other
+liability streams, if you will, and add
+other earning streams to the business.
+That's a much different profile and a
+much different bet, if you will. I think
+this jury is still out on what that
+means in the near- term and long term.
+Interestingly enough, I mean this is a
+great debate, but I think it's quite
+possible that the capital light models
+have more stability in the near term
+because when you have a tough macro or a
+tough market and public market investors
+don't know what's on the balance sheet,
+they tend to ascribe very little value
+to the balance sheet. That's just the
+nature of public market investing. With
+that said, I think there's actually a
+very good argument to be made that the
+capital intensive businesses or the
+balance sheet intensive businesses like
+KKR have more durability because in 30
+years when the market changes and maybe
+the alts of today are considered the
+legacy traditional managers of 2050, KKR
+and others will be able to use their
+balance sheet to pivot into those new
+markets and innovate. They all have
+their own distinct advantages and
+disadvantages, but the interesting thing
+about investing in the alt space, you
+get to pick your poison. You get to pick
+the flavor that resonates with you.
+&gt;&gt; And we've alluded to risks, but what
+really stands out to you for EQT as an
+investor in terms of risks to the thesis
+you laid out, risks to the business.
+There are the obvious ones, but what
+really stands out to you?
+&gt;&gt; There are a few risks here. The first
+for any alt is its ability to recruit
+and retain great people and stick to its
+process. Particularly in Europe, we
+think EQT has some distinct advantages
+that allow it to recruit amazing people.
+It has a long track record of great
+performance. It has a culture built
+around transparency and authenticity and
+the Wallenberg values and people like
+that. and it pays a really high portion
+of carry to its deal team at roughly 70%
+versus many of the other alts that pay
+people less than that. So that's an
+advantage for EQT. And with all that
+said, we track human capital retention
+and cultural data points constantly to
+inform our thesis, but that's a big risk
+with any alt. The second key risk here
+is macro. EQT is unique in that
+effectively all its business lines are
+private equity in nature. So private
+equity Europe and Asia is obviously
+traditional private equity. Its
+infrastructure business in many ways
+looks like private equity. They aren't
+buying toll roads. They're buying and
+building data center businesses for
+example. And a good chunk of its real
+estate business is opportunistic high
+return investing. So EQT sold its small
+credit business a few years ago because
+they thought it wasn't a great fit for
+their strengths as active owners. So
+they don't have a sticky fee ccentric
+credit business like many of their
+peers. As a result of that, it is a
+slightly more macrosensitive business to
+exit private equity investments. You
+don't need an incredible macro
+environment, but you need a stable macro
+environment. And the truth is we haven't
+had a lot of financial stability in the
+last 5 years. So, it's been a volatile
+environment that makes it harder for
+private equity players like EQT to
+generate carry. And because carry is
+such a big part of this business, it is
+actually meaningful for returns. They
+need to generate carry for us to have a
+satisfying return, which we would view
+as 20 plus% gross return on this
+investment over many many years. So,
+that macro piece is important. And with
+all that said, we think EQT is
+innovating in ways that will allow it to
+continue exiting investments and
+generating great returns for their
+investors. And then the third risk is a
+philosophical debate, a philosophical
+question that has been true, I think,
+for all the alts for as long as I can
+remember. And that is, can they generate
+high returns with larger and larger fund
+sizes? EQT's most recent flagship
+private equity fund was 22 billion
+euros. The flagship infrastructure fund
+is about the same size and that's about
+double the size of the flagship funds
+just 7 years ago. Can they keep
+generating 20% net IRS at this
+increasing scale? And if they can't,
+people might not be willing to entrust
+them with more and more money. So, it's
+really important for the thesis. You
+know, there are a few ways that we got
+comfortable with EQT's ability to
+generate great returns perspectively.
+One is that their process just hasn't
+changed. They continue to buy great
+businesses at fair values and businesses
+that can grow 12 to 15% peranom, which
+is really powerful and super unique in
+the private equity world. to their funds
+historically had a lot of co-invest
+required to close those deals which is
+another way of saying that when they had
+a 15 or 16 billion euro fund they were
+actually probably putting 25 to 30 to
+work so they're used to doing this at
+scale and three we think they're local
+with locals sourcing model and sector
+expertise are differentiated especially
+in Europe which has a lot of family
+businesses private equity is really
+underpenetrated there and EQT's model is
+a great fit for that market.
+&gt;&gt; And I always like to get a sense of the
+valuation framework that it might apply
+for a specific business or industry. You
+seem to be the right person to talk to
+about this about EQT and alts as a
+whole. talk about how you approach
+valuation from a framework perspective,
+how that might differentiate from the
+space and less so the price target that
+you might have in mind, but more just
+around the framework that you would use
+for valuing one of these businesses.
+This is actually one of the really fun
+parts of investing in the alts. There
+aren't many sectors today in public
+markets that are still inefficient.
+People mostly know how to invest in tech
+companies and how to value them. people
+mostly know how to talk about industrial
+companies and value them. If you look at
+the alternative asset managers and you
+even go in and look at a research report
+with comps and you compare it to three
+other analysts on the street, they'll
+all use different frameworks. They all
+use different multiples. One of them
+might be using fee related earnings
+pre-tax and not even thinking about
+carry just talking about the FRE
+multiples. the next one might use total
+net income for 2025 and they won't even
+mention whether Carrie is under earning
+or over earning for that year. And so
+there's a lot of inefficiency in this
+market that actually continues to create
+a great opportunity. And so let's step
+back for a minute and I can share how we
+value the alts. I think our way of doing
+it has had some predictive qualities and
+some consistency that we see or at least
+correlation to good outcomes. So every
+alt has a little bit of a different
+carry profile and as we've talked about
+some are private equity heavy like EQT
+and they generate a lot of carry and
+other alts generate very little carry.
+So we try to value the carry business
+remove that from the enterprise value as
+if it was cash for example and then
+isolate the value of the management fee
+business. EQT's management has said that
+existing funds will likely generate
+about eight billion euros of carry or
+more in the coming years. That's net of
+payments to their employees. So that's 8
+billion to the public shareholders. And
+on top of that, they're kicking off a
+big fund raise for a hundred billion
+that can probably generate many billions
+more of Carrie over time. So there are a
+few ways to value carry. You can use an
+NPV or you can capitalize it at a mids
+singledigit multiple of annualized
+earnings. the number comes out to
+roughly the same which is that we think
+the carry business here is worth
+something like 10 billion euros or a
+third of the market cap and in our base
+case model EQT will generate a lot of
+carry in the next 5 to 10 years on a net
+basis probably between 30 to 50% of the
+market cap will be return to
+shareholders just from carry so doing
+that exercise that allows us to isolate
+the management fee business which is
+really important because then we can
+compare it on an apples to apples basis
+versus other managers that might have
+different strategies. The way we do it
+at counter is we isolate management fees
+and we always look at net income after
+burdening for stockbased compensation,
+depreciation and taxes or stockbased
+comp capital intensity and taxes. On
+this basis, the space trades at an
+average of about 35 times forward net
+income and the average alt is growing
+management fees something like 6 to 10%.
+On a side note, EQT is pretty unique in
+that they have very low stockbased comp.
+So, you've got a quality of earnings
+benefit here, low stockbased
+compensation, low tax rate relative to
+peers globally. And so EQT trades at
+about 20 times this isolated management
+fee net income, something like a 30 to
+40% discount to most the space, but it
+will grow at much faster rates than the
+space over the next 5 years. On a free
+cash flow yield, we think EQT again will
+generate a baseline of 3 to 5% return to
+shareholders via dividends or stock
+buybacks in 2025 and 2026. And that
+should grow to something like seven to
+10% free cash flow yield in the years
+ahead after that. So back to your first
+question, based on growth and quality of
+earnings, we think EQT deserves a
+premium, but it trades at a big discount
+right now. We think a lot of that is due
+to its geography and lack of carry
+generation in the next 12 months.
+&gt;&gt; And Sean, this has been a fascinating
+conversation. We finish these off with
+the lessons that you can potentially
+take and apply elsewhere as an investor.
+What stands out most about EQT that
+could potentially be applied elsewhere?
+&gt;&gt; I'll probably pivot away from the
+investment side at this point. I mean,
+we talked a lot about the pattern
+recognition from lessons learned in the
+market from 2010 to 15 that still apply
+today in the alt space. But I think to
+answer your question more directly on
+what I've learned from EQT, I think
+looking at EQT reinforces a really
+important lesson, which is just to
+invest your own way. It reinforces the
+importance of being authentic and
+sticking to your strategy. EQT with its
+Nordic heritage, they could have tried
+to copy others. They could have expanded
+into a bunch of new sectors in search of
+growth, but they didn't do that. They
+maintained what some would call a really
+narrow focus mainly on tech and
+healthcare and they stuck to their
+values. So that really resonates with us
+at Counter Global. We have a really
+narrow focus. We only invest in tech and
+financial services and it's a pretty
+small number of companies we care about.
+&gt;&gt; Well, this has been a pleasure, Sean.
+Thank you for joining us and breaking
+down EQT.
+&gt;&gt; Thank you so much, Matt. Really enjoyed
+it.
+To find more episodes of breakdowns
+ranging from Costco to Visa to Madna or
+to sign up for our weekly summary, check
+out join colossus.com. That's j o i n o
+ssus.com.
+[Music]

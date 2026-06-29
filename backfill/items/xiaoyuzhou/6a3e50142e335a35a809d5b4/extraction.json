@@ -8,7 +8,7 @@
   "coverage_ratio": null,
   "text_chars": null,
   "sha256": null,
-  "completed_at": "2026-06-28T15:22:22.538800",
+  "completed_at": "2026-06-29T14:31:06.232228",
   "error_type": "needs_asr",
   "error_message": "no transcript available, ASR not configured"
 }

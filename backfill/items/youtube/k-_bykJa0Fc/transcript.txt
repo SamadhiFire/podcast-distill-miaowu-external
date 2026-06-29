@@ -1,0 +1,769 @@
+Kind: captions
+Language: en
+From New York Times, I'm Michael Babaro.
+This is the daily.
+[Music]
+In the global fight to dominate AI,
+China is quickly catching up to the
+United States, which is why President
+Trump barred the tech giant Nvidia from
+selling its superpowered computer chips
+to Chinese companies.
+until that is a few days ago when Trump
+abruptly reversed course. Today, my
+colleague Trip Mikl on how Nvidia's CEO
+persuaded Trump that the best way to
+beat China at AI is to help China to
+compete.
+[Applause]
+It's Tuesday, July 22nd.
+[Music]
+&gt;&gt; Well, Trip, thank you for being here in
+person. It's very exciting when you tech
+folks from the coast make your way here
+to New York.
+&gt;&gt; Yeah, we come here to sweat. We leave
+the cool air of San Francisco to sweat
+in New York for the summertime.
+&gt;&gt; Yeah. Yeah. Well, I apologize for the
+weather here, but nothing else. So, as
+you know, we cover a lot of AI here on
+the daily because its impact on
+everything grows day after day. And here
+in the United States, the idea is that
+to be number one at AI, we need to stay
+ahead of China, our number one
+adversary, when it comes to AI. And that
+means restricting what American
+companies who hold the keys to AI's
+future can do in China. And that really
+means restricting what a single company
+can do. Nvidia, that's a company you
+cover.
+&gt;&gt; Yeah, absolutely. I mean, in the age of
+AI, Nvidia makes the most powerful chips
+to develop artificial intelligence. They
+have a 90% market share in that
+marketplace for a reason. It's because
+they began developing this technology
+more than a decade before anybody else.
+&gt;&gt; And conventional wisdom in Washington
+going back to the first Trump
+administration when it came to American
+technology was restrict restrict
+restrict everything that China has
+access to. And the Trump administration
+came into office with a mission to shut
+down Nvidia's shipments to China for the
+very reasons we just talked about. Let's
+make sure that the American AI companies
+stay ahead of the Chinese. And to do so,
+we'll shut off the lifeblood of
+developing that technology. And that
+lifeblood is Nvidia.
+But last week, Donald Trump did what he
+often does, which is defy Washington
+convention. He decided, actually, what
+we're going to do is we're going to make
+these AI chips available to the Chinese
+because paradoxically, we believe that
+will actually help American companies in
+the long run. M
+&gt;&gt; and the big question is like is that
+going to prove to be true or not?
+&gt;&gt; Right. Well, we're going to try to
+unravel that argument in this
+conversation that giving China
+&gt;&gt; Nvidia's AI chips somehow might benefit
+the US, which as you say is quite
+&gt;&gt; it's a headscratcher,
+&gt;&gt; paradoxical in in theory,
+&gt;&gt; but I just want to talk about why this
+Trump reversal feels so big. I mean, it
+not only undermines the Trump
+restriction approach that you just
+described so well, it undermines the
+idea that China is a national security
+threat to the US that you would want to
+keep chips away from. And finally, it
+undermines this pretty central tenant of
+Trumpism when it comes to global trade,
+which is you don't embrace the view that
+free trade is the answer. This is not
+America first.
+&gt;&gt; No, this is a globalist approach. This
+is sell sell.
+&gt;&gt; So what happened here? How and why is it
+that the president reversed himself on
+Nvidia selling chips to China and in the
+process undermining all of these very
+natural Trump positions.
+&gt;&gt; What happened here is that the chief
+executive of the first company to be a
+$4 trillion company rolled up his
+sleeves and did the one thing he least
+enjoys, which is lobbying. So tell us
+about this CEO first and then the story
+of the sleeve rolling up in the
+lobbying.
+&gt;&gt; Yeah.
+&gt;&gt; In a lot of ways, you know, what I'm
+experiencing is probably the ultimate
+American dream.
+&gt;&gt; Absolutely.
+&gt;&gt; Jensen Wong is an electrical engineer by
+training. He's an immigrant. His
+family's from Taiwan.
+&gt;&gt; Come to United States when I was 7 years
+old, I guess 8 years old, and and having
+the opportunity to found a company with
+good friends.
+He was raised in Oregon and Kentucky
+before going to Oregon State and he
+teamed up with a couple of engineers at
+a Denny's of all places.
+&gt;&gt; Wow.
+&gt;&gt; So, we came here right here to this
+Denny's, sat right back there and the
+three of us decided to start the
+company. Frankly, I had no idea how to
+do it and nor did they. None of us knew
+how to do anything
+&gt;&gt; and started hashing out a plan for a new
+company that would make chips for video
+game developers three decades ago. And
+they focused exclusively on the video
+gaming industry for the better part of
+two decades. And eventually Jensen
+discovered that the chips that they were
+making were capable of doing computation
+simultaneously.
+And he saw within that computational
+power the potential to develop
+artificial intelligence.
+&gt;&gt; Mhm.
+&gt;&gt; And he began to pour billions of dollars
+into creating software that would
+control these chips and allow AI
+engineers to begin to build the
+artificial intelligence systems that
+we're now using today. I mean, we would
+not be here today without Nvidia.
+There's a reason they have become such a
+gargantuan company and past Apple,
+Microsoft, like all the other tech
+companies you've known and thought about
+for decades. Nvidia just flew right past
+them in the span of 2 years, all because
+of this.
+[Music]
+So, when AI has its lightning strike
+moment, the Biden administration begins
+to crack down on chip sales. They say to
+Nvidia, "Look, we're concerned about the
+speed and the processing power of these
+chips going to China because as we have
+read a lot about, we're concerned that
+AI could be used by the Chinese military
+to coordinate strikes or to develop
+advanced weaponry,
+&gt;&gt; right?" And basically create a military
+advantage over the United States. And
+that's a risk that seems for many
+intolerable,
+&gt;&gt; right? So in 2022 they say we want you
+to throttle the performance of the chips
+you sell to China.
+&gt;&gt; And by throttle we mean reduce
+&gt;&gt; reduce the level of capabilities of the
+chips. So Nvidia does that. And the chip
+that they came up with eventually for
+exclusive sale in China is called the
+H20. And it's just a variation of their
+chip that
+&gt;&gt; is less good.
+&gt;&gt; Yeah. Less good than what they sell
+elsewhere. You know, in the midst of all
+this, Wong is going to Washington for
+the first time. He's going to the White
+House for the first time ever. I mean,
+this is a guy who's been in business for
+more than two decades at this point,
+nearly three decades. He just hasn't
+gone to Washington and had to deal with
+political issues before, and he really
+doesn't enjoy it.
+&gt;&gt; And he's all of a sudden realizing they
+need to open an office in Washington.
+They'd never done that. And then, you
+know, come November, President Trump is
+elected to office and they realize, oh,
+wait, we don't even have a Republican
+lobbyist. So they hired their first
+Republican lobbyist.
+&gt;&gt; And the icing on the cake for Wong is
+when all the other CEOs in Silicon
+Valley show up at the inauguration and
+sit behind Trump and kind of do all that
+you need to do to get in his good graces
+at the start of his presidency. Wong was
+somewhere else. He was in, of all
+places, China.
+&gt;&gt; Oh wow. Not the most politically
+adroidit decision if you're trying to
+influence the incoming president. All
+the other tech CEOs got the memo. It
+sounds like Yeah,
+&gt;&gt; he did not.
+&gt;&gt; He did not get the memo.
+&gt;&gt; You know, meanwhile, at this point in
+time, Trump has tapped Howard Lutnik to
+be the head of commerce, which makes the
+decisions about what is sold abroad
+essentially sets these restrictions. And
+&gt;&gt; I take a very jaundist view of China. I
+think they only care about themselves
+and seek to harm us. And so we need to
+protect ourselves, right? And we need to
+stop helping them.
+&gt;&gt; He's gone before Congress in his cabinet
+hearing and said
+&gt;&gt; Nvidia's chips, which they bought tons
+of and they found their ways around it,
+drive their deepseek model. It's got to
+end.
+&gt;&gt; I'm going to get companies like Nvidia
+to stop helping China develop AI. If
+they're going to compete with us, let
+them compete, but stop using our tools
+to compete with us.
+&gt;&gt; So, suddenly Wong's troubles are
+growing. And as you said, he doesn't
+seem to have a lot of inroads to the
+Trump administration. He didn't even
+show up with the inauguration.
+&gt;&gt; He never even met Donald Trump before.
+So, Nvidia's put on notice that the
+shutdown was coming.
+&gt;&gt; Mhm. And Howard Lutnik extends an
+invitation to Wong and says, "Look, if
+you want to make one last appeal, you
+can meet with the president in Mara Lago
+on the sidelines of this $1 million
+candlelight dinner that President Trump
+was hosting as a political fundraiser."
+So Wong shows up, talks to the
+president, explains that the H20 chip
+that he's selling in China is not that
+powerful.
+But when people in the administration
+are briefed on this conversation,
+&gt;&gt; they feel like he's misled or undersold
+the capabilities of the chip because it
+actually has more power than Wong has
+led on. And so they move to swiftly shut
+it down. And Nvidia gets a letter a few
+weeks later saying that they cannot sell
+H20s in China.
+So he has completely misplayed things
+with the Trump administration.
+&gt;&gt; I mean they were expecting about $15
+million in sales of this chip by the end
+of the year. A lot of money in China
+&gt;&gt; and suddenly Trump is saying
+&gt;&gt; no
+&gt;&gt; no go.
+&gt;&gt; Mhm.
+&gt;&gt; You had mentioned that this is the story
+of Wong rolling up his sleeves and
+somehow overcoming this enormously
+consequential shutdown decision. So,
+what is the story of how he pulls that
+off after this shutdown?
+&gt;&gt; Wong's in need of a strategic reset. And
+so, he begins to look for allies within
+the administration, and he finds one in
+David Saxs, who's the White House AI
+adviser,
+&gt;&gt; and Zar. The two of them see eye to eye
+on the idea that restrictions are not
+the answer. Sachs is a venture
+capitalist and a libertarian at heart.
+And he begins to circulate and promote
+this idea that the best way for American
+companies in the AI world to succeed is
+to get as much of their technology
+around the world as fast as possible.
+&gt;&gt; Just explain the theory, the philosophy
+there, because it's clearly at odds with
+what the rest of the administration
+thinks.
+&gt;&gt; It's at odds with what the rest of the
+administration thinks because it's like
+a very much a Silicon Valley philosophy.
+it is that the more developers you have
+and the more people who use your
+product, the more committed they become
+to that technology. And so the more they
+buy it on an each year basis, right?
+Like why do you buy another iPhone every
+year? It's because you're used to the
+way the technology works. It's the exact
+same philosophy. And so they're
+anticipating that China is going to
+challenge Nvidia at some point with a
+chipmaker of its own and say we have to
+sell as many Nvidia chips abroad in the
+same way that Apple wants to sell as
+many iPhones abroad before people decide
+to buy an Android device.
+&gt;&gt; Dominance leads to American supremacy
+and AI. Don't restrict it. That's
+basically the argument.
+&gt;&gt; All right. We will stay further ahead if
+we sell more chips than if we restrict
+chip sales either in China or anywhere
+else in the world.
+&gt;&gt; Okay. Well, how does that argument go
+with the rest of the administration?
+&gt;&gt; With time, they begin to make headway on
+this in large part because one of the
+focal points of the administration is
+this trip that Donald Trump makes to the
+Middle East in May.
+And one of the things that Donald Trump
+wants out of this trip is deals, deals,
+deals,
+&gt;&gt; right?
+&gt;&gt; And so in the runup to that trip, they
+began to go to work on a giant chip sale
+to the United Arab Emirates. And that is
+a capstone of this trip that Donald
+Trump makes across the Middle East.
+&gt;&gt; President Trump's visit to the Middle
+East unleashing a wave of AI deal
+making. The Trump administration
+clearing a path for Saudi Arabia and the
+United Arab Emirates to pursue their
+artificial intelligence ambitions as
+deals with
+&gt;&gt; it culminates in the United Arab
+Emirates where they announced the sale
+of about 500,000 chips. They're going to
+build the largest data centers outside
+of the United States in the Emirates.
+&gt;&gt; And how does Wong and Nvidia fit into
+this?
+&gt;&gt; They're all Nvidia chips. And Sax is the
+one who's at the negotiating table who
+puts this deal together.
+&gt;&gt; Thank you very much. It's an honor to be
+here. What a great place. What a great
+&gt;&gt; And the president is there on his last
+day of his trip to praise this deal and
+highlight it before flying home.
+&gt;&gt; Nvidia is investing and I see my friend
+is here, Jensen. That's very good.
+Wherever you may be, I thank you very
+much cuz he's
+&gt;&gt; got it. So Wong gives Trump a major
+foreign deal that means a lot to Trump.
+&gt;&gt; Wong gives Trump a win. And what does
+Trump love? He loves winning and he
+loves winners and all of a sudden he
+recognizes in Wong a US winner.
+&gt;&gt; H where is Jensen by the way? Where is
+he? He's standing here. Where is he? I
+just saw Beth. Thank you very much
+Jensen. I mean Tim Cook isn't here
+but you are.
+What a job you've done.
+&gt;&gt; And Wong decides this is a green light
+to go for the ultimate win which is
+getting sales back in China. getting the
+shutdown on the sales of these chips to
+China eliminated.
+&gt;&gt; Yeah, absolutely.
+[Music]
+&gt;&gt; And he knows he needs to grease the
+wheels and get support from Trump for
+that. And one of the things that Nvidia
+does in the midst of all of this is
+promise to spend $500 billion on
+manufacturing
+chips and other AI products in the
+United States.
+&gt;&gt; Right. Because as we know, most of these
+chips are made overseas in Taiwan. He's
+saying, "I can bring those here. We can
+start making them here. American jobs,
+music to Trump's ears."
+&gt;&gt; Yep. This is exactly what the president
+likes to hear. And all of this builds up
+to a meeting at the White House in mid
+July where Wong goes into the Oval
+Office and begins to make this argument
+which is look, let us sell into China.
+it will strengthen our business and
+strengthen American AI to do so. And
+Trump eventually at the end of the
+meeting agrees. And you have this
+massive reversal with Wong walking out
+of the Oval Office elated that he's had
+this huge colossal win,
+&gt;&gt; right? Because Trump has quite literally
+reversed himself on something quite
+central to his entire political and
+economic identity.
+This is the president who started the
+crackdown on China to begin with and now
+he's the one who's loosening the reigns
+for Nvidia and AI chip makers so that
+they can plow right into China which
+raises this enormous question. What are
+the repercussions of this going to be?
+And that's what we'll talk about after
+the break.
+[Music]
+We'll be right back.
+[Music]
+So, Chip, let's really talk through the
+implications of Trump's reversal. And as
+we've established, it's a reversal on
+all kinds of Trump's core principles.
+America first, globalists are bad, China
+is a big serious threat. How do you
+think he ultimately comes to terms with
+this argument that's been made by Wong
+and Saxs that selling these chips to
+China is somehow not a betrayal of all
+those things and that it's somehow good
+for the US and not better for China? In
+large part, the president came around on
+this because of the boogeyman that Wong
+and Saxs had created in Huawei,
+&gt;&gt; giant telecom company in China,
+&gt;&gt; right? And just remind us why Huawei is
+a boogeyman.
+&gt;&gt; Huawei is a boogeyman and has kind of
+really been a boogeyman for Trump
+himself going back to the first
+administration. It is China's crown
+jewel of technology. It is a company
+capable of designing smartphones, cars,
+telecom. And it's a company that when
+Wong talks about it, his eyes widen
+because he's petrified that if Huawei is
+able to begin making gains in the AI
+chips that it makes and they become as
+performative as those that Nvidia
+offers, that it will just begin to
+squeeze Nvidia out of global sales. Mhm.
+&gt;&gt; And there's this philosophy in tech
+companies, particularly inside chip
+companies, that the more they sell, the
+more money they make, and the more money
+they can plow into research and
+development to make their technology
+better, faster, higher performance. And
+so Saxs and Wong's philosophy here is if
+we don't sell to China, we're just
+leaving money on the table. And the
+Chinese are going to be the ones who are
+able to make the money and plow that
+money into research and development
+&gt;&gt; their own future chips,
+&gt;&gt; right? And they're going to leapfrog us.
+&gt;&gt; And for the Trump administration,
+they're sympathetic to this point of
+view. You have to remember China has the
+Belt and Road initiative. One of the
+things that Nvidia's also talked about
+in the course of this is the possibility
+that China could create Huawei data
+centers around the world and then all of
+a sudden instead of having American data
+centers and running AI on American
+technology, you have the risk of running
+it on Chinese technology. And just to
+explain what you're saying, one belt,
+one road. China's infrastructure program
+where it deploys its money and sometimes
+its expertise to help developing
+economies get where they want to be when
+it comes to energy or roadways, solar.
+The idea is that Huawei could help China
+layer on top of that AI technology
+around the world. So the entire global
+AI economy could suddenly be operating
+on Chinese systems, not American ones.
+That's the fear.
+&gt;&gt; That's the fear. And there's a a window
+right now where Nvidia is ahead of
+Huawei in terms of the quality of the
+chips it makes, in terms of its ability
+to make those chips. And Nvidia has
+argued we should take advantage of that
+window. Sachs has argued we should take
+advantage of that window. You have
+voices inside the administration largely
+because of SAGs who begin to to listen
+to this idea and take it very very
+seriously. help me better understand the
+vision that Wong especially has and has
+successfully sold to the president that
+giving China Nvidia's chips undermines
+Huawei without risking the idea that
+China uses Nvidia's chips to strengthen
+Huawei and leapfrog the US in AI. The
+philosophy there is basically that if
+Nvidia is not present, then Huawei is
+going to have to make gains in its chip
+development. It will have to catch up to
+Nvidia.
+&gt;&gt; That's interesting. In other words, if
+China has Nvidia's chips, if China has
+America's chips,
+&gt;&gt; right?
+&gt;&gt; It's less incentivized to get really
+creative and strive to beat us.
+&gt;&gt; Yeah. Essentially, and clutter the
+marketplace. Do you uh do you like auto
+racing at all? No,
+&gt;&gt; no,
+&gt;&gt; but I can I want to go wherever this
+metaphor is.
+&gt;&gt; Go with me. So, I in a past life, I was
+a sports writer and I covered NASCAR.
+And in the world of NASCAR, teams like
+Hendrick Motorsports, which Dale
+Earnhard Jr. drove for, Jeff Gordon
+drove for, Chase Elliot drives for, they
+make engines, Chevrolet engines, and
+they sell them to other teams, and then
+they pour the money back into making
+better engines. And so they equip cars
+on the track that they compete against
+with the very same engine that's under
+the hood of their race cars. Now, this
+means that they can have more money to
+make more sophisticated cars than
+potentially their competitors.
+&gt;&gt; Do they ever get beaten by their
+competitors using their same engines?
+&gt;&gt; And this is the big conundrum, right?
+Because there's so many other dimensions
+that go into racing. There's the driver
+behind the wheel. There's aerodynamics
+and the way the car there's road
+conditions, there are wrecks, right?
+Like you just don't know what's going to
+happen.
+&gt;&gt; And so essentially what what Nvidia has
+said is, you know, let us sell our
+engine overseas, China will build on
+that engine, right? But we don't know
+whether or not China will make a leaprog
+in its AI development. Just like you
+don't know when you put a Hendrick car
+on the track whether or not a competing
+car that has a Hendrick motor in it will
+pass it. somewhere along the way. The
+difference is if you're thinking about
+this racing analogy, you know, if your
+car loses, like that's not a big deal,
+right? But if if you're thinking about
+this and you're somebody in the national
+security orbit in Washington and you're
+thinking about this and saying, "This
+isn't a car that loses on a track. This
+is a system that could be used to
+coordinate military strikes, as we
+talked about earlier, develop weapons.
+it can be used for all these other
+purposes, right?
+&gt;&gt; So, you do have the advantage of knowing
+the tech that is in that system, but you
+can't predict or control all the other
+factors that go into,
+&gt;&gt; right? I mean, it's ultimately a very
+big bet on the idea that American
+ingenuity when unfettered in the market
+will remain dominant. And as you've
+said, the risks are high that it might
+not work. I want to go back inside the
+Trump administration for a moment. You
+said that this argument prevails. I'm
+curious given the number of China hawks
+in the administration
+whether despite the fact that it has
+prevailed, there's some meaningful
+dissent within the administration over
+the fact that Trump is willing to let
+China have this potential opportunity to
+leaprog us even if the theory is it
+won't. Many of those voices have been
+sidelined in the past few months inside
+the administration and they have not
+been able to push back.
+&gt;&gt; Why?
+We we don't have a real clear answer on
+this, but the Trump administration has
+been so focused on trying to negotiate a
+trade agreement with China that it has
+begun to negotiate around some of these
+restrictions as well. Well, that raises
+an interesting possibility. Is this part
+of a larger trade deal with China?
+&gt;&gt; Howard Lutnik went on TV after Wong
+announced that he was open for business
+in China again.
+&gt;&gt; I'm looking at Nvidia getting a deal to
+be allowed to sell certain chips. Is
+that a change of heart? Well, it's funny
+because the Biden administration allowed
+China to buy these chips last year. So
+then we held it up
+&gt;&gt; and he said
+&gt;&gt; and then in the magnets deal with the
+Chinese we told them that we would start
+to resell them. So remember these are
+&gt;&gt; this is part of a broader negotiation in
+part because China shut off access to
+rare earth metals that US companies need
+to make products. So that was a factor
+here. Now, the other thing that Howard
+Lutnik went on and said was exactly what
+Sachs and Wong had been telling him,
+which is
+&gt;&gt; balance. We don't sell them our best
+stuff, not our second best stuff, not
+even our third best. I think fourth best
+is where we've come out that we're cool.
+&gt;&gt; This is the fourth best chip we make and
+that's what we're providing the Chinese
+with. And that's why we will still stay
+ahead. So, yes, like it clutters the
+marketplace in China. It allows Nvidia
+to generate sales and by the way it is
+not the best we have to offer.
+&gt;&gt; Right? So you want to keep one step
+ahead of what they can build so they
+keep buying our chips because remember
+you want the world's developers to use
+your tech. So Nvidia is driven to make
+sure all the developers of the world are
+still using their technology. So you
+want to
+&gt;&gt; and so there's this giant gamble by the
+administration that that's good enough
+to keep American AI companies ahead,
+&gt;&gt; right? Because we do have the first,
+second, and third best chips here in the
+US. Let me zoom out for just a moment
+and put what Trump just did with these
+chips going to China into a larger
+context of where we are in this moment
+for AI.
+Because this reversal arrives at a
+pretty interesting moment for AI in the
+US. I have watched with enormous
+interest as tech companies here in the
+states engage in this unprecedented
+talent arms race. We're seeing job
+offers with $100 million
+compensation packages attached to them
+for a single engineer. And I know that
+might seem disconnected from what's
+going on with chips in China, but I
+suspect it's not.
+&gt;&gt; It's not in a way that has slipped under
+the radar a little bit. Some of these
+engineers that are getting these giant
+pay packages are actually Chinese. And
+one of the reasons that Wong has been so
+focused on getting back into China is
+because China accounts for 50% of the AI
+developers in the world. One country,
+50%. Right? So in a weird weird way or
+an unexpected way, American AI cannot
+succeed without China, right? Nvidia
+needs to sell chips over there and China
+has really sophisticated engineers and
+they are at the forefront of AI
+development and so you're going to want
+some of that talent. Like look, this is
+a talent game. I mean Zuckerberg's
+spending $100 million because he
+believes that these guys can really
+turbocharge what they're developing
+there. So you can't build a wall between
+the US and China on this. And the other
+thing that's at odds or in tension here
+are national security interests and
+economic interests. Right.
+&gt;&gt; Explain that.
+&gt;&gt; National security folks are very very
+worried about what China could do to
+harm the US. Right. They're taking a
+very glass half empty view and a risk
+focused look at China. Silicon Valley is
+looking at the opportunity to make
+billions and billions and billions of
+dollars from this AI transformation.
+We're talking about a trillion dollar
+disruption of the entire economy. And so
+they are racing as fast as they can to
+grab as big a piece of that as possible.
+And those two forces are at odds with
+each other right now. And what we saw in
+Trump's decision is he decided to side
+with the economic forces and choose that
+over the national security concerns.
+It's really a glass half full promise,
+right? And he's really going out on a
+limb,
+&gt;&gt; right? And by choosing the economic side
+of the ledger, Trump is making a bet, a
+historic bet, that the US can keep its
+advantages over China and stay ahead of
+the national security threat that
+Nvidia's relationship with China could
+present. That's the hope. You hope that
+your car stays faster on the track than
+anybody else's.
+[Music]
+Well, Trip, thank you very much. Thanks
+for having me.
+[Music]
+We'll be right back.
+Here's
+what else you need to know. Today,
+during a closely watched court hearing
+on Monday, a federal judge in Boston
+appeared deeply skeptical of the Trump
+administration's efforts to strip
+Harvard University of billions of
+dollars in research funding. Harvard has
+argued that the White House tactics
+violated the university's rights under
+the First Amendment. The White House, on
+the other hand, has framed them as a
+righteous response to anti-semitism.
+The judge will issue a final ruling
+without a trial as soon as September,
+and Monday's hearing suggested that
+Harvard may prevail.
+Today's episode was produced by Stella
+Tan, Sydney Harper, and Jessica Chung
+with help from Alex Stern and Eric
+Krupky. It was edited by Lexi Dial,
+contains original music by Marian
+Lozano, Dan Powell, Diane Wong, and Pat
+McCusker, and was engineered by Chris
+Wood. Our theme music is by Jim Brunberg
+and Ben Lansfk of Wonderly.
+[Music]
+That's it for the Daily. I'm Michael
+Babbor. See you tomorrow.
+[Music]

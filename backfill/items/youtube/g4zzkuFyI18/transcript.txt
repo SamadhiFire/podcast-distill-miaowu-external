@@ -1,0 +1,3036 @@
+Kind: captions
+Language: en
+I'm a big fan of the value prop. I want
+to hear the entrepreneur explain how
+they're generating real value for the
+customer. In fact, I I think when I look
+at what makes for the perfect
+investment, I have kind of thought about
+the the five ingredients to me all at
+zero. Perfect investment. So,
+[Music]
+I thought it would be fun to begin with
+a kind of weird but interesting question
+per our past conversations, which is if
+you could go back in time and think
+about the original SoftBank vision fund,
+which was hundred billion, huge fund. Of
+course, everyone was talking about it.
+Who knows what'll end up happening with
+it. The story is still not fully
+written, but if you could go back in
+time and you were fully personally in
+charge of deploying that hundred billion
+dollar fund, how would you have
+approached that problem? It's a lot of
+money to put out the door in a couple of
+years. How would you have done it?
+Personally,
+&gt;&gt; I I first of all, it was an eye openener
+to me when it happened and uh you know,
+we had sort of a small strategy that I
+always envisioned could be a big
+strategy, but maybe to kind of go
+backwards and say what are the best
+call it private equity venture deals of
+all time. Yeah.
+&gt;&gt; And this is a cheat answer. It's not the
+real answer, but I would say in my own
+view probably the most cleanest, best
+example of of return is probably VMware.
+Technically EMC was the private equity
+buyer. They spent about $650 million and
+sold it for 60 billion. So that's a $60
+billion gain plus or minus. Uh you could
+argue Instagram billion to probably a
+trillion. You could say YouTube is
+probably a billion to a trillion. So
+interesting if you look at some of the
+M&amp;A that strategic companies have made
+with some synergy that probably
+delivered a portion of that gain. But I
+would argue a lot of that was going to
+happen. Independent PayPal another good
+example. Uh almost no real eBay I think
+effect that really drove that. And I
+thought to myself, we had done a bunch
+of what we call venture buyouts and some
+were growth buyouts in and these could
+have been hundred million dollar
+investments of taking control of smaller
+software companies where we made five,
+six, sometimes more times our money.
+&gt;&gt; And I just always had in my head I would
+love to be competing with Microsoft. or
+Palo Alto or uh eBay for a deal because
+then the entrepreneur was like, "Wow, I
+could have my cake and eat it too,
+right? I could sell to Jeff for a
+billion dollars my next Instagram and
+still retain massive ownership, maybe
+even get reloaded on the options. I'm
+not 100% sensitive on those sometimes
+and that kind of a deal." And we've done
+that and we've had some bigger deals
+where we bought companies for about a
+billion dollars and uh there were small
+smaller growth standards. So there were
+not like what you would consider to be
+classic buyouts where you have cash
+flows and debt and all sorts of other
+things underpinning it. It was really
+just the markets and the growth and the
+entrepreneurs that you're betting on.
+And I thought if I had $100 billion
+rather that's what I would do. I would
+be like wow wouldn't that be interesting
+because I think you could really
+differentiate yourself tremendously from
+the pack. And interestingly Masa did one
+deal like that called ARM and it I think
+he's made four times his money on a
+really big check maybe more. I haven't
+tracked the stock lately. So uh you know
+pushing it to late stage growth I
+thought was a much harder strategy both
+for companies to consume that capital
+valuations that you needed to pay to get
+into those deals to justify that capital
+though obviously he made that return in
+Alibaba he made that return in uh I
+guess Yahoo was probably more my example
+Yahoo Japan of where he bought control
+of something and and turned it into a
+massive win. So anyway, that was kind of
+a dream I've always had. And people
+often ask, how does one scale
+&gt;&gt; our industry? And certainly if you look
+at those types of outcomes, you'd be
+like, well, I guess there's a chance you
+could do it. Could we compete
+&gt;&gt; Yeah.
+&gt;&gt; for those deals? I don't know. But uh it
+certainly on paper pencils out.
+&gt;&gt; Obviously, Insight has raised some of
+the largest funds in our industry, 10
+plus billion, 20 billion. What size
+would you set a fund 100 billion or some
+other number if you wanted to do today
+in 2025 the thing you just described
+like how big would it have to get so
+that you were actually competitive with
+the
+&gt;&gt; today's tougher it's tougher I mean when
+I first this was probably 2016
+&gt;&gt; uh when the vision fund came around and
+you know the concept of liquidity
+billion dollar exits as a massive
+victory for the venture I mean to get
+benchmark or sequoia to sell something
+for a billion dollars probably doesn't
+get their heart rate up today. So, the
+likelihood that they would do those
+deals again today knowing what the world
+looks like and what the upside could be
+for these types of assets is pretty
+small.
+&gt;&gt; So, I think it's just a little bit
+harder because the scale has changed.
+But, you know, we still and we look for
+these sub a billion is really the sweet
+spot that we could consider. But to find
+hyperrowth
+shareholders willing to exit is still
+tricky. Uh, and most of the deals
+getting done under that are getting
+bought for really strategic reasons
+where the financials can't even be
+imagined
+&gt;&gt; and modeled out, right? Palo Alto pays
+$500 million for 30 guys in Israel,
+that's a different
+&gt;&gt; game that we can't really compete with.
+&gt;&gt; And so, if you were to size a fund
+today, put it a little bit differently
+for the best possible riskadjusted
+return where like fund size dictates the
+strategy, where do you think you would
+size it?
+&gt;&gt; I think we're pretty close.
+&gt;&gt; What's your marginal one?
+&gt;&gt; We're about 12 billion. Okay.
+&gt;&gt; And you know, so we're deploying three
+plus billion a year in invested capital
+across a range of strategies. But I
+would say we definitely don't feel
+capital constrained to the opportunity
+set. I think if we were to, and I don't
+think this is part of our strategy, lean
+in on some of these big late stage
+growth rounds, you could envision a
+bigger fund. And certainly others have
+raised money specific to target that
+type of deal flow. That's not really the
+thing that that's more of a maybe a
+better version of that vision fund where
+you're buying into open AI or anthropic
+in big volume at latest stage prices,
+but it's it's not really what we we
+don't lose sleep over
+&gt;&gt; Yeah.
+&gt;&gt; that not being our core strategy.
+&gt;&gt; What do you make of this? I think you
+you were investor in the big data bricks
+round in anthropic more recently. What
+do you make of the latest stage private
+markets today? It's gotten it's gotten
+so interesting and crazy relative to
+when you started Insight. You've had a
+bunch of folks on this podcast I've
+heard who've talked about the changing
+private public market dynamics and you
+know there's I mean that data bricks is
+still a private company at this scale is
+sort of unheard of. Uh you could argue
+OpenAI is still a young company
+relatively speaking to the timing of its
+revenues, but um for reasons that maybe
+represent just the shifting of capital,
+uh companies are staying private longer
+and doing basically IPO plus plus rounds
+in the private markets. And you know,
+look, we look at these like we look at
+anything else through a lens of, you
+know, what's the forecast, what's the
+likely exit value, and what's the return
+on that capital. Once in a very rare
+while you see something at size that
+prices in a way that you feel like you
+can make riskadjusted venture-like
+returns.
+&gt;&gt; Maybe a a fun thing before we get into
+insights strategy specifically is to
+talk about your day and your life as an
+investor. What's interesting and unusual
+about you, there's basically nothing
+available about you on the internet. You
+don't give interviews like this. You
+seem to just be a heads down investor.
+um you you could have long ago retired
+and and yet I it my sense from talking
+to some people on your team and and
+talking to you is that you're working
+about as hard as you've ever done it.
+What is like a given week look like for
+you
+&gt;&gt; today and it wasn't always the funnest
+day. Uh I would say starts with some
+internal meetings of just you know
+investment committee looking at
+&gt;&gt; people's new deals uh partners meeting
+to spend time together and kind of sync.
+So this is, you know, first day back
+kind of day, uh, in this case, but that
+would be a typical Monday.
+&gt;&gt; And then I'd say a big portion of my day
+is going to be dedicated to prospects.
+&gt;&gt; And I make a point, as do most of my
+senior partners, to be spending as much
+time as possible hearing the stories,
+whether it's in person or by Zoom, uh,
+of new companies. Then there'll be a
+fair amount of portfolio calls. So I
+probably had three calls so far today on
+uh portfolio companies hopefully more
+strategic in nature than just you know
+what's your latest quarter and then some
+internal meetings on we had we'll talk
+about it later on you know how we're
+scaling the firm and do using AI to do
+diligence and all sorts of fun things
+like that.
+&gt;&gt; So it's sort of a a big blend of where I
+think I can contribute. What I try to do
+and no one's perfect at this is spend as
+little time as possible on things I'm
+not good at
+&gt;&gt; of which there's a pretty long list. So,
+you know, I think those are areas where
+I think I can have a meaningful impact
+&gt;&gt; and uh and also enjoy it. So, it's a lot
+of fun for me to do that.
+&gt;&gt; What would you say uh is the the skill
+on the prospect side evaluating a
+founder, a business, whatever that
+you've most improved at over the
+entirety of of insights existence. So,
+you today versus you in 9596.
+&gt;&gt; I'll say team broadly because some of us
+are much better at this than I am. I
+think our analysis of what numbers
+matter has changed a lot.
+&gt;&gt; Uh I remember six years ago at an LP
+meeting telling LPs we think we're at
+like 11th grade math on software. The
+industry is probably at seventh grade
+math on software. I think we're getting
+closer to college today. Uh it's still
+amazing what we continue to learn about
+metrics that really are the best
+predictors for future outcomes, which is
+really the
+&gt;&gt; the dream, especially in growth
+investing. you have enough almost enough
+data to start to kind of predict and
+we've also gotten better I think at uh
+kind of understanding
+sort of qualitative TAM issues and then
+it's a never- ending journey on
+management right like every year you
+learn something new in both the good and
+bad ways
+&gt;&gt; so uh you know people are always
+complicated but you definitely get
+better at it as you get more experienced
+at it
+&gt;&gt; can you teach us some of that college
+level math and understanding software
+businesses
+&gt;&gt; well I remember five years ago one of my
+companies was going public and the rage
+on Wall Street was net retention. I'm
+just picking a random one. I was already
+at my 11th grade math. So, I'm like,
+this is one of the least informative
+numbers I could think of. And yet, that
+was the only number that Wall Street
+asks. I said, the only number that
+really, well, two numbers really matter.
+GDR, which is gross retention, which is
+really how sticky is your customer base?
+How resilient is that? And more
+importantly,
+&gt;&gt; how much of that bucket do you have to
+fill every year? And you know there are
+very few companies with lowish software
+low would be 80s low80s gross retention
+that are in the top 20 market cap
+businesses. You could probably count on
+three fingers companies with that
+statistic. And the problem is that you
+get big and let's say you're losing 20%
+of your business every year on a billion
+dollars of revenue. That's $200 million
+of business that you have to go find
+just to fill
+&gt;&gt; the bucket. And then you of course want
+to grow 30 40 50% on top of that. So
+those become daunting numbers that
+usually reflect itself in your average
+cost of acquisition, right? So that
+would be a take your net new bookings
+divided by the spend that you had to get
+to that. Um and those numbers really
+kind of tend to to move together because
+you just have to keep filling more of
+the bucket with sales reps uh just to
+stay even. So I think that was an
+example of one. I think uh another time
+years ago I think we were starting up
+our public hedge fund but I thought a
+lot about calling ourselves the second
+derivative because so much more was
+learned and I think a couple guys had
+this right at Facebook like the early or
+late you know kind of the billion-dollar
+kind of guys that came in there but the
+change in new business is way more
+important than you know the change of
+the change right I'm growing 100%
+year-over-year my net new bookings that
+second derivative is really powerful
+where you see a lot of companies with
+almost zero change in the new business
+that they add each year off a small
+number that could still look like a
+really big growth rate,
+&gt;&gt; sometimes as much as 100% or 75%.
+&gt;&gt; But you can copyright that number if
+it's flat. And that happens a lot for
+example in vertical software
+&gt;&gt; where you quickly saturate the number of
+decisions made in a given year and all
+of a sudden you model out five years
+with a flat new bookings number and your
+exit growth rate is going to be a lot
+different than what Google was able to
+do which was compounded 100% for 15
+years. One of the things I think is so
+interesting about Insight is the ability
+to just price different numbers that
+it's not just I think that you're buying
+95 plus% gross retention and
+accelerating top lines or something like
+that. You'll buy companies that don't
+have those metrics.
+&gt;&gt; Changing on that a little bit. I meaning
+like we keep learning that you sometimes
+get fooled into the trap of value and it
+is not a great way to make money in my
+estimation and people do it and people
+are really good at it. I'm not going to
+say it's not doable, but buying cheap in
+technology is is certainly there's not a
+long list of really rich people who've
+done that, right? As compared to the
+people who've just bought the dream
+where there's a very long list of people
+who've made lots of money on the dream.
+&gt;&gt; So, I think making sure those metrics
+especially at scale looks like we will
+not do a low gross retention business
+today unless we really are confident we
+could change it. Um we think that metric
+is really the fundamental driver of all
+exit values
+&gt;&gt; uh and ultimately large companies. We'll
+obviously make exceptions if we think we
+can fix things or we think maybe there's
+a good story as to why it was maybe you
+know not enough sales capacity this that
+but you know if you ask at least half my
+partners would tell you they prefer not
+to compromise on any of those metrics
+like their view is if you look back in
+time nine out of 10 times those metrics
+have been the driving metrics for our
+success. If I think about gross
+retention as like one avenue of math to
+go down and that's algebra 1 like what's
+algebra 2 like what if you kept pressing
+on gross retention as an example of how
+you then keep digging into the business
+how does it work zoom out the simplest
+math is LTV divided by CAC right that's
+all you're trying to understand is I
+invest in money and put assume R&amp;D gets
+somewhat normalized to levels that are
+kind of uh industry standard so that's
+really what you're trying to tease out
+GDR is a great predictor on LTV right
+the less I lose of a customer the longer
+it lasts the present value of that cash
+flow stream is higher. CAC is the other
+big variable on that. And then what
+you're trying to figure out is the
+market pull for that. Like how quickly
+am I accelerating that number? Can I add
+if I added 10 million of new business
+this year, can I add 20 million next
+year and 40 million the year after? And
+the smaller the company gets, the harder
+it is to tease out
+&gt;&gt; whether you're just rapidly walking into
+a finite market and you saturate that
+decision- making in that market or is it
+deep enough that you could imagine
+growing for multiple years. So take
+Whiz, which is obviously one of our
+favorite stories in life and great team
+and they've been able to double or more
+their net new bookings each year for six
+years. And just when you do that math,
+if you start at 10 and start doubling
+that for five years, that's a really big
+number of new business added each year,
+which keeps your growth rate at close to
+if you literally doubled it every year,
+you would have a 100% growth rate, you
+know, add infin item.
+&gt;&gt; What qualitative questions do you like
+to ask on the back end of the
+quantitative investigations? Like when
+so let's say you've got a company that
+has great gross retention, how do you
+then continue to separate? So you have
+to do qualitative especially as you get
+earlier because a lot of these numbers
+are still forming and it it's hard to be
+false precision I think could get you in
+trouble. I'm a big fan of the value
+problem. I think when I think about
+investing I want to hear the
+entrepreneur explain how they're
+generating real value for the customer.
+uh I then kind of look at in fact I I
+think when I look at what makes for the
+perfect investment I have kind of
+thought about the the five ingredients
+to me all that's here
+&gt;&gt; perfect investment so value prop is
+critical and that usually could and
+should translate to selling price right
+and then I kind of distill that and say
+well imagine you're going after the
+hospital market we looked at a chantic
+AI company in that market and if Epic
+sells $10 million a year on average in
+the hospital market and you're selling
+half a million dollars a year in the
+market. They're 20 times your size on
+average selling price. Pretty hard to
+imagine that you're going to be as big
+as Epic, right? Like you could sort of
+frame it and say, "Best case I'm
+probably 120th." Epic is a dominant
+player. You know, rare that anyone gets
+more market share than they do in a
+given sector. Best case is I'm probably
+120th the size of Epic. So that's kind
+of a good framing of TAM in my mind as
+opposed to the how many customers are
+there? Can I multiply by this? and like
+the sort of top down approach I think is
+is riddled with errors in and thought
+whereas if you kind of look at what's my
+selling price how does it compare so you
+kind of want to see that average selling
+price and then compare it to companies
+that are targeting the same number of
+customer universe and that gives you at
+least a ballpark of what could be uh you
+obviously want to look at the landscape
+of competitors and say well what market
+share am I realistically going to have I
+think the hidden data point for me
+especially for early companies I've
+pushing on and this is where AI is sort
+of a pretty neat idea is what's the time
+to value right so when you think of a
+customer making a decision on installing
+SAP versus using open AI right one is I
+literally point my cursor to a web page
+and I'm getting value immediately and
+the other could be a three-year very
+expensive journey to change my
+organization to get it up and live and
+and productive and SAP has massive value
+to that customer base But it's a very
+long time to implement and that's going
+to just inherently slow down
+realistically how fast you can grow both
+your own ability to succeed with those
+customers but also just the decision-m
+around those complex decisions. And I
+think that's that's kind of framing a
+little bit of that. And then I think
+obviously
+phenomenal CEOs are always the dream. Uh
+some of that I I listen to the podcast
+I'm like wow people are really a lot
+smarter than I am because I sometimes
+write that story after the fact. Uh I
+certainly have plenty of phenomenal CEOs
+that were rejected by a lot of other
+firms. Uh so it's not always obvious,
+but I think you certainly when you get
+that ingredient right, whether you're
+able to see it or whether you just, you
+know, got it and then a phenomenal tech
+team that goes with it right because I
+think this is a world in the last 10
+years where product really drives
+outcomes. And you've had folks on your
+show that talk about, you know,
+happiness and product satisfaction,
+things of that nature. putting those
+five things.
+&gt;&gt; Can you list them once more just so I
+make sure I have them?
+&gt;&gt; I'm gonna go look at my little cheat
+note because I I wrote them down for
+you. It's big ROI, big ASP, time to
+value, CEO and tech. Yeah.
+&gt;&gt; And management team that goes behind
+that tech. That's my five. I think whiz
+might be the end of
+&gt;&gt; checked all five.
+&gt;&gt; Yeah, maybe Monday had a bunch of that
+too, but like it's it's rare like to get
+the time to value and the ASP is really
+rare. Does it stand to reason that you
+think like for an SAP type company where
+uh the benefit of that long install
+process is very sticky typ you know
+typically on on the other side of it
+that the right time to invest in those
+kinds of companies after they've gotten
+their install base like that's the
+better riskadjusted entry point.
+&gt;&gt; I think for those companies I'm a I
+don't know why I have this number in my
+head but 15 customers that are
+referenceable is sort of a magic number
+for inflecting on growth. So the
+challenge with those companies is as
+much they're very hard to sell those
+products. It's a lot of missionary
+selling early on. And so you can't
+really scale your sales organization
+until you have a certain number of
+referenceable customers
+&gt;&gt; that you could lean on. And you know if
+every sales guy is pointing to the same
+reference site, that customer gets a
+little annoyed after a while.
+&gt;&gt; So you're kind of constrained by that.
+But around 15, not only do you know the
+product is really pretty solid, but you
+also have an ability to start to think
+about supply constraints to scaling, not
+demand constraints to scaling.
+&gt;&gt; Maybe you can um walk through the one
+fund strategy that you've chosen to
+pursue at Insight, which is really
+interesting. And I'm especially
+interested in how in a fund that's $12
+billion, it's worth your time to look at
+say like a $10 million investment or
+something like this. So that tension is
+fascinating to me and the one fund
+strategy is fascinating to me. I know
+you have strong beliefs about it. So
+maybe describe why it is this way and
+and the trade-offs. I'll give you a
+couple angles on it, but first I was
+lucky enough to get my first job and it
+was a lot of luck and somebody who
+believed in me that hired me um at
+Warberg Pinkis which you know founded in
+1968 maybe the world was a different
+world anyway but sort of developed a one
+fund strategy there is included stage
+and industry right so they were kind of
+stage agnostic industry agnostic some of
+that was mapping to LP demand for the
+biggest of LPs back then the pension
+plans there's Two things I think that if
+you taught finance in classic portfolio
+theory, you would be sort of scratching
+your head and thinking, gee, why isn't
+everybody doing this? So, one is risk
+management. So, one of the really
+interesting things about the vision fund
+was their ability to write a $200
+million check that was inconsequential
+to the return of the fund.
+&gt;&gt; So, it did give you the obviously you
+could abuse that and take risk that
+maybe aren't sensible risks, but it was
+sort of fascinating that you could most
+of us really sweat out those big checks,
+right? And we're really pretty
+riskaverse. We want to make sure the
+downside is absolutely locked in.
+Probably the 2x case is really visible.
+There's very few firms out there. Vision
+fund was probably the one exception that
+could look at that and say, I could
+think of that divide by a hundred as a
+$2 million check in a billion dollar
+fund where we all could easily say, "Oh,
+of course I'm not going to get too
+worked up over a $2 million check. I'll
+take a flyer." So, there's a little bit
+of just risk management. And you could
+do it with check size. So, you could
+look at stages slightly differently. um
+you could look at different types of bet
+sort of differently. And the second
+advantage a single fund has in my view
+is I think all my peers would sort of
+admit that the best bet on the table is
+the double down bet, right? In
+blackjack, we all know that, right?
+You've got an 11 against a five, you
+double down. Like it's the best bet in
+the not only do they give you the good
+odds, but you know, you have way more
+information than you had before you got
+the hand out.
+&gt;&gt; And you know, we're not all perfect.
+Sometimes we fall in love with our
+babies, but if you went back in time and
+looked at our double down checks, they
+were our best checks. And if you kind of
+looked at that, we've taken5 to10
+million positions. We took a $5 million
+position to a billion dollar position.
+&gt;&gt; We never would have seen the billion
+dollar position without getting the
+relationship with management with a $5
+million position. We've routinely in
+some of our biggest exits from Monday
+and CENO a bunch have started with under
+$25 million bets that have come up to
+$200 million over time and we just see
+secondary opportunities. We see followon
+opportunities. So if you kind of zoom
+out you're like isn't that the most
+rational way to do it? Like why would
+you do anything else? And I know there's
+some phenomenal firms I've heard on
+other podcasts that I have a ton of
+respect for and they intentionally want
+to give that bet away. Uh and then
+obviously the more common approach now
+is I'll have a separate pool of capital
+for that bet. But that has its own
+constraints, right? Because sometimes
+the kind of charter of that fund, the
+pitch to the LPs is a little more
+nuanced and you find yourself in tweener
+bets. And I'm sure you could talk to a
+bunch of early investors that have
+growth funds that aren't always at their
+best deals and you're like, well, how'd
+that happen?
+&gt;&gt; Right? Now, sometimes they find a way to
+do it and it's great, but a lot of times
+they they actually because the bit the
+deals get bit up a little earlier than
+they expect doesn't really fit what you
+would consider to be a typical pitch to
+a growth fund, but it's clearly not an
+early stage bet anymore. And it's check
+size is too big for an early stage bet.
+What do I do with it? And we don't have
+to think about any of those conflicts.
+And we certainly don't have to think
+about conflicts between the two funds,
+which is really, you know, it could be
+managed, but it's not zero. like am I
+bailing the company out? Am I really
+supporting it? Like
+&gt;&gt; how that all looks optically could get
+funny over time.
+&gt;&gt; What are the biggest downsides of doing
+it this way? Like what what annoyances
+does it introduce that maybe you
+wouldn't have to deal with had you
+&gt;&gt; I think the biggest is you lose a little
+bit of discipline from third party
+pricing. It goes both ways. So sometimes
+we pra deals and we think we get great
+deals. I'd say more often than not
+that's the belief that we have is we
+make it easy for the founder. The pitch
+to the founder is you're done. If you
+want us, you got us for life. If you
+want to go out to find another partner,
+that's okay, too. Like, we've got our
+position. We're not going to be upset
+with that. But we're also here to
+support you the entire journey. Up till
+2017 18, that was really common.
+&gt;&gt; You know, the world got really
+competitive starting in 18 and and a lot
+of those follow-on checks. We even if we
+wanted, we couldn't get them at the
+values that we thought were exciting or
+the founders just wanted to get third
+party pricing
+&gt;&gt; for their own reasons and we're going to
+support that. But, you know, the
+downside is you could kind of believe
+your own PS. You can get a little sloppy
+with a small like the $2 million kick
+save checks. I got to keep this. I want
+to bridge to a sale. I want to do this
+that. I could argue that goes both ways.
+Plenty of those have actually worked out
+where we have bridged to a sale. We have
+recaped the company and and and gotten
+some of our original money back. But you
+could certainly see how you could be
+chasing good money after bad if you're
+not careful.
+&gt;&gt; And what about from the LP's
+perspective? Like does the one fund
+strategy, is that a feature to them? Is
+it a bug? Does it depend on the LP?
+&gt;&gt; We don't fit into a bucket. My whole
+life I've never fit into a clean bucket.
+And that's the probably the most glaring
+one. How do you man? How do you think
+about that? I'm like, well, you know,
+doesn't feel like that at all when
+you're on the inside. It just feels like
+a a pretty welloiled process. But I
+think from the outside, we look like an
+N of one. Uh, you know, you go back in
+time to firms that scaled over the
+years. They almost always scaled on
+check size. And one of the reasons
+Insight exists today is literally
+because some of the best firms in the
+world at the time we started it were
+moving up market and putting in sort of
+rules of we do $50 million checks, we do
+$100 million checks for the reason you
+outline because those are the checks
+that will probably move the needle. Uh
+though obviously Sequoia and Benchmark
+and others will tell you otherwise. Like
+they've written plenty of $5 million
+checks that have been breathtaking in
+outcome. But, you know, I can sort of
+see the logic as you get bigger that
+that's a temptation to kind of put that
+sort of constraint in place. And, you
+know, our DNA just didn't want that
+anyway. So, some of this was not fully
+thought out in the way I've described
+it, but it it in fact holds really well
+to time. Uh, and some of it was just our
+DNA was so driven off of sourcing. And
+the history of Insight was sort of based
+on some experiences where I found some
+small deals that didn't fit with a
+bigger firm and I was like, I don't want
+to be that guy again. I don't want
+capital to dictate my strategy. Um, and
+it turns out it doesn't have to. Like
+you could get a little bit invested in
+and find your way to backing up the
+truck for bigger ownership. Uh, and then
+as the world changed, it's increasingly
+hard to come in late. So now I would
+argue that there's some really good
+firms that have been around for as long
+as we have that were the pre-minent
+latestage funds that
+like us look at some of these later
+rounds are like that's a pretty tough
+spreadsheet. There are other ways to
+deploy that capital that seem better
+riskreward adjusted. Um, now again
+there's some that are great, but most
+I'd say the spreadsheets start to look
+like, you know, two to 3x. You could do
+much lower risk buyouts or venture
+buyouts or other types of deals with the
+same return curve with a lot more upside
+and an ability to control your destiny
+in a better way. So, uh, I think it's
+sort of become a bit of a necessity too
+to get on the balance sheet uh, by
+getting in a little bit earlier.
+&gt;&gt; You mentioned sourcing in the early days
+of insight. so much path dependency to
+all these stories. If you ask people
+that study this industry to say
+something about insight, I think the
+first thing they'll say is something
+about your sourcing strategy. And so now
+would be a great time to just like hear
+how it what it is and how it evolved.
+And maybe that'll be a good jumping off
+point into investing firms that have
+strategies or not um as businesses. But
+but let's start with sourcing. When I
+wrote the original business plan, which
+is not tremendously different than
+today, uh, which is a longer story, but
+I was leaving Warberg, I actually I love
+software, wanted to just do software and
+was really interested in doing smaller
+deals than that firm was set up to do at
+the time. And uh, nobody would hire me.
+So I tried to get a job at at least
+three of the leading then software was
+tiny. It was IBM and Microsoft just to
+put a setting in the world. SAP was sort
+of this mainframe guy coming along.
+Oracle was probably the coolest cat in
+town in terms of like open systems,
+whatever you want to call it back then,
+client server compute, but it was a
+really really small market. Like you can
+count on one hand, I think the top 50
+software companies, like number 50 was
+like 10 million. Like it was tiny.
+&gt;&gt; Um, but I loved it. I thought it was a a
+big growth bucket. I thought
+specialization
+uh had a real edge. uh we were
+disadvantaged by being in New York. I
+mean, I guess I could have moved, but I
+had family and other reasons why I like
+New York a lot. And so trying to compete
+on the West Coast terms made no sense to
+me. Um and so one picking an area of
+specialization where the model was still
+pretty new to people and it was pretty
+different than the hardware companies
+before it that were really the more
+typical uh venture investing. uh and the
+DNA of a sales guy of software back then
+and Oracle's DNA that was a really
+different DNA than what most folks were
+used to. So we thought specialization
+was absolutely critical to understanding
+an industry really well and we picked
+software. In hindsight it was probably
+the best bet I've ever made, but like it
+wasn't cuz I saw the vision to where it
+is today by any stretch. So that was
+kind of this the start of it all. And in
+like the mid 90s, like early 90s I
+should say, I was still at Warberg. went
+to a conference and Kevin Landry who was
+at the time the founder and managing
+partner at TA Associates was presenting
+to a large crowd and he was walking
+through his playbook and I was like the
+classic Vince Lombardi story like here
+it is I don't really care
+good luck good luck was his comment like
+no one and I'm like 26 years old I'm
+like all right like that's pretty cool
+he's ripping out I help wanted ads from
+the New York Times or whatever magazine
+that you're reading and he's calling
+these companies up and it turned out
+back And it was a really opaque market.
+Very few companies were, you know, other
+than those in Silicon Valley were out
+there raising capital in any
+professional way. Uh, and entrepreneurs
+were really receptive to just being
+called up and saying, "Hey, I think
+you've got something cool.
+&gt;&gt; Would you be interested in uh talking to
+me?" And I started at Warberg. I sourced
+a bunch of deals that way, which was
+pretty unusual for what was largely a
+shake the tree partner kind of model. um
+and realize I could find deals all day
+long like this and especially software
+lent itself to being outside Silicon
+Valley especially applications right
+because if you're building banking
+software do you want to be in Silicon
+Valley or New York City if you're
+building pharma applications you want to
+be in New Jersey or do you want to be in
+uh Silicon Valley and I can go down the
+list right of industries that you know
+really made sense to be much closer to
+your customers
+&gt;&gt; which themselves had clusters around the
+US and even in Europe this was like a
+nice add to the fact and And most
+software companies back then started as
+consulting projects that got
+bootstrapped to some degree to a
+product.
+&gt;&gt; So you could actually find these things
+well after their incubation phase and
+startup phase which again was very
+counter to the uh West Coast model. Um
+and so I hear Landry speak. I start
+doing what he's doing and I'm like this
+is working. I could do this. And we
+start Insight. I had a partner with of
+mine that was sort of a consultant to
+Warberg. We started up. We just start
+sourcing deals and almost like on the
+phone call calling everybody and you
+know we found a bunch of deals before we
+had a fund and then we kind of put
+together scrapped together $16 million
+blind pool of capital from some high net
+worth folks and and that was what begot
+insight. But in that thesis was focus
+sourcing and then the focus was going to
+give you both an ability to source
+better because you knew where to look,
+you knew what magazines to read, you
+knew what trade shows to go to. All that
+kind of lent itself to the same. But it
+also gave you a chance to think about
+how do I add more value to the companies
+I invest in. And we were actually the
+lead investor in almost everything we
+did. These were kind of bootstrap
+businesses that didn't have partners.
+And I wanted to be helpful to the
+founders. And most of the founders were
+technical by background and didn't
+really have that Oracle sales DNA that
+was really the cutting edge of what B2B
+software was back then. and we started
+to build some network of people who knew
+how to do that and ultimately brought
+some of those folks in-house and one of
+my first hires as a partner was somebody
+who was president of one of my companies
+who was one of the best sales guys I'd
+ever met. Um and so that was kind of the
+thesis, right? So focus sourcing value
+ad by being the best at what we could
+be. Um and obviously the world's changed
+a lot since then, but those core
+ingredients are still 100% insight. So
+if you think about the the sourcing
+platform inside of insight and chunk it
+up into chapters back into the mid 90s
+through to today, how what are the major
+chapters like how is it?
+&gt;&gt; Chapter one is me and my partner then
+&gt;&gt; calling people. Uh chapter two is I I
+hired three associates uh one out of
+Summit uh Mike Triplet which was a big
+decision and Mike brought me concrete
+I've been there done it at the best of
+the best my partner Jeff Lieberman and
+and one other partner and so they
+started doing it too and you know Mike
+was you know for him it was second
+nature because he'd been doing it his
+whole career which wasn't very long at
+the time he was probably 25 but uh long
+enough and that kind of elevated us and
+we were kind of basically investors
+doing it ourselves. And then we made a
+decision in 1999. We hired a young man
+out of Dartmouth, which is where Mike
+went to school. Uh, and he became our
+first official analyst. We decided to go
+right after the undergrad kids because
+we realized it's a really hard job and
+if you've actually been working at
+Goldman Sachs or Mackenzie, you kind of
+get spoiled
+&gt;&gt; and you don't want to go back to picking
+up a phone and calling somebody up
+without any context. So, it's it's a lot
+of work. It's it's it's a lot of effort.
+And that became the first I guess two
+chapters really. We then just started to
+operationalize what that young man was
+doing and we started having classes and
+then we started going down to the best
+schools to recruit and then we started
+to have training programs and we started
+to really institutionalize that entire
+process and that's really the last 20
+years. It hasn't other than technology
+&gt;&gt; I'd say that the hiring and profiling of
+of what we do hasn't changed
+tremendously. the class sizes generally
+speaking have gotten bigger as the
+market's grown, but you know, we're just
+trying to cover everything. So, whatever
+that takes in terms of human resources.
+Um, you know, I'd say the next chapter
+for us, it's been probably the last 5
+years, is just can technology really
+make an impact on who you focus on. And
+there's a lot of firms like ours, I
+think, that are trying to do that. I
+think the human in the loop still
+matters. Uh, that's our belief. Uh, you
+know, entrepreneurs aren't just going to
+react to the first email they get from
+you. So, the fact that you think XYZ
+company's super hot doesn't mean they're
+going to return your phone call. Uh,
+I'll have analysts give you stories of,
+you know, 25 phone calls, couple
+FedExes, and then landing on somebody's,
+you know, street corner, uh, begging to
+take a meeting, right? like it's hard
+sometimes to get the attention of
+somebody who's successful,
+&gt;&gt; especially in today's world where
+there's probably 30 more 50 more firms
+reaching out to that individual, right?
+So, we're we've shifted from a world
+where capital was a little bit more in
+power. It wasn't perfect in even the
+90s. It was already shifting, but today
+clearly the entrepreneurs got lots of
+choice
+&gt;&gt; and we're very sensitized to that choice
+and really want to make sure that we
+meet that. So if I came in today and saw
+the current setup um could you describe
+it in as much detail as possible? So
+like how many people are there? What
+like what is how are they given their
+assignment? Are they just given free
+reign? Do they have a coverage universe?
+Like what like just give me the detail
+of the actual platform today.
+&gt;&gt; First my my management style which is
+not very good but can be very effective
+for the right people is to throw you in
+the water and just say swim.
+&gt;&gt; And I think we have a much better
+training program right now. So
+thankfully I have some of the folks that
+have come through the sourcing program
+that are still with me have been you
+know much better at managing than I am
+and and have been able to kind of
+institutionalize some of the lessons to
+get people up the curve quickly. But you
+know within a few months you've learned
+what you can learn from the system.
+You're learning from your peers but at
+the end of the day no one tells you go
+call XYZ
+industry up. You have to kind of sort
+this out yourself. You hear you listen.
+Maybe your partner that you work with is
+giving you some advice on industries
+that they're intrigued by. Uh but it's a
+lot of trial by error and and learning
+and different folks pick it up in
+different ways. Different folks are
+better suited for that than other jobs.
+But uh it's it's pretty much a a you
+know self-starter highly personalized
+initiative to get going. We have
+probably in aggregate 60 plus people
+&gt;&gt; depending on you count 60 to 80 people
+that are still heavily engaged. you know
+the process has gotten a little bit more
+sophisticated because you know founders
+also want to meet with more senior folks
+and you know we have you know mid-level
+folks that could help direct manage and
+coach so we have a lot more support for
+these folks to be really good and
+they're getting daily kind of coaching
+from the folks who've been there and
+done it
+&gt;&gt; I would say that I think almost all the
+partners at insight but one or two at
+the sort of high investment committee
+level started off in that program right
+so we've kind of mostly homegrown which
+we could have a whole another uh angalon
+because I I think this it's an important
+story to hear about where the the
+insight diaspora has has wound up. We
+have largely cultivated our own teams
+over the years. Uh what we have done is
+you know we also have a very big
+practice of uh McKenzie like brains that
+are there to help the portfolio. So they
+come in also fairly young, maybe two
+years at McKenzie and then join insight
+and that's another career path for
+people to kind of get to know investing
+but to know it through the operational
+side. It's a fantastic talent pool too.
+So we now have I think one of the core
+differentiators of insight which again
+is a very hard message to get across is
+we have the best youngest talent by far
+in the world as reflected probably in
+the fact that I think we just counted
+for this interview I think we have 16 or
+18 funds
+&gt;&gt; that were started by insight alum I've
+got 30 plus partners at other firms
+today that were insight alums I'm going
+to come back to the people the alumni
+effect that you described it's a lot of
+funds to have started out of a single
+place um so that's really cool coaching
+tree like in football or something.
+&gt;&gt; That's exactly the email. I use the Bill
+Parcel.
+&gt;&gt; Yeah, Bill Parcell's coaching tree.
+Those 60 people today, how do they
+relate to one another? Do they feel like
+they're and and what's the incentive
+structure like? Am I am I incented to
+compete directly with them? And if
+there's if there's a good deal, do I
+have my own lane? Like how
+&gt;&gt; you've got lanes and we've got
+technology to claim. I mean, it's
+probably a lot like if you were in a
+good software company and you looked at
+the PDRs and that software company and
+sort of looked at the sales folks and
+you thought, "All right, who gets what
+territory and how we're not going to
+give people territory in the same way,
+but we're going to give people a chance
+to claim a deal."
+&gt;&gt; Yeah.
+&gt;&gt; And then it sits on their pipe and it
+has a certain rules around how long it
+could stay in that pipe until it's acted
+on,
+&gt;&gt; up for grabs again.
+&gt;&gt; Then it's up for grabs again. So, it's
+sort of a you got the ocean, you could
+call whatever you want, but you know,
+once it's on somebody's pipe, it's their
+deal.
+You know, I'd say we try really hard to
+encourage collegiality. So, if
+somebody's looking at a deal that's not
+getting followed on on somebody's pipe,
+please pass it and we'll work together
+on it. And we tend to overcompensate for
+cooperation. So, the general goal is not
+to at least have comp be a reason not to
+be cooperative.
+&gt;&gt; Uh, obviously people like their own
+track records and they get a little it's
+hard to take type A people and make
+them, you know, full, you know, full
+players on that, but I think we do a
+pretty good job of that. But you know in
+general you're going to step on toes. I
+think other firms are more delineated by
+buckets.
+&gt;&gt; You go after infrastructure, you go
+after AI, you go after and I think what
+we found was just a lot of misses that
+way. It's it could be just a partner's
+prediliction to doing a certain type of
+deal. And so this other kind of deal,
+it's just as good, but it's technically
+one partner's bucket doesn't get acted
+on. And so, you know, we try to create a
+little bit more openness to what those
+lanes look like. But, you know, we also
+know and the partners at the senior
+level know, you know, if somebody finds
+a cyber deal, there's a few of us that
+do a lot of cyber. Like, please share it
+with one of us. What's the point of
+getting educated and we're all comped
+the same. So, we're not exactly trying
+to, you know, this is one for all, all
+for one to make the firm successful.
+And, you know, we try to direct the
+deals to where they're both going to get
+won and focused on. Is the person
+incented to just get a deal to a certain
+stage or get a deal that gets done like
+and how are is it just like a
+salesperson like they're sort of paid
+the equivalent of a commission or
+something like that on
+&gt;&gt; I mean they get paid very good salaries
+bonus on that. So I think and the at
+this age the money is not the driver for
+these guys. I mean, the the the golden
+carrot is so big, whether it's at our
+firm or somewhere else, of being a
+successful investor. By and large, the
+real motivation is they want to be
+successful and win and deal
+&gt;&gt; and have a good deal, right? You don't
+want to be pushing a partner to do a bad
+deal and
+&gt;&gt; have to put that on your resume for the
+rest of your life. I don't think
+anyone's really just because you got a
+couple thousand dollars of But we do get
+deal bonus for the 23 year olds that are
+making the calls. At what stage does it
+get handed from them to some other part
+of the business, some other person, some
+other diligence process? Presumably,
+they're not the ones doing the
+underwriting.
+&gt;&gt; First of all, we have now about eight
+teams which are basically IC members
+who've been with me in most cases 20
+plus years.
+&gt;&gt; Seven six of us together for at least 25
+years, you know, a few 10 years. Um, and
+that's kind of the pods that we would
+basically say these are the senior
+people within that. There might be some
+other investor MDs, some principles and
+VPs. And so it kind of bubbles up. It
+starts with maybe a VP or senior
+associate working with that analyst that
+source the deal and then recognizing all
+the key signals to what might be an
+exciting company. It's not as tricky as
+you might think and maybe the early
+stuff is but most of what we do is
+pretty clear when something looks
+interesting
+&gt;&gt; and then it just keeps bubbling up and
+then eventually uh it'll elevate to the
+IC member on that team and say time to
+meet the company and let's get you on a
+plane. And sometimes we can't get into
+the company without that meeting. So we
+know all the external data points point
+to hot. We we we see that we're like
+okay that founder does not have an
+interest in taking a call uh from
+somebody more junior. Those junior
+people have a lot of influence at my
+firm. So they they run my schedule for
+sure. For sure. But that's a hard to
+crack and you know the partners will get
+jumped on planes and you know I've been
+this year to Estonia, Sweden, five other
+places.
+&gt;&gt; You've been there? Yeah.
+&gt;&gt; Oh yeah. No, I mean like
+&gt;&gt; I think you told me your your your
+calendar is dictated by 24 year olds.
+&gt;&gt; Totally. They set it up and today every
+meeting was, you know, set up by the
+analysts, which is fun. I I like it.
+It's easy also, by the way, because it's
+really hard to get all these meetings
+that Yeah.
+&gt;&gt; Well, but the part Yeah. The partners
+that work at other firms, the nice thing
+they have is it their calendar gets
+filled up by doing deals, so they can't
+do more deals. Sort of a nice regulator
+to deal flow. sometimes could catch us a
+little bit because it's so much of what
+we've done. We've we've kind of
+systematized
+uh that it's it's relatively easy for us
+to get the meetings, but it also means
+that like they can go on forever if I
+don't like I can't say I'm too busy.
+Like these guys are out there hustling.
+I want to make sure that they get the
+attention they deserve. They're working
+so hard.
+&gt;&gt; What makes a great sorcerer? Like if you
+think across the probably hundreds at
+this point of sorcerers you've had over
+the last several decades, what
+distinguishes the very best of them from
+like the merely good?
+&gt;&gt; It's got a lot of classic sales skills,
+which is hunger, winning, probably lack
+of self-awareness. Meaning like you'll
+make a phone call to anybody and not
+care.
+&gt;&gt; Yeah.
+&gt;&gt; Ability to handle rejection well. But
+combined with a lot of content, right?
+So the really good ones are going to get
+really deep and those conversations I
+have with the founders are shocking. I
+had remember one meeting distinctly in
+like mid 2000s and the company was in
+New York. So I just popped over to meet
+the CEO and we ended up investing in
+this company. First question out of the
+CEO's mouth is you know where's the
+analyst like her name? And I was like oh
+you just got me sorry like she's still
+in the office. Like I didn't really
+realize you like so they get really
+connected. I mean the letters you will
+see us get from founders on the
+relationship that the analysts have
+built the trust that they built with
+these founders and and the work hard
+work they do to generate real value for
+those founders before we invest
+&gt;&gt; is remarkable.
+&gt;&gt; If you think about the that skill that
+salesmanship and the ability to do
+sourcing well if if I were to pull
+people like you've talked to so many
+founders some would say bad things about
+insight what would they say? Would they
+say it's annoying how much they call me
+or they're trying to pull information
+out of me that I don't want to give?
+&gt;&gt; Two things. One could be we definitely,
+&gt;&gt; you know, they get turned off by that
+model. Like I think it's unjust, but it
+is what it is. Like some people have a
+view they only want to talk to the top.
+These are good kids that are really
+working hard and and they're going to
+get you to the top. And then obviously
+rejection is really tough too. So we
+probably get by talking to so many
+people we're obviously
+&gt;&gt; rejected a lot.
+&gt;&gt; Yeah. We're and we tried to be really
+thoughtful about it and usually what
+we're trying to do intentionally is not
+reject but postpone because life changes
+people's business get better and
+sometimes things are just not right for
+us then and the last thing you want to
+do is is is is damage a relationship
+with a founder.
+&gt;&gt; In addition to the the sourcing which we
+talked about in the one fund concept
+another distinguishing feature of
+insight is how you've made sequential I
+think typically small to begin bets in
+new deal types. Um, and if you look
+today, like a huge chunk of your assets
+are what I would call like private
+equity style deals, not venture rounds,
+not growth rounds, um, you know,
+traditional sometimes, you know, big
+private equity rounds. How did something
+like that start? What have you learned
+about bet sizing for uh, new types of
+deals? Because this is really important.
+&gt;&gt; Go back in time 90s like software wasn't
+big enough to think about buyouts, even
+unlevered buyouts, like it just didn't
+exist as an industry. There was also a
+pretty strong belief broadly in venture
+capital that without a founder, like
+giving cash to a founder was like a
+four-letter word. Like you never do
+that. That was like the rule number one.
+&gt;&gt; And I bet if you talk to some of the
+best of the best and ask them what they
+were like in the '90s, secondary sales
+to founders were just
+not acceptable. I think TA Summit kind
+of were breaking that model a little bit
+in the '90s. And I think when we dug
+into software, we pretty quickly
+realized if you built a good software
+company, assume that the risk there was
+that the founder got demotivated, right?
+That was the reason you didn't want to
+give him cash. Oh, now he can afford a
+house. He's not going to work so hard.
+And we just sort of felt like if we
+break it, we can own it and we can
+manage it. Like we just got a lot more
+confidence as we did more of these that
+if for whatever reason it didn't work
+out with the founder, they decided to
+retire, whatever it was, we're okay
+running this. Like we could find a new
+CEO. We obviously that's a big part of
+all venture capital jobs is is is you
+know keeping management where you want
+and not everything works out with the
+original team. Um and so we just the
+more confidence we got and then you we
+saw I guess two deals that the owners
+were not typical shareholders. One was a
+former founder that had hired a full
+team was out and we bought the company
+from him or we bought his shares. We're
+like well we don't have to demotivate
+him. and we don't even want them
+involved in the business. And then the
+other was owned by a large insurance
+company
+&gt;&gt; um which is now called Veraphor, the
+software company that we bought. So it
+was the first that was the first buyout
+I'm aware of in well not sure there was
+probably you know a few others that were
+not done by private equity firms but um
+it was certainly one of the earliest
+buyouts in private equity in 2099.
+Um and we just started to see the other
+side of software as it got bigger that
+when they start generating cash flow
+which till mid200s very few got to that
+scale where you actually saw the profits
+and the cash flow coming in and that
+particular buyout was interesting. We
+were high-fiving with two times leverage
+from a crazy hedge fund that believed in
+us and that was kind of like considered
+a highly levered software asset. Today
+Vertor probably has nine times leverage.
+Um so very different world but that was
+kind of the beginning of of software
+buyouts and we made a series of bets
+through the mid 2000s. Um and then we
+also started looking at uh just taking
+control of really high growth companies.
+We had a company that was in Australia
+and the founders were ready to go
+surfing and we had a CEO in our pocket
+that was ready to take over and we're
+like we'll take that risk. It's, you
+know, it's a $5 million business, but we
+think we can transition to the new
+management team and we had the, you
+know, tech team sticking around. And the
+more confidence we got that we could own
+control of something and not risk the
+kind of entrepreneurial DNA that went
+into it, um, or it was past that sort of
+point where that was critical, uh, the
+more we started looking at those types
+of deals. And, you know, it's been a
+fantastic sector for us. I mean, we've
+made a ton of money, especially in the
+what I'd call, we call them venture
+bias, but the unlevered 30 40% growers.
+They're tweeners, right? They're not
+growing fast enough for a minority
+investor to get super excited except at
+a very big discount. And they're not big
+enough TAMs for strategics to go jumping
+up and down saying, "I need to own this
+asset." So, what happens to it?
+&gt;&gt; And my suspicion is there tens of
+thousands of those now,
+&gt;&gt; right? Like, they're good companies.
+They should belong somewhere. Um there's
+a lot more folks like us now willing to
+take those bets. So it's it's not quite
+the same market it was a decade ago. But
+you know for us again it was just I said
+this to my LPs I think this last annual
+meeting. Stage is not a strategy to me.
+Like you could argue seed investing is a
+very different
+skill set generally. But I'd say it's
+not like we're incompetent to look at
+something quite that early. We're not
+nearly as good as a lot of the guys out
+there and we don't have quite the same
+deal flow and buyouts requires a certain
+you know transactional skill set that
+but pretty straightforward to hire for.
+It's not like it hasn't been done
+before. There's you know not only in
+software but in tons of other industries
+there's plenty of skills to do it. Then
+everything else is just a spreadsheet
+&gt;&gt; sits in between and you're just trying
+to as accurately as possible put that
+spreadsheet together
+&gt;&gt; risk adjust it and then put a price
+against it and say what's it going to be
+worth. And there's a very big range of
+strategy that sits in that middle. And
+that was sort of a view that we had that
+why constrain ourselves. You know, up
+until 2017, late stage preIPO growth was
+a really cool market, right? Multiples
+were expanding, companies were growing
+really fast, typically longer and faster
+than you expected. You could actually
+make four or five times your money on
+those preipo rounds, even more if you
+did the consumer internet stuff. And
+then it started getting really
+competitive, right? hedge funds came in,
+sovereign wealths came in and as I
+mentioned earlier, some of those rounds
+are now getting, you know, modeled at
+two to 3x with like a gentleman's a lot
+of things have to go right. We could
+model them all. Why can't we just put
+risk against that model and just try and
+find the markets that are the most
+attractive? The market recently
+corrected in 21. There wasn't a lot of
+things that you wanted to touch in
+growth because it was a lot of the
+companies that raised a ton of money,
+they didn't need it, but the ones that
+needed it, you didn't necessarily want
+to invest in. But then this whole middle
+got neglected again, right? And so we're
+like, let's go lean back in on the
+middle where you've got these 30%
+growers that look really nice, cash
+flows are good, and you know, their
+salmon farms and roller coaster ride
+software and things that nobody's really
+&gt;&gt; putting a lot of mind to and and and we
+did a bunch of those deals back in in 23
+24. Uh, and you know, now AI is probably
+re-energizing
+some of the growth stuff, but you know,
+I I like the idea of of being able to
+move around the markets based on where
+we think the most value is.
+&gt;&gt; And they change a lot based on capital
+flows.
+&gt;&gt; If you look at like the last fund or two
+and you had to break that 12 billion or
+so down into deal types between like
+traditional earlier stage buyout,
+venture buyout, however you want to
+chunk it up, like what does it look
+like? I think early stage is like 10%
+call it growth
+is probably 30% growth buyout which is
+like this what we call venture buyout is
+probably another
+30 40% and then lbos are probably 20%.
+Mhm.
+&gt;&gt; And that, you know, moves like the
+buyout market looked great when interest
+rates were zero and multiples were
+expanding and you went from 15 times
+cash flow to 20 times cash flow and that
+was a pretty interesting time to be
+leaning in. It's a little trickier
+today, but more entrance prices are
+pretty good, rates are higher, multiples
+aren't quite as clear, growth rates are
+coming down a lot for big cap software.
+That's not a fixed number, and we don't
+want it to be a fixed number. I mean,
+it's it's a guideline. We're never going
+to get super early as a big number. I
+just think we feel like one those get to
+be much bigger checks. They could start
+at 10% and grow to 20%. If we if we get
+back to an environment where we could be
+the lead investor in the next round, you
+know, M&amp;A is a huge part of the
+strategy. So, if you look at levers for
+winning in a venture bot, you get sort
+of 30% baked in growth, maybe some
+operational improvements, and then
+inorganic growth rates that can
+consolidate and give you tail outcomes.
+If you think about what you want returns
+wise for these funds, how do you even
+triangulate it given all these different
+deal types?
+&gt;&gt; Look, I think the buyouts were willing
+to take, you know, five points lower
+than everything else. Everything else is
+blended pretty close to the same. You
+know, 30% is kind of a gross number that
+you'd say we'd target. We probably miss
+a little bit more on the early stuff
+than the venture bio. Our hit rates are
+just super high. Mhm.
+&gt;&gt; Uh just because you've it's a lower risk
+profile. So it's sort of a market that's
+been a little bit better and very few
+competitors. So it's it's played and it
+plays perfectly to our sourcing engine,
+right? Because how do you find these
+companies that are selling salmon
+software to the salmon industry? Like
+that's not an easy
+&gt;&gt; source, right? That's sort of
+&gt;&gt; people jumping on planes and calling up
+companies in Norway.
+&gt;&gt; Yeah.
+&gt;&gt; Um so and and again, it's not
+mainstream. They're not showing up at
+conferences. They're not showing up on
+venture capital lists of hot companies
+to back or things of that nature.
+&gt;&gt; If I look at some of the deals, you
+mentioned Whiz, talked about data
+bricks, you mentioned Monday, uh,
+Enthropic came out in the news recently
+that you were an investor in this big
+round. That sounds more like
+traditional, you know, uh, kind of
+venture growth style investment.
+&gt;&gt; Well, I mean, whiz, we backed when it
+had zero revenue. So,
+&gt;&gt; it's a big price, but, you know, we
+loved everything we saw, including team.
+Uh Monday it was an interesting company
+but not the most obvious funded company.
+It was you know probably five million in
+size when we backed it and Cena is
+another public one I'm involved with. It
+was sort of four or five million in size
+when we got there. So some of them just
+grow and have TAMs to support those
+exits. But you know it's tempting to
+always go for the shiny objects and we
+fight a lot internally about you know
+how do you become part of the
+generational companies. I'm curious to
+hear the anthropic story specifically
+just since it's so extremely recent and
+such an exciting company like and that's
+more more along the lines of
+&gt;&gt; that's a little bit more driven from our
+public strategy just to be clear so it's
+not in the core fund that's a good
+example of one where had I heard the
+story
+&gt;&gt; two years ago I would have had a much
+more positive view earlier
+&gt;&gt; you know and this is a classic case
+where you know Darius is phenomenal CEO
+has a very very thoughtful articulate
+&gt;&gt; view of his business and the second you
+hear you're like okay there is a mode or
+there might be a mode and obviously the
+numbers in the last four months there
+are incredible right so it it inlected
+with coding and and and the like but
+when you sort of think about how he's
+invested around that that's not
+accidental that was intentional and
+probably defensible like you know
+there's a risk it's not but you know I
+think it's it's a pretty interesting bet
+to make
+&gt;&gt; what do you make of those 16 or 18 funds
+that have emerged from insight and One
+way to think about it is, wow, that's
+incredible. A lot of talent that's been
+able to be independently successful.
+Another way is like, why couldn't why
+didn't you try to keep them there or
+something?
+&gt;&gt; We often do. And one of the biggest ones
+that came out, I bent over backwards to
+see if we could find a role. But in the
+end, you know, his entrepreneurial drive
+overwhelmed what we could possibly do
+without breaking the system. So
+sometimes we just can't break our model.
+And if you're that good and can raise
+that kind of money on your own, I can't
+replicate that economics for you. Yeah.
+&gt;&gt; Like it's just not doable. Um, and so 1
+plus 1 equals three in that case. And we
+couldn't have raised the billion dollars
+that he was able to raise just on his
+track record. So it's just inevitable,
+but I think it's it's healthy for us.
+And I'd say 80% of them, we still have a
+really really good relationship with
+these firms. We talk to him all the
+time. We do deals together. Um, so it's,
+you know, McKenzie, I think, has set a
+great precedent out there of what could
+be done if you kind of embrace that
+network and don't take it as a negative,
+but take it as a positive. And then
+obviously having partners at other firms
+I think is just great for us to see
+deals and I'm now a decade or more from
+being really close to the analyst
+classes that came out. But you know they
+go to their weddings. there like it's
+incredible. The the pictures I get of
+the camaraderie of the classes never
+goes away because you're in that pit
+working 10-hour days or plus and and in
+a pretty tough environment and it's you
+know we try to make it fun too but you
+know they really connect with each other
+and it's it's become real I mean some of
+the best friends I think in the world
+have probably come out of that. And why
+do you think you've been able to
+graduate so many people? Like what is it
+about the training they get at insight?
+That's that's certainly that number is
+certainly higher than
+&gt;&gt; this is the Bill Parcell's question,
+right? Like and I actually think this is
+my favorite question for sea level
+executives. It's the same question. Who
+who are your be best protegs and where
+are they now?
+&gt;&gt; Right? And I feel good that I can answer
+that in a pretty good way. Right? And
+certainly when you hear this CEOs out
+there that could start rout I have one
+good friend of mine who's retired now
+but he's got 12 CEOs of some of the
+biggest best companies ever some of that
+was timing right it was days of Oracle
+and Oracle DNA was just awesome but some
+of it was him so he obviously built a
+great hiring system spotted talent
+really well and then cultivated that
+talent really well and then had a system
+of thinking and approaching in this case
+software but in our case investing
+that's really valuable but I Ultimately,
+the training you get at 23 at Insight is
+like no other job in the industry
+because all you're seeing is at bats.
+&gt;&gt; You were seeing more pitches than any
+other firm out there. And you're 23
+years old and you're just your brain is
+a sponge. It's just looking at all those
+pitches and you start seeing your own
+patterns and inevitably you're going to
+become a pretty good investor. It's
+again it's not the same as the
+productdriven strategies that other
+venture funds have but you know you just
+see this you hear and see and hear and
+see and and we are a big pattern
+recognition business right I think
+investing is pattern recognition and
+everyone can draw their own you know
+graphs out of those patterns but you
+know that's fundamentally the core
+thesis like you could be the smartest
+guy in the world but if you don't see
+the patterns or if you don't see the
+deals guess what your track record is
+not going to be that good.
+&gt;&gt; Like so I think that culture and then
+the culture of just how important
+sourcing is to being a successful
+investor. Uh you know we just drill into
+people at a very young age and I think
+that just sticks with them in their
+later life and I think it probably makes
+them look good to the peers that they
+have that didn't have that culture. If
+we're building like a like a Madden
+player that has points and different
+attributes for something and you were to
+give uh yourself scoring on C pick and
+win and and and maybe support as well,
+but especially interested in C, pick and
+win. It sounds like C sourcing you'd
+give yourself like
+&gt;&gt; that's a firm.
+&gt;&gt; Yeah, a crazy high score. Um, you know,
+differentiating.
+&gt;&gt; We see every pitch. Picking in the
+middle is awesome or picking on the edge
+is is okay.
+&gt;&gt; Say more about what that means. when you
+see something that's really kind of got
+a little bit of an edge to it on the
+source where the numbers are pretty
+tight and the valuation kind of is is
+not west coast crazy.
+&gt;&gt; Yeah.
+&gt;&gt; Right. We're really good and we're
+really good at winning too. Right. So if
+you kind of really think about what I do
+for a living, it's
+&gt;&gt; I got to find and this is what I told my
+LPs day one. You got to find deals.
+&gt;&gt; See everything.
+&gt;&gt; You got to win deals. You got to pick
+them and you got to make them work.
+That's it. That's my job. And I'd say on
+the picking, we're really good in that
+middle zone. and especially some of my
+partners better than me even had it that
+really can kind of parse the numbers
+look at the trends and figure out how to
+get that spreadsheet as accurate as
+possible at the edges it just inherently
+gets harder I think we have some
+disadvantages on early relative to
+California because we're not getting all
+that little like
+&gt;&gt; more subtle stuff
+&gt;&gt; the whisper is so strong here you got to
+lean in so there's that whisper deal
+flow and trends that we won't see then
+on the buyout side there's just there
+there's some equally great investors And
+it just it's you know it's a game of you
+know combination of discipline uh focus
+and and operational execution and
+there's some great firms out there. So I
+think we're really really good in our
+sweet spot. I think we're we still could
+use our sourcing to our advantage on the
+early stuff but we have to use the
+sourcing to get us that edge. I think if
+you just you know lined us up against
+the best of the best and the valley like
+those guys are awesome. Like I'm not
+saying we're going to be, you know, able
+to connect the dots that they connect
+because they're just using different
+dots to make what I'd call intangibles
+work.
+&gt;&gt; Sounds like the winning is is quite
+successful in your sweet spot as well.
+How do you how do you do that? Like what
+what is what are the keys to
+successfully closing a deal in that
+sweet spot?
+&gt;&gt; First and foremost, it's showing up
+hard. getting on planes, you know,
+invited or uninvited, showing up to
+people's doors and and asking them to
+have a conversation. So, we started with
+just like, gee, we know software really
+well. We can introduce you to five
+friends who could help you out, run your
+sales force, run your marketing
+organization to 130 people from super
+smart Mackenzie folks that could do any
+analytical thinking that you might need
+to the best of the best sales process
+folks to marketing process to HR
+process. We bought a pretty expensive uh
+large interest in Riviera Partners which
+is the largest tech recruiting firm for
+sea level or sort of CTO and CPO talent
+um which is you know they're really an
+interesting asset especially in the AI
+age where talent is everything right so
+we put a lot of emphasis on talent we've
+got 15 people that do nothing but lies
+with Fortune 500 companies which is
+probably the biggest you know if you
+think if you're a CEO first and foremost
+give me revenue if you're a small
+company, right? That's number one ask.
+Number two ask will be give me people.
+So, we've really surrounded those two
+functions with resources that we think
+could be competitive. And we've helped
+jumpst start companies where we've
+gotten the first 10 million of revenue,
+right? It's a big impact in the journey
+of some of these companies in terms of
+getting them started. And so, we really
+push really hard to to bring that
+program to as be as big as it can be.
+Uh, and constantly innovating on that.
+And so this is and we'll get to sort of
+the other chapters of insight, but I
+think it's it's it's all about winning.
+And so it's a combination of personal
+connections, really showing up and
+caring about the entrepreneurs problems,
+and then helping the entrepreneurs,
+right? They have choice. We know they
+have choice. They're the winners. We're
+just here for the ride. We've talked
+before you and I about strategy of
+investing firms and how even though all
+these firms are investing in companies
+that they hope have a great vision and
+strategy and and roadmap and all this
+kind of thing that investing firms tend
+to have that to a less lesser extent uh
+either no strategy or or not
+&gt;&gt; listening to your podcast I would say
+the majority struck me as our strategies
+were really good investors. I think if
+you really press what I just said that
+there's only four things we do, right?
+We find deals, we win deals, we select
+deals, and we make them work. And then
+you sort of put that layer on how do you
+do that better than everybody else. Um,
+put selection aside because that's the
+hardest to kind of institutionalize.
+You know, how many firms really can
+articulate and there's lots of ways to
+do it. You know, Mark Andre was on here
+like he has an absolutely great
+strategy, totally different than us, and
+we could never do what he does. Um, but
+he's thinking about it every day and
+he's using his sort of marketing engine.
+I think he was recently quoted as
+basically I'm a marketing firm with an
+investment arm. I was like, uh, you
+know, I I wanted to be a software
+company with an investment arm. That was
+kind of my pitch
+&gt;&gt; 10 years ago to LP is like that's how I
+thought of myself as
+&gt;&gt; people could think of us as we know so
+much about software. They could
+outsource a lot of that knowhow and then
+we have an investment arm to monetize
+that. But there's lots of ways to skin
+the cat. like we've just taken one
+approach. I think some firms obviously
+could do it just by sheer presence of
+being first like and they've made great
+investments over decades. Uh other firms
+might pick different industries. Some
+firms have done it in the biode space
+where they've just kind of used capital
+combined with expertise to just be able
+to kind of lean in faster and harder. So
+you know there's lots of ways to create
+moat but you know not many of us wake
+you know most of us back our way into
+this life. I started when I was very
+young but I think a lot come to this
+after they've had other careers and
+other things
+&gt;&gt; and this is sort of a nice fun thing to
+do and absolutely is and uh you know
+putting sort of rigor around that and
+operationalizing it and then sort of
+looking you know we hired one of my good
+friends years ago as a chief operating
+officer of Insight. He subsequently
+started his own firm but you know he was
+a mechanical engineer at McKenzie who
+you know spent time at Putinham and
+Lehman like he woke up every day and it
+was like how do I make that pencil you
+know whatever do it something without a
+human touching it right like that's how
+his brain worked and mine works in a
+very similar way from a more strategic
+side but you know it's sort of
+systematizing what tasks we do that we
+could have others do better and then how
+do I create moat to the extent that it's
+possible because look capital is not a
+huge mode. Uh it was with the vision
+fund that was like awesome strategy. I
+just outraised everybody in a way that I
+could do deals that no one else could
+do. You know, Warberg Pink has had that
+for a while too. When I first joined,
+they were significantly larger than
+almost anyone else out there. But that's
+increasingly difficult. I think Toma
+Bravo could do that today with their
+scale in the bio world. Capital's
+tougher though. So, you just need to
+think about those four disciplines and
+say, "Well, how am I going to be way
+better?" Some guys do it by, you know,
+appearing on podcasts and and really
+getting their their thought out and
+their vision and and kind of excite the
+founding community of how smart they are
+about an industry. That's a perfectly
+legit way to get deals.
+&gt;&gt; Uh others, you know, have cultivated
+networks in different ways and and
+winning could be I'm just going to get
+on the plane and do it. An individual
+partner that, you know, works my tail
+off and it's not very leverable, but
+it's certainly a good strategy. So I
+think you know how do you
+institutionalize systematize that and
+operationalize it is not easy. We found
+also scale was a real opportunity and I
+I heard Mark Andre talk about this too
+like every industry but ours was
+considered to be better as they got
+bigger. Like for some reason this type
+of investing, tech investing was like,
+"No, we want you to be a cottage
+industry where the smartest partners
+just do all the work."
+And I remember very distinctly sitting
+down with one of my partners in 2015 and
+I'm like, why do LPs have this allergic
+reaction to the word scale? Because
+again, everywhere else it seems good.
+And I looked at those four buckets of
+what we do. I'm like, well, clearly
+sourcing is better with scale. like
+could see everything. Like
+&gt;&gt; yeah,
+&gt;&gt; might have to debate how you pick, but
+like great that you get every pitch. Um
+you could certainly see how winning can
+get better with scale. I've got more
+resources. I could support every round
+that you need. I could be your one-stop
+shop. And then obviously on the
+operational side, that's the biggest
+impact scale could have because now I
+could really hire the best and the
+brightest on my team that could support
+your business in whatever way you need.
+And then selecting was kind of like the
+one, okay, how does that scale? And that
+was kind of a bit of a hard one for us
+to to wrestle around a decade ago. Most
+firms that scaled scaled in a few
+dimensions that were understandably
+scary for an investor. One was, I'll do
+bigger deals. How do we know the bigger
+deals are like the smaller deals? Like
+maybe they're priced differently. Maybe
+the competitive landscape's different.
+maybe the economics like there's a lot
+of reasons why just writing a bigger
+check may not yield in fact often won't
+yield better returns. Um so scaling by
+check size was not necessarily a clear
+direction in my view of how to do bigger
+to do scale. Some might scale with
+geography. We tried that. Oh was that
+painful like brutally painful. We're you
+know we're 90% in New York City by
+headcount and probably 100% by
+investment.
+you know, commitments. Certainly IC is
+all in New York, right? It's really hard
+to export judgment.
+&gt;&gt; Yeah.
+&gt;&gt; And so, you know, we had a European team
+that raised a European fund and I, you
+know, it was the worst of all timing. It
+was 2000 and like, okay, that was bad.
+But, you know, I was ready to pull my
+hair out. It was so hard to create
+consistent thinking and judgment that
+you could say, okay, that judgment
+reflects the same judgment that we built
+over the 5 10 years before that at
+Insight. But geographic scaling is a
+really common strategy for a lot of
+folks. But I think I could see why LPs
+would be nervous about that.
+&gt;&gt; Um, and then lastly, people scale by
+doing something that they weren't doing
+before. Right? Okay. Like I'm a great
+software investor. Now I'm going to do
+healthcare. Now I'm going to do
+financial services or now I'm going to
+do credit or something maybe that's
+outside my core competency. And you
+know, look, Blackstone, others have done
+that really successfully. Um, but you
+could argue it's not easy. Maybe
+Blackstone did a great job of it, but
+two other firms, you know, didn't get
+those top cortile funds in the areas
+that they didn't have a lot of
+experience in trying to scale. And
+certainly, there's plenty of examples
+where firms, you know, bought something
+in a different asset class and struggle
+to to make it work. And so, we kind of
+said, well, we don't need to do any of
+those things. Like, software's just
+growing. We're barely scratching the
+surface. Why can't we just do more of
+good deals in the category we love and
+know?
+&gt;&gt; And if we put aside all those other
+ideas and said, "We're not going to just
+chase bigger deals because they're
+bigger. We'll do a bigger deal because
+the world's gotten bigger." That's fine.
+Data Bricks, if you just divide
+everything by 10, looks like a great
+classic growth deal. Like there's
+nothing unique about it other than it
+just happens to have more zeros
+&gt;&gt; in its business model. Open AI even more
+true, right? I mean, if you just turn 12
+billion into 12 million, you're like,
+"Wow, this is a fast growing company."
+Like, why wouldn't I jump at writing a
+$10 million check? So, some of this was
+just
+just looking at a world that's just
+gotten tremendously bigger to when we
+first started where that would be a good
+reason to write a bigger check.
+But if we sort of just said, "We're
+going to keep the same underwriting
+criteria in the same market and just
+grow with the market. The market's
+getting bigger, which means there's more
+good deals out there. we're really good
+at winning them and finding them. Why
+shouldn't we consider them? Like why why
+should we just stick to some smaller
+strategy or just sort of artificially
+constrain what we do if again
+understandable you want to keep a bar
+high and we've definitely over the years
+sometimes been caught up in the moment
+if you will. So I think we looked at
+scale in that lens and we're like this
+is win-winwin
+and we were in the right position to do
+it because we were organizationally
+already aligned on sourcing. We were
+already aligned on management. So we had
+to really think through the investing
+side and the selection side and that was
+the part that we definitely didn't do
+perfectly to start where you start to
+have you know we hire young kid becomes
+less young becomes principal and
+ultimately junior partner and they were
+on their own and we kind of had a little
+bit of like partners are underwriting
+deals we bring it to the investment
+committee and we debate the deals which
+is pretty typical I'd say of a lot of
+firms that have grown is they have
+senior partners young partners but
+usually they're kind of all doing their
+own I call the tennis match, right?
+Everybody goes out, plays tennis,
+compare scores, and yeah, we won the
+match or we won the we won the whatever
+the tournament. So, we were trying to be
+more like a soccer team, but we played
+tennis for a little while, and we
+realized that, you know, young partner
+has a deal, comes to me, and it's like,
+"Mom and dad, I'm a little busy. Jeff's
+not really paying. He's only hearing
+oneird of what's coming in out of my
+mouth." I pitch him the deal, he nods
+his head, we do the deal. Deal blows up.
+Jeff doesn't want to spend time on it
+because I didn't really take ownership
+of it. And all of a sudden, Young
+Partner is now stuck with a a deal
+that's in trouble. And we're like, "This
+isn't working right. We need to think
+about legitimately how you get the most
+experience on the judgment as well as
+the other parts of the operation that
+were more obvious." And so we kind of
+said, "Well, look, there's some of us
+who've been here at the time, it was six
+of us for 20 years. We've all built
+track records. We've all been through
+multiple cycles. Why don't we just we
+have enough time in the day to meet
+every company that a team of people that
+would work with us including young
+partners sources like we don't do that
+many deals a year like except for 2021
+but um like it wasn't an insurmountable
+number. It wasn't like I needed to spend
+20 hours on another partner's deal. I
+but three hours I can get a lot of
+&gt;&gt; instincts
+&gt;&gt; judged and you know my instincts may be
+more on I'll call it the t intangible
+sort of excitement around the deal other
+partners are really good at the
+financial side and you know we keep
+tweaking that a little bit but that was
+fundamentally a breakthrough in how we
+can try and scale judgment without
+breaking the model and saying let's just
+have pods of very experienced partners
+managing and working with other partners
+both operating partners and young,
+hungry deal partners uh and combine that
+DNA into a more cohesive team approach
+and then make sure that an investment
+committee member owns every single deal
+&gt;&gt; and if somebody leaves it's on me. If
+somebody screws up, it's on me and
+there's no hiding it. Like
+&gt;&gt; that's what that's what we did. M one
+thing you hear a lot is even in firms
+where there's your level of sort of
+systematic setup and rigor that it's
+really important that leading the
+leading investors be able to just throw
+everything out and sometimes make a deal
+or do a deal based mostly on the
+intangibles based most not in the
+spreadsheet but but out of the
+spreadsheet. Can you talk about your
+experience with that sort of thing and
+how you think about that type of deal?
+we can mobilize 15 people from my
+Mackenzie brains to my sales ops team or
+marketing ops team or you name it to
+dive in and really try and uncover as
+much as we can in that very short time
+window that we have. I probably am the
+only one who does what I call concept
+deals
+&gt;&gt; at a big price.
+&gt;&gt; Even I'm not doing that right now. Like
+I don't feel compelled to do that at the
+moment. So I'll do a little bit of those
+on the smaller side.
+&gt;&gt; Uh where I feel like it's a unique team
+with unique technology and there's not a
+lot of numbers to support it, but that's
+going to be a allocated part of the
+portfolio that's going to be very small.
+&gt;&gt; So that's more riskmanaged again by
+check size and we have that benefit. So
+when we start seeing something that
+maybe our spidey senses are tingling and
+we're like this could be something
+special, maybe we could use check size
+to manage it more intelligently. But
+it's really not a big part of the
+portfolio. It's not what our DNA is
+about. I mean, we started with growth.
+Not saying we're only in growth, but we
+try to put some metrics around most of
+what we do.
+&gt;&gt; One of the spillover effects of 2021 is
+all these companies that got funded with
+tremendous amounts of capital that don't
+really have to die because they had so
+much money put into them.
+&gt;&gt; I think they're starting.
+&gt;&gt; Maybe they're starting. One of the weird
+things is that there's not market prices
+haven't really like caught up to the
+reality of the underlying businesses.
+And I'm curious to just get for your
+perspective on what things are generally
+worth in terms of like a simple multiple
+or something like everyone kind of
+thinks in 10, you know, 10 times
+multiple or something for a software
+business, but I think you think these
+things are often worth way way less.
+&gt;&gt; Yeah. And by the way, you could see this
+with the secondary market. It's a little
+hidden secret, but you know, go look at
+how some things trade in the secondary
+market. You're like, okay, your marks
+aren't exactly right.
+&gt;&gt; If when you're at 70 cents on the
+dollar, your marks aren't on us. So I
+think look, we look at
+GDR growth rate. Those are the two
+things we're going to look at in
+valuations. And that could be a really
+disappointing three or four times
+revenues
+for a lot of companies that were backed
+in that time frame where they're not
+growing fast and they have low GDR. What
+would those numbers be like? What would
+an example of like three times revenue,
+GDR, and growth rate be?
+&gt;&gt; Meaning
+&gt;&gt; like if you're to pay three times for
+something, what GDR and growth rate does
+that imply? That might be low
+singledigit growth and 80% GDR.
+&gt;&gt; So if you go into the public markets and
+look at those companies like they're
+disasters,
+&gt;&gt; right? And they're not few are even
+public today, right? And it was a
+category that early SAS a lot of those
+went public and ultimately the markets
+caught up to the unit economics. But the
+public markets by and large and private
+markets at scale. So the PE guys are
+looking for okay I'm gonna long term
+this is cash flow and so to us GDR is
+largely and look you could have a really
+we have a company which now Vista owns
+that you know has a mid 80s GDR but it's
+CAC is 3 months which is a very low
+number in the world of CAC so you can
+make a 30% margin business if it's an
+infinitely sized market with a
+relatively low CAC um so there's an
+exception to everything I'm about to say
+but if you're in a more normal
+normalized enterprise world, you're
+going to have 12-month CAC, which means
+it's one year upfront to get that
+customer on board. And if they only last
+for four years, you can kind of do the
+math and say, well, that's present value
+worth maybe two two and a half times to
+one time dollar invested plus I've got
+R&amp;D, plus I've got support GNA, you're
+not gonna make a lot of money. So those
+companies tend to be in the 10% maybe
+maybe squeak out 20% margin versus a
+100% GDR company will have 50 60%
+margins. So that if you just thought of
+multiples of cash flow translating to
+multiples of revenue that's going to
+give you a big delta, right? So if I'm
+willing to pay 15 times cash flow for a
+given growth rate, a 20% margin business
+is three times revenues. A 50% margin
+business is, you know, 7 and a half
+times revenues. I think the markets more
+or less eventually will look into that
+kind of financial model and they'll kind
+of figure out and look some companies
+could take they're just super efficient
+in other ways. So you could still have
+some of those metrics that I just
+described being a little bit off but
+still get yourself to ultimately you're
+trying to get to cash flow margins,
+right? That's all that matters is
+multiples of cash flow and then
+predictability of that cash flow in a
+recession. How good do you feel in
+whatever times in you know whatever
+existential risk somebody could come in
+your model and disrupt it. So those are
+just I think the framework that I think
+most public investors and and certainly
+latestage buyout guys are thinking right
+is how resilient is that cash flow? Are
+you running a core banking system for,
+you know, a bunch of banks? Like that's
+not getting ripped out in a recession.
+Like you don't really care about a
+recession. Um what's the growth rate of
+that cash flow? And then, you know,
+what's a reasonable multiple based on
+that? And some of that will be interest
+rate sensitive. Uh and then obviously
+you have a different world once you
+start to get to 100% growth rates of
+which there are very few public company
+data points but that's when you start to
+see wonky multiples like you just can't
+model those out in your exits because
+they're just so on they're rare earth
+&gt;&gt; kind of numbers. One of the things that
+I'm curious about the temptation around
+just given how the market's evolved is
+uh the Andres of the world, the sort of
+like nonsoftware technology companies
+that some of which have gotten quite big
+quite quickly and consumer too for us
+&gt;&gt; and consumer
+&gt;&gt; right I mean if you look at the biggest
+exits of the last generation they were
+internet and mobile apps
+&gt;&gt; and we did not really lean in on that
+because it was sort of outside our kind
+of understanding and mandate. It also
+really favored the West Coast. Almost
+all those were West Coast.
+&gt;&gt; Yeah.
+&gt;&gt; Designed. You know, we looked at Uber at
+a really attractive round. We fought
+like hell as a partnership over it and
+we finally passed. Obviously, huge
+mistake, right? Like it was a great
+outcome. Managed to get Twitter over the
+line, which you know, at the time was we
+got out even before Musket all took
+over. But um
+I think we've just gotten comfortable
+that our our misses are so high in those
+categories over the years that we're
+like whatever. There's we can't be
+everybody to everything and we can't do
+it all. It it's obviously
+hard because you sometimes have to
+benchmark yourself against folks who do
+have exposure to the markets that might
+be the better markets. But, you know,
+just sticking to what we know well in in
+enterprise software and sort of flavors
+of that, it's both massive in
+opportunity and the returns could still
+be incredibly consistent.
+&gt;&gt; When you think about the god knows how
+many first meetings that you've done
+with founders across the last 30 years
+or so, how would you describe the method
+that you use to run those personally?
+And I'm sure obviously different
+investors on your team will do it
+differently, but I'm especially curious
+about your method. How do you like to
+run a first meeting? What kinds of What
+are you after? like what's the
+&gt;&gt; I mean I have a I've developed I'd call
+a similar line of start which is I love
+origin stories. What was in your mind?
+Why' you choose to solve this problem?
+What were you doing before that made you
+think about this problem? Uh and then I
+love to get to the value problem. Like I
+just love hearing how you're making
+somebody's life different and better and
+why customers are going to be excited
+about buying your solution. And I
+actually, it's probably my why I need
+partners is, you know, I'm I'm probably
+the least focused on drilling in on the
+numbers. I mean, I like to hear the
+topline numbers, but entrepreneurs
+probably aren't always the most uh
+forthright about what they give you.
+Like they give you a little more happy
+ears on on those usually, but which is
+where diligence can kind of corroborate
+or not. But those are kind of the
+stories I want to hear is like what
+makes you tick and what's this passion
+that you have about what problem and
+why? And you know those those really
+range a lot in response. Like you hear
+enough people pitch and you're like that
+one really resonates. You know elevator
+pitch. I got it. And you know some you
+need to double click double click double
+click. You know I was on the call today
+with one that I was like I think I hear
+you but this was a little bit in a
+different language. So it was a little
+harder for me to process to begin with.
+But I'm not quite getting that mode. I'm
+not quite getting that long-term
+direction of where you're going to be.
+Um, doesn't mean it wasn't there, but
+this is a 45minute call. Like, you're
+not going to nail it exactly. And
+sometimes the numbers tell you way more
+than the story, right? Like, you need to
+always take a look when you see numbers
+that are exceptional. When you have the
+group of partners that you have at the
+top that you said have been with you 25
+years, sometimes 10 years is like the
+newbies on the team at the senior level
+to what do you attribute that like? What
+is your management style with those
+people? How do you relate to them? What
+would they say about you?
+&gt;&gt; I'm pretty forgiving on mistakes.
+&gt;&gt; Uh I would think some of my partners
+would say too forgiving, but I I try to
+see inputs. I have a thing that we
+institute at Insight. It's changed a
+little bit from the vision, but I call
+it the X factor. like because everyone
+always want you know type A employees
+they always want to know where their
+careers are going and you know always
+ask me these tough questions like how do
+you give somebody really valuable career
+advice in what we do because the outputs
+are so long in coming
+&gt;&gt; and uh and there's so much luck let's
+not kid ourselves like there's a lot of
+luck in what we do and I sort of start
+with like well if I took you out what
+would have happened
+&gt;&gt; with the deal still open sourced, would
+we have won the deal? You know, would we
+have decided to do the deal? Like how
+much of that those decisions did you
+play in in that process? And
+X is sort of like the removal of you.
+Are you adding X to that equation? One
+of my best partners had a really slow
+start.
+You know, he just made a lot of
+mistakes, but I saw his inputs were
+great. I thought the way he was thinking
+about things was great and he was like a
+sponge to get better and now he's
+probably the best investor in the firm,
+right? Like so it it it people learn,
+people get better. It's a marathon.
+Obviously at some point, you know, the
+marathon ends, but you know, I think
+that's generally how I try to approach
+it. And I think my style is is similar
+to what we do with the analysts is is
+really to give people an environment
+where they could be creative,
+take risk. I think probably the thing
+that I still do the best for the firm at
+large is there's two different
+approaches I think to a senior partner
+at a firm. One is the one that's
+constantly holding you back from falling
+off a cliff, scaring you to take a risk.
+The other one's shoving you over the
+cliff
+&gt;&gt; and giving you the confidence it's okay.
+I'm with you. I've got your back if it
+doesn't work out.
+&gt;&gt; And I think I'm definitely in the latter
+camp, right? My goal is I call it the
+tush push, right? Like I'm there at the
+one line. you're at the one yard line,
+you've got one little thing nagging you
+about the deal. And I'm like, it's okay.
+You've thought about it well. The
+riskreward is good. It may not work out.
+It's not your career in the line if it
+doesn't.
+&gt;&gt; And I think a lot of young folks get
+really worried about if you look at
+generational firms, risk appetite is
+probably the biggest challenge
+&gt;&gt; that it goes down.
+&gt;&gt; Yeah. Yeah. And some once in a while
+they get a wacky successful investor who
+just re-energizes the firm's risk
+tolerance and it goes back up again. But
+more often than not it gets consumed by
+look this is a great business. If you
+don't get fired you're going to be
+pretty successful. So you know the
+impetus to really stick your neck out on
+the spectrum is really low. And I think
+people especially in these kind of
+bigger organizations really, you know, I
+hope they make mistakes. You know, my
+biggest frustration with one of my
+partners who left was the things he
+didn't do. Why didn't we do that deal?
+Like that was a really and you know, he
+always had five reasons not to do it.
+But you know, in the end, he was very
+conservative and to the point where we
+missed a bunch of really good things.
+So, you need the balance. I I've got a
+lot of partners who are holding people
+back from the cliff. So, it's it's a
+good yin-yang of of of some folks that
+are going to make you feel really scared
+to stick your neck out, but then
+hopefully, especially my senior
+partners, knowing I've got their back
+always, like I am never going to get
+upset with somebody if they took a
+calculated risk that didn't go well. I'm
+curious how you think about something
+seismic like AI both in terms of how it
+will affect the companies that you
+already own stakes in or own outright as
+a disruptive force how you use it
+yourself to make insight work better um
+investment opportunities that it creates
+like an anthropic I mean there's a lot
+going on with this with this with this
+nuclear bomb that's gone off in a good
+way how do you how do you process it
+&gt;&gt; yeah I remember like a bunch of years
+ago even before the chat GBT aha moment
+and I'm not like the technology ology
+wizard in the firm by any stretch. But I
+I we were already doing vision deals and
+I could see language was next. I was
+like, imagine if you can automate vision
+and language in the workforce. I'm like,
+there's a lot of jobs where that's
+pretty much what you do.
+&gt;&gt; And so, you know, I started talking
+about it at some of the LP meetings and
+then we were doing the vision stuff
+which was not in any way exploding like
+the language has exploded. Not sure why,
+like never got the buzz. I don't know.
+But vision just for whatever reason was
+good but not compelling. And you could
+look at, you know, MRI companies and
+they're like 10 years later they're 80
+million doing it's like the biggest one
+maybe. Like what happened to that? I I
+can't explain it.
+&gt;&gt; But for some reason the language took
+off. We looked at other waves and we
+were it was pretty easy for us to kind
+of sit on the sidelines. Others on your
+show are big fans of blockchain. Maybe
+now it's crypto because the blockchain's
+like no one could articulate the use
+case and it was back when I debated this
+with people. I was like, "It's 12 years
+in. Come on." Like,
+&gt;&gt; "Yeah, should be something.
+&gt;&gt; Something should be, you know, and
+there's a whole religion around it and
+maybe someday every bank will be on it
+and whatever." But it's definitely way
+longer than anyone forecast to be
+valuable. And I certainly had a used to
+there was like a funny story someone
+told me, but it was basically like all
+the technology guys that love
+that know the blockchain think the
+technology is kind of meh, but the
+finance aspects of it are really cool.
+And all the finance guys are like, you
+know, the finance aspects of this aren't
+so great, but the tech looks really
+cool. I'm like, huh? Nobody in who's got
+really the the right DNA on both. Like,
+nobody was like, this is the best
+database I've ever seen in my life,
+&gt;&gt; you know, who understood database
+technology. And finance guys are like,
+this isn't really how the world in
+finance is going to work. You know,
+we've got reasons. Anyway, so we've kind
+of like looked at other waves of
+technology and been a lot more sanguin
+about the potential and whether it was
+even the self-driving car like we that
+was a big hot spot a decade ago that was
+more vision and this one is different. I
+mean both and I don't know if it was the
+problems it could solve immediately.
+This certainly the consumer side of this
+is just I
+blow I mean it's mind-blowing what you
+could do as a consumer and I mean just
+watching my own family in the last 3
+months convert from Google search to
+Gemini or chat GPT and just like just
+religious right so it's it was a
+gamecher in so many ways and really we
+kind of were playing around the edges of
+it in some ways and then really about a
+year ago we started to see the
+application of it where we really played
+the most in the commercial landscape and
+now you're seeing phenomenal we probably
+have 25 agentic AI bets that we think
+could be really profound in in the
+commercial markets and so you know we've
+been noodling on all sorts of
+sort of impacts it's going to have but
+you know it's clearly a phenomenal
+growth engine it's also sucking a lot of
+the air out of the traditional software
+market so I think the bare case on
+software hey I could just use claw to my
+next SAP. We're not losing any sleep
+over that. Quite the opposite.
+&gt;&gt; Why? Why not?
+&gt;&gt; Because that's not what software ever
+was. It was never a technology barrier.
+&gt;&gt; It was always a business knowledge
+barrier. And yeah, maybe you could
+literally have AI look at SAP and
+plagiarize it and try and build
+something equivalent. But I I'm just not
+worried about that market changing. The
+cost of developing first of all, we
+haven't seen any of it in our companies.
+Like the cost of developing software,
+it's inching down, but it's not
+collapsing overnight. And I can't
+explain exactly why, but the idea that a
+complex application is going to get
+built just because we have a better
+productivity tool. You know, we've gone
+through generations of productivity
+tools in software development. This is
+more profound for sure, but you know,
+for those who are old enough on this
+call, like the 4GL was a pretty profound
+tool, too, because back in the day, you
+just had a database with a screen,
+&gt;&gt; right? applications weren't all that
+complicated and the 4GL was meant to
+basically make it really easy to build
+the screens and it was impactful but it
+didn't radicalize every SAP and all
+these other companies didn't get
+displaced because of it. I think it's
+but it's taking away a lot of probably
+budget. So I think you'll probably be
+seeing a lot of companies just feeling
+the pain of like that's not the cool kid
+on the block to buy a CRM software
+today. like that's just not my priority.
+I want to automate something else. So
+that matters like that's growth rates. I
+I I'm not there's obviously a few
+companies that are probably more
+squarely challenged by what it can do
+because they're probably working around
+documents and you know doing image
+recognition things like that that you oh
+so what's your what's your point of
+existence now? But I think by and large
+I don't worry about the usefulness of
+software so much as the budget being
+moved away from software to AI. And then
+on the flip side,
+which is what we're really focused on,
+is it's a massive TAM accelerator.
+&gt;&gt; So, okay, my core software is not as
+sexy, but now I could go after a whole
+set of problems that my customers have
+&gt;&gt; that I before could never automate. So,
+you know, I'm on the board of, you know,
+a couple I won't even pick on the public
+ones, but like, you know, CRM like
+vertical applications where we're just
+capturing data, but 95% of the the
+person's day is generating and getting
+the data. Well, if I could automate a
+big portion of the 95% of the time that
+you're, you know, getting data into the
+system, that's hugely valuable. And so
+to me, we've got already maybe a half a
+dozen or more companies really
+reacelerating
+off of new products that they've
+launched in very short time frames uh
+that are creating massive TAM expansion
+for their businesses. And I have no
+doubt the bigger public companies are
+working aggressively at the same thing
+like Microsoft, right? Like it's it's an
+opportunity. Microsoft looks at that.
+Could I build a new PowerPoint with it?
+Probably. I don't know, maybe.
+Can I make PowerPoint the existing
+product way better with a co-pilot?
+Yeah, you probably can. And I think
+that's way more interesting or Adobe
+like how much better is Adobe that has a
+3% market share of humans to Photoshop
+and now could expand it to 20% because
+the user interface and learning curve
+has gone down by an order of magnitude.
+&gt;&gt; So my suspicion is this is largely TAM
+expanding for the established companies.
+they will build products as well. I
+don't think it's a great use of time in
+most of the legacy apps to be trying to
+outgineer them with a new product. It's
+just there's just more to that market
+than just the actual body of code that
+runs your core banking. There's just a
+lot more going on and I think we're
+still quite a ways away from even
+getting to the point where the the the
+speed to which you could build software
+is so dramatically better. You said
+before that uh you really just like to
+win and that's maybe like a major driver
+of all your activity. You have this
+interesting combination of you seem
+pretty low-key like you're not uh just
+like you just seem kind of low-key and
+yet the activity your activity and the
+firms is quite intense and it's kind of
+an interesting dichotomy and I'm curious
+where the drive to win came from. I
+don't care about other beating other
+people
+&gt;&gt; so much as just satisfaction in my own
+success in winning. So it's a different
+kind of
+drive than I think other people get,
+which is I I have friends who I play
+golf with. Like I can't play without
+betting. Like they can't have fun. They
+can't try hard if they don't have
+something on the line, right? That's how
+competitive they are. But they're
+competitive against me.
+&gt;&gt; They want to beat me. Like that's what
+drives them. I'm like I just want to get
+my own
+&gt;&gt; score as low as possible. if you shoot a
+65, I'm high-fiving you, I'll buy you a
+beer. I'll I'll be the happiest guy to
+give you 20 bucks. Like, I don't really
+care at all if I have a good round. So,
+I think that's just and I think the
+culture of the firm has maybe modeled
+after that. I attracted people like
+that, but I would say the majority of us
+are much more focused on our own success
+than it is that somebody else isn't
+&gt;&gt; at the other end of that successful.
+And that's kind of what just gets us a
+little endorphins for for the day.
+&gt;&gt; These conversations always go the same
+direction where 98% of the conversation
+is about buying and almost none of it's
+about selling. What have you learned
+about selling? Selling well, when to
+sell.
+&gt;&gt; Had a good year on that one. So, we've
+sold a lot this year. But I think the
+easy things are the ones that come
+naturally. IPO, strategic knocks on your
+door, people pull you in, you sell.
+You know, the harder one is when you
+have to push it to make it happen. I
+think at one point 999, we had a 4x on
+our 99 fund in the public markets that
+we couldn't sell. We were locked up and
+by the time we could get off the lockup,
+it was down to a 1x. So, you know, these
+things, these are quick windows. They
+come and go and you kind of learn and
+look some of this was also we we put co
+as a piece of it which was a combination
+of the demand shift and change you know
+some ideas that look great 2021 you know
+virtual conferences looked like a great
+idea and it felt like that could really
+have legs even postco no the answer is
+they had no legs after co and then some
+of it was just us like decision-m
+probably not what we thought it was over
+zoom and you know we had like everybody
+else a year of, you know, remote work.
+Really, really bad. Never going to do
+that again.
+&gt;&gt; If you think about the next decade of
+Insight, how do you think it'll change?
+&gt;&gt; We're feeling like much more of a rinse
+and repeat model. I don't think we have
+crazy ambitions to expand the business
+beyond what we're really good at. And
+just I think this is a just kind of
+we'll we'll absorb what we think are
+great deals, but the bar has never been
+higher. Since 20 summer of 22, we've
+just really been pretty focused on uh on
+really making sure that you know we make
+as much money as possible for LPS.
+&gt;&gt; So I think it's going to be I'll call it
+a little bit more boring. like you know
+I I had at one time firm building
+ambitions that I still have a little bit
+of but you know where we could add
+assets that were again making us the
+world's best software company right like
+what would make me a great partner for
+my portfolio we still have some of that
+ambition but it's it's going to take a
+different flavor
+&gt;&gt; is there anything essential about
+insight that you feel like we've messed
+with
+&gt;&gt; I think culture is and others have
+probably talked about it but there's
+definitely I think a lot of positives on
+our culture that don't get seen by
+entrepreneurs. I think it's a
+combination of
+we don't have to be the loudest voice at
+the table ever. Um, we want to be the
+most helpful voice at the table and we
+don't need credit for that help. So, we
+want to stand behind the founders who
+really do a lot of good work. I think
+internally that reflects itself in as
+much as you can do in this industry, a
+really collaborative teamwork approach
+and we've got a big firm and there's no
+doubt you'll always have people stepping
+on toes but I think by and large the
+idea is to really support each other in
+a meaningful way. Um obviously we talked
+about the part of winning which is a big
+part of us um but we also just never
+want to give up. So, I I know some folks
+have been on your podcast about, you
+know, sort of sticking it out till the
+bitter end. And maybe to a fault we do
+that, too. But we really really want to
+be there to the end. Like, we're
+leaders. We're not passive investors.
+Somebody's going to be on top of these
+companies until the end. And it's
+important for us to kind of even though
+that's not where you make money, those
+are the worst hours of ROI that you can
+possibly get is taking a deal that's
+gone sideways and and try and fix it.
+But a it's really satisfying on the few
+times that you can actually turn it
+around and b just feels like it's it's
+it's a the right thing to do.
+&gt;&gt; Well, it's really cool to get the inside
+view on this. I I it's a firm you hear a
+lot about because it's so big. you've
+made so many great investments over the
+years, but you don't it's very hard to
+figure it out from the outside and so
+thank you for the two hours. It's such a
+such a fun time to explore it. When I
+finish these, I always ask the same
+traditional closing question. What is
+the kindest thing that anyone's ever
+done for you?
+&gt;&gt; I sort of think that first you need to
+be someone to be kind to you. It's out
+of the goodness of their heart, not out
+of their own self-interest. And I'm
+somewhat fortunate not to have that many
+situations where I've needed that help.
+But I I guess as others have said in
+this mentoring is is one area where I
+feel like that's always been you know an
+area where people didn't you know some
+of it might be broadly self-interested
+but most of that is selfless and I've
+had you know two examples but my first
+job at Warberg
+uh the person I work for there pulled me
+out of a hat in terms of resume saw
+something in me that no one else did. I
+think I tried getting a job at a 100
+firms and he was the only one who was
+willing to hire me. Um, and I learned a
+lot in that experience as well. But then
+I think when I started Insight, we sort
+of randomly bumped into uh an indent by
+the name of Steve Freeman who was the
+just then retired CEO of Goldman Sachs.
+And I think it was a mutual connection
+from one of the high net worth guys at
+Goldman that knew one of my partners.
+And Steve, for reasons I still don't
+know, one of the nicest guys I've ever
+met, took me under and gave me amazing
+counsel in the first decade, ultimately
+introduced me to his co-CEO, Bob Rubin,
+who also became part of that mentoring
+and just was such a nice access for me
+who had no one else to talk to other
+than, you know, it's like nice to air
+issues, challenges
+&gt;&gt; and and focus. So, you know, that to me
+was certainly one of the best things
+that happened to my career.
+&gt;&gt; Incredible. Jeeoff, thank you so much
+for your time.
+&gt;&gt; Awesome.
+[Music]

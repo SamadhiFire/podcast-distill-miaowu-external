@@ -1,0 +1,4255 @@
+Kind: captions
+Language: en
+The investment story in AI is is real
+and it's going to be significant. Once
+again, AI capex plans are actually
+exceeding expectations.
+&gt;&gt; The market is pricing in some idea that
+you you are going to get that broadening
+of the AI benefits.
+&gt;&gt; AI is a watershed event on the timeline
+of of technology and we believe that
+this flows through all 11 sectors. AI
+has the potential to be the biggest
+productivity enhancer for the global
+economy since electricity.
+&gt;&gt; This is Bloomberg surveillance with
+Jonathan Pharaoh, Lisa Abramowitz, and
+An Marie Hordern.
+&gt;&gt; Live from New York City this morning.
+Good morning. Good morning. For our
+audience worldwide, Bloomberg
+surveillance starts right now. Coming
+into Thursday, Jay Who following the
+worst Fed day performance of the year so
+far. Stocks bouncing back as earnings
+from Meta and Microsoft crush estimates
+ahead of one more read on the health of
+the Magnificent 7. Apple and Amazon are
+coming up next.
+&gt;&gt; I think you framed it perfectly. The
+idea of Joo. The Fed meeting took a
+backseat yesterday from tech earnings
+that blew it out of the water. When you
+look at the share price response given
+the gains we've already seen this year,
+it tells you a lot. Given the fact that
+Microsoft already has performed with
+returns of some 20% so far this year, to
+see their shares absolutely surge and
+become a $4 trillion company, the second
+in the United States, gaining some $314
+billion of implied market cap overnight
+like that gives you a sense of the
+momentum behind the AI names.
+&gt;&gt; Jay, who and tariffs, what tariffs?
+Ford, a $40 billion company complaining
+about tariffs. Microsoft, a $4 trillion
+company, absolutely crushing estimates.
+Rick Reader this week, markets aren't
+ignoring risk. They're pricing a system
+built to absorb it.
+&gt;&gt; You have on one side this idea of policy
+uncertainty. You have questions around
+inflation. And then you have the freight
+train that is technological advancement
+that seems to have no end in terms of
+profitability. And frankly, remember
+that ripple moment when investors were
+worried about how much some of these
+companies were spending on advancing
+this technology? Now, it seems like you
+cannot spend enough. Meta comes out and
+says, "Yes, we are accelerating our
+spending." And guess what? We're going
+to do it even more next year, but the
+cash engine is revving so wildly that
+people just embrace that and say, "Thank
+you. Can I have another?"
+&gt;&gt; So, question, here's two. How relevant
+was the meeting yesterday for the
+Federal Reserve? How relevant will the
+meeting be on September 17th?
+&gt;&gt; You know, it depends on the economic
+data. And I think what yesterday did was
+very much focus us all on tomorrow. And
+I hate to jump the gun because there's a
+lot going on right now and a lot to
+parse through that already did happen.
+But the jobs report on Friday, tomorrow
+is going to be incredibly important. If
+you start to see a ticking up in the
+unemployment rate, suddenly you have to
+wonder whether you can see this
+broadening out, this just incredible
+enthusiasm around AI spread to the rest
+of the universe or whether you're
+looking at something that's kind of a
+secular theme overlaid on a lot of kind
+of lumps and that I think is what people
+are looking at.
+&gt;&gt; Payrolls tomorrow morning 8:30 Eastern
+time. from a sneak peek at the estimates
+so far. The medium 104, the high 170,
+the low is zero. The range is incredibly
+wide. That's the story for tomorrow
+morning. For this morning, this hour,
+we'll catch up with Chris Veron of
+Strategus as big tech drives stocks
+higher. Stefan Stinsky of BMP Parabar
+looking ahead to earnings from Apple and
+Amazon and David Se of Neora as Fetch JP
+Pal stays in wait and see mode. We begin
+this hour with stocks bouncing back
+after a strong start to earnings season
+from big tech. Both Meta and Microsoft
+rallying hard in the pre-market to
+discuss. Joining us now, Chris Verona,
+Strategus, a bad company. Chris, good
+morning.
+&gt;&gt; Great to be here, John.
+&gt;&gt; How difficult is it to short this market
+when Microsoft and Meta put up numbers
+like that?
+&gt;&gt; Well, you can't short up trends, and I
+think yesterday certainly reveals that
+to us. Um, I think it's a broader
+reminder that in uptrends, expect
+surprises to be on the upside, not on
+the downside. And I think the results
+certainly reflect that here as well. You
+know, when you put it in context of the
+bigger picture, you there's going to be
+a lot of attention. Oh, look, it's just
+these big stocks driving the whole
+market. But remember, equal weight S&amp;P
+also made a new high this week. So, I
+recognize the average stock might not be
+the leadership, but at least the average
+stock is still involved. The leadership
+is clearly still coming from the top of
+the tape, but equal weight S&amp;P at new
+highs is not a bad thing.
+&gt;&gt; I mentioned Rick Reer of Black Rockck.
+You put out a piece in the Financial
+Times earlier this week and talked about
+the resilience of the system, the
+economy, and financial markets in
+America. Can we just reflect on that on
+where we are now compared to where we
+thought we might be just a few months
+ago?
+&gt;&gt; Yeah, I thought that was so well said
+from Rick and when you look at the
+message of the market here, I think it
+continues to emphasize the economy is
+fine. You know, cyclicals versus
+defensives are making new cycle highs.
+We've been of the view uh for some time
+that there's a lot of shades in 96 right
+here and you see it certainly in the
+results from tech but you see it from
+the continued leadership from the banks.
+You go back to 96 it was one of the only
+times in history where the Fed cut with
+banks at all-time highs and the next
+year was quite good. So I think the
+characteristics of this advance remind
+us a lot of that of that mid to late
+1990s.
+&gt;&gt; So I go back to Joo. Is this a market
+that doesn't need Jay who to cut rates?
+Because ultimately you're already seeing
+that dynamism.
+&gt;&gt; Listen, I think the 2-year yield is 390
+and I think the Fed funds rate is above
+that. I think the market's ultimately
+telling you where he's going to go. My
+suspicion is it's September. Whether it
+is not uh whether it's later in the
+year, I still think ultimately that's
+that's where they're going. And the rate
+sensitive cyclicals I do think have
+started to stiff this out over the last
+couple weeks. You've seen improvement in
+housing and home building. uh consumer
+goods starting to outperform consumer
+services. So there's little hints that
+the rate sensitive corners of the market
+that have you know frankly been on the
+wrong side of the tape here are starting
+to sniff out Powell ultimately getting
+to where the market wants them to get.
+&gt;&gt; There's a larger point here not just
+parsing Fed speak which we're not going
+to do it too much this morning I hope
+because ultimately there are more
+interesting stories. The idea is there
+are these pressures these uncertainties
+that still are out there. Whether it's
+what's going on with inflation, whether
+it's what's going on with growth,
+whether it's what's going on with
+tariffs and the potential uh what's
+coming down the pike and how they'll be
+really distributed across the economy.
+So, are we saying that the AI story
+overwhelms it is a separate story is
+masking that or is feeding into the rest
+of the universe to sustain a broader
+kind of bleed up?
+&gt;&gt; Well, let's pick up on a word that you
+just used, inflation. And for the life
+of me, I cannot figure out why they're
+weighing these risks equally. You know,
+when Powell spoke yesterday about he was
+talking about washing machines and I
+mean as whirlpool actually bottoms and
+turns up. Uh the irony of this to me
+when energy stocks are making relative
+lows when material stocks are as weak as
+they are. I mean copper was down 20%. So
+we we think about this picture and I
+can't make the case that inflation is
+much of a meaningful risk here. Five
+year five year forwards have been in the
+same range they've been in all year. The
+10-year yield has been as benign as
+anything out there. Two-year yields
+pointing lower. So, I don't see
+inflation being the big threat here.
+&gt;&gt; I'm pleased you've brought this up. I
+think it's important. If you think about
+the sources of inflation, goods,
+services, the labor market, energy, why
+are they seemingly only focused on one
+piece of the puzzle?
+&gt;&gt; I think it's a little uh find the data
+that supports the case. Uh you know, you
+go back to September when they cut.
+It's, you know, almost a year ago now.
+Stocks were at all-time highs. Spreads
+were on the tights. gold was making new
+highs. Pretty similar environment to the
+one that we're in right now. Now, the
+irony is the word they should be using
+today is transitory, but they're
+prohibited from using that word for the
+rest of time. It is probably the correct
+language to describe the environment
+that we've been here. A tariff or a
+price change like that is a transitory
+event. And I think the reluctance to
+almost repeat the error that they made
+in 2122 is prohibiting them from making
+the correct call. Right now
+&gt;&gt; there's some scarring there without a
+doubt and that's one side of the mandate
+on the labor market. What was confusing
+for many yesterday is how anchored the
+Fed chair's view is just around one data
+point the unemployment rate and a lot of
+people might make the argument this
+morning that that's a misleading data
+point as well in the labor market that
+there are cracks there. So I was
+surprised yesterday to hear the Fed
+chair talk about how he doesn't really
+see a weakening in the labor market
+where we can all sit here this morning
+and pick out various data points that
+say otherwise. Yeah, he really seemed to
+hone in on the idea that there is an
+equalization between supply and demand
+in the labor market. That because you've
+had the number of uh immigrants or or
+migrants in this country go down, that
+has equalized the number of uh people
+out there. You start looking at all of
+this and it goes to Chris's point. How
+does he dismiss potential weakness? Talk
+about the potential inflationary threat.
+While there still is that kind of
+dissonance on the Fed and a real
+recognition that there are cracks out
+there.
+&gt;&gt; As the chairman was speaking just
+yesterday, we were all watching bond
+yields start to climb and the dollar
+climb with it. Can we talk about the
+dollar trade back in April saw bonds
+break down, yields up, and the dollar go
+in the wrong direction? Feels like we've
+reestablished the kind of relationship
+we're used to. What's behind that?
+&gt;&gt; So, we wrote yesterday, you know, a
+benign bond market and dollar rallying
+doesn't sound like the capital flight we
+were all promised, right? So I I I think
+when you look at the dollar here,
+there's a couple things going on. Number
+one, sentiment is about as one-sided as
+I've seen in years and years and years.
+There are dollar bears and dollar shorts
+everywhere you look. And I think a lot
+of people have missed that probably
+growth differentials are starting to
+suggest stronger dollar here, not weaker
+dollar. DXY closed above the 50-day for
+the first time um on Tuesday uh all
+year. Uh Euro USD uh started to break
+down here. Um when you look at our own
+proprietary measures of sentiment uh you
+have dollar bears just abundant here. So
+I think you're set up for a pretty big
+contra rally uh in DXY here. Maybe 102
+103 is certainly in the cards.
+&gt;&gt; Is that a headwind to US multinationals
+and a tailwind to US bond markets?
+&gt;&gt; Yeah, it's a good question and we kind
+of addressed this yesterday. It seems
+like this market, you know, everything
+in front of you has been the right call.
+what could upset or disrupt that? And I
+I I do think maybe the new piece of
+information over the last week or two is
+this dollar starting to rally and how
+does that impact groups like industrials
+and tech which have carried the baton of
+leadership for much of the year. Now
+certainly no evidence of that in last
+night's numbers. Um but I do think if
+we're thinking about what could change
+over the next four, five, six months
+into the back half of the year, that is
+certainly something I I would be uh
+alert to. I do think it's notable. It
+does seem like gold is breaking down
+here or at least attempting to break
+down. I mean, for everything that's gone
+on uh in the world from April forward,
+gold's made no progress. And again,
+below the 50-day moving average, watch
+the 3250 level on gold. Underneath that,
+I think it becomes easier to make the
+case maybe you're going back to 29,
+2850.
+&gt;&gt; How bullish are you then given all of
+this? given the fact that it's a
+question of looking for leadership, not
+necessarily where are the cracks going
+to be. How much do you feel like this uh
+equity market has a lot of room to run?
+&gt;&gt; So, it's not what I think. Um it's I
+think this business is about
+behaviorally training yourself to be on
+the right side of the trend and when the
+trend is up, expect surprises to break
+in the direction of the trend. I think
+we saw that with the numbers yesterday.
+So, um, not that things can't change or
+or won't change, but I still expect
+higher prices from here. We started the
+year 6750 on S&amp;P target. I'm still on
+that camp. It may be too modest, uh, by
+the time that we get there. Uh, but I
+think we're in a bull market. I I think
+there shades of, you know, kind of late
+late 90s. I like the fact S&amp;P is getting
+involved with tech. I think the big
+question is, does the reemergence of
+dollar here upset some of the leadership
+characteristics?
+&gt;&gt; Chris, it's good to see you as always.
+Thanks for dropping by Chris Ron there
+at Strategus Equities charging on high
+by about 1% so far this morning on the
+S&amp;P 500 with an update on stories
+elsewhere with your Bloomberg brief.
+Let's cross over to Yahara Anard. Hey
+Yahara.
+&gt;&gt; Good morning John. If you haven't heard,
+despite pressure from President Trump,
+the Fed kept interest rates unchanged.
+Fed chair Jay Pal said growth moderated
+in early 2025 and repeated that
+uncertainty about the economic outlook
+remains elevated. Two governors
+desented, the first time that's happened
+in over 30 years. Governors Michelle
+Bowman and Christopher Waller favored a
+quarter point rate cut. Meanwhile,
+Microsoft is set to become the second
+company in the world to reach a $4
+trillion market cap. Shares are rising
+8% in the pre-market after it reported
+better than expected growth in its cloud
+business with its Azure unit posting a
+39% rise in sales. Microsoft said it
+will spend more than $30 billion in the
+current quarter to build out its data
+centers for AI. And moving on to another
+big spender, shares of Meta are rallying
+11% in the pre-market. The social media
+giant reported second quarter earnings
+that beat Wall Street estimates and
+forecast better than expected results
+for the current quarter. The Facebook
+owner said it's taking advantage of its
+lucrative ad business and stepping up
+spending next year. That brief John,
+&gt;&gt; what a move in a pre-market. Yahara,
+thank you. More from Yhara later on this
+hour. Up next, approaching President
+Trump's deal making deadline.
+&gt;&gt; We made our deal with the European
+Union. The Japan deal is done. We're
+talking to India now. We'll see what
+happens. But you'll know at the end of
+this week.
+&gt;&gt; That conversation up next with Tobin
+Marcus of Wolf Research live from New
+York City this morning. Good morning.
+[Music]
+Check out these moves in a pre-market
+from big tech. Meta Microsoft big rally.
+The southside likes what they heard
+yesterday. Wedbush a slam dunk quarter
+for Microsoft on meta truist a license
+to spend and spend they will over the
+next 12 months.
+&gt;&gt; Yeah. An estimated 100 to 120 billion
+dollar for dollars for full year 2025
+potential expenditures. And right now
+people are seeing it pay off. Just to
+give you a scope of the move that we're
+seeing pre-market. Uh just a little bit
+more than 8% gain in pre-market trading
+means a market capitalization gain of
+$314 billion dollars should it hold
+through the remainder of this trading
+session.
+&gt;&gt; It's a huge move. Equity futures charge
+on up by 1% on the S&amp;P 500 up by even
+more on the NASDAQ 100. The NASDAQ 100
+higher by 1.3%. Thank you big tech. If
+you don't have it the small caps
+negative a third of 1% this morning.
+That tells the story. It tells the story
+of the US equity market under Savannah
+this morning. approaching President
+Trump's deal making deadline.
+&gt;&gt; We made our deal with the European
+Union.
+Uh the Japan deal is done. Many of the
+other deals are done. Indonesia was a
+very big deal, but we'll see what
+happens. We're talking to India now.
+We'll see what happens. And it doesn't
+matter too much whether we have a deal
+or whether we charge them a certain
+tariff, but you'll know at the end of uh
+this week.
+&gt;&gt; It's the latest this morning. President
+Trump declaring more deals and demands
+ahead of his deadline tomorrow. The
+president announcing 15% tariffs on
+South Korean imports matching the rate
+for Japan. Bloomberg's Tyler Kendall
+joins us now for more. Tyler, one day to
+go.
+&gt;&gt; John, one day to go and we have gotten
+some surprise announcements leading up
+to it, but there's still a whole lot of
+big questions when it comes to South
+Korea. Of course, clinching that 15%
+rate considered to be preferential. It
+does extend to auto, something that's
+been a really critical sticking point in
+these negotiations. But we still have
+questions about some of the investment
+commitments that the White House says
+South Korea has committed to when it
+comes to a $350 billion US investment
+fund, mirroring what we saw with its
+regional rival, Japan. But still, we're
+not quite sure exactly how that's going
+to be structured when it comes to
+investment versus loans, for example.
+But there's still a lot of other trading
+partners that we're waiting for. I'd say
+that I'm watching closely whether or not
+Cambodia and Thailand get some new rates
+today. The US Commerce Secretary Howard
+Lutnik last night said that they have
+reached an agreement with those two
+countries. We're likely going to see
+their 36% threatened tariff rate lowered
+and probably some talk about this idea
+of trans shshipment when it comes to
+countering China. Just to stick with
+China for a quick second here, President
+Trump there talking about India. We did
+see a surprise 25% levy threatened
+against them yesterday. Also with the
+additional threat of additional
+penalties when it comes to how India
+imports Russian energy supplies. This
+was considered to be a pretty big
+reversal John considering that we know
+that the US has been courting India as a
+strategic ally when it does come to
+countering China.
+&gt;&gt; Tyler Kendall with the latest. More from
+Tyler later on this morning. Tyler thank
+you. Toby Marcus Evolve Research joins
+us now for more. Tobin, welcome to the
+program sir. are the pieces of the
+puzzle falling into place.
+&gt;&gt; New trade deal earlier this week um
+really settled the last major
+outstanding question. So I think even
+before this latest flurry of deals with
+uh clarity on the tariff rates for the
+EU along with the previous deals on
+Japan, Vietnam, Indonesia and the
+Philippines in our view that really
+landed the plane for the most part on
+what markets are looking at for this
+August 1st increase. We are seeing still
+a big tariff increase on August 1st. Uh
+we're going to go up by about $80
+billion in our latest numbers uh in
+terms of the the reciprocal tariffs that
+are applicable. When all these new
+numbers phase in, they're lower than
+feared, lower than threatened, but still
+higher than current prevailing rates uh
+in in every case that's been announced
+so far. On the reciprocal, uh that's
+partially offset by some sexual relief.
+And then when we look a little further
+down the road, we have semis, we have
+pharma. Uh those are both potentially
+quite material with very large bases of
+goods to which they're applicable. Um so
+we're still in the ramp up phase here.
+&gt;&gt; Toby, let's talk about some of the
+agreements that we have in place. Lisa
+has talked about this. Tyler just
+mentioned it. For certain deals, they're
+blending in foreign policy objectives.
+See India yesterday. I just wonder
+what's your reaction to that and how you
+think this is going to play out going
+forward.
+Well, it's been clear since the campaign
+that President Trump uh really likes
+tariffs not just as a revenue source,
+not just as a direct trade policy tool,
+but as a general purpose source of
+negotiating leverage for anything he
+wants countries to do. And we're seeing
+that, you know, very clearly in in the
+Brazilian case, uh to some extent across
+the board. Um, you know, I I think that
+uh he he is serious about using them to
+get countries to the table on on
+whatever he wants to negotiate over. uh
+the resolution, the Brazilian case, I
+think is a little bit unclear because
+it's not really at uh President Lula's
+power to to do some of what uh President
+Trump is asking for uh in terms of the
+treatment of of Bolsaro within their
+political and legal system. Um but they
+did pull the punch a little bit on the
+breadth of those tariffs yesterday. So
+uh that's not as alarming of a situation
+uh for them even in the interim. Tobin,
+at a certain point there was a question
+about whether President Trump would
+force some of the trading partners to
+choose between the US and between Russia
+and China. Do you feel like that really
+has been a theme through all of these
+talks?
+&gt;&gt; So, it's certainly been an issue in the
+talks particularly in Southeast Asia
+where these big exporters obviously have
+deep commercial ties with China. Uh
+we've seen this 40% trans shipment rate
+announced for Vietnam. Uh, as Tyler
+indicated, I think it's fair to expect
+that we see something similar in the the
+Thailand and Cambodia deals when they're
+rolled out. Still no details whatsoever
+about what that's uh h how that's
+measured, what triggers that uh
+threshold. I assume it's going to be
+done based on some Chinese content uh
+threshold, but they have not put out any
+details yet. But you know, I think the
+the coherent vision of the tariffs as a
+a way to present a unified front against
+China and maximize pressure on them. Uh
+that's been articulated by Secretary
+Bessant looks a little bit different
+from how President Trump himself is
+directly approaching China where you
+know we're in a fairly consiliatory mode
+vis China. So, you know, some elements
+of the tariffs that we're seeing rolled
+out do have that sort of China pressure
+strategy reflected in them. But at the
+same time, we are uh not really
+confronting China that aggressively
+directly when we look at stuff like the
+H20 restrictions being rolled off.
+&gt;&gt; We see some certainty. We see some
+frameworks for deals and a lot of people
+in markets have cheered that certainty.
+It is better than what we had over the
+past number of months of speculation.
+How much does that get disrupted and
+frankly how much market risk is there?
+Should uh the courts today overrule some
+of these tariffs and the AIPA act that
+was used to justify them?
+&gt;&gt; Yeah, so today we have oral arguments in
+front of the court of appeals for the
+federal circuit. Uh they're not going to
+take any action today. I think the
+action is probably a month or two down
+the line, but we will get an indication
+of how they're leaning from the
+questions that we hear at at oral
+arguments. I think in terms of the
+tariffs themselves, if they get struck
+down, they can be replicated. The
+president can use other authorities.
+section 338 foremost among them to
+recreate the same pattern of tariffs
+that he's been rolling out uh just with
+a little bit less nibbleness. You know,
+those would take effect after 30 days.
+Um slightly different legal
+requirements, but I think he can
+basically get to the same end point. The
+question of what happens to the revenue
+that's collected between when these
+tariffs took effect and roughly end of
+year, which is when we think the Supreme
+Court's going to weigh in, that's an
+interesting question I think has been
+under discussed. Uh my expectation is
+that that revenue will need to be
+rebated to the importers of record who
+paid those tariffs because they were
+collected unlawfully. And so even if we
+end up recreating the same prospective
+pattern of tariffs, that could be a
+really big wave of kind of accidental
+stimulus that we see in the first half
+of next year along with the intentional
+stimulus from the big beautiful bill. Um
+so among other things, if I were sitting
+on the FOMC, that is something I'd be
+concerned about in terms of cutting
+early. So Turbo, there's another obvious
+question to ask as well and not just the
+monetary policy dimension, just the
+tariffs themselves. Given what you just
+said, if I don't fully understand the
+legal standing of the tariffs being
+implemented, why would I roll out the
+sectoral tariffs anytime soon given that
+that might be a tool available to me to
+respond if I had to?
+&gt;&gt; Well, so you know, the the sectoral
+tariffs of course are under a different
+authority. So I think they are still
+proceeding with those. was they want to
+get that kind of complimentary piece of
+the puzzle settled. Those have turned
+out to be pretty broad. You know, the
+the focus has been on the country by
+country reciprocal tariffs, but the
+sectoral tariffs are a very large piece
+of the puzzle as well. So, even if AIPA
+does get struck down, ultimately we'll
+have those sectoral tariffs remaining in
+place as they try to sort of rebuild the
+country by country specific um uh rates.
+So, I think that piece of the strategy
+makes sense. I do think that they're
+going to move forward uh some, you know,
+within the next few weeks likely on both
+semis and pharma. Uh and we'll see what
+the details of those announcements look
+like.
+&gt;&gt; Tobin, appreciate your time, sir. Lots
+to get through. Tobin Marcus of Wolf
+Research. This just coming. Here's a
+headline for you. EU wine and spirits to
+face a 15% US tariff in the interim. The
+negotiations continue on wine and
+spirits according to the European Union.
+&gt;&gt; Yes. So down the road there could be an
+exemption from the tariffs on French
+wine. All I'm thinking is is there going
+to be a rush to the Napa Valley to try
+to stock up in the meantime because
+they're going to have relatively cheaper
+prices at least in the United States
+just theoretically for an individual who
+might enjoy wine
+&gt;&gt; for you for instance.
+&gt;&gt; Well maybe I mean yes I'd be I'd be a
+representative individual.
+&gt;&gt; The French would be very unhappy
+&gt;&gt; if they didn't get their exemption. What
+this highlights is how much still has
+yet to be discussed. And we heard this
+from the EU uh EU trade commissioner
+saying there still is quite a bit of
+discussion around items that could put
+be put in the 0% tariff bucket when it
+comes to transnational trade. So look,
+there's still a lot of questions to be
+determined and French wine, Spanish
+wine, Italian wine is very much front
+and center for a lot of us.
+&gt;&gt; Some issues are more important than
+others. That's the latest on trade. Up
+next, Stefan Stinsky of BMPU Parapar as
+big tech earnings drive stocks higher.
+Plus, Danny Burer with your morning
+movers as Ford warns of a big tariff
+hit. That stock is down by close to 2%.
+From New York, this is Bloomberg.
+[Music]
+Closing out July. What happened to July?
+Three months of gains. That's what we're
+looking at on the S&amp;P 500. Equity
+futures add some weight to the rally up
+by 1% this morning on the S&amp;P on the
+NASDAQ 100 higher by 1.3 with three as
+until the opening bow. With your morning
+movers is Danny Burgerer. Hey Danny.
+&gt;&gt; Hey John. And here's why. It was huge
+numbers being put up from the
+hyperscalers. be it the results
+themselves, the amount that they project
+that they're going to be spending with
+capital expenditures with tens of
+billions of dollars every quarter. So
+the results, strong ad results from
+Meta, strong Azar results from Microsoft
+that allow them to have that spend. Just
+to put these numbers in context
+together, they're set to add $530
+million in market cap. That alone would
+be the 17th biggest company in the S&amp;P
+500, putting it right above Netflix.
+Microsoft set to hit $4 trillion. But it
+was a split screen of companies that did
+well because of AI and those that are
+being hurt by tariffs. Ford among them.
+A2 billion dollar hit is what they
+estimate for the year because of
+tariffs. Tom Nion though of RBC pointing
+out it's not just that. It's things like
+expiring EV tax credits, weakness in
+Europe, and some warranty issues they've
+had. So those shares down 1 and 3/4 of a
+percent. And not all tech was created
+equal. Qualcomm also falling 6%. It was
+disappointment in the weak guide for
+what it looks like to be their phone
+market. Of course, one of their business
+biggest businesses is supplying chips to
+smartphones. They also have an expiring
+or potentially expiring relationship
+with Apple as they move in-house for
+their chips. John
+&gt;&gt; Danny, thank you. Appreciate the update.
+More from Danny in the next hour and
+more on big tech in just a moment. On
+our radar this morning, Fed chair Jay
+Pal shrugging off pressure from
+President Donald Trump, holding rates
+steady and saying the full impact of
+tariffs on the economy is still unknown.
+Pal saying no decision has been made on
+a September rate cut.
+&gt;&gt; And what you saw is Fed funds future
+price out just a touch. the chance of a
+rate cut in September. The commentary
+was pretty uniform. Essentially, yes,
+you got two descents from Fed governors
+for the first time going back to 1993,
+but Steve Englander of Standard
+Chartered for uh Fed Chair Pow Powell.
+Wherever there was wiggle room, he
+wiggled hawkish. Stuart Kaiser at city
+stocks pulled back during the press
+conference more on vague answers and a
+high bar from positioning. And then
+Blake Gwyn, we think Powell had a clear
+hawkish lean. So definitely that was the
+main takeaway. My favorite take Mike
+Ferohi JP Morgan more about auditioning
+for the Fed chair appointment than about
+the economic conditions. I think he
+called the descent two job applications
+at yesterday's meeting.
+&gt;&gt; And we heard Fed chair Jay Powell say
+you can listen to them explain it and
+I'm sure they'll have a thing to explain
+it. I think that was what he uh sort of
+said referencing with their commentary
+that he's expecting. slightly unfair to
+look at those descents and just say
+they're job applications when someone
+has come forward and put a forward a
+pretty credible argument to reduce
+interest rates.
+&gt;&gt; You said someone there were two
+descents. John,
+&gt;&gt; I meant Governor Waller. I'd like to
+know more from Governor Bowman in the
+coming weeks about how she's thinking
+about the situation given her other
+views at the end of last year in the
+other direction. But Governor Waller has
+been pretty clear, I think, pretty clear
+about why he thinks we should be
+reducing interest rates.
+&gt;&gt; And a lot of people would agree with
+him. I mean, even Rick Reer, you
+mentioned him of Black Rockck earlier.
+Even though he's relatively bullish and
+sees this as a stockproof economy, he
+said right now it does seem like a good
+time to cut rates because there is this
+weakening and you're seeing it in a host
+of different measures. So, a lot of
+people agree with that view. It's not
+that much of an outlier view to call it
+purely political.
+&gt;&gt; That's the latest on monetary policy.
+More on the Fed a little bit later.
+Here's the latest on trade. The
+president unveiling fresh trade deals
+ahead of tomorrow's deadline, announcing
+15% tariffs on imports from South Korea,
+25% on India. The president also
+announcing sweeping exemptions to his
+50% levy on copper, triggering a major
+move in yesterday's session.
+&gt;&gt; So, we could delve into all of the trade
+agreements, but we really should take a
+note. Let's just take a moment for
+copper. the idea of people who uh you
+know piled into the copper trade with
+this expectation of 50% tariffs and the
+copper prices in the US not necessarily
+in London totally wiped out. I mean this
+to me was something Julian Emanuel said
+liquid markets don't trade like this to
+see a 19% plunge in copper prices. Why?
+Because essentially he's exempting the
+main product from copper that is used.
+So kind of not really relevant anymore
+for a lot of what gets used in
+production. There was some miners
+getting very excited as well. It wasn't
+just the commodity. Some miners here in
+the US getting very excited about the
+prospects of them being the only game in
+town.
+&gt;&gt; Yeah, Freeport Macmarin shares really
+followed the sentiment shift in real
+time and it was sort of the rise and the
+fall of the emotional roller coaster
+that has been 2025.
+&gt;&gt; That's the latest on Copper. That
+emotional roller coaster continues for
+Nvidia as well. Apparently, authorities
+in China summoning Nvidia over alleged
+security risk related to its H20 chips.
+the move clouding the outlook for the
+business in the country following CEO
+Jensen Wangs visit with senior officials
+in Beijing just earlier this month.
+&gt;&gt; Yeah, it's sort of we're going to have
+to wait the two years to get Nvidia
+earnings. But in the meantime, we do
+have this sense of the liabilities of
+being brought so close to President
+Trump and being an American company in
+China. We keep seeing that again and
+again. Can the rockstar of AI remain
+immune to that in China at a time when
+the chips are necessary? But there are a
+lot of questions there about their
+national security as well as in the
+United States.
+&gt;&gt; Stock is up this morning. It's not
+trading on that. It's trading on this.
+Meta and Microsoft pushing stocks higher
+after posting beats on earnings and
+boosting AI spend. Investors now turning
+their attention to both Apple and Amazon
+after the close. Stefan Sloinsky of BMP
+Paraba Exan rising his price target to
+on Amazon to 264. We believe investors
+will increasingly view Amazon as the Gen
+AI leader. Stefan joins us now for more.
+Stefan, welcome to the program. Sir,
+actually wanted to start with the likes
+of Microsoft because there was something
+you said coming into earning season. You
+said we were looking for investors to go
+from relieved to excited. Credit to you.
+Is this the excitement phase?
+&gt;&gt; Morning, Jonathan. Yeah, I think we're
+starting to see that on Microsoft.
+Obviously, the stock had a really good
+run after the relief of the the March
+quarter print. Um, today we're starting
+to get more excitement. So when
+investors see this type of uh revenue
+growth acceleration at scale, they're
+really wowed. And to be fair, Meta is
+showing that today as well. So Microsoft
+is a $300 billion run rate company on
+the top line. Growth just accelerated
+from 15% in in their fiscal Q3 to 17% in
+their fiscal Q4. And obviously all the
+talk was about Azure accelerating from
+35% to 39% growth. And that's about an
+$85 billion run rate business. So, uh,
+yeah, I think we're going to start
+seeing investors getting more excited
+about Microsoft.
+&gt;&gt; Stephan, can you spend some time with us
+just explaining where their acceleration
+is coming from, what's behind it, and
+whether it's just even more incentive to
+keep on spending.
+&gt;&gt; I think the um interesting thing here is
+it's not about AI or it's not all about
+AI. So, uh, when you look at Microsoft's
+comments last night, they said the beat
+or the outperformance came from their
+core cloud business. That's boring
+things like Nestle moving their SAP
+systems to the cloud. Uh AI was in line
+with their expectations. Um same thing
+on Meta last night with their strengths.
+Um AI is helping at the margin, but it's
+really the core business and Gen AI is
+not really contributing a lot just yet.
+So the core businesses, the core
+platforms are are are doing very well
+for Microsoft Meta for these
+hyperscalers. And the exciting thing is
+is Gen AI is really just ramping. So
+that's still to come. To your question,
+yes, that's what's driving this
+investment. When you look at Microsoft,
+Amazon, Google, and Meta, capex is set
+to go from 150 billion in 2023 to we
+think over 420 billion next year in
+2026. So, that spend is accelerated and
+the AI acceleration theme continues.
+&gt;&gt; Wait, hold on a second, Stephan. Can you
+repeat that cuz I don't think I wrap my
+head around those numbers. $420 billion
+in capex next year for one company. Is
+that what I just heard you say?
+&gt;&gt; That's for those four hype. So that's
+Microsoft, Amazon, and Google Meta
+together.
+&gt;&gt; Okay. So, right now we're looking at
+something a conservative estimate by our
+own Dan Curtis here at Bloomberg of
+something like $330 billion of capex in
+2025.
+This level of spending and the fact that
+they continue to gain share raised a
+question, where is this money being felt
+in the economy? Is it being felt in the
+efficiency by, you know, just the rank
+and file S&amp;P 500 companies? Is it coming
+in an inflationary boost somewhere down
+the line? Do you get a sense of what
+this is doing economically?
+&gt;&gt; Well, of course, the main beneficiaries,
+as you just mentioned previously, are
+going to be those uh those providers.
+So, one of the shifts that the
+hyperscalers are talking about is
+shifting to spending on the kit rather
+than the shell. There's been a lot of
+data center build over the last couple
+of years building out those buildings.
+That'll continue, but they're actually
+shifting the spend more towards uh the
+chips themselves, the networking
+equipment themselves. Um that has a
+benefit in the sense it converts into
+revenue much quicker. The downside is it
+also converts into depreciation much
+quicker. One of the things we've been
+doing is writing about increased uh
+depreciation, increased opex with all
+this capex spend. That's what we're
+seeing at Meta. Meta's guidance
+basically is for EPS growth to collapse
+next year to near 0% as margins come
+down 500 basis points. Microsoft and
+Amazon are taking steps to alleviate the
+opex pressure. We think we should
+continue to see 15 to 20% earnings
+growth from those companies. So we're
+starting to see the moment of truth
+where a lot of that spend is going to
+come through and hit the P&amp;L. For now
+it's the data center providers, the chip
+providers of course who are benefiting
+from that spend.
+&gt;&gt; Are these buyers price insensitive? And
+I'm talking about uh how much Nvidia can
+raise prices of their chips and just
+have these hyperscalers absorb it with
+no consequence at least for now because
+of the hopes and dreams around AI.
+Yeah, I think so. In the sense that when
+we look at what a company like Meta is
+is spending to hire AI talent, when we
+look at the spending on the
+infrastructure buildout itself, um you
+know, these companies think that the
+winners will be those that have uh the
+talent, those that have the data, and
+those that have the capacity. And so
+they're willing to spend whatever it
+takes on those three things in order to
+reach that magical artificial general
+intelligence first. In Microsoft's
+instance, they have 380 billion of
+committed backlog. So Microsoft is
+essentially saying, look, we already
+have this commitment. We're we're not
+building this infrastructure hoping that
+we can use it. We know we're going to
+use it. We need to build that
+infrastructure because the demand is
+already there.
+Stefan, just before you go, we've talked
+in general terms about the opportunity
+for these stocks. What's special about
+Amazon as we look for those numbers
+after the bell?
+&gt;&gt; Yeah, so the pressure is on Amazon right
+now. Obviously, Microsoft and Google saw
+cloud acceleration. Google and Meta saw
+advertising acceleration. Um, so the
+pressure is on Amazon to deliver. All
+eyes are going to be on that Amazon Web
+Services growth. Consensus was around
+17%, so was the buy side. We think maybe
+that nudges up to around 18% growth
+after Microsoft strong quarter. We need
+to see that or else Amazon Web Services
+is going to be looking like it's losing
+more share to Microsoft Azure. Overall,
+Amazon should see revenue growth
+accelerate as AWS and advertising become
+bigger and that should also help their
+margins as well because those are the
+two higher margin businesses. And then
+finally, Oracle and Microsoft have been
+dominating the narrative around AI
+infrastructure, AI monetization. We
+think as we head into the second half of
+this year, Amazon joins that story, if
+you will, as AI capacity comes online as
+their anthropic relationship begins to
+ramp and as their tranium 3 chips ramp
+as well.
+&gt;&gt; Stefan, I appreciate your time, sir.
+Thank you. Stefan Sloinsky there of BMP
+Parabar Xan. I think these are the
+numbers you're after. This came from
+Luke Cow. He was quoting Neil Data of
+Renmack just yesterday. So far this
+year, AI capex, which we define as
+information processing equipment plus
+software, has added more to GDP growth
+than consumer spending.
+&gt;&gt; This is the reason why so many of these
+other uncertainties haven't been as
+relevant. And that's the reason why
+people are getting so excited about the
+US exceptionalism story. I will just say
+a note for Amazon after the bell. I want
+to see how they're using AI to remove
+some of the advertised uh suggestions
+when I search for something and actually
+give me what I want. Is that your
+personal complaint?
+&gt;&gt; I'm just telling you that this is
+something I personally would desire.
+Yes,
+&gt;&gt; there you go. Mr. Bezos and Mr. Jesse
+stock is higher in the pre-market by
+something like 3%. Let's give you an
+update on stories elsewhere this morning
+with your Bloomberg brief. Here's
+Yahara. Hey, Yahara.
+&gt;&gt; Hi, John. The US reached a trade
+agreement with South Korea that will
+impose a 15% tariff on imports,
+including cars. It also sets up a major
+investment in American energy and ship
+building. Commerce Secretary Howard
+Lutnik said the deal includes a $350
+billion South Korean fund for US
+investments with 90% of the profits he
+says going back to the US. Meanwhile,
+Ford shares are falling 1 and 3/4% in
+the pre-market. The company did report
+better than expected second quarter
+revenue, but warned earnings will see a
+sharp drop this year by as much as 36%.
+That's in large part due to a net tariff
+impacts of $2 billion, about 500 million
+more than the company previously
+thought. And President Trump and JP
+Morgan CEO Jamie Diamond have started to
+meet in person after years of mixed
+public remarks between the two. Sources
+telling us here at Bloomberg, the pair
+resumed talks back in June. And just
+last week, Trump and Diamond spoke in
+private at the White House where they
+discussed a range of topics including
+the Fed and economy. That should be our
+brief, John.
+&gt;&gt; Hey, Yahara. Thank you. More from Yihara
+in about 30 minutes. Up next, double
+descent.
+&gt;&gt; We had two dissenters who I think, you
+know, you you want that clear thinking
+and and and you know, expression of of
+your thinking and we certainly had that
+today. We certainly got that. We'll talk
+about it next with David Se of Namora
+from New York City. You're watching
+Bloomberg TV.
+[Music]
+The rally resumes. Equity futures high
+by 1% on the S&amp;P 500. Thank you, Meta.
+Thank you, Microsoft. The NASDAQ high by
+1.3%. Others have found us this morning,
+double descent.
+on the descents. You know what you what
+you want um from everybody and and also
+from a dissenter is a clear explanation
+for of what your thinking is and what
+are the arguments you're making and
+that's we had that today. We had two
+dissenters who I think you know you you
+want that clear thinking and and and you
+know expression of of your thinking and
+we certainly had that today. Here's the
+latest this morning. The Fed holding
+rate steady prompting the first double
+descent from Fed governors in more than
+30 years. David Se of Neora writing the
+following. The apparent increased
+willingness of Fed governors to descent
+does signal that if Pal's replacement as
+chair is significantly more doubbish
+than the bulk of the FMC, it could bring
+an end to what has been decades of de
+facto Fed dictatorship by the chair.
+David joins us now for more. David, good
+morning.
+&gt;&gt; Good morning. How are you?
+&gt;&gt; I'm very well, thank you, sir. Descents
+make headlines. Do they make a
+difference?
+&gt;&gt; Well, they don't make a difference in
+the short run, we don't think. Uh Powell
+was pretty clear. He was very gracious
+uh to governors Waller and Bowman
+talking about what a great meeting it
+was. But he did not seem to accommodate
+their views at all. But what it does
+probably make a difference to is uh
+what's going to happen in the postpowell
+era which is no more than about 10
+months away. Um, if governors are now
+more willing to disscent than before, we
+may be ending the so-called dictatorship
+of the Fed that that has been going on
+for for many decades and is a very
+different model. Uh, where you really
+have to count the votes and try to
+figure out at the end of every year
+which presidents, regional Fed
+presidents are rotating off, who's
+rotating on. Um this has been a very
+academic exercise for for decades
+because at the end of the day what the
+chair wants the chair has gotten. That
+may not be the case especially if
+Powell's replacement um is not in line
+with where the bulk of the the committee
+is.
+&gt;&gt; So markets will want to know investors
+too. Does it make the committee more
+hawkish, more doubbish, more volatile?
+Which one?
+&gt;&gt; Well, you know, I think that that we
+really do need to see um how the the the
+12 members, the entirety of the FOMC is.
+So I I think that if the chair is is
+more dovish, maybe the the committee
+gives a little bit of difference at
+first, but uh it would be one thing for
+the the the new chair to want to cut a
+couple extra times, 25 bips each more
+than the rest of the committee, but to
+try to cut um a couple of percentage
+points more than the committee wants, I
+think that's where we'll really see the
+the committee the rest of the committee
+probably harden a little bit if we get
+to that point. Let's split the
+difference and talk about 100 basis
+points of rate cuts next year, which
+seems to be more in the offing for
+people if there is a sort of more dovish
+Fed that is a Fed chair that is
+appointed next year. You've been saying
+that there will only be one rate cut
+this year. Looks like the market's kind
+of coming your way slowly. I'm just
+wondering, do you think that that raises
+the prospect of a greater number of cuts
+next year?
+&gt;&gt; Well, our our thought is that uh we're
+really not that far away from neutral.
+And so our our our thought is that
+there'll be a couple two rate cuts next
+year and that would be it. Um now that's
+of course assuming that the committee
+stays generally the way it has been. Um
+presumably especially if if uh Powell
+stays in his governorhip, President
+Trump's only going to have a single uh
+seat that he's able to fill. So it would
+still be nine non-Trump appointees uh on
+the FOMC. Um, I think that that that
+that probably is enough to keep it from
+being all that much more than that. I I
+could I could easily see uh, you know,
+some of the names that have been uh that
+have been uh floated for Fed Chair, all
+of whom are are serious economists, uh,
+being able to finagle an extra cut or
+two out of it. But I don't think that
+that whoever it is is going to have the
+the ability to simply roll over the rest
+of the committee and get hundreds of
+basis points of cuts.
+&gt;&gt; Is this a good thing or a bad thing?
+Does this actually lead to less
+credibility of Fed decisions in the
+minds of markets or does it lead to
+more?
+&gt;&gt; I think that the the dynamic has
+actually so far been fairly healthy. Um,
+that could change, but right now what
+you're really seeing is the president
+has been saying what he wants. The Fed
+has been acting like an independent
+institution and ultimately um it hasn't
+changed markets expectations all that
+much. Uh, you haven't seen inflation
+expectations become unanchored or
+anything like that. So, I do think it's
+a a little bit of a a scary situation,
+so to speak. Um, this could go wrong,
+but but as of now, the back and forth
+between uh the Fed and the and the
+president, I think, has has shown sort
+of how strong these institutions both
+are and and so far not been such a bad
+thing.
+&gt;&gt; You've talked about the division between
+the institution and the White House.
+Let's talk about the division inside the
+Federal Reserve on the committee right
+now. Seems to be over the labor market
+and not so much on inflation. I think we
+talked a lot about the inflation story,
+but on the labor market, Governor Waller
+is saying that we're on the edge.
+Chairman Pal spent basically the whole
+news conference saying that the labor
+market was okay and he anchors that view
+around one data point, the unemployment
+rate. Do you think we're anchoring the
+view or rather is Chairman Pal anchoring
+his view on the labor market around a
+misleading data point?
+&gt;&gt; I I actually think that this is this is
+uh the right way to do it. I think that
+what we have seen and what we are
+continuing to see is that because
+immigration has come down so much, the
+number of jobs that need to be created
+each month, so the the so-called break
+even NFP uh is a lot lower uh in order
+to keep the unemployment rate steady. So
+we would estimate that over the last
+year and a half or so that number has
+gone down by probably 50,000 uh jobs per
+month. And actually some others have
+estimated that it's gone down by even
+more than that. And so uh what is full
+employment? Full employment conceptually
+is not how many jobs are being created
+each month. It's does everybody or
+almost everybody who wants a job have a
+job? And and that is really measured
+well by the unemployment rate. There are
+problems each month. It's not the best
+series on a month-to-month basis, but
+over a series of months, over a longer
+period of time, that is really what you
+want to focus on even if non-farm
+payrolls growth uh has slowed down. So I
+think that John really set up today well
+when he said Joo because after hours we
+heard from the Fed chairs Sachi Nadella
+and Mark Zuckerberg talking about the
+transformation they're engaging with in
+this economy and how much it is going to
+transform potentially the way we work
+and the labor market as we know it as
+well as inflation. I mean how much power
+does the Fed have at a time of
+technological advancement that we're
+seeing from some of the hyperscalers at
+a at a pace that we really haven't seen
+in decades if not centuries? Yeah, I
+mean, you know, it's really interesting
+because when you have an exogenous thing
+such as uh the the AI explosion that
+we're having uh in terms of investment,
+I mean, who knows what it's going to
+lead to at some point in the future, but
+right now it's leading to a lot of
+economic uh activity in the form of
+investment. And that what we're seeing
+that can really just dwarf all the other
+things that are going on. So, um tariffs
+provide perhaps a negative hit to the
+economy. you know that that's a that
+could be a speed bump in the context of
+something much bigger going on that's
+beyond the control of anybody at the Fed
+or in the government or anything like
+that. And I think that that is really
+what we we may be seeing right now. It
+still remains to be seen how much
+investment there's going to be. But what
+is going on has nothing to do with
+policy or tariffs or anything like that.
+&gt;&gt; We just have about a minute, but is the
+$330 billion that the big hyperscalers
+are expected to spend this year
+inflationary? Um all else equal, it
+certainly is inflationary. But um the
+question is if it if it's uh filling a
+hole that uh that would have been
+slowing economic growth, then perhaps
+really what it is is preventing
+disinflation or deflation from
+occurring. So um it's going to
+presumably raise the inflation rate
+higher than it otherwise would have
+been, but that number may have been
+falling, especially once the hit from uh
+from tariff induced inflation has
+passed. David, appreciate your time.
+&gt;&gt; My pleasure.
+&gt;&gt; Thanks for breaking it down. Thank you,
+sir. David Se there of Namura on the
+Federal Reserve decision. Apparently,
+descents do matter.
+&gt;&gt; Well, it matters in terms of maybe not
+necessarily this year, but next year. If
+it is a a trial for who's going to be
+the next Fed chair, then the market has
+to take that seriously. And so far, the
+market might be pricing out some rate
+cuts this year, but pricing in a couple
+more next year. And that might
+ultimately be more important because
+it's where the Fed rate ends up, not
+necessarily how quickly it goes in the
+next couple of months.
+&gt;&gt; See you next time on September 17th. I
+just wonder if two months is enough to
+resolve the issues on that committee
+right now. I have my doubts.
+&gt;&gt; I think that right now it feels like an
+ideological difference and it's hard to
+know how that's going to get squared. Up
+next on the program, we'll catch up with
+Mirror Panda of JP Morgan Asset
+Management, Jason Thurman of the Harvard
+Kennedy School, Daniel Rusker of
+Bernstein, and someone who knows
+something about dissenting, the former
+Kansas City Fed president, Esther
+George.
+[Music]
+The Federal Open Market Committee
+decided to leave our policy interest
+rate unchanged. We believe that the
+current stance of monetary policy leaves
+us well positioned to respond in a
+timely way to potential economic
+developments.
+&gt;&gt; They have to wait because they're not
+really sure what's going to happen to
+the economy.
+&gt;&gt; You still have an inflation problem and
+I think the Fed is not still
+appreciating that enough. We're all
+expecting some level of stagflation in
+the second half of the year, but we
+don't know the magnitude or shape of it.
+&gt;&gt; This is going to be like the last, you
+know, quiet meeting. I think when we get
+to September, it's going to be a much
+different ballgame.
+&gt;&gt; This is Bloomberg Surveillance with
+Jonathan Pharaoh, Lisa Abramowitz, and
+An Marie Hordern.
+&gt;&gt; Can we just have a quiet summer? Heading
+towards a third month of gains on the
+S&amp;P 500, closing out July like this.
+Equity futures on the S&amp;P 500 charging
+higher, pushing higher by 0.9% on the
+NASDAQ up by 1.3. Thank you, Meta. Thank
+you, Microsoft. Those earnings after the
+bell yesterday, absolutely knocking it
+out of the park. Meta up 12%, Microsoft
+up by close to nine.
+&gt;&gt; No is the answer to your question of can
+we have a quiet summer? And the answer
+is it's the trifecta. You have policy
+certainty coming down the pike. You have
+this question around economic data
+coming in stronger than expected and you
+have the economy that is big tech
+absolutely powering a massive
+technological shift to the tune of two 4
+trillion companies now in the United
+States if these moves hold and Microsoft
+at a time where it seems like they
+cannot spend enough when it comes to AI
+investment and this market is ready to
+reward them for that. Those two names,
+Meta, Microsoft, about 500 $5.5 trillion
+of market cap. Just those two names, 10%
+of the index. It's very difficult to
+fight this market when names like that
+put up numbers like that.
+&gt;&gt; Yeah. And today we have $ 8.7 trillion
+of market cap that will be reporting
+earnings. It is the busiest day for
+earnings of the season at a time where
+again it seems like these companies have
+incredibly high expectations. Since the
+bar has been set very high and they
+managed to just hurdle over them and
+then some with the promise of more to
+come, it raises a question of how much
+that move, that secular shift is
+overwhelming the noise of absolutely
+everything else.
+&gt;&gt; Said it a few times in the last hour,
+Jay, who just how relevant is the
+Federal Reserve in the face of what
+we're seeing play out this morning?
+&gt;&gt; What we're seeing is the relevance play
+out in small caps and that really has
+been the direct move. If you do see a
+Fed that remains on hold, some of the
+smaller companies are going to really
+have a harder time because they have
+been expecting and we've seen gains on
+the heels of the expectations for rate
+cuts. Question is, if the economy is
+solid, great. If this is a political
+disagreement that ends up in a too late
+Fed, as President Trump was talking
+about, that does lead to some potential
+problems. But right now, anyone who is
+bearish on this economy has just gotten
+blown up. So, you can't really find too
+many of them on the street right now.
+The week isn't over yet. After the
+battle, we'll hear from Apple. We'll
+hear from Amazon. Later on this morning
+at about 8:30 Eastern time, you'll get
+jobless claims tomorrow. Tomorrow
+morning, 8:30 Eastern time, the jobs
+report just around the corner. For now,
+though, futures positive by 0.9%. Coming
+up this hour, Mer Panda, the JP Morgan
+asset management with stocks are raising
+Wednesday's losses. The former White
+House economic adviser Jason Ferman as
+country's race to strike a trade deal.
+and the former Kansas City Fed President
+Esther George after the Fed's biggest
+descent in more than 30 years. We begin
+this hour with stocks rising after
+upbeat earnings from both Meta and from
+Microsoft. Mera Pand of JP Morgan
+writing the following short-term
+volatility is likely, but a durable
+correction seems less so. Mera joins us
+now for more. Mera, good morning.
+&gt;&gt; Good morning.
+&gt;&gt; Asked the question in the previous hour,
+how can you fight this with numbers like
+that? It's very difficult because you
+have the profits backing up the equity
+market story here and you also have a
+broader equity market overall which
+helps further support the rally. So yes,
+you have the MAG7s supposed to
+contribute about 2/3 of overall profit
+growth. But then if you look at what's
+driving markets, the Mag 7 are driving
+about onethird of overall market action.
+So that's healthy in our view to see
+that markets are still benefiting from a
+lot of different catalysts here. you
+still have that anchor when it comes to
+the mag 7 and technology to help lift
+the tides a bit.
+&gt;&gt; Do you think it reduces the relevance of
+the Federal Reserve?
+&gt;&gt; So, I think that there are times in
+history where the economic data demands
+that the Fed acts. This to me is not one
+of those times. There is a credible case
+for the Fed to cut. There's a credible
+case for the Fed to keep right where
+they are. Ultimately, the economic
+engine is always going to be corporate
+America. the Fed is also going to try to
+create some of those bumpers and guard
+rails for the overall economy. So I
+don't think it renders the Fed
+irrelevant, but I certainly do think
+that right now, despite the very
+impassioned two camps of the Federal
+Reserve, there is a credible case to to
+do either at this point. So I don't know
+that the Fed can actually go wrong in
+the near term. Given that uh sort of
+backdrop, it's amazing how rate
+insensitive this broader market has
+become. How much does it even matter
+when the Fed cuts to risk asset
+valuations and frankly even to economic
+activity given the fact that it seems to
+be holding up just fine whether the Fed
+cuts or not, we're probably still going
+to have a pretty durable market. I mean,
+think about the last two years where
+we've had rates even higher before the
+Fed did start to cut and markets still
+produce 20 plus% returns and at that
+point the MAG7 did contribute about 2/3
+of those overall returns. So the fact
+that you're still having the mag 7
+hanging in there, you're having war
+participation from other areas of the
+market, capex seems completely
+undeterred does mean that whether the
+Fed cuts or not, we can still have a
+pretty successful market potentially. It
+feels like people can't get more bullish
+this morning. I really can't find
+anybody who is uh negative particularly
+after seeing those earnings from
+Microsoft and Meta and we see the dollar
+reflecting that. If continues to gain,
+if it continues to strengthen, it will
+be the biggest uh weekly strengthening
+going back to 2022 in the dollar. At
+what point are we going to see the first
+half of this year reverse where all of
+those flows out of the US and US assets
+start to come back in force given some
+of the developments that we've seen?
+What we have seen already this year is
+despite a lot of the overtures of sell
+America and the end of US
+exceptionalism, you didn't actually
+really see foreign investors selling
+treasuries, you didn't really see
+foreign investors selling the equity
+market. Foreign investors still own
+about a quarter of the Treasury market
+and about 20% of the overall equity
+market. And by the way, neither are US
+investors. You've seen retail doubling
+down for months. You're starting to see
+more of that activity coming from hedge
+funds and some of the more institutional
+buyers. So you certainly really haven't
+actually seen in the markets the sell
+America narrative despite the fact that
+it's been so pervasive at a headline
+level
+&gt;&gt; came up almost every single month in
+Bank of America's fund manager survey.
+The most crowded trade the most
+consensus view was to short the US
+dollar. Euro dollar pushing towards 120
+and here we are back at 114.
+&gt;&gt; Welcome to the summer pain trade because
+of that positioning. Maybe it gave real
+legs to the move that we're seeing
+really in stunning magnitude given that
+we could be po poised for the biggest
+dollar strengthening in a week going
+back to 20122 and a lot of it has to do
+with big tech and a lot of it has to do
+with the fact that the Fed might not
+have to cut rates as quickly.
+&gt;&gt; Mirror, can I ask you what is the most
+compelling reason to look abroad right
+now given the fact that Europe doesn't
+have a Meta, doesn't have a Microsoft,
+doesn't have an Amazon, doesn't have an
+Apple.
+&gt;&gt; You're looking for diversification of
+catalysts. So if I think about Europe
+for example, it's more about the fiscal
+story. While the Fed is on hold here in
+the US potentially or maybe cutting
+modestly, you have Europe all the way
+down to 2% maybe still about to cut and
+they're a much more interest rate
+sensitive economy when you look at some
+of the lending practices out there as
+well. So you have a different form of
+catalyst. Let's not try to look for tech
+in other places necessarily where it is
+not already dominant. But let's look for
+some of those other types of
+diversifiers and catalysts because if
+something does fall down, if something
+doesn't work out, you still have
+something that is not linked to the AI
+tech US story to provide some other
+sources of return within your portfolio.
+How concerned are you that we've seen
+some pretty violent moves? You start to
+talk about diversifying catalysts. Well,
+you know, it seems like the market's
+pretty calm, but then you see the move
+like what we saw in copper, 19% plunge
+just in hours on the heels of an
+announcement from the president. We've
+seen some really big, historically big
+responses even in stocks after earnings,
+even when they haven't been massive
+pronounce pronouncements from the
+companies. What do you make of that in a
+market that's supposed to be very
+liquid? Areas that are going to be
+volatile are going to stay volatile,
+things like commodities, we always tend
+to see pretty volatile. So those are
+some of the areas that will react to
+trade news in a big way. But when we
+think about the stock market itself and
+what we've seen from different sectors
+within the US market and areas of
+opportunity is there are multiple
+stripes of catalysts. So you have the AI
+stripe, you have the other stripe, you
+have the policy stripe. I think of an
+area like financials or industrials or
+utilities. They all have probably two
+out of the three. Financials, you have
+the other which is the yield curve
+steepening. You have policy which is
+deregulation and some of that
+insensitivity to tariffs given some
+insulation. You look at utilities linked
+to AI but you also see you know not not
+only the power generation piece of that
+but again some of that insulation from
+tariffs very domestically oriented. You
+take industrials it's actually got all
+three. You have the automation when it
+comes to AI. You have the policy perhaps
+some re-industrialization on the margins
+and then you have the other things like
+HVAC, aerospace, transport all doing
+well this year. So when I think about
+the market, I think about the froth that
+is in certain areas I do think about
+where are the genuine catalysts that are
+diversified across the board in
+different areas of the US market. That's
+where I feel a little bit more
+conviction.
+&gt;&gt; Can we finish on what you don't like?
+What don't you like right now? Some of
+the areas that are more defensive areas
+like real estate, staples, consumer
+discretionary is not necessarily
+defensive, but when we think about
+staples discretionary, the consumer
+overall, you are hearing some good
+stories out of earning season in terms
+of some of that resilience. But what I
+do worry about a little bit is the
+margin story there when we think about
+not only some of that overseas revenue,
+but also the tariff impacts to demand
+overall. So those are some of the areas
+I would still be a little bit more
+cautious on. areas like healthc care
+still have a huge overhang from the
+administration from some of the cuts
+from the one big beautiful bill when we
+think about things like Medicaid and
+where that funding comes from pharma
+tariffs could still be on the docket so
+those are some of those areas where I
+would say they have the reverse of some
+of those catalyst maybe they're not
+linked to AI they have some negative
+policy catalysts and the other maybe
+doesn't look pretty compelling
+&gt;&gt; mirror this was compelling appreciate
+your time thank you ma pandit there of
+JP Morgan asset management Stocks higher
+by 0.9%. Mirror alluded to Europe and
+the financials. Euro stocks 50 banks up
+this year by more than 50% so far in 25.
+&gt;&gt; Yeah, on the promise of some of that
+stimulus that you could potentially see
+as well as even uh deregulation. I know
+that that sounds crazy. We are talking
+about the Euro region. I loved what she
+was talking about stripes of catalysts
+and I was thinking that if she wanted to
+illustrate this, it could be a zebra
+with lots of stripes, the multicolored
+stripes. That's where I'm at this
+morning.
+&gt;&gt; You're tired, aren't you? Yes. You
+probably need some sleep possibly. Okay,
+let's give you an update on stories
+elsewhere this morning with your
+Bloomberg brief. Here's Yhierra. Hey
+yra.
+&gt;&gt; Hi John. President Trump suggesting he
+won't make a trade deal with Canada.
+Trump posting on Truth Social. Quote,
+"Wow, Canada just announced that it is
+backing statehood for Palestine. That
+will make it very hard for us to make a
+trade deal with them." Canada faces a
+35% levy on imported goods if it does
+not strike a deal by tomorrow's
+deadline. Meanwhile, Chinese authorities
+have summoned Nvidia representatives
+over alleged security risks related to
+its H20 chips. The country's internet
+watchdog cited comments by US lawmakers
+about the need to install tracking
+capabilities into advanced chips sold to
+other countries. The move comes after
+CEO Jensen Wong visited Beijing earlier
+this month. And Norwegian Cruise Line
+shares are popping in the pre-market up
+6%. It reaffirmed its guidance after
+seeing strong demand in recent months.
+Its revival comes after Norwegian called
+out softening trends back in April,
+seeing choppiness in its European
+bookings. Rivals Royal Caribbean and
+Carnival also saw a spike in demand this
+quarter and boosted their fullear
+guidance. That's your Bloomberg brief.
+John
+&gt;&gt; Yhara, thank you. I'll always respect
+the numbers. I'll just never understand
+the motive. Nor
+&gt;&gt; the motivation to get on a boat and be
+stuck there for weeks on end.
+&gt;&gt; Weeks on end. How long do you think
+people go cruising people? Some people
+go cruising for weeks.
+&gt;&gt; You think you you're going to be one of
+those people who retires onto a boat.
+&gt;&gt; I'm not going to be any of those people.
+&gt;&gt; I think that you should. I think you
+could see I think you could see the
+fjords, but you could also see, you
+know, beaches and different islands. I
+think you would really
+&gt;&gt; The only way you ever get me on a cruise
+is if Uncle Mike writes a massive check
+and sends me on a cruise.
+&gt;&gt; You would have to pay me.
+&gt;&gt; Okay, hold on a second. I never see you
+going on a cruise. You know what?
+One day I'm going to catch you on a
+cruise going around the fjords in Norway
+and I'm going to exception.
+&gt;&gt; Oh, there we go.
+&gt;&gt; Beautiful Viking Viking cruises.
+&gt;&gt; Okay, here we go.
+&gt;&gt; Okay, that's different. That doesn't
+count.
+&gt;&gt; Let's call the cruise.
+&gt;&gt; That's on a river. All right.
+&gt;&gt; All right. Okay. Up next, counting down
+to the President's Trade deadline.
+&gt;&gt; We made our deal with the European
+Union. The Japan deal is done. We're
+talking to India now. We'll see what
+happens. But you'll know at the end of
+this week. A conversation up next with
+Jason Ferman, the former economic
+adviser to President Obama from New York
+City this morning. Good morning.
+[Music]
+For a moment, things were a little too
+quiet. The president has this to say on
+the Federal Reserve decision in the last
+24 hours. Jerome, too late. Powell has
+done it again. He's too late and
+actually too angry, too stupid, too
+political to have the job of Fed share.
+He's costing our country trillions of
+dollars. I thought it was notable that
+yesterday we didn't see a a truth social
+from President Trump on Jay Powell. Here
+he is. Here's a question uh that I have.
+Is this actually a relief to people?
+Because yes, he is responding. Put
+another way, too late is a total loser
+and our country is paying the price. He
+doesn't say fire him. And that actually
+might be taken as a relief and that's
+where the bar is this morning.
+&gt;&gt; I want to repeat something Mirror Pandit
+said and others have said too. There are
+credible arguments to cut interest rates
+right now. There are credible arguments
+to wait. I think the chairman at the
+moment is navigating this situation
+really quite well. I think he did a
+decent job yesterday of navigating the
+descent and has done a pretty decent job
+of navigating what is increasingly a
+very difficult situation with the White
+House.
+&gt;&gt; Yeah, the markets seem to really have
+endorsed Fed Chair Jay Powell. And
+frankly, even though we did get two
+descents, this was a meeting that that
+really skewed hawkish and it seems like
+the bulk of the committee, the rest of
+the others do support what Jay Powell is
+doing. So it doesn't seem like this is
+necessarily at a level that is really
+raising the eye of people in markets.
+&gt;&gt; Take a beat. We'll get some more data,
+two more CPI reports, two more payrolls
+reports, and get back together again on
+September 17th to make another decision.
+Equities at the moment on the S&amp;P 500
+doing okay, positive by 0.9% on the
+NASDAQ up by 1.3. Big tech having a
+major part to play so far this morning.
+And the surveillance this morning,
+counting down to the president's trade
+deadline. We made our deal with the
+European Union.
+Uh the Japan deal is done. Many of the
+other deals are done. Indonesia was a
+very big deal. But we'll see what
+happens. We're talking to India now.
+We'll see what happens. And it doesn't
+matter too much whether we have a deal
+or whether we charge them a certain
+tariff. But you'll know at the end of
+this week.
+&gt;&gt; It's the latest this morning. President
+Donald Trump announcing new tariff deals
+and demands before his deadline
+tomorrow. the president revealing 15%
+tariffs on South Korean imports matching
+the rate for Japan. Joining us now from
+the nation's capital Tyler Kendall.
+Tyler, just briefly describe what the
+next 24 hours is going to look like.
+&gt;&gt; Yeah. Hey, John. Well, we're still
+waiting on a few announcements from some
+pretty crucial trading partners. So
+perhaps we'll get some sort of movement
+there. I'll point out that President
+Trump is expected to have a phone call
+later on this morning with Mexico's
+President Shine Bomb. And it's been sort
+of ironic, I think, because Mexico and
+Canada, too, which we're also waiting
+for some sort of announcement from, they
+were a tariff months before these other
+trading partners, yet they still haven't
+been able to reach an agreement. A
+person familiar does tell Bloomberg News
+that the negotiations with Mexico have
+now reached the level where the
+decisions need to be made on the leader
+level, perhaps uh showing us uh some
+movement in the right direction. But we
+still know that there are array of
+different issues that this White House
+is looking for when it comes to Mexico
+in particular. Now, in terms of some
+other countries that we could see
+movement on, Thailand and also Cambodia,
+we're expecting they're likely going to
+see a lower 36% rate announced at some
+point in the next 24 hours. The US
+Commerce Secretary Howard Lutnik said as
+much. And then just lastly, I'd say even
+though we're still waiting on
+announcements, we're also still waiting
+on details from the announcements that
+we've already gotten. And we know, for
+example, that the Treasury Secretary,
+Scott Bessant, is still set to meet with
+South Korea's finance minister later
+today. So perhaps we'll be able to glean
+out a few more of those details when it
+comes to that agreement that was
+announced. Because while we know, John,
+that there's going to be this 15% lower
+rate also extended to autos, we still
+need to see the bigger picture here when
+it comes to those investment commitments
+of $350 billion, a hundred billion
+investment for US LG imports. how
+exactly all of this is going to work
+since it was uh considered to be
+essential in ultimately clinching that
+lower tariff rate.
+&gt;&gt; Tyler Kendall with the latest. Tyler,
+thank you. Bloomberg's very own down in
+Washington DC. To extend the
+conversation, Jason Ferman, the former
+economic adviser to President Obama
+joins us now for more. Jason, welcome
+back to the program, sir. The data seems
+to be okay. The earnings from corporate
+America better than good. We're a few
+months into this process and I just
+wonder from your point of view, Jason,
+whether you believe it's premature to
+sound the clear.
+Um I I don't think the data is that
+terrific. Um in the first half of this
+year, the economy grew at a 1.2% annual
+rate. That is way below where we should
+be. Core inflation was a 3.0% annual
+rate. That's way above um where we
+should be. So no, it's not a catastrophe
+by any stretch of the imagination. Um
+but you know, there's more than a hint
+of stagflation in the numbers we saw in
+the first half of this year looking at
+it together. It was something Jason that
+Bob Michael was talking about. The key
+question for a lot of people is how big
+is the stag and how big is the
+inflation? What are you looking for to
+determine uh the answer to that
+question?
+&gt;&gt; Look, one of the confusing signals here
+is the disconnect between GDP growth,
+which has been weak. It was even
+negative in the first quarter, although
+some of that I think was furious
+measurement issue. um and the job
+market, which if you look at the
+unemployment rate, which Jay Powell
+rightly emphasized yesterday, um has
+held up um quite well. And you know, you
+see consumers cutting their spending
+back, but continuing to get jobs,
+continuing to get raises, and that on
+the stag side of the ledger, um is
+making things even more unclear. Well,
+on the inflation side of things, right
+now there's a question about the trickle
+out effects of the tariffs, whether
+we've seen the ramifications yet. A lot
+of economists have been saying wait
+until the third quarter, wait until the
+fourth quarter and see exactly how
+companies really manage through this.
+Who do you think is a good example or is
+there an industry that you think is a
+good example that might have given us an
+early look at how this trickles out and
+what consumer receptivity is to
+absorbing those price increases?
+Look, some of the lowest margin
+businesses like toys, um, you see that
+passed on very quickly. Um, at the other
+end of the spectrum, you have cars where
+you have the president telling them not
+to raise prices. Um, their prices are
+very visible. They've been reluctant to
+do it, but it's not like General Motors
+is going to continue to sell cars at a
+loss indefinitely. Um, they're
+eventually going to have to raise those
+prices.
+&gt;&gt; Jason, do you see this being offset by
+what's developing in services inflation
+at the moment? How are you reading
+what's happening in one side versus the
+other?
+&gt;&gt; Um, I mean, services is continuing to
+come down, but we sort of always thought
+that was going to happen. That was our
+path to 2%. That was the part we were
+counting on. Um, the problem is that the
+goods deflation has reversed and now we
+have goods inflation again. And so, one
+of those I take for granted. It doesn't
+seem to me like the news. The other one,
+the good side, that's the unpleasant
+surprise here. Now, the idea that it's
+transitory is not at all crazy. I think
+there's even a very good chance it's
+true. But if you're the Fed, do you want
+to bet everything on a very good chance
+when you're definitely not sure?
+&gt;&gt; With that in mind, do you think 2 months
+of data is enough data to draw any
+conclusions before you make a decision?
+&gt;&gt; I mean, you always think that two months
+from now everything's going to be clear
+and then two months from now everything
+is still muddy. So, it's going to be
+muddy two months from now. They're going
+to be getting conflicting data, but
+yeah, maybe it'll be a tiny bit clearer
+than it is now.
+&gt;&gt; I keep going back to the way that John
+opened the show, which was Jay who
+raises the question implicitly about how
+relevant the Fed is at a time of massive
+technological explosion, and we're
+seeing that in the tech earnings. I
+mean, how much does the advancement, the
+investment coming from some of the tech
+giants in the United States overwhelm
+some of this discussion and certainly
+overwhelm the negative consequences from
+the tariffs that a lot of people had
+expected?
+&gt;&gt; It depends what you're talking about.
+Um, if you're talking about the stock
+market, yeah, a lot of what's going on
+in the numerator, which is earnings,
+rather than the denominator, the
+discount rate, is what matters right
+now. Um, if you're talking about GDP,
+we're not seeing a lot of tech, at least
+in the supply side. Frankly, we're
+actually seeing it more in the demand
+side right now. And so, if anything, it
+might be inflationary up front.
+Productivity growth is basically right
+on the track we thought it would be
+prior to the pandemic. So, tech is
+helping the stock market quite a lot.
+I'm optimistic and hopeful it'll help
+GDP, but right now it is uh not having
+any real material impact there. Jason,
+that's a strong final point. We'll leave
+it there. Thank you, sir. Jason Ferman
+there of the Harvard Kennedy School.
+When I say Jay, who I imagine Jay
+himself probably likes it that way. He'd
+probably prefer that we weren't talking
+about him as much as we are.
+&gt;&gt; You mean rather than having the
+president next to you saying, "I'd
+prefer if you lower rates since last
+&gt;&gt; he talked about Zuckerberg and Nadella
+after yesterday." That is the ultimate
+goal. He wants to remain in the
+background because they don't have the
+clarity as does none of us as do none of
+us. Right? So the point is how does he
+not remain the story so that he can just
+take a passive view on exactly how
+things can progress. The relevance of
+Fed policy right now I think is also a
+question given some of these other uh
+drivers of the economy.
+&gt;&gt; You've got the economic story and the
+market story. And in the economic story
+you've got a good story and a services
+story. Two very different stories which
+is why Ford versus Microsoft I find
+absolutely amazing. Ford is really
+relevant for the goods economy, but when
+you're seven basis points of the S&amp;P
+500, you're not as relevant as
+Microsoft, which is about seven
+percentage points. It's a major
+difference between the two.
+&gt;&gt; Yeah, but everyone has a car. Most
+people in this country have a car. So,
+all of a sudden, it becomes very
+relevant from popular opinion and for
+the general uh belief in the economy.
+&gt;&gt; Futures positive at the moment, up by
+0.9% on the S&amp;P. Up next, Daniel Rusker
+of Bernstein with Ford becoming the
+latest company warning of major tariff
+impacts. Plus Danny Burker with your
+morning movers. CBS boosting its outlook
+that stock higher by close to 8%.
+[Music]
+Live from New York City this morning.
+Good morning. Bremo's impressions this
+week on the money. Where are these
+coming from?
+&gt;&gt; I just, you know, it's bubbling up. I'm
+going to try to put them back in because
+messages the last few days about
+&gt;&gt; I know. I know. It's a mess. Okay, let's
+move on.
+&gt;&gt; Yeah. Not bad. Okay, futures positive on
+the session. We're up on the day, up on
+the week, higher on the month as we
+close out July. Equity futures up by
+0.9% on the S&amp;P on the NASDAQ up by 1.2.
+With your morning movers, is Danny. Hey
+Danny.
+&gt;&gt; Hey, John. It's hard to look anywhere
+else but here this morning. And that's
+after the results of Meta and Microsoft
+and the huge rally that we are seeing
+pre-market 11.7 for Meta. For Microsoft,
+it's 8.3. The spending continues. Gone
+are the days where we dislike tech
+companies being capital inensive
+companies. instead commitments of tens
+of billions of dollars and Microsoft
+joining the rarified air if this gain
+holds of being worth more than $4
+trillion. We also had some other
+earnings this morning. CVS being among
+them. It is a raise in guidance for
+profitability from CVS. That's sending
+shares higher by an eight and a third
+outperformance of their pharma unit,
+their health insurance unit. Some of the
+other industry has seen some issues with
+higher cost than expected, but it seemed
+that CVS dealt with that in 2024 has
+moved beyond that for 2025. Also heard
+from Comcast this morning. For them, it
+was a lower loss than expected for their
+broadband customers. Of course, that's
+the bulk of their business, so that sent
+shares higher. Also seeing good results
+when it comes to their media business.
+They are splitting some things off in
+their cable business, but specifically
+Peacock that they're holding on to
+getting closer to reaching
+profitability. Uh, I guess thanks to
+shows like Yellowstone and Love Island.
+John,
+&gt;&gt; Danny, thank you. I don't watch Love
+Island. I do watch Love Island. Danny,
+thank you.
+&gt;&gt; Would you like to share some impressions
+of it?
+&gt;&gt; The UK version. I've got no impressions.
+Okay.
+&gt;&gt; I wouldn't like to do that to to my
+fellow Brits.
+&gt;&gt; That would be unfair.
+&gt;&gt; Oh, yeah. I'm sure you'd ever do that at
+home.
+&gt;&gt; On a radar this morning, Meta and
+Microsoft surging in early trading. Both
+tech giants pledging to spend lavishly
+on AI following blowout quarters. Tech
+results continue after the closing bow
+with Apple and Amazon.
+&gt;&gt; Yeah, it just shows that people were
+saying the bar is pretty high. Can they
+cross it? And then they leapt across the
+uh uh the actual uh protocol that people
+were looking for them to show. Key
+question is there are two different
+stories. Meta has an advertising
+business. They can raise prices on their
+advertising because of how well they can
+target some of those ads. The promise of
+that is fueling some of their hopes and
+dreams for something even greater to
+diversify their business. Microsoft it
+just is a cash cow. It is just shocking
+to see a 39% growth in their Azure
+business. And so that's the reason why
+people are cheering some $330 billion of
+expected spend for the hyperscalers just
+this year alone. What's interesting for
+me are the stocks that are moving on
+this and the stocks that aren't. So, off
+the back of this, Amazon's doing well.
+Nice read through. Apple's not moving.
+Apple is on an island. Nvidia is doing
+well this morning. Nvidia, if you think
+about what the bullcase for Nvidia rests
+on, it's the patience of the investors
+in their biggest customers and they have
+a very very concentrated customer base
+at Nvidia. And basically what these
+companies learned overnight, what we've
+learned as investors in these companies
+is they've got a green light to keep on
+spending. Keep spending on what? The
+likes of Nvidia.
+&gt;&gt; Yeah. It's a tale of two techs, right?
+And you've got the chip sector and the
+AI sector tied to the cloud computing
+and some of the other generative uh
+intelligence that a number of different
+companies are really uh pegging their
+hopes on. Then you've got the Qualcomms
+which really speaks to the Apple story
+which came in disappointing because
+people are not buying that many
+handsets. the the phone recycle, the
+super cycle just hasn't happened. And I
+think people kind of are realizing they
+might be in isolation from one another.
+&gt;&gt; Two mag seven stocks do not look like
+the others and that's been the story so
+far this year. The other story for me as
+well is what happens with the labor
+market, Lisa. And I think increasingly
+we need to be thinking about that. You
+can have this dynamic in the equity
+market where the big players are doing
+really well, pushing AI, doing
+fantastically, and you can have adverse
+effects developing in the labor market
+at the same time. that can go in either
+direction for a while. At some point,
+some real tension starts to bring.
+&gt;&gt; Yeah. And this, I think, is what people
+are looking at. The idea that you could
+end up having some sort of positivity in
+the equity market at the expense of the
+labor market. We're seeing some signs of
+that this morning with uh what we're
+getting in terms of the job cuts
+announcements from Challenger Gray and
+Christmas. Basically, uh a huge spike in
+layoffs. We can get into this later, but
+really a lot of firms citing artificial
+intelligence as a reason for that. And
+that I think is one thing we have to
+keep watching.
+&gt;&gt; Could be a big story. Tomorrow morning,
+8:30 Eastern time, payrolls just around
+the corner. Here's the latest on trade.
+President Donald Trump announcing new
+levies, including a 15% tariff rate for
+South Korea and 25% for India. Sources
+telling us here at Bloomberg. The
+president is planning to speak with the
+Mexican president Claudia Shinbam today
+ahead of his August 1st tariff deadline.
+&gt;&gt; Yeah, really interesting to me. India,
+and we've talked about this, but I think
+it's important to keep coming back to
+this. It was a a real surprise and not
+in a good way for India to get 25%
+rather than 19%. With the extra hair
+that they need to really do something
+about the relationships uh with Russia
+and China with Mexico, it might be even
+more fraught because of the
+interdependency of these two nations. So
+I I'm very curious to see who has the
+preferred treatment of 15% which is
+shocking that it's not 10%. Uh and who
+gets something a lot more punitive.
+&gt;&gt; In some ways this tariff deadline
+doesn't apply to Mexico and Canada.
+You've got to renegotiate USMCA. That's
+not happening overnight. That's not
+happening in the next 24 hours.
+&gt;&gt; Yeah. Which is a reason why maybe people
+are putting that off. But I wonder what
+the ramifications will be for some of
+the key industries that depend on these
+two countries is just faith that there
+will be some sort of agreement reach.
+&gt;&gt; Just finally, one further story. This
+coming from the Wall Street Journal in
+the last 24 hours. The president and the
+JP Morgan CEO Jamie Diamond catching up
+face to face. sources also telling us
+here at Bloomberg the pair resumed
+direct talks back in June discussing the
+economy and Fed rates in a private
+meeting at the White House just last
+week.
+&gt;&gt; Yeah, look, it pays to be close to the
+president and there has been sort of a
+tepid relationship between these two men
+with some dueling kind of tense tweets
+and truth socials and comments and all
+of that. Uh, at the end of the day
+though, it's clear that President Trump
+has respect for Jaime Diamond and Jaime
+Diamond, who has traditionally said he
+is always open to have a part in policym
+of any sort and has often had a close
+relationship with different government
+officials, uh, sees the benefits of
+having a closer connection in that
+front.
+&gt;&gt; Breaking news, I have nothing snarky to
+say about this. Okay, that's at all. I
+just think it's a good thing. It's a
+good thing that the CEO of the biggest
+bank in this country is speaking to the
+president of the United States about
+major issues.
+&gt;&gt; I couldn't agree more. somebody who has
+a real-time experience in what's
+actually happening in the economy and
+have that mouthpiece in front of the
+president just like Jensen Wong having a
+real view I think is is unabashedly a
+positive thing.
+&gt;&gt; They're the kind of individuals that you
+want to have influence would want to
+have influence over this administration
+for sure. Let's turn to the autos. Ford
+is the latest automaker warning us
+profit will take a hit from tariffs.
+Daniel Rusker of Bernstein has an
+underperform rating on Ford shares
+writing the following second half market
+strength and tariff offsets remain
+critical to hitting fullear targets.
+Daniel joins us now for more. Daniel,
+good morning. Hey,
+&gt;&gt; we know the rules of the road now to
+some degree.
+&gt;&gt; Who's in a good spot at the moment?
+&gt;&gt; Nobody. Uh I think it's very clear that
+tariff headwinds have started. They're
+not going away. They're going to get
+worse. Um and it's also clear from the
+earning cycle we have that automakers
+are not going to be able to offset this.
+So there will be the pressure on
+automakers to raise prices as we go into
+the second half.
+&gt;&gt; So you don't think this is going to be
+absorbed on margin? Margins aren't big
+enough. Is the bulk of this going to be
+passed on?
+&gt;&gt; Uh I think again half. Right. If we
+think about it and what the companies
+have said, they're looking at kind of
+tweaking production footprint a little
+bit, but you can't really move all those
+assets quickly. They're thinking about
+cost reductions, which I would say they
+can do anytime anyway. And then they're
+thinking about raising prices. Um Ford
+had an interesting take that they also
+want to focus on mix and push higher mix
+into the second half and I think both
+better pricing and better mix depend
+very much on the health of the consumer.
+&gt;&gt; How much is this a problem of the auto
+manufacturers's own making and how much
+is this an issue of tariffs that
+disrupted a really positive cycle for
+some of these auto manufacturers? I
+think it's a combination of both, Lisa,
+where I mean overall I think the economy
+as we got into this year was kind of in
+a midcycle state and wondering where to
+go and now we're all waiting kind of for
+the shoe to drop when these prices
+filter through and hit the consumer. At
+the same time, the automakers, remember,
+were coming off of this sugar high
+through COVID where there was a lot of
+supply constraint and they were still
+adjusting to having lower prices and now
+they had the prices go down over the
+past couple of years and now we've got
+this extra cost pressure just coming
+into their business.
+&gt;&gt; Yeah. Well, we see uh this question
+around where some of them are going to
+actually produce their vehicles as well.
+John was talking about Mexico and the
+questions around Mexico and Canada. That
+has been the latest supply chain dour
+that a lot of these auto auto
+manufacturers have relied upon. How
+independent can they be to rely on
+domestic factories to engage with robots
+to potentially uh fortify some of their
+production lines in a way that makes
+them more immune to some of these
+changes.
+&gt;&gt; I had a really interesting conversation
+with Jim Farley from Ford yesterday and
+we talked about kind of the long term.
+Where does all this lead? And what he
+said is he believes that we'll go not
+just into regional product categories.
+So cars for Asia, cars for Europe, cars
+for the US, but also regional production
+um kind of ecosystems and that import
+export will decrease over time and each
+region with its own emission standards
+and production ecosystems will kind of
+develop on its own. And for the US, it's
+going to be critical how they will
+phrase USMCA. And from what we've heard
+over the earning cycle, I think there's
+a lot of engagement with the
+administration how to ensure US
+manufacturing, but also enable the
+components from Canada and Mexico that
+are relevant to make this industry work.
+&gt;&gt; Daniel, I just want to extend and build
+on the conversation you had with Farley
+and think about what that could mean for
+some manufacturers here in the United
+States. Do they just give up on China?
+Do they just exit the region? Where does
+it leave Europe? Where does it leave the
+product mix? Do they give up on EVs in
+certain places? How do you think this
+plays out? I think strategically OEMs
+will need to decide which region do I
+want to play in. And we've talked about
+this before on GM where I think GM will
+exit China ultimately. Um Ford is in a
+position that they have a stronghold in
+Europe. They have a stronghold in the
+US. And what Farley also said yesterday,
+the way I think he sees it is they will
+develop their platforms and cars for the
+US market. And that's that means bigger
+cars, less EVs. and internationally he
+said they will rely more and more on
+working with partners. So they'll go to
+Volkswagen and they'll work with
+Volkswagen to use their technology for
+the European market.
+&gt;&gt; Do we end up spending more on cars as a
+result of all of this?
+&gt;&gt; Yes, definitely. Um but I think there's
+a difference in the medium or kind of
+the next three four quarters in the long
+term. The next three four quarters will
+be really tough because there really
+isn't any other way to offset the tariff
+cost than pricing. very long-term the
+administration has just initiated a lot
+of changes on emissions and that has the
+potential to take billions of cost off
+the table for the US manufacturer. So
+that's in the let's say 12 24-month time
+frame that's a really good trade-off
+where maybe a US manufacturer needs to
+accept to pay more but gets some relief
+on emissions. Just on your point about
+USMCA and just to sort of pay attention
+of what to look out for later today when
+we hear from Claudia Shinbam and Donald
+Trump and their phone call. How much
+have the components coming into the US
+from Mexico and Canada come from China
+ultimately? How much is this sort of the
+back door and they're really a
+fundamental problem that's going to make
+it difficult to continue with that type
+of supply chain? the overall content um
+of Chinese origin in US cars is below
+5%. It's not large. But what does happen
+is you do get some chips, some wires,
+some parts that come from China into
+Mexico, get built into components, and
+then those components get shipped to the
+US as long as you can make those chips
+cheaper somewhere else. I would question
+why not. And I would also question
+whether the administration really wants
+parts manufacturing in the US. I think
+that's challenging with the high labor
+cost. or whether it wants to focus on
+automotive manufacturing and my view
+would be that the administration will
+look very closely how to treat parts and
+cars coming from Mexico differently. Can
+we just finish on one company that we
+haven't mentioned? Stalantis. Let me go
+through some of the brands. Alfa Romeo,
+Dodge, Fiat, Jeep, Lancia, Maserati.
+Then you've got all these European names
+as well that a US audience might not be
+familiar with. When are they going to do
+something about this? We've been asking
+the seauite of Stalantis about this now
+for years. When are they going to fix
+it?
+&gt;&gt; The question is, is this something you
+need to fix? What they are doing is they
+are harmonizing the technology platform
+all these brands work on and you build
+the same car and you paint it red, green
+and blue and put a different badge on
+it. It'll take them another four to five
+years to get to that point but that's
+the strategy. I cannot see the new CEO
+who's been with the company for decades
+now really change that strategy. Um, and
+so I think they're going to continue
+with this multibrand environment, but
+they're going to streamline the
+operations that underpin those.
+&gt;&gt; Do you think it's a good strategy?
+&gt;&gt; I think it's a strategy available to
+them, right? We're not in a world where
+you can just throw away decades of
+capital spending and build the OEM you
+like. So if I think about it, what do
+they need to do? This is what they need
+to do. They need to do it faster and
+better and they need to come to terms
+with their new strategy in the US.
+&gt;&gt; Daniel Ruska of Bernstein. Daniel, thank
+you, sir. Appreciate it. Diplomatic
+there on Stalantis as you might expect.
+&gt;&gt; I love it. You just, you know, paint all
+the cars different and one is a maroon
+Dodge and one is a silver Maserati.
+&gt;&gt; Not quite the same, is it?
+&gt;&gt; That might be a problem.
+&gt;&gt; Just saying.
+&gt;&gt; Let's get you an update on stories
+elsewhere with your Bloomberg brief.
+Here's Yahara. Hey, Yah.
+&gt;&gt; Hi, John. President Donald Trump
+announced the massive exemption on his
+50% tariff on copper imports, unveiling
+refined metals that are the main stay of
+international trading will be spared
+from the levy. The move triggered a
+record plunge for US copper prices. As
+you can see, meanwhile, at least two
+dozen people were taken to hospital
+after a Delta Airlines flight
+encountered severe turbulence that
+forced it to make an emergency landing
+in Minneapolis. And according to the
+airline, the plane was less than an hour
+into its 9-hour flight from Salt Salt
+Lake City to Amsterdam when the pilots
+encountered very challenging conditions.
+And former Vice President's Kla Harris
+said she will not run for governor of
+California next year. According to a
+statement, she said she loves the state
+and its promise, but after deep
+reflection, she's decided she will not
+run for governor in this election.
+Harris's decision of course leaves the
+door open for a third White House bid.
+That's your Bloomberg brief. John
+&gt;&gt; Yhara, thank you. Thank you very much.
+More from Yahihara in about 30 minutes
+time. Up next, double descent.
+&gt;&gt; We had two denters who I think you know,
+you you want that clear thinking and and
+and you know, expression of of your
+thinking and we certainly had that
+today.
+&gt;&gt; Up next on the program, we'll catch up
+with someone who knows about dissenting,
+the former Kansas City Fed President
+Esther George. Live from New York City,
+you're watching Bloomberg TV.
+[Music]
+The gains continue up by 0.9% on the
+S&amp;P. On the NASDAQ, higher by 1.2 on the
+Russell. No big tech on the Russell. The
+small cap's down by 0.6. And here's the
+why. This move in Meta. Here's two W's.
+This move in Microsoft, Microsoft up by
+8%, Meta up by 12. And it comes on the
+heels of a lot of spending uh promised
+for the remainder of this year and an
+acceleration next year. And the idea
+that it's truly paying off whether it's
+an advertising prices where they can
+charge more for their clients or whether
+it's cloud computing where people are
+lining out the door saying please give
+us more, please give us more. And they
+got to build it and they are already
+there. Not let alone will come. Huge
+turnaround in this equity market over
+the last 24 hours. Equities down on the
+Fed meeting, higher off the back of
+these earnings after the bell. More
+earnings to come out and surveillance
+this morning. Double descent
+&gt;&gt; on the descents. You know what you what
+you want um from everybody and and also
+from a dissenter is a clear explanation
+for of what you're thinking is and what
+are the arguments you're making. And
+that's we had that today. We had two
+dissenters who I think you know you you
+want that clear thinking and and and you
+know expression of of your thinking and
+we certainly had that today. So here's
+the latest this morning. Fed chair J Pal
+doubling down on the decision to hold
+rates steady after the Fed's biggest
+descent in over 30 years. Joining us now
+to discuss is the former Kansas City Fed
+President Esther George. Esther, welcome
+back to the program. I remember your
+descent in 2019. I remember your descent
+I think it was in 2022. You've got some
+experience. Can you describe for us what
+it's like entering the room, the
+committee has a conversation and you
+say, you know what, I disagree. I think
+we should be going in a different
+direction.
+&gt;&gt; Well, it's a it is part and parcel of
+decision-m in a large committee in my
+view and you approach those uh
+conversations, those decisions in a way
+that I think is respectful of what
+you're hearing around the table that
+you've taken into account. I agree with
+the chairman. You want to you want to
+acknowledge that you are listening uh
+and understand what the arguments are
+but at the end of the day decisionmaking
+is difficult and I would argue it is
+particularly difficult in times when the
+read of the data is not so clear across
+the table and I always felt it was um as
+much an obligation to the public to
+express those views to be respectful
+again of what you've heard but at the
+end of the today to really voice uh how
+you see the economy and the appropriate
+stance of policy.
+&gt;&gt; We saw a pretty big divide represented
+by the views of uh of Fed Governor
+member uh Chris Waller as well as Fed
+Chair Jay Powell. Both have a very
+different view of the labor market and
+John's been really good about
+accentuating the point that we only have
+two months of data. Do we have enough
+time to really bridge that gap between
+the two men to really understand whether
+this labor market truly is stable and
+solid or whether there are cracks?
+&gt;&gt; Well, I heard earlier a comment on your
+program that talked about each time you
+finish up one meeting and think you have
+plenty of time to see the data for the
+next. That is never conclusive. you will
+always face uncertainty around what the
+data is telling you and whether the
+trends you're relying on are about to
+shift or whether they will continue and
+so that of course is going to be the
+focus in bringing these two views to
+some kind of consensus. I'd be surprised
+if two months resolves that but
+obviously both will be looking very
+carefully to uh try to reconcile how the
+economy is unfolding by that time. Is
+your sense that there's quite a bit of
+disagreement on the ending point?
+Because certainly on Wall Street there's
+a great deal of uncertainty about
+whether the neutral rate is something
+closer to 4% or whether it's closer to
+3%. Do you get the sense that there's
+that type of disagreement just among Fed
+members?
+Well, at some level, Lisa, it is
+absolutely uh the issue at hand because
+when you are trying to specify your
+policy, when you're trying to describe
+it, particularly after a time when you
+brought down rates by 100 basis points,
+trying to calibrate around what is an
+equilibrium, what should we be expecting
+that the endgame is? And so you see that
+in a long run sense in the dot plots.
+But of course for any given stage in the
+economic cycle, you'd be very hardressed
+to know exactly what you're looking for.
+So that I think at the end of the day is
+really the question. Is this mildly
+restrictive policy? Is it restrictive?
+Is it not restrictive at all relative to
+the outcomes we're getting? Is is at the
+heart of what the committee is debating.
+There seems to be disagreements on both
+sides of the mandate, Esther, not just
+on the inflation story, but also on the
+labor market. We have payrolls tomorrow.
+We've heard from Governor Waller. He was
+pretty explicit. He came on this program
+and said the same thing. He thinks the
+labor market is on the edge. That was
+like day and night compared to what we
+heard from Chairman Pal yesterday when
+he talked about the labor market and the
+committee continues to call it solid.
+Can we get your opinion how you view the
+labor market at the moment and whether
+you'd characterize it as solid?
+Well, I think this is a labor market
+that's shifting and obviously in a macro
+sense this is a committee that is making
+macro policy has to rely on a macro
+number which the chairman said is going
+to be the unemployment rate. So in that
+sense they have explained clearly in the
+in a broad sense what they're looking
+at. As things move around though,
+underneath the covers of that
+unemployment rate, I think you have to
+be mindful that the Fed's reaction to
+that cannot be a direct response. In
+other words, if you're going to lower
+rates thinking you will arrest the the
+changes that are going on under the
+covers, not likely to happen. And so in
+a time when your backdrop is coming off
+of high inflation, trying to get back to
+that 2% target, it creates this wait and
+see. It creates a real sense of having
+to have conviction around the next move
+in your policy rate to know what you are
+responding to.
+&gt;&gt; Esther, thanks for sharing some of your
+experience with us this morning. We
+appreciate it. Esther George, the former
+Kansas City Fed president who, as we've
+said, knows something about dissenting
+in both directions. By the way, in 2019
+and in 2022,
+&gt;&gt; yeah, robust discussion at times of
+economic crossroads where there is just
+a great deal of uncertainty. You said
+something earlier and I've been thinking
+about it. Isn't it a good thing for us
+to be saying, Jay, who isn't this the
+objective of uh Fed Chair Jay Powell and
+I would argue if you take it even step
+further, how nice it is to have a market
+that is not driven entirely by the Fed.
+I remember those years of financial
+repression where every single uh market
+participant said, "Don't fight the Fed."
+That's no longer on anyone's lexicon.
+We're all looking at the earnings. We're
+looking at specific stories. We're
+looking at technology. Isn't that the
+way it's supposed to be?
+&gt;&gt; I think we all wanted to leave behind
+the era of superstar central bankers.
+The Banankis, the Dragis, someone I have
+a great amount of respect for. The
+Carnis, another man I respect, but
+ultimately we don't want to be talking
+about central bank leaders again and
+again and again as if they are to borrow
+Muhammad's phrase, the only game in
+town. And I think we are in a situation
+at the moment where they quite simply
+for this market and maybe for the
+economy too are no longer the only game
+in town.
+&gt;&gt; We're shifting from financial
+engineering to something that feels a
+little bit more real and frankly more
+physical in terms of the real economy.
+&gt;&gt; Up next on the program we'll catch up
+with Gagi Chadri of Black Rockck Pyick
+of Lightshed Partners, Jonathan Pingle
+of UBS and Mark Layman of Citizens JMP
+Securities.
+[Music]
+The investment story in AI is is real
+and it's going to be significant.
+&gt;&gt; Once again, AI capex plans are actually
+exceeding expectations.
+&gt;&gt; The market is pricing in some idea that
+you you are going to get that broadening
+of the AI benefits. AI is a watershed
+event on the timeline of of technology
+and we believe that this flows through
+all 11 sectors. AI has the potential to
+be the biggest productivity enhancer for
+the global economy since electricity.
+&gt;&gt; This is Bloomberg Surveillance with
+Jonathan Pharaoh, Lisa Abramowitz and
+Ann Marie Hordern
+&gt;&gt; live from New York City this morning.
+Good morning. Good morning. The third
+hour of Bloomberg surveillance starts
+right now. Your opening bell is 90
+minutes away. Your scores look like
+this. Secondary futures positive up
+nicely on the S&amp;P by 0.8 on the NASDAQ
+up by 1.2. Thank you Meta. Thank you
+Microsoft. These two names right here.
+Meta up by 12%. Microsoft up by nine.
+Think about four names that make up 20%
+of the S&amp;P 500, 11 trillion of market
+cap. Two names down, two names to go.
+After the bell today, after the closing
+bell, you'll hear from Apple and Amazon.
+Big tech report. So far so good. So far
+so good. Today might be a little bit
+different given where expectations are
+coming in and the sort of tale of two
+techs that we've been talking about all
+morning. Yes, the hyperscaler is doing
+really well and Amazon probably can fit
+in that bucket given the fact that AWS
+their uh their cloud computing business
+really does drive their revenues.
+Apple's going to be the interesting one.
+They deal in stuff and their stuff isn't
+purchased as much. They've got the China
+overhang. They've got the manufacturing
+questions and they have the AI adoption
+that hasn't come to fruition. in the
+same kind of way. That is going to be a
+real wild card and otherwise a tech
+bonanza
+&gt;&gt; and they've got a whole bunch of
+problems. That's for sure. That stock is
+down by double digits so far this year.
+But Microsoft, Meta, the numbers are
+absolutely amazing. When you're spending
+this much cash, you need to start
+demonstrating to investors that you're
+starting to see growth off the back of
+it. That's exactly what they did and
+some. The bar was already high. They
+hopped over it. And that's the reason
+why the likes of Meta is demonstrating
+that actually when it comes to things
+like advertising, guess what? They can
+charge more if those advertisings
+advertisements are 10 times more
+effective and can target people in a way
+to get them to actually spend their
+dollars. It points to the concept of
+what a moonshot some of this
+technological development could be for
+the economy, for corporate
+profitability, for efficiency. And
+whether this is going to be inflationary
+or deflationary, the fact is how do you
+price in something that is a moonshot
+and it's on this kind of scale. And I
+think that's the reason why people have
+been grappling with the importance of
+things like policy shifts. Uh whether
+it's the Fed or whether it's the
+president.
+&gt;&gt; Lots of earnings coming up this
+afternoon. Some data as well later this
+morning 8:30 Eastern time. Jobless
+claims. Then on to tomorrow, payrolls.
+The payrolls report just around the
+corner heading into the weekend. Coming
+up this hour, we'll catch up with Gagi
+Chowry at Black Rockck following strong
+tech earnings. W Pisik of Lightshed
+Partners previewing results from Apple
+and Jonathan Pingle of UBS reacting to
+this morning's data. We begin this hour
+with stocks rising on better thanex
+expected earnings from big tech. Gaga
+Chandry of Black Rockck writing AI and
+tech continues to lead here pushing back
+on the broadening out narrative yet
+again as underpinned by strong beats
+from Meta, Microsoft and Google. Gagi
+joins us now for more. Gagi, good
+morning.
+&gt;&gt; Hi, good morning.
+&gt;&gt; Just phenomenal beats from these
+companies. How difficult is it to leave
+the US behind and just pile into this
+Europe trade, pile into this everything
+else trade? You know, one of the things
+that we've been uh talking to clients
+about is the need for diversification,
+but at the same time not giving up on
+the US tech AI theme. And I think to
+this to the extent that investors have
+not had any international exposure,
+massively underweight for those
+investors, having some exposure to
+quality international names does make
+sense. But so important, as was made
+evident by yesterday's earnings,
+what you need in your portfolio is parts
+of the equity market that are continuing
+to have revenue growth, continuing to
+throw out amazing amounts of free cash
+flow. And Jonathan, I think you made
+that point earlier that we're finally
+getting a a ROI on all of the capex that
+has gone in over the last year and we're
+seeing the world's largest companies
+growing revenue at in you know the high
+double digits which is amazing.
+&gt;&gt; In some ways the least interesting thing
+about this week is tariffs and the trade
+deadline. Now if you'd asked me back on
+April back in July whether that would be
+the case July 9th going into that
+deadline I would have said what are you
+talking about? terrace is like the
+story. Do you think that's going to
+reassert itself in the months to come?
+&gt;&gt; I think we're all and I know I follow
+your show, you're focusing in it in it
+as well. Obviously some of the headlines
+yesterday around copper around India
+tariffs those idiosyncratic stories are
+going to drive certain markets and
+eventually in time when we realize what
+the landing zone of tariffs will be
+whether that's closer to a 15% or a 20%
+eventually we will see that feed through
+and we already kind of seeing that in
+goods inflation certain components of
+goods inflation. So it will appear it
+won't disappear it will appear in data
+and it will appear in margins or it will
+appear in certain uh foreign companies
+reducing their prices. Uh but as of
+right now I think the bigger theme is
+the two things. number one the ROI on
+capex coming through and large cap tech
+really large cap tech and AI really
+being the story that's going to propel
+US exceptionalism forward and I think
+the second one which is also less
+exciting this morning which is that the
+Fed while I think they were quite
+hawkish they're still telling us in
+their own way that if things wobble
+especially on the unemployment rate
+front they are here to start cutting
+rates and I think that's something else
+that the uh market will eventually care
+about as well.
+&gt;&gt; When you put these stories together,
+there's sort of this uh big question
+underpinning the market. When are we
+going to get the trickling out of some
+of the benefits that the hyperscalers
+are experiencing to the rest of the
+market? When are you going to see a
+broadening out where their leadership
+isn't just a ballast amid a storm, but
+really something that is driving gains
+in efficiency and profitability across
+across corporate America? How far away
+from that are we? So I think depending
+on what people mean when they mean
+broadening out, I would argue you're
+seeing some and then at the same time
+you're obviously continuing to see the
+largest companies throw out the largest
+revenue growth. So when I say there is
+some amount of broadening out, I would
+say when you look at something like
+financials, when you look at different
+sectors or subsectors within the equity
+market this year, you are seeing more of
+those sectors being in positive
+territory. That could be called one that
+could be one way of thinking about
+broadening but at the same time
+obviously you have the largest
+hyperscalers being the largest revenue
+growers and I think that that probably
+pushes back against the broadening out
+narrative. I think the theme is clear.
+It is one of moving away from small cap
+unprofitable companies to large cap
+quality companies and that's what we've
+been talking about and many you know you
+guys have been uh having a lot of people
+on your show that have talked about that
+theme of large cap perhaps it doesn't
+feel as comfortable to talk about it if
+we've also talked about it last year but
+it's still working and it will continue
+to work. I think the theme going forward
+for the next six months is finding
+pockets of diversification in your
+portfolio in addition to this AI and
+tech trade. International plays a role
+there. Fixed income plays a role there.
+Assets like inflation link bonds, gold
+and certainly market neutral strategies
+that aren't giving you too much beta but
+at the same time giving you alpha make
+sense.
+&gt;&gt; International plays a role and John was
+alluding to this earlier. There was this
+belief that international was going to
+outperform the US earlier this year and
+it did and a lot of it was pegged to the
+dollar and what we saw the weakening.
+There's been a huge and violent about
+face. Do you think that there is staying
+power where the first half was the rest
+of the world and the second half is back
+to US exceptionalism?
+I think that uh a lot of that violent
+move that you mentioned was very much
+around the dollar underperformance and
+obviously with July with the dollar
+coming back rallying back has led to a
+little bit of that reversal. I think the
+path forward a big part of that story
+will be what happens with the dollar.
+Frankly, what what we're seeing in flows
+and what we're seeing when we pull our
+investors and our clients is a
+recognition of the need to diversify
+away from uh large cap because that's
+all they have. Not because it's not
+going to generate returns but because
+there is a need for getting that value
+component into portfolios and getting
+that from international to the extent
+not just US investors but global
+investors continue to move away from US
+into going back to their home countries.
+So we look at European investors and
+APAC investors and many of those
+investors are just being a little bit
+more diversified away from the US. To
+the extent that happens, I think that
+the international story can certainly
+have some legs, but not at the expense
+of US large cap quality and growth.
+&gt;&gt; Let's just sit on the US. When you said
+diversify, you said diversify the
+equity. So, if I'm in the US right now
+and I diversify my equity exposure to
+the international story, given where we
+are right now with the dollar, is that
+something I need to currency hedge?
+&gt;&gt; You know, that's an interesting
+question. Like a lot of right now the
+view for our firm is still that the
+dollar can continue to depreciate.
+Usually what we've seen is that the
+dollar depreciations happen in these
+long cycles. It's not just for one month
+or a week. It happens over many months
+18 to 24 months and we're just in the
+beginning of that. In that case
+obviously you want some of those foreign
+exposures. You want that exposure to
+some of the uh you know EM as well as DM
+currencies. Fixed income though is
+another story, right? So, usually what
+we've seen our clients do is in fixed
+income allocations, not necessarily
+taking the FX risk, actually hedging it
+back into US dollar for that enhanced
+yield. And that's something that, you
+know, some of our portfolio managers,
+especially in fixed income with products
+like bank, are doing taking advantage of
+the hedged cost for European and other
+area credit markets. Gagi, appreciate
+it. It's good to see you. Thanks for
+breaking it down. Gagi Chowry there of
+Black Rockck on your equity market
+worldwide and a little bit of cross
+asset as well. Can you remember a day
+after the Fed where we talked this much
+about the Federal Reserve and by this
+much I mean this little.
+&gt;&gt; All I can say is it's a victory. So
+congratulations. You can do a victory
+lap Jay Powell for us talking about Joo
+and talking about anything else but the
+Fed. Maybe this is the way it should be.
+&gt;&gt; He can thank Satia and Mark. Let's be
+very
+&gt;&gt; the Fed chair Satia and Mark. I do think
+that they are right now are driving this
+economy.
+&gt;&gt; Thank you very much to them. Let's give
+you an update on stories elsewhere this
+morning with your Bloomberg brief.
+Here's Yahara Arnand. Hey Yhara.
+&gt;&gt; Hi John. The US reached a trade
+agreement with South Korea that will
+impose a 15% tariff on imports including
+cars. It also sets up a major investment
+in American energy and ship building.
+Commerce Secretary Howard Lutnik said
+the deal includes a $350 billion South
+Korean fund for US investments with 90%
+of the profits according to him flowing
+back to the US. Meanwhile, President
+Trump suggesting he won't make a trade
+deal with China with sorry with Canada.
+Trump posting on Truth Social, quote,
+"Canada just announced that it is
+backing statehood for Palestine that
+will make it very hard for you for the
+US to make a trade deal with them.
+Canada faces a 35% levy on imported
+goods if it does not strike a deal by
+tomorrow's deadline. Meanwhile, moving
+on to China, Chinese authorities have
+summoned Nvidia representatives over
+alleged security risks related to its
+H20 chips. The country's internet
+watchdog cited comments by US lawmakers
+about the need to install tracking
+capabilities into advanced chips sold to
+other countries. The move comes after
+CEO Jensen Wong visited Beijing just
+earlier this month. That's the Bloomberg
+brief. John
+&gt;&gt; Yhara, thank you. Thank you very much.
+Shout out to High Yield Harry. OnX
+writing this, it's got a picture of
+Robert Dairo. You're bearish. Every
+large tech company is spending hundred
+billion dollars on AI and you're
+bearish.
+&gt;&gt; That's the problem. And that's the
+reason why nobody is. High yield Harry.
+I hope you're loading up this morning.
+&gt;&gt; I'm sure they're What's Tom? Triple
+leverage long cash. I'm sure sure this
+individual's not triple leverage long
+cash.
+&gt;&gt; Equity futures right now in the S&amp;P up
+by 0.9% big tech performing. Up next,
+we'll get you some morning calls. Plus,
+we'll catch up with Boulder Pisc of
+Lightshed Partners looking ahead to what
+could be a difficult one for Apple from
+New York City this morning. Good
+morning.
+[Music]
+You have the Mag 7 supposed to
+contribute about 2/3 of overall profit
+growth. But then if you look at what's
+driving markets, the Mag 7 are driving
+about 1/3 of overall market action. So
+that's healthy in our view to see that
+markets are still benefiting from a lot
+of different catalysts here, but you
+still have that anchor when it comes to
+the mag 7 and technology to help lift
+the tides a bit. That was Mirror Panda
+at JP Morgan weighing in on the equity
+market. That rally continues off the
+back of tech earnings, positive by 0.9%
+on the S&amp;P, up by 1.3 on the NASDAQ.
+That's the price action. Here are your
+morning calls. First up, Dan Ies of
+Wedbush raising his price target on Meta
+to 920, expecting 2025 revenue growth
+well ahead of its initial estimate. Your
+second call from JP Morgan raising its
+price target on Meta to 875, saying the
+company quote did not miss a beat in its
+core ad business. That stock is higher
+by 11.6%.
+And finally, Key Bank upgrading
+Microsoft to overweight, noting fears of
+its April downgrade haven't played out.
+That stock rallying 8.8% 8% so far this
+morning. Let's stick with tech. Better
+than expected results from both Meta and
+Microsoft setting the stage for more
+Mac7 earnings. Apple, Amazon reporting
+after the closing bell. Ed Ledllo joins
+us now for more. Ed, welcome to the
+program, buddy. It's good to see you. I
+was on the way home yesterday following
+the Fed decision. Saw these headlines
+start to drop on the Bloomberg app and
+just smiled to myself and just thought,
+"Wow, stunning numbers from those two
+players."
+&gt;&gt; Yeah, they really are. I mean in in
+aggregate across both of them it's a
+very simple equation where all of the
+capital expenditure is justified by the
+topline growth and they gave sort of
+more granular detail that it directly
+relates to AI. You know the Microsoft
+print was very interesting because for
+the first time they told us how much
+revenue they actually book from Azure
+cloud in fiscal 25 which was the fiscal
+year that just ended $75 billion. Now
+that puts them at a pretty distant
+second place in the cloud market to
+Amazon who had um in the same period
+revenue for AWS of $112 billion. But it
+shows like this is going in the right
+direction and you know they Microsoft I
+would say you know in my relatively
+brief career gave us more information
+about how people are using the
+technology the different kinds of
+customers and how they pay for it um
+than we've seen for some time and then
+meta just an astonishing set of numbers.
+I don't know even really where to go
+with them other than that that that they
+they beat across across the board and
+then told us something that we haven't
+seen for a very long time. They told us
+what they're going to do next year in
+2026 which in tech, you know, there's no
+crystal ball, but that was uh something
+that many investors did not have on the
+bingo card.
+&gt;&gt; Ed, thank you, sir. Ed Lllo, looking
+forward to the program later on this
+morning, 11:00 a.m. Eastern time for
+Bloom Technology with Ed Ladello and
+Caroline Hyde. Then this afternoon,
+they're going to be busy again. Apple
+and Amazon just around the corner. Walt
+Pisik of Lives Shed Partners has a
+neutral rating on Apple. He came out in
+front in the last few months or so and
+said the tech giant should also consider
+a new CEO. Walt joins us now for more.
+Well, welcome back to the program. Let's
+talk about what you're expecting from
+Apple later on this afternoon.
+&gt;&gt; Well, first Jonathan, I just want to
+comment on your last segment. The two
+things about those highmoving stocks is
+that they're investing in AI and that's
+really the issue that we have with Apple
+in terms of the quarter. Um, you know,
+look, there's a pull forward, right?
+Trump had had announced tariffs. I think
+people went out and bought iPhones ahead
+of time. We've already seen this
+commentary out of the major distribution
+channel for Apple, which is the wireless
+operators, Verizon, AT&amp;T, T-Mobile, and
+others. So, you are going to see a pull
+forward of iPhone revenue this quarter.
+So then the question as it always is for
+Apple is you know what is the guidance
+for next quarter but again that's that
+focuses on I think you know the near
+term where what investors are really
+wanting to know to know about is what is
+the AI strategy for this company for the
+long term because clearly the companies
+that are succeeding in the markets today
+and and seeing investor dollars flow
+into them are those that have a clear AI
+strategy. Well, this just points to the
+idea that we might see uh their expense
+costs go down because they've lost a
+couple of pretty high-profile uh AI
+technicians and strategists to the likes
+of Meta, which is offering 100 billion
+dollar payouts. I just wonder how
+important it's going to be for investors
+to see spending by Apple to see that
+they are working on getting back some of
+that promise from this latest
+technology.
+&gt;&gt; I mean, there's two lines of spending.
+You have capital investment where
+they're investing in the stuff that
+supports an LLM. It's probably too late
+for Apple to do that now. But there's
+another line of spending and that's R&amp;D
+and and which is over $30 billion a year
+that the company invests. In the old
+days when they would have analysts on
+that would ask tough questions. You
+would have people ask and say like,
+"Hey, where are you spending the 30
+billion?" There'd be some response in
+terms of the mix of R&amp;D investment in
+new products versus old products. and
+there be some indication to give
+investors some hope that there would be
+new products or services incoming then
+we know what happened right things like
+project titan that would have gotten
+them into autonomy were killed and we
+saw other pro you know products that
+came to market like the vision pro that
+really didn't find a market opportunity
+so I think hopefully we have some
+analysts on the call tonight during that
+Q&amp;A session that will ask about where
+are you investing that 30 billion in R&amp;D
+what are some of the new products we can
+invest and what is the AI strategy for
+the company going forward.
+&gt;&gt; Well, you've mentioned this a couple
+times, so we have to go there. You think
+that the NLS community hasn't done a
+good enough job holding the feet to the
+fire of Apple at a time when it seems
+like maybe some of their strategies were
+overly complacent.
+&gt;&gt; I think it's a problem with earnings
+calls in general these days. We we do at
+le
+times analysts get on call and say,
+"Great quarter, guys." I saw I heard it
+last night on another call again for a
+company that a mill had a $1 million in
+revenue and an analyst was was
+congratulating them on on a great
+quarter. And they do that because they
+get on the calls, right? And then when
+they get on the calls, they don't ask
+the tough questions that management need
+to be asked that investors want to hear
+to figure out what that long-term
+strategy is. It's very frustrating.
+&gt;&gt; Well, I see this with journalists, too.
+How do we fix it?
+&gt;&gt; I mean, investors themselves have to put
+pressure on there. I I'm certainly never
+one for incremental regulation. Um, but
+I think the investors, the people that
+actually own the stock need to start
+pressuring the companies or, you know,
+look to us or others to provide maybe
+Bloomberg should start doing their own
+uh, you know, quarterly review like we
+do evaluating that which analysts are
+getting on the call, which have buy
+ratings versus holds or sells for asking
+questions on these calls.
+&gt;&gt; Well, Apple's an odd one. It's probably
+the most wellressearched company on the
+planet. there's only three cells on it
+and to your point it's a company in a
+difficult spot that should face some
+difficult questions later on this
+afternoon and well maybe won't the issue
+that I have with some of the bulls is
+they often come on the program and talk
+about the same thing over and over again
+they'll talk about growth that's coming
+further down the line they'll talk about
+an upgrade cycle that doesn't seem to be
+happening well when do they capitulate
+on that at what point do you think they
+have to
+&gt;&gt; I mean to to me that's just laughable
+right I mean you're exactly right
+Jonathan I mean it's the 5% growth that
+it doesn't happen next quarter in the
+guidance. So, they just said, "Oh, it's
+going to come the quarter after that or
+the quarter after that." But I think
+again, look at look at Apple's
+performance relative to the Mag 7. You
+know, it's it still has a multiple
+that's a premium, right? It's still a
+good brand in the market. There's still
+an opportunity, I think, for them to get
+out of this if they get more focused on
+product and developing, you know, some
+type of of AI strategy. I've suggested
+that may require a change in in the
+management, a change in the CEO
+specifically. There's others that that
+think that they can be they can do it
+with the existing CEO and just give them
+another year. But what the problem with
+that is a year from now, what is the
+market going to look like? You know,
+what products are going to be in the
+market that are already disrupting
+Apple? The pace of innovation because of
+AI is faster than anything we've ever
+seen. Everyone agrees, right, more or
+less, that AI is going to be the
+something that's have a bigger impact on
+our economy than even the internet did.
+And yet, you know, we're still not
+getting the questions asked of them in
+terms of, you know, what's going on with
+AI? Why do I when I still use Siri
+today, why does it still work the same
+it did, you know, 3 years ago, it
+seemingly to me, when I can pick up chat
+GPT, press their audio button, and it
+works great. Well, before we let you go,
+I'd love to uh hear your take on China
+and India and the manufacturing pathway
+for Apple. How much visibility do you
+think they're going to give? Will people
+uh be making iPhones in New Jersey? I
+mean there was some excitement about
+some shift of manufacturing to India but
+there's there's been a great book I
+forget the name of the author but um
+that came out recently talking about how
+Apple has moved manufacturing um to
+China has enabled that country uh to be
+a manufacturing powerhouse and the
+difficulty that exists in trying to move
+that you know to other countries whether
+it's India the United States or
+elsewhere so obviously that remains
+there's always these like existential or
+you existing risks whether it's chi
+manufacturing in China the $20 billion
+plus that Google pays them for search
+which is obviously under scrutiny of the
+government because it was it was used as
+a way to keep Apple out of search there
+are these big ticket items in terms of
+events that can certainly you know still
+happen that's not a way to invest on
+these big ticket items that you know
+that may or may not happen you we should
+be focused on at least where the AI
+strategy is and and look you're right
+like you I don't know what they can
+update us on in China, how quickly they
+could get out of China. It's doubtful
+they they would have anything that would
+make the market um you know the concerns
+go away that all of a sudden you're
+going to move this amount of volume out
+of China back to a different market.
+&gt;&gt; Well, appreciate your time PyCh. Thank
+you, sir. You're thinking of Patrick
+McGee as well. Apple in China. Fantastic
+book from New York City. More data up
+next.
+[Music]
+The up and about 60 minutes away.
+Economic data seconds away. Your scores
+going into it look like this. Equity
+futures on the S&amp;P positive by 9 cents
+of 1%. On the NASDAQ 100, higher by
+1.3%. In the bond market, your scores
+2-year, 10-year, 30-year. Yields higher
+yesterday, lower this morning. We're
+down by three basis points on a 10ear to
+on a 30 year at the very long end of the
+curve 486 call it 487 with your economic
+data. Let's cross over to Mike McKe.
+Good morning Mike.
+&gt;&gt; Good morning John. Well numbers we got a
+lot of numbers for you here. Uh the econ
+the employment cost index rises 9/10en
+of a percent same as uh the first
+quarter. Uh that's something the Fed
+keeps a close eye on. We'll see what the
+wage component of that is. Initial
+jobless claims 218,000. That is only
+1,000 more than last week. So, no sign
+that the employment side of the Fed's
+mandate is a problem. But let's go over
+to PCE where prices rise on a headline
+basis 3/10. That's up from 1/10enth, but
+it matches the estimate for the month of
+June. On a year-over-year basis, the
+headline up 2.6%.
+So, that is a 3/10en rise from what we
+saw in May. The core is up 3/10. Uh I
+want to look at the uh three digits for
+that one as well. Uh 2.8% is now the
+core price index for uh the uh PCE core.
+Uh 2.7% last time. Uh so that's uh a
+tenth higher than it was in May and a
+tenth higher than was anticipated. And
+when you look at all put all these
+numbers together, guys, what I would say
+is um we should probably throw up a
+graph or something of the PCE because
+the line is going up. And if that
+continues, it's hard to imagine the Fed
+wanting to cut rates at all.
+&gt;&gt; Mike McKe, thank you, sir. Stay close.
+I'll just run through the price action
+cross asset briefly. Not seeing a major
+move off the back of this. We can start
+with equities on the S&amp;P 500. Still
+positive off the back of tech earnings.
+The NASDAQ high up by 1.3. In the bond
+market, yields were lower going into
+this. They stayed lower. We're down by
+three basis points on the long end of
+the curve on 10 at 434. And in foreign
+exchange, major move higher in the US
+dollar. I say major because we are
+facing potentially the best week for the
+US dollar going back to 2022 this
+morning. A bit of dollar weakness
+against the euro. Euro dollar 11437. But
+I just like to pair this data with the
+line that came from chairman pow
+yesterday. That inflation is further
+from our goal than employment. And in
+many ways when you look at the inflation
+read this morning kind of speaks to what
+the chairman was speaking about just
+yesterday.
+&gt;&gt; Yeah. You're not seeing initial jobless
+claims pick up in any kind of material
+way and you do see a slight upward
+revision or upward surprise to that core
+PCE which is what they look at and you
+are seeing the upward trend. He did say
+that this is part year-over-year comps
+etc. I do think it's notable that the
+employment cost index surprise slightly
+to the upside 0.9% versus the expected
+0.8%. Again nothing shocking. This isn't
+going to be 1970s runaway inflation type
+numbers. However, it feeds into the idea
+that employment isn't necessarily the
+disinflationary force that a lot of
+people thought it could be.
+&gt;&gt; Mike, stay close. We'll come back to you
+in just a moment. I want to bring in
+Jonathan Pingle of UBS. Jonathan, good
+morning. Good to see you.
+&gt;&gt; Thank you.
+&gt;&gt; What's your first take on this data this
+morning?
+&gt;&gt; Well, most of it looks largely in line
+with expectations. Not really that far.
+I don't think this is I don't think this
+is anything that's really going to
+change. Uh the narrative, you know,
+initial claims have rolled over a little
+bit. they they look low. Uh the
+employment cost index, you know, that's
+still going to be consistent with the
+general cooling that we've seen uh in
+the labor market. Um you know, I think
+about sort of the inflation data coming
+in this morning. I mean, this is exactly
+what we sort of predicted after
+yesterday's GDP report where we got the
+quarterly numbers. So overall, this
+looks kind of in line. I I think the one
+thing, you know, going to Lisa's point
+and also going to share Powell's point
+being data dependent yesterday is
+there's a certain amount of
+directionlessness in this, right? The
+GDP report shows some slowing. You know,
+you can sort of probably pick and choose
+to tell a lot of different stories right
+now. Um I think what Sher Powell really
+wants to do is see the next two months
+of data and then they decide what
+they're going to do in December,
+September. But um I don't think this
+this morning it's it's all so close to
+expectations. I'm not sure this is
+really going to change the narrative a
+whole lot.
+&gt;&gt; We've been talking about this stasis,
+this uncomfortable stasis, particularly
+in the labor market for quite a while.
+We're not really going anywhere. And
+there was this feeling that it was going
+to break and had the potential to break
+to the downside. And that was the point
+that Chris Waller raised. We're
+certainly not seeing that today. How big
+has the possibility of a break to the
+upside gotten, especially after seeing
+some of the corporate earnings that we
+have?
+&gt;&gt; Yeah, I mean that that's a risk, right?
+So clearly first half growth slowed and
+the June employment report in its uh
+details was was pretty weak. I mean uh
+excluding returning strikers, private
+employment only expanded 68,000 which
+would be which would be a weak report in
+almost any US expansion. The breath was
+poor. The work week fell. In fact, work
+week's been declining. So the number
+people are actually working are seeing
+less and less hours that they they need
+to work. So I think that's the backdrop.
+I think uh you know I think Governor
+Waller and Governor Bowman made really
+legitimate points about the potential
+risk. This sort of goes to the direction
+list and I think also the importance of
+tomorrow's report. I think we're all
+looking for signs of which way, as you
+say, Lisa, is it going to break? Is this
+going to break? Like, is this temporary,
+transitory, or or or or is this a
+slowing that's going to continue to
+slow? And I think that's really what's
+going to drive the September rate
+decision because there's a point they're
+just not going to want the labor market
+to slow any further. And I think a
+68,000 gain in June is sort of that kind
+of litmus test. But they get two more
+reports to see if is that the new run
+rate or is this uh going to rebound?
+&gt;&gt; Why does the chairman keep calling it
+solid? Nothing you said sounded solid. A
+low churn dynamic in a labor market can
+hardly be called solid, can it?
+&gt;&gt; Well, to cher. Yeah. No, no. I, you
+know, Cher Pal's comments are fine.
+Like, look, the unemployment rate is is
+still relatively low, but Cher Powell
+said more than once to a number of
+questions he thought the risk to the
+labor market to the downside. And I
+think that's the concern, right? Does
+the unemployment rate just sort of
+stabilize here or is there, you know,
+some risk of deterioration?
+&gt;&gt; Do you think they have to take the leap
+of faith in two months time? Do you
+think they have to make that decision on
+September 17th or can they just stay in
+this wait and see mode for the
+foreseeable future? We've spoken to a
+lot of people that seen no rate cuts in
+2025. Is this just something that could
+continue through the year ahead?
+&gt;&gt; Look, if non-farm payroll employment is
+going to run 150 200,000, there's not a
+whole lot of reason to cut rates, right?
+So, so I think we can all be clear on
+that, right? No, no, no. I think I think
+you know, you know, Chair Powell
+yesterday sort of, you know, he sort of
+raised two issues. One is, you know,
+sort of the level of inflation, the
+level of unemployment, but he also
+talked a lot about the risks as well,
+right? So I think in September there is
+going to be some sort of risk assessment
+you know 25 basis point rate cut just to
+you know sort of keep in the markets
+mind that the direction of travel is
+lower which is something that he said
+yesterday um you know maybe some sort of
+uh riskmanagement approach they want but
+they are going to need to see two months
+of data I think to uh to make that
+assessment
+&gt;&gt; you know it's been a couple of months
+feels like a couple of years where we've
+been in a crystal ball that's been
+completely clouded with blindfolds over
+our eyes trying to understand where we
+are in this labor market. Adding to the
+confusion, about an hour ago, we got
+this data coming from Challenger Gray
+and Christmas about job announcements
+coming from companies. Job announcements
+do not always mean job cuts down the
+line, but they seem like they're getting
+pretty high that this is the second
+highest July for a uh July increase in
+announcements, trailing only 2022 uh
+2020 in terms of uh how high they are. A
+lot of companies citing artificial
+intelligence as one reason why they are
+planning to cut jobs. Do we have an
+understanding of what the technological
+overlay that we've been talking about
+all morning will do to the labor market?
+&gt;&gt; We have no idea. I mean like
+I mean first of all you know this this
+is not I mean so the challenger you know
+it's interesting the fact that you know
+they they noted in the headlines but
+this these we have been hearing the
+anecdotes from the consulting companies
+and others that are you know scaling
+back their hiring because they can do
+more with AI. So clearly this is in the
+margin starting to seep into uh firms
+productivity growth reducing their
+demand uh for labor but we we we we
+don't know what the speed with which
+this will uh take be taken on board and
+transpire nor the overall extented
+magnitude what range of tasks get
+replaced. We're just still at such uh
+early stages. But I will say you know
+we've done some empirical work on layoff
+announcements and claims and they do
+tend to lead initial claims with about a
+three-month lag. So the idea that you
+know if this is sort of a new level of
+layoff announcement and shows up in
+things like you know warn notices that
+inform UI um you know these do tend to
+translate into claims eventually.
+&gt;&gt; So is there an inverse relationship to
+the gains that we're seeing in
+technology and what we could see in the
+US labor market say in 3 months time is
+that something that economists are
+trying to wrap their head around? I
+think we're all trying to wrap our head
+around it. But yeah, no, it's totally
+possible, right? So, you know, if we
+think about what happens in, you know,
+in in these productivity games when when
+we say true productivity games, they do
+tend to be labor replacing, right? And I
+know that that sounds really dangerous,
+but if you thought about like the 1990s
+experience, there was a lot of
+technology taken on board that was labor
+replacing, but we had such strong growth
+from that productivity growth that labor
+was reallocated to other expanding
+sectors. And it was really a very
+positive uh feedback loop for the for
+the US economy.
+&gt;&gt; Mike McKe wants to jump back into the
+conversation. Mike, I know you've had a
+second look at the data. What do you
+see?
+&gt;&gt; A couple of interesting things, John.
+First, when we look at the spending
+numbers for uh Americans, the uh number
+the the uh goods purchases were up half
+a percent after two months basically of
+decline. And that was something that J.
+Paul emphasized yesterday that goods
+spending is starting to pick up. Uh
+services spending is the same as the
+last two months is up 3/10en of a
+percent. So good spending rising faster
+than services at the moment. Uh in terms
+of the ECI and in terms of the income
+numbers, uh wages and salaries up just a
+tenth of a percent in June according to
+the personal income figures. But
+according to the employment cost index
+in the second quarter wages and salaries
+were up 1% a full 1%. So uh make of that
+what you will jal and company uh when
+you uh look at disposable personal
+income it was up 3t10en of a percent not
+a whole lot. The savings rate up four
+and a half% right now. Uh and then I
+mentioned I wanted to look at the
+three-digit numbers for the PCE cores.
+And what we're seeing is that uh the PCE
+headline was 0.281. So it rounds up to
+three and the core 2 uh 0256 put it that
+way. That is up from the prior month,
+but it wasn't as strong as some people
+thought. There was a feeling that we
+could go as high as a 4/10en change.
+When you look on a year-over-year basis
+though, uh the Fed the headline PCE,
+which is uh uh the Fed's number that
+they're following, and the core PCE,
+core PCE on a year-over-year basis is
+2.793%
+when you take it out to three digits.
+So, it's uh less than 11 basis points,
+basically 10 basis points away from 3%.
+And 3% would probably be an impossible
+cell for the Fed in terms of getting a
+rate cut going. So, uh, this is
+something that the Fed is going to be
+watching very closely over the next
+couple months.
+&gt;&gt; It's a good point, Mike. Appreciate the
+update. Thank you. Michael McKe there
+breaking down the data. Jonathan Pingler
+UBS is still with us. So, Jonathan,
+let's take a few more beats on the labor
+market if we can. Payrolls tomorrow.
+Guess for 8:30 Eastern time. The Pingles
+are very good at this. What are you
+expecting tomorrow morning?
+&gt;&gt; We're expecting a 95,000 headline gain.
+So, step down in the headline gain, but
+you think about the details really
+details that are going to be no softer
+really than June. Private employment
+rising around 90,000 work week stable
+unemployment rate ticking up to 4.2%.
+&gt;&gt; Does the unemployment rate take on
+additional emphasis now additional
+importance after chairman pal yesterday?
+Well, I think it do. I mean, there's
+always been this tension inside the Fed
+over the unemployment rate. You know,
+it's a stock, so it's relatively slow
+moving and non-farm employment is sort
+of the flow, right? I mean, it's the
+faucet into the bathtub. We used to have
+this bathtub model at the Fed, right?
+So, so they are going to have this
+challenge of trying to understand, you
+know, because normally you'd say if
+non-farm peril employment did X, that
+will tell you the direction that the
+unemployment rate is headed over time.
+But right now, there's such confusion
+over what the trend in labor supply is
+with the fall in immigration. We've also
+seen um we've also seen a big drop in
+the participation rate for other reasons
+lately which has cooled labor supply
+growth. So I think that that that it
+does put a little bit more emphasis on
+the unemployment rate and trying to
+understand what these underlying trends
+in the labor market are.
+&gt;&gt; Jonathan, appreciate your time to see
+it. Thank you. Jonathan Pingle there of
+UBS looking ahead to payrolls tomorrow.
+104,000 the median estimate in our
+survey. The range as we've said
+repeatedly over the last 24 hours is
+incredibly wide.
+&gt;&gt; Yeah. Going from 0 to 170. I would love
+to be a fly on the wall with the Pingles
+ahead of payrolls Friday. Uh given the
+robust argument and the Jonathan Pingle
+one and Jonathan Pingle 2 discussing
+&gt;&gt; just remember that Pingle Jr. outdid
+Pingle senior in the last 12 months.
+&gt;&gt; I hear that's a point of contention. I
+hear that this is a problem when it
+&gt;&gt; get you an update on how 2025 is going
+later on this year. Let's get you an
+update on stories elsewhere with your
+Bloomberg brief. Hey yra.
+&gt;&gt; Hi John. Recapping the latest data, core
+PCE picked up in June, rising 3/10en of
+a percent month overmonth and 2.8%
+year-over-year, showing progress
+stalling on the way to the Fed's 2%
+target. Consumer spending also rose
+slightly after a decline in May. Better
+news in the labor market, where jobless
+claims came in below expectations at
+218,000
+for the week. Meanwhile, a Door Dash
+driver may have saved the life an of an
+employee at the Blackstone building in
+New York City, where a gunman earlier
+this week killed four people before
+turning the gun on himself. According to
+the Wall Street Journal, the employee
+was heading down to the lobby when the
+driver texted her about the gunman. The
+woman immediately took shelter with
+several other colleagues. Wow.
+Meanwhile, Roblox shares are surging 18%
+in the pre-market after raising its
+fullear revenue guidance. The video game
+platform's daily active users jumped to
+nearly 112 million and users also spent
+much more time on the platform. Much of
+the activity is due to the popular game
+grow a garden which in July set a world
+record with nearly 22 million concurrent
+users. Apparently growing a garden
+outside is overrated. That's your
+Bloomberg brief. John
+&gt;&gt; Yhara, thank you. I'm still Wow. Make
+sure you tip your delivery driver later
+on. That is just a phenomenal story.
+Yeah. And it shows how uh people are
+people at the end of the day and are
+going to look out for each other and
+hopefully that will be the takeaway
+going forward if we can have one
+positive lining.
+&gt;&gt; Phenomenal. Up next on the program,
+let's set you up for the day ahead.
+We'll catch up with Mark Leman of
+Citizens JMP Securities looking ahead to
+another big afternoon full of tech
+earnings.
+[Music]
+I I don't think the data is that
+terrific. No, it's not a catastrophe by
+any stretch of the imagination. Um but
+you know, there's more than a hint of
+stagflation in the numbers we saw in the
+first half of this year. Looking at it
+together, one of the confusing signals
+here is the disconnect between GDP
+growth um and the job market. We see
+consumers cutting their spending back
+but continuing to get jobs, continuing
+to get raises.
+&gt;&gt; We got economic data just moments ago,
+20 minutes ago. Data is okay. No big
+changes there whatsoever. No big changes
+in this market either. Driven higher by
+big tech. Equity futures positive by
+0.9% on the S&amp;P 500, on the NASDAQ 100.
+Higher also by 1.35%. With your morning
+movers is Danny. Hey Danny.
+&gt;&gt; Hey John. Let me show you what big tech
+is doing this morning cuz this is the
+difference as to whether your portfolio
+is outperforming or not this morning.
+Meta up 11.3%.
+Microsoft up 9% this morning. Blowout
+numbers, both the results themselves and
+their key businesses and the tens of
+billions every single quarter that these
+companies have committed to capital
+expenditures. Taken together, they're
+going to add about $530 million in
+market cap to this equity market this
+morning. That's about the size of a
+Netflix. Meanwhile, we also heard from
+eBay after the bell yesterday. Really
+strong results. The CEO there pointing
+to the resilience of the American
+consumer that keeps spending and has
+outsized purchasing power compared to
+their European business, for example.
+Also pointing out that they're less
+exposed to tariffs considering eBay is
+secondhand goods. So, those shares up
+12%. Also, when it comes to consumer
+demand, another good sign, this one
+coming from the cruise operators, this
+time Norwegian. They initially flagged
+in April. Some unevenness, some
+bumpiness, pullback in demand for
+consumers. Well, they say it is back.
+People are back booking cruises,
+reflecting some of what we heard from
+some of the other operators this earning
+season. Those shares up about 13 and
+a3%. John
+&gt;&gt; Danny, thank you. Thanks for this
+morning. Appreciate it. Plenty going on
+in the last 24 hours. Lots still to come
+through the next week. Here's the
+trading diary. Still to come today, 400
+p.m. Eastern time. President Trump signs
+executive orders after the closing bell.
+Results from Amazon and Apple. Onto
+tomorrow, July payrolls and President
+Trump's self-imposed tariff deadline. A
+sneak peek of next week. Monday, durable
+goods. Tuesday, the trade balance, PMI
+data, plus AMD results. That sounds like
+a good week to take a break.
+&gt;&gt; Take a week's vacation.
+&gt;&gt; Someone sit back.
+&gt;&gt; I believe you're taking Monday off, too.
+&gt;&gt; Yeah, I am.
+&gt;&gt; And Marie's going to be in the drive-in
+seat taking care of things.
+&gt;&gt; Yeah, that's true. But I'll be here
+back. You won't be
+&gt;&gt; have a long weekend. Okay,
+&gt;&gt; there you go, Ramo. Enjoy yourself. And
+then I believe the following weekend
+also having a long weekend.
+&gt;&gt; Well, then I'm taking off. But we don't
+need to have We'll talk about that. We
+can put my calendar up on the screen.
+All eyes on tech. As investors await
+more earnings still to come. Mark Leman
+of Citizens JMP Securities writing,
+"Strong results will go a long way in
+sustaining the markets rally. The street
+will be watching AI spending closely."
+Mark joins us now for more. Mark, good
+morning. Just want your reflections,
+please. And welcome back to the program.
+It's been way too long. Your reflections
+on some stunning numbers from Meta and
+Microsoft yesterday.
+&gt;&gt; You know, stunning is the right word. Uh
+I think everybody was leerary about how
+much they're going to spend. uh and we
+got some temperance on that and some uh
+guide rails on that and and more
+importantly we've seen the results uh
+and the expenditures are working and and
+and we've had the stick to the winner
+theme at citizens. We've talked about it
+many many times. I actually think we're
+in the beginning innings of this whole
+theme and and and this is just the
+beginning and and I hate to be
+optimistic, but we're seeing some of
+those come through and it's it's
+stunning how how big those are
+&gt;&gt; and their ramifications in the real
+world aside from just some of the uh
+cyberverse. Uh San Francisco, you're
+based there I believe or you at least
+have a strong presence there and you're
+seeing the ramifications of this given
+the AI presence in that city. Can you
+talk a little bit about how significant
+it's been over the past six to 12
+months?
+&gt;&gt; Yeah, we have a new mayor. Daniel Lurri
+u has done a wonderful job um on a
+couple things. One is there's the public
+private partnership um that I think is
+being embraced in San Francisco. Um that
+is really important. Secondly, uh AI 40%
+of the expenditures in AI the venture
+dollars are being spent in San Francisco
+and um those are all back to work
+dollars. They want people in the office
+and that kind of uh energy that you get
+when they're there. So a combination of
+that market um resurrecting both um in
+the real estate and in the work
+environment but as well as in the um
+kind of companies that are really
+changing the way we do business and
+changing way and and like I said I think
+it really is just the beginning and
+fortunately as citizens we got a big
+effort in the private bank and in in in
+wealth and other things in California
+and we're benefiting from that as well.
+How much do you see startups and
+acquisitions and things of that nature
+on the heels of some of the
+high-profiles uh hyperscalers with
+promise of future advancement? I mean,
+do you see that pipeline really
+building?
+&gt;&gt; We do. I I I mean, we've seen some of
+the big firms, you saw Meta make a very
+large acquisition earlier in the quarter
+or earlier in the second quarter. Uh it
+was a $15 billion acquisition by half of
+a company. And that sounds like a lot
+and it really is, but for a company like
+Meta, it's really not. Um, we're seeing
+a race for talent and and that race for
+talent is is really uh second to none
+that I've ever really seen. Um, but the
+ramifications for business across every
+single business is just that real and I
+think again we're in the very early
+innings of that and like you said very
+fortunately the public private
+partnership that we have in San
+Francisco with Mayor Lur is actually
+working.
+&gt;&gt; Mark, how's this going to work for
+startups? Let's say you're a highly
+talented individual. You take a role at
+a startup and they offer you, as
+traditionally is the case, equity in the
+business and all of a sudden some of the
+senior members of the team get poached
+and all of a sudden that equity is worth
+nothing. How's this all going to change
+in the next couple of years given how
+aggressive Meta's been over the past few
+months?
+&gt;&gt; It it's the right question. I mean, what
+Meta is doing is they're buying talent,
+but they're buying the companies. So,
+it's a it's a little bit nuanced, but
+they're really buying the companies.
+What I've been saying for some time is
+meta has all the data and they need a
+lot more talent. The startups have all
+the talent and they need the data. And
+there's a melding between the two that's
+very very complicated. And you're seeing
+this unbelievable unprecedented
+um ascent of evaluations here that we've
+really quite never seen before. But I do
+think Jonathan that there are
+opportunities. Yes, the big LLMs and all
+the things that you're seeing, but
+there's other opportunities for startups
+that frankly is a resurrection of talent
+and people are really putting venture
+dollars to work.
+&gt;&gt; What's your advice to some of the talent
+entering the industry right now? What
+would you tell them?
+&gt;&gt; You know, it's funny. My my uh soon to
+be nephew uh asked me the very same
+question a month ago and it was between
+a very well-established company and a
+startup and uh he chose the
+wellestablished company because he that
+was better for him. I think for a lot of
+entrepreneurs that dream is alive and
+well and we are still the best country
+for innovation and best country for
+startups and that is getting proven time
+and time again. We haven't even
+mentioned what's going on in data
+centers and all the other things and the
+ramifications of that that's happening
+here right now real time.
+&gt;&gt; Love the optimism. It's good to see you
+as always. Mark Leman there of citizens
+JMP securities on the future
+particularly for San Francisco.
+&gt;&gt; You read my mind. I was thinking, you
+know, say somebody was going into
+college or had children going into
+college at some point in the near
+future. You know, what would the major
+be that they should go into that would
+give them a leg up in the war for
+talent, not in the careers rendered
+obsolete? I mean, that's sort of
+&gt;&gt; remember it was 5 years ago it was
+coding.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; Years ago coding, now it's electrical
+engineering.
+&gt;&gt; Is that what it is?
+&gt;&gt; Plumbing.
+&gt;&gt; Quick word.
+&gt;&gt; The only thing I'd say for all those
+budding entrepreneurs is AI is going to
+create great IQ for all of us. Let's
+make sure our EQs are up there as well.
+&gt;&gt; Okay. So, pay attention to your manners.
+&gt;&gt; There you go.
+&gt;&gt; We'll leave it there.
+&gt;&gt; Clean your room.
+&gt;&gt; Coming up tomorrow, some advice for the
+kids, I think. Okay. Is that direct? Do
+you want to talk to them directly?
+&gt;&gt; It's okay.
+&gt;&gt; All right. We'll move on. All right.
+&gt;&gt; Coming up tomorrow, Sebastian Page of
+Tro Prize, Prior of JP Morgan, the
+former senior Trump trade adviser,
+Kellyanne Shaw. Plus, we'll catch up
+with Nadia Levelvel of UBS. Payroll's
+just around the corner from New York
+City. That does it for us this morning.
+Thank you very much for choosing
+Bloomberg TV. This was Bloomberg
+Surveillance.
+[Music]

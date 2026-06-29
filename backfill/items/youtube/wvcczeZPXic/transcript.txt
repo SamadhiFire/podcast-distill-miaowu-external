@@ -1,0 +1,658 @@
+Kind: captions
+Language: en
+So tariffs, who pays for them? The
+exporter, the importer, or the end
+consumer?
+&gt;&gt; Everyone pays.
+[Music]
+&gt;&gt; Hey everyone, welcome back to another
+episode of WSJ's Take on the Week. I'm
+Telus Demos.
+&gt;&gt; And I'm Gjen Bannery. So tell us, I
+still can't stop thinking about that
+oracle move.
+&gt;&gt; It was bonkers, right? cuz we're talking
+about an already very big company and
+the stock went up
+&gt;&gt; around 40%.
+&gt;&gt; Around 40%.
+&gt;&gt; That's a meme stock level move, right?
+Like big technology stocks aren't known
+for moves like that.
+&gt;&gt; But meme stocks are like, you know,
+subbillion dollar market cap like this
+trades for 50 cents and now to a$150.
+Like we're not talking like, you know,
+blue chip gold star established
+companies making moves like that,
+&gt;&gt; right? This is a company that's now one
+of the 10 biggest companies in the US by
+market cap, which is just wild. And
+basically, they had this earnings report
+that really wowed investors. And to me,
+there were a few big takeaways. One, the
+AI trade is so not over. I feel like a
+few weeks ago, everyone was freaking
+out. Has this thing become a bubble? Are
+are these gains in stock like in stocks
+like Nvidia and the tech behemoths, are
+they overdone? And I think this showed
+us that people are still wowed by AI and
+and big tech right now. And two, it
+feels like some of these crazy hundred
+billion, $200 billion moves in stocks
+like Nvidia, Meta, Oracle have kind of
+become more common, right, for these big
+tech stocks to trade like crazy. Well, I
+want to talk about what drove the stock
+a little bit though, but it seemed like
+what what moved the stock was that they
+announced essentially a future revenue
+projection that was multiples of what
+Wall Street was expecting. And that is
+being driven in part by things like
+they've signing a long-term deal with
+Open AI to provide them with computing
+services to power AI years into the
+future. a couple of things that that our
+colleagues um on the street Dan
+Gallagher and Asa Fitch wrote. Number
+one is that uh it's one thing to have
+contracts in place and another to
+believe you will be able to collect on
+them years down the line. So while this
+is about revenue, right? This isn't you
+know uh traders hallucinating on behalf
+of an AI hallucination. This is like
+okay they they they're talking about
+revenues but it is not like money in the
+bank yet. It it still suggests that
+there is there is something speculative
+about this trade, right? It's not like
+dollars being made today. To me, that
+makes it still feel I don't want to say
+bubbly, but but optimistic.
+&gt;&gt; It's just like it's hard not to be like,
+"Huh, is this are we getting ahead of
+ourselves?" And I think you saw a lot of
+people getting ahead of themselves in
+trading after that earnings report. I
+mean, we've talked a lot about call
+options trading, right? These are
+leveraged bets on where the stock is
+going to go within just a few days. And
+I saw people turning to like some of the
+most bullish trades out there. But just
+just to you know play devil's advocate a
+little bit. I think there is a lot of
+money in the bank in terms of the tech
+trade.
+&gt;&gt; I think this shows us how
+&gt;&gt; like people have been so worried about
+concentration in the market right among
+these big technology stocks. But these
+are the stocks that keep delivering for
+investors. You know, I was looking at a
+Deutsche Bank stat and said that since
+late 2023, big tech has contributed
+nearly 90% of all earnings growth since
+then. So,
+&gt;&gt; people are really relying on these
+stocks.
+&gt;&gt; Well, and to your point about
+concentration, the fact that it's Oracle
+making this move and not one of the mag
+seven, there's a broadening happening,
+right? Like if you look at the leaders
+of the S&amp;P 500 this year, you see a
+bunch of tech companies, but here are
+their names. And these are, you know,
+for for those of us with a gray hair or
+two, like the these names have been
+around for a while, right? Seagate,
+Western Digital. I mean, those are like
+spinning disc hardware companies, right?
+Oracle is up there in the top five. And
+then, you know, a couple of the others
+are something we've talked about on the
+show before, energy companies, right?
+The the energy to power AI, you got GE
+Vernova and NRG. So there is a
+broadening happening in that regard,
+right? But I do take your point about
+how something about the way people trade
+these days using a lot of derivatives
+and other things to magnify market
+moves. I mean that still is I think this
+says both right that there that there's
+a real economic shift here happening
+towards the you know kind of future AI
+economy but also that the market is in a
+place where things like that happen just
+because of the way people are just you
+know pedal to the metal in the way they
+trade these days.
+&gt;&gt; Yeah. just feels really momentum driven
+and again I think the big takeaway is
+that this AI trade is just not over yet
+though maybe in the coming week I think
+people will be paying a little bit more
+attention to the Fed.
+&gt;&gt; Yeah I mean you know I know the Fed
+sounds prosaic compared to AI but also
+of course everything going on with the
+Fed is pretty wild these days. Obviously
+you have the sort of political cloud
+around it you know having to do with you
+know the president seeking to oust one
+of the Fed governors. We'll see how that
+plays out. Um but but even just like the
+actual like daytoday work with the Fed
+is is really tricky right now. And it
+goes back to the classic tension between
+their dual mandate, right? Keeping
+prices steady and also pushing the
+economy toward full employment.
+&gt;&gt; Right now it looks like the jobs market
+is certainly weakening, right? This is
+not the hot jobs market of the pandemic
+or post-pandemic dates.
+&gt;&gt; Yes, you had obviously the soft labor
+report from a couple weeks ago. You had
+another revision report this past week
+that revised down jobs kind of a lot of
+it was even before Trump was in office.
+But anyway, the headlines of the labor
+data are all pointing kind of in the
+wrong direction right now. However, you
+know, inflation hasn't gone away. Uh the
+consumer price index report this past
+week was it was not hotter than
+expected, but it did continue to go up.
+So, it was at 2.9% year-over-year for
+the headline, 3.1% year-over-year for
+the core. That was like in the
+neighborhood of where economists were
+expecting it, but it's still ticking
+upwards. And we know that the Fed, the
+expectation is the Fed will cut in
+September. Whether it's 25 basis points
+or 50, a quarter point or a half point,
+we'll see. But I want to point out a
+couple of things. One was there was a
+really interesting story um about in the
+journal about lumber prices kind of
+flashing a warning sign, right?
+Companies not um you know, expecting to
+be building as much. You talked to Neil
+Duta, you know, a couple weeks ago about
+the housing market in a recession,
+&gt;&gt; and you know, I I asked him, can the
+housing market be in a recession without
+the rest of the economy falling into a
+recession? He said, not really. That's
+very unlikely. But what's happening in
+the lumber market, I think, is so so
+important and have and can have such a
+ripple effect, right? Like,
+&gt;&gt; if you think about it, if there's less
+demand for lumber, that means
+potentially less demand for homes,
+right? What happens when people don't
+want to build homes? That construction
+worker might not be getting a job. What
+happens when he or she doesn't get a
+job? They might have less spending money
+for that dinner out on Friday night,
+which can really weigh on our economy.
+So, I think that one metric just has
+insane ripple effects across the entire
+economy.
+&gt;&gt; I tend to agree. And if you look a
+little deeper into the inflation data,
+you saw that the producer price index
+was slowing in its most recent report.
+And so you have, you know, producers not
+being able to push through, wholesalers
+not being able to push push through
+price increases maybe means that they
+see weakening demand. And so really, I
+think the focus is now on
+the the business side of the economy,
+right? What is going on with companies
+amidst,
+you know, tariffs being the main driver,
+but but you know, other other things
+happening in the economy. And the vital
+question that remains as as we debate,
+you know, inflation versus jobs is will
+tariff related price increases be
+something of a one-off and that the Fed
+should really turn its attention to kind
+of promoting growth in the rest of the
+economy to to to prop up the the job
+market. So, in order to to look a little
+deeper into this question of like what
+what are companies thinking about right
+now when it comes to their business
+passing on prices to consumers, how able
+to do that are they? We decided to talk
+to somebody who's a little closer to the
+front lines of, you know, working with
+importers and exporters and sort of
+helping them work through this and
+figure out how to adjust their
+businesses around what's going on with
+with with tariffs. And that's Ediniro
+Cesari. He is the head of trade finance
+and working capital at Croup which is uh
+a big global bank that obviously plays a
+large role in the financing of the
+movement of goods across borders. It's a
+really interesting conversation and
+we're going to have it right after the
+break.
+[Music]
+Welcome back. We are joined now by Adiro
+Cesari who is the head of trade and
+working capital solutions at Croup which
+really as a bank is one of the global
+leaders in kind of the business of trade
+finance. So we're getting kind of an
+interesting perspective here on what's
+going on with trade and tariffs and all
+those sorts of things. Adairo, welcome.
+&gt;&gt; Thanks for having me. A pleasure to be
+here. So, here we are more than five
+months out from Liberation Day when
+President Trump first laid out the
+reciprocal tariff regime, which really
+was kind of the first of its kind and
+marked a very dramatic change in in how
+the US has has typically, you know,
+thought about tariffs and and and trade
+for, you know, the way it's been done
+for many years. Um and yet five months
+out we don't really have much more
+certainty about what exactly the tariff
+regime will be because some of it was
+thrown into question by US courts uh
+which have said that President Trump
+can't do some of the things he wants to
+do. Now the Supreme Court will weigh in,
+but how would you say your business and
+your clients are dealing with that
+degree of uncertainty for something that
+really I imagine represents a sea change
+in how people do business in trade and
+trade finance. I would say that the
+first reaction was kind of a a stop and
+and I would say that most of
+&gt;&gt; you mean the first you mean back in
+February when this first
+&gt;&gt; back in February
+&gt;&gt; there was a first initial reaction of
+accelerating purchase. So you saw
+&gt;&gt; the data shows a lot of acceleration in
+accumulation of inventory. there was
+deals made to to source critical
+equipments uh for AI farmers and things
+like that which was happened right just
+before the first startups went in
+&gt;&gt; and then I would say there is yet a wait
+and see mode for the most strategic
+decisions right so big factory buildups
+or big rehifts on who purchase or not
+&gt;&gt; because there is yet this deals to be
+made temporary deals which are still
+being being being done. But the good
+thing is that I think the the
+expectation or the the noise in the
+market has reduced because uh I think
+people realize that the levels of
+tariffs are going to be much more
+sustainable than it could be.
+&gt;&gt; Okay.
+&gt;&gt; And
+&gt;&gt; meaning that that at times people were
+thinking the tariffs might be north of
+100% on on some things and it looks like
+they're not going to be
+&gt;&gt; exactly
+&gt;&gt; close to that
+&gt;&gt; which were not sustainable. Right. So
+that will could cause
+&gt;&gt; and and with the deals being being made
+I think that shows uh um sustainability
+like a lot of the supply chains were
+making we're seeing we're seeing clients
+taking of course taking focusing a lot
+of on efficiency
+&gt;&gt; okay
+&gt;&gt; so clients have factory here and factory
+there and just by re rerouting some
+goods from one side of the other they
+have
+&gt;&gt; less impact on tariffs of course they
+are doing that
+&gt;&gt; okay
+&gt;&gt; clients which is easy to replace
+suppliers because of the nature of the
+goods.
+&gt;&gt; They are doing that right.
+&gt;&gt; Yeah.
+&gt;&gt; And and since co that is there was a
+natural uh trend in diversification of
+the supply chain.
+&gt;&gt; Okay. So so we had a trial run
+essentially right. I would say if we are
+in this situation without the evolution
+since co I think people will be much
+more concerned but uh the China plus one
+strategy has been on the table for a
+meaningful time and people have really
+did good progress on on that but the
+concept of near shoring and the concept
+of really changing the micro supply
+chain it it's a long and costly process
+right and even more in specific
+industries where there is technology and
+knowledge to be created to to enable
+those.
+&gt;&gt; And real quick, it's a term that gets
+thrown out there, but China plus one,
+what what does that refer to?
+&gt;&gt; It refers to the strategy of intently
+diversify your supply chain exclusively
+from a concentration in China, right?
+So, clients really looking for keeping
+China but expanding to alternative
+sources of uh supply chain. Well, I want
+to focus on something you you you said
+before, which is efficiency. And that's
+a a really big idea because when we talk
+about like who pays for tariffs, we
+always talk about it in very explicit
+terms, right? Okay, there's the
+exporter. They pay it at the border.
+There's then the importer who, you know,
+maybe the exporter sort of pushes it out
+to, well, you're going to pay for this
+by paying more for this thing. And then
+there's the end consumer where maybe the
+importer says, "Okay, well, we're just
+going to charge you consumer more for
+this thing which has moved, you know,
+uh, across the border." But efficiency
+is a way for nobody to really pay for it
+explicitly, but for it to be paid for by
+changing how you make something, where
+you get it, how you finance it. So tell
+us more about what what does that mean
+for your clients? like what what what
+are trade clients of city doing in
+efficiency terms that mean that
+essentially nobody explicitly pays for
+the tariff but it's paid for in other
+ways.
+&gt;&gt; Yeah, I would say that with exception of
+very few companies which have a very
+simple business model of just repassing
+goods. All our clients are very focused
+on minimize the impact to the end
+consumer and with that they go to all
+the partners right they go to the
+suppliers and they push to renegotiate
+agreements and they go to their partners
+on the logistics sides and so on and
+they go to the banks right and they look
+we need we need to reassess this or I'm
+thinking about uh building this or I'm
+thinking about changing the supply chain
+from here to there how can we make is
+more efficient and that has been a lot
+of what we have been doing which is
+benchmarking supply chains from one side
+to the other and helping our clients to
+thinking about how you leverage
+financial instruments to enable the
+supply chain be more efficient on on
+that one and that will drive efficient.
+So, so my my read my base case is that
+uh um a good amount of the the tariff
+impact will not be reaching the the the
+end consumer.
+&gt;&gt; So I mean we've seen one indicator
+recently I would say the jobs report
+that hiring has slowed in the United
+States. Do you feel like that's that's
+that's a path to efficiency for for for
+some clients?
+&gt;&gt; 100%. I think really people looking at
+activities which can be automated and
+can be done by by machines by agent
+agent agentic AI clearly
+&gt;&gt; clearly is a it's a pete efficient for
+every industry
+&gt;&gt; and what about the process of reshoring
+like people basically saying you know
+what I'm not going to import this
+anymore I'm going to make this here or
+I'm going to find a domestic supplier of
+this are you seeing that in your
+business because that's obviously the
+hope of a lot of these policies right is
+that it drives domestic investment.
+&gt;&gt; Yeah. And most of those case those are
+multi-year investments and several
+several billion dollars, right?
+Depending on the industry.
+&gt;&gt; So, so I think yes, the answer is we're
+starting to see more and more of that as
+those deals start to be perceived as
+more
+serene, right? More permanent uh than
+than a negotiation.
+&gt;&gt; So, you are seeing those conversations
+happening. we are seeing is starting it
+more now than a couple months ago I
+would say.
+&gt;&gt; Interesting. So I guess the question
+that investors really want to kind of
+zero in on is who pays the tariff right
+is that the right way to ask that
+question do you think or is it more
+complicated than that?
+&gt;&gt; I think it varies a lot uh by industry.
+All our clients are really focusing on
+preserving or minimizing the the price
+transference. Uh on that not all client
+has the same footprint in terms
+footprint in terms of supply chain
+&gt;&gt; and uh and everyone is living on it's
+not just tariffs right. So to your point
+it's it's the consumption consumption
+power uh globally and there is
+competition. So it's not an easy uh
+conversation. When you look our clients,
+everyone of course is assessing pricing
+strategy. They're processing
+uh some phaser pricing conversations,
+&gt;&gt; some market tests, some um selective
+pricing on on products which has less
+competition and so on. But there is a
+a lot of awareness and concern about uh
+pricing increase impacting
+the the the amount of say the the the
+wholesalers.
+&gt;&gt; People don't want to have to raise their
+prices to their end customer right. The
+pattern we've seen with inflation data
+I'd love your perspective on which is
+that you know the the consumer price
+index has gone up a little bit when you
+look at it kind of year-over-year.
+What's risen faster in some recent
+readings has been the producer price
+index, the wholesale prices, right? So,
+it seems like consumers are not
+necessarily being charged more overall,
+right? It's, you know, there's a lot of
+different mixes in there, but producers
+are So, some people have looked at that
+and said, well, that that's a sign that
+that it's the producers, right? The
+wholesalers, right? Like, I'm paying
+more for the stuff that I buy to make
+the thing that I sell to you
+&gt;&gt; and I'm just going to absorb that and
+not pass it on to you. Do you think that
+that is the pattern that will continue
+to to play out is is to see producers
+paying more and just sort of eating it
+or like you said finding other
+efficiencies.
+&gt;&gt; There is some temporary effect on that
+the supply chain there is increases in
+cost today in the supply chain. People
+are looking to find productivity ways to
+reduce their cost but uh on the end of
+the day uh there is so much they can
+absorb without impacting their
+shareholder value. So there is going to
+be some price transference.
+&gt;&gt; Um so and there is yet some of those
+tariffs negotiation going on. So I would
+say that while there is tariff
+negotiation going on, people really
+holding and taking some losses I would
+say to to preserve their pricing
+strategy uh for for for some time.
+&gt;&gt; You guys as a bank see a lot of
+transactions. What what are you seeing
+in terms of payment flows or other
+things that sort of help lay out this
+this this kind of picture to you of you
+know producers are kind of bearing some
+of the costs, consumers aren't
+necessarily feeling it in the prices.
+What are you seeing in those in those
+payment flows?
+&gt;&gt; It's it's very difficult to get from
+those payment flows dating in relation
+to the consumer pricing and what we are
+seeing is
+some of re shifting flows.
+&gt;&gt; Okay.
+&gt;&gt; Right. We're seeing when we look at
+analyze and data we're seeing uh places
+like uh Vietnam, Indonesia, India
+becomes like new manufacturing hubs.
+Apple famously of course has has for
+many years worked on shifting its
+production to India for example from
+China right
+&gt;&gt; I think several clients in terms of uh
+pharmaceutical and telecommunication
+that leveraging
+&gt;&gt; India in that sense and you see a lot of
+Chinese companies building those
+manufacturers there right so it's a mix
+of before I think this
+age of uh of tariffs was like a China
+plus one strategy now I think there is
+China plus one and there is this
+regional manufacturing planters which
+are are all intent to to really build
+diversification and alternatives in
+terms of uh of not only tariff regimes
+but uh geopolitical
+um events which uh I think has been part
+of the agenda together with this uh this
+tariff regime. And so as this goes on,
+one question that that raises for me is
+if interest rates come down,
+&gt;&gt; um does that make it sort of cheaper to
+to make some of these changes or is it
+not that sensitive to interest rates the
+kind of the trade finance business?
+&gt;&gt; It does. I would say that um um interest
+rates going down will incentivize
+uh suppliers to draw facilitates and
+really the conversation around tenor
+concessions pricing concessions on end
+goods on end goods are impacted by their
+cost of capital or the cost of financing
+um and and we see the difference in
+interest rates across the globe. it does
+impact the the the US suppliers.
+&gt;&gt; So, is that something that would would
+lower interest rates help your business?
+Like, do you think that that would make
+make these these transitions,
+you know, h happened faster?
+&gt;&gt; I would say that it would generate
+incentives for for for more solutions
+and for for um some of those win-win
+situations to to close, right? as if
+they are not get on the mathematics
+today in the cost of capital or the cost
+of access to finance it is an element of
+that calculation and interest rates
+going down is going to enable
+&gt;&gt; more trade activity which naturally
+generates more activity in my business.
+So would would lowering interest rates
+actually maybe lessen the price impact
+of tariffs on consumers do you think
+because then companies could could pay
+for some of these adjustments.
+&gt;&gt; It it does right it's not not a direct
+one to one but uh it is it is part of
+the the component right you look at uh
+&gt;&gt; the cost of uh uh any company cost of
+that is it's a relevant cost.
+&gt;&gt; Yeah. Yeah. Well, it it it helps paint a
+picture of the totality of economic
+policy, maybe. Um, all right. Well,
+we're going to take a quick break and
+when we come back, one last question for
+Ediniro Sari of Croup.
+&gt;&gt; All right, welcome back. We've got one
+last question for Edinro Castari of
+Croup. So, tariffs, who pays for them?
+The exporter, the importer, or the end
+consumer?
+Everyone pays.
+&gt;&gt; Everyone pays. How so?
+&gt;&gt; Companies are sharing the pain and
+really pushing their partners and and
+their banks and everyone to to bring
+efficiency and productivity or support
+in these times to reduce the impact on
+the the consumer.
+&gt;&gt; I didn't think global trade was simple
+uh and and talking to you about it has
+has confirmed that. Um, but it is uh
+obviously a hot topic and we've all
+become we've all had to learn a lot more
+about it recently. So, it's great to
+hear from somebody who's been living and
+breathing it for a long time. Edinro,
+thanks so much for joining us.
+&gt;&gt; No, thank you. This is our bread and
+butter every day. Try to help our
+clients navigate this this volatility in
+the market. So, very happy to be here.
+[Music]
+So tell us, I still can't stop thinking
+about that Oracle move.
+&gt;&gt; I mean, it was wild, right? Like I don't
+Everybody forgive me, I don't remember
+the number exactly, but it was a what 30
+40% move in an already very large
+company, right?
+&gt;&gt; Right.
+&gt;&gt; All right.
+&gt;&gt; Excellent point.
+[Music]

@@ -1,0 +1,707 @@
+Kind: captions
+Language: en
+From the New York Times, I'm Natalie
+Ketrof. This is the daily.
+[Music]
+For most Americans, the government's
+monthly jobs number was a pretty dull
+statistic
+until a few days ago when President
+Trump angrily fired the person
+responsible for producing it, the
+commissioner of the Bureau of Labor
+Statistics.
+Now, from Washington to Wall Street,
+everyone's wondering whether you can
+still trust federal statistics if the
+president is willing to just get rid of
+people who give him facts he doesn't
+like.
+Today, I speak with my colleague Ben
+Castleman about how the government's
+economic data suddenly turned into a
+national drama.
+[Applause]
+It's Tuesday, August 5th.
+[Music]
+Ben, I just want to start by
+acknowledging that we may be on the
+brink of the nerdiest daily episode
+ever, but I am really excited to have
+you on for this because honestly, this
+is kind of your Super Bowl. I mean you
+have made a career of labor numbers and
+this time we didn't just get job
+numbers. There was extreme drama around
+these job numbers.
+So I want to get into it. How did this
+whole fight start?
+Uh so every month the Bureau of Labor
+Statistics or the BLS puts out this big
+report on jobs, hiring, employment,
+unemployment from the previous month.
+And it is my Super Bowl 12 times a year.
+&gt;&gt; Lucky for you,
+&gt;&gt; it's my Super Bowl. It's a Super Bowl
+for a lot of econ nerds around the
+country. And and that's because this is
+in some ways the most important single
+number or single set of numbers that we
+get about the economy each month. It
+matters to regular people, right? This
+is about whether people have jobs and
+can find jobs. It's important to policy
+makers at the Federal Reserve who are
+trying to decide whether they should
+raise or lower interest rates. It's a
+hugely important political number that
+tells us as well as any other set of
+numbers whether the president is
+succeeding or failing in his management
+of the economy. And so this is a set of
+numbers that we all sort of drill down
+on the moment they come out. They hit
+the website at 8:30 and we're all sort
+of frantically refreshing to see what
+these numbers show. And this time we
+refresh the website and it says 73,000
+jobs were added in July, which is not
+great.
+It was weaker than forecasters had
+anticipated, but it was not a crushing
+blow.
+&gt;&gt; The numbers are not catastrophic, but
+they're not great either.
+&gt;&gt; That's right. but with one big caveat
+which is that they also revised the jobs
+for May and for June the last two months
+and they revised those down by a quarter
+million jobs. Hm.
+&gt;&gt; So, we thought we had added around
+150,000 jobs a month in May and in June,
+which would have been solid numbers. We
+we had reacted to them and said, "These
+are great numbers,
+&gt;&gt; right?"
+&gt;&gt; Those got revised down to more like
+15,000 jobs in each of those two months.
+&gt;&gt; Wow. So all of a sudden, this picture
+that we had of the labor market, this
+labor market that was chugging along,
+that was resilient, that had shown sort
+of no signs of cracking despite tariffs
+and uncertainty and all the other stuff
+that we've been talking about. All of a
+sudden, it looks like, well, maybe there
+were deeper cracks than we had realized.
+Yeah. The last time that you were on the
+show, you said this is Trump's economy,
+right? He's put his stamp on it with
+tariffs, with immigration policy. He
+owns it if it soarses or if it tanks.
+And you're saying this is the first sign
+we're maybe getting now that the economy
+might be wobbling. Yeah, that's right.
+And so these numbers come out.
+&gt;&gt; Rick Santella here with the big breaking
+news of the morning, the big July job
+jobs report. non-farm payrolls up
+73,000.
+Definitely a bit light, but
+&gt;&gt; everybody sort of reacts to them, starts
+to try to figure out what they mean.
+&gt;&gt; Look, I think this is all a result, this
+disappointing number is a result of all
+the turmoil over tariffs and and trade
+wars.
+&gt;&gt; I think this is more about the Federal
+Reserve. Again, we've got a bifurcated
+economy.
+&gt;&gt; And then a few hours later around 2:00
+in the afternoon, the president puts out
+this post on Truth Social, his social
+media site. It's this long post,
+Natalie, is I taking up like my full
+screen here.
+&gt;&gt; Okay, let's hear it.
+&gt;&gt; In which he says, quote, I was just
+informed that our country's quote jobs
+numbers are being produced by a Biden
+appointee, Dr. Erica McInterer, the
+commissioner of labor statistics, who
+faked the jobs numbers before the
+election to try and boost Kamala's
+chances of victory.
+&gt;&gt; This is where the drama comes in.
+&gt;&gt; This is the drama. He goes on in this to
+basically accuse Dr. McInterer of
+rigging the numbers for political
+reasons and says that he has directed
+his team to fire her which they promptly
+do.
+&gt;&gt; So it basically looks like he's saying
+he didn't like the numbers and so he's
+firing the person responsible for them.
+&gt;&gt; That's certainly what it looked like to
+me and I think to most people who were
+watching this. But that's not the story
+that his adviserss told when they came
+out and started giving interviews later
+on Friday and on the Sunday shows over
+the weekend.
+&gt;&gt; And joining me now is the director of
+the White House National Economic
+Council, Kevin Hasset. Mr. Hasset,
+welcome to Meet the Press.
+&gt;&gt; We saw Kevin Hasset, who's one of his
+top economic adviserss, came out and
+said, "No, no, this isn't that the
+president didn't like the numbers. It's
+that there have been these big
+revisions." Well, what we've seen over
+the last few years is uh massive
+revisions to the jobs numbers. In fact,
+&gt;&gt; the numbers that are being put out by
+the BLS are unreliable and this
+commissioner was clearly not doing a
+good job.
+&gt;&gt; Isn't this the very definition of
+shooting the messenger?
+&gt;&gt; No, absolutely not. I mean, the bottom
+line is that there were people involved
+in creating these numbers. And if I were
+running the BLS and I had a number that
+was a huge uh politically important
+provision, actually revisions should be
+smaller, right? because computers are
+better and so on, then I would have a
+really long report explaining exactly
+what happened. And we didn't get that.
+&gt;&gt; He says at one point, to make sure that
+the data are transparent and as reliable
+as possible, we're going to get highly
+qualified people in there that have a
+fresh start and a fresh set of eyes on
+the problem.
+&gt;&gt; So, is the president prepared to fire
+anyone who reports data that he
+disagrees with?
+&gt;&gt; No, absolutely not. The president wants
+his own people there so that when we see
+the numbers, they're more transparent
+and more reliable. And if there are big
+changes and big revisions, we expect
+more big revisions for the jobs data in
+September, for example, then we want to
+know why. We want people to explain it
+to us.
+&gt;&gt; So their version of it is, look, there
+were these big revisions. Clearly, we've
+gotten the numbers wrong, and so we're
+going to bring in our own people who are
+going to do a better job of getting
+these numbers right. How unprecedented
+is this? Like has it happened before?
+&gt;&gt; It's really unprecedented in the
+centurylong history of the US economic
+statistics system. There are some
+earlier examples along the way that have
+some parallels here. If you go back,
+President Hoover sort of pushed out or
+or retired the equivalent of the BLS
+commissioner at the time. Nixon did a
+version of this as well. But we've never
+seen anything like this where there's a
+bad jobs report, the president is mad
+about it, he fires the head of the
+statistical agency. I mean, I I don't
+know, Natalie, you used to be an
+economics reporter. Sure did.
+&gt;&gt; You've been in this world for a while,
+but I suspect you can't name a whole lot
+of commissioners of labor statistics.
+&gt;&gt; Not a one.
+&gt;&gt; And most people couldn't either, right?
+This is not a high-profile job. Sure.
+&gt;&gt; Dr. McInturer was a longtime civil
+servant at the Census Bureau and in
+other agencies. She's sort of known as
+a, you know, data nerds data nerd. She's
+not somebody I think you would have ever
+expected to be the subject of a
+president's social media post.
+&gt;&gt; And is she crunching the numbers
+herself? I mean, I understand you're
+saying Trump is kind of laying the blame
+at her feet in a really pointed way.
+&gt;&gt; No, very much not. The commissioner is
+the only political appointee at the
+Bureau of Labor Statistics. Everybody
+else is a career employee, most of whom
+are there for many years across multiple
+administrations. These are the people
+who collect the data, who crunch the
+data, who put it together, and the
+commissioner doesn't even see the
+numbers until they are finalized. And
+numerous people at the bureau and who
+are have been at the bureau in the past
+have told me there's just no way that a
+commissioner could futs with these
+numbers without a whole host of people
+knowing about it. Many of whom would
+raise heaven and earth to stop them from
+doing that.
+&gt;&gt; Okay. So I want to actually hear how the
+numbers are put together. What's the
+actual process? So the monthly jobs
+numbers are based on a survey of more
+than a 100,000
+businesses and other employers across
+some 600,000
+work sites in the country. So I mean
+this can be on the phone, it can be
+online. There are various methods, but
+they're asking employers how many people
+did you have on payroll during this
+period and how many hours did they work
+and how much money were they paid? And
+those numbers get aggregated together
+and added up to come up with a jobs
+number. But we're trying to measure a
+enormous $30 trillion economy with 160
+million employees. There's a lot that
+goes into trying to tabulate those
+numbers to try to fill in the missing
+blanks. And that first number that comes
+out that we all pay so much attention to
+is an estimate. It's a preliminary
+estimate, right?
+&gt;&gt; And we update it over time as we get
+more complete numbers and and sometimes
+those updates can be pretty substantial.
+&gt;&gt; These are the revisions, right?
+&gt;&gt; These are the revisions.
+&gt;&gt; How should we think about those, Ben?
+Because I'm just wondering for people
+who are not intimately familiar with
+this data set. It may seem odd that
+there are really dramatic changes to
+data that is I mean, you've been saying
+so important. Yeah, I think that's
+completely understandable. I think if
+you hear we thought there were 150,000
+jobs added in June and now we say there
+are 15,000 jobs added that you say well
+what good is any of this anyway. But
+it's important to understand that there
+are some reasons for these big revisions
+like what as I said big survey not
+everybody responds to the survey right
+away over the course of the next two
+months more data becomes available and
+so we get a more complete read and in
+normal times this really works pretty
+well. You miss a little bit up one month
+you miss a little bit down one month but
+over time it pretty much smooths out.
+The trick is that at times when the
+economy is changing a lot, it can be
+difficult to get a clear read, right? It
+may be that those people who didn't
+respond to the survey the first time
+don't look like the people who did
+respond. Maybe the reason they didn't
+respond to the survey was that they were
+scrambling to keep the lights on
+&gt;&gt; and so they were cutting jobs and they
+can't even deal with the survey. maybe
+those businesses shut down altogether
+and the reason they didn't respond was
+not that they hadn't gotten around to it
+yet, but that they don't exist anymore.
+And so once we get all of the
+information in, we learn, ooh, actually,
+we did not add as many jobs as we
+thought. And so we know that we have a
+harder time picking up what's happening
+at turning points of the economy, which
+is part of why when these numbers came
+out on Friday, a lot of people said,
+"Uh-oh,
+maybe this suggests that we are at one
+of these turning points. Maybe this
+suggests that the economy is really
+taking a turn for the worse.
+&gt;&gt; So you have these Trump aids pointing to
+the revision saying, "Look, why are
+these so big?" And and what you're
+saying is one of the reasons they may be
+so big is that things have just been
+really volatile recently. I assume we've
+seen things that are creating a lot of
+noise. They're creating a lot of noise
+and anything that creates a lot of noise
+just makes it more difficult to measure
+the economy in real time.
+&gt;&gt; But just to be clear, is there anything
+to suggest that these numbers themselves
+are wrong?
+&gt;&gt; It depends what you mean by wrong.
+If what you mean is that these numbers
+are not a perfect reflection of the
+actual number of jobs in this country,
+then yes, because all of these numbers
+are wrong when they first come out.
+They're estimates, but they are the best
+estimates using the best methods that we
+have available to us. But remember, the
+president didn't just say wrong. He said
+rigged.
+He said these numbers were rigged out of
+political bias against him. And there's
+absolutely no evidence for that. But I
+think that that suggestion by the
+president is what has so many people so
+alarmed right now.
+We'll be right back.
+[Music]
+So, you said, Ben, that this has a lot
+of people alarmed. Just explain to me
+why this matters so much to so many
+people. It matters because it gets to
+the real core of how we understand our
+economy and to the credibility of the US
+government. And I think we have seen in
+history what happens when that
+confidence is eroded. not so much in
+this country but in other countries.
+&gt;&gt; You know the canonical example of this I
+think is Argentina where in the earlier
+part of this century they fired the
+people responsible for putting out their
+inflation numbers when the inflation
+numbers were higher than they wanted,
+which certainly sounds a little bit
+familiar right in this moment. and then
+kept putting out low inflation numbers
+that were just not credible to anyone.
+They were not credible to anyone in the
+country and they were not credible to
+anybody outside of the country to the
+point that the international community
+basically stopped paying any attention
+to Argentina's official inflation
+numbers altogether.
+&gt;&gt; And that had real consequences in
+Argentina. you know, they were borrowing
+money internationally and investors
+basically started charging a higher
+premium to lend them money because they
+didn't trust the inflation numbers and
+they didn't trust the government and
+that contributed to a really crippling
+debt crisis and default in Argentina.
+&gt;&gt; Investors were basically saying, "We
+don't trust that you have a handle on
+this. There's no yard stick that we can
+really point to and know that it's real.
+If you lie to your bank about your
+income, they're probably not going to
+give you a very good rate on your
+mortgage. Sure. And that's basically
+what we're talking about here. We saw
+this in Greece as well, where the
+government fudged the numbers on their
+deficit for years to try to meet certain
+European Union targets, which eventually
+led to a massive debt crisis there. And
+what's worse, when they brought in an
+economist to run their statistical
+agency to kind of clean things up and he
+told the truth about what the numbers
+were, that ran a foul of the authorities
+there and they criminally prosecuted him
+for years. He's still fighting those
+cases.
+Okay. You've given us these two
+examples, Ben, where it seems pretty
+clear that the governments in these two
+cases were deliberately obscuring a very
+bad economic reality. But is that
+happening here? Like, is that what we're
+headed for? Well, so it's certainly not
+where we are now. All of our evidence is
+that the data that's been put out by the
+administration so far is as trustworthy
+as ever. and the person who's in charge
+of the BLS now who took over on an
+acting basis after the commissioner was
+pushed out. He's a longtime civil
+servant. He's very widely and well
+regarded. I don't think there's any
+suggestion that he would cook the books.
+And as we discussed before, right, the
+numbers are actually produced by this
+legion of civil servants beneath the
+surface. And there's no reason to think
+that any of them are going to change the
+way they do things either. I think the
+concern is the president's going to name
+a new commissioner. We don't know who
+that is yet. Maybe it will be somebody
+extremely qualified. I I will say that
+the person who ran the BLS in Trump's
+first term, a man named Bill Beach, was
+very widely regarded. He has come out
+and condemned this firing. But if
+somebody like him is put into place
+again, I think that a lot of these
+concerns will be mitigated to a degree.
+But I think the idea is out there now.
+And the concern is that if the president
+can fire one person for putting out
+numbers he doesn't like, maybe he fires
+another and and maybe we end up in a
+situation where this keeps going until
+he gets numbers that he likes.
+&gt;&gt; You're saying basically that either way,
+Trump has at the very least created the
+impression that he's willing to fire you
+if you produce numbers that are not what
+he wants to see. I guess my question has
+been should we really expect, you know,
+him to appoint somebody who comes in and
+then just kind of revises the numbers
+way upward? Like, wouldn't that be
+extremely obvious? No one would trust
+that. Yeah. I mean, look, in theory,
+right, he could appoint some longtime
+loyalist to come in who just says like,
+"From now on, we added 250,000 jobs a
+month." I mean, something sort of very
+Soviet, right? And I don't think that's
+likely. It would be extremely obvious.
+&gt;&gt; Sure.
+&gt;&gt; I'm not predicting anything. You and I
+may be sitting here in 6 weeks time
+talking about that scenario, but I I'm
+not I'm not predicting that.
+&gt;&gt; You're not there yet.
+&gt;&gt; I'm not there. I I think there's another
+version of this though that is a little
+bit softer, but I I think is in some
+ways just as concerning where the
+president brings in somebody who maybe
+isn't an obvious yes man, but who
+doesn't uphold the traditions of these
+agencies and that that leads over time
+to a diminishment of staff morale to
+increased turnover. you know, a lot of
+these people who work in these places
+have been there for a long time. They
+don't necessarily make that much money.
+We've already seen a lot of turnover and
+that it just eats away at the expertise
+and ultimately at the quality of these
+numbers to a point that people just sort
+of lose faith in them as being useful
+gauges of the economy anymore. M and you
+know I I don't think it's lost on
+anybody that this is a pattern that has
+played out in a lot of places within the
+federal government under this president.
+You know, we've seen this in the
+sciences and in health in the EPA and we
+haven't seen that in this way at the
+statistical agencies yet, but it doesn't
+take that much to imagine it happening.
+Okay, Ben, we've been talking about the
+rhetoric about the battle over this
+data, but I I want to now just turn back
+to the data itself.
+Give me a really cleareyed analysis of
+what these numbers say about where we
+are economically right now. Give us our
+bearings.
+So, I think you alluded at the beginning
+of the episode here, right, to the last
+time we talked and we talked about how
+this was Trump's economy now, but there
+really wasn't much evidence that these
+policies, tariffs and immigration and
+uncertainty and all of this were really
+hurting the economy in a significant
+way. I think we can't say that anymore.
+That's not just because of the jobs
+numbers. It's also because of some of
+the numbers that we got on consumer
+spending last week that we've gotten on
+business investment. we started to see
+some signs that various policies that
+the president has adopted are starting
+to sort of eat away at the momentum in
+the economy.
+But we also still are in a place where
+we are not seeing sort of deep chasms
+forming in the economy. The unemployment
+rate is still low. We're not in a
+recession. And very few forecasters that
+I talked to think that we're headed for
+one anytime imminently. And so although
+the data that we got last week suggests
+that the economy is in worse shape than
+we had known going into it, I don't know
+that it changes the sort of fundamental
+story of an economy that has proved
+pretty resilient but faces a lot of
+challenges.
+&gt;&gt; Huh. That is so interesting and honestly
+quite surprising given that we've just
+spent all this time talking about the
+intense backlash from Trump that these
+numbers elicited. Yeah. In some ways,
+this is why the president's reaction on
+Friday was so surprising. Beyond the
+shock of what he was doing, it just
+seemed sort of disproportionate to the
+actual reality of the news.
+&gt;&gt; Let's just start with these numbers
+because the figure that we got that was
+below all estimates in the Bloomberg
+survey of economy.
+&gt;&gt; You know, in the initial hours after the
+report came out,
+&gt;&gt; we've seen positive job growth for sure
+and they've been for the American
+workforce, nativeorn workers. A lot of
+the president's aids were, you know, out
+on TV and they were doing their usual
+thing. They were doing their usual sort
+of spin about how these numbers weren't
+really so bad.
+&gt;&gt; You know, a lot of that data comes pre
+one big beautiful bill. Now that we have
+one big beautiful bill and we have a
+better sense of where the taxes are
+going, I think we're going to see a much
+uh we're going to see more investment
+and and like you said, it's a relatively
+small number. So I don't I don't read
+terribly
+&gt;&gt; and you know, they were making a pretty
+good case. There was certainly a lot of
+softness in these numbers. There's no
+getting around that. Uh these were not
+the numbers the White House was hoping
+for. But
+&gt;&gt; we've been hearing a lot about
+uncertainty of the last few months, but
+that's all resolved now. So, it's all
+going to get much much better from here.
+&gt;&gt; There were plenty of arguments you could
+make for why they weren't really so
+terrible. And I I think on some basic
+level, what we're left with here is this
+economy in stasis where companies aren't
+really firing workers, but they're not
+really hiring them yet either. where,
+you know, consumers are still spending
+and sales are still there, but companies
+are reluctant to make big investments,
+big bets that that's going to continue
+going forward. Some of that may be
+because of tariffs. Some of that may be
+because of immigration. Some of that may
+be because of just sort of the general
+chaos of the first 6 months of the year,
+&gt;&gt; right?
+&gt;&gt; There's clearly some real uncertainty
+about where the economy goes from here.
+But beneath all of the noise, beneath
+all of the drama, as you put it from
+Friday, we have an economy that based on
+the numbers is still relatively okay.
+And if we were just talking about the
+numbers instead of the people
+responsible for producing them,
+Natalie, I'm not sure we would be having
+this conversation today.
+[Music]
+Well, Ben, that said, it was great to
+have you on the show.
+&gt;&gt; Thanks for having me.
+[Music]
+We'll be right back.
+[Music]
+Here's what else you need to know today.
+While Texas are waiting for relief,
+Republican leaders are redrawing maps to
+silence voters, hijack our democracy.
+&gt;&gt; The Democratic lawmakers who fled Texas
+on Sunday achieved their goal of
+preventing a major redesign of
+congressional maps in the state for now.
+Without a two-thirds quorum, the Texas
+legislature could not hold a vote on the
+new maps, which Republicans hope will
+flip five seats from Democrats to GOP
+control.
+President Trump had called for the
+redrawing of the districts in order to
+lock in Republican control over the
+House in the next midterm elections, but
+the Texas state house speaker said that
+the vote was just on hold and wouldn't
+be prevented from going through. I will
+immediately sign the warrants for the
+civil arrest of the members who have
+said they will not be here.
+&gt;&gt; He also issued civil arrest warrants for
+Democrats who left the state. Governor
+Greg Abbott of Texas said on Monday that
+he ordered state law enforcement to
+detain and return any member who quote
+abandoned their duty to Texans. He also
+threatened to try to remove the missing
+Democrats from their posts. I believe
+they have forfeited their seats in the
+state legislature because they are not
+doing the job they were elected to do.
+&gt;&gt; And in what officials are calling the
+largest environmental settlement ever
+won by a US state, three major chemical
+companies agreed on Monday to pay New
+Jersey $875 million to settle claims
+linked to pollution from so-called
+forever chemicals.
+There are nearly 15,000 of those
+chemicals in existence and they're found
+in things like non-stick cookware, water
+repellent clothing, and stain resistant
+carpets, and they've been linked to low
+birth weight, birth defects, and
+increased risk of some cancers. The New
+Jersey Attorney General said the state
+had some of the highest levels of those
+chemicals in the country. Under the
+deal, the companies Kimors, Dupant, and
+Corteva have to fund the cleanup of four
+former industrial sites which were once
+used to manufacture components for
+explosives as well as dyes and
+refrigerants.
+Today's episode was produced by Ricky
+Nevetski, Claire Tenniscetter, and
+Michael Simon Johnson. It was edited by
+MJ Davis Lynn and Liz O Balin with help
+from Mike Benois. Research help by Susan
+Lee. Contains original music by Dan
+Powell, Marian Lozano, and Rowan
+Nemisto. And was engineered by Chris
+Wood. Our theme music is by Jim Brunberg
+and Ben Lansberg of Wonderland.
+[Music]
+That's it for the daily. I'm Natalie
+Kitroof. See you tomorrow.
+[Music]

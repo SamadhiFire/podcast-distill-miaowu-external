@@ -1,0 +1,1136 @@
+Kind: captions
+Language: en
+Hi listeners, welcome back to No Priors.
+Today Allah and I are here with Shiram
+Krishnan, a top White House official
+currently serving as the senior White
+House policy adviser on artificial
+intelligence. A former tech executive
+and venture capitalist. He's one of the
+lead authors on the American AI action
+plan released this past week. We talk
+about the national implications of the
+AI race, what position we hold today,
+the workforce and energy needs of the
+future, and how to win.
+&gt;&gt; Jerham, thank you so much for joining us
+today for no prior.
+&gt;&gt; Thank you for having me. I'm long-term
+fan, never been invited before. I was
+always a bit sad, but no, thank you for
+having me for the very first time. And
+before I just have to point out for
+folks who are listening on audio that
+Elad has never looked as good, as
+dashing, as handsome as he does now.
+Eli, you've dressed up for me. I'm
+honored. This is how you can tell that
+Shriama is in politics now. He has the
+liquid tongue of gold with which he
+coaxes everybody into doing his bidding.
+So it's very good. So you know for our
+audience has been a well-known Silicon
+Valley individual. He worked at Andrew
+Horowitz. He worked at a number of the
+sort of marquee companies and names in
+Silicon Valley over the last decade plus
+and now he's in government and he's
+really working on a variety of exciting
+initiatives around AI and other areas.
+Could you tell us a little bit more
+about your role and should we be calling
+you your excellency or is there some
+special title we should be using now
+that you're in government?
+&gt;&gt; You don't have to, but I will take it.
+But no, thank you. It's fascinating for
+me to be here talking to you in this
+capacity because I've known both of you
+for forever and ever. You know, we've
+had hundreds or of interactions and also
+been such a fan of the pot.
+Congratulations. Just a little bit of
+backstory, I've been in Silicon Valley
+for a long time. I feel very old. Uh I
+did a tour of all the large consumer
+social media companies and then um I was
+at Andre Horowitz for the last four
+years uh competing actively for CDZA
+term sheets with both of you folks I'm
+sure and all this while I had no real
+intention of joining government. I
+wasn't very particularly interested in
+policy. But what what wind up happening
+is a couple of years ago I moved to
+England to head up all of Andre's
+international efforts and at the time
+the UK was kind of a hotbed of all the
+AI policy debates. they had this AI
+safety summit uh at Bletchley Park and
+this is kind of the peak of I would say
+the effective altruist versus the EAC
+kind of drama which is going on and and
+I got pulled into a lot of those
+discussions and I remember thinking to
+myself like wow a lot of people who are
+in very senior roles in governments in
+the United States back then uh and in
+other parts of the world didn't know
+what they were talking about when it
+came to AI. uh I was convinced that they
+were doing the absolute wrong thing on
+many topics for example open source or
+helping startups and it was just really
+really bad in a way which I think the
+industry didn't really appreciate until
+much later and that got me interested
+into just policy which by the way was a
+word which I didn't even understand what
+it means we didn't even get into what
+that means but I got got me interested
+in policy when President Trump got
+inaugurated in the first week he did two
+things one he rescended the Biden
+executive order on AI I which was bad
+and awful in many many ways which we can
+get into. And then he signed a new
+executive order which basically said
+that America should dominate and win on
+AI. And he then he called upon a few of
+us to say you guys need to come up with
+a plan within 6 months to figure out how
+America is going to dominate and win.
+And so that put us off for the races.
+And I think everything that has happened
+since then culminated in the event that
+we had yesterday where we put together
+you know we put out this long document
+28page document on America's action plan
+with a bunch of exegoers. So so that's
+kind of the little bit of history.
+&gt;&gt; That's great. And could you tell us a
+little bit more about what the main
+things that you considered as you put
+together this plan were? What are the
+things that you worry about
+geopolitically? How do you think about
+AI and competition? Big tech versus
+small tech. like it feels like there's a
+lot of threads in that and it'd be great
+just to get a view of what are the main
+the main issues that created this plan
+and then it'd be great to talk through
+the plan itself.
+&gt;&gt; One of the catalytic moments which
+happened was the day before I started
+this job. I get a call and this was the
+weekend deepseate came out and there's
+actually some chatter that I've heard
+online that the China timed it so it can
+come out right after the president got
+sworn in and we were like hey we just
+want you to come in and brief a lot of
+people at the White House on deepseek
+because we like hey what is this? Is it
+cheaper? Is it faster? Do do they have
+some magic way of training these models
+which only cost a few million bucks and
+not you know hundreds of millions of
+dollars? What's going on? You folks
+might remember that narrative which
+existed that weekend. And so I got to go
+and you know me and David helped brief
+all of the White House leadership but it
+was really a starting gun because I
+think that moment was profound because
+it immediately told us a few things. It
+told us that America doesn't have a huge
+lead on AI. It actually has a very very
+small lead. If you remember at the time,
+DeepSseek was the only reasoning model
+which was not open AI. I don't think
+claude had come out with a reasoning
+model yet. I don't think uh Google had
+yet. It was the only nonopen AAI
+reasoning model. It was very high up in
+the leaderboards. It was a bit unclear
+as to what their cost claims were and
+how they had gotten there. I think we
+know a lot better.
+&gt;&gt; Yeah. And all that all that ended up
+turn turning out to be very overstated,
+right? Like basically there was a claim
+that was a few million dollars to train
+the model and they didn't really talk
+about the hundreds of millions of
+dollars are probably spent to get to
+that point. It's sort of the last
+training run you know was sort of what
+they paid for. Yeah.
+&gt;&gt; Yes. Absolutely. I think I would say
+there were claims were inflated and the
+claims we take seriously. The claims
+were inflated was to your point they
+kind of I would say they put out like
+the final training run and as all the
+ablations and training costs and I if
+you look at the paper by the way I don't
+think they make the claim that the total
+cost was few million bucks. I think
+that's what the press imputed but I do
+think they deserve a lot of credit. I
+always make a point to say look Deepsec
+did some very very good technical work.
+If you think about didn't they didn't
+have as good hardware as the American
+model companies do. What they do with KB
+caching MLA you know there's some you
+know multiple theories on how they
+actually got chain of thought. Maybe
+they did by themselves maybe they had
+some help from American companies but
+there was some really novel new work
+there right and I think it told us that
+okay we don't we don't have a lead that
+we can take for granted. They were
+definitely the best open source model.
+So that and I think to even today I
+would probably say the Chinese models
+Deep Sea Quinn are the best open source
+models but symbolically it told us that
+we are now in a race in a very close
+race by the way.
+&gt;&gt; What does it mean to win the AI race
+like why why do we need to win that and
+what like what would losing mean how we
+know we've won? Well, I suspect you
+folks agree AI might be the most
+transformational economic cultural force
+of our lifetime. And I believe that if
+the country or the ecosystem which winds
+up getting ahead is going to have these
+cyclic effects, right? like you're going
+to, you know, you're going to power
+productivity, you're going to have drug
+discovery, you're going to, you know,
+discover uh new material sciences, new
+technologies, which then feed back into
+your infrastructure, feed back into your
+economy, and you're going to get this
+flywheel effect where whoever winds up
+getting ahead could wind up really
+accelerating ahead in kind of a classic
+network effect ecosystem way that all of
+us in Silicon Valley will understand.
+Now, that is purely on the civilian
+economic context. You can also imagine a
+military context, right? Think about
+everything from drones to autonomous
+weapons. I'm pretty sure it's not in our
+best interest to have another country
+have that same economy of scale and
+flywheel and race ahead of us. So that's
+the race. Now one interesting question
+that we've been pondering which we can
+get into is how do you actually measure
+what it means? How are we doing in the
+race? And one measure I've been playing
+around with and maybe I want to get your
+take on is I think Google just announced
+this morning uh that they inference one
+quadrillion tokens a month or quad I
+forget which one and one of the measures
+I've been thinking about is let's say
+the world inferences I don't know maybe
+it's called 10 quadrillion tokens a
+month we don't know what the number is
+right what share of those tokens are
+being inferenced on American hardware on
+American models right and how do we
+maximize that market share And that's
+kind of one of the mental models I've
+been playing with. And it's in a way you
+can think about it as we are America
+Inc. We have a product stack starting
+from GPUs with Nvidia and AMD and a
+bunch of others. We have a model layer
+with obviously OpenAI and Grock and
+Gemini and many many others. We have an
+application layer. You've had many many
+of them on your podcast from agents to
+all kinds of software. How do we make
+sure this American stack is dominating
+that market share of tokens in principle
+good method? Yeah, it's really
+interesting because the one other thing
+that you didn't mention I feel is the
+cultural exportation through the models.
+And so if you look at prior waves of
+sort of culture spread, it was the movie
+industry, it was social media and then
+now it's these models because a lot of
+people go to these models as a tr a
+source of truth for history, for
+information, for other things. And there
+have been some famous examples in some
+of the Chinese models where there's a
+mission of Tian Square, a mission of
+other facts. And relatedly, there's some
+things in some of the US models that
+seem very politically slanted or
+otherwise not quite great. But it's
+interesting to also think about it from
+the perspective of broader cultural
+exports. I just wanted to add that to
+your points on defense and scientific
+progress in other areas. I think that's
+another key thing. It's actually
+something we actually addressing and
+you're absolutely right like I grew up
+uh in India and a lot of my exposure to
+western culture was in the internet and
+Google and obviously a lot part of the
+internet was American and you know that
+kind of introduced me to Americana and
+imagine if 1995 the internet was not
+done by America but run by one of our
+adversaries and so in a similar context
+you're abstract when deep sea came out I
+think there all these great examples of
+lots of stuff in there which doesn't
+probably align to American values Now we
+are actually addressing this. President
+signed an executive order yesterday. Uh
+it's called no woke AI in the federal
+government. And what it does and you
+know this is probably going to be uh one
+of the spicy uh bits for your audience
+is that it basically says that look from
+the day one of the Trump administration
+we have tried to fight back against DI,
+you know, wokeness, critical race
+theory, whatever you want to call it in
+all parts of the federal government,
+right? and all kinds of propaganda. And
+what this EO does is actually very
+simple. It says that all models that the
+federal government will procure, aka
+your taxpayer dollars will be spent on
+has to do two things. They have to be
+truth seeeking and they can't have
+artificial ideological bias added. If
+bias is added, you just have to be
+transparent about where you're getting
+that bias from. It should be very simple
+for both people. But to your point, you
+know, that cuts to the heart of u, you
+know, if you're saying nothing happened
+in Tenement Square in 19, you know, in
+the early '9s, that cuts to the heart of
+that. It also cuts to the heart of many,
+many other things in the from the
+culture wars that we have now been
+trying to fight against.
+&gt;&gt; Hey Ram, you used to work in social
+media for a long time, right? Uh, like
+this sounds a little bit familiar in
+terms of like is it a platform, is it a
+publisher, what is the information
+consumption that most consumers have?
+Like where does that analogy apply or
+break down? It's a good question. I
+think in some ways that's for the
+industry and the ecosystem to answer a
+bit. You're right. I I spent a lot of
+time at Facebook now Meta at Twitter.
+One of the things I saw when I was at
+Twitter was how easily you could inject
+cultural bias in your algorithms. I have
+so many stories about how if you pick
+the right kind of Twitter accounts which
+then feed into the trending algorithm
+which then feed into Twitter moments and
+then which every journalist or editor
+will wake up and next thing you know
+it's like one of the news stories of the
+land and BuzzFeed will write a piece
+saying people on the internet are
+talking about this. I saw this over and
+over again and it left me with this
+profound appreciation of how algorithms
+can shape culture and you know one of
+the things I always say is Twitter or X
+is the mmetic battleground upon which we
+fight a lot of these ideological
+battles. So when it comes to AI, I think
+it's probably going to be very similar.
+Like my kids use chat GPT to answer
+everything right from history to
+geography to, you know, just kind of
+silly kids questions. And you can easily
+imagine a world where people inject
+their own cultural biases into this. And
+you know, in the EO, we have a few good
+examples. We have, you know, we have
+examples of the Poke being seen as a
+black person, misgendering someone,
+being seen as worse than thermonuclear
+explosion. uh and a lot of it is meant
+to say that you can easily imagine a
+world where these systems which are at
+the heart of so many things that the
+government is going to use we're always
+going to use we don't want them
+artificially injected with an ideology
+at least without being transparent about
+it
+&gt;&gt; what are some of the other main points
+of the announcement from yesterday
+&gt;&gt; so one of the ways David and I try to
+think about this with some of the people
+work on is is it should be it should
+make sense as a strategy for almost like
+a technology company and I hope that you
+know I please go read the document
+It's actually pretty readable and you
+know and hopefully for those of you who
+work in the tech industry it should kind
+of make sense and we think if America is
+going to win the race with China they
+needs to do three things and they ladder
+up to the strategy. The first is we need
+to build infrastructure right at the
+heart of this if you kind of go back to
+the scaling loss what do we need we need
+comput computation we need data and in
+the United States it's been really
+challenging with the grid we have with
+kind of this crazy permitting that we
+have around uh constructing new data
+centers to get some of these projects
+off the ground so the first part of the
+action plan really dives into what the
+president calls build baby build kind of
+playing on drill baby drill which is all
+about how do we make sure we are
+building infrastructure because
+obviously you know some of the other
+countries are and just as an example one
+of the things it talks about is to make
+permitting on federal land a lot easier
+for data centers when it comes to old
+environmental laws or other regulations
+which get in the way. So think of that
+of like let's make sure we are building
+the infrastructure to power these models
+uh as we scale up. So that's number one.
+The second pillar is innovation which I
+would kind of say as let's make sure uh
+all these amazing companies everyone
+that you know of and you know or maybe
+some companies which don't exist yet can
+build applications and models or
+anything they want as fast as they can
+and what we're trying to do is to a
+couple of things I really want to
+highlight. The first is we want to cut
+through red tape. You know like until
+last a year and a half ago I was in
+California along with all of you.
+California almost passed SB 1047 which
+if that had happened it would have been
+the end of open source by the way in the
+United States. We would not have a
+llama. we not have an oven mini coming
+out and um and a lot of states which
+want to do versions of this and we think
+that AI is a national priority and if
+you're going to compete with China we
+need to make sure that these are things
+that we take deal with at the national
+level rather than every single state uh
+especially states which have ideologies
+that you know you and I may not agree on
+um you know try and set their own rules
+uh and by the way some people may not
+understand this I understand this if you
+have a small state set rules it can
+often become the de facto law for the
+country because if you're a company
+you're like well I have to operate in
+the state or I have an office so let me
+just do that for everybody kind of just
+like the EU does that so we want to make
+sure cut through red tape let's make
+sure there's regulation it happens at
+the federal level so that's very very
+key because I think that's going to
+enable not just the big companies but
+every series A series B actual hire
+companies whatever the kids are doing
+these days you know we make sure that
+they are off the list that's number one
+the second part is open source Now, I
+think we probably talked about this a
+bit offline. Open sour was one of the
+big reasons I actually got into the
+policy world. The Biden administration
+really really tried to scare people
+about open source. Talk about how unsafe
+it was. SB 1047 obviously tried to kind
+of basically ban it in many ways. And
+what the EO does is say like open source
+is a space where the United States needs
+to win. It actually points to some
+resources that is going to be made
+available to research because I think
+you and I know open source is the way
+everyone from a kid in a in their
+bedroom or their dorm room all the way
+to a startup to all the way to somebody
+who wants a you know lower cost of
+inference in their IoT device or robotic
+startup that's what they're using
+&gt;&gt; for context too much of the internet
+runs on open source software right so
+the server software and other things
+much of that is open source the
+protocols are all open for the internet
+uh that's also true for crypto and so
+you know it's interesting Because
+removing open source from things like AI
+actually just centralizes power, right?
+It centralizes power into a small number
+of companies that could then be
+controlled by the government. And so to
+some extent, the fact that you all are
+supportive of open source means you
+actually are supportive of a thousand
+flowers blooming, but also a lack of
+direct government control in literally
+everything AI. So it's a very
+interesting uh counter stance to take.
+&gt;&gt; By the way, Enard has our talking points
+better than I have because that is
+absolutely right. One very fundamental
+difference I think we have with the
+Biden administration is the Biden team
+really looked as AI as something to be
+centralized and controlled. Everything
+was about how do we make sure that we
+regulate these three or four companies
+and only three or four companies can
+build AI. They got to submit their
+models for testing. It was all about
+control in a centralized fashion. Now
+when I moved to DC, one of the things I
+realized is that's kind of the way DC
+thinks which is control and centralized
+in one place. You and I know that's not
+how Silicon Valley thinks. And one of
+the ways, one of the reasons Silicon
+Valley is the envy of the world is
+because anybody any day can go to a Y
+cominator seed round or raise or just go
+off to the races and they could just
+build something amazing and it catches
+everyone's imagination. And I think what
+we want to do is enable just that rather
+than say, okay, we want to centralize
+power, you know, within a 10 mile radius
+of where I am right now.
+&gt;&gt; Yeah. In general, too, central planning
+tends to lead to very bad economic
+outcomes. And so that's the collapse of
+the Soviet Union, etc. And so it's it's
+it's it's something that's been tried
+many times before in many industries and
+it tends to lead to a very bad place in
+terms of innovation, in terms of
+economics.
+&gt;&gt; I think one of the things that people
+like underpric about open-source models
+is they're going to happen and it's a
+strategic weapon. They're happening and
+Western companies are using Chinese open
+source models very broadly already. And
+and so like if you believe that like not
+every model is going to be ideologically
+like neutral or you know aligned with
+American and democratic values um then
+you probably have a problem right and so
+the the ability to like support you know
+whatever your point of view like
+pluralism and openness and innovation um
+and have some control of like as a as an
+ecosystem versus in a centralized way is
+is a very different point of view than
+like you know we'll let China develop
+it.
+&gt;&gt; Yes. And I think you're making a
+profound point and you're already seeing
+that where when somebody's using
+Deepseeker or Quinn that's an expression
+of soft power and I think I would much
+rather have you know them using a model
+built by somebody who kind of agrees
+with us and has our values. That's
+number one. The other issue I would
+point to is that these models we don't
+know what's inside them.
+Interpretability is still a naent field
+and you could very easily see ways where
+you plug a model into a cursor or
+windsurf and you generate a piece of
+code and then two years down the road it
+turns out that code had a little if
+statement saying if I'm running in some
+piece of critical infrastructure go do
+something else and we don't have ways to
+validate all that and so a lot of
+reasons why we want to make sure that
+our American models or western models
+wind up winning and this is something I
+think we were going to put a lot of
+focus
+Just because you have such a good view
+into this, can we talk a little bit
+about infrastructure and energy since
+you kind of made that like point number
+one in terms of what what sort of stack
+we mean? Like people hear these claims
+from the leaders of the large labs that,
+you know, we're building a data center
+the size of Manhattan or, you know, it's
+the energy that a a city uses in any
+point. Can you contextualize like how
+much capacity we really need to build
+and sort of like what the biggest
+bottleneck is like? Is it is it the
+grid? Is it sources? Is it workforce?
+It's like you know when you want to
+solve this problem like as a systems
+person like what is the first problem?
+&gt;&gt; Okay. So the first thing I would say is
+it is a system and this system was one
+that wasn't really battle tested for
+decades. Somebody showed me this number.
+I think the United States basically had
+like 1 to 2% of power usage growth for a
+very very long period of time. And so
+you can imagine this whole system of
+everything from gas turbines, coal,
+renewable energy. There was regulation
+which kind of really stopped nuclear and
+then you had these first state utility
+companies which often didn't have the
+incentive to innovate. You basically
+kind of ran the state. You weren't
+really you know getting new demand or
+competition. You had a grid which wasn't
+really pushed because again you didn't
+need to and then you have essentially a
+patchwork of environmental laws
+regulation everything from water to
+emission to a whole other sort of things
+which I'm sure I'm forgetting. Right. So
+somebody kind of explains to me as kind
+of this tangled spaghetti mess of things
+which again until two years ago was just
+fine because you and I were not
+dramatically using more energy than what
+we were doing 10 years ago. Now that
+obviously changed the scaling laws
+arrived and everybody is trying to build
+new things and I think the way we are
+trying to attack it is at every single
+step of the way which is one is how do
+you make generation better second is how
+do we make sure we make constructing
+these data centers better making it
+easier to kind of these regulations and
+kind of get these red tape out of the
+way making sure we put focus on the
+right energy sources and making sure
+like you know we have those lined up. So
+we trying to take an approach to all of
+this but it is a complicated problem
+just because there is so many different
+players so many different states and so
+many different patchwork of laws and
+regulations involved but I think what
+you know I encourage folks to look at
+the executive order yesterday which the
+president signs on infrastructure which
+I think is going directly at this. We
+also have something called the National
+Energy Dominance Council which works
+very closely with Secretary Bergam and
+Secretary Wright you know for interior
+energy and I think you're going to see a
+lot more from us on that front. The
+short answer Sarah is it's complicated.
+I think we we're taking a very very
+strong approach to this but there's
+going to be more to come. How do you
+think um energy infrastructure is going
+to feed into these big data center
+buildouts? And so, you know, one theory
+I heard is that fiber is cheap and easy
+to lay while grid is hard building out
+the electrical grid. And so therefore,
+you're going to centralize data centers
+near sources of cheap power and then you
+just run, you know, fiber into them
+versus moving things around based on,
+you know, other types of uh capacity
+from a telecommunications other
+perspective. Are there specific sources
+of energy that you think are going to
+power this AI revolution? Are there
+things we need to reinvest in?
+Obviously, the president has issued some
+executive orders around nuclear.
+&gt;&gt; I'm just sort of curious how you think
+about what that future really will be
+and what are the major sources of energy
+that we really need to be dependent on
+and how does that all shape up from an
+infra perspective.
+&gt;&gt; What I think we see our role as is like
+get rid of the red tape. Let's make sure
+the permitting on these things are super
+easy. Nuclear, that's another case where
+I think for decades and decades the
+climate lobby and the doomers that kind
+of stop any real efforts over there. So,
+I think we seeing a lot of effort. Let's
+get the r let's get the red tape out of
+the way. Let's get construction going
+and see where we get.
+&gt;&gt; The other thing that I think is
+interesting from an infrastructure
+perspective is manufacturing capability
+and supply chain and a subset of AI
+supply chain is dependent on China or
+other countries. Are there certain areas
+of supply chain that we should be
+repatriating back or how should we be
+thinking about more generally American
+manufacturing?
+&gt;&gt; I say that America needs not just
+engineers but it needs people up and
+down the stack. It needs electricians,
+technicians. We need to get construction
+going and we need to get these jobs and
+this whole ecosystem back in back in the
+US. So if you look at the action plan,
+there's a bunch of stuff in there about
+this. I think I mentioned two parts of
+the action plan which is building and
+then innovation on cutting out red tape
+and open source and the president also
+talked a little bit about uh
+copyrighters today. The third piece of
+the app action plan which I also think
+is a pretty dramatic switch away from
+how the Biden folks thought about it is
+around making sure the world uses our
+standards and our technology. So just
+for context and again this is something
+unless you are a policy wonk you may not
+be super familiar with. Uh under the
+Biden era there was something called the
+Biden diffusion rule which basically was
+a 200page document which basically made
+it illegal for America to export GPUs.
+it was really hard for uh you know if
+you're Jensen or if you're Lisa Sue to
+really kind of get your GPUs out to
+other countries even some of our allies
+who want to who are really enthusiastic
+about AI and they want to help us out
+but we're not actually giving them GPUs.
+So we listened that order and one of the
+things we talk about is how do we make
+sure that we get all of our allies
+around the world using the American
+stack. So that means how do we make sure
+um and we just did this in the Gulf with
+the American AI accolation partnerships.
+How do we make sure we are getting our
+GPUs over and one of the advantage of
+doing that is we get our GPUs over we
+probably get them to run our models as
+opposed to models from you know another
+country and we go from there. So having
+this sense of an American stack that we
+can export and the world standardizes on
+that's I would say is a third part of
+the action plan. One other topic that I
+think people believe that China has a
+lead in right now is certain areas of
+robotics that could be human form or
+other. It's drones. It's potentially
+catching up on self-driving and
+autonomy. So if you think about that
+both from a societal perspective, it's
+obviously automotive. So if you look at
+European market share of cars, BYD and
+others are really taking enormous
+amounts of share. And if you look at
+these, these are the same technologies
+that would also be used from a defense
+perspective. And so to some extent, one
+could argue that there's two parts of
+AI. There's the digital forum side of it
+and then there's the real world robotics
+and drones and interactive side. How do
+you think about that in the context of
+American policy and what what in the
+action plan addresses that capabilities
+to build these physical world products?
+&gt;&gt; The action plan actually has a section
+in it of making sure you know we are set
+up for robotics. I think that's
+obviously that's going to get super key
+within the next 18 to 24 months. I would
+say it ladders from everything else that
+we talked about uh both in the US and
+internationally. The first is making
+sure that our model companies can
+actually build as fast as they can. Um
+our startups can go innovate as fast as
+they can. The second piece I would say
+is we want to make sure that the world
+is using our robotics companies and our
+models and not uh say deepseek or quen.
+And that's actually one of the things we
+do because if when I was talking to a
+bunch of robotic startups, you're seeing
+a lot of distilled deepseek a lot of
+distilled quen out there and what we
+want to do is to make sure that we have
+an open source response and American
+response which pushes our products as a
+standard out there. But you know it is a
+focus I think it's going to increasingly
+come into focus uh in the next say 6
+months to 12 months and we spending a
+lot of time on it. Related to that,
+there's always a question of how do
+things actually get done in in politics
+and how does it translate into the real
+world? And I think, you know, you've
+gotten something like 90 different
+agency actions listed in this action
+plan and how do you think about these
+things actually translating into
+industry, the economy, action by
+companies and other players like what
+what are the mechanisms that you all
+have to sort of uh ensure that these
+things come together or happen? And if
+they don't come together, what's what's
+plan B?
+&gt;&gt; Well, there is no plan B. We want to get
+this done. And I think one of the things
+about the Trump administration, you'll
+see is that the administration moves
+really, really fast, you know, which is
+why in the first week we had a bunch of
+executive orders. Uh look, we already
+worked at all of it. Um we had three
+executive orders signed yesterday. One
+for infrastructure, one for export,
+which kind of ties to a lot of things we
+talk about, and one to stop ideology and
+wokeness and DEI. And I think you're
+going to see a lot more. We are already
+at work on um pretty much all of it.
+That is no plan B. We're going to go get
+this done. And the other part I would
+say from yesterday is I've been
+inundated with just great response from
+the industry. A lot of folks that you
+and I know uh who are just really
+excited to see the government actually
+maybe understand AI and is actually
+happy to uh you know make sure that
+American companies can go build American
+AI. So I think they're also very excited
+to go partner with us. So it's go go go
+no time to waste. We're getting it done.
+There is no plan B. It's actually
+exciting because I think to your point
+on understanding AI and government, when
+I've looked at prior administrations, be
+them Republican or Democrat, a lot of
+the people who went into them from tech
+were weren't the core driving forces of
+tech in the technology world. In other
+words, they get great people, very nice
+people, but it wasn't the top of the
+industry. It wasn't necessarily the
+deepest technical experts in some cases.
+Obviously, there's counterexamples to
+that. And so, I think one thing that's
+striking about this administration is
+the caliber of tech people that they
+actually got this time around is very
+high relative to prior administrations.
+So I think uh that impacts on the
+understanding. It impacts how you all
+are thinking about the world. So I found
+that very um exciting and inspiring in
+terms of just having a really strong
+technical basis for what you all are
+doing. So I think that's really good.
+&gt;&gt; Thank you. There's a lot of a lot of
+great people in the administration tech
+industry not just in AI but for example
+you have uh Emil Michael you know as
+under secretary for R&amp; DRPA in the
+Pentagon. You have many many others. You
+know, one of the things I think about is
+we just bring a understanding of how the
+tech industry works, what is possible,
+what isn't. We bring a sense of urgency.
+We also just really deeply understand
+the technology. Like you'd be shocked at
+how often I've seen David Saxs in a
+meeting explain how inferencing works,
+you know, what high bandwidth memory is.
+You know, how the world has shifted from
+a, you know, pre-training context to a
+post-training context. And so we can
+just really mix it up on the technical
+details. And we obviously also have a
+lot of strong social ties to the
+industry. So we can call upon them to
+help us out. So I think it just adds a
+very different flavor of understanding
+of AI where again to go to my earlier
+point I think DC kind of just suffered
+from a lack of real technical
+understanding of both the industry and
+of the products involved.
+&gt;&gt; I'm exposing my cards a little bit here
+but it it sounds from both your policies
+and what you're saying that you're on
+the same page. Do you think that the US
+should be like a a a technocracy? Like
+if it just that simple statement,
+&gt;&gt; what does a technocracy mean?
+&gt;&gt; Leading with technology and then having
+a bunch of people in technology leading
+the country.
+&gt;&gt; I'm not sure I would think of it that
+way. Um the way I see it is America has
+been blessed to have the leading
+technology ecosystem of the world and
+that is an ecosystem which is in an
+intense competition right now and I
+think we could have easily lost that
+competition and it's still a very very
+close race and we need to do everything
+we can to protect preserve and extend
+our lead but at the end of the day if
+you look at this administration we are
+still trying to make sure that you know
+we serve of the American worker uh the
+American workforce that is if you look
+at the action plan you know that is at
+the heart of everything we do so I don't
+think I see it maybe exactly the way you
+describe it I see it more as you know we
+have something you know technology
+ecosystem that is the envy of the world
+the president by the way you know when
+he was on stage yesterday he talked
+about a lot of the inventions that the
+United States had made right like we did
+the integrated circuit we had shock
+invented the transistor we had the fat
+children all the way we you know
+internet came from us uh we did page
+rank and Google uh we did the iPhone and
+Cupertino so many of these things that
+the world winds up using. So what do we
+do to make sure we preserve that lead?
+Especially when it comes to AI and if
+you look at AI, look, there are so many
+potential timelines that AI could take.
+I have read AI 2027 from Daniel. Uh I
+have read much more optimistic takes on
+AI. I think there's going to be an event
+horizon beyond which you and I can have
+reasonable discussions on how AI could
+play out. But in any one of those
+scenarios, I want to make sure the
+United States is well positioned where
+we can take advantage of the
+productivity and the science and the
+technology breakthroughs that's going to
+happen and then be set up for whatever
+happens next. So I'm not sure I really
+kind of answer the question you phrased
+it.
+&gt;&gt; No, no, no. You you did. But I was I was
+trying to ask the question in a bit of a
+triggering way because I think a lot of
+people would say like it shouldn't just
+be driven by the technologists and like
+what good that does that you know do us
+in in sort of winning the AI race. But I
+I think that's actually a really
+profound claim that you made which I I I
+hear as like the country that builds the
+most capable AI systems they they gain a
+lot of upstream control and influence
+that has been traditionally very
+American, right? And we should all care
+about that. like you, you know, use the
+examples of accelerating life sciences,
+new materials, optimizing industry,
+being more efficient in healthcare and
+education and things that matter to
+every American and like compounding
+national wealth. And so I I actually
+think that like sometimes a lot of this
+discussion becomes like, you know, an
+argument about like what parties have
+influence versus like what position do
+we want to have as a country, right? And
+whether or not we want that edge.
+&gt;&gt; That's fair. And I think very simply, we
+want to win.
+&gt;&gt; Yeah. So I I have two questions for you
+before we run out of time. One is just
+going back to this idea of you being the
+strong proponent of open source and open
+weights. What is the strongest
+counterargument to the people who would
+raise concern that the pdoom the
+probability that there's some sort of
+like cycle of key man risk or you know
+some factor of abuse of these powerful
+models um increases with open source
+models. If you look at the action plan,
+it's kind of a manifestation of how we
+think about things, right? Like we do
+talk a lot about risk. We talk a lot
+about having systems in place to
+identify cyber risk, bio risk, etc. I
+think the difference from the Biden
+administration or the folks who talk
+about pedum a lot on Lesson is that we
+are just inherently more optimistic. If
+folks haven't seen it, I encourage them
+to watch the vice president's speech in
+Paris where he talked about, look, we
+want to embrace AI with optimism rather
+than fear. And I think one of the things
+which happened is that there was such a
+lot of fear uh I would say mistakenly
+placed on open source. I think there are
+two kinds of fears people uh talked
+about. One was what you talked about
+which is hey what are the risk if these
+models could do really really bad
+things. The second was hey are we
+actually giving away our secrets to
+China like um and and what deepseek
+showed us is that China are actually
+building these models just perfectly
+fine just by themselves. and uh it's
+actually American models which were far
+behind. So uh you know immediately I
+think that argument got um refuted on
+the P2 question. I think that's a
+perfectly fair question and I think we
+need to be vigilant about it and the
+action plan um talks about it. But we
+have to remember we are in a race with
+China and there are going to be
+catastrophic consequences if Chinese
+models are running on every robot, every
+camera, every car, every device around
+the world and we just got to face that
+reality.
+&gt;&gt; I think also the people who are driving
+the PDM arguments to some extent are
+coming from one or two large companies
+that have closed source models and so I
+think we also forget the incentives of
+who's actually pushing for this. It's a
+very traditional form of regulatory
+capture. If you have a big pharma
+company, they work with the government
+to prevent other entrance into the
+industry. And this is exactly what it
+felt like is at least partially
+happening in the AI world. Now, that may
+be for, you know, perceived altruistic
+causes or other things. We're worried
+about humanity, but I do think the
+reality is a small number of companies
+have been kind of pushing this narrative
+pretty strongly that open source is is
+bad and these are companies that control
+the closed source models.
+&gt;&gt; Oh, absolutely. I think, you know, I
+think there's a but I think there's a
+few things going on. One is that you
+know people pushing for regulatory
+capture. Second is obviously you know
+the schools of thought from effective
+altruism and a lot of people kind of
+worried about this all kind of mixed
+together. Here's my rebuttal to that
+like I think one of the things that open
+source software has shown us on the
+internet is that by default open source
+is just safer and more secure. Uh what
+does Linus law say? More eyes make every
+bug shallow. And over the last 20 years
+what has the security industry learned?
+more scrutiny you put your libraries to,
+the more scrutiny you put your browser
+rendering engines to, the safer it
+becomes. We have seen that time and time
+and time again. And I think the same
+holds true for open source and open
+weights where I sort of you know if you
+have a model up on hugging face and
+somebody downloads a 500 GB file and the
+thousands of students and researchers
+just kind of pounding away on that I
+think there's a good chance they're
+going to find issues a lot better than a
+very small safety team uh inside a large
+lab. So uh I'm a big fan of open source
+sometimes being a lot more secure than
+closed source as well.
+&gt;&gt; Awesome. Thanks so much Tron.
+&gt;&gt; Thank you. Your excellency, your
+governorship, your grace. I'm not sure
+again what the right title is. Your
+policy advisorship.
+&gt;&gt; Uh feel free. Right. You know the more
+inflated it helps my ego. So thank you.
+&gt;&gt; It was your excellency. That's what we
+started with.
+&gt;&gt; We really appreciate the time today.
+You're sure. So thank you for joining.
+&gt;&gt; Thank you so much. Such a such an honor,
+you know, and uh I love the work you
+folks do and thanks for having me.
+&gt;&gt; Find us on Twitter at no prior pod.
+Subscribe to our YouTube channel if you
+want to see our faces. Follow the show
+on Apple Podcasts, Spotify, or wherever
+you listen. That way, you get a new
+episode every week. And sign up for
+emails or find transcripts for every
+episode at no-bers.com.

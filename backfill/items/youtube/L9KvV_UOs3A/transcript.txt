@@ -1,0 +1,2425 @@
+Kind: captions
+Language: en
+In six months, he went from zero,
+basically nothing to selling this
+company for 80 million plus dollars to
+Wix. The funny thing is that base 44,
+for the first time in my life, was not
+trying to build the biggest thing ever.
+Me and my girlfriend, we were on a
+plane. I told her, hey, you know what?
+If we get to 1.5 million till the end of
+2025, we're going to buy a nice car. And
+we got there in like 4 weeks. I feel
+like the journey that you've been on
+over the last 6 months is kind of like
+the dream for a lot of founders. How
+long were you actually solo? The first
+person started a month and a half before
+the acquisition. So I think it's a
+different ball game because even if
+you're solo, you're literally managing
+teams of AI writing code. I don't think
+I've written a single line of HTML or
+JavaScript in the past 3 months. You're
+competing against very wellunded
+companies, Lovable, Bolt, Replet,
+Versell. How did you get your first 10
+users? I started with three users,
+really close friends. I got them to sit
+down with me every other day around the
+table and they would use the the tool.
+They will try to build something. It
+will break. I'll take a look and then
+just build it for them. I'm not going to
+try and scale anything before I know
+that users enjoy it. And the best metric
+to to seeing them enjoying it is that
+they're starting to share it with
+someone. Today my guest is Mayor
+Schlommo. This is a unique episode
+because I almost never have
+conversations with earlystage founders.
+I made an exception because Mayor's
+journey is in many ways the dream for a
+lot of founders. Mayor started a company
+called Base 44, which is essentially a
+more advanced vibe coding tool. 6 months
+later, just a few weeks ago, he sold a
+company for $80 million to Wix. He's a
+solo founder. It was just him for most
+of those 6 months. He never raised any
+money. He bootstrapped it and built it
+purely off profits. When he launched it
+on Product Hunt, it got so much love
+that the Product Hunt algorithm thought
+that it was bots when it was really just
+people from all over the world wanting
+to support the product. In our
+conversation, Mayor shares exactly how
+he grew the product from zero to 10 to
+100 to hundreds of thousands of users.
+His tech stack that allowed him to move
+so fast. The tools that he uses to be
+super productive as a solo founder with
+severe ADHD. Also, the super important
+insight that everyone needs to hear
+about how he came up with the idea and
+then refined the idea. also just a bunch
+of common growth tactics that he tried
+that didn't work for him and some key
+advice for anyone looking to start their
+own bootstrapped company. A big thank
+you to Nam Seagal and Amir Klein for
+suggesting topics for this conversation.
+If you enjoy this podcast, don't forget
+to subscribe and follow it in your
+favorite podcasting app or YouTube. With
+that, I bring you Mayor Schlommo. This
+episode is brought to you by Sauce. The
+way teams turn feedback into product
+impact is stuck in the past. vague
+reports, static taxonomies, unactionable
+insights that don't move business
+metrics. The result, churn, lost deals,
+miss growth. Sauce is the AI product
+co-pilot that helps CPOS and product
+teams uncover business impact and act
+faster. It listens to your sales calls,
+support tickets, churn reasons, and lost
+deal, surfacing the biggest product
+issues and opportunities in real time.
+It then routes them to the right teams
+to turn signals into PRDS, prototypes,
+and even code that drives revenue
+retention and adoption. That's why
+whatnot, Linkree, Incident.io, and Zip
+use Sauce. One enterprise uncovered a
+product gap that unlocked $16 million
+ARR. Another caught a spiking issue and
+prevented millions in churn. You can too
+at s.app/lenny.
+Sauce, built for AI product teams. Don't
+get left behind.
+This episode is brought to you by Dcout.
+Design teams today are expected to move
+fast, but also to get it right. That's
+where Dout comes in. Dcout is the
+all-in-one research platform built for
+modern product and design teams. Whether
+you're running usability tests,
+interviews, surveys, or in the wild
+fieldwork, Dcot makes it easy to connect
+with real users and get real insights
+fast. You can even test your Figma
+prototypes directly inside the platform.
+No juggling tools, no chasing ghost
+participants. And with the industry's
+most trusted panel plus AI powered
+analysis, your team gets clarity and
+confidence to build better without
+slowing down. So if you're ready to
+streamline your research, speed up
+decisions, and design with impact, head
+to dcout.com to learn more. That's
+dsc.com.
+The answers you need to move
+confidently.
+Mayor, thank you so much for being here.
+Welcome to the podcast. I am so excited
+to do that. Thank you for having me,
+Lenny. It's my pleasure. I don't
+actually do conversations like this
+often with early stage founders, but I'm
+really excited to be doing this because
+I feel like the journey that you've been
+on over the last six months is kind of
+like the dream for a lot of founders,
+uh, especially founders that don't want
+to build massive teams, that don't want
+to raise a ton of money. Basically, the
+journey you've been on is build a
+product. People loved it. It grew like
+crazy. You didn't raise any money. You
+sold it for $80 million. We'll talk
+about this uh 6 months in. And I know
+it's not all rainbows and butterflies
+and this amazing, you know, happy moment
+to moment all day, but I know it's a lot
+of hard work, but this is just what a
+lot of people want to achieve when they
+start a company. And you're just in the
+thick of it right now. Like you just
+announced your acquisition. So, I feel
+like this is a really unique point in
+time to extract as much wisdom out of
+your head as possible. Really the right
+time to kind of like reflect back and uh
+Yeah, I think there's going to be many
+more times, but this is a really unique
+time. Let's start with a couple basics.
+Just what what is B 44 for folks that
+aren't super familiar with the product
+that you built? Base 44 is an AI AI app
+building platform, meaning that you are
+able to use natural language to describe
+what you want to build an app, a game,
+um a website or something like that, and
+then have AI code it for you. Um we're
+not the first ones doing that. I think
+it's a very uh crowded category but I
+think base 44 takes a very different
+approach a very opinionated one uh for
+and one that that users or users like to
+call it a batteries included approach uh
+which means that for every app that you
+build in base 44 you already have
+builtin included a database integrations
+user management analytics
+um without connecting thirdparty
+services or bringing your API I keys and
+so on. And I think it helps a lot when
+you're trying to scale a vibe coded
+application
+uh to be very complex and very
+functional. And so yeah, I think for
+most of the category nowadays, they're
+doing a fantastic job. One with building
+react web apps like front- end web apps
+and then when a user needs um some
+backend stuff, uh they have a great
+integration with superbase. Superbase I
+think is the most common kind like thing
+that that most competitors use. Um and
+honestly all of them are doing a great
+job with the integration but as the
+nature of an integration I think it's
+potentially slightly uh less strong than
+building everything full stack builtin
+and once we did that and actually uh I
+engineered the the endpoints and the
+SDKs and whatever to work well with LLMs
+I think B 44 does a really good job with
+building very complex and functional
+real world applications. Okay. Uh, I
+want to talk about the origin story of
+just like how you even realized that
+there was an opportunity here. Clearly,
+it worked out. But before we get there,
+let me just share a couple stats about
+this journey to give people a sense of
+just how crazy this is. And add anything
+I'm missing. So, in six months, you went
+from zero, basically nothing, to selling
+this company for 80 million plus dollars
+to Wix. Uh, it took you three weeks to
+hit a million dollars ARR. You
+bootstrapped this business. I think you
+put in a few tens of thousands of
+shekeuckles, not even US dollars. You
+have something like 400,000 users right
+now. You're solo a founder. Uh there are
+two different wars involved in the
+journey. You're based in Israel, so you
+have to deal with that. And we're going
+to talk about some of the stories. Any
+other stats that are worth sharing?
+Anything else that's important high
+level before we get into the origin
+story? No, I don't think so. I think uh
+it it like looking back it sounds uh
+insane, but mostly this is it. Okay.
+I love I love that perspective. Okay.
+So, how did this start? There were two
+things I think that drove me to it. One,
+my girlfriend needed like a website to
+capture leads. She has like a small
+business. Uh she's like an artist and I
+tried building that with like one of the
+tools out there for website building,
+not an AI powered one. And it was such a
+pain trying to do that one kind like
+designing with a drag and drop and
+everything and then things get messed up
+in mobile and you try again. And it's
+like and then how do you manage your
+data and so on and and and in my
+previous company we dealt a lot with
+LLMs and when while I was doing that I
+was like it doesn't make any sense. I
+know models can write the code to do
+exactly what I'm trying to do right now
+like build a website for my girlfriend
+or build like slightly more complicated
+than a website was actually a web app.
+Um I know models can do that. They just
+they don't have the right infrastructure
+to do that. Like if I set up an
+infrastructure for like hey here the
+leads go to the database uh like okay
+you can write react code and it will
+serve it and it will be great from an
+SEO perspective and so on then I'll
+notice like it's going to be super easy
+and she can do it on on her own. And the
+other trigger
+I was volunteering to help with the
+scouts organization here in Israel uh
+with like everything that has to do with
+like uh system and software and and back
+office systems that that they needed and
+and back then the like it's a huge
+organization by the way really huge like
+tens of thousands of people um and they
+have many as as any other organization
+in the world that we're constantly
+living at has many software needs. And
+so every time they needed to build
+something, they didn't have any internal
+devs, you know, any software engineers.
+So they'd reach out to other agencies
+and agencies usually would quote them
+like a million bucks just to build
+something that I knew people could
+build. I was and still, by the way, a
+huge fan of tools like Retool for like
+uh the previous uh wave of like no code
+uh tools, but then those tools were
+really more of like low code tools,
+right? They still needed to know some
+JavaScript something to make them work
+to have the interruption, right? And
+again also back then I was like I know
+for the software and systems that they
+want to build. I know it could be done.
+It just LM can write that and we can
+really empower the organization to build
+all the different tools that they want.
+just give it the right setting, the
+right infrastructure so that the LLM has
+access to a database, maybe to another
+LLM to build like the the app on top of
+AI, uh to have some user management, to
+have all those kind of things that it
+needs, but it can translate the user
+needs to actual code. Um so those two
+were triggers
+back then. Um, I started a company 7
+years ago called Explorium. Very
+different than Pace 44. Very much like
+enterprise top down sales uh in the data
+space. Uh, very capital heavy. We raised
+$130 million. I was a CEO for 7 years.
+Uh, then when the October 7th war uh
+broke out, I went to reserves for like
+almost a year. And then when I came out,
+I went to travel the world a bit just to
+to take some time off and wanted to do
+what I was like what I like the most and
+I haven't had a chance because exploring
+grew and grew uh and haven't had a
+chance for a while to do which is uh
+coding. Wanted to get back to building
+and get my hands dirty. And so I had
+those like given those experiences both
+with my my partner, my girlfriend and
+also with the scouts. I was like, let's
+take a shot at it and start the product
+that I know is going to be very very fun
+to build. And I think when you're
+approaching it this way and like not the
+usual way of like let's raise a ton of
+money and try to own the category. Uh,
+and I knew I'm always getting into a
+very crowded category. I also knew that
+I have like some some different angle
+and some different take on the category.
+Um, but when you're approaching it this
+way, it's like there's not a lot to lose
+and I think it gives a lot of energy.
+Um, and that's how base 44 started. It
+definitely definitely didn't think it's
+going to take off so fast. Um, but yep,
+that's pretty much about it. Okay. I
+like that you don't take good credit for
+the work you did to help it take off so
+fast. I'm excited to talk through that.
+Just first a few maybe takeaways from
+what you just shared of how this idea
+emerged for folks that are looking for
+ideas. Uh, one is clearly you were
+solving somebody's real problem, your
+own problem, helping your girlfriend
+build this this uh, website for her and
+then working with this uh, the scouts
+program in Israel. Basically building
+them software. So, so I think that's a
+really important takeaway. You weren't
+just like, hey, maybe this will be
+useful to someone. It's I have a real
+problem. I need I want to solve it and
+nothing out there is good enough, so I'm
+going to build it myself. Uh, the other
+is you said that you're having fun.
+Feels like that's an important element
+just like you should enjoy it. you
+shouldn't feel like it's some kind of
+drag. You know what I feel like in like
+when I was a first timer when I first
+started my my first company exploring I
+felt like uh many smart people told me
+those two very important truth uh is
+like build something that that you would
+want to use or that you'll actually use
+and make sure that throughout time you
+keep doing something that you really
+like. And so when you're first- timerr
+or at least for myself when I heard
+those kind of things I was like yeah
+those are cliches business is always
+important let's increase revenue like
+let's close more deals um and I feel
+like like those are even though it
+sounds like a cliche it's so much easier
+one building something that you'll
+actually use so I actually tried solving
+both problems like I was building the
+the product and at the same time
+developing those those two products for
+my girlfriend, for the scouts, uh, and
+later on also for other friends and
+family. And we'll get to that. That's
+how I got like my first couple of users.
+But super important to build something
+that you use. You'll move forward so
+much faster. Uh, but also doing
+something that you love. I think I was
+the CEO of Exploring for 7 years. It was
+such a fantastic experience. It had so
+many highs and lows, but at some at some
+point it grew. And it took me too much
+time to realize that what I really like
+doing is just building products and
+scaling products and not necessarily
+like being a CEO, managing sales,
+managing HR, managing all those kind of
+things. Um, and I think that that gives
+a lot of power like it's it's easier to
+work very hard uh when you're doing
+something you really like. Let's follow
+that thread and talk about being a solo
+founder. I think this is something a lot
+of founders like you know it's hard to
+find a co-founder that out of the blue
+when you have an idea uh YC famously
+doesn't like solo founders so I think
+there's a lot of power in what you've
+achieved so let me just ask you first of
+all any I guess lessons about being a
+solo founder that you think would be
+helpful for other fe people considering
+starting company on their own and also
+just how do you stay productive how do
+you get stuff done as a solo founder
+using AI one solo founder and specific
+specifically bootstrapping
+it's not for like I don't think it's
+suitable for every use case right if
+you're building like a B2B company
+especially if you're like doing a B2
+enterprise company like you'll need to
+hire a salesperson or sales team like
+you need to like spend your money on
+marketing it's going to be very hard to
+try to sell to a company when you're on
+your own and nobody knows if the
+product's going to stay there tomorrow
+so I don't think it's like the right
+setting for every company I feel I feel
+like if you're building something that
+has the potential to be viral uh to
+target the masses. And so it doesn't
+really matter if you're like funded or
+not. You just like build a great product
+that people will share. If you're able
+to do that and you're able to get out of
+like the escape velocity of of getting
+to product market feed, then everything
+is better doing a solo bootstrap than
+than the other way around. One else like
+even from a pure cold angle of like the
+financial outcome obviously if you're
+able to bootstrap your business and and
+and again get out of like the scape be
+profitable to some degree then you'll
+likely generate a financial outcome
+that's I think for most cases way better
+than than any other any other thing.
+Second is so not specifically the solo
+but the boot stopping thing less
+stressful like you wake up in the
+morning as like if you're profitable and
+and there's like I think there's like
+this term default alive it's so much
+easier I've done both and the weight of
+uh raising so much fund even if your
+investors are great and my investors
+were awesome and they were always
+supportive and so on but even so I feel
+like uh being bootstrap like no other
+money except of yours in the business
+and the and the business is growing and
+and and profitable I feel like can can
+keep the energies up and I think I keep
+like one thing that I've learned from my
+previous company is like energies are
+super important usually it's a marathon
+for me it was a sprint I thought it's
+going to be a marathon but you want to
+do something that you like for years and
+years and if you if you're able to show
+up every day then your your chances kind
+like goes up immediately
+Um but then there's like a lot of a lot
+of downside and a lot of stressful
+moments doing that. Um one just keeping
+the software up, keeping the servers up
+when you're solo, you don't have a
+DevOps team, you don't have on call, you
+don't have anything I think is really
+tough. I had a few accidents that that
+really I'm I'm joking about that but I
+saying it to my friends like shorten my
+life a bit with just like the stress.
+Um, I had one funny, now I look at it as
+a funny moment where um, I was at my
+brother's wedding and we were doing the
+photo shoots and I was actually the one
+actually was supposed to also do the
+ceremony and then during the photo
+shoots I have a friend from MIT calls me
+up and he's like, "Hey, somebody hacked
+into base 44 um, and it's like a crypto
+scam and you've got to take care of that
+because people are building apps on top
+of B 44 and they're putting the data
+inside and so on and I remember like
+hanging up the phone I was like okay
+I'll take a look at it immediately I
+remember hanging up the phone and saying
+I know like it's such it's it's karma I
+know for a fact it's true somebody
+probably hacked into that because what
+are the chances that on the only night
+that I'm not able to open up a laptop
+and handle that uh this is what happens
+um And so I I I threw out there some
+excuse and like I have to go and like
+practice towards the ceremony or
+something like that. Open up a laptop,
+spend two hours, two very scary hours of
+my life. It ended up being just the LLM.
+Tried using a package called
+cryptography which is like a NodeJS like
+a JavaScript package has nothing to do
+with crypto. But obviously the the user,
+not the technical user, saw this error
+of like, hey, something cryptography or
+something like that was sure that
+someone like a crypto scam hacked into
+into their app. And so you have a lot of
+those like moments that
+the whole thing is like you're not able
+to share it with anyone, share the
+burden even or the stress or put anyone
+on top of it and say, "Hey, you know
+what? I'm out for today. Like you handle
+that." In my previous company, my two
+co-founders, we were really good
+friends, like great friends, and even if
+um one of us would mess up, then still
+would have someone to share it with and
+run jokes around and like and and just
+be there with someone. So, when you're
+solo, it's hard. Um
+and then brutal prioritization, which is
+something you have to do because you
+have to keep up the pace of the product.
+And obviously nowadays with AI and like
+everyone can build software like you
+have to go extremely fast on one side
+and on the other side figure out
+marketing along the way and and how to
+do that and every time I remember that
+every time I had this ceremony where I'd
+start the day and try to
+look inside and ask myself what do I
+need to work on today and what do I want
+to work on today. So what I when I woke
+on today was always like I want to code
+like that's what I like to do. Let's
+improve the product. I know there's like
+a bug that that uh uh makes like annoys
+some of the users. I know there's like
+the feature that that's in my head that
+I'm saying oh competition haven't
+thought about that. I have to build it.
+I have to put it out there to be in
+front of everything. And then it's like
+what do I have like what do I have to do
+today? And so at many different stages
+on on base 44's journey, it was I know I
+can like improve the product a lot, but
+I need to do some more marketing or I
+need to like I know this is not the
+bottleneck. I know people are like
+converting well, they're growing,
+retention is looking good. Uh and it's
+all about just like increasing the
+audience even though I know like I need
+like even though I want I really want to
+work on the product and so I think
+there's like this context switching is
+hard. Yeah. And the last piece obviously
+is
+I was spending a lot of my time on
+making sure that my setup
+like how I code, how I write content and
+so on is optimized and everything is
+automated. So I spent a lot of time
+thinking and agonizing about how to
+structure the code repository. uh for
+example so that I can use uh cursor for
+back end and base 44 for front end to
+write like code really fast. Um,
+and this was like really important for
+me to keep kind like trying to find out
+new ways of like how to automate and
+increase the pace of like building solo
+because if you're able to correct that,
+I feel like smaller teams with a lot of
+context nowadays can can move faster.
+And the same goes also for marketing is
+like and and for for other tools
+where you want to automate as much as
+you can especially when you're solo
+because time is going to be like the the
+thing that kills your business if if
+you're not managing it right. Okay, let
+me follow that thread. That's a really
+interesting topic. Uh so what is in your
+stack of productivity for yourself and
+then just that allowed you to build base
+44 just like the tech stack of B 44. So
+you said cursor base 44. What else did
+you use day-to-day that helped you be
+more efficient? So I have severe ADHD
+and so it's it it can also be like a
+superpower, but then you have to like
+first that the first thing you want to
+do is like make sure that your your walk
+day looks like uh like that that you can
+be focused and that you get like a lot
+of like deep work. And so I use a
+product called rescue time which I
+really like but I think there's like a
+bunch of other products like shuts down
+every access to Twitter and LinkedIn and
+so on. This was really hard because I
+was starting to like uh do this building
+public which turned out to work pretty
+well for B4. And so every time you want
+to like take a look at your post or see
+kind of like how many likes and like
+impressions and so on but then like you
+can't work on anything else. And so uh I
+had this first setup that that really
+like allowed me a certain set of
+softwares software tools that I can use
+to manage kind of like deep work. Um
+carousel has been awesome. B 44 not only
+did like the work for the front end side
+but also a lot of like the business apps
+that I used well on top of B 44. So
+where I'd manage users and give credits
+and and where write content and then
+like I had this app where I kind like at
+the start of the week would write uh
+some like highle content ideas and then
+the the base 44 app will take it and
+break it down to kind of like something
+that sounds more like me for a LinkedIn
+post and then I' I'd approve that and
+then it would break it down to like a
+Twitter post. And so I wrote things that
+were were like really customized to my
+process and what I wanted to do which
+really helped. But I think you can do
+that not only with baseboard just you
+can vibe code your way into like
+productivity tools that really fits what
+you want to do and and what kind like
+the process for you looks like. And I
+had so again for example for my uh uh
+social post and so on there's like a
+process that I would follow and maybe no
+one else would would would follow that
+and so vibe code the custom app for that
+was really was really helpful. Let me
+actually ask about that. That is super
+cool. So you built basically internal
+tools for yourself using base 44. People
+can use other tools potentially. So you
+built one that's like help me craft a
+tweet. How does that actually look like?
+What is the input? That sounds really
+interesting.
+So the way that I I like to work is like
+I would have those uh moments where I
+would have inspiration for like a piece
+of content, right? So the way I grew
+base 44 probably a different topic but
+was a lot around building in public and
+growing an audience um and speaking to
+my audience were which were fellow
+builders. So it was really easy. So a
+lot of that was like around sharing on
+like the base 44 journey. Um,
+and then I'll have a process that I
+follow is like I'll write down before
+that on a piece of paper like some ideas
+that I had for like post for throughout
+the week because you want to keep
+consistency and keep putting like great
+things out there. And then my process
+before the app was like I'd go to Ched,
+I'll write like a very vague kind of
+like structure or skeleton of a post and
+tell it like hey uh fix my writing
+improve my writing a bit and then ch
+will spit out something that was like
+too far off too much like too salesy not
+my tone and then I'll say no keep closer
+to the original and we'll fight about
+that and then like remove the emojis the
+hyphens look weird and so on. So, okay,
+I'll have now my my my LinkedIn post and
+I'll need to generate an image for that.
+So, I'll go to a different tool and then
+I'll take this LinkedIn post and now
+okay, I need to like put it out also in
+my Twitter account. So, okay, let's
+break it down to a Twitter thread. now
+you need to shorten the like it's you
+need to make some adjustments to the
+content and so I've taken this entire
+process which I think was like what was
+working for me um and just voded an app
+around it uh to help me speed it up and
+then made sure that the LLM inside the
+app was using my own tone of voice and
+was saving the previous posts to
+understand how it looks like what are
+the posts that I really like that I've
+written beforehand so that in the next
+post it will speak just like me. This
+might be a good plug for B44. So, like
+say someone were to go to bass44.com and
+try this out. What would be a prompt
+you'd suggest? Like how they get started
+building a tool like this? Usually what
+I'll do is I'll write down I think LLMs
+nowadays do a very good job with like
+start vague. It's going to build the
+skeleton for what you need and B 44 does
+a good job with this like understanding
+at least the big pieces. Okay, there's
+going to be an LLM writing the content.
+There's going to be this and that and so
+you don't have to like write the entire
+spec. is just like something like hey I
+want to build my own content generation
+AI powered tool uh here's my process
+currently and my process is doing this
+and then LinkedIn and then Twitter write
+something to support that and then from
+there iterate and also something that I
+really like with with the entire
+category again not only base 44 I feel
+like there's tons of tools doing a great
+job but something I really like in B 44
+is that like you can because it's really
+easy to change the software it's like
+you get this adaptive software is like
+as you improve your processes or maybe
+your processes change uh it's like you
+adapt it. So like base 44 got acquired
+by weeks um two weeks ago and so now the
+process of like putting content out
+there looks a bit different and so with
+just two prompts like you change it to
+support your new process which is really
+fun. That's a cool phrase adaptive
+software. Uh I heard malleable software
+is another way to describe this. Let me
+I want to talk about growth but a couple
+more things real quick. this idea of
+bootstrapping. I'm curious. So
+essentially, you're competing against
+very wellunded companies. Lovable, Bolt,
+Replet, Vzero, Versell, uh, Cursor
+raised, I don't know, a bazillion
+dollars at this point. I know you're not
+competing with cursor directly. If you
+weren't going to be acquired by Wix, did
+you think did you plan on raising money?
+Do you think you had a chance staying
+bootstrapped competing against the folks
+that everyone's, you know, the more
+popular products today? base 44 was like
+fairly profitable, much more than than
+what I thought. So even if like even if
+I wasn't getting acquired, I thought
+like I can make good money out of it. It
+ended up like I remember we I I
+had like a very failed product hunt
+launch at like mid January and then
+started writing some uh like started
+building in public at around start of
+February and that's where it took off
+and then started like I think first
+dollar or like the the first 10 or 100
+bucks were towards um March
+and then in May I already did close to
+200k in profit. Um, and so I think
+uh I think either way there was like a
+room to compete and even though it was
+small I was seeing that the the users
+that come to me stick like that come to
+B 44 stick with B 44 even though they're
+very familiar with like the rest of the
+competition. The challenge was obviously
+making as much noise as the other folks.
+Uh so you can see like the other vibe
+coding tools doing like a million
+dollars hackathons and so on and doing
+an awesome job on a growth really. Uh
+but I didn't have the resources so I
+tried finding ways to fight the fight.
+Uh, I think we had a very successful
+hackathon for good, which turned out to
+be a great growth engine and also did
+good in the world, which is like we had
+3,000 teams just building some great uh
+do good uh apps. But also, to be very
+honest, I think part of the reason to
+get acquired is because this market has
+been moving so fast, faster than
+anything I've seen, faster than what I I
+thought it's going to move. And at some
+point, I figure it's going to be like
+you see base 44 grows and you start
+thinking, hey, this can really help
+people with their lives. Like this, this
+is like one of those software categories
+that I'm saying that I'm very not
+objective, but I feel like can really
+move the needle for a lot of people.
+I've been seeing people build like
+fantastic awesome things. And so I was
+like, let's go for the like the big one.
+Let's try and actually build some global
+scale, maybe lead the category, maybe
+win it. I felt like the best chances to
+do that is to
+uh partner up with Wix. There's like
+plenty of reasons to do that. We can we
+can touch on that later, but like same
+DNA, same customer base, like they know
+what they're doing. They're seeing and
+and obviously like very good connection
+with with the entire management team
+over there. And so I feel like the
+acquisition,
+again being very honest, I felt like
+it's going to be a financial success
+either way, but the acquisition is like
+taking a stance and saying, you know
+what, let's let's let's play in the big
+league and and and let's uh punch down,
+not only punch up uh when when fighting
+in this very crowded space. Uh and
+that's part of the reason why to get
+acquired. That was really insightful. So
+part of the part of what I'm hearing is
+you could have stayed independent and
+made a really good income and built a
+really good business at least for a
+while. Who knows what would have
+happened long term. Uh but it if as a
+soloreneur as someone that's never
+raised money, you can make significant
+income doing something like this in a
+crowded space if you have something that
+people love that didn't have people up.
+So I think that's a really interesting
+insight. Like it's okay if there's a
+bazillion dollars in funding going to
+competitors. There's a lot of there's a
+big market here. Yeah, I think it's a
+bit different ball game right now. I was
+like I was scared many times like I I
+thought how how am I gonna go go into
+the fight? Those companies are one some
+of the fastest growing companies ever.
+Again, they're like great teams and very
+well funded and a lot of money being
+poured into. Um but then like throughout
+time I saw that I'm able to keep the
+pace if not even have the like a faster
+pace and have like a different angle and
+and it's not changing over time. So like
+nobody's like and so I think it's a
+different ball game because even like if
+you're very a very small team or even if
+you're solo like you're you're literally
+managing like teams of AI is like
+writing code. I don't think I've written
+a single line of like HTML or JavaScript
+in the past 3 months but still like that
+base 44 front end changes a lot because
+uh AI writes that. So yeah, if you if
+you have an interesting angle and you're
+able to move fast, I feel like money and
+funding is not necessarily the
+the factor to win a category. And that's
+going to be like and and that's going to
+change even more drastically in future
+as LLM get better. It's like people like
+10x engineers would have way more
+impact. there going to be 100 X
+engineers because they're able to manage
+ILM and it's not necessarily the team
+size nor the funding uh that that will
+be able to win you a category and what
+you just shared is amazing that you've
+haven't written any you said JavaScript
+or HTML in three months which is half
+the lifetime of this company which sold
+for $80 million and more potentially. It
+feels like now the big things you got to
+get right is kind of like at the
+beginning of figuring out what problems
+to solve and being really good at
+understanding where the gaps are and
+then it's distribution marketing getting
+people to be aware that you exist and
+give you a shot. Yeah. And even
+distribution, I'm still learning the art
+that is like it's a even distribution
+nowadays, it's very different. And and
+also in favor of like the solo, not
+necessarily the solo, but like not
+necessarily that you're going to pour a
+lot of money on paid campaigns. Like B
+44 with close to zero marketing budget.
+I spent like a uh $2,000 on an
+influencer post that didn't really bring
+anything and then tried paid for like a
+couple of thousands of bucks. um didn't
+really work and so everything was like
+organically and built in public and so
+even distribution is is very different
+but yeah if you have an interesting take
+on any domain base 44's first user was
+one of my best friends like we grew up
+together and up to few months ago he was
+a restaurant manager um and then he left
+and started like a SAS company for
+managing invoices for restaurants so
+this is a guy that has both distrib
+distribution. Obviously, this is very
+local like software and company uh but
+has distributions like has those
+connections but has a very deep domain
+knowledge and now that like the
+technical he has no like he him and
+coding are like very different in their
+very different places. Um and so I think
+if like domain knowledge become or or
+domain expertise and some again
+interesting take on a domain or or a
+product or a category becomes like a key
+thing and then distribution. Yeah,
+that's a hard one to get. Uh but also a
+world that's changing a lot. Yeah. And I
+I love that you did it with no funding.
+The other thought here as you're talking
+is it feels like you could have kept
+doing this and made money and lived a
+great life, but there's this question of
+how ambitious do you want to be? I've
+gone through this myself where I was
+like, "Oh, this newsletter is I'm making
+a living off this writing one email a
+week." Uh, I could do live really well
+just doing this, but then I'm like, "Oh,
+why not do a podcast? Why not do another
+podcast? Why not do some other stuff?"
+And the reason I do that is I just like
+it's boring to do something the same way
+forever. And there's this opportunity
+that's out there. I'm like, I should do
+that. Uh, and I feel like some people
+are on it. I just don't need that. I'm
+good. I'm going to live in, I don't
+know, Fiji and just code it and make
+100, 300, 500k a year from this thing.
+But I feel like folks like you, like
+there's more ambition and one way is
+raise a bunch of money, another sell to
+a company that has a platform that you
+can build on. Yeah, I emphasize with
+this a lot, but the funny thing is that
+like B 44 for the first time in my life
+was not trying to build the biggest
+thing ever. So I remember like when I
+started exploring my previous company, I
+was so um
+like so hung up on like let's raise the
+most amount of money in the least amount
+of time. I remember that I showed like
+remember that I looked kept looking like
+hey Exploium raised $100 million before
+Snowflake. This is insane. This is
+amazing and so on. Um and I did that for
+seven years. Um,
+and I think B4 is the first time that
+like I stopped and said, you know what,
+I just want to go back to do what I
+really love, which is just building a
+product. I don't care if it like if it
+wins the category or not. I don't care
+if it's going to become really big or
+not. Um, I remember when we when when me
+and my girlfriend got back from like the
+trip to Asia and we were on the plane, I
+told her, "Hey, you know what? If if we
+get to 1.5 million, I don't remember
+where I said exactly this number, like
+if we get to 1.5 million in AR uh till
+the end of 2025, uh we're going to buy a
+nice car. Uh and we got there in like
+four weeks. And so it was the first time
+like saying, let's not try and build the
+biggest thing. Let's just do something I
+really like. Um and let's just build a
+product that I'm going to enjoy
+building. But then at some point it got
+to be very very successful. I think it
+comes with like once you seeing success
+and you see like true positive impact on
+people then you're saying okay you know
+what let's go for the like let's play in
+the big league um and try to scale it
+that uh so aligns with my journey. I
+similarly I'm like I'm just going to do
+a newsletter. Life's going to be great.
+I'm not going to build I'm not I I
+called it my anti-mpire. I don't want to
+build anything big. I'm just going to
+keep it chill project chill project
+avoid getting a real job. That's what I
+called it. And and I think that is a
+really big insight. Some of the best
+stuff comes from not putting a bunch of
+pressure on yourself, trying to build
+something huge uh and just following a
+poll, following your interests,
+following uh just that insight you have
+and ends up being some of the best ideas
+come out of that and the biggest ideas.
+I love it. I agree with that. Yeah. This
+episode is brought to you by Content
+Square, the analytics platform that
+helps companies build better digital
+experiences. Ever wonder why customers
+drop off before converting? Or why some
+pages perform better than others?
+Content Square takes the guesswork out
+of digital experiences, giving you
+real-time insights into how users
+interact with your site or app. With AI
+powered analytics, automatic frustration
+detection, and clear visualizations,
+you'll know exactly what's working and
+what's holding your customers back.
+Whether you're optimizing an e-commerce
+checkout, refining a B2B lead flow, or
+improving a mobile app experience,
+Content Square pinpoints exactly what
+needs fixing and why, Content Square
+powers better customer journeys across
+1.3 million websites and apps. Discover
+the insights you've been missing at
+contentsquare.com/lenny.
+Let's talk about growth. So, here's what
+I want to do. I want to talk through
+just how you got the first users of B44.
+So, I'm thinking maybe how'd you get
+like the first 10 users? How'd you get
+the first hundred users? How'd you get
+the first thousand users? What are the
+the levers used there? What are the
+tactics? So, let's start with 10. How'd
+you get your first 10 users? Just
+begging people close to me that I feel
+like that they have uh that I have
+really good connections with uh to use
+it. I feel like there's no other way.
+And maybe there are other ways but um
+again I was very new to like uh B2C like
+to consumerish type of product and so I
+grabbed well I started with even three
+users like really close friends.
+Two of them back at the time I caught
+them in like a part of their life where
+they were unemployed. So I was like hey
+why don't you try build a SAS business
+or something like that.
+And so three really close friends um
+where somehow I got them to sit down
+with me every other day around the table
+and they would use the the tool. They
+will try to build something. It will
+break. I'll take a look. I'll take a
+look at the logs. I'll go back to my
+computer, try to change it, push into
+production and then just build it for
+them. I feel like plenty of people are
+lucky to find maybe a method that
+consistently works for your like 10,
+100, a thousand uh users and then from
+there. But I try to look at it as like
+milestones. And so first I was like I'm
+not going to try and scale anything
+before I know that uh users enjoy it and
+and the best metric to to seeing them
+enjoying it or or at least making value
+out of it even if they're not enjoying
+because there plenty of bugs and
+slowness and so on is that they're
+starting to share it with with someone.
+So I haven't invested anything in
+marketing before. I felt like okay for
+the first three or five or 10 friends at
+some point they started sharing it with
+their friends like you'd see okay
+there's like one new users today and
+then two new users today and so on. So
+once it started happening even on very
+low percentages because uh base 44
+turned out later in its journey to be
+very viral but back then it was like an
+okay product. People loved it and and
+all liked it and started sharing it with
+it. And so once I started seeing that
+this works uh and we got to like 10
+users where all my friends and then and
+then the 11th user or something like
+that started seeing people that don't
+really know me. That's why I knew okay
+now it's time to invest in marketing or
+try to launch this thing or try to like
+get more people to use it because if you
+try to do it beforehand I feel like
+you're going to waste a lot of time and
+resources on just like having a very
+revolving door like you get users in and
+users out. you will not be able to to
+and unless you have like a lot of money
+to invest in paid so that like it makes
+sense then then it's very hard. I knew
+that I'm not going to do that. It's like
+a product that I'm building. I wanted to
+be profitable from the get-go and not
+feeling bad for investing too much money
+into your page and so on. And so I knew
+that it has to be viral. At some point I
+started starting to look like it's
+viral. Then I did a very failed very bad
+uh product hunt launch. Uh but also now
+looking back and saying this is
+completely fine. I feel like people some
+sometimes treat their launches like
+product launches as like make it or
+break it for the company. This wasn't
+the case for me. I was like this is a
+tool for me to get to my next 30 users,
+my next 50 users. And that's exactly
+what happened. And so first product hunt
+launch we got like 50 I got like 15 new
+users. By the way, the second one broke
+product hunt. They thought there like
+plenty of bots. We won the first product
+of the day and the first product of the
+month of the week, but it's a different
+story. Um, and so we got like 50 users
+and we got the first user to pay. This
+was an insane an insane feeling because
+I'm like an entrepreneur coming for like
+the enterprise space. I was thinking
+that this is insane. Why would anyone
+pay for my product without meeting me,
+without like looking me dead in the eyes
+or trying to get a discount and so on.
+Obviously, this user turned in like a
+few hours. The product wasn't good back
+then. Um,
+but
+from there I started seeing some very
+slow growth. So, I got my first 50 and
+then 20 left and then the other 30
+started sharing it with like other users
+that were really good. And then I tried
+a bunch of marketing things. Didn't
+work. Uh, influencer post or paid or
+something like that. And then one of my
+friends uh was also a founder in a
+different different space told me, hey,
+you know what? I think it's really cool
+that you're building it on your own and
+that you're like you're trying to like
+take a very different approach than than
+the usual VC funded way. Why don't you
+share like content about that? Like the
+end of the day, it's like you're going
+to have this the same like your audience
+are builders. they're trying to build
+their own products or or maybe even
+businesses and it will likely resonate
+with them. And so I started sharing the
+journey on uh LinkedIn and I remember
+like seeing posts like okay there's this
+nice concept of building public and
+people get really interested and I think
+here in base 44 I had like this really
+nice
+uh synergy between the building public
+and also my audience was like builders
+right if I was like building I don't
+know a product to attorneys and probably
+this would wouldn't have made a lot of
+sense once I started like sharing uh
+what I'm building in public and getting
+more users and improving their product
+tremendously. I was so lucky like the
+the community around B 44 is is nothing
+like I've ever seen. It's like so
+supportive. There's so much feedback and
+so from the the loop of like improving
+the product. This is exactly like how
+how people say it should feel like is
+like people asking for features before
+you can actually build them. They're
+getting so excited about your product.
+the writing the nicest things people
+have tried like started writing like hey
+you changed my life I wanted to build I
+had that like those ideas throughout my
+life I didn't have a like an an ability
+to do that or resources or money to pay
+for developers and then the other thing
+that I did it worked really well is I've
+noticed that people really like sharing
+what they're building uh on top of base
+44 like they would write posts I
+remember at some point a friend of mine
+reached out and he was like, uh, dude,
+how much are you paying those people to
+to like write posts about space 45? I
+was like, I'm not paying anyone,
+honestly. And so what I did is I
+actually I I did this program inside B
+44, saying, hey, if you share just about
+the process of building the app or the
+app itself, it doesn't even have to be
+about B 44. If you share it in social,
+you'll get extra credits to build. And
+so those two um, like building public
+and giving up credits worked extremely
+well. Um, and that's how we got golf
+going. Okay, let's pause there. That was
+awesome. Uh, how many users do you have
+at this point of the journey roughly? I
+think there was like two weeks between,
+no, a week between having like being on
+a pace of like 20 users a day to seeing
+uh 4,000 users come into your product
+like new users a day. Um, break the
+product like it was hard scaling it.
+Also, there's like some things I needed
+to learn uh while moving. It's like,
+okay, I wasn't a DevOps engineer. I
+don't know how to scale databases. I
+didn't know that a virtual CPU would
+really come back at me when when trying
+to scale and so on. Um, and again,
+trying to be profitable and so you you
+try to use every free tier that you can,
+but then once you start scaling, it's
+really bad. So yeah, I think once I
+started sharing uh in public, it grew to
+a few thousands, okay, a day and then
+for the credit thing like did the rest.
+Okay, so this is kind of like the whole
+journey. I know there's a few other
+elements I want to touch on, but let me
+point out a few things that stood out to
+me that I think might be helpful to
+folks. The first is right at the
+beginning that coming back to a lesson
+you shared at the beginning, which is
+build for specific people. So, initially
+it was built for yourself, built for
+your girlfriend, built for the scouts
+program, and then it was built for these
+like three friends just building it,
+sitting with them, uh, building the
+things they need to use it, which is
+really interesting because a lot of
+times the advice you get is look for
+look for pull, look for people with
+problems to solve. Uh, like you almost
+went the opposite like you're like, use
+my product. I need you as a favor. Use
+my product and help me make it better.
+Absolutely. also like I don't know there
+I think maybe paradigms are changing but
+there are some things that I don't
+believe in is like MVPs first and
+foremost is like if you're building
+something that people will not be able
+to use or is not good enough especially
+these days where it's so much easier to
+build software. So the attention span
+for people to actually try out new
+software products is is is getting
+shorter and shorter. Yeah, pick a bunch
+of people that, I don't know, owe you
+something or or have any reason to use
+your product when when it's bad. Build
+for them. Be there physically. I
+remember that even when we passed uh 20k
+users, 50k users, and 100k users, it was
+still very tough to get the right
+feedback. So, I would bring like 20 30
+people to like a room together like
+almost like a focus group or a small
+hackathon. I'll do that every other week
+um just to get feedback and it was so
+much easier than any other thing and it
+was the same thing that I tried
+developing when we were just like three
+users and five users and so yeah build
+it for them they can come from different
+backgrounds again something else that I
+don't really empathize with or or agree
+with is like you have to have like a
+certain ICP it's not it's not
+necessarily about like the profile of a
+person more of like what they're trying
+to do is like way more important so you
+can have different types of people, but
+they're all trying to do the same thing,
+right? They're trying to build a tool. I
+think some of this people should
+remember the tool you're building is a
+specific kind of tool that helps you
+build things. And so these lessons don't
+necessarily apply. Uh in a lot of cases,
+you want to be really specific with ICP
+because there's like one thing you
+accomplish with this thing versus this
+very horizontal product. I agree. But I
+think that's still very good to know
+because maybe for your product, you hear
+all this advice, you need a very narrow
+focus. You got to have a very specific
+role and company size and all these
+things. you're like, "Okay, maybe not.
+Maybe if your tool is something that a
+lot of people can use for a lot of
+different reasons. Don't worry about
+that too much." Okay, so step one,
+shared it with friends, a few friends,
+like forced them to use it. Please use
+this. I'm going to watch you. Your point
+about being there physically, I think,
+is really interesting. Like don't just
+send it to them over email and and ask
+them how it went. It's like sit next to
+them and watch them use it and then keep
+making it better. Then you tried this
+product launch. Another great lesson.
+You may fail on Product Hunt. That's
+okay. You still gain like you don't It
+sounds like you tripled your quadrupled
+your user base from 10 to 30ish in a
+failed product launch product hunt
+launch. Uh you also said you've tried
+paid which didn't work. You tried
+influencer marketing didn't work. So
+basically all the paid stuff didn't work
+but that's great great lesson. I think
+people generally don't want to be doing
+that kind of stuff. The point you made
+about starting to share it in public I
+think is really interesting. A lot of
+people post stuff on LinkedIn and
+everyone like it's cringey. There's a
+lot of people building in public. Who
+cares? What are you building? I don't
+know. I don't care about what you're
+building. What is it you think stood out
+about the way you approached it that is
+it this tool you built that tell you how
+to post really viral stuff? Uh what do
+you think you did that allowed that made
+people care? Is it like the small
+community you're already a part of in
+Israel and the tech scene? Like is that
+a big part of why you think it worked?
+Is there anything else that might be
+helpful to folks that are thinking about
+building in public and being successful
+there? So, first a disclaimer. I feel
+like I had some very small not audience
+but like I had plenty of like LinkedIn
+connections before and so everything
+started from LinkedIn right till this
+day right. Yeah. So now that the
+acquisition story is is getting crazy
+all over the world. So getting a lot of
+followers from a bunch of like different
+different uh uh social media platforms
+but started with LinkedIn. think the
+fact that I was like the CEO of this
+company um previously like had some
+people around me in my connections. So
+again, you have to have like if you're
+writing to like something that I told a
+friend a few weeks ago, building public
+is great, right? But but and and other
+other like other channels can really
+work, but at some point you have to like
+take a bet on one channel that you see
+it's working. So, like if you're writing
+posts week over week and like you get
+five likes, it's likely not going to
+change drastically. Um, so and again, I
+tried a bunch of things. Uh, influencer
+didn't work. Okay, just put it aside for
+a second. Let's let's see if I can find
+a channel that works. So yeah, I in for
+the building public, I was trying to be
+as honest as I could and and just write
+the good, the bad. And I think also the
+fact that like I wasn't a venture like I
+wasn't a a VC funded company. I didn't
+try looking the best or show hey look at
+my amazing metrics or like make
+everything looks like really pink and
+really great and I'm the fastest going
+whatever bootstrapped company in the
+world. I think just writing really about
+the good, the bad, and the ugly and just
+being very realistic and sharing the
+learnings along the way. Again, that
+this is specifically for my audience,
+right? So my audience were builders and
+so I'm not sure that it it it works to
+any other product category. But yeah,
+just being very realistic and doing post
+from the deepest like technical tax tech
+and how I optimize LLM to just sharing
+some uh some feelings or growth. People
+like to see numbers. People like to see
+charts. And also even there even in the
+building public like I would ask my
+friends beforehand that I knew that they
+were the the target like what do you
+think of this post? Is it interesting?
+Is it not? Like do you get do you see
+value out of that? And it's like almost
+like a product that you're releasing out
+there. It's the same thing. Okay. This
+is really interesting. So being being
+honest really effective feels like
+there's like this underdog element of
+being a solo founder not VC funded adds
+to it. also just sharing really
+interesting learnings, things you've
+learned yourself that I'm innately
+people find interesting because you
+didn't know this stuff. Uh, and also
+just like fun stats and charts and
+things like that. Building a tool on
+base 44 that can help you make these
+tweets better. Also, there I think it's
+important to note you had a network
+ahead of this like you had people, you
+had followers, you had connections, it
+wasn't like starting from zero. What's
+like a rough sense of just like I don't
+know how large your network was. What's
+like a way to think about that so folks
+are like, "Oh, wow. I'm nowhere near
+that." I don't think it was very big.
+Um, I think it was like maybe a few
+thousand connections. Nowadays, it's few
+tens of thousands, but like you start
+seeing some engagement and and once you
+do that, especially when like saying,
+"Okay, this is the channel that I'm
+going to put all like on my way to."
+Okay, that's a really important point,
+too. It wasn't like put cross to Twitter
+and Instagram, all these things. It's
+pick one and just nail that. Yeah. Till
+this day, I think that like posting for
+me posting on Twitter was was a waste of
+time. I at some point like okay, I saw
+LinkedIn succeed and I was like, okay,
+let's do the same thing on Twitter. Now
+I have like a better following on
+Twitter, but yeah, like it was it didn't
+really work. So I was spending a lot of
+time where like from LinkedIn I saw like
+the the highest ROI and it could be very
+different for different founders, for
+different products. It could be Reddit.
+It could be like uh opening opening up a
+substack. Like it could be very
+different things for me. That's what
+worked. And like once you see something
+work, just double triple down on that.
+Keep on like don't try to spray and
+play. It doesn't work at this stage. At
+least for me. That is really great
+advice. It aligns with what I often see
+with traditional growth engines. You
+there's like SEO, there's pay, there's
+sales, there's verity, word of mouth.
+And usually a company grows mostly
+through one. And yeah, LinkedIn
+interestingly was your vector of growth.
+Also, just this incentives piece is
+really interesting, a really cool
+tactic. So, the tactic here is
+incentivizing people to share what they
+built on base 44 and they get credit to
+build more. I've never heard of that
+before. H how do you actually do that?
+Do they send screenshots or something?
+How do they get credit? They they
+literally like early on they sent me
+emails and I would tag them again with a
+with an app in an LLM. Like there's
+there support is a whole different topic
+that we can speak about for hours. Like
+how do you run support when you're solo
+which is a huge topic but like they
+would send um I would say hey write a
+post um paste the link back send me an
+email with like the link and and like
+and I'll give you credits. And so at
+some point I automated that because I
+couldn't really manage like the the
+whole thing. Uh but yeah because you
+couldn't really like connect to like the
+the social APIs and so it was hard. So,
+it's like just send me the post. I I
+know exactly what you mean with the
+support challenges of being a solo
+person with a newsletter of a million
+people. I get endless little things just
+come up. I I am really curious to hear
+how you solved it. Let's not get into
+it. In terms of being solo, actually, I
+haven't asked this yet. How long were
+you actually solo? When did you actually
+hire your first first second person into
+the journey of the six months? So, the
+first person started two months ago. So,
+a month and a half before the
+acquisition. So, I was running mostly
+solo. I think but like when when he
+started I already knew that that it's
+headed there to acquisition. Um yeah and
+also at some point like once I I like I
+like I saw that the chances chances of
+this happening are grow. So yeah, I
+hired like the best people I know cuz I
+know that like I have now this um few
+years if not more that like I want to
+build an awesome like I have to build
+this to be really big and I need the
+right people around me and it's not
+anymore about like let's try and be as
+profitable and as fun as possible like
+let's literally take a bigger bet. Um
+that's where I started like bringing in
+people that I knew um the best people
+that I knew to kind of like help me
+build that also like the the way the
+deal is structured. Not that I can share
+a lot of details around this like okay
+there's like the the 80 mil that got
+published that's the initial payment and
+then there's this airote piece which is
+really interesting because I think they
+we structured the deal in a really
+win-win situation. Um but then a lot of
+my compensation and a lot of like the
+upside is actually based on that like
+other than the 80 mil and so I have both
+the financial interest also the personal
+interest and like building English to be
+as big as possible. So in the month
+before the acquisition uh I had the team
+starting to scale but also basically for
+like became more profitable that I could
+afford myself to bring in more people.
+The first hire was that an engineer
+would what did they do? actually a
+product person. Uh like a product
+manager. Yeah. Well, it's it's someone
+was I I've been working with a lot and
+he's like a jack of all trades. So, he
+can go into like LLM logs and look at
+like mistakes and fix the pawns. He can
+write Python scripts to analyze things
+that we do. Uh he can start implementing
+analytics into the product. So, like a
+very technical
+uh
+product person that could wear many
+hats. That's what you want when you were
+starting out like at some point I was
+like his name is Yav. Um some point I
+was telling her hey Yav uh you take golf
+now and I was like I haven't done golf
+anywhere right no you take now like try
+and and let's let's try new challenge
+let's try those kind of things. So you
+want to bring in someone that at least
+the field style that can do many
+different things. Okay that's really
+interesting. Let's finish talking about
+growth and let me share stuff you've
+shared already about what worked and
+then there's a few more things I read
+that you did that I'm curious how big of
+a deal they were. So first you just
+grabbed a bunch of friends used this
+product used that to learn what to build
+you tried product hunt sort of effective
+early stages it was ended up being
+really effective then you had another
+launch that was like you said broke the
+product hunt algorithm how many users
+that drive that was that like a huge
+inflection that second product hunt
+launch the thing is like things happen
+so fast that I didn't really implement
+any like data
+like stuff like that so I don't really
+know how many how many years it bought
+but I remember I remember first like the
+the community around base 44 again is
+like one of the most incredible
+communities that I've seen is a very
+strong one and like they're all in like
+the writing so that they all were very
+excited about the product hunt launch
+and I was like let's skyrocket uh base
+44 and then I wake up and I see the
+weirdest things like base 44 is not even
+in the top 10
+um and I was like I know for a fact
+there's like a thousand people already
+voted by the time it was noon uh and
+noon in Israel right very early on it's
+like I see people right I see more posts
+on LinkedIn saying people should vote to
+base 44 and I actually see up votes um
+and so till this day I don't really know
+what happened so I one of the community
+reached out to the support team uh for
+product hunt uh and saying you guys
+should like check out your algorithm
+because something is not right like just
+even look at LinkedIn's like search for
+base 44 product hunt like you'll see
+this many posts and they're like, "You
+know what? You're right. We fixed it."
+And then we jumped to like the first
+place. We were like 500 up votes. Uh the
+delta was 500 uploads from the second
+place. Oh my god. I've never seen that.
+Yeah. So, it was it was fun also seeing
+kind of like the the community rally uh
+for for this. Speaking of community, did
+was that all in WhatsApp or did you
+manage this community? WhatsApp is is a
+surprisingly really good tool to get
+feedback from the community. Obviously,
+like it's not a great tool for the like
+the community is growing so fast. So, it
+blew past like a,000 or 2,000 or 5,000.
+I don't even remember what's the limit
+on WhatsApp. Uh, but till this day like
+the WhatsApp community, uh, which was
+like very early on, is such a great
+place to get feedback. Um, it's also
+even, oddly enough, it was when when it
+first started out, it was my best place
+to find out if the product is up, if
+there's like slowness, if there's like
+bugs, cuz people write like really fast
+and I can see that. Um,
+but obviously at some point we turn to
+like more scalable solutions like
+Discord, Reddit. Um,
+yeah, those those things. Um, and then
+just keep on sending product updates via
+email. Okay. There's another couple
+levers I've read about and then I'm
+going to move on to a different topic.
+One is this hackathon you mentioned that
+helped you grow and and be become more
+aware. Uh, the other is you did a bunch
+of partnerships which is really rare for
+a company of your size. So, just talk
+about those and and what that did to the
+business. At one point, one of the
+things I really liked about building
+base 44 is that I saw people doing like
+building apps that were really like
+incredibly positive and like doing
+really good in the world. And so and
+then it's I think something really
+interesting right now in vibe coding in
+general is like once you actually scale
+software, you can also scale the impact
+the software does. So you can have like
+nonprofits build themselves tools. You
+can have people that uh build apps for
+education and neglected domains. They
+didn't really have budget because there
+was like no business out idle and once
+you open this up and make it super cheap
+to create software then it's becoming
+and so I wanted and this was like early
+on like we were at the 5,000ish
+10,000ish users. Um, and so I said,
+"Okay, you know what? Let's do a
+hackathon uh where we open up for
+everybody to build like apps that do
+good in the world." Um, if I had no
+budget back then, so I was like, "Okay,
+this is going to be a 5k hackathon."
+Like the price is going to be 5k and it
+was your own money you were going to
+give away. Yeah, it was like the profits
+that that something base 44 did at the
+same at that time. And then a lot of
+people started registering and and a lot
+of teams. Uh it ended up being 3,000
+teams. Uh so like really big I think
+like the largest I think it's the
+largest for good hackathon uh so far.
+and then started getting um sponsor
+requests because it went all over social
+and all of a sudden I found myself with
+a very like nice back then like smaller
+business partnering up with Amazon, with
+Google, with MongoDB, with Deoid, like
+with really great companies
+uh that that one after another stood
+behind this um hackathon which was so so
+fun. like that. Those are awesome teams
+like the ones that we partner up with.
+They open up their offices across the
+globe to have like teams uh be there and
+and the prices went obviously very high.
+Um I think this is this will likely be
+one of the the top moments in my career.
+Uh was very very empowering very like
+people built a lot of like interesting
+things. I remember this person building
+a tool for her grandma was an an
+Alzheimer um like she has Alzheimer's
+and and like building an a an app which
+is essentially a game to help the
+grandmother to memorize family members
+with like photos and names and like so
+many interesting and great and impactful
+applications. I love that there's
+benefits to the hackathon route which
+other vibe coding tools are taking uh
+not just growth but also just good
+feelings and just building community and
+seeing what people are doing like
+meeting people excited about what you're
+building so so many side benefits. Okay,
+before we move on from growth, is there
+anything else that's worth mentioning
+that worked really well or just like
+they think that people think will work
+and just didn't work for you that you
+didn't already mention? The last piece,
+but people talk about that a lot is that
+um velocity eventually is a growth
+engine. So like part of like building in
+public is you want to put content out
+there that people really like to see.
+And so we joked about it, but it's
+really true. Like people like to see
+charts and they like to see numbers and
+it gets them attached to like this
+project if they're saying, "Oh, I wonder
+what's going to be profit next week or I
+wonder like how much money is it losing
+and how can you optimize?" and like that
+they get attached to that. Um, and I
+think also velocity is to some degree
+the same thing because if your product
+evolves really fast and you're putting
+features out there like every other day,
+people get attached to that and and
+people like like it's I remember I
+remember people commenting on my post
+saying you know what like it's moving so
+fast I have to try it now. Um and so
+this is part of it like velocity solves
+so for so many things like most of my
+thoughts uh when and still are when
+running base 44 is like how do we
+increase velocity? How do we increase
+velocity? It's going to solve every
+product problem you have or most of
+them. It's going to solve some of your
+marketing challenges if you're smart
+about it and and you're putting the
+content out there and you you're making
+everything like a mini launch. Uh so I
+feel like that was also a great uh
+growth tool. That is a really good
+point. Uh clearly everyone in the space
+is understands this as well. I want to
+talk about the acquisition piece, but a
+couple quick questions that have been on
+my mind. One is just what is the tech
+stack that you built on? Because I think
+a lot of founders are like, "What the
+hell do I build on? How do I what will
+help me move fast?" So get as geeky as
+you want, just like what are the tools
+and infrastructure used to build base
+44? Render.com. Oh my god, this is I
+like the honestly they're not paying me
+anything. I wish I would have invested
+or anything. I don't think I ever spoke
+to someone senior there. Um, holy like
+this is this was so much fun to work
+with and still is like uh I remember I
+mean my previous company we had like
+large teams of devops building processes
+for us to push to production. So
+render.com is like um how does it call
+like this? Um it's a cloud
+like it's like a very like built on top
+of AWS. you have a bunch of uh easy easy
+to manage processes
+um and and easy to like start up web
+apps and and scale them and so on. Um
+and it's just render. It's not like a
+fancy version of render. It's the word
+render.com. Oh yeah, I just looked that
+up. Okay, cool. Yeah. So this is like
+everything that has to do with
+infrastructure. I manage the both the
+website, the platform and applications
+itself because base for base for4 is
+like a complex ecosystem. You have that
+the user applications that have to be
+isolated and separated from the platform
+that has to be isolated and separated
+from the websites like a whole a whole
+thing. Um,
+MongoDB is really good when you're vibe
+coding, especially when you're building
+a vibe coding platform because uh
+schemas change a lot and it's not
+necessarily like users LLMs don't always
+understand what the user is trying to
+send so they keep changing the data
+schema. Um and I feel like this this has
+been a right choice obviously Kelser but
+again I was spending 20 30% of my time
+just optimizing
+for making the whole repository
+uh LLM suitable. So by the way this
+those are concept that I also
+implemented in in base 44 but one thing
+that I kept doing is I tried making the
+LLM write as least code as possible like
+when you're trying to implement a
+feature that that try to get to a place
+where it can implement the feature
+entirely without you writing code but
+that the LLM would write le codes as
+least codes are possible because then
+when the LM try to like when the AI
+tries to like implement the entire
+feature from scratch there are more
+places where it can make mistakes or get
+confused. There are more things that it
+needs to save in the context when you
+ask it for a follow-up prompt or
+something like that. And so I built a
+very high level very opinionated
+infrastructure like code infrastructure,
+right? It takes care of like the entire
+thing. When you build a new feature, it
+takes care of like the entire like the
+the CRUD, the authentication, the
+database, like everything that has to do
+with that. So that when you ask the LLM
+to implement a new thing, it writes very
+little code. And by the way, this is
+also true for B 44 is like provide the
+LLM with a really good infrastructure
+and SDK and have the LM like the LM
+still has the flexibility to write the
+entire feature because it's code, but
+make it so that uh that it doesn't need
+to to spit out too many tokens and
+obviously everything that has to do with
+rule set. There's one uh uh
+controversial take uh for me working
+with LLMs is uh don't use TypeScript,
+use plain JavaScript, use JS6. Uh it's
+easier for models to write code this
+way. So the front end for base 44 for
+the platform I mean um is built in JS6
+not TypeScript and I feel like this has
+been working well. part of the reason
+why I haven't written a single line of
+HTML or or JavaScript in the past like
+Jesse does this really well. Um, and
+another thing that works really well
+working with AI is a lot like try to
+push as much as possible in the same
+repository
+instead of like separating the front end
+and the back end. It's easier to give
+like the contest context to the to the
+AI of like both what's in the back end,
+what's in the front end.
+Um,
+besides that, so my stack is like the
+back end is in Python.
+I feel like people can be very
+judgmental about that
+in terms of performance. I haven't
+gotten into performance issues and
+there's like a lot of a lot of traffic
+to base 44 and every now and then people
+try to do B 44 and still the server
+holds. So I feel like if you're building
+it the right way, uh, Python is just a
+very great language to do that. And
+another maybe interesting take is, uh,
+because many of the the
+the new apps and products are bu are
+being built to some degree around LLMs.
+So one of the things that I use is
+for the LLM that actually writes code in
+B 44, I use I use a mix of different
+models for different tasks. So CloudFo
+for example does a really nice job with
+first the initial prompt like writing
+the app from scratch then everything
+that has to do with UI is just fantastic
+like design is great but then for
+example Gemini is really good when when
+you get to a very complex uh or like
+very complex problem or you need to
+figure out an algorithm or cloud for got
+stuck in some bug loop which happens a
+lot when you v code. Um, and so I have
+this pipeline that tries to figure out
+the user prompt and then um route it to
+the right LLM. Uh, which I feel like has
+been working pretty well. Wow, that was
+uh extremely interesting. Uh, in this
+routing does this is this what you do
+within cursor or you do this within base
+44 based on what the person's working
+on? Base 44. Yeah, I don't think has
+this. I wish they I think there's like
+maybe an an an auto option for like but
+in base 44 is like when users ask that's
+awesome I first try to analyze what
+they're asking and then figure out
+what's the right to use. That is so
+cool. So it's just claude and gemini
+those are the two they use for base 44.
+Yeah. Well, all of those tools basically
+for Ker all the vibe coding tools I use
+the same uh paradigm or I don't know if
+you call it or method which is like you
+have the heavy guns which is usually
+either cloud for or gemini and then
+cloud for and gemini usually um create
+the highle
+uh solution or high level kind like what
+changes do you want to make to the file
+so not writing all of the file from
+scratch every time carousel does that
+basically like and so writing like the
+only the chunk of code that needs to be
+implemented in high level then you you
+get like smaller faster models like
+flesh or faux mini from openai to
+implement to kind like uh to patch the
+code inside the this file. Okay, one
+very tactical question and a completely
+different direction uh product question
+activation getting people to an aha
+moment feels like something that uh is
+core to retention something that comes
+up a lot on this podcast. Is there
+anything you learned about getting that
+right? Anything you did that was really
+successful in getting people to see the
+value of base 44 really quickly and and
+in that start sharing it, using it?
+Here's one interesting thing that that I
+learned that I think uh was
+counterintuitive to me because you
+always like you always want to build the
+best product out there for your users.
+Uh but sometimes it contradicts the aha
+moment or how fast can you get users to
+do that?
+first when when I like when a few months
+ago or more than that when B 44 started
+before actually implementing your app.
+So you'd say something like, "Hey,
+create a a task management app." And
+before implementing that, because a lot
+of times you get this uh not super clear
+request from the user, I'd show the user
+like the LM would first before even
+writing code, it would first generate uh
+user flows like almost like a PRD or
+like but something that's more
+digestible to folks who have like are
+not coming from from the space. Uh so it
+will generate user flows. it will show
+it to you like hey you want to create a
+a task and then you could you could say
+yeah yeah so maybe I want to add some
+files and stuff like that so it will
+show you what it's going to generate to
+make sure that it understands you and
+then you click okay and then it will
+generate the app this was actually
+something I ditched because too many
+users um even though it was good for
+them and it was the right product
+decision to do that because you'll
+you'll create like better apps doing
+this Okay. But the conversions to like
+get to the aha moment uh were not super
+high and also like not super like I
+think one of the the key to the aha
+moment in the vibe coding world or at
+least in base 44 is like holy [&nbsp;__&nbsp;] like
+it actually understood me and you see
+the app and if you have like a stage in
+the middle it makes a surprise like
+slightly less surprising. So I think I
+ditched that and that was a a nice
+lesson that that I don't know actually
+how to define the right way but it's
+like get your users as fast as possible
+to the H movement. Sometimes there's a
+price to that. make sure it's not too
+big. But sometimes there applies to that
+because at least when you're building
+B2C and it's all new to me because I'm
+not coming from the space, but at least
+when you're building B2C, like the
+attention span is so low really. Uh so
+you want to get there in like a minute
+or two or three. Uh and then from there,
+okay, later on ramp up the features that
+you want to you want to actually put
+there so that it can be like the right
+product for for your users. That was an
+awesome insight. Thank you for sharing
+that. That's actually something that I
+think will help a lot of people. Okay,
+final topic. I want to talk about the
+acquisition process. Uh founders often
+look at this as like the dream. Oh my
+god, I sold my company millions of
+dollars, but I know it's always
+stressful and hectic and wild and you
+know, the work only begins. You know,
+you know, you're not like I'm off. You
+have to keep building this thing. So,
+first of all, just had the acquisition
+conversation start. Weeks reached out. I
+think back then there's like a lot of
+folks from the community.
+um were posting saying, "Hey, we should
+definitely buy base 44 before it gets
+too big or something like that." Um even
+though like we're not playing or
+competing in the same category, but it
+was clearly it's going to be Why were
+they recommending Wix? What was just the
+connection there? First, because of the
+Israeli like uh the Israeli ecosystem.
+Got it. But also folks were building
+websites with base 44 and so it's kind
+of like the same the same. Obviously Wix
+is yeah obviously Wix is an incredible
+product um for building websites but a
+different approach from from LMS now
+it's now definitely getting there and so
+I got there the management team like
+Wix's management team is so friendly
+um and and such great guys and I
+remember sitting there and the first I
+think the first sentence that I was
+first thing that Abishai the CEO told me
+is like hey everybody's been saying that
+we should buy you maybe at least it
+worth the talk and we're here to help.
+Um,
+and I think early on we've explored like
+at least in my mind like yeah, it seems
+like those are that's that's a great
+team to work with. They're definitely in
+the same space. There's a lot I can
+benefit from partnering up together. So,
+it wasn't clearly an acquisition
+um like on the acquisition path. And
+Vishai, the CEO, is like a very
+seasoned, very experienced, and helped a
+lot of entrepreneurs in the B2C space
+and specifically in Israel to to kind of
+go and succeed. And so I remember um
+meeting him for a few nights of like
+just uh eating some steaks and just
+chatting about how to go base 44 and
+just literally just getting there to get
+an advice. Um, and so at some point we
+saw first that we have great chemistry
+both with him and and with the rest of
+the team, which I think is really really
+crucial, especially if they're buying a
+solo like this is a very unique case,
+but especially if they're buying like a
+small team. Um, I think it's crucial for
+the buyer to make sure or to feel like
+they're going to have really good
+connection and chemistry with the
+founders with the key people because
+eventually it's like I remember like the
+key one of the key reasons where we were
+like debating together whether whether I
+should I should join Wix or not is like
+one of the key things that we've put on
+the table is oh yeah and it's going to
+be a lot of fun working together. Um,
+and I think also being a person that's
+going to be fun to work with is a key,
+especially if you're if you're not like
+a 500 people uh company that someone's
+buying. If you're like a big company and
+doesn't really matter like you're buying
+the operations, you're buying the
+product. If you're a small company,
+they're just starting out and getting
+some great momentum, you have to be a
+person that people would love to like
+want to work with for the next few
+years. And so this was critical. Uh um I
+think the best like the best place uh
+and this is not easy to get to to this
+position but the best position to
+negotiate such a deal or or even to get
+there is to be also very fine with the
+other path of not getting acquired. In
+some ways, it's like it's weird, but
+it's like uh
+it's like in dating when you when you're
+in the first couple of dates, you don't
+want to show too much interest because
+then it's uh I think also I was in a
+position that I was saying, hey, if it
+works out, it's going to be amazing and
+if not, it's going to be amazing. It's
+going to be either either way fun or
+obviously I wanted it to work out. Yeah.
+And the last thing I think is um
+I don't know if it's suitable for
+everyone, but I'm very happy with the
+structure of the deal with the air piece
+because I feel like it's still
+I still show up every day to work and
+and it's been only two weeks, but feel
+like it's going to be like that for
+years. And like
+I have a personal investment in the
+business and its success. So, it's
+really I feel like it's better than just
+selling the business and uh just
+spending the the the next few years and
+wanting to disappear. I I love that part
+of the deal. Uh you could be a
+billionaire if it does well enough. I I
+don't know the deals, but in theory. Um
+let me ask so I know a part of the story
+also is that when you were signing the
+deal, the uh the war with Iran basically
+broke out. Tell that story. So, I was
+trying to not uh I wasn't nervous
+throughout the process, but this like
+this is like a huge deal for me, right?
+It's going to change my life. Probably
+will change my kids life. Um and when we
+kicked off the process, uh we wanted it
+to be fast. Elso, it's like it's not
+like B4 was like a very old company with
+like a lot of baggage. It's like there's
+no legal, there's no like it was very
+easy. The due diligence process was very
+fast. And I remember I us saying to the
+to the lawyers and to our great kind
+like two films that we work with, uh,
+it's like until until Thursday night,
+that's it. We're signing Thursday night.
+No matter what we do, let's do it. Like,
+let's wrap it up and make sure that
+we're aligning to sign Thursday night.
+And we get till Thursday night. It's
+2:00 a.m. We stopped fighting over like
+small details. Um and the lawyers have
+agreed to everything and I was like okay
+just send it out for signatures. We said
+Thursday night and then lawyers were
+saying uh yeah we agreed on everything
+but we need still need to kind like
+change the wording and so on and we're
+very tires like we're not going to do it
+the right way. Let's wake up tomorrow
+morning and do that. And I remember as
+like I remember going to sleep and then
+4:00 a.m. waking up like this
+announcement like hey a war broke out
+between and I was like again this is so
+classic. I'm sure that the deal will
+like I'm not like I wasn't sure like I
+was I was like holy I can't believe this
+is happening. It's such it's such an
+insane turn of events but everything
+went fine from there. We woke up the
+next morning um and signed the papers.
+Um yeah, it was as I said before, it was
+definitely the least Boeing month that I
+had in my life. I was just thinking back
+to exactly that phrase that you shared.
+Oh man, there's just so many parts of
+the story that are so interesting. It's
+a her a hero's journey story in so many
+ways. Mayor, is there is there anything
+else that you want to leave listeners
+with? anything that we didn't touch on
+um maybe just last piece of negative
+advice for founders that are trying to
+be on this start on this journey are on
+this journey they think might be helpful
+to them. So, first before getting to the
+to the negative advice, if there's like
+the only thing that I would say really,
+if there's anyone from the base 44s
+community that's actually listening to
+this, I am so grateful like this
+community has been so
+supportive. Um, and many times I'm
+saying, okay, maybe I did this right and
+that right, but I I don't it's hard for
+me to think about what I did uh so many
+things right to get like this community
+behind the product. And so I'm go so
+grateful for the community. So if
+everyone's listening uh really I'm I'm
+hoping to serve everyone better. Um what
+not to do. Um yeah, there's there's
+plenty. Don't
+just make sure that at least 50% of your
+time you work on some on the the parts
+of you that you really like and that
+you're really good at. You know, there's
+like this plenty of ways of saying that
+and different diagrams that they show
+you is like what you're good at, what
+what you want to do, uh what's fun for
+you, what's energizing, what's not. I
+think 50% of it should be in like this
+sweet spot of you're doing the thing
+that you're genius at, like your genius
+zone or whatever they call it. Uh and
+they're so fun because that's what keeps
+you up like showing up every day. And
+it's unbelievably
+different um than than being a very
+talented person, a very skilled person,
+but doing things that you either don't
+like or and it's fine like everybody
+does things that they don't like. And in
+every job there's like those places, but
+keep yourself in the zone of of genius.
+Um
+I think that's really crucial. Um, and I
+feel like in the last few months, I've
+also met plenty of like uh really great
+and friendly CEOs uh even from the
+Israeli ecosystem like for for public
+companies, right? weeks and minded.com
+and it and so on and they're all like
+obviously they have to do a lot of
+different things and being CEOs of
+public companies like uh you have to
+like manage a lot of things a lot of
+logistics and I don't know bureaucracy
+but they all have
+not tact like major or to some degree
+major part of their job is doing
+something that they really like and
+they're really good at like whether it's
+like product design uh whether it's like
+um building a marketing machine or
+something like that. I think that's
+critical.
+Yeah, that's the biggest thing. Um and
+also it's like and you probably hear
+this not nowadays on every podcast, but
+it's the best time to build. Um and it
+can be really life-changing just
+starting out something that you really
+like where I feel like we're at the age
+at the start of an age is going to be
+bigger than the the revolution that the
+internet did. Obviously, I think now
+it's becoming clearer to anyone. And so,
+just building what you want becoming so
+much easier. Just do it. Do something
+that you like. I think it's going to be
+for a lot of chances going to be
+life-changing. And if not, at least
+you'll have uh very little regret in the
+future. Mayor, I'm going to skip the
+lighting round, but I'm going to give
+you because it's approaching midnight
+your time. I want to make sure you get
+some sleep. I'm going to ask you one
+question. This something I meant to ask
+you earlier, but I didn't. Uh base 44,
+what is what is that about? Why did you
+call it base 44? This is the most like
+really the stupidest probably reason
+that you hear for a for a name behind a
+product. So again,
+base 44 uh was not intended to be like a
+very large scale like the the global
+phenomena that it's becoming right now.
+I wanted to have base in the name
+because I feel like that's going to be
+the base of where people's going to
+start um build software or or solve
+their pain and so on. And obviously back
+then bass.com wasn't available and I
+didn't have money to buy like a very
+fancy domain. So I started seeing like I
+think it was Cloudflare I don't remember
+even what domain provider was that that
+started showing me some numbers. My date
+of birth is February 2nd and so uh base
+22 wasn't available and say okay let's
+double it and then base 44 I was like I
+like the sound of it. It's almost like B
+64 and for for uh the the nerd in me it
+was like okay B 64 is one way to encode
+uh data from from from one type to
+another and it's like base 44 is going
+to do the same. It's like encode natural
+language into software and I was like
+okay clicks let's go with it. Um, it's
+good that it's memorable, the the number
+in the name, but there's no real like
+very sophisticated uh reason behind it.
+That has an amazing story. I love I love
+that you like B 64 was cool, but I guess
+we'll all there's a reason 44 could be
+cool and it's not even base 42. There's
+all these like numbers around there that
+people know and it's like no 44 double
+my birthday sort of like 64. Uh, that's
+amazing. Uh, it worked I guess. I don't
+know. maybe shows you the power of how a
+name doesn't necessarily make a huge
+deal. Uh, interestingly, a recent
+podcast episode was about how a name can
+make a big deal. So, there's both sides
+to it. Mayor, this was incredible. Thank
+you so much for doing this. Uh,
+congratulations on the outcome. I know
+this is just the beginning. I know the
+product is only going to get better.
+What a fun place to be. Uh, hope you get
+some sleep. Um, two final questions.
+Where can folks check out what you're
+building? Is it just bass4.com? Anything
+else they should know? And how can
+listeners be useful to you? Just try it
+out. I think we're at a place where uh
+people really love the product and and
+for every user that we get, it turns out
+to be two or four later on because
+they're sharing it. So uh just try it
+out base44.com and build something that
+you like and if you have a bit more
+time, just leave feedback so that uh we
+can make it better. Amazing. Mayor,
+thank you so much for being here. Thank
+you, Lenny. Bye, everyone.
+Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

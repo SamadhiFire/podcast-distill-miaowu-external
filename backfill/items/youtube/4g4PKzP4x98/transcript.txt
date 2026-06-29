@@ -1,0 +1,949 @@
+Kind: captions
+Language: en
+Hey listeners, Christopher Mims here
+from Bold Names. We've got something a
+little different for you this week. Tim
+and I have been talking a lot about robo
+taxis lately and we thought this was the
+perfect time to revisit one of our
+favorite interviews. Aisha Evans, the
+CEO of Zuks. Just in time for hot robo
+taxi summer. You might have heard our
+conversation earlier this year. And now
+that Tesla is officially testing its
+self-driving cars on streets in Austin,
+Texas, and Whimo is expanding, Evans
+insights into the robo taxi business are
+even more timely. And make sure to stick
+around after the interview because we've
+got a brand new segment where Tim and I
+go deep into why the stakes are so high
+as these companies try to win customers
+trust. Especially people who you might
+not think of as robo taxi riders like
+parents tired of driving their teens
+around. People like me. That's next.
+Recently, my co-host Tim Higgins took a
+ride around San Francisco in a vehicle
+made by Zuks, Amazon's robo taxi
+startup.
+&gt;&gt; Uh, actually, yeah, we'll ride forward.
+Why not?
+&gt;&gt; Okay.
+&gt;&gt; It's your first time, so.
+&gt;&gt; Yeah. Oh, should I sit over there?
+&gt;&gt; All right. So,
+&gt;&gt; unlike some of its rivals, Zuk's
+vehicles don't look like traditional
+cars. They're sort of like toasters on
+wheels or maybe a theme park ride that
+hopped off the rails. They don't have
+brake pedals or a steering wheel. Just
+two rows of seats facing each other.
+&gt;&gt; It's almost like a lounge.
+&gt;&gt; That's was it was actually the London
+cab was the inspiration. You can go
+ahead and press start for your ride.
+&gt;&gt; Yeah. There you go.
+&gt;&gt; And yeah, the whole thing is uh we don't
+want you to think about driving.
+&gt;&gt; Uh-huh. People want you to think about
+being transported.
+&gt;&gt; Tim hitched a ride with Zuks's CEO,
+Aisha Evans. Before this, she was a
+senior executive at Intel. And after she
+was brought on board at Zuks in 2019,
+she sold the startup to Amazon for $1.2
+billion.
+She's a skilled manager who in many ways
+has met this moment in autonomous
+driving. A time when what she calls
+patient and smart capital is required to
+get to the end of a self-driving race
+that has proved to be a marathon.
+&gt;&gt; Runs into what happens if it approaches
+a driving situation that it doesn't
+understand?
+&gt;&gt; It just did, by the way. Well, right.
+This one it understood. It saw some
+people opening their doors. So it went
+around it.
+&gt;&gt; Uh
+&gt;&gt; in an industry where scale could prove
+to be everything and safety is
+paramount, Evan's style of calm, steady
+as she goes leadership could hardly be a
+bigger contrast with that of a
+competitor, Tesla CEO Elon Musk. But
+Amazon has put a lot of money into Zuks,
+which will be starting a commercial robo
+taxi service in Las Vegas this year.
+This is not an industry where companies
+can afford to be cavalier with safety,
+and Evans knows it.
+uh if you do a prompt on one of the best
+AI engines today
+&gt;&gt; and you know it's 99% right and it's
+maybe it's annoying but that's okay.
+&gt;&gt; Yeah.
+&gt;&gt; Uh in our space if it's wrong 1% of the
+time that is not okay.
+&gt;&gt; You just can't that that's not
+acceptable right
+&gt;&gt; uh the bar has to be way higher than
+that.
+&gt;&gt; From the Wall Street Journal I'm
+Christopher Mims and I'm Tim Higgins.
+This is Bold Names, where you'll hear
+from the leaders of the bold name
+companies featured in the pages of the
+Wall Street Journal. Today we ask, what
+was it like taking over a self-driving
+car startup at a major turning point in
+the industry?
+Aisha Evans, welcome. Uh, we want to get
+into Zuk's plan for deploying robot
+taxis. But first, I think it's worth
+taking a little journey back in time to
+about how you and Zuks got to this
+point. It's almost exactly your sixth
+anniversary taking over Zuks as CEO.
+You'd come from Intel uh before and your
+arrival was really a turning point for
+the company. Uh but it was also, as we
+would see in the months that followed, a
+turning point for the driverless car
+industry that had been up until 2020 in
+overdrive, very frothy, as we like to
+say here in Silicon Valley, but then the
+cash was disappearing. So I'm curious
+when you took over what was your first
+priority?
+&gt;&gt; My first priority like I would call it
+priority zero is you're coming in from a
+very established company. Uh I told the
+team that uh I wanted them I knew it
+would be okay when they would not
+remember that I wasn't here at the
+beginning and so talking to a lot of
+people understanding what's really going
+on getting a feel for the industry. uh
+after that I went to priority one uh
+which was uh it takes a lot of capital
+and a lot of patience to do this and uh
+so we needed to solve that.
+&gt;&gt; What was your strategy for pivoting
+Zuks's strategy with these employees?
+Many of them had begun with this scrappy
+startup with a a very charismatic
+founder who had really bold vision for
+where he was going to take Zuks. So what
+was that like for you? It was uh lonely.
+Um but it was look I I have a slightly
+different view. Uh when you think about
+essentially these are computers on wheel
+from a technology standpoint. Uh they
+have to be uh safe not just 99% of the
+time but 99 point pick your number of
+nines. We think it's four plus. That's a
+lot of work. You're bringing also a
+variety of um experiences, background.
+One day you're talking to kind of an AI
+genius at the forefront of things. The
+next day you're talking to, you know, a
+car mechanics kind of person and then a
+battery person. So bringing everybody
+together and saying congratulations
+because you have to have some audacity
+and boldness to go after something like
+this. And so thanking them,
+congratulating them and then saying,
+"Okay, but what got we what got us here
+won't get us there." And so this is
+going to take time. We need to slow
+down, stop with all the talking to the
+press and making bold claims and go back
+into the building and sort of figure out
+a uh the capital and partnership uh
+situation and b build a road map that is
+incremental that is deliberate and use a
+lot of analogies and uh know that it's
+going to take a while. This is almost
+like the beginning of aviation in a way.
+&gt;&gt; And one of the big things you did uh
+almost immediately was look at that
+capital table I imagine and say oh uhoh
+we're in trouble right I mean and that
+put you on a road a path to eventually
+being acquired by Amazon.
+&gt;&gt; That is absolutely correct. And uh look
+it's not just you need money you need
+what I call patient and smart capital
+meaning people who understand deep tech.
+uh people who can see a bold vision and
+the steps towards there uh people who
+are close to the compute industry and
+who are not going to oscillate too much
+and who can afford to take a bet like
+this and when you do that math and
+calculus there aren't that many
+companies were thrilled that we went
+with Amazon and uh even though the press
+wasn't kind to me at the time I am very
+very grateful and proud that we made
+that move it freed us up to go after the
+work as opposed to making claims and
+demos and you know because demos are
+very easy in this space. They are
+getting even easier but getting this
+thing to work to be safe to operate to
+wow the customers and build a business
+very different movie. So, speaking of
+wowing the customers, one of the things
+that's so distinctive about Zuks when
+you first encounter it is the fact that
+your vehicles
+look like they are from maybe the near
+future. It's not a Cybert truck, but
+there it's a lounge inside with two
+benches facing each other, right? It
+could go forward or backward. Um, it it
+feels like a a happy, benevolent future.
+everything runs on wind power and um
+there are no more car accidents.
+Obviously, that's deliberate, but what's
+the thinking behind that?
+&gt;&gt; First of all, if you step into that
+vehicle when we fully commercially
+deployed and you think about driving, we
+failed. We want you to feel like you're
+being transported. Then there is at
+scale the level of safety, the level of
+control, the level of redundancy that
+you need. Negotiating with somebody who
+might be a company that's a traditional
+OEM that's in a different mindset will
+take more capital, will take longer,
+more meetings, more back and forth, and
+more detours and really take away from
+solving what's really a very hard
+problem. OEM being a lingo for car maker
+out there in the in the in the layman's
+world which is I think you're kind of
+getting at something we're going to get
+into the idea that you're actually
+making these cars yourself unlike who
+Google's effort which is uh kind of
+taking a car and putting its its
+equipment onto it and converting it
+over.
+ground up for zuks which was pretty
+radical idea given how much capital was
+going to be required right you were not
+only developing the self-driving brain
+but you were also developing a car and
+that is very audacious and very grand so
+I guess I'm curious what uh is that
+timeline or how close to having paying
+customers in the vehicles are you
+&gt;&gt; we're getting closer and closer but you
+know paying c the journey it's funny we
+just had a meeting yesterday and I was
+talking to uh some of the leaders and
+I'm like look it took us 11 years
+uh to put this robo taxi that uh we love
+um uh even to this day uh when I
+sometimes I'm driving around and I see a
+couple who is by I giggle I'm happy and
+so but that took 11 years let's not have
+a disrespect for the journey to
+commercialization and uh customers
+that's going to take some some time so
+we will dip our toes uh into it later
+This year we learned a lot but it'll be
+small scale because again that's a new
+journey and the next couple of years are
+really um exciting for us.
+&gt;&gt; And so right now what is you're
+currently at the what what is it
+currently available like because I'm in
+San Francisco and I've seen these
+vehicles on the roadway. Um what's going
+on? We're testing. We just started
+testing in uh in San Francisco in uh in
+November and uh also uh in Las Vegas uh
+from our depot which is southwest of the
+strip all the way up uh the strip. We uh
+finally have friends and family riding
+uh which is really cool and of course
+you know select VIPs whether it's press
+regulatory and execs and what have you.
+And so, uh, we'll go now into the phase
+where they'll be able to, uh, ride, uh,
+without a Zuk's host and push every
+single button. Uh, and then, uh, we'll
+shortly add what we call Zuks explorers,
+uh, which will be people that we will
+sign up and we'll have the ability to
+ride whenever they want. Uh, that period
+where somebody will be in the vehicle
+and I don't even know who the hell they
+are and uh, they'll give us feedback.
+So, all that is, uh, is planned. So,
+we're at the end of tiny and entering
+the beginning of small and then uh
+paying customers later this year.
+&gt;&gt; We've heard how Zuks is aiming to be a
+transportation company that makes you
+forget that cars even existed. But
+making that happen will require solving
+a lot of hard and occasionally gross
+real world problems. What happens if
+somebody pukes in the car?
+&gt;&gt; Ah, this is especially in Vegas. I
+suppose we could be prepared for that.
+What happens in Vegas stays in Vegas.
+Maybe it stays inside the back of a
+Zuks. How will Zuks handle the mundane
+realities of operating a fleet of
+vehicles that people are prepared to
+occupy, if not drive like they stole
+them? Stay with us.
+[Music]
+So, as you're moving toward paying
+customers, I'm really curious even
+further out how this business works
+just on a fundamental profit and loss
+level. What is your kind of unit basis
+for this? Because obviously with Uber,
+the reason they have worked as a
+business is they don't have to own cars.
+They don't have to have the risk of
+owning those vehicles. you know, all of
+that's taken on by their drivers, but
+you have to build vehicles, own them,
+maintain them, you know, even if you're
+not paying wages to a driver, it seems
+like that might be hard to to pencil
+out. So, how ultimately do the unit
+economics on this work?
+&gt;&gt; So, I'm going to be really careful.
+First of all, I'm going to back up the
+boat a little bit. You've both said
+twice build. So, let's let's let's talk
+about what we do with the vehicle. We
+architect and design it and then we work
+with a global supply chain and then what
+I would call 20 big Lego pieces arrive
+at our factories. Uh we have a prototype
+factory uh that they arrive at and then
+from there we do assembly test uh
+integration bring up and then ship off
+to uh depots where they will operate
+from. So I want to be very clear there's
+no gigafactory here there's no any of
+that stuff. So in our case volumes are
+low uh because it's our fleet we know it
+super well the robot because we designed
+it we architected it we put a lot of
+features in it thinking already about
+operations that's again a first
+principle thing the robot pays for
+itself very quickly
+at the current prices that folks are
+used to with the ability to bring down
+the pricing over time as you're going to
+different phases. I I was at Intel
+beforehand. I don't know a lot of
+hardware businesses that have a lot of
+uh software and algorithms that pay for
+themselves overnight. And if anybody
+pretends that they know how to do that,
+I will just tip my hat to them. Uh
+there's going to be a buildup uh where
+you'll need profitability all the way to
+margin and all the way to the phases of
+free cash flow. That will take time, but
+the opportunity is immense. And we also
+think that the time will be expanded
+because there are a lot of folks who
+don't ride today that uh will ride in
+the future. Uh I was telling Tim, I'm a
+soccer mom and uh now I'm lost with
+myself because uh my uh my daughter is
+in uh in college and I'm like, why do I
+have so much time? And I know I have so
+much time because I am not driving up
+and down the peninsula uh in every nook
+and cranny dropping up and picking up
+kids for soccer.
+&gt;&gt; As a minivan driver and owner, I I
+definitely identify with that. And it's
+also been amazing to see the uh pickup
+of uh Uber's new product for teens,
+right? Which of course bolsters your
+thesis now, which is there are there are
+there's a huge potentially untapped
+market. I mean, it doesn't take much
+imagination,
+&gt;&gt; but I think that one of the things, and
+we've kind of been alluding to it,
+there's other costs. It's not just the
+technology. There are other challenges
+that you have going on there. I think
+conventional wisdom might be that you
+just flip a switch and the robot goes to
+work. But, uh, it's not that simple, I'm
+betting.
+&gt;&gt; No, it's not. Uh, it's more like
+aviation than it is, uh, like the robot
+vacuum going around your house. Look, I
+mean we we have to have a lot of respect
+for this. This is a very uh big heavy
+robot uh that is roaming around and
+driving amongst other human drivers by
+the way. And um when you when you look
+at the math uh whether it's uh it's
+collisions, whether it's injuries,
+whether it's fatalities, uh when you
+look at the ability to not make mistakes
+obviously or at least minimize your
+number of mistakes, but also react to
+other people's mistakes, it's an
+infinite long tail. And so uh we've been
+very open uh and very transparent that
+we have a telegrance center almost like
+a an air traffic control tower type
+thing uh where uh there are operators
+that the robots can call for help. Uh if
+it sees a situation that it knows it
+doesn't know how to handle. Imagine like
+a super super super super unstructured
+construction zone or or some blockage
+that is it's not sure how to maneuver
+around. It has the ability to call and
+say, "Hey, over this period of time and
+over this distance, I see something that
+doesn't make sense to me. I either need
+a permission to break a rule or it can
+uh receive an alternate trajectory via
+breadcrumbs that it is still in charge
+of deciding it's safe enough to
+maneuver." And so obviously the the as I
+my team's gonna kill me for saying this,
+but I've I've always said, look, if I'm
+going to need one or two people for each
+robot, we might as well not do this. Uh
+because then it's already being served
+today,
+&gt;&gt; right? It it doesn't work if you've got
+one person who's watching one car and
+then another person who's cleaning it.
+But as you scale up um as a business
+where one person is watching x amount of
+cars and one person is taking care of x
+amount of vehicles uh you start to get
+some scale and some savings and and
+that's where you you see the business
+going forward.
+&gt;&gt; Absolutely.
+&gt;&gt; What happens if somebody pukes in the
+car?
+&gt;&gt; Ah this is especially in Vegas. I
+suppose we should be prepared for that.
+&gt;&gt; What happens in Vegas stays in Vegas.
+Maybe it stays inside the back of a
+zuks.
+&gt;&gt; There you go.
+&gt;&gt; You can use that tagline if you want for
+your advertising.
+&gt;&gt; I will I will give you credit for it. Uh
+so basically what we do is we're
+monitoring the inside of the the vehicle
+and uh that vehicle would be pulled out
+of base and either out of the fleet and
+either go to a hub or uh go back to
+depot. given what your your goals are,
+um it's hard to see a connection to
+Amazon other than as patient capital,
+but is there a connection there? I mean,
+they they're fast becoming the world's
+biggest logistics company. I could see
+some some potential overlap, but are
+there any ideas about that? Have there
+been in the past?
+&gt;&gt; They are more than patient capital. They
+they've also done a lot of different
+businesses. There's a lot of experience
+there. Uh and so they also give us
+really good advice, they challenge us.
+Uh the first order of business is to
+deliver what we've said because again it
+makes sense that if it's this hard to
+solve the problem and it we all drive on
+the same roads, right? The trucks, the
+everybody drives on the same road. So
+our first order is to deliver this
+business and uh build it, grow it. Uh
+we've had conversations about other
+things we could do. Uh obviously
+delivery is one but that's a tough
+problem to solve and it still goes
+through solving the first problem to
+begin with.
+&gt;&gt; Who do you see as your biggest
+competitors as Zuks at this point? Is it
+Whimo? Is it Tesla? Is it just Uber with
+drivers?
+&gt;&gt; So I'm a little different than most
+people. Um this is a big industry. I try
+and have some respect and humility. Um
+and so I have called them fellow
+travelers because I was not confused
+that I was going to be alone or we were
+going to be alone doing this. Uh that to
+me would be delusional at least the way
+I think. So its fellow travelers were
+also indirectly in the safety business.
+Uh what either of us does affects the
+other whether we like it or not. So the
+way I would answer your question is that
+we've always thought that
+there would be a wave of consolidation
+past the demos and it would be three to
+five players in America. Uh probably up
+to 10 15 in China and then Europe we'll
+see what happens uh as is the case on in
+many different industries.
+&gt;&gt; Three in the US and you think maybe
+Whimo, Tesla and yourself. Who's Coke?
+Who's Pepsi? What are you?
+&gt;&gt; Oh, I'm uh h
+I'm trying to uh I'm an excellent chai
+latte.
+&gt;&gt; Well, well, I I guess I'm I'm curious on
+that field of competition. I I get get
+what you're saying and it's still
+probably a few years away before the
+competition gets very intense and we all
+know it will, but I wonder how do you
+compete against the likes of a Whimo or
+a Tesla? Because in a lot of ways if the
+robot is driving it, it's almost a
+commodity experience. Is it a race to
+the bottom or is it a a race to create
+the most luxurious box on wheels?
+&gt;&gt; So we look at it as the customer
+experience and the full end to- end
+experience including customer support by
+the way uh is going to be key. We think
+that uh uh our experience is magical. I
+mean this is your space. Uh you don't
+think about driving. You're not like,
+"Oh, the wheel is moving. Is that okay?"
+or anything like that. It's like
+whatever you were doing before you
+entered, you can continue doing it. Uh
+I've had some people crank up the music
+and start just rocking out there. I've
+had some people just meditate. So, uh
+the the personalization, uh the
+simplicity, all of those things are what
+we think we will offer. And we have a
+parent that knows a lot about
+operations, uh that will teach us a lot
+about operations, too. uh which is key
+because little things like that matter.
+Pick up and drop off, wait times, uh
+when something goes wrong, how do you
+react? How quickly do you react? Uh and
+so we think that will be up there in
+terms of that. It's almost like, yeah,
+it's a first class seat, but you you
+paid coach, you paid for coach. We just
+heard about how Zuks will tackle the
+nitty-gritty of rolling out a fleet of
+robo taxis, but the company faces the
+additional challenge of rolling out a
+vehicle that looks like almost nothing
+else on the road. This almost wasn't the
+case, and the history of the company's
+funky ride is a tale worth hearing.
+&gt;&gt; All of my mentors, friends, sponsors
+would be like, "The first thing you need
+to do is get rid of that vehicle. That
+is the first thing you need to do. Those
+people are crazy."
+&gt;&gt; That's next.
+You mentioned that you think in in the
+US there'll probably be three big
+players here ultimately after the
+consolidation is done. Um you know
+obviously Whimo is is going from
+strength to strength. Tesla always feels
+like a wild card to me because of course
+they have an incredibly uh deep bench of
+talent but you know the sort of revealed
+reality of uh their
+you know so-called full self-driving
+software which is on the road in in
+personal vehicles is always that it it
+can be a little erratic in in ways that
+uh certainly folks find unnerving.
+But it sounds like you think that
+they're credible. Why is that? like what
+can you kind of square that circle for
+me?
+&gt;&gt; It's just I mean it's not my I don't
+like it when people criticize zuks and
+tell us what we're doing or not doing
+even though they have no internal
+information of what's on what's really
+going on in here. So I'm not going to
+treat somebody or another company a way
+I wouldn't want to be treated. I don't
+know what they're up to. I know what
+they've said and uh obviously like the
+same is true for us. The proof is in the
+pudding. I mean when I arrived in uh
+whenever it was six years ago um the
+number of people I mean all of my
+mentors, friends, sponsors would be like
+the first thing you need to do is get
+rid of that vehicle. That is the first
+thing you need to do. Those people are
+crazy. Blah blah blah blah blah blah.
+And I was like wait what about I go in
+there and seek to understand and get a
+little bit more information because you
+know I I'm not one that tends to think
+people are stupid. So I I have to take
+them at their word and they it's the
+same bar we have. We can say whatever we
+want, but if we don't show up with a
+driving thing, then we have to shut up.
+&gt;&gt; At this point, Tesla is saying a robot
+taxi they plan on deploying this summer
+in Texas. Another competitor, Uber CEO,
+uh told our colleague Joanna Stern in
+Davos, uh that he didn't see humans
+being replaced in scale behind the wheel
+for at least another 15 to 20 years. Is
+that the time when robots replace humans
+behind the wheel or is it sooner? I want
+to be careful because that's that can be
+fairly uh inflammatory. Um remember we
+we are uh we are creating a lot of jobs
+at all skills levels. Uh and uh and
+that's not going to to stop. So I think
+we're just having humans do different
+things than being behind the wheel.
+Look, it depends on how you define
+scales. If we're talking about covering
+the entire United States and even uh
+venturing internationally, yeah, I think
+that's a reasonable time frame. Uh but
+along the way, city by city, state by
+state, you will see progress. Progress.
+Again, if you have the uh the chance to
+be in uh in um in San Francisco, it's
+pretty amazing. No if and buts and and
+Teedra and Dimmitri, please say thank
+you after this podcast. Literally, you
+whip out your phone. Uh you download
+Whimo and
+few minutes you're good to go and you
+say where to and you enter the
+information and off it goes. I like that
+you believe that the co-CEOs of Whimo
+are avid listeners of this program. I I
+believe they probably should be uh
+because you are also getting at an issue
+that I think uh that they are dealing
+with over at Whimo that Tesla will have
+to deal with that traditionally in this
+country uh we have regulated the car at
+the federal level and we have regulated
+the driver at the state level. So the
+big question becomes when the car is the
+driver, where does that regulation fall?
+Right now it appears that it's going to
+be at the state level though there is a
+push for it to be federal. What do you
+think needs to occur there?
+I mean the first thing is uh uh I can
+wish for many things but I have to first
+learn to live with what is currently
+happening. And so we work super hard uh
+to uh to to be transparent, have no
+surprises and really in a collaborative
+manner at the federal level because we
+have the vehicle uh at the state level
+because uh they basically uh regulate
+the driving and the driver and also at
+the city level because it's their
+streets and different cities want
+different things at different time. So
+that's how it is right now and uh it's
+uh it's at least um it's at least
+possible. None of us are really going to
+20 cities overnight. So I think for now
+it's okay. But as we start to enter the
+medium to large scale as an industry, I
+obviously hope that we can deal with
+less than three regulatory agencies. And
+so it'd be it'd be nice if there was
+some unification, but you know, beggars
+are not choosers. In the meantime, we
+have what we have and we're lucky that
+there's even a way to do it.
+&gt;&gt; It's been clear throughout the evolution
+of this industry that the gating factor
+is safety
+&gt;&gt; and obviously Uber crews had incidents
+that, you know, led them to shut down or
+sell off their programs.
+What, if anything, have you learned from
+from the failures, the safety failures
+of those programs?
+&gt;&gt; Learned a lot. Um, I I I uh I joke uh
+that um um sometimes there are some
+advantages to being number two. Uh
+uh look, one of the things with Zuks is
+because we because our robo taxi is what
+we believe is the final sort of uh
+hardware solution uh at scale. Uh there
+is a luxury we don't have. I can't say,
+"Oh, don't worry about it. If something
+happens, we'll just send a driver to
+drive it away." I also don't want to run
+a business where we're, you know,
+flooding the city with tow trucks to go
+rescue these robots. And so
+safety,
+it's totally foundational to everything
+we do. But I'll be honest, no matter how
+many scenarios you think about, uh you
+always find out another scenario. And so
+we've learned to
+really think about not just safety in
+don't hit something, don't injure, don't
+have a fatality, but also in what
+happens when you're standing still. And
+there are other what other what what
+reactions are you causing? Because this
+thing is different from what human
+drivers are. And then every time that we
+see something happens, we we we
+basically add to our bank and to our
+regression and to our structured
+testing. And then last but not least, in
+all of our computational for safety
+models, we assume that there's something
+we don't know. And when that happens,
+how do we want to react? And then the
+third vector is uh and sometimes it's
+hard super transparent with uh
+everybody, the first responders, the
+PDS, fire, uh the cities, uh at the
+federal level, at the state level, super
+transparent so people know what to
+expect. And so we we build a little bit
+of a bank of credibility. We never want
+to leave them with the impression that
+we didn't tell them what they were
+asking about fully.
+&gt;&gt; Well, buckle up. The future is here.
+Aisha Evans, thank you and see you out
+on the road.
+&gt;&gt; My pleasure. And uh I hope to see you uh
+soon uh for Zuk's rides.
+&gt;&gt; Since this interview, Zuks opened a
+second factory for its purpose-built
+vehicles. It also expanded robo taxi
+testing to LA and Atlanta and is
+planning future commercial service in
+Miami and Austin. Zuk's vehicles were
+also involved in two minor crashes,
+including one where an escooter rider
+hit an empty robo taxi. Zuk said the
+rider declined medical attention for
+minor injuries from the collision. The
+company issued software recalls in
+response. Stick around after the break.
+We are going to get into all of the
+latest on robo taxis and self-driving
+tech. What this means for Tesla, Whimo,
+Zuks, and their giant bet that they can
+disrupt the entire automobile industry.
+So Tim,
+you actually spent time with Aisha
+Evans. What did you find most surprising
+in meeting her and in experiencing this
+self-driving technology in her presence?
+You know, one of the things I think is
+really highlighted by the things you
+hear her say,
+um, is the attention to what some might
+think of as boring details, the
+operational things that are required to
+make this uh, technology work. Zuk's
+parent company, Amazon, really, as you
+know, is a supply chain company that has
+mastered the very technical, very
+boring, but super important things of
+getting books or everything else in life
+delivered to people on a regular basis.
+And if you think about robot taxis, um,
+we are moving into the era of that's
+really like a supply chain company in
+some ways, right? It has to operate. It
+has to get people to a certain place. It
+has to get the cars charged. It has to
+keep the cars clean. It has to make sure
+they follow the laws and the regulations
+and super important details that could
+decide who wins and loses. If you think
+about other players in this, Whimo came
+out of a software company. They had to
+build that infrastructure of how to keep
+these cars going and they have,
+&gt;&gt; right? It's called fleet management,
+right? I mean this is what hurts Renard.
+&gt;&gt; Absolutely right. So that's something
+that perhaps being associated with
+Amazon will help them. Um and I I say
+that because when you look at at what
+Musk is doing with Tesla, they have not
+really highlighted all of that effort in
+the background. It doesn't mean they're
+not doing it. Now I've got some
+questions for you about that because you
+are the Tesla expert. You know, there
+have been reports that uh castings for
+robo taxis are piling up at Gigafactory
+Austin. Um I mean, they're literally
+being stacked up outside the factory
+where people can take pictures of them.
+Is that not evidence of their ramping up
+in the way that you're describing or or
+or is that just a piece of
+&gt;&gt; That's just a piece of that's that's
+that highlights what I think a lot of
+supporters of Tesla would say is their
+advantage. They build cars, right? So
+they can build the robots uh they can
+churn them out. Uh but Tesla has not yet
+demonstrated that fleet management
+capability for a robot taxi fleet. Uh
+the ability of deploying uh tens, 20s,
+30s, thousands, hundreds of thousands,
+millions of vehicles like Musk is
+talking about. That's super complicated.
+Um who is going to clean out the vomit
+in the back seat, right? Is that going
+to be uh Elon Musk doing that? Is it
+going to be you if you own one and
+you're deploying it in his robot taxi uh
+service,
+&gt;&gt; right? Maybe Optimus can the robot.
+&gt;&gt; Possibly. I mean, they they talk about
+uh automating some of these these
+features and that's kind of out there,
+but it's also, you know, that's unproven
+at this point. So, that's that's kind of
+one of the questions if you kind of you
+compare these companies together.
+Whimo's out there figuring that out.
+Zuk's parent company has experience with
+fleet management, all this stuff. Uh
+Musk and Tesla have experience in
+manufacturing. All these companies come
+at this very hard problem from a
+different kind of lens. And it's not yet
+clear who's the right player.
+&gt;&gt; Does the America party affect this in
+any way?
+&gt;&gt; Absolutely it does. Uh
+I mean you can't I mean we joke
+&gt;&gt; that would be Elon Musk new political
+&gt;&gt; Yeah. You can't I mean we joke but in a
+lot of ways this is a political uh
+endeavor. Um we saw for General Motors
+it's cruise autonomous car operation in
+San Francisco really kind of run into
+trouble when it had an incident somebody
+was injured. Um politically that was
+very hard for them to navigate and we
+have seen that um local politics is very
+important but also state and national uh
+politics are going to be very important
+as Musk and others try to navigate the
+quilt of regulations that uh are out
+there trying to kind of set the rules
+for these robots.
+&gt;&gt; Right? These companies need a social
+license to operate. And and you know,
+it's one thing if
+you're a social media company and you're
+secretly rotting teenagers brains and we
+won't know about that until like 15
+years from now, but this happens. You
+know, it's life and death right here on
+the roads.
+&gt;&gt; Absolutely. You start running people
+over and killing them. That's not good
+for your shareholder return. I mean, I
+guess question Mims for you is, are you
+ready to buy one of these things? I
+definitely wouldn't buy one, but I
+thought the whole model was I don't have
+to own a car anymore. For me personally,
+here's what I want and there's already
+some good reporting on this.
+People have talked about how teens are
+starting to take Whimos.
+So, just as Aisha mentioned in our
+interview, she called herself a soccer
+mom. Not having to fy kids around is
+potentially a huge use case for
+self-driving vehicles. And as somebody
+who has devoted the last 15 years of my
+life to fing children from one place to
+another, I cannot wait for that burden
+to be completely lifted off of my
+shoulders. And I think that
+that's kind of the acid test for this,
+right? Like if people are willing to put
+their kids in these cars and rely on
+them, I mean, first off, parents will
+pay a lot for that and it's worth a lot,
+right? Because that's the point at which
+maybe it does mean not a second vehicle
+or if the total addressable market is
+the cost of maintaining a second or even
+a third vehicle plus the cost of
+insuring a teenager which is eyewatering
+just so they can have a ride, you know,
+a handful of times per week. Forget
+about it. This this thing will be
+huge if they can just address that
+market.
+And that's bold names. Our producer is
+Danny Lewis. We had additional help this
+week from Ariana Aspiru. Michael Lval
+and Jessica Fenton are our sound
+designers. Jessica also wrote our theme
+music. Our supervising producer is
+Katherine Milstop. Our development
+producer is Aisha Al-Muslim. Scott
+Saloway and Chris Sinsley are the deputy
+editors. And Felana Patterson is the
+Wall Street Journal's head of news
+audio. For even more, check out our
+columns on wsj.com. We've linked them in
+the show notes.
+&gt;&gt; I'm Tim Higgins.
+&gt;&gt; And I'm Christopher Mims. Thanks for
+listening.
+[Music]

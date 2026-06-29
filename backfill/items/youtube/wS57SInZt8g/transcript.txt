@@ -1,0 +1,269 @@
+Kind: captions
+Language: en
+When you're out shopping for 7 megawatt
+offshore wind turbines, you think
+Samsung, right? Well, probably not. The
+brand is much more famous for its phones
+and flat screens. But arguably the most
+important drivers of South Korea's
+biggest family business are these
+things. And for the first time in
+decades, the company's got a massive
+problem here.
+&gt;&gt; Samsung is under assault from all sides.
+And they are getting stretched thin.
+Samsung is in this position of playing
+catch-up and that's difficult to do if
+you don't have growing revenue, if you
+don't have expanding profitability.
+&gt;&gt; And unfortunately,
+&gt;&gt; the chip profits tumble. Big
+disappointment. The semiconductor
+division reporting operating profit of
+400 billion one totally missed analyst
+projections for 2.73 trillion. Samsung
+shares have whipsed in value since their
+2020 peak and tanked in 2024.
+while long-standing rival SK Heinix
+surged.
+The crisis is easy to miss amid all
+this.
+&gt;&gt; The Ultra experience is ready to unfold.
+&gt;&gt; But behind the cats and choreography,
+Samsung's hidden struggle threatens its
+national identity amongst a population
+that relies on it like no other.
+It is probably the most influential
+company in Korea because of the
+importance to the economy.
+&gt;&gt; And maintaining that influence may hinge
+on a piece of technology you probably
+own but have never even seen.
+[Music]
+The Samsung Group comprises vastly more
+than just its flagship electronics
+empire. You can literally be born in the
+Samsung hospital, go to a Samsung
+school, live in a Samsung apartment, you
+work at Samsung, you come home, you put
+your food, which is made by Samsung in
+the Samsung microwave and turn on your
+Samsung TV. It's a company with 400,000
+employees all over the world. They make
+chips. They're in ship building. They
+make apartment complexes.
+&gt;&gt; Samsung is the biggest company in the
+country. It is the biggest weighted in
+the Cosby index which is the local stock
+market and as well as the biggest
+contributor to the economy by any study
+that you can see.
+&gt;&gt; Samsung in any given year makes up about
+1/5th of the country's exports. Imagine
+there's one company that's selling 1/5if
+of all the goods produced in that
+country. I mean that kind of comparison
+doesn't exist anywhere.
+&gt;&gt; You get the idea. A career without
+Samsung is a Blackpink show without the
+superstars or their iconic light sticks.
+&gt;&gt; Samsung is so tied to the health and
+well-being of the South Korean economy
+that you just can't imagine a South
+Korea without it.
+&gt;&gt; So why is such a scenario even being
+hinted at? Well, for years now,
+electronics have driven Samsung and not
+just these things. Its major product is
+computer memory, so-called DRM or
+dynamic random access memory. Those
+chips go into everything from
+smartphones to the world's largest
+supercomputers.
+Samsung Electronics's semiconductor
+business has typically accounted for
+between 50 and 70% of the company's
+profit every year and is central to its
+evolving crisis. So, it's worth
+understanding how these chips work.
+&gt;&gt; Think about DM as a coffee cup. Imagine
+you want to drink as much coffee as you
+possibly can from the coffee pot, but
+you can't pour that coffee pot into your
+mouth. So, you have to do it via a cup,
+right? Depending on the size of the cup,
+that will determine how much coffee you
+can drink in one go. Think of Dram as
+that coffee cup. What Samsung's chips do
+is they hold that information ready for
+when the processor wants it.
+&gt;&gt; But what that information is and the
+kind of processors using it has evolved
+radically. AI has changed everything.
+Samsung, which dominated the memory
+market for decades, is now struggling to
+keep up with the latest technology.
+&gt;&gt; So, what went wrong?
+&gt;&gt; SKH.
+[Music]
+&gt;&gt; In 2013, SKHix and AMD teamed up to
+develop high bandwidth memory. It was
+the first product that was in the
+market, but at the time it wasn't clear
+what it was going to be needed for. It
+was mainly for the gaming industry that
+they were kind of developing. It was a
+niche product,
+&gt;&gt; but that's often how things go in the
+semiconductor world. Build the stuff and
+let the industry figure out how best to
+use it.
+&gt;&gt; The chip industry, it operates on these
+3 to 5 year cycles. You have to make
+massive billions or more dollars
+investments 5 years ahead of time.
+sometimes and you know within those 5
+years a lot can happen
+&gt;&gt; and over the last five a lot did.
+&gt;&gt; The release of chat JPT has really
+changed everything. All of a sudden
+there was a surge of demand for HBM
+chips which is really ideal for um AI
+applications. Remember this AI needs
+vastly more coffee or data and it needs
+to swallow or process it faster than
+ever. HBM high bandwidth memory made
+that possible and is now a fundamental
+component of the accelerators used to
+train large language models. At the
+time, Samsung hadn't invested enough in
+this kind of chip, which is a type of
+DRAM, but significantly more profitable
+than its mass market counterpart. But a
+smaller local competitor that had
+teetered on bankruptcy as recently as
+2002 had
+&gt;&gt; SKH has come arguably out of nowhere to
+become a major rival to have
+unprecedented success against them. SK
+landed the contract uh with Nvidia,
+which is the largest maker of AI chips,
+these logic chips in the entire world.
+You'll have seen the headlines about
+what that's meant for Nvidia's
+investors.
+But the knock on effect for its most
+important suppliers has been great too,
+particularly for SKH Highix.
+&gt;&gt; It's reported record quarterly profit
+that beat expectations driven by its
+dominance in high bandwidth memory. SKH
+Highix's profit has continued to soar to
+record highs in the last year on the
+back of the AI boom, inspiring investors
+to pile into its stock and elevate that
+to historic levels as well. SKH Highix
+is providing about 20% of Nvidia's cost
+of goods sold. It's the second largest
+supplier of semiconductors to Nvidia
+behind TSMC. Samsung is about 1% of
+Nvidia's cost of goods sold according to
+our analysis.
+&gt;&gt; Samsung is trying to really catch up,
+but it's very difficult. This year,
+Samsung was overtaken by SKH Highix in
+the DRAM market, ending its three decade
+lead. US manufacturer Micron isn't far
+behind either.
+&gt;&gt; And so, this is devastating for the
+company.
+&gt;&gt; The company's uh vice chairman has
+issued an apology, a rare apology. It
+was a long one. It
+&gt;&gt; was quite an extraordinary meal from the
+head of the chips division.
+&gt;&gt; The way it works in South Korea is that
+the company is an arm of the nation.
+It's a private company on paper, but
+they're expected to represent the
+interests of the South Korean people.
+&gt;&gt; And that's been the case for quite some
+time.
+&gt;&gt; Samsung got its start in 1938.
+&gt;&gt; This was at a time when South Korea as a
+nation was extremely poor. It was
+actually one of the poorest countries in
+the world.
+&gt;&gt; They started as a sort of a very small
+trading company for dry fish, rice, that
+type of business. And gradually on and
+on they expanded into these more complex
+industries until they finally got later
+into ship building into oil rigs into
+the aforementioned offshore wind
+turbines and of course into electronics
+which are now at the heart of its
+problem. So what does Samsung need to
+do? Well, first it may have to win over
+the undisputed world leader in AI
+hardware. Samsung chips have been left
+out in the cold because they haven't
+passed the tests required by Nvidia to
+become a contractor.
+&gt;&gt; All they've said publicly is, "We want
+Samsung to be better. We hope they'll
+get there. We're sure they'll get
+there." But clearly, they're not buying
+from Samsung right now, according to the
+numbers.
+&gt;&gt; Samsung is now mounting an allout push
+into next generation HBM 4, aiming to
+close the gap with SKH Highix.
+On recent earnings calls, Samsung
+executives have acknowledged as much,
+but they also say its next generation
+custom chips have been drawing great
+interest from the industry. But it'll
+take some time for the money to show up
+from sales of those.
+Samsung doesn't just design and
+manufacture its own chips like those
+Nvidia needs. It also has a foundry
+business that only manufactures chips
+other companies design. And this is
+under intense pressure too, particularly
+from Taiwan's TSMC, which controls about
+2/3 of the global foundry market.
+&gt;&gt; The most recent quarter, Samsung has
+about 8% market share, and they're
+struggling to gain large customers.
+&gt;&gt; There may be some light at the end of a
+tunnel, though. In July, Samsung said it
+had reached a $16.5 billion pact with
+Tesla to produce its next but one
+generation of AI semiconductor. Some say
+that it's not really significant when
+you really break it down to annual
+numbers, but it is a big deal when it
+comes to its uh foundry business that a
+lot of the investors have thought was
+actually dormant. That foundry battle is
+one the South Korean company will have
+to keep fighting alongside the one with
+SKH Heinix in the memory space.
+&gt;&gt; On the logic front, TSMC is just going
+over the horizon on everybody and is
+increasingly dominating that very
+profitable market. I think there is a
+bit of a lesson that we can learn from
+all these giants uh that you know you're
+successful today doesn't mean that you
+will successful tomorrow.
+&gt;&gt; Just look at Intel. Intel in 2021 was
+the world's largest chip maker. Now it's
+well down the ranks. Samsung is not in
+the Intel camp yet, but it could be. And
+that's the concern that Samsung
+investors have, that Samsung insiders
+have.
+[Music]

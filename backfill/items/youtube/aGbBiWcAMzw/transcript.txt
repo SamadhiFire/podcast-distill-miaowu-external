@@ -1,0 +1,531 @@
+Kind: captions
+Language: en
+We saw in the 2001 recession, everybody
+remembers that as the internet bubble
+popped and that caused a recession. As
+soon as the growth rate of the internet,
+it became clear it's not going to be 20%
+a year. Maybe it'll be 5% a year,
+there was a huge overhang and and a
+collapse of confidence. So, I just want
+to caution us on AI. Let's not repeat
+that bubble bubble and bust cycle.
+So tell us, I feel like we've been
+wondering the whole year when we will
+start to see tariffs reflected in some
+of this inflation data.
+&gt;&gt; Well, we said back in April, was it? I
+think it was April. It was a thousand
+years ago, uh, liberation day. I think
+people were saying then that you really
+wouldn't see any price impacts from
+tariffs until the summer or fall. And I
+don't know where where you are uh
+audience, but here in New York it is
+definitely summer. And it seems like we
+are starting to see it in the data a
+little bit. It's no more of this
+inflation. Is it in the room with us?
+Like it's it's kind of knocking at the
+door, right?
+&gt;&gt; We're having a hot inflation summer.
+&gt;&gt; Well, the temperatures outside are
+matching the always sweltering
+temperatures inside of our studio here
+at WSJ's Take on the Week. I'm Telus
+Deeos
+&gt;&gt; and I'm Gjen Banerjee. Um, I read
+recently, uh, somebody said that trying
+to get a read on the role of tariff of
+of what's going on in inflation, uh,
+tariffs were like kicking more dirt into
+the air and just sort of muddying the
+picture. And the person who said that is
+joining us now. He is Austin Goulsby.
+He's the president of the Chicago Fed.
+So Austin, welcome. Thanks for joining
+us.
+&gt;&gt; Thank you for having me.
+&gt;&gt; So what what are you hearing right now?
+What's your read on the Chicago economy?
+And does it tell us anything about the
+US economy right now?
+&gt;&gt; Okay, the district, seventh district is
+more than just Chicago. It's basically
+90% of Iowa, Michigan,
+Indiana, Illinois, and Wisconsin. It's
+kind of heart of the Midwest.
+&gt;&gt; We're the highest manufacturing
+intensity of all the districts and the
+highest auto production o of all the
+districts.
+That historically means we're among the
+most cyclical of all places. And if
+you're cyclical because of the
+manufacturing and durable goods and
+things like that, we're a little bit the
+canary in the coal mine of the business
+cycle. So a lot of times we will pe
+people will be interested what are we
+hearing in the seventh district because
+it's an indicator of where we are in the
+business cycle.
+They got a little scrambled going
+through COVID because it was such a
+weird recession. It's been such a weird
+period co coming out. That said, going
+into April 2nd, before April 2nd,
+hair on fire, especially in the auto
+industry, but throughout manufacturing
+about yikes, if the tariffs are going to
+be this big, it's going to disrupt the
+supply chain. Then I would characterize
+over the summer, late spring and summer,
+the impact of tariffs wasn't as big as
+they feared. The feeling's been a little
+less hair on fire and a little more,
+hey, maybe we we got some exemptions.
+Maybe they tariffs won't be as big as we
+thought.
+There's not 100% pass through. were kind
+of cost sharing, burden sharing as as
+they described it. So we were getting a
+little
+I guess I would characterize a little
+more maybe this is a sustainable
+equilibrium
+and now I'm hearing more nervousness
+again that August 1, another day is
+coming. We're going to raise tariffs on
+copper 50%.
+back to the dynamic that was kind of the
+unfortunate dynamic around April 2nd.
+You open with my line that we're kicking
+dirt in the air. I I thought coming into
+April 2nd, we were still on what I was
+calling the golden path where we're at
+stable full employment.
+Inflation coming down to the 2% target
+in an environment like that. I've
+absolutely thought and continue to think
+if we if we can show that we're still on
+that path, rates have a fair way to come
+down. They they can come down a fair bit
+below where they are today. But if we
+just keep throwing the dust up in the
+air, then it makes it very difficult to
+to make sure that you're still on that
+path. And you know, the law requires us
+anything that affects prices or
+employment, the law says we have to look
+at it. So that's that's where we are.
+&gt;&gt; So Wall Street doesn't seem too
+concerned, right? The stock market is at
+a record despite some of the recent data
+that we've gotten on inflation.
+&gt;&gt; The market freaked out at the same time
+business and consumers seem to be
+freaking out, which was liberation day
+and and after. And then the market began
+to recover similar with the recovery of
+people that I was talking to. They said,
+"Yeah, I know." I I said, "You guys told
+me that it was going to be the end of
+the world, and inflation's been coming
+in modestly, and they, yeah, it's not
+going to be the end of the world. We
+think this could be sustainable." And
+what I'm picking up now in in real time,
+if you want to think of it that way, is
+if we're going to go back through this
+same cycle where well, maybe tariffs are
+going to be massively higher than than
+they were before, maybe there is going
+to be 30% tariff put on Canada.
+And so now a lot of scrambling to figure
+out, well, what are the rules going to
+be? It's worth remembering imported
+goods are only 11% of US GDP. So there
+is a sense in which the US is
+overwhelmingly a domestically driven
+economy and even substantial tariffs
+might not have that material an impact
+on the aggregate in the US and the three
+places that you should be worried of how
+does it jump out of the 11% lane are a
+if there's retaliation from other
+countries now you just spread it to to
+all our exports
+B, if you put the tariffs on
+intermediate goods and parts and
+components and supplies, now you just
+jumped it out of its lane and it's
+raised the cost of production for
+domestic manufacturing. And then three,
+the most important, if people start
+freaking out, businesses and/or
+consumers, and change their behavior,
+then the impact of tariffs can get can
+can be a lot larger than just the 11%
+lane.
+We seem to be making progress, it felt
+like, on all three of those fronts. o
+over the early summer, less freaking
+out, more exemptions on intermediate uh
+products and and parts and components
+and backing down from the escalation and
+retaliation cycle.
+Last two weeks seems like we've getting
+getting a little more back in that lane.
+&gt;&gt; You've described your approach and I
+think most people at the Fed would
+describe themselves this way as sort of
+data dependent, right? So, when it comes
+to all the things you're talking about,
+when it comes to, you know, people
+deciding how they're going to vote at
+the next Fed meeting or a Fed meeting
+later this year, is there anything
+data-wise that you're seeing that says
+to you that we're on an inflationary
+course? Is there anything that has
+jumped out to you in the most recent
+report, the CPI report for example, that
+that would sort of point to you that
+okay, all these things are are actually
+being seen in the data?
+just the impact of tariffs. I do think
+you started to see it in the last
+inflation report and in this inflation
+report, imported goods, um you you're
+starting to see pretty significant
+accelerations of inflation.
+The caveat and why I would took us on
+the on a long journey about the 11% lane
+of imported goods is it's worth
+remembering imported goods aren't that
+big of a deal. Okay.
+&gt;&gt; And so the fact that we've continued to
+make progress on services and on
+housing, that's fabulous. That's what I
+want to see. And it's entirely possible
+that if we don't overdo the price
+impacts of tariffs on goods that the
+I I'll call it the residual seasonality
+that for the last several years kind of
+j for Q1 inflation has bumped up but the
+later parts of the year we made real
+progress on on inflation and if that
+continues this time of a magnitude that
+kind of drowns out or overwhelms what
+what's coming from tariffs, I would feel
+good. Like I say, I think underneath
+there is still that golden path and we
+just need to not get bumped off of it.
+&gt;&gt; We're going to take a quick break and
+when we come back more with Austin
+Goulsby.
+Well, I want to drill down on housing
+because that is just such a big part of
+our economy and you said that you're
+encouraged by where prices are heading
+in the housing market, but some of the
+data has shown that home sales are
+slowing down, right? Is that actually a
+worrying sign about the economy, what
+we're seeing in the housing market, or
+is it encouraging because inflation in
+housing is not getting out of hand?
+&gt;&gt; Yeah, but it's it's all of those. It's
+all of those. My reference to what's
+encouraging in housing is that the
+inflation rate of shelter in the CPI
+core housing inflation
+has been moderating and that was
+for a very long time the biggest puzzle
+was why has that been as persistent as
+it was and there were as you know there
+were a bunch of arguments way down in
+the weeds of maybe it's how they're
+calculating it and the market measures
+the inflation rate already fell so maybe
+it's just a matter of time before that
+starts to come down that has been coming
+down and that's that tends to be a
+persistent component. So when you see
+improvement in the inflation rate on
+core services and core housing that that
+doesn't flip around as as as much as
+goods can. But I do think that that
+transitions us into the important
+political dimension of of what's going
+on here. You know, the president and a
+lot of people around the president would
+like the the cost of would like mortgage
+rates to come down and one pathway that
+some people see towards that is that the
+the Fed should be cutting rates. Uh do
+you think that that there is a pathway
+to lowering mortgage rates through what
+the Fed does in its policy and and and
+you know is that is that a sensible
+economic policy to you?
+&gt;&gt; The rules of the FOMC say I'm not
+allowed to speak for anybody else on the
+committee. I don't speak for the chair.
+I don't speak for the committee as a
+whole. Just my own opinions. That's all
+I'm allowed to talk about.
+My observation and you can go look at
+the minutes or you can go look at the
+word forword transcripts of the FOMC.
+What drives the interest rate decisions
+is exactly what it should be and that is
+the economic conditions and the economic
+outlook facing the country. We have a
+mandate by law that when we're setting
+monetary policy, we're we do two things
+and two things only. We're supposed to
+stabilize prices and maximize
+employment. So, do you think the Federal
+Reserve should cut rates at its next
+meeting?
+&gt;&gt; I I don't like tying our hands before we
+get all the data and before I've heard
+what what my colleagues say. The most
+important thing at this
+at the FOMC gatherings and for a central
+banker is to figure out the through
+line. So it's not about this meeting or
+that meeting or what it's to figure out
+okay what what is the path we're on and
+if we had comfort
+if if I had comfort that we're
+definitely on the path back to 2% then
+as I said I think rates can come down a
+fair amount if we have a meeting and
+then two days later tariffs are
+scheduled to have a massive jump And so
+everybody we talk to says, "Yikes, I
+think within a month after that, prices
+are going to be rising significantly
+again." Then we we got to take that into
+account, too. And in periods of
+uncertainty, you you just got to be a
+little careful moving certain ways and
+then finding out that you're you're in
+the wrong spot.
+&gt;&gt; So, you've talked about this dual
+mandate, right, between employment and
+inflation. What is your read on the
+broader economy and some of some of the
+jobs reports that we've seen?
+&gt;&gt; Pretty good. I mean, I think like I
+said, coming into April, I thought on
+dual mandate grounds was looking quite
+good. We have an unemployment rate
+that's around a little above 4% and it's
+been stable there for for quite a while.
+To me, that's that looks like the kind
+of maximum employment full employment
+baseline that that we look for. And the
+worst thing that that had faced the
+economy is no secret. Uh it's that price
+inflation got out of control. And we've
+spent literally years bringing that back
+down. And I felt like it was to me
+looked like a path to to get to 2%.
+And the added bonus, we've had a real
+surge of productivity growth in this
+country
+&gt;&gt; in the last couple years. And that makes
+it that makes everything better. That
+makes wages can grow faster without
+generating inflation. We can have more
+growth. We can raise our standard of
+living. So that combination is pretty
+positive. And that's what I hope is
+underneath there. But I I made the
+analogy. It's a at one point I've hired
+a trainer at the gym and and the trainer
+said, "Ah, you can do this. You can do
+sit-ups. You can do push-ups." And I
+said, 'Well, how much how much you
+lifting? How many sit-ups I got to do to
+get a six-pack? And the trainer politely
+said, "Everyone has a six-pack
+underneath." That was the beginning. And
+said, "The problem is not how much
+lifting that muscle does. The problem is
+getting what's on top of that muscle off
+of there if you want to get a six-pack."
+And I kind of feel like that coming into
+April 2nd, there is a six-pack of muscle
+uh in the economy. It's just we're
+layering things on there that make it
+hard to see that muscle. And I just want
+us to get back to that muscle. Well, you
+anticipated my next question, which is
+going to be about productivity because I
+know you've you've talked a lot over the
+years about the role that that plays in,
+you know, the inflation picture. So
+maybe just unpack for us a little bit
+what's happening in the productivity of
+our of our workforce. And the thing that
+jumps to mind for me certainly is is
+artificial intelligence. So maybe just
+lay out for us like what you see
+happening in productivity and what how
+that will or or either will keep us on
+that golden path or maybe things that
+could move us off of that golden path in
+the productivity picture.
+&gt;&gt; Okay.
+as as you know you talk to the
+economists they will tell you this is
+the single most important number that
+nobody talks about is what's the
+productivity growth rate one of the
+reasons people don't emphasize the
+number as much as they do as much as
+they do say CPI or jobs numbers is it's
+also the noisiest number among the
+noisiest of all the data series that we
+have so if you key on well what did the
+data show this quarter you it's going to
+all over the map. Over a longer run,
+there are these productivity trends that
+are that can be significant and and
+substantial. I started as a skeptic that
+it was AI
+um because AI is just not big enough.
+But I will say we had folks here at
+Chicago Fed doing research. what
+industries had the biggest increase in
+productivity growth from before CO to
+after CO and a large fraction of the
+ones that had the biggest increase
+are AI related they're they're in
+technology or they're you big users of
+technology and the good news about that
+is if it is a technologydriven
+productivity boom that can have legs
+because that doesn't happen right away
+it spreads through the economy. Here's
+only shadow. I won't say it's a
+downside. It's just a shadow. If we and
+we learned this lesson in the '9s.
+If the productivity growth boom is
+mostly in the future and everybody's
+anticipating these productivity
+increases and the market is
+forward-looking and so they're giving
+massive valuations to productivity.
+They're counting on the productivity
+growth delivering.
+You can overheat the economy in the
+short run. you can get out far in front
+of your skis because suddenly the
+entrepreneurs are all rich
+&gt;&gt; because they're counting on trillion
+dollar improvements in the future. And
+we saw in the 2001 recession, everybody
+remembers that as the internet bubble
+popped and that caused a recession. But
+if you I I was working on internet
+economics back at that time. It it
+should have been impossible. The
+internet was not big enough to cause a
+recession. It the adoption had not been
+enough. And the way it did was
+the exuberance of business investing and
+of consumers spending out of their newly
+acquired stock market wealth. As soon as
+the growth rate of the internet, it
+became clear it's not going to be 20% a
+year. Maybe it'll be 5% a year.
+there was a huge overhang and and and a
+collapse of confidence. So I just want
+to caution us on AI. Let's not repeat
+that bubble bubble and bust cycle.
+&gt;&gt; So it seems like despite what we
+discussed about tariffs, you are
+expecting the US economy to to make it
+through this path, right? Or you are
+expecting the US economy to not tip into
+a recession.
+&gt;&gt; It's got a six-pack underneath
+everything going on. I think it's got a
+six-pack under there and I just won.
+Let's show the muscle. People still
+credibly believe that the when when the
+Fed says we're going to get inflation
+back to 2% and you go look at what the
+market thinks the inflation rate will be
+in 10 years is basically 2%. So that
+that hasn't moved. I find an encouraging
+sign that the world does not think
+tariffs are going to blow up everything.
+We are going to take a short break and
+when we come back we have one very
+important question for Austin Goulsby.
+[Music]
+&gt;&gt; What is one economic trend or blind spot
+that's keeping you up at night right
+now?
+If the if the question is what keeps you
+up at night, I always say that the job
+of the central bank is to be the night's
+watch and not sleep at night because
+there shouldn't be anything that goes
+wrong that we haven't at least thought
+through the possibility and and worked
+out a scenario. Now that said, I think
+the the nightmare scenario for central
+banks is anything that pushes us in a
+stagflationary direction, which is to
+say employment gets worse at the same
+time inflation is rising. And
+historically, we think of those as
+supply shocks. So if geopolitics start
+driving up the price of energy a lot.
+But now it's the thing that makes me
+nervous about
+escalating trade wars and tariffs is
+they can have that stagflationary
+direction too that they can slow output
+at the same time they're driving up
+prices.
+And that's just not a fun place to be
+because there's not a there's not a
+wellestablished playbook of well what
+should the what should the central bank
+do in in response.
+&gt;&gt; Thank you so much. This has been great.
+&gt;&gt; Thank you.
+[Music]
+We have a lot to talk about, but first I
+want to ask you um something very
+important uh to me. You know, when when
+the when the Chicago Pope uh ascended uh
+in Rome, he made it very clear quickly
+where his baseball allegiances were,
+which is something very important in
+Chicago. He's a White Sox fan. Now, he's
+a born and raised Chicago. I know you're
+not a native of Chicago, but I just Are
+you on the record as as having picked a
+a team? Is that something that you have
+to do as as kind of the leading economic
+voice in the region?
+&gt;&gt; I can't profess allegiance to to either
+team now, but I am going to throw the
+first pitch out at the White Socks game
+in August.
+&gt;&gt; All right. Congratulations. Telus has
+been waiting for an opportunity to bring
+up baseball.
+&gt;&gt; That's the main reason we called you,
+actually.
+[Music]

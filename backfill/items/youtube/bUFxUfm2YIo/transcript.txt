@@ -1,0 +1,1575 @@
+Kind: captions
+Language: en
+Octis, which was formerly known as
+Reorg, is today's presenting sponsor on
+Business Breakdowns. This is an
+essential credit intelligence and data
+provider. And they have grown to over
+40,000 professionals across leading buy
+firms, investment banks, law firms,
+advisory firms. And what they're doing
+is they're taking the human expertise,
+which is so important in credit. They're
+embedding it with AI, technology, data
+and workflow tools. And that's going to
+allow you to unlock all the things you
+need, the truths to fuel that decisive
+action that you need in the credit
+markets. So head over to octis.com to
+learn how they have taken this verified
+intelligence platform, delivering it at
+speed and giving you that complete
+picture across the credit life cycle.
+You can follow Octis on LinkedIn or X.
+there. They will share breaking news and
+exclusive coverage and you can find
+links to everything in the show notes.
+[Music]
+&gt;&gt; This is Business Breakdowns.
+Business Breakdowns is a series of
+conversations with investors and
+operators diving deep into a single
+business. For each business, we explore
+its history, its business model, its
+competitive advantages, and what makes
+it tick.
+We believe every business has lessons
+and secrets that investors and operators
+can learn from and we are here to bring
+them to you. To find more episodes of
+breakdowns, check out join colossus.com.
+All opinions expressed by hosts and
+podcast guests are solely their own
+opinions. Hosts, podcast guests, their
+employers, or affiliates may maintain
+positions in the securities discussed in
+this podcast. This podcast is
+forformational purposes only and should
+not be relied upon as a basis for
+investment decisions.
+I'm Zach Fuss and today we're tackling a
+giant in a controversial and incredibly
+complex industry, the United Healthcare
+Group. At its recent Apex, UNH was a
+half trillion market cap business, the
+15th largest listed business in the
+United States. Today, that market cap
+sits at just 275 billion. The company
+does in excess of $400 billion in sales
+annually and produces 40 billion in
+ibida as it touches every facet of the
+American health care system. To break
+down United Healthcare, I'm joined by
+Stephanie Nan, a co-PM of the global
+sustainable equity strategy within the
+sustainable equity team at 91. Stephanie
+has been following the company since
+2012 and she will help us to unravel
+this intricate business. We'll explore
+how United Healthcare operates as a
+fully integrated health care system from
+its insurance arm, United Healthcare,
+its namesake, to its high margin health
+services business, Optum. We'll provide
+a breakdown of the unique and often
+inefficient US healthcare ecosystem that
+United Health navigates and how the
+company has built a powerful flywheel to
+drive growth and address systemic
+shortcomings in providing care. We'll
+also dive into the concept of valuebased
+care, the recent headwinds from Medicare
+Advantage scrutiny, and whether the
+market is mispricing this complex giant
+amidst regulatory noise and leadership
+changes. We'll do our best to simplify
+what is a complicated, complex, and
+controversial business and to leave you,
+the listener, better informed about the
+economic engine and the prospects of UNH
+going forward. We hope you enjoy this
+breakdown of the United Healthcare
+Group.
+All right, Stephanie, thank you for
+joining us to break down United Health
+Group. It comes at a time that is quite
+controversial, topical, interesting.
+United Healthcare, I think, as a
+business is one that is pretty
+complicated from the start, but
+obviously given the current
+circumstances comes with all types of
+different questions. But I thought
+sticking to the business itself, what is
+United Healthcare? How did you come to
+learn the business? How would you set
+the table for this one?
+&gt;&gt; Thank you, Zach, for welcoming me onto
+the show. I think most people think of
+United Health as a giant US insurer, but
+to me that description barely scratches
+the surface because United Health isn't
+just selling coverage. It's a fully
+integrated healthare system. It
+incorporates insurance, clinical
+assessment, effective delivery of health
+care services and in total the company
+serves over 150 million people across
+its businesses of which a third are
+covered by its insurance policies and
+the remaining are served within the
+company's optimum health care service.
+And this is done on an increasingly
+integrated basis in a US healthcare
+ecosystem really characterized by
+fragmentation, inefficiency, and cost
+inflation. Now, I've held this stock
+since 2012, and over that time, I've
+really watched the market repeatedly
+mispric and misunderstand its profit
+engine. This is a flywheel that turns
+between United Healthc Care, its
+insurance course, and Optum, its health,
+its high margin accelerator. And that
+flywheel is really what we're going to
+unpack today. Because this episode isn't
+just about a company, it's about an
+ecosystem. To understand United Health,
+you first need to understand the system
+it was built for. Because the US
+healthcare system is not like most
+others. It's fragmented. It's expensive.
+and it's structurally unique and
+although United Health has no silver
+bullet for those challenges, I really do
+believe that it has designed itself as a
+company, as a business to go some way
+towards addressing some of the systems
+shortcomings.
+&gt;&gt; So to your point, it's nearly impossible
+to discuss United Healthcare without
+better appreciating the size, scale, and
+complexity of the US health care system.
+So maybe just a preview on what you need
+to understand in order to dive deeper
+into how United Healthcare Group serves
+that market.
+&gt;&gt; Thank you, Zach. That really sets the
+stage. So let's start with the basics.
+The US spends more on healthcare than
+any other highincome country, both as a
+share of GDP and on a per person basis.
+So in 2024, total US healthcare spending
+reached a really significant $5.1
+trillion. That's approximately $15,400
+per person. And that's nearly double
+what Switzerland, which is next on the
+list, spends. And the gap holds across
+other wealthy nations, too. The UK even
+spent around 5,700 per person. Germany
+came in around 7,600.
+Japan was approximately 5,200 and
+Australia was close to 6,000.
+And yet, American outcomes aren't much
+better. In some cases, they're worse.
+Life expectancy, chronic disease
+management, access to care are all
+underwhelming. Life expectancy in the US
+is just 77 years. And that's lower than
+in Japan, lower than Australia, lower
+than the UK, and lower than Germany. The
+US also has a higher infant mortality
+rate, the highest obesity rate in the
+OECD, and around 30 million people are
+still uninsured, leading in turn to
+poorer chronic disease outcomes and
+delayed care. Why is this happening?
+Well, it's partly a function of the wide
+income inequality in the US, but also a
+big part of it comes down to the
+structure of its health care system.
+Unlike most OECD countries, the US
+doesn't have a universal state-run
+system. Instead, we have a hybrid model.
+Public and private finance, public and
+private delivery. And here's how it
+breaks down. So, you have private
+insurance, and this covers most people
+under 65, mainly delivered through
+employers. And then you have public
+programs across two main buckets. You
+have Medicare and this is for seniors
+and people with disabilities with
+Medicare advantage then a more enhanced
+program which we'll revisit later on
+when we discuss value based care which
+really is a key part of United Health's
+growth story. And the second bucket of
+the public programs comes from Medicaid
+and this is for low-income families
+jointly funded by states and the federal
+government. Now, despite the perception
+of the US being a private system, public
+money actually accounts for over half of
+total spending, which is really why it's
+such a political hot potato. And it's
+not all bad. It's important to recognize
+that the US healthcare system is perhaps
+the world's most innovative. It leads in
+drug development, in novel treatments,
+and it dominates medtech. It also offers
+more patient choice than pure state-run
+systems. However, the flip side of the
+choice coin is complexity. Multiple
+payers, fragmented providers, heavy
+regulation, lots of oversight and
+paperwork. Admin costs alone are
+estimated to be 30% of that excess
+spending gap versus peers. And we also
+have to recognize that underlying health
+care costs in the US are significantly
+higher than we find amongst its peers.
+This applies to everything from the
+underlying salaries of health care
+professionals which in some cases is
+more than double for the same role and
+also there's the cost of pharmaceuticals
+which a 2018 medical journal research
+paper found to be about twice the level
+found here in the UK. And if that wasn't
+all bad enough, you have a principal
+agent problem. there is information
+asymmetry between the provider and the
+patient which increases the risk of
+excessive and often expensive
+intervention. So despite conventional
+opinion, we believe that the US health
+care system does have its virtues, but
+importantly, it fails to deliver optimal
+outcomes for huge swages of the
+population. And this means there's a
+clear value opportunity for any player
+who can cut through that complexity, who
+can manage risk, who can drive scale
+efficiencies, reduce waste, improve
+outcomes. So I hope that's a relatively
+high level insight to the world in which
+United Health plays. a world that
+provides the necessary context to the
+journey that United Health has been on
+since its inception.
+&gt;&gt; And so you have an extremely large
+system. It's very expensive. It's highly
+complicated. You have private payer,
+government payer, I think something like
+40% of the country is either on Medicaid
+or Medicare. How did United Health Group
+go about building itself into this
+horizontal and vertically integrated
+player in the space?
+&gt;&gt; United Health Group started back in 1977
+and the idea it was really to make
+health care more efficient and
+accessible. Health management
+organizations, HMOs as UNH was back
+then, were a policy brainchild of
+Richard Nixon back in 1971. And the idea
+really was to give people the ability to
+prepay and effectively pull their
+sickness and medical cost related risks.
+The ambition that really came out of the
+Nixon government was that there would be
+1,700 HMOs insuring around 40 million
+Americans by 1976.
+Now, United Health Group founder Richard
+Burke was an early starter and he
+launched one of the first HMO plans,
+Physicians Health Plan, back in 1974.
+And by 1977, the year in which he
+founded UNH, the development of the nent
+HMO industry had somewhat underwhelmed,
+it has to be said. So, there were just
+165 HMOs serving 6.5 million people. And
+it's clear that this was falling well
+short of Nixon's targets. And UNH's
+Burke really saw these early adoption
+challenges as an opportunity. He took
+his learnings as an early industry
+incumbent and look to scale the UNH
+model on a national basis. Now UNH was
+very early in turn to an insight that
+fragmentation breeds inefficiency. What
+began as a fairly traditional insurance
+operation which effectively was just
+managing indemnity i.e. payment to cover
+treatment but no assistance in getting
+the best treatment quickly became a
+managed care operation which is commonly
+called an MCO within the US. This
+transition, this movement away from just
+that simple level payment structure into
+a more broad care operator really moved
+towards the idea of MCOs's purchasing
+healthcare on behalf of its members.
+Now, this was an important development
+because it reduced costs and it improved
+delivery. And through the 80s and the
+'9s, United Health expanded
+aggressively. It bought competitors and
+it moved into data, into tech, and into
+care delivery. And by the time we get to
+1998, it rebranded as United Health
+Group. This is a name that really
+reflected its much broader scope.
+Insurance, yes, but also analytics,
+pharmacy services and clinical care all
+under one roof. The name also maintains
+the legacy of its original vision of
+that idea of ever integrated healthare
+system and today it plays a really
+central role in shaping a more
+integrated datadriven and value focused
+healthare system in the US.
+&gt;&gt; Okay. So you've provided what I'd call
+an a bridged version of how we built
+this behemoth of an MCO and HMO. Bring
+us more up to speed with how it's
+organized today. So how does United
+Health actually work? What makes the
+model so effective in this environment?
+At its center, we have two big engines.
+United Healthcare, the insurance side,
+and Optum, the services and tech
+platform. United Healthcare underwrites
+the risk. Optum delivers care, runs the
+analytics, manages pharmacy benefits,
+and more. And that's where the flywheel
+kicks in. United Healthcare enrolls
+members, collects premiums. Optum
+delivers services to those members
+amongst others and the result is United
+Health Group controls the data, controls
+the clinical pathways, the cost base and
+ensures that best practice is quickly
+diffused across the business. And these
+two distinct but related businesses
+learn from each other despite engaging
+in armslength transactions from a
+financial perspective. And that loop
+keeps turning. Improving insights,
+improving pricing, improving outcomes,
+improving margin. And now scale really
+matters a lot here. So United
+Healthcare, the insurance side has over
+50 million medical members across
+employer, individual and government
+plans. That size means better rates with
+hospitals and providers. It also means
+tighter control over risk and more
+stable results. And with this helicopter
+view, United Health Group can cherrypick
+health care service areas with strong
+demand and attractive margins. So you
+can see that it can buy into areas that
+it sees as really attractive by
+purchasing existing providers and then
+effectively immediately channeling
+funneling huge numbers of patients to
+leverage the associated scale
+efficiencies. And really to that end its
+M&amp;A strategy over the years has been
+hugely value accreative. And the M&amp;A
+flywheel itself has nuances with UNH
+often purchasing its own long-term
+providers. Data from Optum helps the
+insurance side of the business price
+risk more precisely and only in the
+delivery side means fewer surprises when
+costs hit. So rather than relying on
+actuarial luck, the business is driving
+margin through operational control. And
+because the business is huge, think tech
+compliance infrastructure, all of these
+costs are spread over a massive base.
+And that's why historically you can see
+that United Health has out earned peers.
+Many of these peers have businesses that
+are narrower in focus or have businesses
+that just don't enjoy the same degree of
+synergy. And to quickly furnish that
+comment with some examples, we can see
+CVS Health formerly known as Etna as a
+large services offering including a big
+retail arm which while notionally in
+healthcare is more a retail business
+than a healthcare business. Fellow MTO
+Sigma has a smaller insurance business
+and a larger exposure to pharmacy
+benefits manager business through its
+acquisition of express threads which has
+more recently become a real area of
+political um certainty. Elevance,
+formerly known as Anthem, was late to
+this integration insight that we've seen
+at United Health and it previously
+focused on horizontal M&amp;A, which was
+perhaps a distraction as it had a failed
+acquisition attempt of Sigma, which
+ultimately failed to pass antitrust
+scrutiny. Elevance is now making good
+strides in its attempt to catch up with
+in service delivery, but it really lacks
+that full-blown integration that UNH
+benefits from with its 70,000 plus
+integrated positions in the network. And
+then lastly, amongst the larger NCOs,
+Humanana is significantly more
+concentrated in one area and that's in
+the Medicare advantage space. Now, that
+was a bit of a quick whip through the
+competitive landscape, but what's clear
+is that whilst many of those peers are
+building out their own service
+capabilities, none really have achieved
+the same level of revenue contribution,
+the same technological sophistication or
+the comprehensive integration across
+PBM, direct care, data analytics that
+option provides to UNH. And this
+integrated model really does allow UNH
+to not only administer healthare plans
+but also directly influence care
+delivery. The better balance between
+insurance and delivery also means that
+UNH is typically less sensitive to
+cyclical challenges in particular in
+comparison to peers like Humana in with
+its Medicare advantage exposure right
+now. And the benefits of this tighter
+integration are clear. In an industry
+with high returns on capital but low
+margins, the many incremental gains
+compound to an enduring financial
+advantage. And since 2014, revenue at
+United Health Group has nearly
+quadrupled from $110 billion to $400
+billion. Importantly to us as long-term
+investors during that time free cash
+flow per share has compounded as 13%.
+And that's well ahead of most invest
+benchmarks.
+&gt;&gt; Okay. So now that we have an
+appreciation for the competitive market
+and I appreciate how you simplified
+something that's rather complex and
+differentiated. The question that I have
+is insurance in health care is quite
+different than your prototypical
+insurance company of which property and
+casualty people are most familiar with
+where you get insurance premiums and you
+reinvest the float or it's life
+insurance with long duration. How does
+health insurance work in the context of
+United Healthcare?
+&gt;&gt; Sure. Great question and quite difficult
+to understand but really to understand
+how United Healthcarees i.e. the
+insurance side makes money. We really
+need to talk about the kind of
+insuranceances in so it's not a super
+exciting topic but insurance really can
+be grouped into long and short tale
+forms. So on the one hand you have life
+insurance which is a great example of
+longtail form of insurance. You collect
+your premiums up front for a liability
+or claim exposure that can really last
+decades. So here we see lots of
+uncertainty and it really requires
+capital to be locked up for long periods
+of time. However, health insurance isn't
+like that and the best way to tag it is
+to say it's short tail. So your
+liability is time bound to one year and
+most importantly you have the ability to
+repric every 12 months if you get your
+underwriting assumptions wrong. And that
+ability to quickly repric means that
+while the market might look to
+capitalize a profit miss into
+perpetuity,
+in practice, profit margins can be
+quickly rebuilt where there's a rational
+competitive backdrop. And I would really
+say that is the case within the MCO
+today. And ultimately, that's what's
+interesting. The company has the ability
+to repric its entire book every 12
+months. Now, I've heard some investors
+describe United Health as something of a
+bad bank, but to me that really misses
+some of the key distinctions. This is
+not a bank where the balance sheet
+dwarfs the amount of equity many times
+over. And banks also suffer the typical
+misfortune of having multiple year
+liabilities coupled with an asset
+liability duration mismatch. Instead,
+every year, United Healthcare can
+reassess medical cost trends, regulatory
+changes, and risk assumptions, and then
+update its pricing to reflect those
+inputs. And this is all backed up by
+structural cost advantage versus peers.
+And that agility makes a business more
+resilient. It makes it more interesting
+and it makes it more able to respond to
+cost shocks.
+So when you combine that with the data
+flowing in from Optum, you get a
+feedback loop but quite rare in
+insurance. But the combination of short
+tail pricing and integrated proprietary
+data from OPTIN gives United Healthcare
+an underwriting edge that we really
+think is hard to replicate. And that's
+why it's been able to deliver such
+consistent capital efficient earnings
+growth even in relatively volatile
+environments. So it's an insurance
+business, yes, but one with an
+industrial-grade data infrastructure.
+It's a pricing engine that turns faster
+than most and it has the scale to absorb
+shocks that others can't. And that
+really sums up the engine that's really
+driving that front half of the United
+Health flywheel. What is difficult to
+understand is you have United Healthcare
+which is the insurance company and Optum
+which is a health care provider
+business.
+What exactly is OPTIM? Why was it
+brought into the mix here? And I think
+there's generally confusion because
+United Healthcare is the business that
+everyone recognizes the importance of
+the profit driver of Optum and how it
+plays into the competitive advantages
+that the whole group has together.
+&gt;&gt; I completely agree. So options been the
+bit that people have really overlooked
+for over a decade now and I think that's
+the bit that's really interesting about
+the business going forward. So if United
+Healthcare, the insurance segment is the
+front engine of the flywheel, it's
+pricing risk, it's collecting premiums,
+then we can characterize Optum really as
+a back half. It's delivering the care,
+is managing the risk, and it's capturing
+margin in that process. But you're
+right, Optum wasn't always part of that
+picture. So it was launched back in 2011
+under the now returning CEO Steven
+Hensley. And the idea really was to
+shift United Health from being just an
+Azure into a broader healthcare
+platform. And with the benefit of
+hindsight and the knowledge that
+integration drives efficiency, this was
+always a natural evolution for the
+industry as a whole. But really, United
+Health were the first to deliver it at
+scale and really deliver it while
+maintaining that strong execution. And I
+remember back in 2012, I remember when
+it really did look like a risky move. I
+remember sitting in investor meetings
+where around the table there was a lot
+of skepticism, a lot of doubt, a lot of
+push and pressure really to break the
+optimum business apart. And the question
+really was why would a successful
+insurer jump into the messy business of
+healthcare delivery? But really, and
+this has turned out to be the case that
+skepticism really missed the bigger
+picture. Owning the infrastructure of
+care, the clinics, the doctors, the data
+gave United Health Group control over
+the very cost base that its insurance
+arm was underwriting. And it wasn't just
+about the services, but about the
+feedback loops. So, UNH knew that silos
+were expensive as they really do
+introduce unproductive costs. And
+through encouraging greater integration,
+UNH was actually reducing costs and
+reducing risk. So whilst peers like
+Elevant Hill, Sigma Antna toyed with
+integration, most never committed, some
+tried some mega mergers, most failed to
+execute. By contrast, United Health took
+the slow and steady route. It went for
+these bolt-on vertical integration
+rather than the large, the high-profile
+horizontal integration. And it really
+did build Optin bit by bit. And this is
+through smaller targeted acquisitions.
+and it really tried and succeeded for a
+long time in staying below the radar
+even as others really did get bogged
+down in regulatory push back. We really
+saw that in the mid2010s when there was
+a lot of noise and a lot of scrutiny
+across the NCO space but today Optim is
+a hundred billion revenue business on
+its own. It would be a Fortune50 company
+if it were a standalone.
+&gt;&gt; Can you provide more detail on the Optim
+business itself? It really consists of
+three main segments. You have Optum
+Health which delivers care through
+clinics, surgical centers and
+increasingly home visits. You then have
+Optum Insight which handles data
+analytics, handles things like revenue
+cycle management. It handles technology
+infrastructure. And then the third part
+of the Optimum puzzle is Optimum RX. And
+this is a pharmacy benefit manager. It
+manages job pricing. It looks at rebates
+and it looks at formulary optimization.
+And between them, those three pieces
+together, Optimum Health, Optimum
+Insight, Optimum RX, it really gives
+United Health that fantastic visibility
+across the entire care journey. It can
+see from diagnosis to treatment to
+billing. That's quite a unique
+perspective on what is a very difficult,
+very complex industry in the US. And
+just one more example there is that
+degree of scale within Optum and I think
+I've mentioned this already but Optum
+Health is the largest employer of
+physicians in the US with over 70,000
+under contract and that's a huge number
+and that just shows the extent of the
+reach the extent of the ability to see
+before others and integrate that care
+delivery and more broadly United Health
+thought well how do we move beyond this
+fee for service structure that's
+traditionally been within the US and
+it's become deeply invested in something
+called value based care. It has things
+called capitation models where providers
+are paid not per procedure but per
+patient. That's a very different
+mindset. It's moving away from that
+number of scans, that number of X-rays
+into actually how do we cover that
+patient and have the best outcomes for
+that patient. And that really changes
+the incentive structure. So the focus
+becomes much more on keeping that
+patient healthy, avoiding unnecessary
+care, managing cost at source. And
+that's a really interesting component
+with an optimum health. But you also
+have optimum insight working in a
+slightly different way. It has a $33
+billion revenue backlog. It earns
+recurring high margin income and it
+delivers tech and consultancy services
+across the health services industry and
+in effect United Health is taking the
+best of its healthcare services knowhow
+and it sells it to other healthcare
+providers and it really is diffusing
+those benefits across a much larger
+customer base than you would
+traditionally and perhaps initially
+expect. And just circle back, this
+integration really matters because the
+more data, the more touch points, the
+more employees on the front line, the
+more data Optimum has, the better the
+United Healthcare Insurance Arm can
+underwrite. And the better the insurance
+pricing, the more attractive its plans
+become. That drives enrollments and it
+brings more patients into the Optimum
+ecosystem. And for me, that becomes the
+flywheel in action. That's the value
+driver. That's the profit engine. And
+that's what makes United Health stand
+apart as an MCO within its PFA.
+&gt;&gt; And so if you think about what is almost
+definitionally a vertically integrated
+business, you have the insurance
+business that is underwriting risk. You
+have Optum, which is helping to
+facilitate care.
+I understand that value based care has
+become a pretty big theme and a topic of
+conversation as it relates to lowering
+the cost of care by eliminating some of
+the middlemen.
+What is the United Healthcare Group
+approach to value based care and why is
+it matter as it relates to lowering the
+cost of care?
+So one of the biggest shift we've really
+seen in the US healthcare for the past
+decade has been as you touched on this
+move away from fee for service
+effectively where providers get paid for
+doing more towards value based care
+where providers are paid for outcomes.
+So let's take another step back and just
+think about this philosophically. The
+highest value intervention that we can
+really have and have epism comes from
+that ailment that never occurred. So the
+earlier the intervention, the earlier a
+patient avoids a future chronic disease,
+the healthier that patient stays and the
+lower the cost of prevention. Now some
+of that is to do with the structure of
+care. So I'm in London. I'm based in the
+UK. And things in terms of treatment, in
+terms of first step and interaction with
+with the team look a bit different in
+the UK. We have a very strong system of
+general practitioners known as GPS and
+they're broadly equivalent to the
+primary care physicians in the US. Now,
+while both the GPS in the UK and the
+primary care doctors in the US are often
+seen as the gatekeepers to more acute
+medical intervention, in the UK, GPS
+typically lean into more preventative
+aspects of healthcare. Now, this is
+interesting to me because this means
+that UK patients typically tend to have
+more interactions with their GPS than
+Americans tend to have with their
+primary care doctors. I looked at some
+data that really showed that in 10
+highincome countries, we can see that
+American adults are the least likely to
+have long-standing relationship with
+their primary care doctor. And just to
+put some numbers on that, the average
+British person sees their GP almost
+twice as frequently per year as the
+average American. So that first
+gatekeeper interaction is quite
+different. Now this is despite quite
+clear evidence that suggests that in the
+US patients with strong primary care um
+physician relationships where they do
+exist actually report improved disease
+management, increased satisfaction and
+reduced hospital admissions. So what
+this is all saying is that actually
+early intervention works and what's
+really emerging now and what United
+Healthcare is trying to drive is an
+incentive structure that rewards early
+intervention that encourages Americans
+to see that primary point of interaction
+earlier to be perhaps a bit more like
+the UK and go and see the doctor a bit
+more frequently and perhaps at an
+earlier stage and that incentive
+structure
+perhaps keeps a patient healthier for
+longer is called value based care and
+really United Health has been one of the
+strongest voices in the industry talking
+up the opportunities of value based care
+and really driving that transition and
+it's been able to do that because it has
+Optum Health. So remember that insurance
+sits in H United's healthcare side.
+Optimum health sits on the other side of
+the business and really UNH has been
+putting money into building a network of
+embedded physicians within Optimum
+Health and these are health care
+professionals who are really focused on
+reducing sickness occurrence. And this
+is often relatively early stage things
+that can be about lifestyle
+improvements, dietary enhancements, and
+the ultimate goal is to stave off that
+decline into expensive conditions like
+diabetes. So really the more care United
+Health can deliver under these value
+based models, the more margin, the more
+predictability can generate. And it is a
+complicated topic. It's difficult for
+practitioners, patients, investors to
+understand, but really what it looks
+like in practice is standardizing of
+care protocols, care outlines. It's
+about reducing unnecessary procedures
+and it's about intervening earlier and
+all of this can be helped by data. So
+you've got a number of really
+interesting different angles here that
+come together and really in a fragmented
+system such as the US healthare system
+this kind of coordination this coming
+together is really quite rare and
+because United Health controls both the
+risk and the delivery it can build these
+feedback loops that others just can't.
+Whilst you have most insurers really
+flying blind by the time the patient
+hits the clinic, United Health isn't.
+And really for me that is one of the
+most important edges that you can see in
+this business and it's one of the core
+reasons that optimum health really is
+such a critical part of that long-term
+value creative flywheel within the UNH
+business.
+&gt;&gt; And so if we kind of bring it all
+together, we've touched upon the
+structure of the health care system, how
+they have this structural competitive
+advantage in their go to market in the
+pieces that they've built. what has
+transpired here that has led that path
+astray? And I ask obviously given that
+we're now sitting here in May of 2025
+and the news flow over the course of the
+last 6 months, but specifically the last
+90 days has been interesting to say the
+least.
+&gt;&gt; Been a bit of a rent. I would agree with
+you there. But there's lots to talk
+about here.
+&gt;&gt; Bring us up to speed. What's going on?
+&gt;&gt; Okay, so you're right. So, we've been
+through the structure of the US
+healthcare system. We've talked about
+how United Health has built flywheel and
+how it prices risk better than almost
+anyone else. We've seen option grow to a
+platform in its own right. And we've
+talked about how valuebased care isn't
+just a good policy. It's actually part
+of the margin engine, but everything's
+not been smooth sailing. As investors,
+we like a bit of challenge every now and
+then. But some of those recent
+challenges have been more tricky and
+some of the kind of elements we need to
+really reflect on what it means for the
+model going forward. For all the
+strengths within the United Health
+model, Medicare Advantage, one of its
+most important growth drivers, one of
+its most important engines, has indeed
+hit a rough patch. And you're right that
+in the last year or so we have seen
+those higher than expected medical
+utilization numbers especially among
+seniors come through. So what we're
+seeing more appointments more procedures
+more spending and that does matter
+because United Healthcare underwrites
+that risk while Optum Health in many
+cases delivers that care under capitated
+contracts. So under capitation, Optum
+gets a fixed fee per member regardless
+of how much care is used. So when
+utilization spikes, Optum does eat some
+of that cost. That has in recent
+earnings announcements and headlines led
+to some margin pressure coming through
+in Optimum Health. And that's right when
+regulators are starting to ask tough
+questions about things like coding
+intensity, billing practices within
+Medicare Advantage.
+It's not just coming from regulators.
+We've seen it from the media. The Wall
+Street Journal recently published an
+article that did raise concerns about
+potential fraud related to risk coding
+within United Health Medicare Advantage
+business. And while the company has
+passed regular audits, um the articles
+seem to imply that there's deeper
+systemic issues here. They're
+highlighting discrepancies between
+diagnosis coding and care documentation.
+How do you as an investor get
+comfortable with some of those
+accusations?
+&gt;&gt; I think we need to really recognize that
+there is a difference between an
+accusation and a proven bad action. And
+we as a team have really been watching
+this very closely. Perhaps it could be
+argued that UNH has become somewhat a
+victim of its own success. So the more
+they use data, the more they capture
+insights, the more specifically they can
+code, the more they come into conflict
+with regulators through that process.
+And it is a fad that the company has
+been very focused on ensuring all
+relevant risk factors captured by
+physicians. They have worked with
+doctors to ensure that risk for patients
+are appropriately assessed and priced
+for. The real question is whether UNH
+placed positions under undue pressure
+and this is hard to know I would say but
+what we do know is there is a lot of
+oversight. UNH underos comprehensive and
+pretty regular audits around its codings
+and this is the risk assessments looking
+for how sick people are. It really does
+seem to us that erroneous coding
+inflation i.e. coding people as more
+sick than they really are would be a
+false economy. It would ultimately be
+captured by some of these audits and it
+would lead to a loss of reputation. And
+these audits are pretty in depth and as
+far as I'm aware they've not uncovered
+evidence of any systematic or illegal
+gaming of the system. Coming back to
+some of our setup, some of our comments
+around the structure of the industry. It
+is natural for there to be a tension
+between the ultimate funer which is the
+US government and the service provider
+which is United Health. However, this
+tension is heightened by the fact that
+we are also dealing with people's health
+and there really are few things in life
+that are as emotive as securing care
+particularly for a loved one at a
+difficult time. And every claim has its
+individual merits, but an insurer does
+have to operate within the bounds of
+what it's promised to cover. And I think
+again another UK comparison has some
+context here. So in the UK, we have an
+institution called NICE, which
+determines which drugs our health
+service will pay for based on a
+costbenefit analysis. So sometimes NICE
+will reject drugs with proven efficacy
+because they believe them to be poor
+value for the system as a whole. And we
+do have a lot of process here that
+really have been focused on specific
+patient groups seeing value in those
+drugs. However, there's always a
+heightened level of suspicion when the
+claim officer is also a commercial
+entity like the UNH. So NICE works for
+our NHS system in the US. But here in
+the US, this is a commercial entity.
+United Health is a listed business. It's
+a for-profit business. The company does
+have to continue to show that it is
+working within a fair clinical claim
+approval process. And all of this adds
+to complexity, adds to reputational
+overhang, not because fraud has been
+proven, but because it reinforces the
+narrative that Medicare Advantage plans
+may be pushing the boundaries of risk
+adjustment with an end goal being to
+maximize reinvestment. And just to
+reiterate, we have not seen any evidence
+to that claim, but we are conscious that
+there is an ongoing tension and there
+may be a recalibration of what the CMS
+accepts as recognized risk factors. Now,
+United Health like many in the sector
+operates in a space where the rules are
+complex and enforcement is evolving. But
+the company who were very quick to
+respond to many of these accusations
+does maintain that it practices are
+compliant and its legal success in
+challenging recent CMS rating
+methodologies does show how nuanced the
+regulatory environment is. However, the
+scrutiny isn't going away. So the
+Medicare Advantage program is likely to
+continue to be politically charged and
+that's charged on both sides of the
+aisle and this really is to be expected
+in the country with such a large and
+rapidly aging population underpinning a
+very quickly rising cost bucket. You can
+grow the complexity. So you add in some
+more pressures. You add in workforce
+inflation. You add in slower than hoped
+uptake of accountable care contracts.
+You add in some ongoing postcoid
+operational issues. All of this comes
+together and as we've seen in the market
+that narrative around United Health's
+invincibility has started to wobble. But
+really it's important to zoom out here
+because while these are real challenges
+they don't to my mind to my team's mind
+break the model. What they do reveal is
+how tightly linked United Health Care,
+the insurance arm and optimum really
+are. So when one side underestimates
+risk or utilization, the other side
+feels it. And that interdependence is
+the system's greatest strength, but also
+where the stress shows up first. This
+perhaps is the right moment to really
+pause and ask, well, how much of this is
+structural? So how much of this pain?
+How much of this volatility that we're
+seeing in the business right now is
+structural or how much of it is
+cyclical? Because if it's the latter, if
+it's cyclical, then maybe we're looking
+at a reset, not the breakdown that it
+seems like the market is pricing. And
+the cyclical view really would be
+supported by the fact that CO did
+generate a Medicare advantage super
+cycle as the government prioritized the
+continued provision of of coverage with
+generous funding across all of the
+government programs. And this did lead
+to an inflation in things like
+supplementary benefits across Medicare
+Advantage providers really increasing
+costs for the industry as a whole. And
+at the same time is during legacy of
+COVID we saw rising sickness accurity
+for how sick people are across society
+on a generalized basis and this has
+squeezed margins and it's been felt by
+some of the peers within the MCO space
+but it seems to have caught up with
+United Health really as a bit of a lag
+right now and you think the whole
+industry is grappling with all of those
+inputs right now all of those elements
+and repricing considering benefits and
+working out ways to adjust this. All of
+that is not to say that there's no risk
+that this is a structural issue. I've
+talked about the attractiveness of the
+ability to repric earlier and the
+reality is the human body, it doesn't
+respect annual pricing cycles. Sickness
+will be mismatched to the extent to
+which pricing occurs. However, we still
+think that this is um directionally
+moving into a position where that
+valuebased care is coming through and
+will increase its market share within
+Medicare Advantage recipients.
+And just going back to the structural
+thesis here, this is where it really
+gets interesting and not just from a
+healthcare perspective, but really from
+a behavioral one. Because if you zoom
+out and look at how the market reacted
+to this set of issues, it really is
+quite telling. We had a murder happen at
+the end of 2024. We've had a CEO
+departure. We've had headlines about
+fraud. We've had regulatory noise and a
+real uptick, a real surge in anecdotal
+kind of human interest stories around
+claim denial. And what followed? What
+was the market reaction? Well, we saw a
+three standard deviation selloff in the
+United Health Group share price. And I
+think really what you need to do is ask
+yourself this question. Is the stock
+market pricing a real breakdown in the
+business model or is this behavioral? Is
+this reflex selling in the face of
+uncertainty? And taking these in turn, I
+think it's important to remember we are
+no longer talking about the MCO business
+model being dismantled, which we have
+historically seen. We saw that back in
+2016 with Elizabeth Warren and Bernie
+Sanders. The current public private
+model is now so ingrained it would take
+a generation to unwind. So if this
+really is a behavioral reaction, if the
+stock market really is unsure, then this
+to me is an opportunity that isn't just
+about me aversion. It's about
+recognizing how the market misprices
+complexity, especially in companies that
+operate across silo sectors or
+regulatory frameworks. And really the
+point where we've come to is that United
+Health isn't easy to model. I'll give
+you that. But that doesn't mean it's
+broken.
+I guess on that point, we've talked a
+lot about the qualitative nature of the
+business and the quantitative nature of
+the market, but not so much about how
+the equity markets view the business,
+how it's valued. And so maybe we can
+just elaborate on what the market has
+done here, how it kind of underwrites
+the earnings power of this business, and
+then ultimately what is going to be the
+value driver going forward.
+&gt;&gt; Sure. Well, I think before we really get
+into the numbers, a quick note. In
+recent weeks, we did see the CEO, Andrew
+Witty, step down. And just as that news
+dropped, the company was already under
+pressure, pressure from regulators,
+utilization spikes, and broad investors.
+And Witty, he was closely aligned with
+Optton's expansion. He helped steer
+United Health through CO and he oversaw
+a stretch of major acquisitions. So his
+departure timed alongside these
+operational challenges has
+understandably amplified the sense of
+instability.
+But I do think it's worth keeping in
+mind when we've seen that volatility in
+the market that United Health has a long
+history of executing through leadership
+changes. The strategy is embedded. So
+the stock to your weight is sold off
+hard, three standard deviations below
+normal. And essentially what our
+analysis suggests to us is that the
+market is telling us that the
+competitive mode of the business is
+eroding or gone together. And that leads
+us to a key question. What if the market
+is just reacting to noise? So is it
+these temporary utilization spikes? Is
+it political rhetoric? Is it leadership
+headlines? These are all inputs, but
+they're not. And so we still see the
+core mechanics of the flywheel as
+intact. United Healthcare is repricing
+risk annually. Optimum is reducing costs
+through integrated care. And the
+valuation gap that's out there in the
+market to my mind says more about
+investor psychology than it does about
+fundamentals.
+And so if we take a step back and set
+aside the recent dramatics relating to
+the business and its model, what is it
+that's driving the structural
+competitive advantages that United
+Healthcare has relative to its peers in
+Medicare Advantage and private pay
+insurance? Okay, great question because
+if there's one area that United Health
+really is building a long-term
+compounding advantage, it's in data and
+it's in technology. And through Optimum
+Insight, United Health has access to one
+of the largest longitudinal health data
+sets in the country. This spans clinical
+data, claims history, pharmacy
+interactions, and really broad
+population health trends. And it's not
+just about the size of that data set.
+It's also about how they use it. So,
+United Health really has lent in early
+to things like machine learning to AI
+across the business. It uses predictive
+algorithms to stratify patient risk to
+anticipate disease progression and even
+flag kind of non-adherence to
+medication. So, this is you're not
+taking your pills at the right time.
+United Health will intervene will come
+and try to ameliate that situation.
+Ultimately, it's allowing clinicians to
+intervene earlier and this is really
+important to protect margin in value
+based contracts. It's also on the admin
+side. So we talked earlier about how the
+flip side of that degree of choice in
+the US healthcare system comes with a
+lot of admin cost is one of the largest
+differential price items in the US
+healthcare system against other national
+systems and United Health has used AI to
+really streamline claims processing to
+detect fraud and ultimately to improve
+billing accuracy and timing delays etc.
+It can also use AI within its PVM within
+Optimx using algorithms to improve
+primary placement and automate things
+like outreach for refills. And what
+really sets aside United Health and I
+think this probably won't surprise you
+that I'm about to say this, but it's
+about the integration of the tech. So
+most people use AI in silos. I see that
+in businesses across all sectors at the
+moment. But the real value creation I
+believe is and will continue to be where
+that AI can be integrated across many
+different working streams. United Health
+is embedding it across the entire
+workflow. So it's going from risk
+prediction to care delivery to cost
+containment. A way to think about this
+is to take a patient. So a high risk
+diabetic is flagged in the optimum
+system. That flag leads to a proactive
+scheduling of a teley health check-in.
+That telly health check-in continues to
+flag that patient as perhaps high risk.
+A nurse will then visit the home the
+next day. The nurse can then adjust the
+pharmacy benefit in real time and the
+insurer can also adjust the risk score.
+All of this then feeds back into the
+pricing system. That's not theoretical.
+That's just the operational reality of
+the business and that can happen at
+scale. So all of the models within
+United Health have that data advantage.
+They're training on fresh data across 50
+million lives and that advantage just
+really becomes selfreinforcing.
+And if you compare to some of the other
+MCOs, United Health has got beyond that
+point of wiring these components
+together. It's already shifted the
+mindset. is already thought about
+integrating tech, integrating insights
+and it really is building what I would
+say is a real time operating system for
+healthcare and I think the value of it
+is only just beginning. So, it's
+impossible to talk about the health
+insurance industry without the gorilla
+in the room being the political risk
+under the current administration from
+the perspective of cutting costs and
+also just broader reimbursement rates as
+it relates to the cost of drugs.
+How do you assess and underwrite the
+regulatory risk inherent in a lot of the
+change coming out of DC? So the
+political risk itself is complex and and
+I was talking to a colleague earlier and
+it really could be a podcast in itself
+but we'll try and keep it simple and
+really focus on the bigger role that
+United Health is playing in the story.
+So when Trump came back into the White
+House, the regulatory environment for
+healthcare really has elevated in its
+lack of predictability. And that lack of
+predictability isn't necessarily
+hostile, but to its point, it is
+unpredictable. And there is reflecting
+why this is and why MOS been in the
+spotlight so much. I think there is a
+really nice political narrative for many
+politicians out there to blame the broad
+health care system for failings and to
+blame it on those big financial
+institutions such as the MCO rather than
+shifting the lens elsewhere. It's
+politically agreeable to go after the
+big companies rather than perhaps look
+into doctor salaries, look into other
+components perhaps of the system that
+don't resonate so well. And it really
+does resonate well. We've seen a lot of
+angst across the country. We see it in
+the media. We saw a lot towards the back
+end of last year. And it really comes
+from that element where as the patient,
+the MTOS are the people that you make
+payments to, you pay your excess to them
+and they're also the ones that tell you
+what you can and cannot get. You know
+coming back to that idea of healthcare
+is a very emotive topic a very emotic
+time in your life that interaction with
+the MCOs's
+can be difficult and compiling that with
+the political narrative really has
+resonated well within the US system and
+we saw it with Trump under his first
+administration. He went after a number
+of different programs. He tried to roll
+back the affordable care act. He also
+tried to relax oversight in other areas
+and really tackle the PBMs, but all of
+that was difficult.
+It was difficult because you need
+multiple elements of agreement and it's
+a complex system, but it could come
+back. So, we have seen some media
+speculation. We have seen that idea that
+executive driven disruption could be
+back on the agenda and United Health
+does have exposure. So Medicare
+Advantage is a huge part of the
+business. PBMs are under bypass and
+scrutiny and integrated players like
+United Health are always in political
+crosshairs when profits look relatively
+attractive. However, in our opinion,
+true fundamental changes to the US
+system would need congressional
+approval. And in all this uncertainty,
+the one thing that is clear is that
+there's no consensus. There's no
+agreement on really what an alternative
+offering would look like. You don't see
+that on a bipartisan basis. And you
+don't even see it within the Republican
+party. So yes, the US healthcare system
+needs to be cheaper, but it's unclear
+where those compromises need to be made.
+I'm not really here to answer that
+question as such. But what I do know is
+that United Health has a track record of
+navigating very successfully many
+different ways of reform. So they
+navigated the Obamacare APA roll out.
+Well, they navigated the Medicare rate
+adjustments we've seen before. They've
+been through the Medicare for all
+rhetoric of Warren and Sanders. United
+have adapt. It changes is nimble and it
+often comes out stronger. The company
+can adjust contracts. It can rebalance
+incentives and if needed osmoly can
+absorb some margin in exchange for
+stability.
+Where we come up really is that
+regulation could end up in consolidating
+share amongst some of the best
+capitalized players and that could be in
+United Health Group's advantage. So to
+summarize, yes, political risk is real,
+especially when drug pricing and large
+financial institutions are in the
+spotlight, but United Health has managed
+these risks before. It's been agile.
+It's used at scale. It's had a tight
+grip on data, and we feel pretty
+confident that it will continue to
+navigate as the political situation
+unfolds. Just to push on that point a
+little bit, it seems like the
+degradation in earnings recently has
+been a function of medical loss ratio
+specifically attributed to Medicare
+advantage. And so I guess obviously
+there's this highly regulated and
+complex business that's always under
+scrutiny, but what is it about MA in
+particular that has introduced another
+layer of challenge to the business more
+recently? The Medicare Advantage isn't
+just a big revenue line for United
+Health. It's also one of the most
+tightly regulated and perhaps
+politically sensitive parts of the
+business. And there is a perception out
+there and fair or not that Medicare
+Advantage is a bit of a wild west when
+it comes to coding, when it comes to
+reimbursement and when it comes to plan
+design. But in our opinion, the truth
+really is that this is one of the most
+audited, the most closely monitored
+programs in US healthcare. The CMS
+conducts risk assessment reviews, it has
+regular audits, there's a star rating
+evaluation system across Medicare
+Advantage plans. So while there is room
+for interpretation in coding, there's
+not much room for fraud. And I really do
+think that distinction matters because
+the recent headlines around overcoding
+can skew public perception. In reality,
+what we're often seeing is aggressive
+perhaps optimization within a gray zone
+that the whole industry has been
+operating in. One key metric to watch is
+the CMS's staff rating system. So this
+is a system that evaluates Medicare
+Advantage plans on clinical quality on
+patient satisfaction and on
+administrative performance and those
+scores directly affect reimbursement
+plans with four stars or more get a
+quality bonus. And United Health
+consistently outperforms here. So for
+2024, for the plan year, around 79% of
+United Healthc Care's Medicare Advantage
+members were enrolled in plans rated
+four stars or higher. And that is above
+the industry average of 71%. And you've
+also seen United Health successfully
+challenge CMS rating methodology in
+court. So they've gone back to the CMS
+and led to a re-evaluation of at least
+12 of its contracts. Three of those were
+upgraded to four stars and two of them
+went to the top rating of five stars.
+And you've seen a different performance
+at some of the peers. So for example, if
+Humana, its fourstar coverage has
+dropped dramatically of late, jammed to
+just 25% of members from somewhere in
+the '9s the year before. And I think
+that performance gap really does
+underscore United Health's operational
+discipline, but also its ability to
+consistently meet quality and
+administrative thresholds in what really
+is one of the most heavily regulated
+parts of the US healthcare system. And
+to me that speaks volumes about its
+execution abilities.
+Now style rating is one thing but we can
+also look at net promoter scores and
+these known as NPS measure how likely a
+member is to recommend the plan to
+friends to peers family members and
+sometimes these scores these MPS's
+diverge from those star ratings. So a
+plan might be clinically sound but score
+poorly on service of complexity and
+reputational risk doesn't always sharpen
+the numbers. Interestingly though, UNH
+has reportedly started approving a
+higher percentage of claims. The logic
+ease easing of reputational pressure. So
+you show good faith to the regulators
+and to the public and that's not free.
+So, it raises near-term costs and the
+upside is this is a discretionary shift
+that we really do think is underway at
+United Health, but it's not a structural
+margin problem. It can be reversed and
+recalibrated. And really, what I'm
+trying to say here is that there are
+different levers that United Health can
+use to really navigate challenges. It
+can use different levers to navigate
+stars ratings to navigate NPS's but I
+don't think that any of those levers are
+structurally broken and it can adapt and
+what this really highlights is a core
+advantage to the United Health model and
+that's control. So with visibility
+across pricing across delivery and
+across claims it can dial up cost
+structures or dial them down in response
+to outside pressure. And it's that
+adaptability that I want to communicate
+today. It's so rare and especially rare
+in a sector that's as regulated and and
+as emotionally charged as healthcare. I
+would wrap all of this up and say the
+scrutiny out there is real. The noise is
+loud, but United Health still has the
+tools. It still has the data and it
+still has the scale to play offense
+while others are stuck reacting. Our
+concluding question comes in two forms.
+In your study of United Healthcare
+Group, what are lessons that you've
+learned from the way that they operate
+their business and navigate that can be
+applied to the management of other
+businesses? And then as an investor,
+what about the United Healthcare story
+do you borrow and apply to other
+prospective investments?
+&gt;&gt; I think I'd answer the same to both of
+those elements actually. I think there's
+a lot of evidence here that being brave
+but looking ahead and predicting trends,
+sticking with them, committing capital
+to them, committing talent, staying the
+course and building out a business like
+Optum has a lot of lessons for life more
+broadly. So look ahead, look for changes
+and back those changes if you believe
+that that is the future. I think that's
+a really powerful message and it goes
+back to the start of my time at 2012. It
+goes back to those first meetings that I
+had with a company where other investors
+were saying, "Oh, this is a sum of the
+parts story. It needs to break up."
+Well, no. The business saw the future.
+It saw where the likely value creation
+drivers for the whole industry is going
+and it was brave. It stepped up and it
+committed capital. A related element to
+that is adaptability. So changing, so
+being prepared to not only see a new
+vision, back a new vision, but really
+adapt to fit that vision and play the
+best game that you can. Be nimble, be
+agile, break things if you need to,
+change things if you need to. And I
+think that has so many lessons for us
+all. For us particularly as investors as
+we think about the opportunities and the
+changes that AI is bringing to the way
+we interact with the world, the way we
+interact with each other and the way we
+think about our generation in the
+future.
+&gt;&gt; Stephanie, packing the United Healthcare
+group story into 60 minutes is not an
+easy task and I appreciate you doing
+this. When we first discussed doing
+United Healthcare, I think I described
+the company as audacious and I think
+you've done it justice. I think we could
+probably go on for a few more hours and
+digging into some of the idiosyncrasies
+of what's going on here and how the
+business operates, but I think this is a
+wonderful on-ramp for those looking to
+learn about the business.
+&gt;&gt; Thank you for your time. I've really
+enjoyed it. To find more episodes of
+breakdowns ranging from Costco to Visa
+to Madna or to sign up for our weekly
+summary, check out join colossus.com.
+That's jolsus.com.
+[Music]

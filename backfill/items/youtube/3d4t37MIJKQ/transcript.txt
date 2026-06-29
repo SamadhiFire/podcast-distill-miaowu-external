@@ -1,0 +1,2514 @@
+Kind: captions
+Language: en
+[Music]
+Good morning. Happy Friday morning from
+the Asia Pacific. Just half an hour to
+the open. Hong Kong, Shanghai, and
+Shenzhen. You're watching the China
+show. I'm David. Let's get your top
+stories today. NASDAQ futures under
+pressure on a reports that Nvidia is
+asking component suppliers to halt work
+on its H20 AI chip. That's after China
+urged local companies not to use it.
+Now, caution dominates trade across the
+Asia-Pacific as signs of US economic
+strength have traders trimming their
+bets on Fed rate cuts. That comes ahead,
+of course, of Jackson Pole and J.
+Powell's speech there. And Boeing is
+said to be close to finalizing a deal
+with China for as many as 500 aircraft,
+ending a multi-year sales drought.
+[Music]
+Good morning again. Welcome to the
+program. Hope you're all well. That's
+the time to the opening bell today.
+Caution is dominating a couple of
+things, right? So, the last few minutes
+or so, NASDAQ futures, as you can see,
+are now flat. Uh certainly a story out
+of the information here that Nvidia has
+ordered the suspension of production of
+its H26. That's point number one. Point
+number two is we're headed into Jackson
+Hole. There's really no major catalyst
+to add more risk. In fact, the S&amp;P 500
+is down for a fi five straight days
+going into the session today. Uh we're
+up 1% though as far as tech goes, costby
+speed and the tig index. More on that uh
+certainly in a moment. Uh apart from
+those three things, liquidity rally
+continues to be the story of course when
+we look at these Chinese markets uh with
+3,800
+now in sights on the Shanghai composite.
+More on that in a moment too. Right.
+Also, inflation came out of Japan
+earlier on at about in line with
+estimates with the exception of course
+CPI which came in uh slightly above the
+median but it's still a pullback though
+from the previous reading as far as
+that's concerned. Uh 2 and 20 at 10 year
+yields of course the commentary coming
+out of the Fed and we'll have again more
+on that later on. Uh it's not we we
+we're now looking at the lowest
+probability as far as Fed fund futures
+even if you go by swaps uh of a Fed cuts
+next month. So there has been an
+adjustment in positioning ahead of
+Jackson Hole and certainly following the
+data that we had overnight with US
+manufacturing 2022 highs as far as
+that's concerned right a couple of big
+names to track going into the open today
+not an exhaustive list of course you
+have Xfong massive move up uh you have
+the CEO increasing his holdings point
+number one of course EV's uh rallying on
+the back of that we have an index review
+and results are out after the close
+later today so we'll watch out for the
+likes of potential and the speculated
+names include the likes of PopMart for
+example. Declines across the solar
+names. Uh so certainly that was one
+cohort we'll be tracking going into the
+open today including of course tech.
+Right very quickly uh let's have a look
+at where we are. A50 futures doing this.
+We are down a third day on Hansen tech
+index and we talked about 3,800 there on
+the Shanghai composite. Morgan Stanley
+will be joining us on shows later uh
+this hour and they do think that this
+liquiditydriven rally can continue
+through the summer months. Okay, let's
+get to the breaking news in the last few
+minutes or so. Nvidia ordering a
+suspension of its H20 chip production.
+That's according to the information.
+Stephen Angel, our chief North Asia
+correspondent, is here with us to talk
+us through what we know so far based on
+this specific report. Yeah, from from
+the information is where we're getting
+this source story essentially saying
+that uh Nvidia has instructed its part
+suppliers. We're talking like Samsung
+which provides the high bandwidth memory
+uh component to the H20 AI chip as well
+as Amcore technology. It does the
+advanced packaging for the H20. uh and
+and essentially now those inventories at
+those companies are starting to pile up
+because uh again the Chinese government
+what we've been hearing over recent
+weeks of multiple regulatory agencies
+whether it's the cyber cyerspace
+administration of China the CAC the
+national development reform commission
+the top planning body in China and also
+the uh industry of information
+technology the MIIT have all started to
+instruct Chinese companies from uh to to
+stop buying the H20 and the H20 is quite
+a saga in itself. Of course, it was
+essentially banned by the Trump
+administration in April uh selling into
+China. They needed to get advanced
+export licenses to sell to China. There
+was that reversal, high-profile reversal
+last month when Jensen Hong traveled to
+DC, met with Trump, and then he traveled
+on to Beijing, simultaneously announcing
+that that ban had been removed. Nvidia
+could sell the H20, the watered down
+version of its most advanced AI chips
+back into China. Uh but also there was
+some controversy there too because AMD
+and Nvidia both kind of had to agree to
+pay 15% of their collective uh revenue
+from those chips sold into China to the
+US government. That's a whole different
+story. Right now the story is the
+turnaround that Nvidia saw that they
+could resell into China uh seems to have
+ground to a bit of a halt because of the
+Chinese efforts to not buy the H20 and
+start relying more on their own domestic
+components because again not only not
+only the comments from Howard Lutnik to
+CNBC on July 15th which was insulting
+according to sources to the Chinese when
+he said we're not selling them our best
+things, our best chips. We're not even
+selling them our second best chips.
+We're not even selling them our third
+best product. So, that was insulting to
+the Chinese. The Chinese also kind of
+concerned about any potential back doors
+in those chips to send essentially
+nefariously the Chinese data back to the
+United States government. So, there's a
+lot of geopolitics, but definitely this
+is a big issue for Nvidia
+&gt;&gt; and it's an added plot twist to watch. I
+think Nvidia reports I think next week
+in about five or six days on
+&gt;&gt; Thursday. Thursday next week. So, what
+are we watching then? How does this
+dovtail into the broader conversations
+around that stock which has really hit
+highs?
+&gt;&gt; Well, despite the the technology the
+mega cap tech sell off of the last few
+days which Nvidia has seen has been a
+part of as well down the last three
+days. Uh but you know nine key analysts
+have raised their price targets more
+recently on Nvidia with higher price
+targets and and a lot of that is to do
+with the resumption of China. This was
+uh CJ Muse among other analysts at Caner
+Fitzgerald said China is already derisks
+in derisked in street modeling and the
+goal here is to get China to build on
+Nvidia's platform. That was from an
+August 18th note. A lot has changed now
+with this developing story right now
+coming from those reports from the
+information but also the FT had a story
+yesterday outlining more of the the
+details of the Chinese resistance to
+resume purchases of this H20. Keep in
+mind simultaneously while Nvidia had
+seen the H20 ban back in April they were
+developing in lockep another chip that
+they would sell into China. We need to
+get more information perhaps next week.
+You asked about the earnings and the
+conference call. What is the actual
+ramifications to Nvidia right now? Where
+are they pivoting or if they are
+pivoting to this other chip that they
+were planning to sell into China, the
+Blackwell RTX Pro 6000 architecture, a
+watered down version of that,
+&gt;&gt; Steve, fantastic. Thank you so much.
+We'll keep an eye on this. Of course,
+NASDAQ futures on your screens initial
+dip and as you can see, we're right at
+about the zero line at this point in
+time. Right. So, that's one top story to
+consider going into the open today. The
+other, of course, we're waking up the
+Asia Pacific with Fed pricing
+expectations lowered from, let's call it
+85 to about 90%, we're down to about 75.
+A lot of that was down to number one,
+the data that's come through, and this
+is the one that came through, of course,
+40 53.3, which is the highest reading on
+US manufacturing PMI in 3 years. Uh the
+point number two here is actually it
+also came in way above even the highest
+forecast. So that really coming out uh
+coming out of I want to say coming out
+of nowhere but certainly it wasn't
+expected as far as the range of
+projections were concerned right so what
+do we do with this information we had
+former uh and also current Fed officials
+in fact ahead of Jackson Hole weighing
+in on really the chances of a rate cuts
+in September as traders await Jay
+Powell's speech at Jackson Hole later
+Friday. Have a look. I don't see any um
+any chance that there's a nod toward a
+September cut or any promise of a
+September cut.
+&gt;&gt; The caution I would give if they do move
+in September uh I don't think that's the
+start of a cycle. I think it's an
+individual decision then we'll wipe the
+slate clean and take the next 6 weeks
+try to understand these crossurrens
+again.
+&gt;&gt; I think they're modestly restrictive.
+I'm still trying to find ways what's
+what's being inhibited in the economy
+from where our policy rate is today. Uh
+but I I think we're on a good path for
+sure. It feels to me like it's a live
+meeting. Uh as you know before April 2nd
+before we got some uncertainties coming
+on the policy side. I believed that we
+had pretty stable full employment that
+inflation's coming down to target.
+That's interesting, right? So, you also
+have Cleveland Fed President Beth
+Hammock actually talking about how she
+would not support lowering interest
+rates if central bankers were say
+deciding with the information we have
+right now. Tomorrow, let's bring in our
+team. Jill D says, our newses editor and
+in the market side of things, Paul
+Dobson, our Asian markets executive
+editor in Singapore for us. We'll start
+with you, Jill. Yeah, just wrap up the
+comments out of the Fed.
+&gt;&gt; Yeah. Um David, I really thought the
+Goldsby comments in particular were
+really interesting because it really
+does kind of show um some of this back
+and forth over how exactly the Fed is
+grappling with some of these issues
+around its dual mandate right now.
+Right. I mean uh one other thing that he
+also said in those comments was that you
+know that recent uh inflation data point
+um that uptick in services inflation he
+was he described it as um you know
+potentially dangerous but that hope that
+he hoped it was a bit of a blip. And um
+you know I'm taking that in context also
+with uh the recent FOMC minutes that
+were released from their last meeting of
+course that came before uh those labor
+uh data revisions. Um but you know that
+really kind of showing that inflation
+really still is uh really key is really
+key on the minds of a lot of these Fed
+officials. Um you know a lot of them are
+weighing that uh over some concerns
+about labor market data when they're
+kind of putting together this calculus.
+And I think you know that ultimately um
+you know tells us that you know maybe
+the September meeting really is a live
+one. And I think all the more reason why
+uh we're so keen to look ahead to this
+uh speech from Powell. Uh so this is
+happening at uh 10:00 a.m. Eastern
+Friday. So that's um you know this
+evening for us uh out here in Asia. But
+I mean any kind of hints that we're
+going to get from Powell on any kind of
+direction that the Fed may take in
+September. Obviously uh incredibly
+welcome uh you know for for traders just
+kind of looking for some kind of
+direction. and he's obviously used uh
+Jackson Hole in previous years to give
+hints on what the Fed's policy
+trajectory may be. Will we see that this
+time around? Not sure. But again, I
+think, you know, some of the um sort of
+uncertainty around this data really does
+point to this this idea of um you know,
+do we really have that clarity over
+whether the Fed is going to resume
+cutting in September? I'm not sure we
+do.
+&gt;&gt; Separately, but still on the broader Fed
+conversation. Lisa Cook, what's what's
+what's the latest there? Yeah, I think
+um I mean, you know, really sort of the
+the Trump pressure campaign toward
+trying to remove uh Lisa Cook um
+obviously citing these allegations of
+mortgage fraud. Um I mean, you know,
+really does kind of point to this idea
+that um you know, Trump is trying to um
+have as much influence over the Fed as
+possible. It does seem like um what
+Trump the the thinking within the Trump
+administration and perhaps within Donald
+Trump himself is that um he would prefer
+whether she resign or whether Powell
+actually fires her rather than Trump
+himself sort of stepping in and and
+trying to ou Lisa Cook. She obviously
+has said that um you know she has no
+intention of of resigning or anything
+like that. But I think just you know
+sort of that broader um you know that
+broader issue really pointing to how how
+this uh pressure campaign uh from the
+Trump administration against the Fed um
+is is really kind of escalating in in
+some pretty dramatic ways.
+&gt;&gt; Right. Uh Paul, let me bring you in here
+in the markets angle too. There
+certainly we've seen markets price back
+a little bit the these bets for a cut in
+September. Um the the lack of I guess
+appetite to take on more risk going into
+Jackson Hole is quite evident this week,
+hasn't it, Paul?
+Yes, that's right. So, we've seen uh
+equities coming under a bit of pressure
+and what uh added to that was the bond
+market coming under pressure yesterday
+after that very strong PMI number. Uh
+so, the market had pretty much uh
+convinced itself that we would see a cut
+in interest rates by the Fed in
+September. That pricing, as you were
+saying, David, got all the way up
+towards 100% fully priced and now we're
+back down to 70%. We've even seen people
+putting money on a sort of extra big uh
+cut, 50 basis point cut. Uh that now
+seems in doubt, particularly with that
+economic strength there. The the
+trade-off, the balance for those Fed
+officials, is should they be more
+worried about the economy rolling over,
+the very weak jobs numbers and revisions
+that we saw uh most recently, or should
+they be worried about the still very
+elevated inflation levels? And what
+we've heard, I think from the commentary
+so far at Jackson Hole is not a lot of
+signs of shift in the positions of the
+various Fed governors from where they
+were previously. Goulsby, yes, is is is
+the one saying, yes, it's a live
+meeting, but I'm not seeing a lot of
+movement elsewhere there. And so, you
+know, the tone that Pal takes is going
+to be all important here, but the market
+is starting to have uh just starting to
+doubt itself a little bit about whether
+the September cut is going to come
+through after all.
+Paul just saying on the macro here
+inflation out of Japan about just under
+two hours back here roughly in line
+although you did get core coming in
+slightly higher than expected. The yield
+story there has really been one that's
+one direction that's been on the way up.
+Markets are markets getting ahead of
+ourselves here.
+&gt;&gt; I think that the BOJ would like to hike
+um would like to hike before the end of
+the year is probably not rushing to do
+that either. um you know September,
+October, uh December I think are the
+options ahead of it. Um probably the
+middle of those is the one that seems
+most likely in the market's calculus. Uh
+we will hear from WA at Jackson Hole as
+well. So that will be interesting to pay
+attention to, but I don't think the
+market is getting ahead of itself in
+that sort of long-term uh outlook. We
+have the high inflation numbers. We know
+that the BOJ is under pressure to come
+and control that somewhat with some help
+maybe on the fiscal side as well. Um we
+are expecting that there will be higher
+interest rates in time but steady and
+gradual so as not to cause too big a
+sell-off. Um you know I I I think that
+otherwise it's just you know a very big
+long-term reset in uh the mentality of
+uh the entire economy in Japan going
+from uh very very steady uh prices to an
+inflationary environment and that is
+causing a jolt and a little bit of
+disruption and a little bit of uh angst
+and concern. And you know we have a
+pretty turid political situation as a
+part of that as well. Um so the BOJ
+knows that it has to calibrate things
+very carefully and cautiously. It wants
+inflation. It doesn't want to blow it up
+but it doesn't want too much inflation.
+So I think that the market is you know
+pushing those yields up all the time. Uh
+maybe at the back end of the yield curve
+more life insurers are starting to pay
+attention now to the opportunities of
+locking in those longerterm interest
+rates. But the other thing that we've
+had is you know stock market gains. And
+if they're gaining on the stock market
+side, they don't need to worry so much
+about buying more on the bond side.
+&gt;&gt; There we go. Paul, thank you so much.
+Paul Dobson there on the markets and I
+think Jill, he's just getting getting us
+up to speed here on the specific Fed
+conversations taking place right now.
+Right. Going uh looking ahead on shows
+here. What do we have? Boeing edging
+closer to its first aircraft mega deal
+with China since 2017.
+Details on that Bloomberg scoop coming
+up. And of course going into the open
+today, we're looking at the fix point
+number one, earnings coming through,
+earnings reaction. The opening bell 13
+minutes away. This is the China show.
+Good morning.
+[Music]
+Good morning. Yeah, a couple of things
+to track going into the open today. So,
+a specific level in the Shanghai comp is
+a level I believe we haven't seen in
+about 10 years or so. That's 3,800
+alongside and related to that has been
+really turnover which has picked up. I
+think it's been north of two trillion a
+day last five or six days onshore.
+That's overall onshore. Uh overheating
+signs. That's both in the market
+potentially with an RSI and the Shanghai
+comp of what I think it's 81. or when
+you're looking at the weather, there's
+literally a very hot weather warning
+here in Hong Kong uh ahead of I believe
+some weather coming through on Sunday.
+Um hybrid is obviously still going to be
+very much in focus and also some
+potential changes to the index and of
+course Wang is in in Pakistan. Futures
+are pointing lower ahead of the open and
+also a lot of earnings coming through
+including the likes of the big property
+developer Vancou Ping and Unan Bank,
+CSBC Pharma among other names set to
+report later today. Right now on this
+Boeing scoop. So Bloomberg has learned
+that Boeing is close to finalizing a
+deal to sell um a couple hundred
+aircraft to China. Massive one if it
+goes through. The deal is of course
+contingent on the diffusing of trade
+hostilities that go back to Trump's
+first term in office. Minlow, our China
+correspondent is here with us with what
+we know about this. The centerpiece for
+any trade agreements between the US and
+China is really a deal on airplanes.
+&gt;&gt; Yeah, I mean these planes are hundreds
+of millions of dollars for one plane. So
+it's a very very big deal. It would go
+some way to reduce the trade imbalance
+between China and the US if it comes
+through. Uh and this also would put an
+end to this sales drought that we have
+seen since 2017 when Trump last visited
+China. That was when China and the US
+had announced this deal at that time $
+37 billion worth of deal where China
+committed to order about 300 uh
+airplanes. But since 2019, if we show
+you that chart, you can see that uh the
+number of orders of Boeing planes
+started to decline quite steeply and
+that really doveetailed with the sort of
+souring relations between the two sides.
+Um and so yes, right now we know that
+the Chinese government had been you know
+checking with Chinese airlines in terms
+of how many aircraft that they want want
+to get. Boeing is also, you know,
+looking at finalizing the terms of the
+deal in terms of delivery timeline, what
+types of jets uh that China would want.
+But here you can see this chart, the big
+drop off in that white column from 2019
+onwards. But it looks like now uh the
+talks are being revived and maybe we
+might get a repeat of 2017 if Trump does
+announce this sort of deal, you know,
+when he meets with presidency again.
+&gt;&gt; Okay, Minman, thank you so much. Min low
+are trying to correspond it there with
+the Bloomberg scoop on the Boeing story
+following of course the other one on
+Airbus uh also very very recently right
+uh we're just going 9 minutes to the
+opening bell here we are getting
+pre-market indications already coming up
+on your screens very very shortly keep
+in mind it's an Nvidia story uh that
+goes into potentially 981 that's SMIC
+we'll see what that stock is doing in a
+moment here uh we are on track for a
+weekly drop on global stocks obviously
+the same is it's different equation we
+need to talk about the Chinese market,
+specifically onshore. And yeah, there we
+go. Xpong on the back of the CEO adding
+to his holdings, I believe 18% now, 9.3%
+to the upside. And PopMart still seeing
+some upside today. And there we go to
+the point we were making. SMIC up about
+two and a quarter of 1%. Play ahead.
+This is the China show. Good morning.
+[Music]
+Good morning and happy Friday. We
+finally get to the weekend about a
+session away and of course by the time
+you realize it's a weekend it's Jackson
+Hole. We're going to figure out what Jay
+Powell's going to say in his speech.
+There's a BOJ of course and governor of
+course is also there at Jackson Hole and
+before you know it we're blessed with
+Monday right so how quickly time
+actually flies uh a couple of things as
+we go into the open today hanging index
+252 we are getting some upside right now
+and I believe actually we are getting a
+pull there from the EV space with the
+likes of J we talked about Xbong
+actually seeing some upside right now so
+Hen tech after 3 days of declines is
+seeing quite a decent uh pop to the
+upside of about 1% nothing much to note
+as far as the fix goes was quo down
+about 210 to 1% you have a special div
+there Billy Billy uh that's really
+mirroring what we had overnight in the
+US session uh and Sino Bioarma of course
+is another stock we're tracking here as
+well there's still an earning story here
+as well right uh Xbomb big move
+overnight you have the well you have the
+CEO coming in and increasing his
+holdings which is a I guess in many ways
+in many forms a a good sign of
+confidence there in the stock itself uh
+NEO is up about 6% that's really and
+pulled up because of the sort of the
+broader move up in in the sector as
+well. Uh SMIC 981 in case you miss it
+the information was out with a story
+here Nvidia asking its suppliers maybe
+don't uh make these H20 chips were up
+2.2% 2% perhaps the nearest
+supplement replacement to Nvidia as it
+pertain to the Chinese market. Right.
+Okay. Going into the open today. I think
+we can can we pull up 10 and08 please if
+we can here. So we're looking at
+turnover today still. So we've seen
+north of two trillion daily turnover for
+seven straight days. Now Morgan Stanley
+Laura Wang and her team have put out a
+note that they think this
+liquiditydriven rally can continue
+through the summer. She'll be joining us
+in a couple of minutes to to really just
+lay out the thesis, what factors to
+watch, what risks to watch as we go into
+today. And just one very quick note as
+we move into the final uh final session
+of the week, we're looking at a Shanghai
+composite here because possibly quite
+possibly we will see we could see 3,800
+for the very first time I believe in
+about 10 years or so. So the opening
+bell and we'll find out all those things
+we just laid out in a couple of minutes.
+This is P.
+[Music]
+Good morning. And in case you are not
+keeping track, happy Friday. There we
+go. 40 seconds to the opening bell.
+We're looking at gains here. Hanging
+index at 252. Uh we have more news
+coming out of Nvidia. This is perhap
+well this is separate but we'll see if
+he comments around this report coming
+through. So the Nvidia No actually no.
+So the Nvidia CEO has now reaffirmed
+that the H20 AI chip has no security
+backers. That would be more useful
+information of course if in fact they
+were selling it to China. But we
+understand from the information that
+Nvidia has then asked its suppliers to
+stop making the H20 chip. That's point
+number one. Point number two is the he's
+also visiting the TSMC uh for the
+production of the Reuben chips. Okay,
+the opening bell is a couple of seconds
+away. We're looking at the onore markets
+first and foremost. Are we going to get
+3,800 for the first time? We're very
+close. Not quite on a Shanghai comp. CSI
+300. Uh just a tad below the 4,300
+level. Morgan Stanley will be joining us
+later on in a couple of minutes here. So
+they think 4700 I think is the move on
+the CSI. Uh we will unpack that call in
+a moment. uh we're we're doing on the
+10-year yield is up oh okay 178 now on
+the 10-year yield and the 30-year yield
+is at just let's call it 2.1%. So the
+meltup in yields is halting for now but
+that said it's really been a trend the
+last two three weeks has been to the
+upside as far as that's concerned. Okay,
+flip the page please. Are we getting 600
+on the 10 on 10-centent? We'll find out.
+And 10-centent is now just a tad short
+of 597 right now. Bottom panel left most
+side. Uh, we're also looking at Xiaomi's
+up 1.3. That's an earning story this
+week. Baba is reporting. Let me rack my
+brain. It's 29th. There we go. Yes, this
+time next week. Thank you so much to my
+producers. Um, for whispering, not sweet
+nothing's in my ear. Uh, dollar Hong
+Kong. There we go. 78125.
+Hybrids on watch today. It I think it
+halted the gains yesterday, but yeah,
+still we're watching that very closely
+as well today. 6 cents of 1% on the Hen
+Tech index. Flip the page. halting I
+believe three days of gains going into
+the open today. Right. The CEO of Xpong
+adding to his holdings up 10% overnight
+roughly speaking of another 10 right now
+in the H share market. CSBC farmer I
+believe is reporting today and of course
+the SMIC story is getting a pot there
+out of the Nvidia news coming through.
+Uh and oh finally PopMart's not gaining
+today. Um but it's too early to say
+right. It usually started out the day we
+week and then it ended up 12% higher on
+on Wednesday. Anyway, that's a story we
+can I guess table for now. We've talked
+a lot about popart story already. Okay,
+where are we now on the Asian market
+rally? So from the respective lows in
+2024, four benchmarks on your screens to
+varying levels of good, right? China
+70%. Again, they didn't bottom at the
+same time in 2024. So we've taken their
+respective low and did this. Now u as
+far as a snapshot of where we are here
+on the onra market, right? So we've
+taken a couple of things. turnover
+Monday to Wednesday has been this
+amount. It's the best performing cohort
+Asia Pacific uh in August daily
+turnover. There we go. Uh factor drivers
+liquidity, momentum, and growth. By the
+way, FTW is a function you run on your
+Bloomberg terminal, by the way, if you
+want to get understand even further. And
+Morgan Stanley has this quote out coming
+through on your screens very, very
+shortly. They do think the rally can
+continue. Such momentum will sustain
+through the summer as the government
+accelerates the roll out. Change the
+page. Page two, please. Measures and
+incremental liquidities get mobilized.
+CSI, there we go. Bullcase at 4700s.
+Joining us now is the author of that
+report, Laura Wang, chief China equity
+strategist at Morgan Stanley. Good
+morning.
+&gt;&gt; Good morning to you, David.
+&gt;&gt; It's been not a quiet summer. It's been
+a good summer for the Asia market. You
+guys say this can continue. Lay out the
+the thesis for us here. Yeah, I mean now
+we are very happy to see how things have
+been going so far because back in June
+we explicitly told investors now is the
+time to actually move your money into
+the Asia market and this summer is the
+time for the Asia market to outperform
+on absolute and relative basis. So the
+thesis is like this right we actually
+see incremental step up of easing
+measures as you mentioned and also the
+anti- evvolution specifically I think
+this really set the cornerstone for
+sentiment improvement for onore
+investors so two things we have noticed
+that's really set this cycle rally apart
+from the previous short-lived rallies
+for example we had a very short-lived
+rally in September October last year and
+and if we actually rewind back to right
+after co reopened ing. We had a
+shortlived rally in early 2023. But if
+you look at how the market has been
+responding to these rallies and versus
+this cycle, we see two things different.
+Number one is the unore long-term bond
+yields are really picking up this time.
+If you look at a 10-year bond yield,
+30-year bond yield, both are picking up
+in the steady uh phases. Actually, those
+had not never happened in the previous
+rally. So I think this shows that onore
+investors this time for the very first
+time in a long time are seeing a more
+upbeat outlook for China macro. So
+that's very important because anti-
+evvolution I think really helps onore
+investors believe that the pricing
+situation on shore the deflation
+situation on shore actually is likely to
+improve from here. Second is that
+liquidity is really improving. I think a
+lot of investors have been saying that
+interest rate in China has been very
+very low. there's ample liquidity, but
+investors just don't want to go into the
+equity market. I can understand why
+people say that, but it's not
+necessarily true. According to our
+analysis, we have this proprietary
+Morgan Stanley Free China liquidity
+indicator published every month, but up
+until June, that indicator has always
+been negative, showing that not enough
+liquidity to come into the financial
+market to support asset pricing. Right?
+It turned positive for the first time in
+two years in June and then sustained at
+that level in July. And why is that?
+Because the front loading of the local
+government bond issuance earlier this
+year had finally trickled down into the
+corporate sector. So, so pro promoting
+the corporate sector to be more willing
+to borrow and potentially invest and
+then expand their business. So, do those
+two things I think make us believe that
+this time the cycle can be really
+different from the previous cycles. And
+you know just to back up to June because
+you guys said back in June by the Asian
+market was that the trigger specifically
+when that specific metric went positive.
+&gt;&gt; Yes. Yes. Absolutely. June was the first
+time the free liquidity turned positive.
+&gt;&gt; Right. So what are the risks to watch in
+apart from that obviously as a leading
+indicator.
+&gt;&gt; Yeah. I think I mean I mentioned uh
+onore bond yield. So that's extremely
+important to monitor to see how the
+onore investor sentiment could switch
+back to relatively more conservative.
+And then of course I think fundamentals
+will need to catch up. Right. We cannot
+just sustain a market rally purely just
+because sentiment is going up. So
+fundamentals we need to go back to
+corporate earnings. The first quarter of
+this year I think when I was here last
+time I told you we had a very first
+inline result quarter for Asia market in
+over the last four years time. I
+remember that. Yes. Yes. So now we are
+still collecting all the data for the
+second quarter result season. Uh I'm
+expecting another inline results. So
+that would be extremely important for
+the sust uh for the sustainability of
+the rally if it happens. And then policy
+events we have the fourth plenary coming
+up in October. So I think you know
+anti-evolution and social benefit
+reforms those actually will reinforce
+the uh convent conviction that the
+government policy is prioritizing more
+towards consumption and trying to
+rebalance the economy. So that would be
+a very important signal to watch. And
+last but not least, I think people look
+at margin financing and think about the
+fact that current margin financing level
+over two trillion R&amp;B once again beating
+the U 2015 level. So people think that
+could be a alarming sign. We monitor
+that very closely.
+&gt;&gt; Well, it is a important metric to
+monitor but we look at the ratio rather
+than the absolute amount. We look at
+margin financing as a percentage of
+total free flow market cap and also
+margin financing as a percentage of the
+daily trading turnover. So both are
+still very stable and below the 2020
+level or the 2015 level. So I think
+immediate government intervention at
+this point is unlikely but we should
+just monitor all these factors very
+closely and
+&gt;&gt; just to clarify inter uh intervention to
+prevent any bubbles just to
+&gt;&gt; to actually cool down potential bubbles.
+Okay. Yes. And because margin financing
+is a measure that you look at how much
+leverage is being taken to invest in the
+stock market, right? Which government
+would care and worry about people being
+becoming too speculative and potentially
+triggering a systematic risk.
+&gt;&gt; Okay. So don't get too excited over the
+absolute level. Look at the ratio. Okay.
+The other thing I want to ask you is
+what now happens to the Hong Kong
+market? Right. We've seen southbound
+flows. I believe now it makes up a
+substantial portion of volume.
+&gt;&gt; Right. So that's a big thing for Hong
+Kong. What happens now if the other side
+of the of the pond is doing
+&gt;&gt; well I think after summer uh the
+dynamics for the Hong Kong market can
+start to improve again and this was
+another reason why we switched the
+preference from Hong Kong back to Asia
+in June we were seeing all these
+catalyst starting to support Asia market
+and at the same time we saw a lot of
+uncertainties being built towards the
+Hong Kong market right so southbound has
+always been there as a very supporting
+liquidity source and year to date it has
+already surpassed $120 billion uh as
+cumul relative uh total inflow and we
+think it's going to stay positive for
+the rest of the year and southbound flow
+actually now represents up to 40% of the
+daily turnover of Hong Kong in terms of
+daily net inflow and the total
+southbound ownership of Hong Kong market
+is around 15% of the free flow market
+cap. So I think the importance of
+southbound in the Hong Kong market will
+only become more and more important from
+here and Beijing is very much supporting
+of uh Hong Kong's global financial hubs
+status and this serves not in the best
+interest in Hong Kong not only Hong
+Kong's best interest but also in
+Beijing's best interest as well.
+&gt;&gt; Okay. So the we've established that the
+view that the market should do well over
+the next at least few weeks or so. So
+which sectors which factors do you think
+will drive alpha here? We actually still
+like the technology sector. We think
+this is a long-term theme that we should
+hold on to. There could be some
+near-term volatility associated either
+the Apple supply chain or the Nvidia
+supply chain, but I think the long-term
+localization theme is here to stay. So,
+we have always recommended investors to
+hold on to large cap names that have
+transformed themselves into AI leaders
+such as Tencent and Alibaba. And we have
+some other niche players on the edge AI
+side which we think China actually has
+the leading position on a global basis
+with the data availability and with the
+deep penetration of mobile technology
+and aside from that we actually still
+think that investors can hold on to some
+dividend yield place to smooth out uh
+the volatility and recently we had added
+some exposure to insurance within the
+financial sector. We think that's a good
+place to be.
+&gt;&gt; Why did you add to insurers? What was
+what was the thesis there? Yes, because
+if you think about it, particularly the
+domestic insurance players, right? Uh
+the low the interest rate environment in
+the onore and we just talked about it is
+actually stabilizing and potentially
+picking up. So just from a you know
+revenue and the margin perspective
+that's actually more supportive for
+insurers versus for banks and the
+dividend yield is still around 4% and I
+think compared to the rate cut
+environment in general on the global
+basis this is still very attractive. Are
+you seeing any strong evidence of flows
+from fixed income fixed deposits to the
+point you're making on rising yields is
+a good for the equity market into the
+equity market? I think that's a big
+important source for the rally so far in
+terms of incremental liquidity who where
+is the extra money coming from right so
+I think you know rotation from bonds
+into equities and from term deposits
+that made a few years back at relatively
+higher interest rate uh those term
+deposits are maturing as we speak and
+the current rate environment actually
+makes equity market a lot more
+attractive versus a few years ago right
+and then of course there will there will
+be incremental insurance money coming in
+to buy the equities as well given that
+uh there has been top down guidance from
+the regulators from the governments to
+encourage insurance actually insurance
+companies to allocate more money into
+equity asset class
+&gt;&gt; before you go I want to ask you about
+your separate note here southbound
+inclusion we've established the
+importance of these flows right and you
+guys launched very recently here the
+Morgan Stanley southbound eligibility
+trading strategy not easy to say I have
+to say but yeah so lay out this is a
+back tested strategy
+uh tell us how this works and what's the
+hit rate.
+&gt;&gt; So there are two regular inclusion
+cycles for southbound trading. So those
+are the Hong Kong stocks uh based on
+Hong Kong exchange assessment that they
+become eligible for southbound trading
+and every year in March and in September
+there will be two batches of separate
+stocks being included into the
+southbound channel. So our back test
+shows that actually these groups of
+stocks on average would actually deliver
+very decent absolute return up to 30
+days prior to the inclusion date and
+they also as a group outperform the
+hangen index. So this would be a very
+effective tactical short-term trading
+strategy that can help investors
+generate good alpha. So what we do is
+the key question is do you know who will
+be included in the next cycle? So I
+think this question exactly this is the
+tricky part. So we developed this model
+based on our own uh understanding of the
+eligibility test and also with our own
+further refinement based on quality
+factors and we forecast there's going to
+be 19 stocks that we think are highly
+likely to be included in the next cycle
+which is September the 8th. So now is
+the time to actually get some exposure
+to these stocks and hold up until the
+inclusion date
+&gt;&gt; which is the 8th I believe.
+&gt;&gt; 8th of September that's quite coming up.
+So this is very timely.
+&gt;&gt; It is. It is and I think yeah we're
+about about 10 or so days away. It's
+almost like buy under not buy on a rumor
+but you know buy under speculation and
+then sell on the actual fact. Anything
+else we've missed any risks to watch
+internal or external to this equity
+market? Well, I think from here quarter
+results as I mentioned that's extremely
+important and just uh monitor the onore
+margin uh financing balance but more
+importantly the ratio and we will
+highlight to investors if we start to
+see any risk building up or any
+inflection points coming and I think
+external factors the fed rate hakat
+cycle that's a heated debate in the
+market of course that will also impact
+global risk sentiment and potentially
+the allocation back into China
+particularly into Hong Kong so we feel
+that you know as we get closer to the
+rate cut cycle, the allocation back into
+China will also start to pick up given
+that China's macro actually is indeed
+stabilizing and the earnings revision
+downward cycle is actually ramping up
+and the current positioning by global
+investors is still extreme low even
+though the sentiment towards China has
+already warmed up. So I think the gap
+there to actually close is very
+promising in China's case.
+&gt;&gt; Laura, thank you so much. That was
+great. I was trying to avoid talking
+about the Fed there, but you Yeah. Okay,
+all roads lead back to J Pallet somehow.
+Laura Wang, thank you so much. Have a
+good weekend ahead of Morgan Stanley
+there, chief China equity strategist.
+Right, going into the first, what time
+is it now? 14 minutes into the session
+here right now. I'm looking at my
+screens and we'll take a very very short
+break. Uh we're looking at gains last we
+checked hanging index half of 1% 2545.
+Nicke also up inflation coming through
+this morning out of Japan. More on that
+as well in a moment. Happy Friday. This
+is the China show.
+[Music]
+Welcome back. You're watching the China
+show. Smartphone giant Xiaomi, well,
+it's not EVs as well here, has succeeded
+where Apple failed by launching, to the
+point we just made there, its own
+electric car. Now, the dramatic pivot
+has helped the Chinese company gain some
+$120 billion in market value over the
+past year or so. Our team at Bloomberg
+Originals has been looking at the
+company's push into the EV sector.
+Here's a preview.
+&gt;&gt; What tech giant has a connected
+ecosystem of products, a devoted fan
+base, and is constantly innovating? If
+you're in the US, you may say Apple, but
+in China, it's Xiaomi. It's this
+consistent marketing to the younger
+consumers in China that has cultivated
+kind of a cult following.
+&gt;&gt; For many consumers in China, Xiaomi is
+Apple, is Tesla, is Google.
+&gt;&gt; Now, Xiaomi has managed what Apple
+failed to do, build a car.
+&gt;&gt; Xiaomi shares have touched a record high
+after strong initial orders for its new
+$35,000 SUV. So within 3 years, they
+managed to set up this very complicated
+supply chain in China and essentially
+turn out these incredibly popular cars.
+Profits have jumped as customers rush to
+the company's latest offerings. But
+succeeding in the world's most crowded
+EV market isn't easy.
+&gt;&gt; Competition is really fierce right now.
+&gt;&gt; Growth will mean turning Xiaomi into a
+global brand. And this is no easy task
+when the world's biggest economy is
+effectively off limits because of trade
+barriers. Yet, Chinese companies are
+already tapping markets beyond the US.
+So, is Xiaomi on easy street or will it
+be a bumpy road to success?
+And our subscribers of course can watch
+the documentary in full right now. It's
+on the Bloomberg terminal. It's also on
+bloomberg.com if you happen to be on the
+internet. Right. Uh it'll be also up on
+the Bloomberg Originals YouTube channel.
+Uh later on, let's stay the tech theme,
+but to a Bloomberg scoop now. So you
+have Meta hiring Apple AI executive
+Frank TR to join its super intelligence
+labs. He's the latest Apple engineer
+that Meta has poached even as they of
+course slow their recruitment overall.
+Mark German who broke the story and
+joins us from LA right now. Mark,
+fantastic piece yet again. How does this
+then sort of change uh the AI strategy
+of Meta here? And what do we know
+exactly about this new addition?
+&gt;&gt; Apple.
+&gt;&gt; Yeah. Well, Apple has been bleeding
+talent to Meta. They've lost now upwards
+of six senior AI model related engineers
+and executives over the last two months
+uh to the social network. For Meta, it's
+very clear because of this hire that
+they're working on AI infrastructure,
+which means they're wanting to optimize
+cloud compute. Uh we reported as well
+Meta and Google Cloud signed a $10
+billion deal. So what you're probably
+going to see here with this Frank
+Chuhire is more optimization uh for how
+to use that cloud infrastructure and
+maybe the development of Meta's own
+cloud infrastructure. uh you're seeing
+someone here who has a lot of experience
+training in-house models and he would go
+along nicely with all the uh large
+language models engineers that the
+social network has hired in recent
+months as well.
+&gt;&gt; Yeah. And so Mark, but they've also been
+slowing uh AI hiring. How does it
+dovetail into that sort of separate
+conversation or are we reading too much
+into that?
+&gt;&gt; Well, they've paused uh hiring for super
+intelligence labs. that's sort of their
+core intelligence group, the the one
+that you see them offering multi-million
+dollar pay packages uh to join, but
+they're making business critical hires,
+right? So, they haven't stopped hiring.
+They haven't stopped investing. Uh so,
+this is a business critical hire uh in
+their view, and I would expect uh
+several more actually.
+&gt;&gt; Okay. Well, Mark, looks like you have
+lots of uh busy weeks ahead. Fantastic.
+We'll wait. We'll wait for an update.
+Mark German. Fantastic as always. Mark
+German there, our managing editor
+covering Apple and consumer tech joining
+us um out of LA. About we'll take a
+short break. 21 minutes into the session
+here. Shangh, we're still waiting to hit
+that 3,800 level. We did get extremely
+close to it and we're about 18 points
+short. We're still up a third of 1%
+going into the Friday session. Plenty
+more ahead.
+[Music]
+Welcome back. Uh check for markets, a
+check of markets right now. Individual
+stocks we're tracking again. We're in
+the thick of earning season. We got a
+beat auto leaning and as you can see 8
+and a half% to the upside uh in the
+first 20 minutes of trades. Haven't
+looked at volume yet, but I would
+imagine of course volume is spiking of
+course on the back of these sort of uh
+regular cadence events. That's a
+reference to earnings, of course, just
+trying to sound fancy. Um, Minisaw,
+okay, this stock is up the most uh since
+December of last year. I think we had an
+18% pop back in December. Uh, we're now
+looking at the high since about Feb.
+That's also an earnings story. And you
+have Jeff and Goldman lifting their
+respective price targets uh for the
+stock itself. So, we'll see what happens
+with this over the next few days or so.
+Huah Hong Semi that this is a chips
+conversation taking place. And as you
+can see, this overall tide is uh rising
+as uh Nvidia again, the latest of really
+what's been a consistent theme of um
+maybe H20 not being so much a challenge
+in China, but an opportunity of course
+to fill that gap. And SMIC is up about
+4%. Uh Cambercon Tech, which is by the
+way a really a stock that's been on fire
+this year uh in the entree markets. And
+just to wrap things up here before we
+move on is a look at earnings coming
+through later today with the likes of
+Veno and some of the other names you see
+uh on your screens as well. Right now
+coming up uh we'll be taking a stock of
+eco rates and everything in between with
+way out of soften chief economist
+joining us soon on that. Plus we'll get
+you an update on the Nvidia story. We'll
+see what happens in Japan with yields
+moving up there. So yeah, plenty more to
+discuss. We'll have a lot more on the
+way in the second hour of the China
+Show.
+[Music]
+Welcome back. You're watching the China
+Show this morning. Taking a look at the
+CSI 300 half an hour into the session.
+Look, we have started to just continue
+to build into the session so far. We're
+only half a percent higher, but there's
+clearly a theme that's playing out this
+morning. You're seeing that really
+reflected so far in the chip stocks for
+instance, uh that that are always the
+big beneficiary. You have any bad news
+about Nvidia. It's a positive for those
+mainland plays.
+&gt;&gt; Yeah, we're seeing that really play out
+across those names specifically with
+SMIC. And of course, I know you will you
+cart the story early on. We'll talk more
+about that with Steve that's point and
+that's major market theme. Uh number
+one, the other thing we're tracking
+obviously is the broader rally in the
+Asia market. this liquiditydriven rally
+which Morgan Stanley who joined us
+earlier on in the show says can continue
+through the summer. Uh and they're
+suggesting in terms of any specific
+leading indicator to watch they say
+watch margin debt as a ratio as a
+percentage of total turnover and market
+cap. So it's still at stable levels.
+Once it gets a little bit too high then
+maybe have this risk of authorities
+coming in and maybe taming uh the
+speculative rush into into the markets.
+And of course, there's also the Fed
+conversation going into Jackson Hole
+where you have strong data on US
+manufacturing helping trim those bets to
+about 70 75% probability of a rate cut
+in September. And to the point that some
+of the Fed speakers are making
+overnight, Fed Goulsby said that
+September is a live meeting. Uh Beth
+Hammock I believe said that she wouldn't
+be in favor of a rate cut if the rates
+uh setting meeting happened tomorrow
+which I guess still underscores the
+divide right now given where you are
+with inflation remaining on the hotter
+side of things but again a cooling labor
+market and then you have manufacturing
+which we got a reminder overnight did
+did quite well but yeah the Nvidia story
+is something to certainly talk about and
+I believe this is going to dominate
+markets these next few hours.
+&gt;&gt; Yeah it's it's it's a really significant
+one. I mean, H20 is the chip that they
+designed specifically for the mainland
+market. And what's really interesting as
+well, and I think Steve's going to get
+into it, so I don't want to take too
+much away from him, but just is around
+how this is something that was first
+really being restricted on the US side.
+It seems like maybe that's more from the
+China side, but let's like just bring in
+Steve now, our chief of Asia
+correspondent with us here this morning.
+So, Steve, talk us through. I mean, what
+are the sort of big takeaways right now?
+Well, the biggest takeaway right now is
+we were getting some headlines out of
+Taipei where Jensen Huang, the CEO, is
+speaking and I was like, please
+reporters asking them about this, right?
+So, there's
+&gt;&gt; do your job.
+&gt;&gt; Do do your job is but there's been no
+headline about whether uh that story
+from the information uh that there's
+been basically an order to part
+suppliers to the H20 chip uh to stop uh
+supplying basically a production halt.
+TSMC already been uh you know resump had
+resumed production of that because if
+you take us back a month is when Jensen
+Hong had gone to the White House uh got
+the White House to approve essentially a
+resumption of the H20 chips to China,
+the AI, some would call it a more
+watered down version of the most
+advanced AI accelerators from Nvidia to
+China. And then there was a flood of
+orders from Chinese companies. uh but
+what we've seen since then obviously uh
+from the reports from the cyerspace
+administration of China the CAC uh the
+NDRC uh the national development reform
+commission also the ministry of industry
+and information uh technology MIIT uh
+essentially
+encouraging if not ordering Chinese
+domestic companies to not buy the H20.
+Uh so a complete back and forth uh you
+know whipssawing back and forth and
+sentiment towards the H20 which of
+course was initially banned by the Trump
+administration as you mentioned uh Bell
+back in April. So there's been a lot of
+back and forth on this. Now we need to
+see whether Jensen Hong actually can
+confirm uh that you know inventories are
+are piling up at Samsung. They they
+provide the high bandwidth memory uh
+components to these AI chips. uh also
+Amcore technology which does the
+advanced packaging. Uh the reports from
+the information is the inventories have
+been piling up because China has stopped
+ordering and now the report is that
+Nvidia has told them to essentially
+stop. So again, uh, uh, Jensen Hong
+right now saying he's going to TSMC to
+go talk to them about the Reuben
+architecture, which is the the next
+generation beyond Blackwell when Hopper,
+Blackwell, and now it's going to be
+Reuben. Uh, but again, I'm sure he's
+going to be talking to him as well about
+the production lines for the H20, which
+looks, according to the reports right
+now, is going to be suspended or slowed
+down because of slowing Chinese orders
+for that. They have security issues. Uh
+they're obviously worried about backdoor
+issues uh for that chip. Uh keep in mind
+the Trump administration secured 15%
+revenue commission uh basically um
+payments on all those H20 chips. So the
+Chinese government is not only insulted
+by some of the comments from Howard
+Lutnik who says we're not selling them
+our best chips. We're not selling
+selling them even our second best or our
+third best. And the reports are the
+Chinese ministries that I mentioned are
+upset about that. But they're also
+concerned about possible back doors in
+the H20. That sensitive Chinese data
+could go to the United States. Jensen
+Hong did address that today, saying
+there is no there are no back doors.
+There is no national security threat
+with the H20 going to China.
+&gt;&gt; If he doesn't comment on this today or
+the next few days, this is probably
+going to come up. If not, likely will
+come up at at the earnings call, which
+is in about a week's time.
+&gt;&gt; Yeah, I would bet somebody is going to
+ask them on the earnings call next week.
+uh August 28th, Thursday next week,
+Friday our our time, we're going to get
+quarterly earnings from Nvidia. Uh and
+it's interesting to how this will play
+into uh the calculation of forward
+earnings and forward guidance. Already
+price targets have been raised by some
+nine very influential analysts. Uh but
+again, one of them put out a report on
+August 18th. CJ Muse of Cander
+Fitzgerald said, "China is already
+derisked in street modeling and the goal
+here is to get China to build on
+Nvidia's platform." Well, wow. A lot has
+changed in just a few days since that
+report came out. So, how much does this
+change that street modeling uh for
+sales? Because Jensen Hong has talked at
+length about how important the Chinese
+market is and how much revenue takes a
+hit for not having the H20. And also
+we're gonna, you know, the analysts need
+to ask him as well about the next
+generation of chips uh based on the
+Blackwell Pro 6000 architecture um that
+was supposedly to go to China as well.
+&gt;&gt; Steve, thank you so much. Stephen Angel,
+our chief North Asia correspondent.
+Let's get the context and markets with
+Mark Cranfield with us right now um out
+of Singapore. Mark, it's not as if tech
+was doing well going into today. I mean,
+some softness going into Jackson Hole. I
+think S&amp;P was down five straight days
+going into this morning, but this is yet
+another reason perhaps to look at this
+uh cohort that's coming under pressure.
+How do you see this?
+&gt;&gt; Yeah, I mean, as as you've just been
+discussing there with with Steven, I
+mean, you think the the risk is next
+week when Nvidia has their earnings, but
+it's already happening right now. If
+they don't if investors don't get
+clarification in the next few hours
+about what's happening with these chips,
+then you're probably going to see a fair
+amount of weakness in the European
+markets when they they start happening
+later today. As Bel was saying, what's
+bad for Nvidia is good for the local
+Chinese tech companies. So, we're seeing
+some improvement in the big names there
+early this morning. Well, that's going
+to be on the flip side. That's negative.
+You're going to probably see NASDAQ
+futures trade a bit more poorly,
+particularly once Europe gets going. and
+they tend to be the ones that push this
+around in advance of the US markets. So
+what probably people were thinking is
+going to be a relatively quiet day ahead
+of Jackson Hole. It may well be a busy
+day in the tech market because people
+will be already concerned that Nvidia's
+got this big results coming out next
+week. Now there's clouds over this H20
+chip and the whole thing will be brought
+forward. So people who are looking to be
+defensive may well decide, well, I'll be
+I'll do that right now. I won't wait
+until next week. I'll just get out of
+the way. Plus, next week is a poor
+liquidity week. It's the week leading
+into Labor Day holidays. Notoriously one
+of the worst weeks for market liquidity
+in the US in terms of Wall Street
+because it's the last holiday week in
+the school season. So, all in all, if
+you're a people person who's a little
+bit nervous here ahead of Jackson Hole,
+today's your day for getting out of risk
+and it may well be the tech sector that
+takes it on the chin.
+&gt;&gt; Yeah. Yeah, on that point, I mean, you
+mentioned Jackson Hole. Of course,
+JPAL's speech coming up later today is
+going to be extremely closely tracked,
+but we heard overnight it seems like the
+Fed is really having a lot of difficulty
+here figuring out whether they need to
+cut or not.
+&gt;&gt; Yeah, I if you're if you're an investor
+and you've been watching the newswires
+for the last few hours, you've had at
+least four Fed speakers already. You've
+got Jack Jerome Pal coming up later
+today at Jackson Hole itself. There'll
+probably be a few other Fed speakers as
+well because the whole team is there all
+wanting to be interviewed and they're
+flipping back and forth between
+different kinds of views. Some are on
+the fence, some are not. It looks as
+though it's going to be a really split
+decision. However, there is one more
+jobs report to come before the Fed sit
+down. If the unemployment rate ticks up
+to 4.3, you can bet the market will go
+fullblown for a 25 basis point cut in
+September. They may even push beyond.
+they may start looking for a 50 basis
+point cut. It really all comes down to
+where that unemployment rate is. It
+ticked up to 4.2. We saw the market
+carnage last year when it dropped to 4
+when it rose to 4.3. If we see another
+4.3 on the unemployment rate, it will be
+odds on as far as the market is
+concerned that September is going to be
+at least a 25 cut, maybe even more.
+That was our Bloomberg Mive strategist
+there, Mark Granfield, joining us this
+morning. And just some updates as well
+that are coming through this morning
+because we have the Shanghai Corporation
+uh or organization rather that summit is
+going to be held from August 31 to
+September 1. And we're getting some
+alerts this morning from China saying
+that Narendra Modi also President Putin
+and also the the Bellarusian president
+as well Alexander Lucenko will be
+attending that event. Uh, China is also
+saying that she will announce new
+measures to support that organization's
+development, but we'll get more details
+on that ahead, Dave.
+&gt;&gt; Yep, absolutely. In fact, we'll we'll
+talk more about that, a preview of the
+weekend coming through. Plus, of course,
+China's president telling his government
+to pay its bills on time or risk a
+public backlash. More on this warning
+over debt delays just ahead here in CH.
+Plus, plenty more. We'll look at macro
+next gen as well. This is the China
+Show. Happy Friday.
+[Music]
+I don't see any um any chance that
+there's a nod toward a September cut or
+any promise of a September cut.
+&gt;&gt; The caution I would give if they do move
+in September, uh I don't think that's
+the start of a cycle. I think it's an
+individual decision. them will wipe the
+slate clean and take the next 6 weeks
+try to understand these crossurrens
+again.
+&gt;&gt; I think they're modestly restrictive.
+I'm still trying to find ways what's
+what's being inhibited in the economy
+from where our policy rate is today. Uh
+but I I think we're on a good path
+&gt;&gt; for sure. It feels to me like it's a
+live meeting. uh as you know before
+April 2nd before we got some
+uncertainties coming on the policy side
+I believed that we had pretty stable
+full employment that inflation's coming
+down to target
+there we go if only they had one
+consistent line there we wouldn't have
+anything to talk about certainly giving
+us um more responsibility here as
+responsible financial journalists really
+discuss and dissect where the Fed's
+going to go in the live meeting uh
+coming through in about September 18th.
+It's about uh 20 or so uh days from now.
+Well, let's get a sense right now of
+what the markets and economists think of
+the Fed's path. Joining us here is we
+head of research, chief economist, APAC
+at Sockgen. Good morning. Nice to see
+you.
+&gt;&gt; Yeah, good morning. It's good to be
+here.
+&gt;&gt; September's live for the Fed. You think
+they're going to cut?
+&gt;&gt; Well, it is live. We agree. Um but you
+know, as the Fed has keep saying
+everyone is like they're watching the
+data, right? So they watch inflation. We
+still have very some very important
+data. We haven't seen the employment,
+the inflation, they will definitely be
+very critical for this decision. Um the
+Jackson Hall, you know, I I think it's
+probably not wrong for the market to be
+bit more cautious now to scale back some
+expectation because yeah, still uh still
+the decision is not final. Um and it's
+also very probably not going to be the
+case. You know, power will commit to one
+way or another, right? Why why remove
+your own option before you know before
+the evidence important ones?
+&gt;&gt; It is sort of shaping up though that
+you're sort of seeing it inflation or
+signs of inflation accelerating. The
+labor market looks to be decelerating.
+It's a dual mandate. So which one do you
+think they're going to be more concerned
+by?
+&gt;&gt; Well, I I guess there is a lot of uh you
+know concern partly is about history,
+right? We we had a history in the 70s
+80s uh in the end if inflation is out of
+control you just have to tighten policy
+even even though the economy is weak of
+course we're not really there stagnation
+but uh uh this risk is is not removed um
+so so you know I I think you know the
+whole experience with the tariff is a
+very humbling experience for all the
+economists and everyone is that we're
+basically running experiment to see that
+okay what exactly is going to be the
+tariff impact on you know economy And
+inflation there are a lot of things that
+prediction that has not panned out you
+know in terms of how inflation can be.
+It may still indeed be delayed but then
+the argument would be does it make sense
+to act based on the evidence now then
+you know then be nimble and ready to
+change mind later right so that might be
+the question here
+&gt;&gt; yeah it's to your point it's almost
+behavior right you don't know when
+companies specifically are going to pass
+that on and then you just
+&gt;&gt; have to act when if and when that
+happens where we do have some evidence I
+wonder if you could share insights is
+into trade data coming through across
+the region exports numbers the recent
+months what what is that entire data set
+telling you now about where exports will
+be in in the months ahead
+&gt;&gt; yeah indeed it actually has been very
+fascinating to watch all these data to
+economists I have to say so we've done
+some research recently we're looking at
+you know the front loading question
+&gt;&gt; it's very interesting that uh basically
+there are only three things being
+frontloaded gold it happened for two
+months that that's gone pharmaceutical
+and electronics all right for
+pharmaceutical electronics we're still
+waiting for the 232 investigation
+results
+So when that hits this probably is going
+to end and electronics is the one matter
+for the entire Asia region and by
+estimate this part of frontloading we
+think it's about 10 to 15% of the entire
+export of Asia in the first half uh
+maybe until July. So this will go away
+but then you look at Taiwan data in July
+uh it was still very strong not just
+their directory to US but also to the
+region. So is China right? China the
+direction to the US actually pretty
+weak. It crash and and very little
+recovery. It's the in probably the
+indirect supply chain demand on the
+electronics that's supporting China and
+some of the Taiwan strengths which means
+this trade may still have like one or
+two months left to go. Right.
+&gt;&gt; Yeah. Exports at least from China seem
+to to your point have kind of remained
+resilient for now. But what do you think
+happens about the the China plus one
+model and how does that sort of shape up
+as well? That is a very big question
+now. And uh and actually we start to
+wonder maybe the new tariff regime from
+Trump may not really put China in much
+more disadvantage here because it was
+only China. Everybody knows China is a
+target. Now everybody gets tariff right
+and the tariff on China plus one is
+seems like minimum 20%. So that
+significantly closed the price gap sort
+of with with with China it was 14 140
+and 10 now it's 30 30 and 20 um so so
+that gap is smaller then you look at how
+Trump have been waging this tariff war
+is that any moment for any reason not
+exactly related to economics he can
+impose tariff on some country right so
+we add this volatility factor into the
+tariff regime
+&gt;&gt; then for a companies like why do I even
+need to border and move things around
+again
+&gt;&gt; right so that is becoming a very
+important question if this thing is not
+going to settle I wonder maybe something
+just going to stay in China it may not
+really make China worse here
+&gt;&gt; yeah and in three years right to your
+point he's not going to be there anymore
+right so we don't know what that's going
+to look like and you know I kind of feel
+bad for economists right because you
+guys get these questions these
+non-economic related questions right um
+the I was looking at the calendar it's
+actually now 11 months since that big
+bazooka briefing out of the PBOC in
+September right
+&gt;&gt; of last year. Where do you think the
+economy is now?
+&gt;&gt; So, uh the economy had some good
+momentum at the beginning of the year,
+right? Then the tariff war hit. It's
+interesting that you know the
+consequence from this tariff so far is
+very surprising. It's not bad for the
+exports. Actually, exports have been
+good for the reason we just discussed
+&gt;&gt; but it's actually the domestic
+sentiment. Housing weaken again, right?
+So, you look at the housing sector, it's
+definitely worse than where it was. It's
+every month seems to be still getting
+bit worse and then the July data was
+just very clear that you know the
+investment demand weakened across the
+board credit demand across the board
+consumption really only supported by
+subsidy not not much else. So so we're
+basically again back to where we are is
+the domestic economy needs a lot of
+help. the policy makers, they do have
+the intention to, but it seems that
+they're still kind of maybe waiting for
+timing or maybe need more pressure to
+act more decisively. That seems to be
+where we are, it seems.
+&gt;&gt; I mean, we had sort of those
+expectations and they failed to appear
+for big bang stimulus. What has sort of
+been the bigger policy shift we've seen
+of late is that anti-involution
+campaign, but is that really going to
+have any impact you think on ending that
+sort of deflationary that broader
+deflationary mindset? Yeah, first I what
+I read from that is a it's a good
+signal. It's a good signal showing that
+the Chinese policy maker understand
+deflation is bad. It's it's bad for many
+many reason right so it's bad because it
+it hurts the fiscal resource you have
+deflation how can you you know build
+your fiscal resource uh and support
+economy on a sustainable basis and it's
+bad because it also hurts China's kind
+of vision to dominate supply chain
+because companies they don't make money
+so how can they last or innovate so so
+that is speaks that speaks to the sense
+of urgency which is needed then the
+question is the method right uh telling
+companies not to low prices. We all know
+it's not going to work. Uh it's a
+temporary measure at best. Maybe it is
+indeed just a temporary tactics. Um the
+more sustainable solution will be supply
+side consolidation, especially for some
+very uh for for some sectors, you know,
+the whole solar uh supply chain, the
+EVs, you know, these sectors, no matter
+how you boost demand, it doesn't address
+the issue because there's too much
+supply. But those are not government
+controlled though unless you in 2015 it
+was steel capacity ses but these are
+private enterprises. How do you
+accelerate consolidation?
+But how can China have end up so with so
+much capacity dominating world right we
+all talk about there's industry policy
+at play right so you have to be
+consistent if it's true they're private
+companies but they've got a lot of help
+from local government central government
+everybody now you know it's a question
+that for example when we think about
+this consolidation question there are
+two ways to do it you can do it like you
+know right now we have this
+interestingly the the the the the solar
+kind of upstream supply you know cartel
+forming up but you can also just let the
+market mechanism play out the weakers go
+out right but you need to kind of
+balance the economic pressure with the
+pace of the supply consolidation here
+yeah
+&gt;&gt; yeah certainly some mixed messages Sarah
+that's uh that's way out there head of
+research and chief economist for APAC at
+Sociot thanks so much for joining us and
+enjoy your weekend as well we said no
+typhoon hopefully we can spend some time
+outside we'll have plenty more ahead
+this is Bloomberg
+[Music]
+Well, in some world news this morning, a
+New York appeals court has struck down a
+$464 million penalty against President
+Trump and his company. The panel upheld
+findings that Trump inflated asset
+values, but called the fine excessive.
+Attorney General Leticia James says her
+office will challenge the ruling. The
+decision eases Trump's legal troubles,
+adding to other cases dropped since his
+re-election.
+And President Trump has hinted that he's
+open to Ukraine launching more attacks
+on Russia. That's as the White House
+seeks to pressure President Putin into a
+meeting with Ukraine's leader. In a true
+social post, Trump wrote that it's hard
+to win a war without attacking the
+invader's country. He later told Newsmax
+we'll know in about two weeks where the
+peace can be achieved. The Kremlin so
+far remains non-committal on any summit
+with Ukraine's president.
+Secretary of State Marco Rubio says the
+US will immediately pause issuing worker
+visas for commercial truck drivers. In a
+post on X, he says the increasing number
+of foreign drivers operating large
+tractor trailer trucks on US roads is
+endangering American lives and
+undercutting the livelihoods of American
+truckers.
+&gt;&gt; All right, let's have a look at these
+markets. About an hour into the session
+here. Shanghai comp, we've been waiting
+for 38 and as you can see, we've been
+bobbing and weaving just below that
+specific level. Keep an eye on turnover
+again today. We've been north of two
+trillion a day for about seven days now.
+So, we're about an hour into the
+session. I'll get you an update on
+turnover uh in a moment. Uh earnings, we
+can set that theme aside, but I can tell
+you there's a lot of big earnings coming
+through and reaction leaning mini saw.
+But the other big theme across these
+markets is the reaction in the chip
+space, positive one quite clearly and
+consistently as you can see on your
+screens in the A&amp;H share market. That's
+on this Nvidia uh story of uh it's
+looking to halt or slow production of
+its H20 chips. on some of its suppliers
+according to the information right on
+the other side of this break and we'll
+take a short one we'll have a look at
+Japan the inflation numbers coming
+through there the prospects for a rate
+hike coming through not a single not a
+full one is price in fact this year you
+get a full pricing by January out of the
+BOJ inflation though fell but came in
+above expectations on core CPI we'll
+unpack that and of course this meltup in
+yields that we've seen in the JGB market
+that's all ahead this This war
+[Music]
+11:29 a.m. this morning in Tokyo.
+Japanese markets are just about to go
+into their break. You've got the Nic 225
+sitting flat this morning, but I don't
+really think that's much of a surprise
+when you've got Jackson Hole. You've got
+liquidity thin trading next week with a
+lot of holidays as well. So ahead of
+that, we're really just of course
+assessing is the Fed really ready to
+hike. September very much a live meeting
+and you can add to that as well. Uh we
+had the inflation figures out in Japan
+this morning as well and we saw still
+some pretty sticky price pressure. So
+we're watching JGBs and the yen of
+course.
+&gt;&gt; Yeah. I mean the risk for markets to the
+point you were making there, right? So
+we're hoping that J Powell gives
+clarity, but how much clarity can he
+actually give? I mean we could find
+ourselves in the same boat this time
+next week, right? is there's certainly
+no upside to committing 100%. It's it's
+a delicate balancing act. How does he
+strike not so much a complete uh uh
+commitment to a cut but also not walk
+back what the market's been pricing as
+well? And maybe the nuance is going to
+be the important thing there. Um if
+you're still up at 10 p.m. tonight,
+certainly we're not going to be. Um send
+us a note. Yeah, let us
+&gt;&gt; 10 p.m. My gosh, you must go to bed
+early.
+&gt;&gt; I am in bed by 8:30 at night. My my eye
+bags probably don't tell you that, but I
+can tell you I am a very boring person
+recently.
+&gt;&gt; All right. Early bird.
+&gt;&gt; Well, recently the last 5 years or so.
+It's actually nice to get in bed at a
+decent hour. You're
+&gt;&gt; It is. You do feel very rested the next
+day. Anyway, uh let's let's move on. So,
+the big story this morning in the tech
+space, and I think you can see that
+reflected there, that it is a little bit
+high here. That's probably going to be a
+lot of those Chinese chip mains that
+that really benefit when stories like
+this cross the terminal. But this is
+reporting from the information.
+Essentially, Nvidia has asked suppliers
+to halt work on H20 chips. Let's get
+more on this now. Bring in our Bloomberg
+intelligence senior tech analyst, Robert
+Lee. So, Robert, let just some context
+here. I mean, we know the H20, this is
+the chip that was designed for the
+Chinese market. Trump banned sales of it
+to China. He reversed that. Now, it
+seems like China is actually asking
+companies to not buy the chips as well.
+&gt;&gt; Yes, that's right. the ongoing saga of
+the H20. But sort of taking a step back
+from the news and the headlines, the
+direction of travel I think is is being
+very clear and that is China. One of
+China's main strategic aims is to pursue
+self-sufficiency in the technology
+sector for all sorts of reasons. I mean
+one of them being the US is obviously a
+major geopolitical rival. Uh and also
+from a Chinese perspective has been
+proved proven to be an unreliable
+partner. So I think that's one reason
+and then the second reason being that
+China is looking to the high-tech sector
+as a driver of future economic growth to
+uh with new productive forces a shift uh
+away from maybe the um you know previous
+reliance on investment spend looking to
+high-tech as a driver of future GDP
+growth. So that's the sort of backdrop
+to all of this and then we've seen these
+as I say ongoing saga which I think is
+the best way to describe it. You know is
+H20 on is it off? I think it was a week
+ago um there were some uh stories coming
+from China or or or unconfirmed reports
+that the government was encouraging
+local AI companies to use uh the locally
+derived Huawei product and now we've
+seen this story that is reported in the
+information which seems to be confirming
+that and then Invidia well allegedly
+taking action in response to that. So I
+think in the long run, China is going to
+continue to drive self-sufficiency aims
+within tech. They're continue to
+encourage their AI companies to use
+locally derived chips. Um and I think
+what does that mean for the likes of
+Alibaba and uh um Tencent? Obviously
+there have been some bottleneck and
+disruption on the chip side but on
+balance given their existing inventory
+of supply given the rising supply from
+local suppliers like Huawei then net net
+they should be on track to continue
+their AI developments.
+&gt;&gt; Well speaking of AI the the way our
+headline is written in Quao is Quaisho's
+revenue beat underscores its AI
+potential.
+Yes, which is uncharacteristically
+positive written by me. I think that was
+&gt;&gt; I was hoping you'd pick up on that.
+Thank you for doing so.
+&gt;&gt; I would say I you know I I like to
+approach things in my view in a rational
+point of view. I think the monetization
+it remains a major challenge for the AI
+software companies. Um, but I think what
+we saw from Quao last night, uh, which
+has developed a text to, uh, video
+engine called cling, we're actually
+seeing, it's early days still, but we're
+seeing a reasonable level of, uh,
+monetization coming through. I think for
+the quarter they just reported, they um,
+generated 250 uh, million raimi in sales
+and last quarter it was 150. So, it's
+all moving in the right direction, but I
+would say remains a low level. So that's
+quite encouraging and I think the
+conclusion of all of that is if people
+are going to make money in crude terms
+in AI obviously it's clearly on the
+NVIDIA side the infrastructure side the
+companies providing the chips and the
+cloud computing services that their
+clients need to develop these models but
+the real money or the greater prospect
+is in the AI applications um rather than
+the large language models because again
+in a China context there are more than
+500 large language models in the country
+at the moment the sector is completely
+commoditized. It makes it very very
+difficult for anybody to make money uh
+developing large language models. But
+using those models to develop new
+software at least, you know, we're
+seeing potential light at the end of the
+tunnel that, you know, value added AI
+applications that consumers or
+businesses,
+you know, recognize the value in can
+generate real revenue. So I think that's
+a early days um but an encouraging sign.
+&gt;&gt; Billy Billy, we haven't talked about
+Billy Billy. Billy Billy. I think again
+it's coincidental we're talking about
+two of the most interesting sort of
+midcap names in the China internet
+space. Billy Billy is really well
+positioned um with the Gen Z cohort. Um
+they're a go-to platform for that.
+They're previously they've been referred
+to as the YouTube of China just to give
+people some background if they're not
+familiar with the company but their
+advertising is growing at you know 20%
+plus which in this environment is you
+know really decent stuff. The issue
+though for Billy Billy is that they have
+had an inconsistent track record on
+video games. Um they have one main title
+at the moment called San Mo. It's done
+quite well in China. They were looking
+to expand that internationally and it
+appears that that's been delayed. I
+think that's why you're seeing some
+profit taking on the stock today. Um but
+I think you know it's a very interesting
+name given advertisers will spend their
+dollars. Where consumer eyeballs are
+that's short videos that's Gen Z who
+have a greater propensity to spend. So
+the likes of Quaisho should continue to
+do well in ads and 10 cent in contrast
+to BYU which we saw earlier this week.
+Um not picking on BYU but their ads were
+down 15% year-over-year and then poor
+old wave war as well you know 1 or 2%
+annual growth. These are legacy
+platforms. So again advertisers are only
+going to spend where they see the scope
+to generate return. Um and quaish is
+very well positioned um as is Billy
+Billy.
+&gt;&gt; It's quite remarkable really when you
+sort of compare on that ad revenue
+metric but you do seem positive on both
+companies. So do you have a preference
+between them?
+&gt;&gt; I think on balance qua is uh probably
+the more interesting of the two again
+with this emerging strength um on the AI
+side. Um just again to give a balance
+view obviously AI is a very expensive
+business there's a heavy level of
+development spend their margins uh did
+come below expectations in Q1 but again
+I think the the strong rebound we saw in
+Q2 gives confidence that things are
+getting back on track and also the other
+thing that quish has got going for them
+is they have emerging strength in the
+live streaming e-commerce sector
+&gt;&gt; so this is essentially they're a live
+streaming platform uh they are a host to
+various uh so-c calledled KS or key
+opinion leaders. These are the
+influencers in an Asian context. These
+are people who are live streaming
+pushing various products and quaish, you
+know, in crew terms gets a cut of that
+revenue. So the live streaming
+e-commerce business has done very well.
+So they've got two potential drivers
+there. As I said, in contrast, Billy
+Billy's ads is doing really well. Live
+streaming, sorry, the their the main
+video platform is doing well, but
+they're a bit inconsistent on the game
+side. So relatively I think there's less
+risk with quaisho and two distinct
+drivers of their earnings going forward.
+So on balance I think that's the more
+interesting name.
+&gt;&gt; And is there a consistent takeaway then
+as far as what this means for the sector
+as a whole?
+&gt;&gt; Yes I still think on the AI side
+monetization remains a major challenge
+for most companies. Again if you're
+developing large language models as I
+said it's commoditized in China very
+very difficult to monetize but the money
+is clearly on the infrastructure side.
+So obviously Huawei is a private
+company. It's not an investable
+opportunity. Uh but but obviously they
+would be benefiting from that. I think
+forwarding to next week we'll see
+Alibaba report on Friday. Obviously
+there's been a lot of very high
+expectations with them on the cloud
+side. We'll wait to see what they say.
+But I think the real risk on Alibaba is
+whil seeing revenue growth on cloud that
+is AIdriven there's a huge amount of
+competition and margin pressure. And if
+you remember from last quarter their
+cloud margins actually missed
+expectations. Plus, Alibaba has a huge
+amount of pressure on the e-commerce
+side. You saw JD.com disappoint
+recently.
+&gt;&gt; So, I think, you know, AI is is clearly,
+you know, the way to go.
+&gt;&gt; Yeah. And yeah, fantastic. Thank you so
+much, Robert Leer, our Bloomberg
+Intelligent senior tech analyst. And
+that takes us into the humanoid robot
+conversation, right? And I think if you
+think Belle and I look the same what
+we're wearing today, wait until you see
+this cohort of of friends that we have
+here at screens. have a look at the
+future lineup of our replacements
+basically.
+&gt;&gt; Exactly.
+&gt;&gt; This is a fantastic graphic though.
+&gt;&gt; Yeah. Made by one of our colleagues of
+course and the production team but but
+we can just take a look at really some
+of the standouts in the space. I think
+if there's a name that really jumps out
+it's Uni of course they're really one of
+the big leaders but Ubitech that's a
+listed company here in Hong Kong. Agibot
+I mean Robotics really it's that big
+competition who can win in the Chinese
+market. It's very far from settled. But
+we had the the tech show this morning uh
+uh and this episode looking at the
+humanoids market, why we're seeing such
+intense competition in China and as well
+how they're looking to lead the world.
+But take a listen.
+&gt;&gt; It's very likely that human robots are
+going to be robots that we can deploy
+into uh the world relatively easily.
+From labs in Shenzhen to workshops in
+Silicon Valley, humanoids are stepping
+out of science fiction and into our
+reality.
+The race is on to dominate the next era
+in robotics with companies in Asia and
+the US vying to take the lead. China is
+seen as a frontr runner with Morgan
+Stanley saying the country will have the
+highest number of humanoids in use
+worldwide by 2050. It's a result of many
+years of government support,
+advancements in AI, and its strong
+manufacturing base that gives it more
+than a helping hand.
+The market is poised for explosive
+growth, with the International
+Federation of Robotics noting two
+primary reasons for its rise. A chronic
+lack of workers combined with aging
+labor forces in developed nations. Yet
+sales channels are fairly limited so far
+with universities and research
+institutions currently some of the
+biggest buyers. This might seem like
+just a gimmick, but the humanoid
+companies in China like Uni Tree are
+blending tech and entertainment is seen
+as a serious path toward
+commercialization.
+Ultimately, the goal is to bring
+humanoids into households with varying
+estimates for how long that might take.
+I think maybe three or five years the
+home robots can do the common things in
+my home.
+&gt;&gt; We are still a bit far from that because
+as you can see right now like the uh
+robots cannot perform as in the movies
+that we are used to see.
+&gt;&gt; It may be decades before humanoids are a
+common sight in our homes. On the
+factory floor though it's already
+becoming a reality. Bloomberg
+Intelligence says improving battery life
+and efficiency gains in humanoid robots
+could make them virtually as cost
+effective as human workers by 2035.
+That sort of potential is creating
+intense competition particularly in
+China where concerns are already growing
+about overcapacity.
+&gt;&gt; We have a humanoid uh robot frenzy here.
+Uh everybody try to try to try to break
+into the space. I think probably a lot
+of these companies are not going to
+exist in the 5 years down the road. The
+question is whether this level of
+interest in humanoids is unhealthy or
+the right way for the industry to
+develop.
+[Music]
+&gt;&gt; Well, as we said, uh, humanoids was the
+focus of of the tech show today and you
+can rewatch that and of course all the
+other episodes we've had so far, but on
+YouTube at Bloomberg Tech Asia, BTE is
+at the end of every month and you can
+watch our next episode at the date on
+your screen. We'll have more ahead. This
+is Bloomberg.
+[Music]
+Welcome back. Time for trending in China
+and a look at what's making headlines in
+national newspapers. You have state
+media outlets have announced a new book
+of President Xi Jinping's speeches. The
+volume includes she's warning that the
+Chinese government's delayed payments to
+companies risk undermining people's
+trust in authorities. Let's bring in
+Minilo, our China correspondent to give
+us really more context about when and
+what of course the president said here.
+&gt;&gt; Yeah, this actually took place back in
+February when presidency met with
+Jackmar and the other private
+entrepreneurs. There was really a
+turning point showing the government's
+support for the private sector. Right.
+But uh Singua the state media news
+agency just published the speech in full
+in a book and it showed that presidency
+at the time had urged the local
+government to resolve the aras to
+private companies because it could have
+an impact on people's confidence in the
+government and this comes as you know by
+some estimates David Lequ for example
+from Tinua University was saying that
+the local government owed as much as 10
+trillion UN to private companies and to
+civil servants and it's equivalent to
+about 7% of the GDP last year. So it
+shows you that this is an important
+issue that the government is paying
+attention to and it comes as the Chinese
+government had already taken some
+actions right from that 10 billion uh 10
+trillion UN debt swap program and this
+year as well for the first time they
+started allowing the issuance of special
+purpose bonds to be used to pay a those
+were used to be you know reserved only
+for infrastructure investment. So again,
+it shows the the sort of urgency of this
+growing debt burden that local
+governments are facing.
+&gt;&gt; And another top story in China is
+President Xi's visit to Tibet, which I
+think is the second time he's been to to
+there as as president. What does it
+signal to us and what was the message as
+well that he had?
+&gt;&gt; Yeah. So it is it's quite rare because
+he's there for the 60th anniversary of
+the founding of Tibet and this is
+usually a very routine celebration that
+is attended by low-level officials but
+this time presidency went and it's the
+first time he led a central government
+delegation there. He didn't give a
+speech but he did mention to local
+officials and this was reported by state
+media as well. He told local officials
+that political stability and religious
+harmony are critical to the continued
+development of Tibet. And then there was
+Wang Hu Ning who is a number four
+official in China also gave a speech and
+he talked about the importance of
+protecting that border in this fight
+against separatism and it comes against
+this backdrop where uh foreign minister
+Wangi just completed this trip to India
+right and both India and China just
+agreed to continue working out you know
+the demarcation of this disputed border
+that India shares with Tibet it's always
+been a very sensitive area where there
+has been you know protests in the past
+self- emulation by some of these Chinese
+monks. And of course, China and India
+have disagreements over who gets the
+right to to choose and to uh you know
+approve the next Dalai Lama as well. In
+fact, Modi last month had sent a
+birthday wish to the Dalai Lama. He just
+turned 90 years old and that was
+something that really upset Beijing. But
+it shows you that again, you know, the
+Chinese government is seeing it as a
+priority to further integrate the
+Tibetan region under the Chinese
+Communist Party.
+&gt;&gt; All right, that's our China
+correspondent there, Mim Lo. and we will
+have plenty more ahead. This is
+Bloomberg.
+[Music]
+&gt;&gt; It is a important metric to monitor but
+we look at the ratio rather than the
+absolute amount. We look at margin
+financing as a percentage of total free
+flow market cap and also margin
+financing as a percentage of the daily
+trading turnover. So both are still very
+stable and below the 2020 level or the
+2015 level. So I think immediate
+government intervention at this point is
+unlikely but we should just monitor all
+these factors very closely.
+And that was the chief China equity
+strategist Morgan Stanley who joined us
+earlier and shows Laura Wang there on if
+you had to watch one or two things
+leading indicator of the market. Those
+were the two things she says.
+&gt;&gt; All right. Uh leading indicator
+sometimes maybe also is pay or is that a
+is that a leading or a
+&gt;&gt; a late one? But anyway, we'll get to it.
+At Chinese brokers because they're
+sweetening pay packers for junior
+bankers in Hong Kong. Civic securities
+rivals are rolling out raises of up to
+30%. That's as dealm picks up along with
+competition for talent. Let's get more
+with our Asia-Pacific deals reporter,
+the person as well who leads the team,
+but Manuel Bori joining us with the
+details. So, what is what's behind this?
+&gt;&gt; Yes, Annabelle, that's uh good news, I
+guess, after all these years of kind of
+like layoffs and uh people not getting
+their full bonuses uh in Wall Street.
+So, uh, looks like some of the Chinese
+banks, uh, in this wave of deal making
+where we're seeing a lot of, uh, second
+listings in Hong Kong, um, you know, are
+kind of trying to retain talent and we
+see the likes of Civic Securities, uh,
+through CLSA, uh, and also China
+Merchants, so the the international uh,
+Parongorn are among those that are kind
+of like trying to uh, bump uh, salaries
+for for um, some of the junior your um
+uh bankers. It's not across the board.
+Uh we should warn it's not like
+everybody's getting a pay raise these
+day, but uh but I think in a selective
+way uh we are starting to see that which
+is a remarkable shift from where we are
+coming from.
+&gt;&gt; Well, are we then starting to see the
+any signs of a talent war?
+&gt;&gt; Uh that's a great question, David. I
+mean, it could be the next step. You may
+recall like four or five years ago, I
+think it was around the time of COVID if
+I recall correctly, there was this time
+wars people like uh every bank industry
+was kind of raising for every great
+resignation time, wasn't it?
+&gt;&gt; Exactly. It it was really a time it was
+like everybody was trying to um mirror
+what they exactly. So that I don't know
+if we'll get to that point and when
+exactly it doesn't feel that way yet but
+definitely the tide is shifting and
+people are a little bit more upbeat. Uh
+there is more to do. There is more
+business coming through. Uh we'll see at
+the year end what it what it translates
+into the fee pool. But uh definitely
+bankers are busier. Uh Hong Kong is is
+back sort of uh on the back of these um
+uh you know second listings and some
+IPOs, some M&amp;A across AP pack also uh
+looking better than last year. So it's
+better uh not to the levels that we used
+to uh see before but better.
+&gt;&gt; Are the are the banks hiring again then
+or is it more on the retention side and
+and trying to boost pay packets? And
+also you're talking about the Chinese
+banks. Do we see it for the US banks as
+well here?
+&gt;&gt; Yes, Anabel. So, uh, of the Western
+banks, um, the more consistent ones, um,
+in the street hiring over the last two,
+three years, I would dare to say it's
+been Deutsche Bank and Jeff, they've
+been really rebuilding or building out
+the platforms here in Apac. All the
+other major investment banks have been a
+little bit more stable. Uh, so they
+haven't had a massive layoffs. They've
+been trimming some fat here and there,
+but it hasn't been something shocking,
+but at the same time, um, we are not
+seeing them building out their teams
+aggressively either just yet.
+&gt;&gt; Manuel, thank you so much. Manuel Bori
+there, you can check out their team's
+piece. It's on Bloomberg terminal. Uh,
+today before we head into head quietly
+into the weekend here, a look at markets
+that have been waking up. So, you have
+CSI 300, the China index actually stand
+out today 2.4% 4% to the upside. Uh, and
+we're now just I'm obsessing over the
+Sanen Pan number 3,800. We're now just
+six points uh short of that specific
+milestone. And the CSR300 Shenzhen is
+also doing quite well going into the the
+weekend here.
+&gt;&gt; Yeah. And the big uh I mean, firstly,
+you've got the the the story that's
+really playing into this is the Nvidia
+one because you've seen the likes of
+SMIC, for instance, up more than 8%
+right now. So, of course, that this this
+halt on H20 purchases in China benefit
+some of these local names, but yeah,
+going into the weekend, I mean, there's
+there's quite a lot. We can start of
+course with the Fed, we got we got J Pal
+speaking later today.
+&gt;&gt; Yeah, 10 p.m. I think B going to stay up
+for that. I'm going to be very well in
+bed. Hibboard's coming out in about 20
+minutes. An update there. At the close
+is the results of the Hen Index review.
+And of course, Ronaldo and cohort are in
+town in the Super Saudi Super Cup final
+here in the city. They get to play under
+beautiful weather and we leave you with
+a look at that beautiful weather going
+into the weekend. Happy Friday, Hong
+Kong. This is the China Show.
+[Music]

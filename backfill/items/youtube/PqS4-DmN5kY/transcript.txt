@@ -1,0 +1,793 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+Hello and welcome to a very special
+episode of the All Thoughts podcast. I'm
+Tracy Aloway and I'm Joe Weisenthal. So
+what you are about to hear has the very
+very modest title of the best ever panel
+on the world's most important market.
+That is the US Treasury market. Of
+course, this was recorded live at our
+New York event on June 26. That's right.
+We had our recent OLATs live event in
+New York. And there's so much going on
+in the Treasury markets. There's
+questions about rates. There's questions
+about foreign demand. There's questions
+about liquidity and the capacity of
+existing Treasury market infrastructure
+to handle all of the volume of debt out
+there. So, we wanted together some of
+our favorite people to actually
+understand what's going on. Yep. Who's
+going to buy all the bonds? And we did
+indeed have an absolutely amazing panel.
+So, we had Nelly Lang. She is a senior
+fellow over at the Brookings
+Institution. She is also the former
+under secretary of the Treasury for
+Domestic Finance. We had Ira Jersey, who
+you might remember from a previous
+episode. He is the chief US interest
+rate strategist over at Bloomberg
+Intelligence. And finally, we had an
+OddLot's favorite, Josh Younger. He is a
+lecturer at Columbia University, among
+many other things. So, we hope you
+enjoy. Take a listen. So, uh, is anyone
+worried about who's going to buy the
+debt?
+Who goes first for that one? Well,
+anyone? I I mean, I guess I'll start. Um
+I I'm not worried about who's going to
+buy the debt. Um you know when when we
+think about markets generally and
+especially markets for sovereign debt of
+large countries that are relatively
+liquid, there will be a buyer. Now the
+price might change and I think that's
+one of the things we have seen somewhat
+um in recent weeks when you have
+somewhat of a slowing economy in the US.
+You certainly see like two-year yields
+have actually gone down, you know,
+better part of 50 basis points over the
+near term, but the long end hasn't done
+very much at all. And I think that that
+is at least in part an indication that
+there are some people who are a little
+bit scared to buy that debt without
+having some type of premium put onto it.
+So it it'll get bought. The question is
+at what price? And and that's different,
+right? Like I'm an investment
+strategist. I'm not a policy maker,
+right? Right. And and I think that
+there's some people who kind of messed
+that up with what like our job is. When
+Nelly was at the Treasury Department,
+she had a much different, you know, view
+of the world that she had to do as
+opposed to what we do as investors.
+Well, I mean, on that note, it is true
+that we have more, I would say, price
+sensitive buyers in the market than we
+used to, right? So, we used to have a
+lot of central banks, a lot of sovereign
+wealth funds. they're still there, but
+compared to domestic buyers, um, retail,
+like that has grown a lot more. Nelly,
+does that change the way you think about
+debt versus, you know, some years ago?
+Absolutely. So, you said prices will
+adjust. There will be a buyer, but it
+used to be decades ago, we just had a
+much more stable investor base, central
+banks, foreign funds. Um, now it's like
+the non-bank, what we would call the
+non-bank financial institutions. It's
+hedge funds for various reasons, private
+funds who use treasuries for liquidity
+risk management. So the minute things
+get volatile, they'll want to sell
+treasuries to help manage their own
+positions. And so the investor base has
+changed. There will there will be buyers
+but it could change the price and change
+the way prices fluctuate. You know there
+just going to be much more volatility
+given the changing investor base. And
+that's something that Treasury who has
+to issue the debt regularly. We can we
+we when I was at Treasury probably 250
+auctions a year. they think about that
+and uh it does affect how you think
+about bills versus longer term coupons
+and all that. I guess I would different
+way of saying the same thing. U I should
+start with I I I thought I'd get away
+from disclaimers when I left the feds
+but I have to say a disclaimer which is
+this is not investment advice and I
+worked at a place that has lots of
+positions and nothing I say should
+implicate what which positions we may
+have or not have. That said, uh I uh you
+know, I think it's uh a similar way to
+ask the question is why are they buying
+the debt? Because the market's going to
+clear at a price. Uh we may or may not
+like that price, but prices used to
+fluctuate like all over time for various
+reasons. I mean during the civil war, we
+had a captive demand base because if you
+wanted to be a bank, you had to buy
+treasuries. And yet the price moved,
+right? And so for me it's are you buying
+a security to hedge a liability that is
+of similar duration to the thing you're
+buying. Are you in it for the long haul?
+And uh a classic example is like a life
+insurance company which has very
+long-term longevity indexed is the term
+of art. Right? It's like as long as you
+people are alive there's going to be
+life insurance companies that have to
+buy debt of similar length and they're
+going to be very stable. They might be
+price sensitive but probably less so.
+And at the end of the day, they have
+this liability that has to get funded.
+Banks to the same extent have these very
+long-term liabilities. Deposits are
+long-term liabilities. I think we talked
+about that on one of the episodes. So,
+they need long-term assets to hedge
+long-term liabilities because, you know,
+you all have bank accounts. You can get
+your money back whenever you want, but
+you tend not to, right? So, that's a
+long-term liability. A hedge fund is not
+in it for 10 years because that is not
+the nature of the of the business. Um,
+they are responding to price signals and
+relative value. Treasury trading is
+really just a response to price signals
+where the market is attempting to find
+the lowest cost buyer. There's this
+great book from the 19th century which
+is inspiration for Freriedman. I'm not a
+Freeman knight but like it's an
+interesting story which is called
+feeding Paris which is by Bastiat and a
+French economist and he was saying if
+one person was responsible for feeding
+Paris, everyone would die because it's
+impossible to feed a million people if
+you're making all these decisions on
+your own. So price signals get the food
+to where it has to go when it has to go
+there. And so like the miracle of of of
+the price mechanism is the fact that
+Paris wakes up every morning um and has
+food and and it's still true, right? I
+mean cities are complicated. And so the
+the in the Treasury market case, the the
+feeding Paris equivalent is basis trades
+and swap spread trades and every every
+instance of buying a security with
+levered money repo and things like that
+and hedging the risk with the derivative
+where the price difference between those
+things makes that worthwhile. And that's
+also a signal that we don't have enough
+of those liability hedgers who are in it
+for the long haul. We have to find
+somebody else. What are the data points
+we should be looking at? Because if I
+look at the 10-year yield, you know,
+it's something to do with the long-term
+trajectory of monetary policy and that's
+going to fluctuate for various reasons,
+inflation growth, etc. If we want to
+capture some of these other dynamics
+such as the change in who are the buyers
+or the just the desire to even own US
+dollar denominated debt assets, what
+should what else should we be looking
+at? Well, so so the way that I look at
+US treasuries, assuming that there's not
+real credit risk, right? And I would I
+would still I would still argue that
+there's still not credit risk more than
+a couple of basis points that's embedded
+in the the current yield of say the
+10-year Treasury. Then 10-year
+treasuries the again the way that I look
+at it it have to be somewhere around
+nominal GDP growth right so basically at
+the trajectory of what is the growth
+rate of the country in the longer run
+and that's what the market is going to
+spit out plus or minus like you said
+some kind of liquidity or either premium
+or discount. Now, I would argue that
+with treasuries, to Josh's point right
+there, is that markets that have deep
+liquid funding markets, deep liquid
+derivatives markets, in order for
+someone to hedge that risk, you tend to
+get better outcomes and lower yields
+because of that. So, you know, we did a
+study. I actually um when I was back at
+Credit Swiss, I did something actually
+for the for a World Bank study about
+what is liquidity in just about every
+single OECD government bond market in
+the in the world. And what you
+determined is bid offers were tightest
+when you had deep and liquid funding
+markets like repo and when you had
+derivative markets. So you you look at
+Italy that basically didn't have a
+derivative market that was particularly
+deep and liquid versus a France which
+did and a Spain that did actually. So so
+Spanish spreads were actually tighter
+than Italian spreads. Um, not that the
+yield levels might have been the same,
+but but the the difference is those deep
+liquid like ancillary markets around
+things matter. And that's where the US
+is unlike any other country in the world
+because we have all of those things in
+abundance that very few other markets
+have, you know, and and I think that's
+one reason why it's going to be
+difficult for people not to be involved
+with treasuries either as a liability
+management tool or as a trading in
+instrument.
+Uh, well, oh, Nelly, please. I was just
+going to add I think just to emphasize
+you know it is long-term how to think
+about yields long-term nominal GDP
+growth but there's a lot of uncertainty
+about that growth and that comes and you
+know that fluctuates and so if you're
+uncertain about inflation even if you
+have an expected path of inflation if
+it's high it might be more volatile or
+if you're uncertain about policies any
+kind of policy either you know whether
+you're going to support the dollar or
+you're going to support the US as a safe
+haven or you're going to support debt or
+try to reduce debt that adds
+uncertainty. So then treasuries you know
+like in long long run it is nominal GDP
+but in the meantime you're kind of going
+to fluctuate what these we call premiums
+or discounts you know depending on how
+much uncertainty there is about that I
+tend to think there's a fair amount of
+uncertainty about that right now. Can
+you convince Joe that there is such a
+thing as the term premium?
+Well, yes because so because if you
+define term premium as the expectations
+hypothesis
+less whatever the current yield is
+there's a residual and that is a term
+premium. Then you just try to define you
+try to use things you know about to
+explain the residual but there's always
+something left and that to me is a term
+premium empirically. I empirically I
+don't know if I'm going to convince you,
+but I think I called it on uh Bloomberg
+radio actually. I called it the uh the
+dark matter of um of the Treasury
+market, right? That term premium must
+exist. The question is, do we measure it
+properly, right? That and and that's the
+art of it as opposed to the science of
+of term premium. So, I like the easiest
+possible way to do this, which is just
+to ask people what they think short
+rates are going to be over the long run.
+Yeah. And what long-term rates are going
+to be tomorrow. And the Philly Fed does
+this every quarter. And there is a term
+the Philly Fed. Okay, same more. So they
+just ask economists to make predictions
+as to what they think this that or the
+other thing are going to do. And there's
+like inflation and GDP growth and all
+these other things. But once a year, I
+think the first quarter, so we probably
+get that either now or soon. They ask
+10ear average T bill yields and then
+they also ask about the tenure yield.
+And so you're just literally asking
+people there's a lot of bells and
+whistles you can put on these models.
+And some of the models with bells and
+whistles incorporate the survey data.
+Some people just look only at the survey
+data. Some people do just the modeling,
+but in all these cases, there's a
+residual. Um, doesn't mean it's positive
+is the really key thing. Turner term
+premium can be negative, which you can
+see why I'm unsatisfied. Yeah. Like this
+is the thing. It's dark matter. They ask
+these surveys. Yeah. Which doesn't
+really like they ask this they ask a
+random survey. Sometimes it gets
+negative. Like you can see why like I'm
+skeptical. Like I'm not totally
+satisfied by any of this. No, but
+there's a difference between the
+two-year yield and the 10-year yield. So
+therefore that difference also true. No,
+that could be the expectations of of
+race between two and 10. But you can
+write down what you think or a survey of
+what you think is between the two and 10
+and there's usually a residual and can
+be positive or negative and having it
+can often be explained correlated with
+things like inflation expectations or
+other kinds of uncertainty. I can tell
+you from experience with both dark
+matter and turn premium. Oh yeah, Josh
+was an actual astrophysicist. So both
+deeply unsatisfying. Um so wait, what's
+dark matter in the uh from the physics
+perspective? Well, we don't know what it
+is. We just know it's there. Uh there
+were attempts to explain it away in
+various like trying to hang on to the
+old way we think about the world is full
+of stuff that we can touch and see.
+Yeah. But those never worked and there's
+just too much of it. Um and then don't
+get me started on dark energy which is
+the opposite, right? And so I I I worked
+for uh for someone at Hopkins years ago
+who for his his PhD thesis he was told
+to confirm other experiments to measure
+the size and shape of the universe. And
+part of that was weighing it. And so he
+did that experiment using supernoving
+which is a different way to do this.
+Lots of different ways to do things. Got
+a negative number. Super unsatisfying.
+Negative mass density of the universe
+which you immediately you'd say like
+okay well this was a waste. Why did I
+spend two years doing this? instead he
+ran with it and it turned out it was
+super real and he got a Nobel Prize from
+that outcome which I'm not saying will
+come from term premium modless but but
+sometimes the deeply unsatisfying thing
+is the more you dig into it the more
+it's real and I think that any way you
+slice that information either literally
+asking people or trying to model what
+the market's telling you in some super
+sophisticated way you always come up
+with a residual now the question is what
+is that term premium telling you and can
+you find consistent ways to measure it
+and track it and there's positive
+negative thing is clearly the case and
+you know there's different microeconomic
+ways to explain why that should or
+should not be true. It really comes down
+to uncertainty. So and is the
+uncertainty correlated with yields. So
+if I don't know what's going to happen
+in the future to the economy, is that
+uncertainty greater or lesser when the
+rates go up or down? And that naturally
+generates these dislocations.
+[Music]
+Can you talk about the existence of
+something else which is bond vigilantes?
+So, we just we just heard Taleb talk
+about the deficit. And yet, I feel like
+the notion that there are investors
+that, you know, wake up one morning and
+say, "Oh, wait. I'm really worried about
+the deficit. Today's the day I'm going
+to, you know, sell all my bond
+exposure." That probably doesn't happen
+that often. And then secondly, Nelly, I
+would be very interested in your take on
+this, but you know, when you were at
+Treasury, did you sit in the office
+going like, "Oh, the bond vigilantes are
+going to get me. I better be disciplined
+with my issuance schedule.
+Um, was that a question for me or for
+everyone? Everyone. Okay. Well, let me
+just No, I didn't sit there with with
+that. And I was at the Fed for 30 years
+before I went to Treasury. And you do
+care a lot about bond yields. I mean,
+it's sort of fundamental to the way
+monetary policy works. It's fundamental
+to the way you issue treasuries, but you
+don't think about it on a daily basis.
+But it really influences how you view
+events like these scarce events and if
+um these like you know shocks that you
+weren't which by definition you're not
+expecting but if you've got a system
+where there's a lot of leverage and you
+have an unexpected shock people are
+going to make trades and change
+positions and that's when you worry but
+it's not an ongoing thing. So those
+kinds of to sort of prevent that you
+spend a lot of time as a policy maker
+where do we understand where the
+leverage is and how can we keep it
+manageable and make sure they can keep
+their funding. This is gets to the point
+the funding being you know fundamental
+to being able to trade treasuries. So
+it's kind of a bigger picture but it's
+not a daily thing. I don't but um but
+it's important. I actually think it's a
+really important market disciplining
+mechanism. Yeah. The level of debt
+matters, right? So the the bod
+finchelantes, like there's no group of
+people who get together at a bar and
+say, hey, we're going to go sell
+treasuries. Today's the day. Yeah.
+Exactly. Like like, hey, tomorrow, you
+know, the debt is going to be too big.
+Let's just sell treasuries. The the
+issue, I think, is manifests itself in
+multiple ways. And one is this the
+steepening of the yield curve that we've
+seen, right? in a in a normal
+environment. You'd expect that anyway if
+the Federal Reserve was expected to cut
+rates, which it certainly has. But at
+the same time, you know, you do have a
+growing fear that when you have two
+trillion, $2.5 trillion deficits every
+year and we wind up in a in a in a debt
+trap where interest rates and the
+interest on the debt ends up being so
+large that the fiscal agents in
+Washington will have to do something
+about it. but the market hasn't yet
+forced them into it. And and I think
+that that's that forcing um that forcing
+the government to actually act and do
+something is really what might have to
+be the impetus for you to actually get
+some kind of fiscal response. The
+challenge is political, right? And and
+that is because 50 plus% of our debt is
+interest of excuse me of our spending by
+the federal government is Medicare,
+Social Security, and interest on the
+debt. Well, those are hard things to
+contend with, right? It's really, really
+difficult. So, I I I believe in bond
+vigilantes, is not in a US context. And
+what I mean by that is when we talk
+about bond vigilantes, we're really
+referring to the '9s em crisis where the
+concern was I'm not going to get my
+dollar. They were dollar bonds. I'm not
+going to get these dollars back because
+the counterparty to this debt doesn't
+have them and can't get them at a
+reasonable price. And so, the bond will
+default and therefore I want to get
+ahead of this default because, you know,
+the classic bank run. and I want to get
+out before everyone else is before I'm
+stuck. In the US context, you don't have
+that problem. So, the question is who's
+going to wake up and sell and why? I'm
+saying why again. Um and and they will
+sell because they are forced to sell.
+And we've had the repo vigilantes, so to
+speak, strike in 2020 and in 2025. And
+they were forced to sell for a variety
+of reasons. One was just the increase in
+the volatility of the market in general.
+Um and then there were margin calls
+especially in 2020 where they were
+delevered. Um and the uh the the the
+question then becomes like are we
+heading for that kind of scenario? And
+the reason why the debt growth matters
+is because these repo vigilantes are not
+worried about the credit of the bonds
+they hold. They're worried no one will
+buy them from them because the banking
+system or the dealer, the bank
+affiliated dealers that are be supposed
+to be on the other side of these trades
+won't have capacity and every trade's
+going to keep ticking cheaper and
+cheaper and cheaper and they're going to
+be in a difficult like sort of
+marktomarket situation. But that's a
+very different set of considerations.
+Yeah. And it's sort of related to
+overall growth in the debt, but it's
+also related to the structure of the
+market and how it places it. Since we're
+here and we're just clarifying things
+for me that I've always wanted to, you
+know, learn about for years, over 10
+years, I've been sitting at my Bloomberg
+terminal. Every once in a while you get
+a red headline and it talks about like
+bid to cover in the tail and I can never
+tell if any of these auction statistics
+really make a difference. Like, oh,
+terrible auction and then it was a good
+auction.
+What how should I consume that
+information? How useful is that? Or for
+whom is that useful? So, so, so we
+actually started just earlier this year
+in Bloomberg Intelligence having a
+grading methodology where we actually
+grade these from D to A plus and you
+know we we we look at a variety of the
+bidding metrics in order to do that and
+and how they compare to recent history.
+So, one of the big things that you've
+seen and this goes to Josh's thing uh
+issues about structure. you go back
+about 10 12 years and you saw that
+primary dealers were the biggest buyers
+of coupon uh coupon debt. Today they're
+the smallest. So you actually in the
+recent auctions for example that we just
+had this this week uh we did a
+seven-year auction earlier today we had
+five year yesterday. Um the uh dealers
+only bought about 10% of the bonds
+whereas if you went back to 2012 2013 it
+would have been they would have bought
+40 to 60% of those auctions. So the
+bidding metrics matter and it matters
+because you can see where the primary
+demand is coming from. And we know now
+that you know dealers because of the
+changes in market structure that have
+occurred particularly since the
+institution of Basil 3 are are much
+smaller buyers and and you know
+basically end users are much larger
+buyers and and some of those are high
+frequency traders or maybe people who
+have repo books and kind of need to fill
+them by by getting some collateral. So
+all of those bidding metrics matter, but
+the tails will show you that the market
+was mispriced at the time that the
+auction closed versus what the aggregate
+demand was at that auction. And that's
+that tail is the single most important
+thing to look at followed by then some
+of the details in there about who was
+actually purchasing and then u you know
+how much they bid for. So, since we
+brought up market structure, it is true
+that the Treasury market has experienced
+a number of volatility events at this
+point, which is weird because in theory,
+it's supposed to be a pretty boring kind
+of stayed old-fashioned market and it's
+been anything but. You're telling me
+that I'm I've been boring. I'm so sorry.
+I'm so sorry. Well, not anymore. That's
+the good news. It's supposed to be
+supposed to be. Um, and we have all
+these things that have been put in place
+after every single volatility event
+like, you know, the RRP, the standing
+repo facility. We just had a change to
+the supplementary leverage ratio to help
+dealer banks hold more treasuries. Why
+do we still seem to have these V events
+happening?
+I guess my we should have them
+sometimes. So, the idea that treasury
+markets never had events. I mean, go
+back to the 90s and there were massive V
+events in like 2003. there's a massive
+mortgage extension. There was a surprise
+75 basis point hike in the night. So,
+there's always been these events. I
+think the the difference now is it's
+harder to pinpoint a fundamental source.
+Like usually back then you could say,
+"Oh, this was the GSC's this was the Fed
+hiking rates in a way that people didn't
+expect. Now there's like this whole like
+process of trying to figure out why this
+is happening and and it it tends to um
+happen very quickly and it tends to
+disrupt a lot of relationships." But
+like I I think in one sense this is
+stuff that's been happening in the past.
+It's just the market is much larger. The
+banking system's ability to provide that
+offset is is is lesser. Um and uh the
+the the the frequency with which trades
+happen just really gone up. I mean like
+the markets are very active now. But I
+think that's all kind of a symptom of
+the issue which is it's kind of like a
+just in time supply version of treasury
+markets which is you have dealers can't
+hold a lot of inventory. So they have to
+match trades really efficiently. It used
+to be if you didn't know the buyer and
+the seller, you just hold it overnight.
+Now the high frequency traders do that
+for them in a very efficient fast-paced
+way. And then the dealers are trying to
+get hedge funds and through the price
+mechanism to hold inventory on their
+behalf because basis trades are
+basically what dealers used to do. And
+that's all very fragile. And so that
+combination of things generates these
+shocks because the whole that
+arrangement can collapse very quickly.
+But you know at the end of the day like
+the the size of the market is growing
+faster. Yeah. than the dealers have
+capacity to to use. Nelly. Yeah. I just
+to provide like a policy makers
+perspective like if you just step back
+there's just been so many changes in
+technology and then the changes in the
+buyer base. We talked about the
+structural change on who buys now versus
+then. So like in 2014 there was
+something called a flash rally in the
+trade. I remember that. Remember and
+like no one understood why the Treasury
+yield went up and down like 30 basis
+points in 2 minutes and reversed and it
+was it kind of scared the public sector,
+you know, the government officials like
+how is this possible? What is the trade
+and had to do a lot with these new
+highfrequency traders? It took a lot of
+time to like dissect what happened. So
+that was even before there was a lot of
+treasury debt. Now we have more treasury
+debt and there's just you know the
+volume. But I guess I would also
+separate the I would make a distinction
+between volatility events and then
+market illiquidity events just because
+if the mark if news is volatile, there's
+new changes in the economy, you would
+expect
+Treasury yields and prices to be
+volatile. They should. They're supposed
+to reflect that. And I think a lot of
+what's been happening recently. But the
+concerns are when you can't transact
+easily and quickly because you've pulled
+in more dealers pulled in more than they
+might normally would just because of the
+higher volatility. So you you should
+always get a little well you should
+always get a little less liquidity when
+things get volatile you know just
+because risk is higher but it's when
+they sort of stop making markets or stop
+posting or something then and you can't
+actually transact those are the things
+that the policy makers really care about
+it it there's there's this balancing
+thing where we want treasure marks to be
+deep and liquid. Deep liquid means it's
+inexpensive to transact which means the
+dealers don't make much money per trade.
+So the old joke like we're making losses
+but we'll make up for it in volume kind
+of thing and like hopefully not that but
+the the uh the respon if you want low
+transaction costs the the way you get
+that and still have functioning
+businesses leverage and this this has
+been the case for you know 75 years
+since the Treasury Fed that this was
+always the core issue and so when you
+leverage constrain banks and even if the
+bank isn't leverage constrained when the
+desk is leverage constrained when
+leverage is a zero sum game within the
+institution which is kind of what these
+leverage ratios do everyone's fighting
+over the same resource and that process
+introduces friction and at the end of
+the day I think these V events are
+mostly just time slippage like if you
+have to think about things for too long
+the market can run away from you so you
+know in 2020 if you had to spend two
+days figuring out who gets incremental
+balance sheet a lot can happen in two
+days in March of 2020 and and and these
+very human experiences are kind of what
+drive uh the thing and we talked about
+this on on the show that we did back in
+uh in late April about the April event
+and that time slippage is exactly a big
+thing part of what happened when when
+right before you fell asleep
+on on April 9th, right? Um it's because
+like look, you you can't call the New
+York dealer desk to get more dealer
+balance sheet at 11:30 at night New York
+time um when you're trading in Hong
+Kong, right? It's it's just hard to do
+that. So So you get these VA events that
+that are create illquid markets but only
+at certain points in time, right? Right.
+And and then that always gets arbed
+away. You know, people are are, you
+know, at the end of the day, we're we're
+definitely not price takers, right?
+There's a lot of people who are um you
+know, basically want the price of their
+of the asset to reflect the risk that
+they're taking. And so, you're going to
+get these instantaneous shifts in
+expectations. When you get a news event,
+when you get a headline from, you know,
+Donald Trump and you think that maybe
+the dollar is not going to be the
+reserve currency anymore, that's going
+to affect dollar assets regardless of
+where they are in the world.
+[Music]
+This has been another episode of the All
+Thoughts Podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway. And I'm
+Jill Weisenthal. You can follow me at
+the stalwart. Follow our producers,
+Carmen Rodriguez, at Carmen Arman, dash
+Bennett at D-Bot, and Kellbrooks at
+Kalebrooks. For more OddLots content, go
+to bloomberg.com/odlots,
+where we have a daily newsletter and all
+of our episodes. And you can chat about
+these topics 24/7 in our Discord,
+discord.gg/odlots.
+And if you enjoy OddLots, if you like it
+when we do these live recordings, then
+please leave us a positive review on
+your favorite podcast platform. Thanks
+for listening.
+[Music]
+Hey. Hey. Hey.
+[Music]

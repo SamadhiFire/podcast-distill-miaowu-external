@@ -1,0 +1,2164 @@
+Kind: captions
+Language: en
+Hello acquired listeners. We have a very
+special treat for you today. We have an
+episode here with Brett Taylor and Clay
+Bavor. David, this is an awesome
+conversation.
+&gt;&gt; Oh, we've gotten to know Brett and Clay
+a bit over the years and especially in
+doing research for our Google episode.
+They were both incredibly helpful
+because they both started their storied
+careers as APMs, associate product
+managers at Google back in the early
+days. helped with part one, they're
+helping with part two, they're now
+co-founders of Sierra together, but
+really, I mean, they both have had like
+among the most incredible careers in
+tech in the last 20 years.
+&gt;&gt; Yes, Brett's done various things. Clay
+has done one thing or many things inside
+Google, but Clay was at Google for over
+18 years, started in the APM program,
+worked on everything from ads at the
+beginning,
+&gt;&gt; led product for Gmail, Drive, Docs, all
+the apps, everything that became
+Workspace. eventually ran Google Labs,
+did a bunch in their hardware, VR, AR,
+futurelooking screens. Brett, his name
+pops up in like every episode research.
+He was at one point the CTO of Facebook.
+This is after his Google days where he
+of course co-founded Google Maps. He was
+the co-founder of Friend Feed, which I
+loved Friended was a big user before
+that was bought by Facebook. started
+Quip, got acquired by Salesforce,
+&gt;&gt; and then became the co-CEO of of
+Salesforce, still actively writes code,
+by the way, referenced on this episode.
+&gt;&gt; We have a fun little bit at the end
+where we're like, okay, which of you
+created more market cap in your career?
+You know, Brett through your incredible
+journey or Clay just by cranking on
+Google.
+&gt;&gt; And Brett is the current chairman of the
+board at OpenAI and I think we didn't
+talk about on this episode, but is also
+crazy was the chairman of the board at
+Twitter in its final moments as a public
+company. So two legendary figures to sit
+down and talk with this episode. We talk
+about everything AI. There's the great
+conversation of is it AI a giant step
+forward change in the world or is it
+just better software and what are all
+the second order effects of all the
+change that's going on with AI. We talk
+about Sierra the company that they are
+currently building together and a lot of
+little tech history tidbits especially
+as it relates to our Google episode 2.
+So, please enjoy our conversation with
+Brett Taylor and Clay Bavore. Great to
+have you guys here.
+&gt;&gt; Thanks for having us.
+&gt;&gt; This feels like a special moment for us
+here at Acquired. You both have helped
+so much with past episodes. You have
+sent us nice little notes with
+corrections and tidbits and here's how
+we think about it. So, thank you both
+for that.
+&gt;&gt; Oh, it's so fun to be a part of it. And
+I I thought part one just nailed it in
+in particular in the later parts of it,
+just how Google really got distribution
+right. Toolbar and Google pack and
+Google Earth and so on. So I loved
+listening to it.
+&gt;&gt; Oh man, the Google Earth story of the
+spyware of toolbar included in the
+install package.
+&gt;&gt; Careful, David, with that spyware word.
+&gt;&gt; It's a bundle. It's a bundle, David.
+&gt;&gt; Yeah. Yeah. Yeah.
+That's a word that has disappeared from
+the lexicon. I've been thinking about
+that actually in the age of AI because
+if you look at the early internet, you
+had archaic terms like information
+superighway and remember web masters.
+&gt;&gt; Oh yeah,
+&gt;&gt; those were like the people who maintain
+websites.
+&gt;&gt; That was my first job title.
+&gt;&gt; And I wonder now with AI, we have all
+these terms AI engineer, AI architect,
+all these things. You wonder what's
+going to stick and what's going to feel
+like information superighway. So anyway,
+I think a lot about that.
+&gt;&gt; Do you have any beliefs? It seems like
+we've already seen prompt engineer kind
+of enter and exit the lexicon.
+&gt;&gt; One of my favorite things to do is go to
+the internet archives way back machine
+and look at a company's website and when
+they transition from ML to AI and then
+AI to Gen AI and then from Gen AI to
+agents and agentic and so there is a lot
+of jargon in the space right now and we
+try to keep it simple. I don't know what
+the information superhighway equivalent
+is yet, but I'm sure it's there.
+&gt;&gt; My hypothesis is actually the word agent
+will stick. I think I like the nouns of
+these technologies. So, web has sites,
+mobile has apps, AI has agents, and I
+think it's going to stick for that
+reason. But a little bit like app, the
+word app in like the VC community and
+like, you know, 2013 was a hot word. Now
+it's just a noun that describes like a
+packaging for a piece of technology. So
+I think agent will go that way. It'll
+feel extremely novel and and shiny and
+complex now and then it will start to be
+oh this is just the digital autonomous
+thing like we have a billion of in our
+lives. So I think the word agent will
+stick but we can talk in 10 years and
+we'll see if I'm right.
+&gt;&gt; Have you evolved the lexicon of how you
+describe Sierra? I mean, you haven't had
+that long of a life as a company, but it
+seems like there's already been a
+tremendous amount of change in AI since
+you started.
+&gt;&gt; In a nutshell, what what we help
+companies do is build their own
+customerf facing AI agents for all parts
+of their customer experience. And we
+think in the future, your AI agent will
+be more important than your website,
+more important than your app. It'll be
+the main way you interact with your
+customers. And in terms of how we've
+talked about it outwardly, actually when
+we launched the company just over 15 or
+16 months ago in 2024, we were worried
+when we said in the launch blog post,
+every company needs an agent that people
+wouldn't know what we're talking about.
+And so fast forward, you know, just 12
+15 months, my goodness, agents are
+everywhere. I think people understand
+it.
+&gt;&gt; No, it's like ah the word agent again,
+you know, but it was really cool 15
+months ago. So,
+&gt;&gt; I was speaking with the CIO of one very
+large retailer and he stopped me about
+15 minutes in and said, "Clay, can I
+just thank you for not saying the word
+agentic in the first 15 minutes here?"
+So, just trying to keep it
+straightforward.
+&gt;&gt; I can't believe that Sierra is only
+what, like less than 18 months old.
+&gt;&gt; We started the company a little before
+that, but we like told the world what we
+were doing less than 18 months ago. And
+it's insane. The way I think about these
+technology trends is they layer on top
+of each other and sort of compound. So,
+you know, to put a PC on every desktop,
+which was, I believe, Microsoft's
+mission in the early days,
+&gt;&gt; on every desktop running Microsoft
+software,
+&gt;&gt; of course,
+&gt;&gt; that was stripped out once the DOJ
+started snipping around.
+&gt;&gt; Yeah. You had to actually make a supply
+chain of of PCs. You had to lower the
+cost of the chips. You had to and you
+know, we got to basically two billion
+PCs is my understanding. We didn't
+actually get it to everyone in the
+world. Then you developed the internet
+and you know it got to ride on the
+coattails of the PC revolution. So you
+know at least in most workplaces there
+were PCs and you were able to connect it
+in universities and workplaces and then
+eventually people's homes. And then when
+the smartphone came out you had the
+internet already. So you know if you
+remember Steve Jobs pitch it was a
+browser with a iPod with I can't
+remember the whole thing. It was a great
+a great keynote pitch, but he could ride
+on the coattails of all of that
+infrastructure buildout, the networking,
+the existing websites. And now with AI,
+where we only had two billion PCs, we
+have more smartphones than people in the
+world already connected by the internet.
+So when you make something like chat
+GPT, you can go from to zero to 100
+million users faster than any technology
+in history because of the other
+technologies though. like you couldn't
+have gotten there if not for the build
+out of the internet, if not for the
+smartphone. And so for a company like
+Sierra, we're growing so quickly because
+the plumbing is already there. People
+already have a phone number that's
+getting, you know, 100 million phone
+calls a year and it costs a lot of money
+and people don't like it very much and
+the technology is available. So I don't
+mean you can just turn it on. Obviously,
+there's a little bit more work to it
+than that, but we're just riding on the
+coattails of all these amazing
+technology investments. So, these new
+technologies can be adopted faster than
+any of the previous ones in history. And
+I love those graphs of like electricity,
+internet, smartphones, and they just all
+so get so steep. They lines just look
+vertical, you know, by the end of the
+graph. And I we're just living in that
+world, which is fun and insane.
+&gt;&gt; What do you think the natural limit of
+that is? Will we see something that gets
+a billion users in a day five years from
+now?
+&gt;&gt; Yeah, we're already like so compressed.
+It's like,
+&gt;&gt; well, one stat I look at all the time is
+the first website came online in and
+around 1991. It wasn't until 2002 that
+you had about 10% of the world using the
+web in a given week.
+&gt;&gt; It was illegal in 1991 to use it for
+commercial activity.
+&gt;&gt; No, there you go.
+&gt;&gt; Really?
+&gt;&gt; Yeah. 1993 was the act.
+&gt;&gt; That's that's why is a thing like
+commercial. God, I can't believe I
+didn't know that. Now everyone knows
+that I didn't know it, too. I'm on a
+podcast.
+&gt;&gt; It's okay. It's okay,
+&gt;&gt; Brett. And in comparison, Chat GBT took,
+you know, 25 months or something to go
+from not existing to something like 10%
+of the world using it in a given week.
+And so, a billion users in a day, Ben,
+I'm not sure about that. But I do think
+the compounding kind of scurves layering
+one on top of another just drives
+distribution. Also, awareness, right?
+the ability for someone to become aware
+of a new thing has shortened from, you
+know, potentially years to months to
+minutes with just ubiquitous social
+media and all of the distribution
+channels there are.
+&gt;&gt; So, okay, what's the current record? If
+we're going to say no, it could never
+possibly be a billion users in a day. I
+think I saw
+Lovable 8 months in. I'm sorry, this was
+a revenue milestone. It was 100 million
+in revenue. But what's the fastest
+company you've ever seen to a 100
+million users? It's got to be chat GPT,
+right? I mean, I I don't know this, but
+it's has to be. And when we go back to,
+you know, talking about Google, which
+started in 1998, and, you know, sort of
+one of the darlings of the dot era, one
+of the things I think a lot about is if
+I mention the word dot phrase, that
+word.com phrase to you, most people
+mentally associate with pets.com and,
+you know, all the the companies that
+failed.
+&gt;&gt; Web van. Web van two in there.
+&gt;&gt; Web van. Yeah, exactly. And almost to a
+tea, if you say.com, people come back
+with the failures. If you look at the
+S&amp;P 500 now and you look at the amount
+of value from companies created in that,
+one could argue that actually almost all
+of the exuberance and hype was totally
+warranted and it in fact did change
+commerce in fundamental ways. It did
+change the financial system in
+fundamental ways. It changed everything.
+My guess is we're sort of in a similar
+era. You have a lot of snake oil, the
+jokes we were just saying about people,
+god say the word agentic again. Oh my
+god. You know, but it's coupled with
+chat GPT growing faster than any
+consumer product in history. You look at
+the revenue growth of companies like
+Sierra, you mentioned lovable, all these
+other B2B software companies. I think
+there's very real value being created
+here. And fundamentally software is not
+just adding productivity, you know, to
+workplaces and to individuals, but
+actually completing work. And that's
+where the word agent comes from, agency
+and reasoning. And I think we're going
+to see this really significant uptick in
+productivity. And that's going to be
+coupled with B2B software companies who
+are selling this, you know, sharing some
+of the the upside of that productivity
+enhancement. And for consumers, I
+self-identify as a computer programmer.
+like the the thing I love to do the
+most. And I'm like, man, that's sort of
+like saying I'm do you remember like the
+calculators, the people who like
+calculated things before we had
+calculators? I'm like, am I that?
+&gt;&gt; And they were computers, too. They were
+also called computers, people who
+comput.
+&gt;&gt; Yeah. So, yeah, my the thing I
+selfidentify with is like being obiated
+by this technology. So, it's like the
+reason why I think these tools are being
+embraced so quickly is they truly are
+like an Iron Man suit for all of us as
+individuals. So I think we're going to
+look back at this era and we're going to
+joke around about whatever turns into
+information superighway like the terms
+that get antiquated but I think we'll
+also look back and say this was an
+inflection point in society and
+technology and I think it will be as
+significant as the advent of the
+internet.
+&gt;&gt; Yeah it's wild. I mean thinking about
+the acceleration of adoption of these
+successive waves
+&gt;&gt; which by the way I looked it up chat GPT
+was 5 days to a million users and two
+months to 100 million users.
+&gt;&gt; That sounds right. I don't think we're
+quite there yet. I mean, you guys would
+know better than us if we are or aren't
+and what it's going to look like. But
+once we figure out distribution of like
+the equivalent of an application layer
+on top of AI, you know, chatgbt, etc.,
+all the friction to adoption and
+distribution is just gone. Even in the
+com website, you could argue there's no
+friction to type in a website or, you
+know, go to a service. But the human has
+to like become aware, have interest, you
+know, the whole like, you know, sales
+pro interest, awareness, decision,
+action, that's just gone.
+&gt;&gt; Why, David? No, no, no. You still have
+to learn that a thing exists.
+&gt;&gt; No, no, no. I mean, say chat GPT, if
+that becomes the front door adoption for
+new services and businesses built
+integrated into it, well, GPT is just
+going to figure it out and serve it to
+you. We saw this with Studio Gibbly,
+right?
+&gt;&gt; Well, actually, I think it's going to
+really upend the internet in pretty
+meaningful ways. So you talked about the
+awareness, adoption etc. Like if you
+look at the market on the internet now
+you have demand generation and discovery
+which is right now dominated by social
+media and the ad networks affiliated
+with social media. Then you have demand
+fulfillment which you know used to be
+search and adwords and and all of this
+and that used to be still is obviously
+and then you have the actual
+transactions themselves like the
+commerce systems and other things like
+that. And you know, right now you could
+say AI is impacting all of those
+products in very meaningful ways, but as
+you alluded to, David, let's just say
+that personal agents become a thing. How
+does that impact that entire funnel?
+Because when you're generating demand,
+that probably will still be relevant for
+individuals, but are you going to be
+generating demand for people? Are you
+going to be generating demand for their
+agents? What does that even mean? And if
+it's other agents making the decision of
+whether to interact or not, you know,
+that whole demand genen cycle like that
+takes time with humans.
+&gt;&gt; Oh, without question. And you all have
+discussed pricing strategy in a bunch of
+your different shows, which is really
+interesting. And you know, there's a
+classic like have a really expensive
+product and one slightly less expensive
+below that and how people react to it
+psychologically and all these other
+things. And if it's an agent, you know,
+what happens there? Will these things
+sort of trend towards the mathematically
+optimal? Because you think about these
+platforms, you know, brands don't want
+to be disintermediated and they don't
+want to be commoditized. And then the
+platform providers, they don't
+explicitly say it, but they're like sort
+of want to disintermediate and
+commoditize everything, you know, and
+and it's not like a formal strategy, but
+that's sort of the natural tension of
+these platforms with personal agents and
+and agents like Sierra builds for
+companies that represent their customer
+experience. I think the second and third
+order effects are very hard to predict
+here. And you know, what does it do for
+the demand generation, demand
+fulfillment ad market? What does it do
+for these platforms? Which companies
+will have their own agents and have
+enough brand equity to have their own
+agents and which companies will be
+dependent on it's a little bit like
+saying which retailers depend on say
+Instagram ads versus firstparty
+discovery. So I think we're at the cusp
+of something that will in 5 years we
+will have a very different market on on
+the internet. And I think even for
+people in the middle of it like Clay and
+me it's very hard to predict. I don't
+think many of us predicted many of the
+second or third order effects of the
+mobile mobile app store or social
+networks correctly and I think this
+one's even harder to predict but I think
+it's going to really upend I think the
+economy of the internet in significant
+ways.
+&gt;&gt; Brett and I like betting and one of the
+bets we have is the year in which
+greater than 50% of conversations with
+agents built on Sierra are with people's
+personal agents. So agents talking to
+agents.
+&gt;&gt; Okay. Yeah. So what's the bet? What's
+the overall
+&gt;&gt; Oh, we can't reveal No, we can't reveal
+the number. can't reveal the can't
+reveal the date secret
+&gt;&gt; because you think you'd impact the
+outcome or
+&gt;&gt; Clay has so far won all three bets that
+we've had.
+&gt;&gt; Really? What are some of the other ones?
+&gt;&gt; The theme is Clay is more optimistic
+than I am.
+&gt;&gt; Optimism always wins.
+&gt;&gt; One of the first was we had a bet as to
+what percent of kind of all incoming
+customer issues one of our agents could
+resolve. And Brett was maybe the
+pessimist and realist favorably
+charitably. And I bet we'd exceed 80% by
+the end of the year and we did. And it
+it just exceeded every expectation where
+&gt;&gt; I was at 50 just for reference and Clay
+like not only won the bet but like won
+handily
+&gt;&gt; by a significant margin.
+&gt;&gt; And this is across all your customers
+whenever a new issue is originated with
+one of their customer service requests.
+How often the Sierra agent could handle
+it.
+&gt;&gt; That's right. And looking at a
+particular customer and these agents,
+it's so neat. They're not only answering
+questions, but doing things like if you
+are moving from car A to car B and have
+a SiriusXM subscription. Harmony, which
+is SiriusXM's agent, can actually send a
+satellite signal from space to refresh
+the encryption keys on your car. ADT's
+agent that we built with and for them.
+if your alarm panel starts beeping, you
+don't know why, it can troubleshoot,
+could figure out which of the 52
+different panels you have, and then mail
+you a battery itself, if that's the
+issue.
+&gt;&gt; By the way, just think about that for a
+second. You're talking to an AI that's
+talking to a satellite that's sending
+something to your car, like no people
+involved. Yeah, you're probably like,
+"Yeah, of course it does that." But like
+this is like science fiction 3 years
+ago. Now you're like, "Yeah, of course
+the AI is talking to a satellite. No big
+deal." You know,
+&gt;&gt; I remember one of our earlier customers,
+Olai. They sell great flip-flops, by the
+way, if you're in the market. And on the
+day that we successfully, one of our
+agents successfully processed a
+warranty, looking at photos, inspecting
+the photos to make sure it was the
+product in question, and then shipped
+out a new pair of replacement shoes all
+on its own. There was cheering in the
+office. And it's just neat these these
+agents interacting with the physical
+world.
+&gt;&gt; By the way, this is a true story. So,
+I'm in an interview with a candidate and
+the whole office is like, "Yeah." And I
+come in and they're like, "We we
+exchanged some flipflops. Woo." And so,
+uh, it was a moment. It you had to be
+there. But it was a very exciting moment
+for us. So,
+&gt;&gt; which must be an amazing way to
+demonstrate culture to a candidate, by
+the way, that they come out of an
+interview, they're like, "What the hell?
+What's going on?"
+&gt;&gt; Yeah. Yeah. No, it's fun. I mean, it was
+just a hilarious moment because it was
+so like explaining it felt so trivial.
+Let me explain why flip-flops are a big
+deal to us, but trust me, this is a big
+deal. So,
+&gt;&gt; that's like the uh Were you there? It
+might have been a little before your
+time, but when Facebook was negotiating
+with Microsoft for the ad deal, and they
+were having the hackathon to launch
+international that same night, and it
+was all orchestrated all together, and
+there's like house music playing and all
+the, you know, middle-aged Microsoft
+execs like, "What the hell is happening
+here?"
+The hackathons at Facebook were epic.
+And yeah, there's always someone there's
+usually Mark Sley de DJing and yeah, it
+was great. It was fun.
+&gt;&gt; Some days I wake up and I'm on one side
+of this debate and some days I wake up
+on the other side of this debate. The
+first way is AI is such a
+transformational technology. It is
+different than anything that's ever come
+before it. Let's just look at labor
+productivity. It makes people so much
+more productive that you need way fewer
+people to make things. It's going to put
+all these people out of work. Every
+societal model that we've had in the
+past is now broken because this is such
+a giant step change for everything. The
+other days I wake up and I'm like it's
+just software. Mobile apps were great
+software. SAS was great software. Cloud
+was an amazing way to run your software.
+Software gets better with Moors law and
+more powerful more sophisticated. And
+this is just more powerful software. How
+do you guys think about that? The first
+principles way I think about it is what
+are you making plentiful that now that
+was scarce before and how does that
+impact society? So I think about taking
+energy and making it scarce to plentiful
+to the point now where you walk into a
+room and you flip on a light switch and
+you don't think anything about it. But
+for hundreds of years that was a scarce
+resource
+&gt;&gt; and it is now again with data centers.
+&gt;&gt; Yeah, that's right. Yeah, we're doing
+our best.
+&gt;&gt; Where are the tokamock fusion reactors?
+&gt;&gt; I think in the western world similarly,
+you know, food access is food is largely
+plentiful. Food insecurity while present
+isn't a dominant part of society as it
+once was. And and now we're going to a
+world where intelligence has gone from
+something scarce to something plentiful.
+I think it's very hard to imagine. Prior
+to modern farming and food distribution,
+most people spent a lot of their time
+thinking about food. you know, that was
+like a big part of just living and now
+it's something that is for a lot of
+people not a central part of their
+day-to-day like plan is like, you know,
+acquiring food. First, I I think we have
+gone through transitions as significant
+of this in the past as society, but I
+think it's very significant. I I don't
+think it's just software. That's my my
+personal opinion. Although I do waver
+like you, Ben, some days I'm on one side
+of of this on the other. I think it's
+pretty significant because I know I
+personally and probably everyone on this
+podcast like identifies to some degree
+their identity with their intelligence,
+right? You know, it's a big part of why
+people listen to your podcast. It's how
+you got into university and got a job
+and got all these other things. You say,
+gosh, if this is now plentiful, who am
+I? What do I contribute? I and I brought
+up the kind of like personal thing. It's
+really interesting. There's this meta
+thing in in the Silicon Valley right
+now, which is if you tell what what jobs
+are most likely to be automated with the
+current generation of technology, you
+would probably put software engineering
+right at the top. The people building
+this technology or building the
+technology that is disrupting their own
+profession. And that's I'm not sure
+unprecedented, but certainly unusual
+with technology disruption. So I think
+this idea of like identity and
+intelligence and the technology
+impacting our own perception of
+self-worth is happening in a very
+personal way for a lot of the people
+working on it. I am very confident that
+on the other side of this just like
+we've gone through with the industrial
+revolution and the agricultural
+revolution all these other things we'll
+come out the other side and just end up
+like higher leverage species. Like we'll
+spend our time on different things than
+we did before. But I believe that this
+will make us just like happier, more
+productive, have more plentiful. Like we
+will just have access to more things. I
+just think about like really simple
+things like access to mental health
+care, access to education, access to
+medical advice, access to legal advice.
+We're essentially taking expertise and
+making it a commodity. And I think that
+will is generally democratizing. I think
+many of the things I mentioned, if you
+have wealth, you have a lot of access to
+and if you don't, you don't. What a cool
+thing that we've made this like
+universally accessible. But just like
+you had the lites and the industrial
+revolution, you're going to have this
+very this period of transition where
+it's saying like how I've come to
+identify my own worth either as a a
+person or as an employee has been
+disrupted. That's very uncomfortable.
+And that transition isn't always easy.
+If you look at globalization, it lowered
+the cost of a television set, but it was
+hard if your the factory in your town
+was shut down, right? And so if you look
+at things like GDP numbers or
+productivity numbers, it it obscures the
+individual impact that is not always fun
+or easy or good. And then similarly, it
+could be great in 10 years but really
+hard over the next 2 years, you know,
+and I think probably all of those things
+are true.
+&gt;&gt; It's Silicon Valley is like right in the
+middle of it.
+&gt;&gt; Yeah, it's you're just in the middle of
+it. My view is it is as transformational
+as the the former of what you said, Ben.
+Like I think it is truly
+transformational. I also think the
+transition will be awkward and probably
+slower than people think. In the last
+comment because it was a long too long
+of an answer, but I don't think all
+parts of the economy can absorb
+intelligence equally. So let's just say
+we develop fairly generalized super
+intelligence. I always use the analogy
+like you can invent a lot of drugs, but
+if clinical trials still take a long
+time, you're not necessarily going to
+get new therapies rapidly. You have
+regulation, you have cultural
+resistance, you have all these other
+things. The technology is
+transformational. I think probably it
+will impact society on a more measured
+pace than I think a lot of the folks in
+the AGI community think just because of
+the natural rate limiters of society
+around. It's not like intelligence is
+the only input to to productivity
+growth. But I really do think it's
+transformational and I think it's both
+in a great way and a kind of
+uncomfortable way. I think it's
+transformational.
+&gt;&gt; Specifically for you guys, I'm so
+curious. What is the state of human
+capital at Sierra? You're, you know, one
+of the leading AI companies. You could
+probably recruit anybody you want. I
+mean, given who you guys are, but at the
+same time, you were just saying, Brett,
+AI can probably do a lot of what people
+at Silicon Valley companies used to do.
+Like, what what are you guys doing?
+You're living it dayto-day.
+&gt;&gt; Well, first of all, everything we do as
+a company is going to be the, you know,
+direct or at least indirect result of
+talented, smart, amazing people who are
+motivated to accomplish an important
+mission doing great work. And so since
+starting the company in March of 23,
+we've grown immensely. We're the leaders
+in the space and the demand for what
+we've built has been overwhelming and we
+are just growing the company in terms of
+people and geographies and industries as
+quickly as we possibly can. And on top
+of that though, it's like we look for
+every point of leverage we can find with
+AI. And so we aggressively use cursor in
+our engineering teams. And I don't know
+what the percentage today of lines of
+code written by cursor is, but it's
+pretty darn high and getting higher by
+by the day. To Brett's previous point,
+it is today this immense force
+multiplier for talented people who one
+of our most senior engineers, actually
+the first person who joined the company
+after Brett and me, basically sent a
+coding agent over the weekend to just
+come up with a dozen PRs for things that
+he wanted to fix. And it came back and
+half of them were great, a quarter of
+them were total garbage and a quarter
+needed some work. But like it was, you
+know, in a way him working the entire
+weekend with, you know, guidance from
+him.
+&gt;&gt; Let me double click on the cursor thing
+though for a second though cuz Clay and
+I talk a lot about this. So we always
+like to say the way we think about an AI
+first company is we're building a
+machine to produce happy customers. So
+that's the way we think about it. And I
+think that's important because it's like
+if something comes off the assembly line
+of machine that's like malformed, you
+don't just fix that thing. You say what
+part of the machine broke to produce the
+malformed item. And so just as it
+relates to for example software
+engineering we have this philosophy like
+when cursor which is the most popular
+co-pilot for software engineers to like
+write code and now having some sort of
+more agentic flavors of it if it
+produces incorrect code our philosophy
+is don't fix the code fix the context
+that cursor had that produced the bad
+code and I think that's a big difference
+when you're trying to make like a
+company driven by AI and just use AI
+because you So essentially, if you just
+fix the code, you're not adding
+leverage. If you go back and say, what
+context did this coding AI not have that
+had it had it, it would have produced
+the correct code. So I don't want to
+pretend we're perfect here, but that's
+the way we think about it. I really like
+thinking of our business as a machine.
+This is a clayism. He said this once
+like right when we're starting the
+company. He said, "We're building a
+machine to produce happy customers." And
+like nerds snipe me. And I'm like, "Oh,
+we are 100% building a machine."
+Employees roll their eyes, but it's like
+fix the machine. fix the machine. Don't
+just fix like the output of the machine.
+And I think with AI, it actually creates
+a very actionable framework for how to
+bring AI into the company. But somewhat
+ironically, like as Clay said, we are
+hiring a lot of people. Notably to me,
+all the AGI labs are hiring a lot of
+people. So there's some I don't know,
+the elephant in the room is it's not
+quite
+&gt;&gt; You guys are in the center of this. I
+mean Brett, you're the board chair at
+OpenAI. Like what do you guys do as
+Sierra? You're incredibly wellunded, you
+know, etc., etc., But like you can't
+compete with a $300 million comp package
+for some like what is going on with
+hiring?
+&gt;&gt; I assume you don't need those people.
+&gt;&gt; Yeah. So we're an applied AI company.
+Let me just give you my view of the
+market. This is something you all could
+debate. So I think there's basically
+kind of three big categories of AI
+software companies. First are the
+foundation and frontier model companies.
+These are the folks that are somewhat
+infamously or famously competing for
+these scarce resource of these great
+researchers. Many of them like OpenAI
+are missiondriven and trying to create
+artificial general intelligence. Some of
+them are more commercially minded and
+essentially building these models which
+they then license or lease out to to
+companies like ours. Then there's a
+category of people who make tools on top
+of it. So the proverbial pickaxes in the
+gold rush, you need data labeling
+services and you need a data warehouse
+on which you can you know or you need a
+retrieval augmented generation like a
+vector database to support retrieval
+augmented generation and all these
+things like just I'll say all these
+tools that one uses when you're you're
+building an AI platform and then there's
+companies like Sierra where we make AI
+agents for customer service customer
+experience Harvey who makes AI agents
+for the legal profession I think of
+companies like writer do it for
+marketing you know so there's just all
+these sort of I'll say vertical AI
+applications and we're downstream of a
+lot of that if we're doing our job you
+know we're taking the best of these
+models and composing them to make these
+amazing experiences just like if you
+were VCs and someone a software as a
+service company came up to you and said
+step one is we're going to build our own
+data centers you'd look at them very
+skeptically you'd be like really like
+why not just rent a server from Amazon
+web server or Azure. I think the same is
+true of applied AI companies. It may not
+have been true a year and a half ago,
+two years ago where I think everyone
+wanted to like pretend they were cool.
+Like,
+&gt;&gt; oh shoot, I mean, we had Clem from
+Hugging Face on and he was like, I
+deeply believe that every applied AI
+company needs their own foundational
+model, needs to build it themselves.
+&gt;&gt; I could not disagree more strongly with
+a single sentence.
+&gt;&gt; That was the trend in 2023. Like, you
+weren't cool if you didn't have your own
+foundation model and adept and character
+and inflection. And it's like those all
+ended differently.
+&gt;&gt; It turns out that unless you're a
+pharmaceutical company and you get
+pharmaceutical companies get like you
+know protection from patents for an
+asset like that you know has value for a
+long period of time. I mean I've heard
+from multiple investors that foundation
+models are the fastest deteriorating
+asset of all time. And so if step one of
+your business is to burn through tens of
+millions or hundreds of millions of
+dollars of capital before you find
+product market fit and that asset has
+value for like a a week, I'm not sure
+it's like a great business model. And so
+yeah, I could not
+&gt;&gt; It's a very very expensive carton of
+milk.
+&gt;&gt; Let's use the hypothetical example of
+training a frontier class model today.
+What do you think the usable life of
+that is? like you got to amortize a lot
+of token generation in a pretty short
+period of time to make that worth it.
+&gt;&gt; It's complicated. There's different ways
+of looking at it. So, I'll start with
+like there isn't one it depends what
+type of model you're building. You know,
+Deepseek somewhat famously in their
+paper talked about reducing the costs of
+building these models. But I think
+there's a difference between foundation
+models and frontier models. Frontier are
+really the best of the best. And this
+is, you know, what labs like OpenAI
+aspire to always have. And when you have
+the best model, you attract different
+customer base. It's sort of, you know,
+always been Apple's strategy with their
+devices and things like that. You know,
+it's there's a difference. It's if you
+think of these things as commodity,
+you'll take a different strategy. You
+say our goal is to have the most
+intelligent model. There are downstream
+benefits of that. You know, beyond the
+cost of those individual models. I
+actually think there's not a
+one-sizefits model for most tasks. Now
+there's a really interesting trend in
+model building called distillation where
+you can take a very high parameter count
+model and essentially make a smaller
+parameter count model that's call it 80%
+as good and I'm just making up that
+number it really varies
+&gt;&gt; and deepseeek did this right based on
+open source
+&gt;&gt; well there's two interesting trends and
+and probably the researchers will sort
+of wse at my simplification here you
+have distillation on one hand which can
+take a very expensive model and make
+something that's almost as good but much
+cheaper for inference and Then you have
+this post-training process which is
+reinforcement learning on chains of
+thought which is the basis of things
+like 03 and 04 and these really advanced
+models. The two together has just you
+just have so many variables of like cost
+performance quality reasoning all these
+other things. And actually the reason I
+think it's exciting is if you look at
+like the database space right now
+there's not one database. If you want to
+do largecale data analytics you'll
+choose one thing. If you want to do a
+transactional data store you'll do
+another. I think we're moving to that
+area of models and like when Clay and I
+talk about how to produce like a
+delightful low latency phone
+conversation, you care a lot about
+latency. That's one metric of quality
+that isn't intelligence, but it's
+important. And put another way, if you
+had to think for 30 seconds before
+responding on a phone call, you know,
+that might not be a viable. And then
+similarly, you know, if let's say you're
+a company who has a relatively
+inexpensive offshore contact center and
+you need your cost of your AI to be
+lower than that, well cost matters, too.
+If it cost, you know, $2,000 per phone
+call, it might not actually be viable as
+a business. So, I say all that because
+I'm not sure there's one answer to your
+question, Ben, because it really depends
+on like who you're selling it to and
+what their goals are. But I think that's
+good because sometimes you want
+something for drug discovery and you
+want the most intelligent model.
+Sometimes you want something for a low
+latency transactional phone call and you
+care about latency and cost more. It's
+creating a market for these things where
+I think if you're one of these big
+foundation model companies, you actually
+can have a portfolio of products. But to
+your point like broadly like first
+principles I think the reason why
+there's you know Clay mentioned the
+consolidation in the space it has to be
+consolidated because to basically make
+the money back on the pre-training and
+post-training process you need
+relatively few players that are
+collecting taxes you know from all the
+players on top or you just can't make
+the the math work.
+&gt;&gt; Yeah. for startups going it in on your
+own is just completely nonviable in
+every dimension because there's the
+capex but there's also the opex you
+could spend the capex let's say you
+magically got $50 billion as a startup
+to you know build a frontier model well
+you can't just like let it sit there
+right operating that model and having it
+continue to run and continue to improve
+on it that's what people are getting
+paid $300 million you know a year to do
+&gt;&gt; the primary constraint I don't think is
+capital it starts with the people and
+there's a small set of people who know
+how to architect these models, do the
+pre-training runs, do post-training RL
+runs and and so that would be the the
+starting place and then to to your point
+the capital outlay for building a a data
+center that can train these multi-
+trillion parameter count models is just
+enormous and you have to amortize the
+cost of the people, amortize the cost of
+the capital to build out the data
+centers and then do that to your point
+in a pretty short period of time in
+order to make the math work. And so I do
+think there there will be a very small
+number of these frontier models and
+research labs producing them. You know,
+they will optimize all the way down to
+the memory, the chips, power delivery,
+and build this highly vertically
+integrated stack to get as much value
+out of the model as quickly as possible
+and at at lowest cost possible. And by
+the way though, just with all the press
+around the talent, it's still a rounding
+error compared to the infrastructure. So
+I think it's worth keeping that in mind.
+It's just very expensive period just
+because it's a salacious story. The
+capex is still the dominant cost.
+&gt;&gt; Just earlier today in Google earnings,
+right, they say, "Oh, we're going to
+spend an extra $10 billion on
+infrastructure buildout this year."
+&gt;&gt; Going from like 75 to 85, something like
+&gt;&gt; 75 to 85. It's like, "Oh, by the way,
+we're spending another 10." That's the
+scale at which these buildouts are
+occurring.
+&gt;&gt; Which is so interesting because these
+tech businesses that everyone loved and
+applied these really high multiples to
+for so long were these asset light, low
+capex requirement businesses where your
+expensive thing was your human capital
+to produce software and then once you've
+paid for your human capital, you just
+have this 85% gross margin amazing
+business model of software. That's not
+really true anymore. These big tech
+companies have massive ongoing capex.
+&gt;&gt; It is. I mean, it probably cuts both
+ways, too. I think it represents
+significant barriers to entry, too. And,
+you know, I think just look at Amazon
+Web Services, which is like one of the
+more impressive businesses built over
+the past, you know, 30 years. And in
+contrast, if you look at the trends of
+like how often do you see a new social
+service, pretty often, right? like over
+that 30-year period, it doesn't mean
+that products like Facebook have gone
+away, but it's the barriers to entry are
+much lower as well. So, you're right,
+Ben, that like the the way you model
+these businesses changes. It is a
+significant barrier to entry as well.
+And so, I'm not sure how to think about
+it strategically because you can look at
+like a DCF analysis in one way. I think
+it's important to zoom out. The halflife
+of technology companies is not that
+long. There are a few, but they're the
+exception. And I I've brought this story
+up before. This is 100% true. I started
+at Google. We're in this small building
+in Mountain View and we moved into a
+campus and it was the Silicon Graphics
+campus. Amusingly, by the way, they were
+still using a couple of buildings on the
+end. So, you had this company that was
+literally dying and selling their campus
+for parts.
+&gt;&gt; I didn't realize SGI was still there.
+Oh, that must have been so sad.
+&gt;&gt; Oh, we go into the cafeteria and we had
+free food and they were paying for their
+food in the same cafeteria. I mean, it
+was just super awkward.
+&gt;&gt; Oh, brutal. And then though at Facebook
+we were at this first the office
+downtown then the old HP building next
+to Stanford and then we moved into Sun
+Micros campus which had also died. So
+like both of those companies in my
+lifetime were at the top of the stock
+market and then had sold their campus
+for parts and then we were taking it
+over. So I say all that because it's
+useful to look at like 85% margins blah
+blah blah but like how many technology
+companies have lasted more than 40 years
+and obviously these technologies are
+new. So I think it's just complicated as
+you look at these things. I I would make
+the same decisions as a lot of the
+hyperscalers in terms of capex. I think
+first the promise of the value of
+artificial general intelligence is so
+great. I think it is worth the expected
+value equation is absolutely worth it in
+my in my opinion. And then similarly, I
+do think the scale afforded by these
+investments represents a lot of
+strategic value as well. I totally get
+why it's complicated for investors, but
+I think it's just the landscape changes
+and I think there's probably a bigger
+risk of not existing in 30 years than,
+you know, sell in a spreadsheet.
+&gt;&gt; Well, if you look at their market caps,
+investors are giving them a a pass for
+now. Speaking of strategy, you guys have
+talked about this plenty elsewhere, but
+I really want to double click with you.
+Your business model and pricing strategy
+at Sierra is radical. Brett, you were
+most recently the co-CEO of Salesforce.
+I could not imagine a more deeply like
+invented software as a service category.
+And so you guys making the decision to
+throw out that business model and do
+something else for enterprise software
+is radical.
+is very telling at the very least. Lay
+it on us. What's the strategy and why'd
+you do it?
+&gt;&gt; Well, we started from first principles
+and asked what are agents actually
+doing? And in contrast to software as a
+service or software you'd buy off a
+shelf at, you know, Fry Electronics, you
+know, decades ago, which might help you
+be marginally more productive, help you
+get a job done. Agents, in contrast, are
+actually getting the job done for you.
+And so you're in essence hiring software
+to accomplish a task and get it done
+well. And so we as we were thinking
+about how do you price this? What is the
+business model? Seat based. Well, what
+is a seat? That doesn't make any sense.
+Consumption where it's like is it per
+message? Is it per token? Is it per
+conversation? And none of these things
+actually mapped very well to getting a
+job done and getting a job done well.
+And so going to kind of principles of
+value based pricing and you know pricing
+against value delivered we arrived at
+what we call outcomebased pricing or
+resolution based pricing where we only
+charge our customers when their agent
+successfully completes the task that uh
+it's set out to do. So you know the ADT
+case
+&gt;&gt; and that's defined as human does not get
+involved.
+&gt;&gt; That's correct. So completely gets the
+job done. And the reason this is
+important is what we're trying to do in
+a way is resolve this age-old tension
+between the cost and quality of customer
+experience where I think every great
+business wants to deliver an amazing
+experience to their customers. But
+unless you're like Hermes or the Four
+Seasons, it's too expensive to do. A
+phone call might cost 10 or 15 or $20 or
+rolling a truck, a service truck might
+cost hundreds of dollars. And so how do
+you bridge that gap? And and we think
+that AI changes that. And AI, it turns
+out, can do things that people value
+very much. It can reason and decide. It
+can take action. It can speak your
+language. Uh it never gets tired. It
+it's always patient. And most
+importantly, it can get this job done.
+And what we love about the model is it
+deeply aligns with our incentives with
+our customers, right? They want to lean
+on their Sierra agent as much as
+possible because when they do, we
+deliver a better customer experience and
+save the money. We're motivated to build
+the most performant, capable agents that
+we can. So, it ends up a very different
+relationship where as opposed to kind of
+vendor customer, we are partners trying
+to build this incredible agent to
+elevate the customer experience and and
+also save cost.
+&gt;&gt; Well, you guys are effectively carrying
+the risk. You're incurring all these
+costs of doing all this AI, of building
+all this software, of hiring all these
+people, but you're not getting paid
+unless the like ultimate bottom of
+funnel thing happens.
+&gt;&gt; That's right. It's an expression of
+confidence that our platform will
+deliver and our agents will be the best
+and that they can deliver. And so again,
+I think it's a strong signal of the
+quality that we can deliver, our
+confidence in the technology. And again,
+the incentives alignment is is extremely
+powerful. If you talk to like a comp
+expert, if you look at like take a
+enterprise software sales team, usually
+their compensation is 50% salary, 50%
+performance base based on quota
+attainment. With people, we've always
+thought about like how do you
+incentivize the behaviors you want and
+it's a huge topic and uh executive
+compensation, you know, for different
+roles. We really just want to move
+software in that direction. So, like if
+the AI agent is supposed to make a sale,
+it should be paid a commission. If the
+AI agent is supposed to handle customer
+service, it should be paid when it
+solves the problem. If it doesn't, it
+didn't do its job. If what didn't do
+anything valuable for you, shouldn't pay
+for it. To your point, Ben, we're taking
+on the risk, but I also think as a
+consequence, we're making something more
+valuable. You know, it's very easy for
+our customers to know the value of their
+Sierra agent. They know how much it
+would have cost to have a phone call
+with a person. They know how much it
+costs to have the Sierra agent solve it.
+We're saving our customers hundreds of
+millions of dollars in operating
+expenses and improving their customer
+experience. And to your point, David,
+when you brought up the software as a
+service revolution in the early 2000s, I
+mean, I'll I'll pause. You can take this
+any direction you want, but I think this
+will upend the business model of
+enterprise software in a really positive
+way.
+&gt;&gt; Oh, I so want to ask about this. There's
+the analogy with ads, online ads, where
+we move from CPM to CPC to pay per
+conversion. And as you move closer and
+closer to the actual value, you can
+deliver a much more valuable service
+&gt;&gt; and you have to it forces your company
+to deliver value otherwise you go out of
+business.
+&gt;&gt; Have you guys started to see or discover
+little glimpses? I mean really to
+underscore radical and you know Brett
+you said it like if this model takes
+it's going to change everything this
+isn't just like a pricing model when
+Mark Beni off invented SAS you know it
+changed everything about Silicon Valley
+not just how software is delivered have
+you guys started to see or get inklings
+of what the second and third order
+effects of the business model is going
+to be
+&gt;&gt; Clay have mentioned that we're more
+partner than vendor I'm going to give my
+historical context which might be
+slightly embellished but you can poke at
+it so if you look perpetual license
+software where you bought, you know, a
+version of a piece of software. What you
+do is a company would buy it and then
+typically you'd have a group of people
+at the company who installed it and
+maintained it and managed the upgrade
+process and ran the servers and and did
+a lot of stuff. When you had the
+equivalent of that that was software as
+a service, it wasn't just that you
+switched from capex to OPEX and you had
+a perpetual license and you went to a
+subscription software which changed
+accounting and all that. It also changed
+the people you needed. You didn't really
+need the site reliability engineers to
+keep the service up because that was
+actually something that you got from
+your software as a service vendor. You
+didn't actually have to worry about the
+servers either. So you could actually
+probably get rid of a data center
+actually. If you switched entirely to,
+you know, software as a service, you
+probably don't even need a data center
+team at all. So you end up where not
+only do you change the way you pay for
+the software, but you actually change
+like the roles and responsibilities for
+it. With software as a service, you kind
+of like obiated the need for a lot of
+the lower level kind of technical
+machinery of running this software, but
+you still had to install it and
+customize it and all these other things.
+And I always use the analogy, let's just
+take like a, you know, CRM software or
+something and you install it and your
+sales don't improve. Like well, whose
+fault is it? And I don't think many
+people would blame the CRM software.
+It's like maybe you're a bad
+salespeople. I don't know. It's not
+&gt;&gt; Are you talking from experience? No.
+&gt;&gt; No. No. It's just, you know, No, it's
+100%. You know, it's like we use
+Salesforce here. It's a great CRM. I
+love it. It's like I'm very loyal to
+that place. It's more just like an
+accountability thing, right? Like it's,
+you know, the software vendor provides
+the software. It's up to you to make it
+work. And there's this like arms length
+accountability for it. As you said, Ben,
+we don't get paid if it doesn't work. So
+it actually like really changes the
+shape of what I think a software vendor
+would call like a post sales process
+because you know you can't just throw
+software at the wall and say good luck
+to you because it's actually in our
+interest to make you successful too you
+know and so if you don't know how to
+make your agent work like we want to
+come help you do that so we spend as
+much time thinking about how to be
+partners to our customers after they
+purchase our software as we do before
+and uh you know and we have customers
+like you know who are extremely
+technically sophisticated who like don't
+even want to talk to us and that's
+great. We have some who, you know,
+barely have an IT team, you know, and
+they like help us like we want you to
+make it work and we need to make sure
+that we match sort of like meet those
+needs as they come up. I think that's
+exciting because I think the
+relationship that companies will have
+with Sierra will just be will be as
+different as the difference in
+relationship that they we went through
+with the on premises software as a
+service vendor. And I think it will mean
+sort of as Clay said, you're hiring an
+agent to do a job. And that's just a
+very different relationship than
+installing a piece of software. And so I
+think it's exciting. I And I think the
+second of four order effects will be how
+procurement teams think of what they
+expect of their software vendors towards
+outcomes, accountability, as you said,
+Ben, risk is fundamentally the the role
+here. But I also hope that if we fast
+forward 10 years and maybe we have the
+privilege of being you know the you're
+doing an acquired on us and the magic of
+our business model is when you talk to
+our customers like we're the strategic
+adviser in AI you know it's like a
+deeper more foundational relationship
+than simply a software vendor
+&gt;&gt; which is funny I feel like the best
+enterprise software organizations and
+and sales folks and leaders have always
+been that to their customers but the
+business model wasn't aligned. They
+weren't really directly incentivized to
+&gt;&gt; you ask ahead of like when you get the
+bill of materials and like like what is
+this stuff?
+&gt;&gt; Brett mentioned commission. We work with
+one very large furniture retailer. We're
+paid on commission if we attach a
+premium delivery service to furniture
+delivery. And so it was like we're
+literally paid on sales commission
+today. And so it just broadens the
+aperture of what's possible with the
+software. What are all the jobs that a
+customer-f facing agent could do? And
+that's where we get really excited about
+the possibilities here. It's like what
+will that look like when a company can
+show up kind of at its best in every
+moment with its customers with an agent
+that is fluent and helpful and can
+actually get stuff done for you across
+kind of all parts of the customer life
+cycle.
+&gt;&gt; You know what's funny is we just used an
+old word that is already obsolete in
+your model which is post sale. You were
+talking about how, oh, post sale, you
+know, we're incentivized to go and work
+with our customers. In fact, we demand
+it. We have to because it's it's our
+revenue, too. It's actually not post
+sale. You signed a deal, but you haven't
+made the money,
+&gt;&gt; right? Sales don't happen until their
+sales happen.
+&gt;&gt; It's so that the whole notion of like
+there's this firm dividing line between
+pre-sale and then the sale and then post
+sale kind of being about renewal.
+Ultimately, what post sale is about is
+are we going to get the renewal next
+year or in 3 years or whatever. This
+kind of breaks that. It does and
+actually leads to a couple other things
+which is like two things which is speed
+to delivery matters a ton and making it
+super super easy to set up matters a ton
+too because to your point Ben if it's
+like complicated or slow you're not
+earning money till it's live and and
+successful. So like we focused on a
+couple things like we're typically going
+live in a small handful of of weeks. It
+can be as low as like two or 3 weeks for
+a agile firm. you know, can go as high
+as a couple months for, you know, maybe
+a more, I'll say, traditional company
+that has a lot of internal gates to go
+live. The other thing though is spend a
+lot of time to enable not just
+technology teams to make these agents,
+but also their customer experience
+teams. One of the reasons why it
+projects go slowly is you end up with
+this kind of slow loop of like figure
+out what the requirements are, throw
+them over the wall, have someone
+implement it, go, "No, that wasn't
+right." go back and forth and do this
+loop,
+&gt;&gt; talk separately to the marketing team.
+&gt;&gt; If you think about the furniture
+retailer Clay mentioned, and like who's
+the expert in, you know, these premium
+delivery packages, what's been effective
+in the past, that's someone on the
+business team, not someone on the tech
+team. So, we have all these no code
+tools, so these teams can go in and
+actually build their agents themselves.
+No AI expertise, no tech expertise, but
+it all goes back to the thing you said,
+Ben, which is like we need these, we
+need to empower customers to make these
+successful interactions live because it
+is a gate to our revenue model. But it
+aligns all these incentives. The reason
+why we're so focused on going live in
+days or weeks is because we're as
+interested in you in that being the
+case. And I really love the incentive
+alignment that it drives in our product.
+&gt;&gt; And in theory, it should open up way
+more experimentation for customers. If
+you don't have to sign a big contract
+and then be locked into that vendor and
+have a big implementation time and owe
+them a certain amount of money no matter
+what. It's like okay I'll adopt five
+vendors and like we'll see which one
+actually moves the needle for our
+business. Now that ignores the
+complexity of like there is real setup
+time and there's human focus as your
+sort of bottleneck. But if we can solve
+some of these problems then in theory
+companies should just you know adopt way
+more partners and see what works in the
+way that cloud allowed you to just allow
+your engineers to quickly spin something
+up versus provisioning a server. It cuts
+both ways too. You know, I think one
+thing if you talk to like a head of
+technology at a big firm right now,
+they've probably done too many proofs of
+concept and don't have enough live
+successful. So, it cuts both ways. Like,
+you know, it's fine to experiment if you
+have the wherewithal to like make
+decisions and move quickly. When we
+advise our clients, we often say like,
+you know, have the business metric
+you're going to go achieve and just go
+achieve it, you know, and running a lot
+of experiments can be useful, but often,
+you know, just having the like top down
+initiative to do it is just as
+important. But then there's this other
+thing I think related to what you said.
+There's this term in enterprise
+software, best of platform or best of
+breed. Best of platform is sort of like
+that proverb, no one gets fired for
+buying IBM. It's basically saying like
+look if you have a huge enterprise
+license agreement with you know one of
+the big incumbent vendors Microsoft or
+whatever and you know they have a new
+offering for an ERP system buying that
+like no one's going to your CEO is not
+going to be like you bought a ERP system
+for Microsoft what are you crazy like no
+one will ever say that so that that's
+where like I think procurement processes
+and purchasing processor tend towards
+platforms you know and so the more a
+technology is considered a commodity I
+think the more it tends towards best of
+platform because you get essentially
+commodities of scale. You can, you know,
+in your big enterprise license
+agreement, you can get better discounts.
+You can do all these things. You don't
+need to onboard a new vendor security
+blah blah blah. When new technologies
+come out, this pendulum swings from best
+of platform towards best of breed. And
+the reason for that is incumbents
+typically aren't that great at these new
+technologies. We talked about business
+model changes. says if you're a software
+as a service vendor, you kind of have a
+strategic impediment to embracing new
+business models. Similarly, just because
+you're good at making a database in the
+cloud for ITSM system doesn't mean
+you're necess
+agents, right? So, there's technology
+barriers, there's business model
+barriers. And so right now I think to
+your point Ben people are experimenting
+a lot more but also bluntly put the
+value of the AI agent in displacing
+labor costs is so much greater than the
+software costs that you know people will
+go towards the highest quality software
+right now which is in companies like
+Sierra. I don't think that will happen
+forever. You know at some point it we'll
+be talking on this podcast and it's like
+oh yeah AI agents I made one I made 12
+this weekend. you know, it's like not
+it's not will no longer be technically
+hard and then you start to swing back
+towards platforms and this is the race.
+So like right now there are best of
+breed companies like Sierra can we gain
+enough of a clientele and customer base
+and customer success that in 10 years we
+are the incumbent or will we not prove
+our value to enough people such that
+when the best practices these
+technologies become more commonplace
+that you know incumbents can adopt it.
+And you see this time and time again. I
+think it's why almost every great
+technology company was born in a period
+of technology disruption. The internet
+gave birth to everything from Salesforce
+to Google to Amazon. The mobile phone
+gave WhatsApp, Uber, Door Dash,
+Instacart. And so right now it's like I
+just look at all these like saplings
+that are growing right now and like
+which of them will grow into the next
+generation. So anyway, that's how I
+think about it for what it's worth is
+like it's like a race right now. Quality
+is all that matters and it's why you
+know our company's growing so well, but
+it is not something we're entitled to
+for a decade. We need to essentially
+create the kind of scale that is
+necessary as as this technology becomes
+commonplace.
+&gt;&gt; So you've both led really big teams and
+you both have been sort of the like
+crack incubation project in the past.
+Brad, I'm thinking Google Maps or Clay,
+you know, recently with Project
+Starline, which is now Google Beam. Is
+that the right
+&gt;&gt; Google beam? Yeah, beam me up, Scotty.
+&gt;&gt; Sweet. In building Sierra in this AI
+era, is there anything different about
+being leaders of people and and leaders
+of teams versus sort of these almost
+famous teams that you've led in the
+past? I think first and foremost in
+building a startup you operate just at
+an entirely different scale like orders
+of magnitude smaller scale than Brett
+and I were operating at in certainly our
+most recent jobs and so there's a a
+proximity to all of the details all of
+the work that is important in building
+and running the business and that I
+think is part of leadership and
+demonstrating is like look we are in a
+very small boat together and out to
+build something great Brett will on a
+Sunday night check in, you know, a
+thousand lines of pristine code and I
+will be in the weeds of pricing
+proposals and our contracts and the
+exact copy and our marketing language
+and and so on. So, I think first and
+foremost, it's it's just a level of
+being in the details. I think one thing
+we've tried to bring to Sierra that I
+think echoes running these larger teams
+with uh broader sets of functions is
+when you're operating at the kind of
+intersection between what is possible
+and what is not yet possible. This kind
+of zone of the barely doable, it's super
+important that to the largest extent
+possible, you be able to kind of control
+your own technology destiny. And so we
+talked earlier, we don't do our own
+pre-training. don't build our own
+foundation models. We do have a small
+research team. And I think that's
+somewhat uncommon for an applied
+application layer company, but many of
+the breakthroughs that we've had that
+have enabled us to to deliver such
+quality and cost savings and more have
+come through novel agent architectures
+and and really going down a click or two
+in in the stack to innovate at at lower
+levels of the technology stack.
+&gt;&gt; Has that felt familiar to you? because
+it seems like your whole career has kind
+of been in frontier technologies if you
+look at all the AR and VR and
+&gt;&gt; very much so that's actually one of the
+one of the parts I love most about
+building Sierra is you are at this
+frontier where it's like can we even
+make this work can we get this thing to
+to do this thing reliably and and well
+and so it's not a simple matter of
+programming it's not you know typing
+into a keyboard until or or I guess
+asking cursor to do something until a
+piece of software emerges, it's
+exploration, it's discovery, it's posing
+hypotheses and validating or
+invalidating those again and again and
+again. And so there's a real element of
+science and exploration and figuring out
+how to make this thing work in addition
+to then translating those inventions
+into things that are directly useful for
+our customers. contrasting what we do
+today with you know augmented reality
+glasses kind of the development cycle
+for a waveguide or a display is like
+years or you know maybe just under a
+decade. What I love about this is the
+immediiacy. We can have a breakthrough
+in our agent architecture on Monday
+implemented on Tuesday and have it
+deployed with hundreds of our customers
+on Wednesday and directly see the impact
+of of that work. I love the immediiacy
+of that and to have both this kind of
+invention and discovery and the unknown
+which is very exciting to to be in and
+the direct you know practical
+application of it. It's super fun and
+and one of the best parts of building
+the company.
+&gt;&gt; Brett, how's leadership felt different
+for you this time around versus
+Salesforce or Facebook or
+&gt;&gt; so plus one to everything Clay said? I
+think creating a company in the age of
+AI is interesting because we talked
+about how software engineering is
+impacted by AI, but everyone's job is as
+well. So, I think one thing culturally
+that feels meaningful is having active
+conversations about how to use AI to do
+our jobs differently. It's an awkward
+conversation, but you know, it's like if
+you're a software engineer and you're
+not using something like cursor to do
+your job, you're probably being half as
+productive or even worse than you could
+be. And so there's almost this like you
+want people to sort of adopt these tools
+because they want to and you sort of
+need to sort of voluntel them to do it
+too. You know, it's like I don't think
+we can succeed as a company if we're not
+the poster child for automation and
+everything that we do. And that feels
+really different. And I have a lot of
+empathy because I'll just take like a
+real simple example. Like Salesforce had
+80,000 employees after the pandemic.
+Getting people back to the office was a
+total pain in the ass. You know, like
+just people had moved, people this
+lifestyle changes, all these things.
+Every big company goes through it. And
+people who say it's easy like haven't
+run an 80,000 person company. You know,
+it's like and different people have
+different approaches. It's just hard. At
+Sierra, we're in the office company. And
+we just said if you don't want to be in
+the office, don't work here. It's super
+easy. Like we're a new company. So it's
+just so easy to do these things at a
+small scale. I observe just like having
+everyone in our company, you know, you
+didn't use chat GPT deep research before
+your sales meeting. Are you kidding me?
+Like that's a best practice that
+everyone should do. Imagine doing that
+with, you know, 10,000 salespeople, you
+know, to roll that out. So I think about
+it a lot and then just having the
+vantage point of having come from larger
+I just have a ton of empathy for for
+lack of a better word like the cultural
+change management of absorbing these
+technologies into larger organizations.
+So we're trying to be the poster child
+of it and then because we are a partner
+to so many larger firms. I have a lot of
+empathy for the challenges of adopting
+technology into cultures. I think it's
+really really hard and I have a ton of
+respect for leaders who are able to do
+it at a larger scale.
+&gt;&gt; I'm curious maybe as a good final
+question for you guys on this front
+about you guys as co-founders. I imagine
+that must have been extremely
+intentional because it's not like either
+of you given your careers couldn't have
+just gone and built a company yourself,
+probably funded it yourself. You didn't
+need like the team slide to raise money
+so to speak, you know, having you both
+on there.
+&gt;&gt; Or better put, you could have only had
+the team slide.
+&gt;&gt; Yeah. You're right. For for either of
+you, it would have sufficed. It must
+have been very intentional. How did you
+guys think about it?
+&gt;&gt; I've been trying to work with Clay
+unsuccessfully
+every single day since I left Google in
+2007.
+&gt;&gt; This was 20 years in the making.
+&gt;&gt; The short version of this is the only
+way I could convince Clay to actually
+work with me to start a company with
+him. So, I was like, "Fine, I'll do it."
+I'm just kidding. It was sort of like
+that, though. So, we started in the same
+program. Marissa Meyer hired us both at
+Google as associate product managers. We
+were more or less friends ever since. It
+was like a relatively small group of
+people.
+&gt;&gt; Legendary program.
+&gt;&gt; Oh, totally. And we had this monthly
+poker game that happened roughly twice a
+year. Uh just because people were busy.
+But so we've been friends for a while
+and every single place I went I would
+call Clay and be like, "You got to come
+here. It's great." Clay was like, "Sunar
+has as high of opinion as Clay as I do."
+And it was just like hard to, you know,
+make everything work. And so we had lots
+of dinners and Clay may have a different
+version of this, but I'm just like I
+just kept on getting rejected. And so
+then when I said I was leaving
+Salesforce, we ended up having this long
+lunch and we both found out we shared a
+passion for large language models.
+&gt;&gt; What year was this?
+&gt;&gt; This was December 2022.
+&gt;&gt; Okay. So Chad GPT had just come out.
+&gt;&gt; Just come out. I had announced I was
+leaving Salesforce. ChatV comes out like
+a week later and we're all just talking
+about it and I was like I didn't know
+what I was going to do, but now I know
+I'm going to work on this. I don't know
+what yet.
+&gt;&gt; You thought I was kind of the ARVR guy,
+which I was, but also in labs, I had
+been obsessed with language models and
+things like notebook LM, which came out
+of it. And we were both like, okay, we
+are both obsessed with what is unfolding
+right now in technology and where this
+goes. And over that lunch, Hatch plans
+to start the company together.
+&gt;&gt; We had no idea what we're going to do.
+We figured it out like much later in
+like March cuz you you got to get out of
+your job, do all these things. We just
+knew, we just had the premise which is
+this technology is going to change
+everything. It's going to create a bunch
+of business opportunities. Let's go ride
+into the darkness and figure it out
+later. But just to met a point, I'm just
+a huge believer in the power of
+partnership. I mean, you've interviewed
+a lot of entrepreneurs. It's hard. It's
+like stressful. You take everything
+personally. It is so nice to have a
+partner to do it with because, you know,
+when you're having the moment and you
+need to like just like rant at the sky,
+you can we can call each other up. I
+just couldn't imagine doing it solo. I
+just don't Well, it's funny. Part of the
+reason I asked the question, I didn't
+want to lead the witness too much, but
+you we talked about at the beginning of
+our Google episode, the vast majority of
+companies we cover is the, you know, the
+singular founder, the Mark Zuckerberg,
+the I mean, even Microsoft, like, you
+know, Bill had Paul Allen.
+&gt;&gt; They have co-founders, but they're not
+the main
+&gt;&gt; the main guy. You guys grew up at
+Google, which was like a true
+partnership. Yeah. I would just wonder
+if like that, you know, formative
+experience and seeing Larry and Sergey
+together rubbed off on you a little bit.
+It it's actually funny you say that too
+because Clay and Brett, Brett and Clay,
+it has Larry and Sergey like people talk
+about us as a unit. They joke around
+that we spend way too much time
+together. So
+&gt;&gt; so much time together. Instead of having
+a holiday party, we have a Sierra
+birthday party every year in March. And
+Brett and I said a few remarks and
+someone said, "You guys seem to have a
+really nice dynamic." This was one of
+the spouses there. And I said, "Yo, it
+helps that we actually like each other
+and like spending time together." The
+other funny thing is like I'm not sure
+which of you made the better decision
+after your APM stint of like Brett, you
+obviously created a lot of market cap
+where you went. Clay, you you also like
+by not going anywhere created a lot of
+market cap.
+&gt;&gt; Yeah. It turns out both Facebook and
+Google are pretty good companies. So
+&gt;&gt; Brett, in many ways I feel like you have
+the single best career of anyone in
+Silicon Valley in the last 50 years.
+like do you ever like reflect on that
+and pinch yourself and go how the hell
+did this happen?
+&gt;&gt; Uh well that's very kind of you. The
+thing actually I feel most grateful for
+is to have been inside of some of these
+remarkable companies. There is a
+parallel to actually the acquired
+podcast. What I've always loved about
+listening to your overviews of companies
+is the genuine sort of like affection
+for the companies and business models
+and what makes them great and what makes
+them tick. like it exudes from the way
+you talk about these companies and I
+feel that way about Google and
+Salesforce and Facebook and and my own
+companies that I've started because
+they're all so different yet they're all
+successful and you know I remember first
+going into like a Salesforce management
+team meeting and being like I don't
+understand anything going on here. It
+was just so different than you know
+certainly Quip the company I had started
+but like Facebook and Google yet it was
+this remarkably successful company. So,
+so I was like an anthropologist, you
+know, it's like Jane Goodall observing
+the gorillas or something like what is
+going on here? I'm like taking notes.
+I'm like, so when he says this, this
+person does that and why is that good? I
+need to figure this out. And so you end
+up realizing just like the shape of
+consumer companies and enterprise
+companies. And I thought I knew what
+great go to market looked like until I
+went to Salesforce and realized that I
+had just simply never seen greatness
+before. I just feel like it's been such
+a privilege to learn from people like
+Marissa and Larry and Sergey and and
+spend a lot of time with Mark Zuckerberg
+and Mark Beni off who's one of the
+closest mentors I've had in business. So
+yeah, the the resume
+whatever it's and very kind words you
+said, but actually for me just having
+been there and actually gotten to see
+what you all cover every day, but first
+person and like actually contribute to
+it, what a privilege. So it's like been
+a fun just to observe some of the great
+companies of Silicon Valley. And
+meanwhile, Clay, you you got to know the
+absolute crap out of Google while Brett
+is doing all that.
+&gt;&gt; 18 years, is that right? over 18 years I
+worked on basically every part of the
+company search and ads and then uh ran
+product and design for workspace and
+kind of played an enterprise software
+person on TV for a couple of years
+because it was both the consumer
+applications and and then Google apps
+for work and then there was that awkward
+period of G Suite before it was
+workspace a name I I much prefer and
+then spent most of the last 10 years
+working for Sundar building
+forward-looking things for the company
+AR R and VR, Google Lens, one of the
+earlier applications of applied AI, and
+then most recently rehydrating Google
+Labs, at least the name, as kind of a
+incubator of forward-looking bets for
+the company. And that's where, you know,
+things like AI Studio and Notebook LM
+and some of the more recent AI
+applications came out of. touching on a
+similar thread as Brett. I just feel
+such gratitude to have seen greatness up
+close to have been a some small part of
+building the company and to have had
+within 18 years at Google in a way you
+know I don't know two three four
+different careers or jobs where I built
+hardware from scratch and you know
+visited assembly lines in China to see
+you know headsets and wearables being
+assembled and that was something that
+when I joined in 2005 as an APM working
+on some part of the ad system you never
+would have occurred to me. And so the
+flexibility, the opportunity and and the
+privilege of operating with such scale,
+building something and having it in the
+hands of hundreds of millions, if not
+billions of people, it's truly
+something. I love my time there and I'm
+immensely grateful for everything I I
+learned and most of all the friends and
+and just amazing colleagues I I made
+along the way.
+&gt;&gt; Amazing. All right. Wait, I got one more
+question before we wrap. I can't let
+this be friend lunches, poker games
+during the plus era.
+What was your conversation like then?
+You know, Brett, did you know you were
+going to win?
+&gt;&gt; We've woven in and out. Like when I
+started Quip, Clay was working on Google
+apps, so we were still cordial. You
+know, we didn't talk shop very much
+during it.
+&gt;&gt; Well, he was a giant and Quip was so
+small. I mean, at that time it was like,
+sorry, sorry.
+&gt;&gt; It was the notion of its time.
+&gt;&gt; That's this is Ben's strategy. He builds
+you up and then he cuts you down. Like
+&gt;&gt; and it was interesting our poking like
+Lars Rasmmanson who was one of the guys
+who created Google Maps with me also
+went to Facebook and was part of our
+poker circle too. And so we mixed a lot
+and actually testament to like
+relationships being deeper than rivalry
+in some of these places. It it was still
+very fun. We gave each other a little
+you know, so it was fun.
+&gt;&gt; My favorite years at Google were
+definitely not the plus years. I'll I'll
+just say that.
+&gt;&gt; Yeah. Brett, you probably weren't even
+allowed out of the building to go play
+poker because it was, you know,
+&gt;&gt; the code lockdown, right? Yeah. Totally.
+This is something that I think is
+totally lost to history unless you guys
+lived it like you. At Facebook, it was
+an existential threat. We are so scared
+that Google's actually going to get this
+right. And at Google, the the earthquake
+memo. I mean, Google for three years
+completely reoriented priorities as a
+company saying we have to nail social.
+It wasn't just like a side thing for
+either company. This was like the
+battlefield. And it ended up actually
+being a nothing burger, but at the time
+it really mattered to both sides.
+&gt;&gt; It did. I mean this is the thing like
+this is what's going on with AI right
+now too. I mean when smart people at all
+these companies realize the size of
+these markets and you know at the time
+how will sharing within these social
+graphs and private networks impact the
+net and search and all these other
+things like it it feels existential on
+all sides and you know I think it's
+easier to trivialize it's very easy to
+make plus jokes but but it was like a
+genuine effort and
+&gt;&gt; easy for you to make sure.
+&gt;&gt; Yeah certainly. Uh so it's like you know
+um and I've certainly had my my mistakes
+in the past. We wanted you to go through
+those all today. I think there are a lot
+of parallels though because when you
+have a technology incumbent faced with a
+big new wave of technology. You know
+Microsoft famously I think fumbled on
+mobile despite Windows phone and Windows
+Mobile being ahead of many of the other
+operating systems at one point did very
+well in cloud but both were treated with
+a lot of gravity at that company. And
+right now just that analogy part of it
+was born of the like personal rivalries
+and and the staff weaving between
+Facebook and Google which was somewhat
+unique uh to that time. Uh you know put
+another way I think I joke there's like
+a corporate strategy and then there's
+like pure ego and I think it was a mix
+of a lot of the two but I think you can
+see the same thing in AI right now.
+Everyone's trying to like recognize this
+wave of technology is going to
+dramatically change markets and what do
+we want to be when we grow up and you're
+going to see the equivalent of
+Earthquake at a lot of different
+companies right now given the wave of
+AI.
+&gt;&gt; Well, Brett, Clay, thank you so much for
+coming on with us.
+&gt;&gt; Thanks for having us.
+&gt;&gt; Thank you so much for having us.
+&gt;&gt; Listeners, we'll see you next time.
+&gt;&gt; We'll see you next time.

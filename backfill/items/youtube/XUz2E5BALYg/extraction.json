@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "method": "yt-dlp",
+  "language": "en",
+  "attempts": 1,
+  "duration_seconds": 2169,
+  "last_timestamp_seconds": null,
+  "coverage_ratio": 0.9929829414476719,
+  "text_chars": 35994,
+  "sha256": "6ef0c148ac706b6acb01ee8d2da595b8c03068526215fbde76f99a78acd424fe",
+  "completed_at": "2026-06-29T17:48:58.911297",
+  "error_type": null,
+  "error_message": null
+}

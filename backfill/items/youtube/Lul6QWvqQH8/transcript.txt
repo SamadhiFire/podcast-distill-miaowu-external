@@ -1,0 +1,1214 @@
+Kind: captions
+Language: en
+Let's call Adelfi right now.
+&gt;&gt; I'm down.
+&gt;&gt; Yeah.
+&gt;&gt; How about we call my friend? I actually
+haven't met him in person, but I'm I'm
+friends with this Deli. Arnold
+Schwarzenegger.
+&gt;&gt; Yeah.
+&gt;&gt; What do we think?
+&gt;&gt; Love it.
+&gt;&gt; Hey, this is AI Arnold. I'm here to cut
+the crap and help you get stronger,
+healthier, and happier. So, what's on
+your mind today?
+&gt;&gt; Arnold, I have 15 minutes a day to work
+out, which I feel like is not a lot, but
+I want to feel good and I want to get
+better in my health. What do you
+recommend I do? 15 minutes is plenty if
+you focus and go hard. Don't overthink
+it. Stick to simple, effective moves
+that hit multiple muscles. Do one to two
+sets of exercises like push-ups, reverse
+lunges, and lying leg raises. Keep rest
+short and push yourself. You'll feel
+like a champion in no time. Now, get to
+it.
+&gt;&gt; That's awesome.
+[Music]
+Today's guest, Dar, is building
+something that challenges our
+fundamental assumptions about human
+connection and knowledge transfer. His
+company, Deli, creates digital minds, AI
+representations that capture not just
+what people say and how they sound, but
+how they think and reason through new
+situations. Dar's insight is that AI is
+driving a shift from information
+consumption through feeds to
+conversational media. He argues that as
+AI becomes abundant, human energy and
+authentic connection become the premium
+experience. This conversation reveals
+how the next wave of AI might not
+automate humans away, but actually
+amplify our most uniquely human
+qualities. Enjoy the show.
+&gt;&gt; Dra, thank you so much for joining us
+today.
+&gt;&gt; Thanks for having me. Okay. Digital
+minds, AI clones. Sounds a little bit
+like a Black Mirror episode where
+nobody's talking to each other anymore.
+Like, change my mind.
+&gt;&gt; Well, one, we got rid of the word
+clones. So, we don't say that anymore.
+&gt;&gt; Oh,
+&gt;&gt; digital minds.
+&gt;&gt; Okay.
+&gt;&gt; But I think if you look at past
+revolutions of technology, when the
+printing press came out, you're going to
+read someone's thoughts instead of
+talking to them. When the radio came
+out, you're going to listen to a voice
+in a box instead of talking to them.
+Must make you antisocial. But I think
+what each of these things did is you
+listen to someone on a podcast or read a
+book, you end up wanting to meet them
+even more. And you may read an email
+from someone. Does that make you
+antisocial? Now you can just consume
+that information in an interactive way.
+And what we've seen, which I can talk
+about more later, is the idea of having
+a digital mind ends up leading to people
+wanting to talk to you more. So the idea
+isn't replacing human connection but
+providing access where previously there
+was none in a way that is more
+temporally convenient for the end user
+&gt;&gt; and in a world where everyone has a
+digital twin what you know what becomes
+of you know the value of real human
+interaction
+&gt;&gt; I think even digital twin aside I think
+AI makes energy more premium
+&gt;&gt; because energy is the one thing that
+cannot be replaced. So again, back to
+the revolutions. There was a time where
+most of the work we did was based on our
+bodies. And then we we invented machines
+that were stronger than us. And then we
+invented jobs where the majority of our
+work involved our minds. And now we're
+inventing machines that are smarter than
+us. And what's the remaining thing? It's
+kind of our our hearts, our energy. And
+so in a world where you have a digital
+mind, it's kind of like your top
+offunnel filter. Who gets to meet you?
+Who actually gets to make it to your
+heart? which is the in my opinion
+premium experience.
+&gt;&gt; Speaking of hearts, I think it would be
+helpful to hear
+&gt;&gt; you've just explained sort of the
+technology revolution backwards way of
+looking at what Deli is today. Yeah,
+&gt;&gt; you should also tell us about the origin
+story and the very human reason you
+started the company because I think
+that's really fascinating.
+&gt;&gt; Yeah, it's a long and windy road, but uh
+you know in 2014 I was gifted a book
+called How to Create a Mind by Ray
+Kerszswwell. Yep.
+&gt;&gt; Where he talks about one day you can
+recreate someone's mind. And I don't
+know why that was so fascinating to me
+at the time, but that got me into
+studying computer science and physics
+and got me into the AI space. And then
+in 2021, I was working on my first
+startup as a solo founder in building
+with LLMs in a time where everyone was
+saying crypto or American dynamism. So I
+felt like I must be doing something
+wrong. No one really wants to talk to
+me. I'm very lonely. I didn't really
+have any mentors. And I was reading a
+book about my grandfather who was one of
+the most successful business owners in
+Iran before the revolution. He had
+30,000 employees at his peak. And he was
+put on the hit list by the Ayatollah.
+&gt;&gt; Came to this country with nothing. But
+the the really special thing about him
+and and the reason they actually study
+his book in business schools in Iran was
+not just because he was successful, but
+because he was a very principled man.
+Like he treated people well, had
+integrity. And when you start a company
+for the first time, it's really a moment
+in your life where you you really begin
+to internally reflect like who am I? Why
+am I even working seven days a week?
+Like what is the thing that is driving
+me? Yeah.
+&gt;&gt; And so this book provided a place where
+like maybe this is who I am. Like this
+is my family. And I wanted to be able to
+ask him what would you do in my
+situation? But a book can't answer this
+question. And he had had a stroke a
+couple years prior. So I couldn't ask
+him myself. So remembering Ray
+Kerszswwell's book and realizing that
+LLM's matched that book, I created a
+digital version of him that I could talk
+to
+&gt;&gt; and uh
+&gt;&gt; those like GPT2 or BERT.
+&gt;&gt; It was early GPT3 developer list along
+with hugging face embeddings.
+&gt;&gt; Okay.
+&gt;&gt; Wow.
+&gt;&gt; And you know a bunch of wines later
+which I can get into if you want. We
+have deli.
+&gt;&gt; Really cool. when did you realize this
+could be a scalable platform and you
+know not represent one person but the
+voice of so many?
+&gt;&gt; So I actually tried to launch Deli as a
+company in 2021. It was called Helix at
+the time and I posted a website and you
+could talk to like Naval and Mark Andre
+&gt;&gt; and one it was super expensive like I
+was burning money and two a lot of
+people were like what is this? This is
+immoral. You can't be doing this. This
+is wrong. So I was like, "All right, you
+know what? Maybe I'm wrong." And I think
+a couple things happened in the
+following year that continually built
+that conviction besides the grandfather
+experience.
+One is I moved to Miami to work at Open
+Store under Keith Reo and his main
+investment philosophy is I like to
+invest in startups where the majority of
+my friends laugh at and think it's
+stupid.
+&gt;&gt; I was like, wait a minute, maybe I
+should like double click into that thing
+where everyone was calling me stupid.
+And then number two is I met my
+co-founder Sam and we were reading Build
+by Tony Fidel in our book club and we
+created a digital version of him because
+that book kind of operates as a mentor
+like he teaches you how to think about
+product and I was using it and Sam was
+using other people were using it and I
+was like this is really useful and I am
+not the only person in the world who has
+felt alone without mentors. It was very
+obvious to me that this would be useful
+for any young person wanting to learn
+from the grades just as they do from
+books, but now they can respond back
+because Bloom's two sigma that was a
+paper that I was reading at the time,
+two standard deviations improvement for
+those who have tutors. Not everyone has
+access to that. And then the third thing
+was I in 2022
+I had turned the notifications on for
+every AI researcher on Twitter and I
+realized that a paper was coming out
+every single week
+&gt;&gt; and the digital mind that I created of
+Tony Fidel was 10,000 times cheaper than
+the one I created for my grandfather.
+And so at that point I was like okay
+this is now feasible to do at scale. It
+is useful to me. the thing I have to
+prove out eventually is can this be
+useful to the person creating a digital
+mind so it's not just for the end user
+and so that's what led us to starting
+the company a month before chat GBT
+which at the time again everyone was
+like what is this this is stupid you
+can't do this but you know I had heard
+that before
+&gt;&gt; was this before or after character AI
+&gt;&gt; before and so when character launched I
+remember Sam and I were kind of freaking
+out a little bit but I think again I had
+seen the cost of these models dropped so
+heavily and the history of
+billion-dollar consumer companies are
+not is not a history of companies that
+had early technical moes there were it
+was a history of companies that just had
+great product and great distribution and
+at a certain time the the moat that
+character AI had at the time according
+to VCs would not no longer be a moat the
+ability to create these digital
+characters and then the second aspect of
+it is I think the first use case that
+really takes off in a company defines
+its trajectory and character AI really
+taking off on, you know, anime
+characters and characters. I knew it was
+a very different world than like
+verified authenticity, human
+representation, at least with very
+different brands and very different
+products.
+&gt;&gt; Super interesting.
+&gt;&gt; The first time I met you, I remember
+thinking, "Oh, isn't this kind of like
+character?" I think I had that similar
+impression, but you've always had a
+really heavy emphasis on authorized real
+people. Can you talk about a little bit
+more about what led you down that path?
+Why did you pick that? And then what
+what have you had to build in order to
+make that really work?
+&gt;&gt; Yeah. So it was both intentional and
+unintentional.
+&gt;&gt; Initially Sam and I's go to market
+scheme would be hey we should create
+these digital versions of these people
+and they're going to love it. Like
+they're going to think it's so cool and
+that was not the case. We got three
+seasoned desists from very very
+important people who still have not
+forgiven us to this day.
+And so that's when I was like, okay, uh,
+we need to get their buy in. And that
+means we don't want to be a pay-to-play
+model like some of these other creator
+companies. We need to make the product
+useful enough such that someone is
+willing to go through the friction of
+uploading their data and trusting us
+with their identity. What does that
+mean? We have to create a brand as well.
+A brand that people want to associate
+their identities with. It is uh
+statusinducing.
+And I think if you look at Wikipedia
+pretty much documents all of human
+knowledge. Does anyone actually learn
+from Wikipedia? The creator economy
+exists because we inherently trust
+things that come from humans. We read
+books, we watch YouTube videos.
+&gt;&gt; Yeah.
+&gt;&gt; So similarly,
+&gt;&gt; if the internet taught people how to
+consume information through screens and
+then once we built that habit, we
+started reading blogs. With Chad GBT,
+we're teaching people how to consume
+information through conversation. And I
+think that's going to be the dominant
+form of content consumption because it's
+easier and we like easy things. Then the
+pendulum swings and we want things that
+come from humans.
+&gt;&gt; So for us to get people to trust us, it
+it required guard rails, uh, anti-h
+hallucination. It required having a very
+strict stance on you can only create a
+deli of yourself
+&gt;&gt; and it required really caring about
+design and brand.
+Maybe take us through now behind the
+scenes like what is actually going on uh
+when you created deli through the
+creation process and then what's kind of
+going on under the hood like how do you
+represent a human?
+&gt;&gt; Well, I I want to talk a bit about what
+Ray Kerszswwell said in his book.
+&gt;&gt; Yeah. So in the book he says that the
+mind is a hierarchy of pattern
+recognizers and on the lowest end you
+have on the on the lowest level of the
+hierarchy you have things that recognize
+letters and that feeds up to higher
+levels which recognize sentences and
+that feeds up to meaning and that feeds
+up to consciousness. And so when I was
+working on my first startup Friday,
+which involved LLMs, I had this insight.
+Wait, an LLM is a pattern recognizer.
+And I kind of had an existential moment
+where I was like, are we just a
+hierarchy of pattern recognizers where
+consciousness is what we experience? And
+so that really helped me understand that
+he has this line in the book, you don't
+need to understand the molecular details
+of the mind to recreate it. You just
+need to understand how it's organized
+and architected. And so that's kind of
+what led me to focusing on like what
+does the organization of a mind look
+like? And your mind stores a bunch of
+things. It stores your relationships. Uh
+it has uncertainty in it. It connects
+events and heruristics with you know how
+you reason about those events and
+heristics. And it changes over time.
+&gt;&gt; Your beliefs change over time. And so
+what we've ended up with is an adaptive
+temporal knowledge graph. Knowledge
+graphs are great because you can store
+the connections between things and you
+can also store the weights of confidence
+like how how likely is it that you would
+actually say this and we allow people to
+control you know leniency on what they
+want their deli to say and the temporal
+nature is it changes over time so
+eventually you can say what would my
+22-year-old version of me say this
+&gt;&gt; about this topic
+&gt;&gt; um so yeah people can upload their
+social media their YouTube podcast
+websites they can answer questions about
+themselves it creates feeds so it's
+constantly staying up to and updating
+the knowledge graph and then you can
+make it available to others to chat with
+call or video call. And the very
+important thing we had to solve before
+getting any any customers is every
+person was like what if it says
+something wrong and someone takes a
+screenshot and sends it to the daily
+mail. There's just a huge fear.
+&gt;&gt; Yeah.
+&gt;&gt; And so allowing people to kind of choose
+okay it only says things it's trained on
+that directly answers the question.
+That's great for people like Dr. Markman
+who works in the medical space
+or it uses data from the internet. They
+want it to be conclusive. But I think
+the most powerful setting is it only
+says things it's trained on. But when
+posed with a new situation, it can
+predict what you might say in that new
+situation.
+&gt;&gt; And that's useful for a lot of reasons.
+And I can give you example of like how
+that works in practice. If I were to ask
+my grandfather's deli, how would you
+think about running an AI company? He's
+never spoken about AI in his life, but
+in his book, it talks about him starting
+an oil business in Iran in the mid 20th
+century and that was kind of an
+uncertain time in the country. So, we
+have his principles of dealing with
+uncertainty and AI is an uncertain field
+right now. So, he can maybe reason what
+he might say in these new situations.
+&gt;&gt; That's completely fascinating. I love
+that theory of the mind from the book is
+how you built the company.
+&gt;&gt; Yeah. Yeah. Ray Kurszswwell is the man.
+&gt;&gt; It's fascinating. Can you give us some
+examples of the most popular deli uh and
+the you know shapes of uh conversations
+that people are having on your platform?
+&gt;&gt; Yeah, I mean it's pretty uh it's a
+horizontal enablement layer versus like
+a vertical point solution. Like when you
+have a new form of media, there's a lot
+of ways you can you can do that and then
+scale your thoughts. So we have some
+people using it as an entirely new form
+of teaching and learning. You see course
+completion rate at an all-time low
+because our attention spans are kind of
+being destroyed by Tik Tok and reals and
+books as well. Now you have something
+that you can learn from like a mentor in
+a way that's personalized to you that's
+adaptive to your changing circumstances.
+So you could read a book once and come
+back a year later. Your circumstances
+have changed. That book stays the same.
+Deli adapts with you. So that's kind of
+the learning case and people are
+monetizing it, making millions of
+dollars selling time with their mind.
+And then we have just 247 availability
+to their teams. CEOs have a very
+specific way of thinking or their best
+salespeople have a specific way of
+thinking. How do you scale the highest
+leverage people in a company? Because as
+a company scales, what usually breaks is
+alignment. And so now CEOs can be in
+multiple rooms. Top sales people can
+train new hires and help them get up to
+speed faster.
+We have 247
+I don't like to say customer support
+because I don't think we're a
+replacement for intercom or zenesk but
+my deli is in the deli product and like
+my customers will talk to it all the
+time and then they'll email me being
+like yo thank you so much I love the
+product so it almost feels like there's
+a higher NPS and I think it's very
+analogous to Mark Zuckerberg spending a
+t a ton of time on his personal brand
+right now because he knows that the
+relationship between the human and the
+individual is more powerful than the
+relationship between the human and the
+company. And then we have the top of the
+funnel where replacement of personal
+website, LinkedIn profile. You want to
+pick my brain. I don't want to give you
+my email because I have too much spam in
+my email. So why don't you talk to my
+digital mind and it's going to let me
+know if we should hop on a call based on
+what it knows about the kinds of people
+that I want to meet.
+&gt;&gt; Actually, maybe talk about it from that
+perspective. If if you if you have a
+digital mind, how do you like sort of
+talk to your own deli and then figure
+out, you know, the maybe who you should
+go back in contact? Like what can you
+see on the inside once you have a deli?
+&gt;&gt; Yeah. So, it's a combination of
+proactive and passive. So, I could go in
+and and be like, given the past thousand
+conversations, where in the deli product
+should I improve the most? What blog
+post should I create that will give
+clarity to my customers? What's
+resonating with people? or for some of
+our more revenue focused customers,
+where are the biggest revenue
+opportunities? What product should I
+create? What podcast? What should I talk
+about my my next podcast? So, that's
+more passive.
+&gt;&gt; And then the proactive is mine will tell
+me when there's an engineer talking to
+it because we don't want to introduce
+another inbox to someone. We're not
+trying to waste people's time. We're
+trying to save people time. So, you can
+go through all the conversations, but
+what's better is you never have to and
+you trust it enough that it's going to
+tell you when it's an important customer
+or a partner or a journalist or a new
+hire.
+&gt;&gt; Yeah. I actually talked to your deli
+before this to prepare for the podcast
+and I asked it what are some good
+questions to ask you and then what would
+your answers be and that helped guide
+the the scripts. I thought that was a
+really interesting use case that I
+hadn't really anticipated.
+&gt;&gt; Yeah. I uh I interviewed a candidate
+today and I was like starting to tell
+him about myself. He's like, "Oh, don't
+worry. I I already talked to your deli.
+We can we can get straight into it." I
+was like, "Yeah, let's go."
+&gt;&gt; Awesome.
+&gt;&gt; I don't want to have to tell this story
+every time.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Can we share the Brian Halligan use
+case?
+&gt;&gt; Oh. Um, so Brian Alligan is a partner at
+Sequoia, right? I I have him on text. I,
+you know, could easily call him to ask a
+question. And you know, he's written all
+these books about HubSpot and, you know,
+his journey as CEO. And I had a very
+specific question about how they did
+product management when they launched
+their second product. And I was like, I
+could text Brian, but this is kind of I
+don't want to bother him. So I just
+called his deli on my drive home and I
+said, how did you do product management?
+And he gave like a perfect answer. you
+know, I I I could have called him, you
+know, and it's also interesting to see
+some of the other deli being used
+internally at Sequoa. Uh our design
+partner, James Buckhouse, has one, and
+our founders often talk to him about
+storytelling advice. You've talked to
+him before.
+&gt;&gt; Yeah.
+&gt;&gt; And now they text his deli every once in
+a while. And then also text him at the
+same time and say, "Hey, your deli said
+this. Just want to check that that's
+right." And he's like, "Yep, that's spot
+on." So, it's just so fascinating to be
+able to even with people you know, kind
+of not want to bother them or not take
+up too much of their time and still get
+really great answers. So, that's been
+kind of surprising as a consumer.
+&gt;&gt; Yeah.
+&gt;&gt; Who who you are and what you decide to
+share changes based on where you are.
+Like I'm in podcast right now. I'm not
+going to share the things that I share
+with my family.
+&gt;&gt; Yeah.
+&gt;&gt; And so context awareness and the ability
+to hide data. you know, my deli
+internally might have data that
+externally it doesn't have and maybe my
+data my deli if it's going to represent
+me in a dating sense is not going to be
+talking about digital minds create the
+future. It's going to be talking about
+me as a person.
+&gt;&gt; Yeah, totally. Um and and then the
+sequoia use cases you mentioned are
+really interesting because you know one
+of the things we try to be very
+intentional about is we are not you know
+nameless faceless sequoia. We are a
+collection of individuals each with very
+very different personalities, different
+skill sets etc. And so like the founders
+we work with kind of figure that out,
+but Deli kind of allows us to scale that
+in a way uh that that is otherwise hard
+to scale.
+&gt;&gt; Yeah. The what you said, the anxiety of
+wasting someone else's time is actually
+like a huge thing that we started to see
+more and more where it's like
+&gt;&gt; I don't want to waste your time. Also,
+this is a very personal conversation
+that I'm I'm too nervous to have with
+another human being. So I'll just talk
+to your deli instead.
+&gt;&gt; Totally.
+&gt;&gt; What are the most unusual things people
+have asked your deli? like things that
+maybe you were surprised by. Even
+&gt;&gt; there was someone asking about wanting
+to go on a date at some point. I was
+completely in grind mode, so I didn't
+get to double click into that.
+&gt;&gt; Um I always think it's really cool like
+that every once in a while there will be
+like some guy who calls my deli for an
+hour in Hungarian. The cool it's
+multilingual.
+&gt;&gt; So it's like that's just something that
+I wouldn't ever have been able to do
+like talk to this guy and connect with
+him.
+&gt;&gt; And so I think that's very cool. Um,
+and the way they speak to it, they know
+it's not me, but they will they will
+just speak to it as if it is.
+&gt;&gt; Yeah. You know, I often think about, you
+know, right now we're in this time where
+talking to like an AI version of someone
+seems weird and dystopian, but I I
+suspect consumer behavior is going to
+switch very quickly and it's just going
+to become more and more the norm. And
+maybe kind of the same way that we used
+to look at like Wikipedia when it first
+came out. We're like, "Oh, that's
+terrible. people writing, you know,
+facts on the internet. This is horrible
+and we should all be reading
+encyclopedias. And now we're just kind
+of used to it. We set our expectations
+that not everything on the internet is
+true. And so I think people will go
+through this sort of understanding of
+what AI is and what these conversations
+are like and eventually know this is not
+the real DAR. I know what I'm getting.
+It's still useful. It doesn't mean it's
+a replacement for you. So that's kind of
+how I think about
+&gt;&gt; the shift. Where do you think we are in
+that sort of adoption cycle? because I
+what I the thing I I love about you is I
+feel like you live five years in the
+future um and we're like just catching
+up like what do you see down that path?
+Like where do you think this is all
+going?
+&gt;&gt; So I think two things need to happen. Um
+one of them is just it's a culture shift
+and I I know the first year of the
+company was so painful because like no
+one believed in our product. Uh but I
+just saw so many people go from haters
+to like complete believers once they
+understood it, once they got social
+proof. Social proof is a big thing and
+yesterday I was at an event with Tony
+Robbins and Gary Brea and a lot of like
+those kinds of people and there's
+certain people who get it and then
+you'll have someone here it's a group
+where people talk about like their
+business problems in the knowledgebased
+uh sector and there's one guy and he's
+like you know I really wish I could
+scale myself all these people are asking
+for my time and I want to help them but
+I can't I'm only one guy and I'm like
+dude you know about Deli but in his mind
+he's like oh no no like that doesn't
+make sense. And that's when I realized
+like, oh what, like this is a need and
+people want it, but they are anxious
+that it's going to make them look
+inauthentic. They're anxious that it's
+going to say something wrong. There's
+kind of like this perception of AI and
+like what it what it is. So I think it's
+just something that as AI gets more
+ubiquitous and we get more social proof,
+people will adopt. And the second aspect
+of it is from a product perspective,
+before our new mind architecture, it was
+very hard to create a good one unless
+you had a lot of data. And now with
+interview mode and the ability to just
+answer a couple questions about yourself
+to create something pretty high fidelity
+that can represent you, I think we'll
+open it up to mass market.
+&gt;&gt; So that's maybe the supply side, right?
+What do you think will happen on the
+consumer side?
+&gt;&gt; Consumer side. Yeah.
+&gt;&gt; And not even just with Deli, but just
+generally with the future of, you know,
+like you said, we're in the internet
+where there's blogs and articles and now
+we're shifting to all conversational
+medium. Like what does that look like
+for consumers? for consumers to adopt
+deli. The ones we see it happen when
+they make the shift of oh this is just a
+new artifact of the mind. This is not a
+replacement. This is just conversational
+media as James likes to say. But I hope
+that
+right now most networks and online are
+about feeds. So social media and the
+internet is about keeping us scrolling
+and reading forever which I think is
+kind of a waste of time and kind of
+antithetical to the purpose of
+technology. I think in a world where
+everyone has a digital mind, we don't
+like the idea of a feed. We like the
+idea of you have something that knows
+you so well and you trust that it knows
+you so well and it can find the people
+that can most help you in your life,
+whether it's someone to learn from,
+someone to work with based on the
+quality of your thought and it's
+proactive. So there is no feed and you
+spend more time in the real world.
+That's kind of our optimistic version.
+Less scrolling, more learning impactful
+things and more connecting with people
+in real life. I'm also curious how the
+economics of the internet are evolving
+like for example Wikipedia constantly
+running out of money right do you think
+that there's an economic opportunity for
+the people that create deli of
+themselves
+&gt;&gt; totally and there's so many business
+models with this company and I I'll walk
+you through the
+&gt;&gt; the growing nature of it so right now
+people uh pay to have a deli of
+themselves which might sound weird but
+you know you have six million people
+paying Wix to have a personal website
+which is a way of scaling themselves you
+have people paying Beehive to have a
+blog and then people can monetize their
+deli as a new version of a course or a
+book and we already have someone making
+millions of dollars and I think the key
+blocker to that growth is just how the
+positioning. I think the positioning is
+really important for that. We're trying
+to figure out how to market a new kind
+of form of content that people pay for.
+And then you have the idea of people
+being able to license out their digital
+minds. So if Arnold Schwarzenegger for
+example gets 10,000 messages a week
+containing the word supplement, maybe a
+brand wants to buy that keyword and he
+can agree and it's like people based SEO
+or LA Fitness can be like we want to
+rent his identity to represent our
+brand.
+&gt;&gt; So I think there's a idea of scaling
+your identity in a way that can serve
+brands and other people.
+&gt;&gt; And then the last one is the advanced uh
+people search. You know people pay
+LinkedIn sales recruiter or GLG cons
+consulting to find the best person in
+the world on a specific topic. We say
+simulation as a service the new SAS
+where you can have your digital mind
+simulate millions of conversations and
+come back to you and say this is the
+best person and maybe there is business
+models on both sides where you can pay
+to be seen more which I'm kind of
+against because the idea is that it
+should not be hacked and it should be
+authentic or you get better results by
+paying. How do you think about
+balancing, you know, advertising versus
+versus paid? Because there's there's a
+certain lack of authenticity, right?
+When there's when there's keywords and
+people are buying.
+&gt;&gt; Well, the key thing is Arnold has to
+agree to it. Like if he actually
+believes in the brand,
+&gt;&gt; then we don't see any problem with that
+because people want to get
+recommendations from him anyways. It's
+just trust capital.
+&gt;&gt; Yeah. Yeah, I was talking to Mark
+Hyman's uh deli about blood testing and
+he did say maybe you should try function
+health, but that was like actually
+related to what I was talking to him
+about. Yeah. You know what I would love
+is, you know, rather than going to chatt
+and getting sort of the generic internet
+summarized answer, I'd love to ask a
+question like, you know, what supplement
+should I be on? here's my, you know, let
+me upload my results and then have
+different doctors with different
+perspectives or different health people
+answer and then be able to choose which
+of those to engage with. So, I think
+that could be a really cool
+&gt;&gt; Yeah, border advisor. We used to have
+that, then we removed it because now
+we're focused on quality instead of
+shipping speed.
+&gt;&gt; Okay. So, conversations are the the
+future. You think the medium will be
+text, phone calls, video? Like, how do
+you think that plays out? So,
+interestingly enough, we've seen
+consumers whose first experience with
+the product is voice are 5x more
+retentive and likely to come back. I
+think that's interesting. It kind of
+goes onto the point of trust.
+&gt;&gt; Yeah,
+&gt;&gt; I think it'll be both text and voice.
+&gt;&gt; I'm hoping one day we'll have good
+enough video. At the 4runner event, that
+company Persona AI, that video demo
+completely made me realize that video
+would be a medium
+&gt;&gt; if we can get it that good. Because
+right now it's
+&gt;&gt; if it's not perfect, it almost takes
+away from the experience where if you're
+calling or texting, you can have some
+imagination.
+&gt;&gt; Yeah.
+&gt;&gt; Like, oh wow, this is happening.
+&gt;&gt; But video, the bar is a lot higher
+because you are seeing something.
+&gt;&gt; Yeah. Do you block people from having
+certain types of conversations?
+&gt;&gt; It's a good question. I mean, from a
+customer perspective, we don't allow
+politicians right now.
+&gt;&gt; Oh, interesting.
+&gt;&gt; And for various reasons.
+&gt;&gt; Wait, that would be so fun, though. uh
+we could debate with them
+&gt;&gt; at a certain point, but we don't want to
+be a part of a whole Cambridge Analytica
+situation. We're we're too early to be
+affecting elections. Um and we don't
+allow Only Fans or like porn stars
+because I I just think AI girlfriends
+are are very bad.
+&gt;&gt; Um otherwise, we don't do any monitoring
+on the types of conversations people
+have. We do have guardrails on, you
+know, not safe for work topics and, you
+know, hallucinations, so you can't
+convince it to act like something else.
+Tell us a little bit about the most
+unexpected use cases on Deli.
+&gt;&gt; There have been so many and it's
+interesting because we started the
+company just focused on the learning use
+case. Yeah. And then people started
+using it for initial discovery calls and
+customers and like oh there's actually a
+lot more. Uh what we saw in the data is
+a lot of people actually talk to
+themselves
+&gt;&gt; and like one interesting thing that
+someone did was they had a book that was
+recommended to them but they didn't want
+to read it. So they were like I wonder
+if I had read this book what points
+would I get out of it? So they uploaded
+the book uh in conversation their mind
+and they're like what would you think
+about this?
+&gt;&gt; Wow.
+&gt;&gt; I guess I don't have to read the book.
+&gt;&gt; It's amazing.
+&gt;&gt; It was interesting.
+&gt;&gt; Who's on your wish list of people who
+you really would like to have a deli?
+&gt;&gt; So many um I'm a big Robert Green fan.
+Robert Green would be awesome. Obviously
+Paul Graham would be great. Um
+&gt;&gt; he has so many writings. He'd make a
+great deli.
+&gt;&gt; And I've emailed him a couple times.
+Again, some people are just very
+allergic to this idea. Um, I think that
+Steve Jobs and Walt Disney would be
+awesome. Yeah.
+&gt;&gt; And you know, we have some
+&gt;&gt; people who are no longer on the platform
+like Socrates and Abraham Lincoln. Those
+names are in the public domain. For
+people whose names are not in the public
+domain, it would require the permission
+of the foundations and the estates that
+own their identity.
+&gt;&gt; Who's the most requested deli from
+customers or consumers?
+&gt;&gt; Consumers. Uh, definitely Paul Graham.
+&gt;&gt; Definitely Paul Graham and Steve Jobs.
+And Andrew Huberman is another one.
+&gt;&gt; Who's your favorite to talk to?
+&gt;&gt; I talk to many. Um
+&gt;&gt; yourself.
+&gt;&gt; Myself sometimes. Lenny Richki, great
+product person. Actually talk James Buck
+House.
+&gt;&gt; Uh Keith Boy is a very specific style
+and sometimes I like to be reminded of
+his style. Um Matthew Hussy dating life
+of course.
+&gt;&gt; Uh
+&gt;&gt; I'm really excited. We we met Gary Brea
+the past couple days and he is an
+incredible guy. I learned so much about
+health that I had no idea.
+&gt;&gt; Yeah.
+&gt;&gt; And once we create his, I want to give
+it to my parents
+&gt;&gt; because so much is being discovered in
+the health space right now. And I just
+feel like my parents and people of their
+generation are so averse to like, oh,
+what if everything we knew about health
+was wrong?
+&gt;&gt; How can we help them learn that in a
+better way? My parents aren't going to
+listen to a two-hour podcast. One of the
+things that going back to character for
+a second that like always impressed me
+was how long the conversations were and
+how engaged users were. I'm curious what
+you see from your user base.
+&gt;&gt; Depends on the person.
+&gt;&gt; So someone who is using their deli at
+top of funnel might be like a couple
+questions. Yeah.
+&gt;&gt; I want to get a quick answer
+&gt;&gt; versus someone who they're known for
+their way of thinking like Matthew Hussy
+for example six hour phone call.
+&gt;&gt; Wow.
+&gt;&gt; Um Keith 1 hour you know a couple hours.
+It it really depends on the person and
+why do people want to talk to them in
+the first place.
+&gt;&gt; Wow. It could be like a new leaderboard
+that people
+&gt;&gt; Oh, yeah. Yeah. People get competitive,
+but there's a lot of ways of thinking
+about that.
+&gt;&gt; Want to have a more interesting minds
+than
+&gt;&gt; than anyone else.
+&gt;&gt; Yeah.
+&gt;&gt; One of the really surprising use cases
+to me that had a lot of engagement was
+Jason Lekin at Faster
+&gt;&gt; because he tweeted that he brings his
+deli with him to all his real life
+conversations. What is that about? I
+think he brings it to his Zoom calls and
+uh
+&gt;&gt; it can answer questions in the call and
+it can also give him a recap on on what
+happened and he has it on the Sasser
+website as well. Um
+&gt;&gt; and a couple things for him. One advice,
+you know, he knows a lot about SAS. Two,
+I think it actually sold tickets to his
+Saster event. So, you know, this past
+week I was with uh Russell Brunson whose
+whole thing is he gives talks at
+conferences to sell events. to one to
+many scale selling and deli's one to
+many to one selling where you know it's
+personalized you trust the person and
+adapts to the end user
+&gt;&gt; what do you think will be the tipping
+point that makes digital twins go from
+early adopters to mainstream like is it
+a tech tipping point is just gradual
+cultural acceptance
+&gt;&gt; all the above I think uh definitely
+interview mode and definitely look
+decreasing the friction right now
+there's kind of a purposefully a good
+amount of friction to setting one up and
+making it useful I I think it needs to
+be super easy, like a couple steps.
+People are so impatient.
+&gt;&gt; Um,
+&gt;&gt; and then culture. I think the more case
+studies, the more people that are like,
+"This is not weird."
+&gt;&gt; And
+&gt;&gt; I think we want to buy the dot domain
+because we actually don't want to be
+seen as an AI company. I think AI is
+just like a tool and it allows us to
+build this thing, but really we're more
+of like a human company. We scale
+humans.
+&gt;&gt; What do you think in 5 years will be
+obvious about digital twins that, you
+know, you know, contrarian or early
+today? I think it will be obvious that
+consumers prefer to be able to talk to
+something before talking to you.
+&gt;&gt; What is the role of humans in this new
+future where everyone has a digital
+mind?
+&gt;&gt; I mean I think right now so many
+companies are focused on automating
+humans, automating, automating,
+automating. And I think it just forgets
+like what is the purpose of like living
+at all? It's it's humans and
+relationships. You know, since we became
+a species, our life has revolved around
+knowing other humans. And I think uh
+Bezos's conviction in Amazon was also
+grounded in a core human need, which was
+hunter gather. You want to buy things,
+you want to collect things. And I think
+the need that we're betting on is like
+you want to connect with other humans.
+And in a world where AI is abundant and
+infinite and information is no longer
+the bottleneck, the bottleneck and the
+premium thing becomes the connection,
+the curation, the trust and the energy.
+So I think humans, the humans that put
+the work in become more valuable. And
+what I mean by put the work in is it's
+easier than ever to be mediocre at
+something. Now you can create AI slop of
+a book or a course or a software product
+that that top 5% of additional effort I
+think is going to get 95% of the
+results.
+&gt;&gt; Should we close with some rapid fire?
+&gt;&gt; Yeah. Who is the most popular deli on
+the platform?
+&gt;&gt; It switches. I mean Mark Heyman
+definitely gets up there. Matthew Hussy,
+Andy Elliot, um Pace Morby, Brennan
+Bashard, Arnold Schwarzenegger,
+Natalie Ellis. But then there's a
+difference between popularity of like
+usage and the ones that like if you have
+a smaller cohort that's coming back
+consistently versus a million people
+using it. How do you evaluate those two?
+So like Lenny people come back a lot. Um
+Keith
+&gt;&gt; Socrates do you think consumer or
+enterprise B2B use cases will be more
+abundant on your platform? So my take is
+that consumer and B2B converges over
+time
+&gt;&gt; because every the creator economy or the
+individual economy every individual is a
+business
+&gt;&gt; and like our customers are coaches,
+authors, CEOs who are also their
+businesses. Yeah.
+&gt;&gt; And back to the idea of branding like
+Mark Zuckerberg being the face of his
+company. I think like BTOC, B2B, B2P,
+business to people,
+&gt;&gt; you're building products for people.
+&gt;&gt; Um and so I think it's both. I think and
+the network effects come with the
+consumer platform, but you know, you'll
+have CEOs that have an external facing V
+version for new hires and customers and
+one internally for their companies.
+&gt;&gt; All right, let's do some rapidfire
+consumer questions because you're a
+consumer guy. What is uh is there a
+consumer app or habit or life hack that
+you have recently adopted?
+&gt;&gt; I've been pretty underwhelmed by new
+consumer AI tools to be honest. Um and I
+try not to tinker around too much
+because I tinker around enough with
+Deli. M
+&gt;&gt; uh so I don't think my answers are very
+different than the cliches of perplexity
+research and uh notion and things like
+that.
+&gt;&gt; Has AI affected your life in any
+meaningful way outside of
+&gt;&gt; Deli?
+One thing that it has made me a lot
+better at is
+a lot of times people have different
+communication styles and I'm not just
+talking about in like their words or
+their languages but in how they perceive
+things. So you could be emailing someone
+about, you know, a customer or an
+investor or a new hire and conflict can
+result due to lack of communication. Um,
+so that's actually one way I've been
+using AI a lot is what do they actually
+mean and how can I get what I mean in
+the way that they perceive.
+&gt;&gt; Uh, and I think that has helped me a lot
+with relationships.
+&gt;&gt; Interesting. Like a translator almost
+&gt;&gt; almost like a mental translator, but
+it's not language. It's just
+&gt;&gt; the way you perceive and understand
+things. Mhm.
+&gt;&gt; Okay, last question. I'm very proud of
+this one. Just thought of it. The deli
+touring test. In what year will people
+not know whether they're talking to
+somebody's digital mind or or that
+person?
+&gt;&gt; Well, I'll preface by saying we don't
+want that necessarily. Well, we don't
+want it to ever be tricking people.
+&gt;&gt; Y
+&gt;&gt; because Deli is not meant to be
+deceptive.
+&gt;&gt; Yep.
+&gt;&gt; I think widespread 2026
+&gt;&gt; because already it's happening in a
+couple cases now. We we whenever a
+customer creates a deli, we say send it
+to your mom first. Uh and that's going
+to be the way you're confident with it.
+And many times they're like my mom
+thought it was me. Oh my god. Like this
+is amazing.
+&gt;&gt; Great answer. 2026. Yeah.
+&gt;&gt; Come around the corner very quickly.
+&gt;&gt; Let's call Adelfi right now.
+&gt;&gt; I'm down.
+&gt;&gt; Yeah.
+&gt;&gt; How about we call my friend? I actually
+haven't met him in person, but I'm I'm
+friends with this deli Arnold
+Schwarzenegger.
+&gt;&gt; Yeah.
+&gt;&gt; What do we think?
+&gt;&gt; Love it.
+&gt;&gt; All right. What do you guys want to ask
+him? I have 15 minutes a day to work out
+because I'm busy. What is the best
+15inute exercise that I can do?
+&gt;&gt; Okay.
+&gt;&gt; Hey, this is AI Arnold. I'm here to cut
+the crap and help you get stronger,
+healthier, and happier. So, what's on
+your mind today,
+&gt;&gt; Arnold? I have 15 minutes a day to work
+out, which I feel like is not a lot, but
+I want to feel good and I want to get
+better in my health. What do you
+recommend I do?
+&gt;&gt; 15 minutes is plenty if you focus and go
+hard. Don't overthink it. Stick to
+simple, effective moves that hit
+multiple muscles. Do one to two sets of
+exercises like pushups, reverse lunges,
+and lying leg raises. Keep rest short
+and push yourself. You'll feel like a
+champion in no time. Now, get to it.
+&gt;&gt; All right, man. Thank you.
+&gt;&gt; That's awesome.
+&gt;&gt; Very cool.
+&gt;&gt; Yeah.
+&gt;&gt; Amazing. Dra, thank you so much for
+joining us. This is fun.
+&gt;&gt; Thank you.
+[Music]

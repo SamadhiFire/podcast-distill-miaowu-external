@@ -1,0 +1,2862 @@
+Kind: captions
+Language: en
+To build great AI products, you need to
+be really good at building evals. It's
+the highest ROI activity you can engage
+in. This process is a lot of fun.
+Everyone that does this immediately gets
+addicted to it when you're building an
+AI application. You just learn a lot.
+What's cool about this is you don't need
+to do this many, many times. For most
+products, you do this process once and
+then you build on it.
+&gt;&gt; The goal is not to do evals perfectly.
+It's to actionably improve your product.
+&gt;&gt; I did not realize how much controversy
+and drama there is around eval. There's
+a lot of people with very strong
+opinions. People have been burned by
+evals in the past. People have done
+evals badly, then they didn't trust it
+anymore and then they're like, "Oh, I'm
+anti- evals."
+&gt;&gt; What are a couple of the most common
+misconceptions people have with EVEL?
+The top one is we live in the age of AI.
+Can't the AI just eval it? But it
+doesn't work. A term that you used in
+your post that I love is this idea of a
+benevolent dictator. When you're doing
+this open coding, a lot of teams get
+bogged down in having a committee do
+this. For a lot of situations, that's
+wholly unnecessary. You don't want to
+make this process so expensive that you
+can't do it. You can appoint one person
+whose taste that you trust. It should be
+the person with domain expertise.
+Oftentimes it is the product manager.
+Today my guests are Hamill Hussein and
+Shrea Shankar. One of the most trending
+topics on this podcast over the past
+year has been the rise of evals. Both
+the chief product officers of Anthropic
+and OpenAI shared that eval are becoming
+the most important new skill for product
+builders. And since then, this has been
+a recurring theme across many of the top
+AI builders I've had on. 2 years ago, I
+had never heard the term evals. Now,
+it's coming up constantly. When was the
+last time that a new skill emerged that
+product builders had to get good at to
+be successful? Hamill and Shrea have
+played a major role in shifting evals
+from being an obscure mysterious subject
+to one of the most necessary skills for
+AI product builders. They teach the
+definitive online course on evals, which
+happens to be the number one course on
+Maven. They've now taught over 2,000 PMs
+and engineers across 500 companies,
+including large swats of the open AI and
+anthropic teams along with every other
+major AI lab. In this conversation, we
+do a lot of show versus tell. We walk
+through the process of developing an
+effective eval, explain what the heck
+evals are and what they look like,
+address many of the major misconceptions
+with eval, give you the first few steps
+you can take to start building evals for
+your product, and also share just a ton
+of best practices that Hamill and Trey
+have developed over the past few years.
+This episode is the deepest yet most
+understandable primer you will find on
+the world of evals and honestly got me
+excited to write evals. Even though I
+have nothing to write eels for, I think
+you'll feel the same way as you watch
+this. If this conversation gets you
+excited, definitely check out Hamill and
+Shreas's course on Maven. We'll link to
+it in the show notes. If you use the
+code Lenny's List when you purchase the
+course, you'll get 35% off the price of
+the course. With that, I bring you
+Hamill Hussein and Shrea Shankar. This
+episode is brought to you by Finn, the
+number one AI agent for customer
+service. If your customer support
+tickets are piling up, then you need
+Finn. Finn is the highest performing AI
+agent on the market with a 65% average
+resolution rate. Finn resolves even the
+most complex customer queries. No other
+AI agent performs better. In
+head-to-head bake offs with competitors,
+Finn wins every time. Yes, switching to
+a new tool can be scary, but Finn works
+on any help desk with no migration
+needed, which means you don't have to
+overhaul your current system or deal
+with delays in service for your
+customers. And Finn is trusted by over
+5,000 customer service leaders and top
+AI companies like Anthropic and
+Synthesia. And because Finn is powered
+by the Finn AI engine, which is a
+continuously improving system that
+allows you to analyze, train, test, and
+deploy with ease. Finn can continuously
+improve your results, too. So, if you're
+ready to transform your customer service
+and scale your support, give Finn a try
+for only 99 cents per resolution. Plus,
+Finn comes with a 90-day money back
+guarantee. Find out how Finn can work
+for your team at f.ai. ai/lenny. That's
+finn.ai/lenny.
+This episode is brought to you by Doutt.
+Design teams today are expected to move
+fast, but also to get it right. That's
+where Dout comes in. Dcout is the
+all-in-one research platform built for
+modern product and design teams. Whether
+you're running usability tests,
+interviews, surveys, or in the wild
+fieldwork, Dout makes it easy to connect
+with real users and get real insights
+fast. You can even test your Figma
+prototypes directly inside the platform.
+No juggling tools, no chasing ghost
+participants. And with the industry's
+most trusted panel, plus AI powered
+analysis, your team gets clarity and
+confidence to build better without
+slowing down. So if you're ready to
+streamline your research, speed of
+decisions, and design with impact, head
+to dscout.com to learn more. That's
+dscout.com.
+The answers you need to move
+confidently.
+Hammel and Shrea, thank you so much for
+being here and welcome to the podcast.
+Thank you for having us.
+&gt;&gt; Yeah, super excited.
+&gt;&gt; I'm even more excited. Okay, so a couple
+years ago, I had never heard the term
+evals. Now it's one of the most trending
+topics on my podcast essentially that to
+build great AI products, you need to be
+really good at building evals. Uh, also
+turns out some of the fastest growing
+companies in the world are basically
+building and selling and creating evals
+for AI labs. I just had the CF Merkore
+on the podcast. So, there's something
+really big happening here. Uh, I want to
+use this conversation to basically help
+people understand the space deeply. But
+let's start with the basics. Just what
+what the heck are EVALs? For folks that
+have no idea what we're talking about,
+give us just a quick understanding of
+what an eval is. And let's start with
+with Haml. Sure. Evals is a way to
+systematically measure and improve an AI
+application. And it really doesn't have
+to be scary or unapproachable at all. It
+really is at its core data analytics on
+your LLM application in a systematic way
+of looking at that data and where
+necessary creating metrics around things
+so you can measure what's happening and
+then so you can iterate and do
+experiments and improve. So that's a
+that's a really good broad way of
+thinking about it. If you go one level
+deeper just to give people a very even
+more concrete way of imagining and
+visualizing what we're talking about
+even if you have a example to show it
+would be even better. What's a what's an
+even deeper way of understanding what an
+eval is? Let's say you have a real
+estate assistant
+you know application and it's it's not
+working the way you want. it's not
+writing emails to customers the way you
+want or it's not uh you know calling the
+right tools
+or any number of errors and
+before evals you would be left with
+guessing you would maybe fix a prompt
+and hope that you're not breaking
+anything else with that prompt and you
+might rely on vibe checks which is
+totally fine and vibe checks are good
+and you should do vibe checks
+initially, but it can become very
+unmanageable very fast because as your
+application grows, it's really hard to
+rely on vibe checks. You just feel lost.
+And so eval help you create
+metrics that you can use to measure how
+your application is doing and kind of
+give you a way to improve your your
+application with confidence that you
+have a feedback signal in which to
+iterate against. So just to make it very
+real. So imagining this uh real estate
+agent maybe they're helping you book a
+listing or go see an open house. The
+idea here is you have this agent talking
+to people. It's answering questions,
+pointing them to things. As a builder of
+that agent, how do you know if it's
+giving them good advice, good answers?
+Is it telling them things that are
+completely wrong? So, the idea of eval
+essentially is to build a set of tests
+that tell you is how often are is this
+agent doing something wrong that you
+don't want it to do? And there's a bunch
+of ways wrong you could define wrong. It
+could be uh just making up stuff. It
+could be uh just answering in a really
+strange way. Uh the way I think about
+eval and tell me if this is wrong just
+simply is like unit tests for for code
+and then you're smiling. You're like no
+you idiot.
+&gt;&gt; Oh that's not what I was thinking.
+&gt;&gt; Okay. Okay. Tell me tell me how does
+that feel as a metaphor?
+&gt;&gt; So okay I like what you said first which
+is we had a very broad definition. Evals
+is a big spectrum of ways to measure
+application quality. Now unit tests are
+one way of doing this. Maybe there are
+some non-negotiable functionalities that
+you want your AI assistant to have and
+unit tests are going to be able to check
+that. Now maybe you also because these
+AI assistants are doing such open-ended
+tasks, you kind of also want to measure
+how good are they at very vague or
+ambiguous things like responding to new
+types of user requests or you know
+figuring out if there's new
+distributions of data like new users are
+coming and using your real estate agent
+that you didn't even know would use your
+product and then all of a sudden you
+think like oh there's a different way
+you want to kind of accommodate this new
+group of people. So eval could also be
+you know a way of looking at your data
+regularly to find these new cohorts of
+people. Evals could also be like metrics
+that you know you just want to track
+over time like you want to track people
+saying yes thumbs up I liked your
+message. Um you want to very very basic
+things that are not necessarily AI
+related but can go back into this
+flywheel of improving your product. So I
+would say on the end on overall right
+unit tests are a very small part of that
+very big puzzle.
+&gt;&gt; Awesome. You guys actually brought an
+example of inval just to show us exactly
+what the hell we're talking about. We're
+talking in these big ideas. So how about
+let's pull one up and show people here's
+here's what an eval is.
+&gt;&gt; Yeah. Let me just set the stage for it a
+little bit. So to echo what Shrea said,
+it's really important that we don't
+think of evals as just tests. It's a
+common trap that a lot of people fall
+into because they jump straight to the
+test like let me write some tests and
+usually that's not what you want to do.
+You should start with some kind of data
+analysis to ground what you should even
+test. And that's a little bit different
+than software engineering where you have
+a lot more
+expectations of how the system is going
+to work. With LLMs, it's a lot more
+surface area. It's very stochastic. So,
+we kind of have a different flavor here.
+And so, the example I'm going to show
+you today, it's actually a real estate
+example. It's a different kind of real
+estate example. It's uh from a company
+called Nurture Boss. I can share my
+screen to show you their website just to
+help you understand this uh use case a
+little bit. So, let me share my screen.
+So, this is a company that I worked
+with. It's called Nurture Boss and it is
+a AI assistant for property managers who
+are managing apartments. And it helps
+with various tasks such as inbound
+leads, customer service, booking
+appointments, so on and so forth, like
+all the different sort of operations you
+might be doing as a property manager. It
+helps you with that. And so, you know,
+you can see kind of what they do. It's a
+very good example because it has a lot
+of the complexities of a modern AI
+application. So there's lots of
+different channels that you can interact
+through the AI with like chat,
+text, voice, but also there's tool
+calls, lots of tool calls for like
+booking appointments, getting uh
+information about availability, so on
+and so forth. There's also rag
+retrieval,
+getting information about customers and
+properties and things like that. So it's
+pretty fullyfledged in terms of an AI
+application
+and so
+they have been really generous with me
+and uh allowing me to use their data as
+a teaching example and so we have
+anonymized it but what I'm going to walk
+through today is okay let's create let's
+do the first part of how we would start
+to build evals for nurture boss like why
+Would we even want to do that? So let's
+go through the very beginning stage what
+we call error analysis
+which is let's look at the data of their
+application
+and first start with what's going wrong.
+So I'm going to jump to that next and
+I'm going to open an observability tool
+and you can use whatever you want here.
+I just happen to have this data loaded
+in a tool called brain trust but you can
+load it in anything you know it's not we
+don't have a favorite tool or anything
+in the blog post that we wrote with you
+uh we
+had the same example but in Phoenix
+Arise um and I think Aman on your blog
+post use Phoenix Arise as well and
+there's also Langmith so these are kind
+of like different tools that you can use
+so what you see here on the screen. This
+is logs from the application
+and
+let me just show you how it looks. So
+what you see here is and let me make it
+full screen. So this is one particular
+interaction that a customer had with the
+nurture boss application.
+And what it is, it's a detailed log of
+everything that happened. So it's it's a
+it's called a trace and it's just an
+engineering term for logs of a sequence
+of events. It's been a the concept of a
+trace has been around for a really long
+time but it's especially really
+important when it comes to AI
+applications. So we have all the
+different components and pieces and
+information that the AI needs to do its
+job and we are logged all of it and
+we're looking at a view of that and so
+you see here a system prompt. The
+assistant prompt says you are an AI
+assistant working as a leasing team
+member at retreat at Acme Apartments.
+Remember I said this is anonymized. So
+that's why the name is Acme Apartments.
+Your primary role is to respond to text
+messages from both residents and
+perspective uh both current residents
+and prospective residents. Your goal is
+to provide accurate helpful information
+yada yada yada. And then there's a lot
+of detail around guidelines of how we
+want this thing to behave.
+&gt;&gt; Is this their actual system prompt by
+the way for this company?
+&gt;&gt; It is. Yes. It's a real system prompt.
+&gt;&gt; That's amazing because that's really
+it's rare you see actual company
+products system prompt. That's like
+their crown jewels a lot of times. So
+this is actually very cool on its own.
+&gt;&gt; Yeah. Yeah. It's really cool. And you
+know you see all these different sort of
+features that they want to
+or different use cases. So things about
+tour scheduling, handling applications,
+guidance on how to talk to different
+personas, so on and so forth. And you
+can see the user just kind of jumps in
+here. It says asks, okay, do you have a
+one-bedroom with study available? I saw
+it on virtual tours. And then you can
+see that the LM
+calls some tools. It calls this get
+individual's information tool and it
+pulls back that person's information and
+then it gets the community's
+availability.
+So it's, you know, it's querying a
+database with the availability for that
+apartment complex. And then finally, the
+AI responds, hey, we we have several
+one-bedroom apartments available, but
+none specifically listed with a study.
+Here are a few options.
+Uh, and then it says, "Can you let me
+know when one with a study is
+available?"
+And then it says, "I currently don't
+have specific information on the
+availability of a one-bedroom
+apartment."
+User says, "Thank you." And the AI says,
+"You're welcome. If you have any more
+questions, feel free to reach out." Now,
+this is
+an example of a trace, and this is we're
+looking at one specific data point.
+And so one thing that's really important
+to do when you're doing data analysis of
+your LLM application is to look at data.
+Now you might wonder there's a lot of
+these logs.
+It's kind of messy. There's a lot of
+things going on here. How in the hell
+are you supposed to look at this data?
+Do you want to just drown in this data?
+How do you even analyze this data? So it
+turns out there is a way to do it that
+is completely manageable
+and it's not something that we invented.
+It's been around in machine learning and
+data science for a really long time and
+it's called error analysis. And what you
+do is the first step in conquering data
+like this is just to write notes. Okay?
+So, you got to put your product hat on,
+which is why we're talking to you
+because product people have to be in the
+room. Um, and they have to be involved
+in sort of doing this. You know, usually
+a developer is not suited to do this,
+especially if it's not a coding
+application.
+&gt;&gt; And I'm just to mirror back why I think
+you're saying that is because this is
+the user experience of your product.
+People talking to this agent is the
+entire product essentially. And so it
+makes sense for the product person to be
+involved, super involved in this. Yeah.
+So let's let's reflect on this
+conversation.
+Okay. A user asked about availability.
+The AI said, "Oh, we don't really have
+that. Have a nice day."
+Now, for a product that is helping you
+with
+lead management,
+is that good? Like, do you feel
+like this is the way we want it to to
+go?
+&gt;&gt; Not ideal.
+Yes. Not ideal. And I'm glad you said
+that. A lot of people would say, "Oh,
+it's great. Like the AI did the right
+thing. It said we don't it looked it
+said we didn't have available and it's
+not available." But with your product
+hat on, you know, that's not correct.
+And so what you would do is you would
+just write a quick note here. You would
+say okay um you know you might pop in
+here let me just and you can write a
+note so every observability application
+has ability to write notes and you
+wouldn't try to figure out if something
+is wrong in this applica you know in
+this case it's kind of not doing the
+right thing. Um but you just write a
+quick note um should you know should
+have handed off to a human
+&gt;&gt; and as we watch this happening it's like
+you mentioned this and you'll explain
+more you're doing this this feels very
+ma manual and unscalable but uh as you
+said this is just one step of the
+process and there's a system to this and
+it's just the first part
+&gt;&gt; and you don't have to do it for all of
+your data you can you sample your data
+and just take a look and it's surprising
+amazing how much you learn when you do
+this. Everyone that does this
+immediately gets addicted to it and they
+say, "This is the greatest thing that
+you can do when you're building an AI
+application." You just learn a lot.
+You're like, "Hm, this is not how I want
+it to to work." Okay. And so, um, that's
+just an example. So, you write this note
+and then we can go on to the next trace.
+So, this is the next trace. I just
+pushed a hot key on my keyboard. Let me
+go back to uh looking at it.
+&gt;&gt; And these tools make it easy to go
+through a bunch and add these notes
+quickly.
+&gt;&gt; Yes. And so this is another one. Similar
+system prompt. We don't need to go
+through all of it. Again, we'll just
+jump right into the user question. Okay.
+I've been texting you all day. Maybe
+it's is funny. Um
+um
+and
+uh the user says please okay yeah this
+one is you this one is just like an
+error in the application where you know
+um this is a text message application
+and so
+you know it's a tech the sorry the
+channel through which the customer is
+communicating is through text message
+and it's just getting like really
+garbled And you can see here that it
+kind of doesn't make sense,
+you know, like the words are being cut
+off like in the meantime
+and then the system doesn't know how to
+respond because you know how people text
+message, they like write short phrases,
+they you know split split their sentence
+across four or five different turns. So
+in this case
+&gt;&gt; you do with something like that.
+&gt;&gt; Yeah. So this is a this is a different
+kind of error.
+&gt;&gt; This is more of hey we're not handling
+this interaction correctly. This is more
+of a technical problem.
+um rather than hey the AI is not doing
+exactly what we want. So we would write
+down too like it's amazing you're
+catching that too here otherwise you'd
+have no idea this was happening.
+&gt;&gt; Yeah you might not know this is
+happening right and so you would just
+say okay um you would write a note like
+oh
+conversation flow
+is janky
+because of text message and I like yeah
+I like that I like that you're using the
+word janky. shows you just how informal
+this can be at this stage. Yeah, it's
+supposed to be chill like just don't
+overthink it. And there's some there's a
+way to do this. So
+the question always comes up, how do you
+do this? Do you look at do you try to
+find all the different problems in this
+trace? What what do you write a note
+about? And the answer is just write down
+the first thing that you see that's
+wrong, the most upstream error. Don't
+worry about all the errors. just capture
+the most the first thing that you see
+that's wrong and stop and move on.
+And you can get really good at this. The
+first two or three can be very painful,
+but you know, it doesn't we can, you
+know, do a bunch of them really fast.
+So, here's another one. And um let's
+skip the system prompt again. And the
+user asks, "Hey, I'm looking for a two
+to threebedroom with either one or two
+bats. Do you provide virtual tours?
+and a bunch of tools are called
+and it says, "Hi Sarah, currently we
+have three bedroomedroom, two and a half
+bathroom apartment available for $2,175.
+Um, unfortunately we don't have any
+two-bedroom options at the moment. We do
+offer virtual tool tours. You can
+schedule a tour blah blah blah. It just
+so happens that there is no virtual
+tour,
+&gt;&gt; right? So um you know it is
+hallucinating something that doesn't
+exist and you would you kind of have to
+bring your context as an engineer or
+even your product content and say hey
+this is kind of weird like you know we
+shouldn't be telling person about
+virtual tour when it's not offered. So
+you would say okay uh you know offered
+virtual tour
+and you just you know you just write the
+note.
+So you can see there's a diversity of
+different kinds of errors that we're
+seeing and we're actually learning a lot
+about your application
+um in a very short amount of time.
+&gt;&gt; One common question that we get from
+people at this stage is okay I
+understand what's going on. Can I ask an
+LLM to do this process for me?
+&gt;&gt; Great question. And I loved Hammel's
+most recent example because what we
+usually find when we try to ask an LLM
+to do this error analysis is it just
+says the trace looks good because it
+doesn't have the context needed to
+understand whether something might be
+you know bad product smell or you know
+not for example the hallucination about
+scheduling the tour right I can
+guarantee you I would bet money on this
+if I put that into chat GBT and asked is
+there an error it would say no did a
+great
+But Hamill had the context of knowing,
+oh, we don't actually have this virtual
+tour functionality, right? So, I think
+in these cases, it's so important to
+make sure you are manually doing this
+yourself. Um, and we'll talk a we can
+talk a little bit more about when to use
+LLMs in the process later, but like
+number one pitfall right here is people
+are like, let me automate this with an
+LLM.
+&gt;&gt; Do you think they'll we'll get to a
+place where where an agent can do this?
+&gt;&gt; Oh, no, no, no. Sorry. There are parts
+of error analysis that an LLM is suited
+for which we can talk about later in
+this podcast
+&gt;&gt; but right now in this stage of free form
+note takingaking is not the
+&gt;&gt; place for an LLM.
+&gt;&gt; And this is something you call open
+coding this.
+&gt;&gt; Yes, absolutely.
+&gt;&gt; Uh another uh term that you used in your
+post that I love and that's fits into
+this step is this idea of a benevolent
+dictator. Maybe just talk about what
+that is and maybe Sha cover that.
+&gt;&gt; Yeah. So Hamill actually came up with
+this term.
+&gt;&gt; Okay, maybe Ham will cover the answer.
+&gt;&gt; No problem. And we'll actually show the
+LM automation in this example because
+we're going to take this example. We're
+going to go all the way through.
+&gt;&gt; Amazing.
+&gt;&gt; And so and so um benevolent dictator is
+just a catchy term for the fact that
+when you're doing this open coding, a
+lot of teams get bogged down in having a
+committee do this. And for a lot of
+situations that's wholly unnecessary
+like
+you know people get really uncomfortable
+with okay you know we want everybody on
+board we want everybody involved so on
+and so forth. You need to cut through
+the noise. Um in a lot of organizations
+if you look really deeply especially
+small mediumsiz companies there's really
+like you can appoint one person whose
+taste that you trust. Um, and you can
+you can do this with a small number of
+people and often one person. And that's
+it's really important to make this
+tractable. You don't want to make this
+process so expensive that you can't do
+it. You're going to lose out. So that's
+the idea behind benevolent dictator is,
+hey, you need to simplify this
+across as many dimensions as you can.
+Another thing that we'll talk about
+later is when you goes to building an
+LLM as a judge, you need a binary score.
+You don't want to think about is this
+like a one, two, three, four, five, like
+assign a score to it. You can't. That's
+going to slow it down. Just to make sure
+this benevolent dictator point is is
+really clear. Basically, this is the
+person that does this note-taking and
+ideally they're the expert on the stuff.
+So, if it's law stuff, maybe there's
+like a legal person that owns this. It
+could be a product manager. Give us
+advice on who this person should be.
+&gt;&gt; Yeah, it should be the person with
+domain expertise. So in this case you
+know it would be the person who
+understands the business of leasing
+apartment leasing and has context to
+understand if this makes sense. It's
+it's always the domain expert like you
+said okay for legal it would be a law
+person for mental health it would be the
+mental health expert whether that's like
+a psychiatrist or you know someone else.
+&gt;&gt; Cool.
+&gt;&gt; Um oftentimes it is the product manager.
+&gt;&gt; Cool. So the advice here, pick that
+person. May not feel so super fair that
+they're the one in charge and they're
+the dictator, but they're benevolent.
+It's going to go be okay.
+&gt;&gt; Yeah, it's going to be okay. You're just
+trying to It's not perfection. You're
+just trying to make progress and
+in get signal quickly so you have an
+idea of what to work on because it can
+become infinitely expensive if you're
+not careful.
+&gt;&gt; Yeah. Okay, cool. Let's go back to your
+examples. Yeah, no problem. So this is
+another example where we have
+someone saying, "Okay, do you have any
+specials?"
+And the assistant or the AI responds,
+"Hey, we have a 5% military discount."
+User responds, "Can you," and it
+switches a subject, can you tell me how
+many floors there are? Do you have any
+onebedrooms available or one bedrooms on
+the first floor? And the AI responds,
+"Yeah, okay. We have several one-bedroom
+apartments available." And then the user
+wants to confirm any of those on the
+first floor. And how much are the
+onebedrooms? And then also is is a
+current resident. So it's they're also
+asking, I need a maintenance request.
+This is actually pretty like you could
+see the messiness of the real world in
+here. And the assistant just calls a
+tool that says transfer call,
+&gt;&gt; but it doesn't say anything. It just
+abruptly does transfer call.
+&gt;&gt; So it's pretty jank I would say like
+it's just not you know another jank
+&gt;&gt; another kind of jank a different kind of
+jank. So you don't want to when you
+write the open note you don't want to
+say jank because what we want to do is
+we want to understand what and when we
+look at the notes later on we want to
+understand like what happened. So you
+just want to say um you know did not
+confirm
+call transfer
+with uh with user.
+It doesn't have to be perfect. You just
+have to have a general idea of what's
+going on.
+&gt;&gt; Cool.
+&gt;&gt; So okay. So let's say we do and we Treya
+and I we recommend doing at least a
+hundred of these. The question is always
+like how many of this do you do? And so
+there's not a magic number. we say 100
+is because we know that as soon as you
+start doing this once you do 20 of these
+you will automatically find it so useful
+that you will continue doing it. So we
+just say 100 to mentally unblock you so
+it's not intimidating like don't worry
+you're only going to do 100
+and there is a a term for that of so so
+the right answer is keep looking at
+traces until you feel like you're not
+learning anything new
+should talk about
+&gt;&gt; yeah so there's actually a term in data
+analysis and quant qualitative analysis
+called theoretical saturation
+So what this means is when you do all of
+these processes of looking at your data
+when do you stop? It's when you are
+saturating or you're not uncovering any
+new types of notes, new types of
+concepts or nothing that will like
+materially change the next part of your
+process. Um, and this kind of takes a
+little bit of intuition to develop. So
+typically people don't really know when
+they've reached theoretical saturation
+yet. That's totally fine. When you do
+two or three examples or rounds of this,
+like you will develop the intuition. A
+lot of people realize like, oh, okay,
+like I only need to do 40. I only need
+to do 60. Actually, I only need to do
+like 15. I don't know. Like depends on
+the application and develops like how
+depends on how savvy you are with error
+analysis. For sure.
+&gt;&gt; And your point about you probably want
+to you're going to want to do a bunch. I
+imagine it's because you're just like,
+oh, I'm discovering all these problems.
+I got to see what else is going on here.
+&gt;&gt; Exactly. And I promise at some point
+you're like not going to discover new
+types of problems.
+&gt;&gt; Yeah. Awesome. So let's say you did a
+100 of these. What's the next step?
+&gt;&gt; Yeah. Okay. So you did 100 of these. Now
+you have all these notes. So this is
+where you can start using AI to help
+you. Um you So the part where you looked
+at this data is important. Like we
+discussed, you don't want to automate
+this part too much. Humans will still
+have jobs. This is a takeaway here.
+That's great.
+&gt;&gt; Yes. Just reviewing traces. At least
+there's one job left for now.
+&gt;&gt; Yeah. So, yeah, exactly. Um, and so,
+okay, you have all these notes.
+Now, to turn this into something useful,
+you can do basic counting. So, basic
+counting is the most powerful analytical
+technique in data science uh because
+it's so simple and it's kind of
+undervalued
+um in many cases. And so, it's very
+approachable for people. And so the
+first thing you want you want to do is
+take these notes and you can categorize
+them with an LLM. And so there's a lot
+of different ways to do that. Right
+before this podcast, I took three
+different
+uh coding agents or you know uh AI tools
+and had it categorize these notes. So
+one is okay, I uploaded into a cloud
+project. I uploaded a CSV of these notes
+and I just exported them directly from
+this interface. Um, there's a lot of
+different ways to do this, but I'm I'm
+showing you the simple stupid way, the
+most basic way of doing things.
+And so I dumped the CSV in here and I
+said, "Please analyze the following CSV
+file. There's and I told it there's a
+metadata field that has a note in it."
+But what I said is I used the word open
+codes. I said, "Hey, I have different
+open codes
+and that's a term of art. That's um LMS
+know what open codes are and they know
+what axial codes are because it is a it
+is a concept that's been around for a
+really long time. So those words help me
+shortcut like what I'm trying to do."
+&gt;&gt; That's awesome. And the end of the end
+of the prompt is telling it to create
+axial codes.
+&gt;&gt; Yes, creating a codes. So what it does
+is
+&gt;&gt; so maybe it's worth talking about what
+are axial codes or like what's the point
+here right you have a mess of open codes
+right and you don't have 100 distinct
+problems actually mo many of them are
+repeats but because you phrased them
+differently right and in that you
+shouldn't have tried to create your
+taxonomy of failures as you're open
+coding you just want to get down what's
+wrong and then organize okay what's the
+most common failure mode so the purpose
+axial code basically is just a failure
+mode. It's like the label or category.
+And what our goal is is to get to this
+clusters of failure modes and figure out
+what is the most prevalent. So then you
+can go and run and attack that problem.
+&gt;&gt; That is really helpful. Basically,
+you're just synthesizing all these
+categories
+and themes.
+&gt;&gt; Super cool. And we'll uh include this
+prompt in our show notes for folks so
+they don't have to like sit there and
+screenshot it and try to type it out
+themselves.
+&gt;&gt; Yeah, great idea.
+Um, and so Claude, you know, went ahead
+and analyzed the CSV file, decided how
+to parse it, blah, blah, blah. We don't
+need to worry about all that stuff. But
+it came up with a bunch of axial codes.
+Basically, axial codes are categories
+like Shrea said. So one is okay
+capability limitations,
+misrepresentation,
+pro processing, protocol violations,
+human handoff issues, communication
+quality.
+It created these categories. Now, do I
+like all the categories? Not really. I
+like some of them. It's a good first
+like stab at it. I would probably rename
+it a little bit because some of them are
+a bit too generic. Like what is
+capability limitations? That's a little
+bit too broad. That's not actionable. I
+want to get like a little bit more
+actionable with it so that if I do
+decide it's a problem, I know what to do
+with it. But we'll discuss that in a
+little bit. Um, so you can do this like
+with anything. And this is the dumbest
+way to do it, but dumb sometimes is a
+good way to get started. So,
+&gt;&gt; and and this is what LM are really good
+at, taking a bunch of information and
+synthesizing.
+&gt;&gt; Absolutely. Synthesizing for us to make
+sense of, right? Note that, you know,
+it's not telling us, it's not
+automatically proposing fixes or
+anything. That's our job.
+&gt;&gt; But, you know, now we can wade through
+this mess of open codes a lot easier.
+Another thing that's interesting here in
+this prompt to generate the axial codes
+is you can be very detailed if you want,
+right? You can say I want each axial
+code to actually be you know some
+actionable failure mode and maybe the
+LLM will understand that and propose it
+or I want you to group these open codes
+by you know what stage of the user story
+that it's in. So this is where you can
+you know be creative or do what's best
+for you as a product manager or engineer
+working on this and that will help you
+do the improvement later.
+&gt;&gt; Okay. So there's no definitive prompt of
+here's the one way to do it. You're
+saying there's you can iterate, see what
+works for you.
+&gt;&gt; Absolutely.
+&gt;&gt; It's interesting the tools don't want to
+do this or or do they try and they just
+don't do a great job?
+&gt;&gt; No, I don't think they do it. We've been
+screaming from the rooftops, please,
+please do this. I do think it's a little
+bit hard, right? Like part of this whole
+um experience with the EVOS course
+Hamill and I are teaching are like a lot
+of people don't actually know this.
+&gt;&gt; So maybe it's that people don't know
+this and they don't know how to build
+tools for it. Um, and hopefully we can
+demystify some of this magic.
+&gt;&gt; And just to double click on this point,
+like this is not a thing everyone does
+or knows. This is something you two
+developed based on your experience doing
+data analysis and data science at at
+other companies.
+&gt;&gt; Well, I want to caveat. We didn't invent
+error analysis. We don't actually want
+to invent things. That's a bad that's
+bad signal. If somebody is coming to you
+with a way to do something that's like
+entirely new and not grounded in
+hundreds of years of theory and
+literature then you should I don't know
+be a little bit wary of that. But what
+we tried to do was distill okay what are
+the new tools and techniques that you
+need to know make sense of the LLM error
+analysis and then we created a
+curriculum or structured way of doing
+this. So this is all very tailored to
+LLMs, but you know the terms open
+coding, axial coding are grounded in um
+social science.
+&gt;&gt; Amazing. Okay. Like what's funny about
+you guys doing this is I just want to go
+do this somewhere. I don't have I don't
+have an AI product to do this on, but
+it's just like oh this would be so fun.
+Just sit there and find all the problems
+I'm running into and categorize them and
+then try to fix them. Delightful.
+&gt;&gt; I love that.
+&gt;&gt; Haml pulled up a video. What do you got
+going on here?
+&gt;&gt; Yeah. So I pulled up a video just to
+drive home Shrea's point like we are not
+inventing anything. So what you see on
+the screen here is Andrew Ang one of the
+famous machine learning uh researchers
+in the world who have taught a lot of
+people frankly machine learning and um
+you can see this is a 8-year-old video.
+So and he's talking about error analysis
+and so this is a technique that's been
+used to analyze stochastic systems for
+ages. Um, and it's some it's something
+that you're just using the same machine
+learning ideas and principles is
+bringing them in into here because
+again, these are stochcastic systems.
+&gt;&gt; Awesome. Well, one thing we're working
+on getting Andrew in the podcast. We're
+chatting. So, that'll be really fun. Uh,
+two, I love that my other my podcast
+episode just came out today is in your
+feed there, and it's standing out really
+well in that feed. So, I'm really happy
+about that thumbnail.
+&gt;&gt; Very nice. Yeah, the recommendation
+algorithm is
+&gt;&gt; Yes. Here we go. I hope you click on
+that. Don't don't screw my algorithm.
+Okay, cool. So, we've done some
+synthesis. What's I know we're not going
+to go through the entire step. This is
+like you have a whole course that takes
+many days to learn this whole process.
+What else do you want to share about how
+to go about this process?
+&gt;&gt; Okay, so you can you can do this through
+anything and you know I've used the same
+thing works just fine in chat GPT. The
+same exact prompt. You can see it it
+made axial codes. I really like using
+Julius AI. Um it's one of my favorite
+tools. Julius is a is a kind of his
+third party tool but uses notebooks. I
+personally like Jupyter notebooks a lot
+and so it's more of a data science thing
+but a lot of product managers are kind
+of learning notebooks nowadays and it's
+kind of cool it's like a fun playground
+where you can like write code and look
+at data but we don't have to go deeply
+into that just wanted to mention you can
+use a lot you know AI is really good at
+this so let's go to the fun part here we
+go so now we have all the a we have
+these axial codes so the first thing I
+like to do I have these open codes right
+and I have the axial codes that let's
+say
+you know the like that we assigned from
+the cloud project or the chat GPT and so
+what I do is I collect them first and I
+take a look like does these axial codes
+make sense and I look at the
+correspondence between the different
+axial codes and the open codes and I and
+I go through an exercise and I say hm do
+I like these these codes like can I make
+them better? Can I refine them? Can I
+make them more specific? Um you know
+instead of like being generic I make
+them very specific in actionable. So you
+see the ones that I came up with here
+are tour scheduling rescheduling issues
+human handoff or transfer issue
+formatting error with an output
+conversational flow. We saw the
+conversational flow issue with the text
+messages.
+uh making follow-up promises not kept
+and and so basically what I can do what
+you can do now is like you have these
+axial codes
+and um so I just collect them into a
+list. So this is an Excel formula just
+collect these codes into a list. So now
+we have a commaepparated list of these
+codes. And then what you can simply do
+is you could take your notes that you
+have those open codes and you can tell
+an AI and this is using Gemini and AI
+just for simplicity. This is like the
+you know again we're trying to keep it
+simple categorize
+uh the following note into one of the
+following categories. That's way this
+for folks watching there's like I like
+all these different prompts and formulas
+you're showing. This is like the Google
+Sheets AI AI prompt.
+&gt;&gt; Yeah.
+&gt;&gt; And so basically what you can do is you
+can then have you can categorize your
+faces into one of the buckets
+and that's what we have here. We have
+categorized all those problems that we
+encountered into one of these things.
+&gt;&gt; And this is automatic which is very
+exciting. I mean the AI is doing it. So
+this also drives home the point that
+your open codes have to be detailed,
+right? You can't just say janky because
+if the AI is reading janky, it's not
+going to be able to categorize it. Even
+a human wouldn't, right? It would have
+to go and remember why you said janky.
+&gt;&gt; So it's important to be, you know,
+somewhat detailed in your open code.
+&gt;&gt; Okay. So avoid the word janky is a good
+rule of thumb
+&gt;&gt; or other words.
+&gt;&gt; Okay.
+&gt;&gt; I was being funny.
+&gt;&gt; Yeah. Okay. What are some of those other
+words just to that come that people
+often use that you think are not good?
+&gt;&gt; I don't think it's specific words. I
+think it's just people are not detailed
+enough in the open code. So it's hard to
+do the categorization.
+&gt;&gt; Great. And by the way, the reason you
+have to map them back is because say
+clott JPT gave you suggestions and you
+changed them and iterated on them. So it
+doesn't you can't just go back and say
+cool what are in each bucket.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Great. That's a really good question
+actually. It's good to iterate and think
+on about it a little bit like do I like
+these open codes? Do these actually make
+sense to me? Just like anything that AI
+does, it's really good to kind of put
+yourself in the middle
+&gt;&gt; just in the loop. Still space.
+&gt;&gt; Yes. Great.
+&gt;&gt; Yeah.
+&gt;&gt; One of the things that I like to do in
+this step if I'm trying to use AI to do
+this labeling is also have a new
+category called none of the above. So an
+AI can actually say none of the above in
+the axial code and that informs me,
+okay, my axial codes are not complete.
+Like let's go look at those open codes.
+Let's figure out what some new
+categories are or figure out how to
+reword my other axial codes.
+&gt;&gt; Awesome. And what's cool about this is
+you don't need to do this many many
+times. Like no,
+&gt;&gt; for most products, you do this process
+once and then you build on it, I
+imagine, and you just tweak it over
+time.
+&gt;&gt; Absolutely. And it gets so fast. Like
+people people do this like once a week
+and you can do all of this in like 30
+minutes and like suddenly your product
+is like so much better than if you were
+never aware of any of these problems.
+&gt;&gt; Yeah. It's absurd to feel like you don't
+you wouldn't know this is happening like
+watching this happening. I'm like how
+could you not do this to your product?
+&gt;&gt; A lot of people have no idea.
+&gt;&gt; Most people Yeah.
+&gt;&gt; Yeah. We we'll talk about that. There's
+a whole debate around this stuff that we
+want to talk about. Uh okay cool. So you
+have this you have the sheet. What comes
+next?
+&gt;&gt; Okay. So here's the big unveil.
+&gt;&gt; This is the magic moment right now.
+&gt;&gt; So we have all these codes we that you
+know we applied the ones that we like on
+our traces. Now you can do the tada. You
+can count them. So here's a pivot table
+and we just can do pivot table on those
+and we can count how many times those
+different things occurred. So what do we
+find? found on this on these like traces
+that we categorized, we found 17
+conversational flow issues. And I really
+like pivot tables because you can do
+cool things. You can like double click
+on these. You can say, "Oh, okay. Let me
+let me take a look at those." But that's
+going into an aside about pivot tables,
+how cool they are. But um um you know
+now we have just a nice rough cut of
+what are our problems and now we have
+gone from chaos to some kind of thinking
+around oh you know what these are my
+biggest problems I need to fix
+conversational issues you know maybe
+these human handoff issues it's not
+necessarily the count is the most
+important thing you know that might be
+something that's just really bad and you
+want to fix that. But okay, now you have
+some way of looking at your problem and
+now you can think about whether you need
+evals
+uh for for some of these. So you know
+with the
+you know there might be some of these
+things that
+might be just dumb engineering errors
+that you don't need to write an eval for
+because it's very obvious on how to fix
+them.
+um maybe the formatting error with
+output. Maybe you just forgot to tell
+the LLM how you want it to be formatted
+and like you didn't even say that in the
+prompt. So like just go ahead and fix
+the prompt maybe, you know, and we can
+decide like okay, do you want an uh do
+you want to write an email for that? You
+might be you might still want to write
+an email for that because you might be
+able to test that with just code. You
+could just test the string. Does it have
+the right formatting potentially without
+running an LLM? So, there's a
+costbenefit trade-off to eval. You don't
+want to get carried away with it. Um,
+but you want to start, you want to
+usually ground yourself in your actual
+errors. You don't want to skip this
+step.
+And so, the reason I'm kind of spending
+so much time on this is like this is
+where people get lost. they go straight
+into eval like let me let me just write
+some tests and that is where things go
+off the rails. Um so let's let's okay so
+let's say we want to tackle one of these
+things.
+So for example
+uh let's say we want to
+tackle this human handoff issue and
+we're like hm I'm not really sure how to
+fix this. like that's a kind of
+subjective sort of judgment call on, you
+know, should we be handing off to a
+human and I don't know immediately how
+to fix it. It's not super obvious, per
+se. Yeah, I can like change my prompt,
+but I'm not like sure. I'm not 100%
+sure. Well, that might be sort of an
+interesting um thing for an LLM as a
+judge, for example. So, there's
+different kinds of evals. One is
+codebased
+which you should try to do if you can
+because they're cheaper. You don't have
+to, you know, LM as a judge is something
+it's like a meta eval. You have to eval
+that eval to make sure the LM that's
+judging is doing the right thing, which
+we'll talk about in a second.
+So, okay, LM as a judge, that's one
+thing. Okay, how do you build an LM as a
+judge? Before we get into that actually
+just to make sure people know exactly
+what you're describing there these two
+types of evals. One is you said it's
+code based one is LLM as judge. Maybe
+Shrea just help us understand what that
+what a codebased eval even is. It's just
+like it's like essentially a unit test.
+Is that a simple way to think about it?
+&gt;&gt; Maybe eval is not the right term here
+but think like automated evaluator. So
+when we find these failure modes, one of
+the things we want is like, okay, can we
+now like go check the prevalence of that
+failure mode in an automated way without
+me manually labeling and doing all the
+coding and the grouping and I want to
+run it on thousands and thousands of
+traces. I want to run it every week.
+That is okay. You should probably build
+an an automated evaluator to check for
+that failure mode. Now when we're saying
+codebased versus llm based, we're saying
+okay so maybe I could write like a
+python function or a piece of code to
+check whether that failure mode is
+present in a trace or not. And that's
+possible to do for certain things like
+you know checking the output is JSON um
+or you know checking that it's markdown
+or checking that it's short like these
+are all things you can capture in code
+or you can approximately capture in
+code. uh when we're talking about LLM
+judge here, we're saying that this is a
+complex failure mode and we don't know
+how to evaluate in an automated way. So
+maybe we will try to use an LLM to
+evaluate this very very narrow specific
+failure mode of handoffs.
+&gt;&gt; So just to try to mirror back how you're
+describing, you want to test what your
+say agent or AI product is doing. You
+ask it a question, it gets back with
+something. One way to test if it's
+giving you the right answer is if it's
+consistently doing the same thing that
+you could write a code to te to tell you
+this is true or false. For example, will
+it ever say there's a virtual tour? So
+you could ask it
+&gt;&gt; is do you provide virtual tours?
+&gt;&gt; It says yes or no and then you could
+write code to tell you if it's correct
+based on that specific answer. But if
+you're asking about something more
+complicated and it's not binary, you
+almost need like in a in a one world you
+need a human to tell you this is
+correct. The solution to avoid humans
+having to review all this every time
+automatically is LLM's replacing human
+judgment and you call it LLM as judge.
+The LM is being the judge if this is
+correct or not.
+&gt;&gt; Absolutely. You nailed it. Um, so people
+always think like, oh, like this is at
+least as hard as my problem of creating
+the original agent
+&gt;&gt; and it's not because you're asking the
+judge to do one thing, evaluate one
+failure mode. So the scope of the
+problem is very small and the output of
+this LLM judge is like pass or fail. So
+it is a very very tightly scoped thing
+that LLM judges are very capable of
+doing very reliably
+&gt;&gt; and the goal here is just to have a
+suite of tests that run before you ship
+to production that tell you things are
+going the way you want them to the way
+your agent is interacting. Beautiful
+thing about LLM judge is you can use
+them in unit test or CI sure but you
+could also use it online for monitoring
+right like I can sample like thousand
+traces every day run my LLM judge real
+production traces and see what the
+failure rate is there this is not a unit
+test right but still now we get like an
+extremely specific measure of
+application quality
+&gt;&gt; cool that's a really great point because
+a lot of people disse for being this
+like not real life thing. It's a thing
+that you test before it's actually in
+the real world and
+&gt;&gt; what's actually happening in the real
+world. You're saying you could actually
+you should actually do exactly that.
+Test your real thing running in
+production and it's like a daily hourly
+sort of thing you could be running.
+&gt;&gt; Totally.
+&gt;&gt; Awesome. Okay. Uh Hamill's got a a
+example of an actual LM is Judge Eval
+here. So let's take a look.
+&gt;&gt; I love how Shrea really teed it up um
+for me. So thank you so much. So what we
+have is a LM as a judge prompt for this
+one specific failure. Like Shrea said,
+you would want to do one specific
+failure and you want to make it binary
+because we want to simplify things. We
+don't want hey like score this on a
+rating of one to five like how good is
+it? That's just mostly in most cases
+that's a weasel way of like not making a
+decision. Like no, you need to make a
+decision. Is this good enough or not?
+Yes or no? can be painful to think about
+what that is, but you should absolutely
+do it. Otherwise, this thing becomes
+very untractable. And then when you
+report these metrics, no one knows what
+3.2 versus 3.7 means.
+&gt;&gt; This is Yeah, we see this all the time
+also. And even with like expert curated
+content on the internet where it's like,
+oh, here's your LLM judge evaluator
+prompt. Here's a one to seven scale. And
+I always think I always text Hamill
+like, "Oh no, like now we have to fight
+the misinformation again because we know
+somebody's going to try it out and then
+come back to us and say, oh, I have 4.2
+average." And we're going to be like,
+"Okay,
+it's wild how much drama there is in
+Eval's space. We're going to get to
+that." Oh man. This episode is brought
+to you by Mercury. I've been banking
+with Mercury for years and honestly I
+can't imagine banking any other way at
+this point. I switched from Chase and
+holy moly what a difference. Sending
+wires, tracking spend, giving people on
+my team access to move money around so
+freaking easy. Where most traditional
+banking websites and apps are clunky and
+hard to use, Mercury is meticulously
+designed to be an intuitive and simple
+experience. And Mercury brings all the
+ways that you use money into a single
+product, including credit cards,
+invoicing, bill pay, reimbursements for
+your teammates, and capital. Whether
+you're a funded tech startup looking for
+ways to pay contractors and earn yield
+on your idle cash, or an agency that
+needs to invoice customers and keep them
+current, or an e-commerce brand that
+needs to stay on top of cash flow and
+excess capital, Mercury can be tailored
+to help your business perform at its
+highest level. See what over 200,000
+entrepreneurs love about Mercury. Visit
+mercury.com to apply online in 10
+minutes. Mercury is a fintech, not a
+bank. Banking services provided through
+Mercury's FDIC insured partner banks.
+For more details, check out the show
+notes. Okay, so this is your judge
+prompt. There's no one way to do it.
+It's okay to use an LLM to help you
+create it, but again, put yourself in
+the loop. Don't just blindly accept what
+the LLM does. And in all of these cases,
+that's what we did. Like with the axial
+codes, we kind of iterated on this. You
+can use an LLM to like help you create
+this prompt, but make sure you read it.
+Make sure you edit it, whatever. This is
+not necessarily the perfect prompt. This
+is just the stupid like very keeping it
+very simple just to show you the idea is
+like, okay, for this handoff failure,
+um, you know, I said, okay, I want you
+to output true or false is binary. It's
+a binary judge. That's what we
+recommend. And then we then I just go
+through and say, okay, like when should
+you be doing a handoff? And I just list
+them out like, okay, explicit human
+request ignored or looped.
+&gt;&gt; Uh some policy mandated transfer,
+sensitive resident issues, tool data
+unavailability,
+same day walk-in or tour requests, you
+know, you need to talk to a human for
+that. So on and so forth, right? And so
+the idea is like now that I know that
+this is a failure
+from my data, I'm interested in
+iterating on it because I know this is
+actually happening all the time. And
+like Sha said, like it would be nice to
+have a way not only to evaluate this on
+like the data I have, but also on
+production data just to get a sense of
+like well what scale is this happening?
+Let me find more traces. Let me have a
+you know a way to iterate on this. And
+so we can take this prompt and I'm going
+to use a spreadsheet again.
+So
+the first step is okay when I'm doing
+this judge I wrote the prompt. Now a lot
+of people stop there and they say okay I
+have my judge prompt we're done good
+like let's just let's just ship it and
+let's uh the prompt says if the judge
+says it's wrong it's wrong. They just
+like accept it as the gospel be like
+okay the LM says it's wrong it's it must
+be wrong. Don't do that because that's
+the fastest way that you can have evals
+that don't match what's going on. And
+when people lose trust in your evals,
+they'll lose trust in you. So, it's
+really important that you don't do that.
+And so, one before you release your LM
+as a judge, you want to make sure it's
+aligned to the human. So how do you do
+that is you actually you have those
+axial codes and you want to like measure
+your judge against the axial code and
+say like hey did does it agree with me?
+Does my own judge does it agree with me?
+Just measure it. And so what we have
+here is okay I say assess this LLM
+trace. Again I'm using just spreadsheets
+here. Assess this LLM trace according to
+these rules. And and the rules are just
+the prompt that I just showed you.
+and I ask it okay is there a handoff
+error true or false.
+So then this column
+let me just zoom in a bit. Column H I
+have okay did this error occur in column
+G is whether I thought the error
+occurred or not. You can see
+&gt;&gt; you're going through it manually. You do
+that.
+&gt;&gt; Yeah. Yeah. And which we already did. We
+we already went through it manually. So
+we don't it's not like we have to do it
+again because we kind of have that cheat
+code from the axial coding. We already
+did it.
+&gt;&gt; Um you might have to go through it again
+if you need more data and there's a lot
+of details to this on like how to do
+this correctly. Um you want to split
+your data and do all these things so
+that you're not cheating but I just want
+to show you the concept
+and basically um what you can do is
+measure the agreement. Now,
+&gt;&gt; one thing you should know as a product
+manager is a lot of people go straight
+to this like agreement. They say, "Okay,
+my judge agrees with the human
+at some percentage of the time."
+Now, that sounds appealing, but it's a
+very dangerous metric to use because a
+lot of times errors have um you know,
+they only happen on the on the long tail
+and they don't happen as frequently. So,
+like if you only have the error 10% of
+the time,
+then you can easily have 90% agreement
+by just having a judge say,
+uh, it passes all the time. Does that
+make sense? So like 90% agreement might
+look good on paper but it might be
+misleading
+&gt;&gt; and that's rare. It's a rare.
+&gt;&gt; Yeah.
+&gt;&gt; So you know as a product manager or
+someone even if you're not doing this
+calculation yourself if someone ever
+reports to you agreement you should
+immediately ask okay tell me more like
+you need you know you know need to look
+into it to give you more intuition. Here
+is like a matrix okay of this specific
+judge in the Google sheet. And this is
+again a pivot table just keeping it dumb
+and simple is okay on on the uh rows I
+have what did the human think what did I
+think did it have an error true or false
+and then did my judge have an error true
+or false
+&gt;&gt; the intuition here is exactly what
+Hamill said right you need to look at
+each type of error so when the human
+said false but the judge said true or
+vice versa so those non-green diagonal
+here and if they're too large then go
+iterate on your prompt make it more
+clear to the LLM judge so that you can
+reduce that misalignment you want to get
+to a point where most you're going to
+have some misalignment that's okay we
+talk about in our course also how to
+code correct that misalignment but in
+this stage if you're a product manager
+and the person who's building the LLM
+judge eval has not done this they're
+saying like oh it agrees these 75% of
+the time we're good. They don't like
+have this matrix and they haven't
+iterated to make sure that these two
+types of errors have gone down to zero,
+then it's a bad smell. Go and ask them
+to go fix that.
+&gt;&gt; Awesome. That's a really good tip is is
+what to look for when someone's doing
+this wrong.
+&gt;&gt; Yeah.
+&gt;&gt; Actually, could you take us back to the
+LLM as judge prompt? I just want to
+highlight something really interesting
+here. I've had some guests on the
+podcast recently who've been saying eval
+are the new PRDS. And if you look at
+this, this is exactly what this is. Like
+product managers, product teams, right?
+Here's what the product should be.
+Here's all the requirements. Here's like
+the how it should work. They built the
+thing. And then they test it manually
+often. What's cool about this is this is
+exactly that same thing. And it's
+running constantly. It's telling you
+here's how this agent should respond in
+very specific ways. If it's this, this,
+this is, do that. If it's this, this is
+that, do that. And so it's exactly what
+I've been hearing again and again. You
+could see right here. This is like the
+purest sense of what a product
+requirements document should be is this
+eval judge that's telling you exactly
+what it should be and it's automatic and
+running constantly.
+&gt;&gt; Yeah, absolutely. And it's kind of
+derived from our own data. So of course
+it's a product manager's expectations.
+What I find a lot of people miss is they
+just put in what their expectations are
+before looking at their data. But as we
+look at our data, we uncover more
+expectations that we couldn't have
+dreamed up in the first place. And that
+ends up going into this prompt. So that
+is interesting. So it's not so your
+advice is not skip straight to evals and
+LLM as judge prompts before you build
+the product. Still write traditional one
+pagers P prds to tell your team what
+we're doing, why we're doing it, what
+success looks like, but then at the end
+you could probably pull from that and
+even improve that original PRD if you're
+evolving the product uh using this
+process.
+&gt;&gt; I would go even further to say you're
+going to improve. It's going to change.
+You're never going to know what the
+failure modes are going to be upfront
+and you're always going to uncover new,
+you know, vibes that you think that your
+product should have, right? You don't
+really know what you want until you see
+it with these LLMs. So, you've got, you
+got to be kind of flexible, have to look
+at your data, have to PRDs are a great
+abstraction for thinking about this, but
+it's not the end all be all. It's going
+to change.
+&gt;&gt; I love that. And Haml's pulling up some
+cool research report. What's this about?
+&gt;&gt; Oh, this is one of the coolest research
+reports you can possibly read if you
+want to know about evals. So, it was
+authored by someone named Shrea Shankar.
+&gt;&gt; Oh my god.
+&gt;&gt; And her collaborators and so it's called
+who validates the validator.
+&gt;&gt; That is the best name for a research
+I've ever heard. That's so good.
+&gt;&gt; Thank you.
+&gt;&gt; So I I should let Treya talk about this.
+I think the one of the most important
+things to pay attention in this paper
+are the criteria drift.
+&gt;&gt; Yeah.
+&gt;&gt; And what she found.
+&gt;&gt; So we did this super fun study when we
+were kind of doing user studies with
+people who were trying to write LLM
+judges or just validate their own LLM
+outputs. And we were this was I think
+this was before evals was like extremely
+popular I feel like on the internet.
+This was we did this project like late
+2023 was when we started it. But then
+the thing that really was burning in my
+mind as a researcher is like why is this
+problem so hard? We've been having
+machine learning and AI for so long.
+It's not new. But suddenly this time
+around everything is really difficult.
+So we just did this user study with a
+bunch of developers and we realized okay
+what's new here is that you can't figure
+out your rubrics up front. People's
+opinions of good and bad change as they
+review more outputs. They think of
+failure modes only after seeing 10
+outputs they would never have dreamed of
+in the first place. And these are
+experts, right? These are people who
+have built many LLM pipelines and now
+agents before and just you can't ever
+dream up everything in the first place.
+Um, and I think that's so key in today's
+world of AI development.
+&gt;&gt; Okay, that is a really good point. It's
+very much reinforcing what we were just
+talking about and that's why H will pull
+this up is just okay
+&gt;&gt; behind it.
+&gt;&gt; Yeah. Okay, great. You still got to do
+product the same way, but now you have
+this really powerful tool that make
+helps you make sure what you've built is
+correct. Uh it's not going to replace
+the PR process.
+&gt;&gt; Cool.
+&gt;&gt; How many evals of these? How many say I
+don't know Lanas judge prompts do you
+end up with usually say I don't know
+like I know obviously depends complexity
+of the product but what's like a number
+in your experience
+&gt;&gt; for me like between four and seven
+&gt;&gt; oh that's it
+&gt;&gt; it's not that many because a lot of the
+failure modes as Haml said earlier can
+be fixed by just fixing your prompt you
+just didn't think to put it in your
+prompts and now you put it in your you
+shouldn't do an eval like this for
+everything just the the pesky ones that
+um you've described your ideal behavior
+in your agent prompt, but it's still
+failing.
+&gt;&gt; Got it. So, say you found a problem, you
+fixed it. In traditional software
+development, you'd write a unit test to
+make sure it doesn't happen again. Is
+your insight here is don't even bother
+writing an eval around that if it's just
+gone.
+&gt;&gt; I think you can if you want to, but the
+whole game here is about prioritizing.
+You have finite resources and finite
+time. You can't write an eval for
+everything. So prioritize the ones that
+are the more pesky areas
+&gt;&gt; and probably the ones that are most
+risky to your business if they say
+something like Mecca Hitler Grock and
+&gt;&gt; cool okay so that's that's very uh
+relieving that this because this is this
+prompt is like a lot of work to really
+think through all these details
+&gt;&gt; but it's a lot of one-time cost right
+now forever you can run this on your
+application
+&gt;&gt; right
+and I want to say okay data analysis is
+super powerful is going to drive lots of
+improvements very quickly to your
+application. We showed the most basic
+kind of data analysis which is counting
+which is accessible to everyone. You can
+get you know more
+sophisticated with the data analysis.
+There's lots of different ways to sample
+look at data.
+We kind of made it look easy in a sense,
+but there's a lot of skills here to do
+to it well. Um, you know, building an
+intuition and a nose for how to sort
+through this data. For example, let's
+say I find conversational issues, this
+like conversational flow issues.
+Maybe if I was trying to chase down this
+problem further, I would think about
+ways to find other conversational flows
+flow issues that I didn't code. You
+know, I would maybe dig through the data
+in several ways. Um, and there's, you
+know, different ways to go about this.
+It kind of it's very similar, if not
+almost exactly similar as kind of
+traditional analytics techniques that
+you would do on any product. give us
+just a quick sense of what comes next
+and then let's talk about the debate
+around eval.
+&gt;&gt; So what comes next after you've built
+your LLM judge? Well, we find that
+people just try to use that everywhere
+they can. So they will put the LLM judge
+in unit tests as you and they will know
+like oh here are some example traces
+where we saw that failure because we
+labeled it. Now we're going to make
+those part of unit tests and make sure
+that every time we push a change to our
+code these tests are going to pass. They
+also use it for online monitoring.
+People are making dashboards on this and
+I think that's incredible. I think like
+the products that are doing this, right,
+they have a very sharp sense of how well
+their application is performing. Um, and
+people don't talk about it because this
+is their moat, right? So people are not
+going to go and share all of these
+things because makes sense, right? If
+you are an email writing assistant and
+you're doing this and you're doing it
+well, you don't want somebody else to go
+and build an email writing assistant and
+then kind of get you out of business.
+So, I really want to stress the point
+that it's like try to use these
+artifacts that you're building wherever
+possible online repeatedly. Um, use them
+to drive improvements to your product.
+Often times Haml and I will kind of will
+tell people how to do this up to this
+very point and it clicks for people and
+then they like never come back again. So
+either they have I don't know quit their
+jobs, they're not doing AI development
+anymore or they know what to do from
+here on out. Um I think it's the latter
+but um I think it's very powerful. Like
+just watching you do this really opened
+my eyes to what this is and how
+systematic the process is. I always
+imagine you just sit on a computer,
+okay, what are the things I need to make
+sure work correctly. And what you're
+showing us here is here's it's a very
+simple step by step
+&gt;&gt; based on real things that are happening
+in your product. How to catch them,
+identify them, prioritize them, and then
+&gt;&gt; absolutely
+&gt;&gt; catch them if they happen again and fix
+them.
+&gt;&gt; Yeah, it's it's not magic. Like anyone
+can do this. you're going to have to
+practice the skill like any new skill
+you have to practice but you can do it.
+Um and I think what's very empowering
+now is that product managers are doing
+this and can do this and can really
+build very very profitable products with
+this skill set.
+&gt;&gt; Okay, great segue to a debate that we
+kind of got pulled into that was
+happening on on X the other day. Uh I
+did not realize how much controversy and
+drama there is around eval. There's a
+lot of people with very strong opinions.
+uh Sabat Shrea give us just a sense of
+the two sides of the debate around the
+importance and value of Ebells and then
+give us your perspective.
+&gt;&gt; Yeah. So all right I'll be a little bit
+placating and I say I think everyone is
+on the same side. I think the
+misconception is that people have very
+rigid definitions of what eval is. For
+example, they might think that eval is
+just unit tests or they might think that
+eval is just the data analysis part and
+no online monitoring or any no
+monitoring of product specific metrics
+like actually number of chats engaged in
+or whatnot. Um so I think everyone has a
+different mindset of evals going in. And
+the other thing I will say is that
+people have been burned by evals in the
+past. So I think people have done evals
+badly. One concrete example of this is
+they've tried to do an LLM judge, but it
+has not aligned with their expectations.
+They only uncovered this later on and
+then they didn't trust it anymore. And
+then they're like, "Oh, I'm anti-EVOS."
+And I 100% empathize with that because,
+you know, you should be anti- liker
+scale LLM judge. I absolutely agree with
+you. We are anti- that as well. So, a
+lot of the misconception stems from two
+things, right? like people having a
+narrow definition of evals and then
+people not doing it well and then
+getting burned and then wanting to avoid
+other people making that mistake and
+then unfortunately X or Twitter is like
+a medium where you know people are
+misinterpreting what everybody is saying
+all the time and you just get all these
+strong opinions of like don't do eval
+it's bad we tried it it doesn't work
+we're clawed code or you know whatever
+other famous product and we don't do
+evals and there's just so much nuance
+behind all of it because because a lot
+of these applications are standing on
+the shoulders of evals coding agents is
+a great example of that claude code
+right they are standing on the shoulders
+of claude
+base model not base but the the
+fine-tuned claude models have been
+evaluated on many coding benchmarks
+can't can't argue against that
+&gt;&gt; and just to double just to make clear
+exactly what you're talking about where
+one of the heads I think maybe the head
+engineer of cloud code went on a podcast
+and he's like oh we don't do evals we
+just vibe we just look at vibes and
+vibes meaning they just use it and feel
+if it's right or wrong
+&gt;&gt; and I think that kind of works so
+there's two things to that right one is
+they're standing on the shoulders of the
+evals that their colleagues are doing
+for coding
+&gt;&gt; of the cloud foundational model
+&gt;&gt; absolutely right we know that they
+report those numbers because we see the
+benchmarks we know who's doing well on
+those other thing is they are actually
+probably very systematic about the error
+analysis to some extent. I bet you that
+they are monitoring who is using Claude,
+how many people are using Claude, how
+many chats are being created, how long
+these chats are. They're also probably
+monitoring in their internal team.
+They're dog fooding. Anytime something
+is off, they maybe have a queue or they
+send it to the person developing claude
+code and this person is implicitly doing
+some form of hair error analysis that
+Hamill talked about. All of this is eval
+right there's no world in which they are
+just being like I made cloud code I'm
+never looking at anything um and
+unfortunately right when you don't think
+about that or talk about that I think
+that the community most of the community
+is beginners right or people who don't
+know about evals and want to learn about
+it um and it sends the wrong message
+there now I don't know what cloud code
+is doing obviously um but I would be
+willing to bet money that they're doing
+something in the form of evals
+&gt;&gt; we'll also say that coding agents are
+fundamentally very different than other
+AI products because the developer is the
+domain expert. So you can short circuit
+a lot of things and also the developer
+is using it all day long. So there's a
+type of dog fooding and type of do
+domain expertise that is you know you
+can collapse the activities.
+You don't need as much data. you don't
+need as much feedback or exploration
+because you know so your eval process
+you know should look different
+&gt;&gt; because you're seeing the code like you
+see the code it's generating you can
+tell this is great this is terrible
+&gt;&gt; yeah yeah and so and so I think a lot of
+people had generalized coding agents
+because coding agents are the first AI
+product released into the wild and I
+think it's a mistake to try to
+generalize that at charge.
+&gt;&gt; The other thing is yeah, engineers have
+a dog fooding personality. There are
+plenty of applications where people are
+trying to build AI in certain domains
+and and they don't have a dog fooding
+for like doctors for example are not out
+there trying to get all the most
+incorrect advice from AI
+and be tolerant and receptive to that.
+So it's very important to keep I think
+these nuance things in mind. So what I'm
+hearing from you Shre is interestingly
+is that if you if humans on the team are
+doing very close uh data analysis, error
+analysis, dog fooding you like crazy and
+essentially they are the human evals and
+you're describing that as that's within
+the umbrella of eval. So you could do it
+that way if you're very if you have time
+and motivation to do that or you could
+set these things up to be automatic.
+&gt;&gt; Absolutely. And it's also about the
+skills, right? people who work at
+Anthropic are very very highly skilled.
+Um they've been trained in data analysis
+or software engineering or AI and
+whatnot, right?
+&gt;&gt; And you know, you can get there. Anyone
+can get there of course by like learning
+the concepts, but
+&gt;&gt; most people don't have that skill right
+now.
+&gt;&gt; Do fooding is is a dangerous one only
+because a lot of people will say they're
+dog fooding. They're like, "Yeah, we dog
+fooded." But are they really? And a lot
+of people aren't really dog fooding it
+at that visceral level that you would
+need to to have to close that feedback
+loop. So that's the only caveat I would
+add. There's also this kind of feels
+like straw man argument of eval versus
+AB tests.
+&gt;&gt; Talk about your thoughts there because
+that feels like a big part of this
+debate people are having like do you
+need eval if you have AB tests that are
+testing production level metrics. So AB
+tests are again another form of eval I
+imagine right like when you're doing an
+AB test right you have two different
+experimental conditions and then you
+have a metric that quantifies the
+success of something and you're
+comparing the metric and again right an
+eval in our mind is systematic
+measurement of quality some metric um
+you can't really do an AV test without
+the eval to compare um
+&gt;&gt; so maybe maybe we just have a different
+weird take on it Yeah. Okay. So, what
+I'm hearing is like you consider AB test
+as part of the suite of evals that you
+do. I think when people think AB test,
+it's like we're changing something in
+the product. We're going to see if this
+improves some metric we care about. Is
+that is that enough? Why do we need to
+test every little feature? Like if it's
+impacting a metric we care about as a
+business, we have a bunch of AB tests
+that are just constantly running.
+&gt;&gt; This is now a great point. Um, so I
+think a lot of people prematurely do AB
+tests because you know they've never
+done any error analysis in the first
+place. They just have hypothetically
+come up with their product requirements
+and they like believe that you know we
+should test these things. Um, but it
+turns out right when you get into the
+data as Haml showed that like the errors
+that you're seeing are like not what you
+thought the errors might be. They were
+these like weird handoff issues or like
+I don't know like the text message thing
+was strange. Um, so I would say that
+like if you're going to do AB tests and
+they are powered by actual error
+analysis as we've shown today, then
+that's great. Go do it. Um, but if
+you're just going to do them, which we
+find that people try to do, just want to
+do them based on like what you
+hypothetically think is
+why is important, then I would encourage
+people to go and like rethink that and
+kind of ground your hypothesis.
+&gt;&gt; Do you have thoughts on what stats sig
+going to do at OpenAI? Is there anything
+there that's interesting? I'm just like
+that was a big deal a huge acquisition
+AB test company people are like oh AB
+test the future uh thoughts you know
+just to add to the previous question a
+little bit is why is there this debate
+AB testing versus evals I think
+fundamentally
+eval
+is people are trying to wrap their head
+around
+what how to improve their applications
+and fundamentally um you need to do data
+science you data science is useful in
+products like looking at data doing data
+analytics there's many different suite
+of tools and um you don't need to invent
+anything new sure you don't need like
+necessarily the whole breath of data
+science and it looks slightly different
+just slightly with LLMs
+um you know you might your tactics might
+be different and so really what it is is
+like using analytic tools uh to
+understand your product Now people say
+the word eval is trying to kind of like
+carve out this new thing and saying oh
+eval and in AB testing but if you zoom
+out it's it's the same data science as
+before and I think that's what's causing
+the confusion is hey we need data
+science thinking and AI product just you
+know is helpful to have that thinking in
+AI products like it is in any product uh
+is my take on that. So yeah, that's a
+really good take. Like I think just the
+word eval triggers people now.
+&gt;&gt; And if you just call it we're just doing
+air analysis using doing data science to
+understand where our problem break our
+product breaks and just setting up tests
+to make sure we know
+&gt;&gt; that's boring. It sounds boring.
+&gt;&gt; No, no, no. We need a mysterious term
+like evals to to really get the momentum
+going. Your question about stats. Um I
+think it's very exciting to be honest. I
+don't know much about it because, you
+know, I just imagine that they're this
+company that many there's a tool that
+many people use and maybe it just so
+happened that OpenAI acquired them. I'm
+sure they've been using them in the
+past. Um, I'm sure OpenAI's competitors
+&gt;&gt; are using Stat Sig as well.
+&gt;&gt; So maybe there is something strategic in
+that acquisition. I have no idea. I
+don't know anything there. But I think
+those are really the bigger questions
+for me than you know is this
+fundamentally changing AV testing or
+making evals more of a priority. I I
+think they've always been a priority. I
+think Open AAI has always been doing
+some form of them and OpenAI has gone so
+far like historically speaking as to
+like go and look at all the Twitter
+sentiment and try to do some sort of
+retrospective on that and then tie that
+back to their products. Like they're
+certainly they're doing some amount of
+evals before they ship their new
+foundation models, but they're going so
+much beyond and being like, "Okay, let's
+find all the tweets that are complaining
+about it, all the Reddit threads that
+are complaining about it that go try to
+like figure out what's going on." So, it
+goes to show that like eval are very,
+very important. No one has really
+figured it out yet. People are using all
+the available sources signal that they
+can to improve their products. What I
+will say is I'm really hopeful that it
+might shift the our creative focus
+within OpenAI. Hopefully up until now a
+lot of the big labs understandably
+focused on general benchmarks like MMLU
+score, human eval which are very
+important for foundation models and you
+know those not very related to product
+specific evals like the ones we talked
+about today but like handoff and stuff
+like that like those you know they tend
+not to correlate.
+&gt;&gt; Yeah, they don't correlate with math
+problem solving. Sorry to say.
+Exactly. And so um you know if you look
+at the eval products let's say the ones
+up until recently that some of the big
+labs have they don't have error
+analysis. They have gener a suite of
+generic tools cosign similarity
+hallucination score whatever and that
+doesn't work. It's a good first stab at
+it. It's okay. you know, at least you're
+doing something getting people maybe
+it's like getting people to look at
+data, but uh eventually what we hope to
+see is okay some a bit more data science
+thinking in this like eval process.
+Hopefully the tools we'll get to
+&gt;&gt; Haml and I should not be the only two
+people on the planet that are promoting
+like a structured way of thinking about
+application specific evals.
+&gt;&gt; It's like mindboggling to me. Why are we
+the only two people doing this? The
+whole world,
+what's wrong? Um, so I hope that, you
+know, we're not the only people and that
+more people catch on.
+&gt;&gt; Well, the fact that your course on Maven
+is the number one highest grossing
+course on Maven, clearly there's demand
+and interest and there's more people I
+think on your side. Interestingly, uh,
+just an example you've been sharing on
+Twitter that was I think is informative.
+Everyone's been saying how Cloud Code
+doesn't care about eval. They're all
+about vibes and everyone's like what and
+they're the best coding agent out there.
+So clearly this is right. More recently,
+there's all this talk about codecs, open
+AI codecs being better and everyone's
+switching and they're so pro eels.
+&gt;&gt; I know.
+&gt;&gt; What? Yeah. So,
+&gt;&gt; gets me every time. The internet's so
+inconsistent.
+My favorite thing was um like yesterday,
+I believe like a couple of lab mates and
+I were out getting like dessert or
+something and somebody said like, "Oh,
+um do you like Codex or Claude better or
+whatever?" And the other person said,
+"Oh, I like Claude." And then someone
+else said, "But the new version of
+Codeex is better." And then the first
+person said, "Oh, but the last I checked
+was two days ago, so maybe my the
+thoughts maybe I'm not up to date." And
+I was like, "Oh my god,
+&gt;&gt; so true.
+&gt;&gt; This is the world we live in." Oh my
+god.
+&gt;&gt; Okay. So, I want to ask about just top
+misconceptions people have with Evals
+and top tips and tricks for being
+successful. So, maybe just share one or
+two each of each. So let me just start
+with misconceptions and maybe I'll go to
+the Hamill first. Just what are a couple
+of the most common misconceptions people
+have with Eval still. The top one is hey
+I can just buy a tool plug it in and
+it'll do the eval for you. Why do I have
+to worry about this? We live in the age
+of AI. Can't the AI just eval it? That's
+the most common misconception. And
+people want that so much that people do
+sell it, but it doesn't work.
+So that's the first one. Shoot, we need
+humans still. Great. I think that's
+great news.
+&gt;&gt; The second one that you know I see a lot
+is
+hey um just not looking at the data you
+know. So
+in my consulting people come to me with
+problems all the time and the first
+thing I'll say is let's go look at your
+traces
+and you can see the kind of their eyes
+pop open like what do you mean like yeah
+let's look at it right now and they're
+surprised that I am going I'm going to
+go look at individual traces
+um and we always it always 100% of the
+time learn a lot and figure out what the
+problem is. And so, um, I think people
+just don't know how powerful looking at
+the data is like we showed on this
+podcast.
+&gt;&gt; I would agree with that.
+&gt;&gt; Those are the top two. Okay. Is there
+anything else or those are those are the
+ones like solve those problems?
+&gt;&gt; Oh, those are definitely And then I
+guess the one I would add is there's no
+one correct way to do evals. There are
+many incorrect ways of doing evals,
+but there are also many correct ways of
+doing it. And you got to think about
+where you are at with your product, how
+many how much resources you have, um,
+and figure out the plan that works best
+for you. It'll always involve some form
+of error analysis as we showed today,
+but how you operationalize those metrics
+is going to change based on where you're
+at.
+&gt;&gt; Amazing. Okay. What are a couple just
+tips and tricks you want to leave people
+with as they start on their eval journey
+or just try to get better at something
+they're already doing?
+&gt;&gt; So tip number one is just don't be
+alarmed or don't you know be scared of
+looking at your data. The process we try
+to make it as structured as possible.
+There are inevitably you know questions
+that are going to come up. That's
+totally fine. You might feel like you're
+not doing it perfectly. That's also
+fine. The goal is not to do eval
+perfectly. It's to actionably improve
+your product. And we guarantee you no
+matter what you do, you're doing parts
+of these process. You're going to find
+ways of actionable improvement. And then
+you're going to iterate on your own
+process from there. The other tip that I
+would say is we're very pro- AI. Use LLM
+to help you organize any thoughts that
+you have throughout this entire process.
+So this could be everything ranging from
+like initial product requirements,
+right? Figure out how to organize them
+uh for yourself, figure out how to
+improve on that product requirements doc
+based on the open codes that you've
+created, right? Like don't be afraid to
+use AI in ways that you know present
+information better for you.
+&gt;&gt; Sweet. So don't be scared. Uh use LMS as
+much as you can throughout the process,
+&gt;&gt; but not to replace yourself.
+&gt;&gt; Right. Okay. Great. Still jobs. Great.
+Hello.
+&gt;&gt; Yeah, let me actually share my screen.
+So, when I show something,
+&gt;&gt; so to piggyback off what Treya said is
+if you heard any phrase in this podcast,
+you've probably heard look at your data
+more than anything else. And so, it's so
+important that we teach that you should
+create your own tools to make it as easy
+as possible. So, I showed you some tools
+when we're going through the live
+example of like how to annotate data.
+Most of the people I work with, they
+realize how important this is and they
+vibe code their own tools or they we
+shouldn't say vibe code. We they just
+they make their own tools and it's it's
+cheaper than ever before because you
+have AI that can help you and AI is
+really good at creating simple web
+applications that can show you data that
+have, you know, that can write to a
+database. It's very simple. And so for
+the nurture boss use case, we wanted to
+remove all the friction of looking at
+data. And so what you see here is just
+some screenshots of
+uh what the application that they
+created looks like. It's just okay. They
+have the different channels, voice,
+email, text. Um they have the different
+threads. They hid the system prompt by
+default. Little quality of life
+improvements. And then they al actually
+had this axial coding part here where
+you can see okay in red the count of
+different errors. They automated that
+part in a nice way and they just they
+created this within a few hours. Um and
+so it's really hard to have a
+one-sizefits-all thing for looking at
+your data. You don't have to go here
+immediately,
+but something to think about is make it
+as easy as possible because again, it's
+the most powerful activity that you can
+engage in. It's the highest ROI activity
+you can engage in. And so, um, you know,
+with AI, yeah, just remove all the
+friction. That's amazing. And again, I
+think the ROI piece is so important. We
+haven't even touched on this enough. The
+goal here is to make your product
+better, which will make your business
+more successful. Like this isn't just a
+little exercise to catch bugs and things
+like that. Like this is the way to make
+AI products better because the
+experience is how users interact with
+your AI. Absolutely. If any, you know,
+we teach our students, hey, when you're
+doing these evals, if you see something
+that's wrong, just go fix it. Like the
+whole point is not to have eval suite
+where you can point at edit it and say
+oh look at my evals no just fix your
+application make it better do you know
+if it's obvious do it so totally agree
+with you amazing how long a question I
+ask but this is I think something people
+are thinking about how long do you spend
+on this like how long does it usually
+take to do the first time
+&gt;&gt; I can answer for myself for applications
+that I work with usually I'll spend
+three to four days really working with
+whoever to do initial rounds of error
+analysis, like a lot of labeling, feel
+like we're in a good place to create the
+spreadsheet that Hamill had and
+everyone's kind of on board and
+convinced and even like a few LLM judge
+evaluators. Um, but this is a onetime
+cost. Once I figured out how to
+integrate that in unit tests or I have
+like a script that automatically runs it
+on samples and I will create a cron job
+to just do this every week. I would say
+it's like I don't know I find myself
+probably spending more time looking at
+data because I'm just data hungry like
+that. I'm so curious. I'm like I've
+gained so much from this process and
+it's like put me above and beyond in any
+of my you know collaborations with
+folks. So, I want to keep doing it, but
+I don't have to. I would say like maybe
+30 minutes a week after that.
+&gt;&gt; So, it's a week essentially, a week
+essentially up front and then like 30
+minutes to keep improving and adding to
+your suite.
+&gt;&gt; Yeah, it's really not that much time. I
+think people just get overwhelmed by how
+much time they spend up front and then
+thinking that they have to keep doing
+this all the time.
+&gt;&gt; Amazing. Is there anything else that you
+wanted to share or leave listeners with?
+Anything else you want to kind of double
+down on as a point before we get to our
+very exciting lightning round? So I
+would say this process is a lot of fun
+actually. So it can it's like okay
+you're looking at data. Oh it sounds
+like you're annotating things. Okay
+actually like so I was just looking at a
+client's data yesterday. The same exact
+process. It's a application that sends
+emails recruiting emails to try to get
+candidates to apply for a job. and
+we decided to start looking at traces.
+Jump right into it. Hey, let's look at
+your traces. The we looked at a trace.
+The first thing I saw was
+this like email that is worded like
+given your background blah blah blah
+blah blah. So I asked the person right
+away and this is where putting your
+product hat on and just being critical
+and this is where the fun part is. I
+said, you know what, I hate this email.
+like do you like the email given your
+background when and when when I receive
+a message given your background I just
+delete that. So I'm like what is this
+given your background with machine
+learning and blah blah I'm like this is
+a generic thing like so I asked the
+person like hey you know can we do
+better than this like this is kind of
+like a this is like a sounds like
+generic recruiting and they're like oh
+yeah maybe yeah like it's the AI because
+they were like they were proud of it
+like the AI is doing the right thing is
+sending this email with the right
+information with the right link with the
+right name everything and so that's
+where the fun part is is like put your
+product hat on and get into like is this
+really good? Something I want to make
+sure we cover before we get to a very
+exciting light round is this is just
+scratching the surface of all the things
+you need to know to do this well. Uh I
+think this is the best primer I've ever
+seen on how to do this well. Nice.
+&gt;&gt; But you I think we did it. But you guys
+teach a course that goes much much
+deeper for people that really want to
+get good at this and take this really
+seriously. share what else you teach in
+the course that we didn't cover and what
+else you get as a student being part of
+the the course you teach at Maven.
+&gt;&gt; Yeah, I can talk about the syllabus a
+little bit and then Haml can talk about
+all the perks. Um, so we go through a
+life cycle of error analysis, then
+automated evaluators, then how to
+improve your application, like how do
+you create that flywheel for yourself.
+We also have a few special topics that
+we find like pretty much no one has ever
+heard of or taught before, which is
+exciting. One is how do you build your
+own interfaces for error analysis. So we
+kind of go through actual interfaces
+that we've built and we also live code
+them on the spot for new data. Um and we
+show kind of how we use cloud code
+cursor or whatever we're feeling in the
+moment that day to build these
+interfaces. Um and we also talk about
+kind of broadly cost optimization as
+well. So, we a couple of people that
+I've worked with um they got to a point
+where their evals are very good, their
+product is very good, but it's all very
+expensive because they're using like
+state-of-the-art models. So, how can we
+kind of replace certain uses of the most
+expensive GPT5 models with, you know, 5
+nano, 4 mini, whatnot, and save a lot of
+money but still maintain the same
+quality. So, we also give some tips for
+that. Um, Haml, you want We also have
+many perks.
+&gt;&gt; Yeah. Talk about the perks.
+&gt;&gt; Okay. The perks.
+&gt;&gt; So, my favorite perk is there's a60page
+book that's meticulously written that
+we've created that walks through the
+entire process in detail of how to do
+evalu.
+So, you don't have to sit there and take
+all these notes. We've done all the hard
+work for you and we've like documented
+it in detail.
+um you know and organize things. So that
+is really useful. Another really
+interesting thing and something that I
+got the idea from you Lenny is okay this
+is an AI course.
+Education shouldn't be this thing where
+you you're only watching lectures and
+doing homework assignments. So students
+should have access to an AI that also
+helps them. So what we've done is we've
+uh you know just like there's the
+Lennybot that you have
+&gt;&gt; yeah lennybot.com
+uh we have made the same thing with the
+same software that you're using and we
+have put everything we've ever said
+about eval into that. So, every single
+lesson, every office hours, every
+Discord chat, any blogs, papers,
+anything that we've ever said publicly
+and within our course, we've put it in
+there and we've tested it with um a
+bunch of students and they've said it's
+helpful. Um so, we're giving all
+students 10 months free unlimited access
+to that alongside the course.
+&gt;&gt; Amazing. And then you'll charge for that
+later down the road is the idea. I just
+take one month at a time. I don't know
+what we're doing.
+&gt;&gt; Eight months and then we'll have to
+figure it out. I was thinking we should
+have this whole interview should have
+just been our bots talking to each
+other.
+&gt;&gt; That's amazing. I I would watch that
+only for like 10 minutes then I don't
+know what they're talking about.
+&gt;&gt; Yeah, maybe maybe 30 seconds. Did you
+guys train it on the voice mode by the
+way? That's my favorite feature of this
+of Deli's product. If not, you should do
+that.
+&gt;&gt; Oh,
+&gt;&gt; I think I'm I can't remember. Um I
+should I should look at it. Definitely
+sure. Now that we have this podcast
+episode, you could use this uh content
+to train it. It's 11 laps powered. It's
+so good. Uh okay. So that's how do they
+get to I guess that's okay. They get to
+that once they become a uh they enter
+your course. So there's no
+&gt;&gt; sign up for the course and then you'll
+get a bunch of emails. Everything will
+be clear hopefully.
+&gt;&gt; Amazing. Okay. We also have a discord
+&gt;&gt; of all the students who have ever taken
+the class and that discord is so active
+&gt;&gt; I I can't go on vacation without getting
+notified on the plane or
+&gt;&gt; bitter sweet bittersweet. Incredible.
+Okay. Uh with that we've reached our
+very exciting lightning round. I've got
+five questions for you. Are you ready?
+&gt;&gt; Yes. Let's go.
+&gt;&gt; Let's do it. Okay. So, I'm going to
+bounce between you two. Share something
+if you want. You can pass if you want.
+First question. Shrea. What are two or
+three books that you find yourself
+recommending most to other people?
+&gt;&gt; So I like to recommend a fiction book
+because life is about more than eval. So
+recently I
+read Pachenko by uh Ninjan Lee uh really
+great book and then I also am currently
+reading Apple in China which the name of
+the author is slipping my mind but this
+is kind of more of an exposition written
+by a journalist on how Apple did a lot
+of manufacturing processes in Asia over
+the last um couple several decades. Very
+eye opening.
+&gt;&gt; Amazing. Haml.
+&gt;&gt; Yeah, I have them right here. Uh, so the
+so I'm a nerd. Okay, so I'm not as cool
+as RA is. So I actually have like
+textbooks which are like my favorite. So
+this one is very classic one. Machine
+learning by Mitchell. Now, it's kind of
+theoretical, but the thing I like about
+it is it um really drives home the fact
+that AAM's razor is prevalent not only
+in like science but also in machine
+learning and AI. So, a lot of times the
+simplest and also engineering. So like a
+lot of times the simpler approach
+generalizes better. And so that's the
+thing I kind of internalized deeply from
+that book. And um also really like this
+one. So another textbook. I told you I'm
+a nerd. This is like also an very old
+one.
+&gt;&gt; Wow.
+&gt;&gt; Um, and this is like, you know, nor
+algorithms and it's just like I really
+like it because it's just human
+ingenuity and it's very like lots of
+clever useful things.
+&gt;&gt; They're down the street.
+&gt;&gt; Computing.
+&gt;&gt; I'm at Berkeley.
+&gt;&gt; The people that did that research.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Textbook authors.
+&gt;&gt; Super cool. Oh, man. Nerds. I love it.
+Okay, next question. Favorite recent
+movie or TV show? I'll jump to Haml
+first.
+Okay. So, I'm a dad of two parents. I
+have two parents.
+&gt;&gt; I don't get to Oh, sorry. Uh, two kids.
+So, yeah, I'm a dad of two kids
+&gt;&gt; and I don't really get the time to watch
+any TV or movies. So, I watch whatever
+my kids are watching. So, I've watched
+Frozen like three times in the last
+week.
+&gt;&gt; Only three? Oh, okay. In the last week.
+Okay. Yeah. So, that's
+&gt;&gt; great. That's my Frozen. I love it.
+Okay. Sure. Yeah.
+&gt;&gt; Yeah. I don't have kids so I can give
+all these amazing answers actually. So
+my husband and I have been watching The
+Wire recently. We never actually saw it
+growing up. So we started watching it
+and it's great.
+&gt;&gt; I feel like everyone goes through that
+eventually in their life. They decide I
+will watch The Wire.
+&gt;&gt; I know. So we are in that
+&gt;&gt; year of your life. I It's great. I It's
+such a great show. Oh man. And but it's
+so many episodes and everyone's an hour
+long.
+&gt;&gt; I know. We get through like two or three
+a week. So,
+&gt;&gt; so we're very slow.
+&gt;&gt; Worth it. Okay, next question. Do you
+have a favorite product you've recently
+discovered that you really love? And
+we'll start with Shrea.
+&gt;&gt; Yeah, I really like using cursor.
+Honestly, now Cloud Code. Um, I'll I'll
+say why. So, I think as a I'm a
+researcher more so than anything else. I
+write papers, I write code, I build
+systems, everything. And I I find that
+like a tool I'm so bullish on AI
+assisted coding because like I have to
+wear a lot of hats all the time. Um and
+now I can be more ambitious with the
+things that I build um and write papers
+about. So I'm super excited about those.
+Cursor was my entry point into this. Uh
+but I'm starting to find myself trying
+always trying to keep up with all these
+AI assisted coding tools.
+&gt;&gt; Haml. Yeah, I really like cloud code and
+I like it because I feel like the UX is
+outstanding. Um, there's a lot of love
+that went into that. Um, it's just it's
+just really impressive as a terminal
+application that is that nice.
+&gt;&gt; Ironic that you two both love cloud code
+when it's just built on vibes.
+&gt;&gt; I think it's false. It's not just built
+on vibes.
+&gt;&gt; There we go. Okay, two more questions.
+Uh Hamill, do you have a favorite life
+motto that you find yourself using and
+coming back to in work or in life?
+&gt;&gt; Keep learning and think like a beginner.
+&gt;&gt; Beautiful. Shria,
+&gt;&gt; I like that. Uh for me, it's to always
+try to think about the other side's
+argument. I find myself sometimes just
+encountering arguments on the internet
+like this recent eval debates and like
+really think okay put myself in their
+shoes. There's probably a generous take,
+generous interpretation, and I think
+we're all much stronger together than if
+we start picking fights. My vision for
+Evals is not that Hamel and I become
+billionaires. It is that everyone can
+build AI products and we're all on the
+same page.
+&gt;&gt; Slash Everyone becomes billionaires.
+&gt;&gt; Yes.
+&gt;&gt; Amazing. Final question. When I have two
+guests on, I always like to ask this
+question and I'll start with Hamill.
+What's something about Shrea that you
+like most? What do you like most about
+Shrea? And I'm going to ask her the same
+question in reverse. Yeah, Shrea is one
+of the wisest people that I know,
+&gt;&gt; especially for being so young relative
+to me. I feel like she's like much wiser
+than I am, honestly. Seriously. Um,
+she's very grounded and has like a very
+even perspective on things.
+And so I'm just really impressed by that
+all the time.
+&gt;&gt; Sure. Yeah.
+&gt;&gt; Yeah. My favorite thing about Hamill is
+his energy. I don't know anybody who
+consistently maintains momentum and
+energy like Hamill does. Um I often
+think that like I would start caring
+much less about Evals if not for Hamill.
+And uh everyone needs a Haml in their
+life for sure. M. Oh, well, we all have
+a Haml in our life now. Uh, this was
+incredible. This was everything I'd
+hoped it'd be. I feel like this is the
+most interesting, in-depth uh,
+consumable uh, primer on emails that
+I've ever seen. I'm really thankful
+YouTube made time for this. Uh, two
+final questions. Where can folks find
+you? Where can they find the course? And
+how can listeners be useful to you? Uh,
+I'll start with Shrea.
+&gt;&gt; Yeah. Uh, you can reach me via email.
+It's on my website. If you Google my
+name, that is the easiest way to get to
+my website. You can find the course. If
+you Google AI evals for engineers and
+product managers or just AI evals
+course, you'll find it. Um, we'll send
+some links hopefully after this so it's
+easy. And how to be helpful. Two things
+always for me. One is ask me questions
+when you have them. I will try to get to
+them.
+R respond as soon as I can. The other
+one is tell us your successes. One of
+the things that keeps us going is
+somebody tells us like what they
+implemented or what they did a real case
+study and Haml and I get so excited from
+these um and it really keeps us going.
+So please share.
+&gt;&gt; Yeah. Uh it's pretty easy to find me.
+I'm my website is hamill.dev.
+I'll give you the the link. Um you can
+find me on social media, LinkedIn,
+Twitter. Um thing that's most helpful is
+to echo what Shrea said, we would be
+delighted if we're not the only people
+teaching evals. We would love other
+people to teach evals. And so any kind
+of blog posts,
+writing especially that as you go
+through this and learn this that you
+want to share, we would be delighted to
+help reshare that or amplify that.
+Amazing. Very generous. Thank you so
+much for being here. Uh, I really
+appreciate it and you guys have a lot
+going on. So, so thank you.
+&gt;&gt; Thanks Lenny for having us and for all
+the compliments.
+&gt;&gt; My pleasure. Bye everyone.
+&gt;&gt; Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

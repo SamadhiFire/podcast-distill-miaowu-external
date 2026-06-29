@@ -1,0 +1,2921 @@
+Kind: captions
+Language: en
+If you were literally founding a new
+company from scratch with the same
+mission, how would you execute on that
+mission using a fully AI native
+approach? If you can't, then you should
+find a buyer and then if you really care
+about this mission, like go and start
+the next carnation of it or people that
+work for you, how have you adjusted what
+you expect of them to help them be
+successful?
+&gt;&gt; If you want to cancel all your meetings
+for like a day or for an entire week and
+just go play around with every AI
+product that you think could be relevant
+to Air Table, go do it. of the different
+functions on a product team, PM,
+engineering, design, who has had the
+most success being more productive with
+these tools. It really does become more
+about individual attitude. There's a
+strong advantage to any of those three
+roles who can kind of cross over into
+the other two. As a PM, you need to
+start looking more like a hybrid PM
+prototyper who has some good design
+sensibilities. Do you see one of these
+roles being more in trouble than others?
+Today, my guest is Howie Lou. Howie is
+the co-founder and CEO of Air Table. I'm
+having a bunch of conversations on this
+podcast with founders who are
+reinventing their decade plus old
+business in this AI era to help you
+navigate this existential transition
+that every company and product is going
+through right now. Howie and Air Table's
+journey is an incredible example of
+this. And there's so much to learn from
+what Howie shares in this conversation.
+We talk about a very interesting trend
+that I've noticed that how is very much
+an example of of cos almost becoming
+individual contributors again getting
+into the code building things leading
+initiatives themselves the something
+that we call the ICEO we also talk about
+the very specific skills that he
+believes product managers and product
+leaders also engineers and designers
+need to build to do well in this new
+world that we're in also how he
+restructured his company into two groups
+a fastinking group and a slow thinking
+group which allowed their AI investments
+to significantly accelerate. If you're
+struggling to figure out how to be
+successful in this new AI era, this
+episode is for you. If you enjoy this
+podcast, don't forget to subscribe and
+follow it in your favorite podcasting
+app or YouTube. Also, if you become an
+annual subscriber of my newsletter, you
+get a year free of 15 incredible
+products including lovable, replet,
+bolt, nadent, linear, superhuman,
+dcript, whisper flow, gamma, perplexity,
+warp, granola, magic patterns, raycast,
+chappd, and mobin. Check it out
+lennisnewsletter.com and click product
+pass. With that, I bring you Howie Lou.
+This episode is brought to you by
+LucidLink, the storage collaboration
+platform. You've built a great product,
+but how you show it through video design
+and storytelling is what brings it to
+life. If your team works with large
+media files, videos, design assets,
+layered project files, you know how
+painful it can be to stay organized
+across locations. Files live in
+different places. You're constantly
+asking, "Is this the latest version?"
+Creative work slows down while people
+wait for files to transfer. Lucid Link
+fixes this. It gives your team a shared
+space in the cloud that works like a
+local drive. Files are instantly
+accessible from anywhere. No
+downloading, no syncing, and always up
+to-date. That means producers, editors,
+designers, and marketers can open
+massive files in their native apps, work
+directly from the cloud, and stay
+aligned wherever they are. Teams at
+Adobe, Shopify, and top creative
+agencies use LucidLink to keep their
+content engine running fast and smooth.
+Try it for free at lucidlink.com/lenny.
+That's lucid dlk.com/lenny.
+Today's episode is brought to you by DX,
+the developer intelligence platform
+designed by leading researchers. To
+thrive in the AI era, organizations need
+to adapt quickly. But many organization
+leaders struggle to answer pressing
+questions like which tools are working?
+How are they being used? What's actually
+driving value? DX provides the data and
+insights that leaders need to navigate
+this shift. With DX, companies like
+Dropbox, Booking.com, Adion, and
+Intercom get a deep understanding of how
+AI is providing value to their
+developers and what impact AI is having
+on engineering productivity. To learn
+more, visit DX's website at
+getdx.com/lenny.
+That's getdx.com/lenny.
+&gt;&gt; Howie, thank you so much for being here.
+Welcome to the podcast.
+&gt;&gt; I'm so excited. Thank you, Lenny. I've
+I've been a listener from afar for a
+while now.
+&gt;&gt; I'm I'm really flattered to hear that.
+I'm also very excited. You've been on
+quite a journey over the last uh is it
+13 years or is it is it longer? like
+right yeah right about 13
+&gt;&gt; 13 years I imagine there have been a lot
+of ups and a lot of downs uh I want to
+talk about all those things I want to
+talk about a lot of the lessons that
+you've learned along the way I want to
+start with what I imagine was a a very
+surprising down moment in the history of
+air tableable this is something that
+unfortunately is something I think about
+when I think of air tableable I feel
+other people maybe feel this way is
+there's this tweet that went super viral
+uh maybe a couple years ago at this
+point where someone just shared all this
+data and they're like air table is dead.
+They've raised way more money than
+they're worth. They're not making enough
+to get from underwater.
+&gt;&gt; Yeah.
+&gt;&gt; Air table. RIP. Uh what happened there?
+How much of that was true? How did that
+go?
+&gt;&gt; Yeah. So very I basically none of it was
+true. Uh and um I mean the the
+surprising thing to me was how viral
+this tweet went when frankly like I
+actually looked back at this person's uh
+other tweets. I think they they um they
+worked at CB Insights. Uh, and the irony
+is like that the whole point of that
+business is to have like good data, good
+data quality around private company
+data. and they just like literally had
+incorrect numbers by like a a strong
+multiple on like what our revenue scale
+was, what our growth rate was like, you
+know, and and if it gave me some
+consolation, I looked back and like this
+person had also tweeted about other
+companies like Flexport was the last
+like kind of takedown tweet they they
+had like oh flexport's dead and like you
+know their um you know their valuation
+is is um you know too high and blah blah
+blah. And so I think that the more
+surprising thing was just like this
+person has been tweeting a bunch of like
+spicy takes that are not substantiated
+by real data or correct data and yet
+like this particular tweet went super
+viral and that was the perplexing part
+to me. Um, and then I think actually I
+think what what uh really gave it legs
+was um on the All-In podcast which is
+like obviously super popular uh you know
+and I listened to it like you know they
+they covered they were like oh like you
+know latest on on uh this week's news
+like you know this tweet about Air Table
+what do we think about this and it
+almost I think became like um a way to
+talk about a broader theme of what
+happens to this last generation of
+highly valued companies maybe decacorn
+companies in this new and at that point
+it was like kind of the reset moment for
+both public and private markets. Um they
+did also issue a correction though. Um
+Allin uh did a a follow-up episode a few
+few uh I think weeks later saying like
+hey like you know we got the numbers
+wrong like um you know we we're revising
+our case and and kind of a a view on Air
+Table.
+&gt;&gt; What's that line about how a lie gets
+around the world some number of times
+before truth has even has time to get
+out of bed.
+&gt;&gt; Yeah. Yeah. Yeah. Well, I I think I
+learned about um uh memes and morality
+very quickly in uh in that experience.
+Not a very good social media person, but
+uh I think I learned a little more.
+&gt;&gt; Yeah, it's tough. Twitter's such an the
+incentives are so misaligned. It's just
+I need I tweet something people want to
+share, not truth. Well, I mean,
+especially like I mean I I there's a lot
+to like. I would say netnet I like the
+post Elon Twitter more than the pre-Elon
+Twitter because it it's just bolder and
+like I you know I guess I I really
+admire bold product execution where
+you're not just kind of stuck to like
+the current laurels and they made so
+many changes but like I do feel like I
+get injected into my feed very
+sensational content all the time and I
+mean it works on me. I'm like, you know,
+like I can't help but to like click on
+it and engage with it and like, you
+know, but it it does I think it does
+result in like this kind of content like
+really spreading.
+&gt;&gt; Yeah. Now, Nikita writing the show, I
+don't I don't know if you saw this.
+There's a new we don't need to keep
+talking about Twitter, but there's a new
+feature where you take a screenshot of a
+tweet and it has like a huge X.com logo
+watermark in the top right.
+&gt;&gt; Yeah. Just to like, you know, people are
+sharing these tweets all the time. Yeah.
+&gt;&gt; Yeah.
+&gt;&gt; Oh, man. Never a dull moment over there.
+&gt;&gt; For sure.
+&gt;&gt; Okay. I want to go in a completely
+different direction. something that I'm
+really excited to talk to you about,
+which is this very uh emerging trend
+that I've noticed that I feel like
+you're at the forefront of of CEOs
+becoming IC's again. It's kind of this
+move of uh ICOs,
+CEOs getting their hands dirty again,
+building again, getting in the weeds,
+coding again. Feel like you're again at
+the forefront of this. Talk about just
+why you've done this, why you think this
+is important, and just what that looks
+like dayto-day to you versus what your
+life was like a few years ago. The
+underlying reason for the shift, at
+least for me, is that as we started the
+company, I was very much in this mode,
+right? Like I was literally writing code
+both on the back end, thinking about the
+real-time data architecture of of our
+platform, also the front end, the UX.
+Um, and you know, I would argue that
+like in that founding moment, like the
+initial product market fit finding, um,
+and especially for a product that is
+like pure software, right? like we
+weren't building like a operationally
+heavy business like a dog walking
+marketplace uh where the tech is only an
+afterthought like the tech was the
+product right um and in a very meta
+sense like air table is the platform for
+other people to build their own apps
+right so like it's all about the the
+tech like the very intimate design
+decisions um again both architecturally
+and and uh on the front end and the
+product UX choices like that is the
+product's value prop right like you
+can't separate those two you can't say
+like okay like I researched search for
+the jobs to be done. Here's the
+workflow. Here's the process. And then
+like okay, some engineer can just build
+it as an afterthought. Like it's those
+like little decisions and and really be
+able to like be at the bleeding edge of
+what's possible both in the browser and
+with like you know kind of the the
+real-time data architecture um that made
+the product what it was, right? Uh I
+think the same is true for Figma which
+um you know actually like had a very
+parallel timeline to us like we both
+were founded around the same time both
+spent two and a half years building the
+product um like hands-on uh you know
+that early team before launching and you
+know when I think now to like both the
+era in between that founding moment and
+then now as well as like now the the new
+kind of genai moment like I think there
+was a maturing era of both SAS overall
+and air table specifically where you
+know as you scale up and you kind to
+learn how to build, you know, teams and
+organizations and like you have to kind
+of like scale up stuff that's not
+actually those intimate details, but
+process and people and so on. You kind
+of get, you know, by default further and
+further away from those details, right?
+And maybe for some businesses that's
+fine because like no longer is it about
+finding like the the details that make
+for a magical new product market fit and
+it is really just about scaling up an
+existing thing that works, right? um and
+using what I would call like more blunt
+instruments uh to kind of scale it up,
+right? Like a more blunt roadmap, a more
+blunt, you know, kind of go to market
+execution strategy. Regardless, I think
+that now we're we're entering this
+moment where like every certainly every
+software product in my opinion has to be
+refounded because like AI is such a
+paradigm shift. It's not even like just
+like the shift from desktop to mobile or
+on-prem to cloud where that was more
+like a a a very one-time and somewhat
+predictable change in form factor. Like
+I think AI is so rapidly evolving that
+with every evolution like every new
+model release and every new type of like
+capability that's released, it actually
+implies novel form factors and novel
+like UX patterns to be invented to fully
+capitalize on those capabilities. And so
+like to be continuous uh continuously
+relevant and to kind of refine product
+market fit in this era I think you have
+to be in the details like there is no
+like you know looking at it from 10,000
+foot view and saying oh we're just going
+to throw a bunch of people at this
+problem. It's actually understanding
+like what is the right product
+experience and the right business model
+that backs it up um and the right you
+know everything else to support that
+engine to take advantage of the
+capabilities in our product domain.
+&gt;&gt; You have this phrase somewhere where you
+you talk about being the chief taste
+maker.
+&gt;&gt; Yeah.
+&gt;&gt; And to do that you have to do exactly
+what you're describing.
+&gt;&gt; That's right. I mean, I think that and
+like I would also say like it's actually
+now also hard to taste the soup without
+participating in like at least some part
+of creating the soup, right? And like
+meaning with AI, you can kind of look at
+the final product and say, "Okay, like
+this this feels right or not or like it
+feels like we're being bold enough and
+we're we're properly, you know,
+productizing these new capabilities."
+Um, but I think like to really
+understand, you know, the solution space
+of what's possible, you kind of have to
+be in the details, right? I mean,
+literally like you can't just look at,
+you know, kind of screenshots or like a
+pre-recorded video of like a new product
+feature. Like AI is something you have
+to play with. And ideally, you're
+playing with both the like kind of
+packaged up, you know, app or solution
+that you've built with it, but you're
+also playing around directly with the
+underlying primitives. You're using the
+models either via API or via like a chat
+interface. like you're really pushing
+them to the boundaries and like because
+that's the only way that you really
+understand what these new ingredients
+it's like as a chef you just gained
+access to like amazing new ingredients
+but you have to like actually kind of
+get comfortable with them to put them
+into a new dish.
+&gt;&gt; And we had um Dan Shipper on the
+podcast. He runs uh this newsletter and
+podcast to put out a company called
+Every. And he they work with companies
+to help them become more AI uh
+successful and adopt AI and all that
+stuff. And he I asked him what's the
+what's the signal that a company will
+have success adopting AI and seeing huge
+productivity gains and he said it's does
+the CEO use chat GPT or claw daily.
+&gt;&gt; Yeah.
+&gt;&gt; And I feel like you're describing
+exactly hourly
+&gt;&gt; literally hourly like or you know
+&gt;&gt; you could even like have a measure of
+like inference uh like costs right like
+the equivalent underlying like inference
+compute cycles right how many tokens
+they use. But yeah, I mean I I'm proud
+to say like I am uh I'm I'm pretty sure
+I'm still the um I I just checked this
+recently, but like uh I take pride in
+being the number one most expensive in
+inference cost user of Air Table AI. Uh
+not just within our own company, but I
+think for a long time I was globally
+across all our customers as well. Like I
+mean I'm just I'm I'm like well I mean
+like I'm extremely intentionally
+wasteful. uh wasteful in the sense of
+like you know I'll do something that
+costs like maybe hundreds of dollars of
+like actual inference cost right like
+for instance you know doing a lot of LLM
+calls against like long you know kind of
+transcripts of let's say sales calls to
+extract different types of insights like
+here's the product apps identify or
+here's summaries etc um and we we also
+have now a capability that's basically
+like an LLM map reduce so effectively
+even if you can't fit like you know the
+entire corpus of content into one LLM M
+call because the the context window
+limitations will map through like all of
+this content and break it up into chunks
+and then like perform an LLM call on
+each one and then perform an aggregation
+LLM call on those chunks. Very
+expensive, right? Because you're
+basically running like a highly
+expensive model against a lot of data
+and then running it again on the
+aggregates of that. But like for me, you
+know, like hundreds of dollars spent on
+this exercise is trivial compared to the
+potential strategic value of like having
+better insights. It's as if like a
+really really smart chief of staff has
+gone through and read every single sales
+call like transcript that we've had in
+the past year and giving me like you
+know you know kind of very uh astute
+product insights, marketing insights,
+like you know kind of positioning
+insights and segmentation insights. Um
+like that's invaluable, right? like you
+could pay a consulting firm like
+literally millions of dollars to get
+that quality of work. So like to me I
+still think the like the value versus
+the actual cost of AI when applied
+greedily but smartly like it's just it's
+it's it's a crazy ratio and like more
+people should be like aggressively
+throwing comput cycles at these very
+high value problems
+&gt;&gt; until somebody tweets how you're eating
+uh costing the company so much on on AI
+compute and you guys are going to be
+underwater.
+&gt;&gt; Just kidding. like how we have
+personally taken down um the uh the cash
+flow profile of the business like
+&gt;&gt; so okay so CEOs founders hearing this
+they're probably like okay I I I should
+probably start doing this what is this
+actually look like I imagine you still
+have a lot of other stuff you got
+one-on- ones you got all these like how
+do you actually how have you changed
+your day-to-day to do this yeah so I
+actually cut my one-on-one roster u by
+default uh and the idea is I'm not is
+not that I don't want to spend I'm
+one-on-one with people, but rather that
+I found that the um just like having
+more standing one-on- ons actually
+precludes me from, you know, engaging in
+more timely topics, right? Like I like
+to think of um you know, the best types
+of meetings as like very um urgency
+driven and like, you know, there's some
+timely topic like you know, you've
+you've discovered some insight. Maybe I
+talked to some new startup, right? um
+and uh you know I learned something from
+from their product or their approach and
+I want to bring that into how we're
+thinking about like a new feature at Air
+Table or even just like plant the seed
+with like you know some different like
+you know EPD people within Air Table
+like I want to make most meetings uh
+very timely and very informed by like
+real alpha right there's got to be some
+kind of value and insight uh to seed
+that with now in addition to that I'll
+supplement with like you know when I'm
+in person uh you know with someone like
+I want to carve out time for like a you
+know a proper like catchup and like less
+structured less less like timely and
+just more of like you know building a
+relationship with a human but I actually
+find that like you know having that com
+it's almost a barbell approach where
+it's like you know if you're going to
+spend time with somebody in a free form
+way like actually do it in a high
+quality not like forced weekly ritual
+way like go for a longer lunch or coffee
+walk or whatever um in person when you
+can uh maybe that's like a once every
+month or two kind of thing and then like
+the the inetweens are either topical So
+we do have standing meetings for you
+know like now um we have a a weekly
+basically um sprint check-in on all of
+our AI execution stuff which now is like
+half the company or half the um EPDOR is
+working on AI capabilities. we're trying
+to ship very quickly like you know I
+basically want to always ask the
+question like how would an AI native
+company like a cursor winds surf etc
+like how would they execute right and
+are we executing as fast as them and
+taking advantage of like all the new
+stuff as well as them so like bringing
+that level of like kind of intensity and
+urgency to like how I spend my time
+within that's been the main the biggest
+shift uh for me. what's a change you've
+made to help the company move faster and
+and match that sort of pace?
+&gt;&gt; Yeah, so I mean we did do a reorg uh of
+uh the EPO or so. So before we had we've
+gone through a few different um kind of
+reorgs over the past call it four years.
+The the you know kind of original state
+as we just kind of proliferated I think
+by default or incrementally was that we
+had a bunch of groups that were each
+responsible for like a feature or a
+surface area. So there was a group
+responsible for search within our table
+and there was a group responsible for
+like mobile experience and you know so
+on and so forth right and you know that
+has its benefits like you know obviously
+like that team can go and like you know
+get really ramped up on that part of the
+codebase that part of the product but it
+has the disadvantage of you know you you
+tend to think incrementally when
+everyone's remitt is actually like a
+feature that they incrementally improve
+by definition as opposed to thinking
+about like a mission or like a outcome
+goal right that might need to you know
+uh coordinate you know dramatic changes
+across a wider set of of uh surface
+areas instead of just like each one kind
+of incrementally uh improving and so we
+reorged um initially to basically
+different um business units effectively
+right so uh I know Airbnb has done like
+kind of the the functional to GM you
+know back etc this was more like saying
+look we have an enterprise business and
+the mo there is more about like
+scalability can we support like the
+larger scale scale data sets and use
+cases. Do you have the core capabilities
+needed to be able to like push out an
+app to maybe 10,000 seats or 20,000
+seats for product operations, right? Um,
+so a lot of architecture, a lot of
+scale, that kind of work. We would have
+a uh what we call the teams pillar,
+which is more about self-s serve, like
+kind of the product UX, like how easy it
+is to to adopt the product, on board,
+share, do all the kind of like basic
+functionality, an AI pillar, solutions
+pillar, and and basically impra. And
+what we found though with that approach
+is that there was still um you know
+there was more kind of uh holistic bets
+being made. So like you know the team's
+pillar could think not just about one
+feature but like the overall onboarding
+experience really like really think
+about nux you know in a way that touched
+multiple parts of the product. Um, but
+it still felt like it wasn't, especially
+as as we started to execute more on AI
+stuff, like it wasn't, you know,
+allowing us to aggressively and quickly
+move as a AI native company would,
+right? Like I mean, when you look at,
+you know, the cursors of the world,
+they're shipping like major new stuff
+every week. And like you know it's not
+like oh well we have like this separate
+you know kind of road map for enterprise
+we have this road map for for uh this
+group and you know it just feels like
+one um one cohesive product that's
+shipping at a break neck pace. So we did
+this uh recent reorg where now we have
+the what I call like the fast thinking
+uh group which officially is called AI
+platform uh but it really means like we
+want to just ship a bunch of new uh
+capabilities on a near weekly basis um
+and each of them should be like truly
+awesome value right like you should drop
+your jaw at like how awesome it is to
+use this new capability in in Air Table
+and then separately we have the slow
+thinking group that's not me meant to be
+like better or worse like it's it's
+literally like you need fast and slow
+thinking and the common sense uh to
+operate right like as a human
+&gt;&gt; I have that book behind me
+&gt;&gt; yeah I love that book um but uh but slow
+thinking is like it's just a different
+mode of planning and executing right
+it's like more deliberate bets that
+require more premeditation right like we
+can't just like ship a new piece of
+infrastructure that has a lot of like uh
+data complexity uh like you know our our
+data store hyperdb that um now can
+handle like multiundred million record
+data sets like that's not something you
+ship in a week right in a hacky
+prototype So we now have these two
+separate parts of the company and I
+actually think what's what's really cool
+is like they they actually complement
+each other very well right because like
+the the fast execution the AI stuff you
+know that creates the top of funnel
+excitement that that also you know kind
+of inspires new use cases and new users
+to come to air table including in large
+enterprise right like you know
+enterprises can use this stuff too it's
+not just like a SMB thing but like the
+slow thinking basically allows those
+initial seeds of adoption to sprout and
+grow into much larger deployments.
+Whereas I think a lot of the challenge
+for many of the AI native companies I've
+seen is that they could have like a very
+wide top of funnel like get all of this
+AI tourist traffic you know a lot of
+interest a lot of like kind of like you
+know early usage but then you know
+sometimes that the challenge is how do
+you like turn that into more durable you
+know growth and and get each of those
+adoption seeds to retain and expand over
+time.
+&gt;&gt; That is super cool. I've never heard of
+this way of structuring teams. the fast
+thinking thinking fast thinking slow the
+conan it's so interesting for the fast
+thinking team do you find there specific
+archetypes of people that are successful
+there is it a lot of like bringing in
+new people that are not just used to the
+way of working at our table what do you
+find
+&gt;&gt; we we have a mix so you know we brought
+in uh I mean we're always hiring right
+like there was never a point in um in
+the company's life where we stopped
+hiring and that you know candidly even
+when we had to do uh two riffs right
+that that significantly you know kind of
+reduced boost our headcount, you know,
+we had just like way too quickly grown
+and overscaled the business at a certain
+point. Um, but even when we did our
+riffs, we were still actively recruiting
+and hiring. Um, you know, in I mean
+every major department, but especially
+in uh in EPD, because you know, it's
+always been my belief that like you you
+all like it would be arrogant to say
+that we have all the people we ever need
+already in in the uh roster today,
+right? Like we're always going to need
+to find new fresh perspectives, new
+skill sets, etc. Um and so you know we
+we've continued to hire. Um I think
+we've learned as we've gone along of
+like you know what is the ideal type of
+hire and you know we've done some aqua
+hires and learned from that as well. Um
+but I think the fast thinking part it
+really just requires a a lot of like um
+somebody who's able to operate with a
+lot of autonomy right like you know
+who's entrepreneurial in nature. Now it
+doesn't mean like they have to literally
+be a former founder. I know some
+companies are, you know, like Ripink for
+instance does a lot of actual
+acquisitions and gets actual founders
+into the company. Like we found that,
+you know, that that's great and we've
+done some of that as well, but like also
+there are some really really capable
+people who like we didn't literally have
+to like acquire in and yet they're just
+able to like think full stack about the
+problem and like the user experience.
+Problem not just meaning like you know
+the the technical layers of the problem,
+but like also like what is the wow
+factor? we're trying to create, right?
+Um, so tangibly like you know um we're
+we're doing this new thing that's about
+to ship where you know not only can you
+describe the app you want to build and
+then iterate on it with you know kind of
+our conversational agent omni but um and
+it builds it with like the existing air
+table platform capabilities but um we're
+also giving it the ability to actually
+do codegen to extend those apps with
+like really final mile very bespoke
+functionality or like uh visuals right
+so you could say like hey generate me a
+very very specific type of map view with
+like this kind of like uh heat mapping
+and this kind of like you know icons and
+when you click it do this and like
+that's a capability that like there's so
+much ambiguity in some of the design
+decisions around it like you know um and
+and you have to blend that design
+thinking with some of the technical
+constraints of like what can the AI
+models actually oneshot effectively and
+if not like how do you add in like the
+right human workflow for approval and
+review and then reprompting and so on.
+So just so many different like design
+decisions and you need somebody who can
+like really think full stack about that
+kind of product and is not overwhelmed
+by that you know kind of openness but
+like relishes in it.
+&gt;&gt; I was actually playing with it uh before
+we started chatting. I made a really
+cute startup CRM.
+&gt;&gt; Oh that's awesome.
+&gt;&gt; Yeah. Started talking Omniver here. It's
+like the colors are beautiful. That was
+that's what's standing out to me right
+now. I mean there is um I will say like
+just as a as a note um you know I
+consider myself like at my core like a
+product UX person right like that that's
+my like passion and you know everything
+else I've had to learn to to kind of run
+this company uh is almost like what was
+a necessary you know part of the the
+journey like you know but but like my
+real passion is thinking about product
+UX right and I you know I I think of UX
+in a deeper sense than just like the
+cosmetic like design like you know what
+you could put into a framer you know
+kind of prototype like I think of it as
+like literally like what should this
+product do and how should it represent
+that and behave for the user that is the
+product in my opinion right um and of
+course then you have to figure out like
+technically what's possible and how to
+implement it but like I think to me um
+what's under uh executed today in the
+world of AI products is like there's so
+many awesome capabilities of AI and Most
+of them are really under merchandise and
+there's like very poor actually visual
+or otherwise metaphors or affordances
+given to users to help represent or
+understand like what those underlying
+capabilities are right like I mean Chach
+obviously like you know extremely
+successful product so not knocking it at
+all but like you come in and you just
+get this like completely blank chat box
+right by default and now they have
+suggestions underneath and and so on but
+like you know the product UX part of me
+is just like craving
+more visual metaphors or colors or some
+kind of like use the canvas of a web
+interface to and and all the richness um
+you know interaction you create there to
+better represent or or show all the
+different things that you can do with uh
+you know wi with the underlying model
+right um and so that's something we've
+tried to do with air table is like show
+like all of the different states and
+like use colors even to play those up
+&gt;&gt; it's interesting how much of this
+connects with I just had Nick Turley on
+the podcast. He's head of chat GBT at
+OpenAI and he had these two really
+interesting insights that resonate uh
+directly with what you're describing.
+One is he has this concept of whenever
+something is being worked on, he's
+always asking is this maximally
+accelerated? How do we move faster? Is
+that if this is important, what would
+allow us to move faster? Yeah. And I
+love that that's one of the themes
+that's coming up as you talk is just
+this creating this very clear sense of
+speed and you even call it the fast
+thinking team like you are going to move
+fast.
+&gt;&gt; Yeah. And then the other one is just
+this insight that with AI, you often
+don't know what people what what it can
+do and what people want to do with it
+until it's out. So there's this need to
+get it out and that'll tell you what it
+should be. I I couldn't agree more with
+with both of those and particularly on
+the second point. You know, I think it's
+interesting like clearly there have been
+companies um that have both both been
+successful in PLG and like kind of more
+salesled, you know, kind of distribution
+for AI products like you know the the
+most notable ones I can think of are
+like Palanteer with their EIP
+deployments like that's obviously very
+salesled. You're not PLG into a
+Palunteer deployment but even you know
+like companies like Harvey and and uh
+and so on like you know they're doing
+very well and like it's primarily from
+what I understand like salesled, right?
+You're not self-s serving into a Harvey
+instance at a law firm. Um, and yet like
+to me the the best way to get AI value
+out there is experientially, right? And
+so like you can kind of get that in a
+sales motion. You can like, you know,
+show a demo, maybe you can get do a PC,
+but like it's so much more powerful when
+you just open up the doors and say
+anyone who wants to come and sign up and
+trial this product like can, right? And
+uh I think you know it's to me it's like
+you know kind of a real proof point that
+like chatbt is arguably like the most
+successful uh you know kind of PLG
+product of all time right just in terms
+of like sheer scale of users like they
+announced 700 million like MA is it MAUs
+or week uh I think
+&gt;&gt; weekly active users 10% of humans on
+earth use it weekly.
+&gt;&gt; That's insane. In like how many years
+right like a few years?
+&gt;&gt; Three years under three years.
+&gt;&gt; Yeah. And and so like I mean literally
+that that is just like the most insane
+ramp curve and I don't think they would
+have gotten there if like you couldn't
+just come in and literally try the
+product out like and and you know kind
+of as a little bit of a rebuttal of the
+point I made earlier where like I think
+Chhat PT doesn't do a ton right now uh
+and and even earlier like they they did
+even less to like expose all the
+different ways you could use it but they
+just made it so frictionless to just try
+it for yourself that you as a user could
+come in and just literally ask it
+anything and see how I did and of course
+like you know people in the early days
+tried to stump it and showed like oh
+look see it's not that smart like it
+doesn't answer this this hard question
+really well but like clearly the magical
+like you know kind of nature of it still
+appealed to you enough you like
+everybody used it and so I think um you
+know I do have a view like we've gone
+through that whole you know kind of arc
+of we started PLG I'd like to think air
+tableable was one of the the kind of PLG
+darlings of of our era and anyway I kind
+of started moving up market and like
+doing more uh sales execution, although
+that was still always on top of like
+usually PLG within an enterprise. Uh but
+we started doing more and more sales uh
+execution. We still have that that's
+still really uh important for our
+business. But I also think like me
+personally like one of my goals is to
+shift my attention back into that kind
+of like you know builderled adoption and
+like literally showing in the product um
+experientially not telling in like a
+deck the value that you can get from
+from AI and Air Table right like I think
+that's so key and it's it's you know
+it's nux but it's also more than that
+it's not just like literally how do you
+onboard somebody into the product it's
+like literally thinking about the entire
+product experience itself right and in
+our case We just like made the entire
+product experience AIcentric, right?
+Like it used to be that like you know we
+had kind of this like secondary thing
+that you could ask questions to the
+assistant sidebar. We now made our agent
+the default way of doing everything in
+Air Table and like you know it's like
+now the the Air Table app as you know it
+is almost like an artifact that's
+manipulated by um you know and kind of
+like can be tool used by the agent.
+&gt;&gt; Let me follow that thread. So if you go
+to airtable.com today, it looks it looks
+like basically all the other AI app
+building sites now. It's just tell me
+what you want to build. Thoughts on that
+as just like a thing everyone's starting
+to do. Is there what do you think comes
+next? Is this does is it working well?
+There's clearly a an incredible magic to
+uh vibe coding and and app building with
+AI, right? And um this is actually you
+know like a a prime illustration uh in
+my view of of uh that that const talked
+about a second ago which is you know as
+capabilities of these underlying models
+evolve the form factor and the product
+UX also needs to evolve with it right
+and so like the earliest models like the
+kind of original chat like GP 3.5 uh you
+know kind of era models were were not
+nearly as smart as the current models
+right um and so like you couldn't really
+ask it to oneshot a more complicated
+ated chunk of code or or certainly not
+like a full stack app and expect it to
+work. Um and so the right form factor
+for leveraging those models in a
+software creation context was GitHub
+copilot, right? It's like autocomplete a
+few lines of code at a time, right? But
+you know, you couldn't chat to it and
+tell it like build me this entire app
+from scratch, right? And I think that
+like as the models got better and
+better, you saw that the new form
+factors emerge. Like I think cursor did
+a great job of like being an early
+pioneer of this more agentic way of
+leveraging the models to to do more
+complex things and generate more, you
+know, kind of larger chunks of code. And
+now with composer, you can literally
+just go into cursor and build an app
+from scratch, like build me a 3D shooter
+game from scratch and just watch it go
+and like create all the files and, you
+know, fill out each file and then like,
+you know, like the thing actually runs
+some of the time. And so to me this is
+you know where the world is going the
+models are clearly getting smarter and
+you know if you think about the original
+vision of air table it was always about
+democratizing software creation like we
+just strongly believed that you know the
+number of people who use apps uh far
+outweighs the number of people who can
+actually like build their own or or
+manipulate apps and like harness like
+custom software to their advantage.
+&gt;&gt; That sounds very familiar. very familiar
+these days.
+&gt;&gt; Yeah, exactly. And and so like I think
+this is like it's a different means to
+the same end. And so like it's almost
+like we have to lean into this because
+if we started Air Table today like this
+is what we would be all in on. Now I
+think that the advantage that that we
+have um and like I do think you have to
+be realistic to yourself um especially
+as as a uh as a company that predates
+Genai and now has to kind of find your
+new footing in the AI landscape. Like
+you can't fool yourself and just say
+like, "Okay, I'm going to throw in some
+AI stuff on the landing on the marketing
+site, you know, put in a couple AI
+features and call it a day." Like I
+think you actually have to take a clean
+slate uh approach to saying like, how
+would our mission best be expressed?
+Like if you were literally founding a
+new company from scratch with the same
+mission, how would you execute on that
+mission using a fully AI native
+approach, right? And like I and and and
+then by the way, like do you have useful
+building blocks? um you know that you
+can leverage from your existing product
+uh and your existing business or are you
+literally worse off having this legacy
+asset versus starting something from
+scratch and like I don't think the
+answer is always yes or no. I think it
+just depends on the product. And if you
+can't really introspect and say like,
+look, I think I'm better off doing this
+with the pieces that I have for my
+existing business and product, then I
+think you should sell, right? Like you
+should find a buyer for that company and
+then go and and like, you know, if you
+really care about this mission, like go
+and start the next carnation of it,
+right? In my case, like I I I really,
+you know, thought about this and like
+really feel strongly that the building
+blocks that we have like these no code
+components actually do allow us to
+execute better on this vision than if I
+had to start from scratch, right?
+Meaning like the problem with vibe
+coding especially if we're building
+business apps. So I should clarify that
+like you know we want to democratize
+software creation but specifically we
+are focused on business apps, right?
+We're not trying to be the platform
+where you create like a cool viral
+consumer game. this is for like your
+CRM, right? Or if you want to build an
+inventory management system as a small
+restaurant or a a lawyer trying to build
+like a case management system, like
+that's what we've always been been uh
+focused on. And I think in this uh AI
+native world, clearly you should be able
+to generate those apps agentically. And
+yet, if you have an agent that has to
+generate every single bit of that app
+from scratch, from code, it's going to
+be very unreliable. There's going to be
+bugs. There's going to be data and
+security issues. And then you're also
+going to have a context collapse as it
+just cannot manage all of the code that
+it's written basically as the app gets
+more and more complex. Right? And what
+we actually have are basically these
+primitives that the agent can manipulate
+and use without having to like literally
+write the code from scratch to represent
+like here's a beautiful CRUD interface
+on top of the data layer, right? Like
+ours is real time and collaborative and
+really rich and has collaboration on it.
+And by the way, here's all these other
+view types and a layout engine for a
+custom interface, you know, uh a layout,
+right? Or automations and business
+logic. And so it's almost like um in
+programming terms like the Air Table
+pieces in our Lego kit today can be used
+by this agent as almost like a more
+expressive DSL like a domain specific
+language to build business apps instead
+of literally having to write everything
+down to like the SQL and HTML and
+JavaScript to build every part of that
+app from scratch. And so like if we can
+combine the best of both worlds, like we
+have these very reliable, highquality
+Lego pieces, now an agent can go and
+like assemble them for you instead of
+you just using the guey to do that. And
+by the way, if you do want to fall back
+to the guey, there's a really great, you
+know, kind of way for the non-technical
+user to still understand and participate
+in what's going on. Whereas if you're
+not technical, you can't inspect the
+code underneath a vzero or logable or
+revollet app, right? Like it's just kind
+of opaque to you. And if you can't
+reprompt it to get what you want, you're
+kind of stuck. Um, you know, this is
+much more akin to like a developer using
+cursor can generate lots of code but
+then can still drop back to the IDE to
+edit and and manipulate it to the final,
+you know, kind of production ready
+state. So like that's that's kind of the
+the play that we're making. And if I
+didn't fully and truly believe like, you
+know, we have a better shot at doing it
+with our existing product, like I
+wouldn't be running this company in its
+form today. I'm talking to a lot of
+founders that are going through the
+journey you're going on which is we've
+had a business for a decade AI emerged
+and wow we got to figure out something
+that works that could work even better
+and so I'm trying to pull out the
+threads that are consistently working
+across these journeys because I think a
+lot of companies are trying to figure
+this out. So, one that you just touched
+on is just if you were to start today,
+what would you do? Like what would that
+business be? Plus, how can how can do we
+have an unfair advantage with the thing
+we've done in the past? That feels like
+an important ingredient.
+&gt;&gt; And then the other circling back to
+stuff you've shared already. There's
+just uh just like creating a sense of
+urgency and pace and getting people uh
+to understand this is how things move in
+AI and we need to create this fast
+thinking team. I love that metaphor and
+framing. And then there's the point you
+made about just talking to AI regularly
+as the founder feels like an important
+element just like to truly be this ICEO
+talking to AI working with AI regularly.
+&gt;&gt; Just on that note a little bit more what
+just to give people a sense of what this
+looks like dayto-day. So you're talking
+to Omni all day trying to under flex the
+power of what you can do and iterate on
+it. Is there anything else you're doing
+dayto-day that helps you figure out what
+to do for the business? one, I try to
+use as many different AI products,
+including not Air Table, right, like as
+I can. Um, and both literally for the
+novelty factor and just like, you know,
+some new cool demo comes out like uh
+Runway released their like immersive
+world uh you know, kind of engine,
+right? And um and so like I'm going to
+go try that out, right? like when uh
+Sesame AI put out their like cool like
+kind of interactive voice voice chat um
+you know uh uh you know demo like I
+tried that out because like even though
+we don't have a direct and near-term
+like um you know kind of uh need for
+like really um realistic and and
+interruptible like kind of voice mode uh
+where it's not as core to our
+capabilities like I just want to
+understand and like get a feel for
+everything that's out there right and I
+try to invent little like kind of almost
+like side projects of my own to have a a
+real kind of reason to use these
+products. Like, you know, oh, cool. What
+if I
+were to take like a what what if I were
+to like try to create like a funny
+little like um you know, like a short a
+funny video short, right? Using a
+combination of like hey gen avatars with
+like a script like a comical script
+generated by AI, right? And maybe it'll
+be on like an interesting topic. So I'll
+do like deep research on the topic with
+chach and pull together the results have
+it composed like you know kind of a
+little
+&gt;&gt; Did you actually do this? Is there
+something like that? That's literally an
+example of some like just you know a fun
+weekend project and like to be honest
+like these things only take you like an
+hour right if you're if you become kind
+of pre pretty proficient with using the
+products like they're all so easy to use
+like you can literally do the deep
+research thing you know kick off a query
+make a coffee come back in 20 minutes
+okay like let me let me prompt it to
+like generate me some dialogue. Uh, it's
+a little bit like what Notebook LM does
+for you out of the box. But sometimes I
+like to just like do it myself, right?
+And then, okay, let me take the script
+and like cut it up and like, you know,
+turn it into a hey gen avatar and then
+download the video and then like play
+it, right? Like, and just for fun,
+right? I'm not like trying to make make
+that into an actual like, you know, kind
+of YouTube like video business. But but
+I think like coming up with like these
+different like fun weekend projects is a
+really useful construct to like force
+myself to actually try these products in
+a more than just like a twitchclick way.
+And you know what what it gives me is
+like a like it's not just understanding
+the models which is also very very
+important right like GB 5 came out
+yesterday and like playing around with
+it a bunch uh just on like a variety of
+different like personal use cases um you
+know but like there's a difference
+between just understanding the model but
+then also understanding like the product
+form factors in which they can be placed
+right meaning like you know when you
+apply the model in a more structured way
+right um you know when you apply the
+model with different tool calling than
+maybe what chach has in its kind of like
+out of the box form. You know when you
+apply it with like you know kind of a
+more agentic workflow again that might
+be different from like what chat gives
+you out of the box like that's when you
+kind of learn like you know you really
+get to inspire yourself on like one of
+the product form factors that these new
+models can take. So like and and plus by
+the way like I find it to be really fun.
+Like there is a to me like a delight and
+entertainment value to just using AI
+period because like a it's it's it's not
+it's not like perfectly predictable. So
+I think the element of like you're not
+quite sure what you're going to get, you
+know, it's like a box of chocolates. Uh
+you know uh and and b like it always
+blows my mind just to think about like
+wow like you know five years ago we
+didn't have any of this stuff, right?
+like you know AI was like okay like it's
+like we can do predictive analytics it's
+like you know there's some like
+basically very advanced you know kind of
+regressions that we can run with with AI
+but like it looked nothing like this
+right in it in its current form and it's
+just like actually super fun in my
+opinion to get to play around with all
+the different types of products that
+that uh that come out. So I think that
+is a big part of it. um you know because
+on the point about like the pace of the
+world moving so much faster in AI than
+any other landscape it like you know in
+SAS you know in the mature SAS era like
+it was important to study your
+competition right like if you were
+building a SAS company you'd be crazy
+not to follow Salesforce right um every
+like year and see what the you know the
+major releases they're putting out are
+or service now or you know so on like
+this is the equivalent of that but
+there's major new releases and products
+and and so on like every week, right?
+Not like every year. And so I just think
+you have to stay a breast of all of it
+all. And combining this with our point
+earlier of like a lot of this has to be
+experience, not just like read. Like you
+can't just read like the write up on
+TechCrunch or or you know even a tweet
+about like a new capability. Like you
+kind of have to try it to really get a
+sense of like what it is. Today's
+episode is brought to you by Anthropic,
+the team behind Claude. I use Claude at
+least 10 times a day. I use it for
+researching my podcast guests, for
+brainstorming title ideas for both my
+podcast and my newsletter, for getting
+feedback on my writing and all kinds of
+stuff. Just last week, I was preparing
+for an interview with a very fancy
+guest. And I had Claude tell me, "What
+are all the questions that other podcast
+hosts have asked this guest so that I
+don't ask them these questions?" How
+much time do you spend every week trying
+to synthesize all of your user research
+insights, support tickets, sales calls,
+experiment results, and competitive
+intel? Claude can handle incredibly
+complex multi-step work. You can throw a
+100page strategy document at it and ask
+it for insights, or you can dump all
+your user research and ask it to find
+patterns. With Cloud 4 and the new
+integrations, including Cloud 4 Opus,
+the world's best coding model, you get
+voice conversations, advanced research
+capabilities, direct Google Workspace
+integration, and now MCP connections to
+your custom tools and data sources.
+Claude just becomes part of your
+workflow. If you want to try it out, get
+started at claude.ai/enny.
+And using this link, you get an
+incredible 50% off your first 3 months
+of the pro plan. That's claude.ai/lenny.
+AI/ Lenny for people that work for you
+across Air say the product team PMs
+maybe engineers designers how have you
+adjusted what you expect of them to help
+them be successful in this new world.
+one is, you know, really, really, really
+stressing this idea of like go play with
+this stuff. And I mean, when I say play,
+I really mean play like in in the
+psychological sense of like, you know,
+it's there's a difference when like you
+go in and you're kind of just trying to
+check the box and like get a job done,
+right? There's a difference when like
+you come in with a curiosity and like
+you you're kind of like exploring,
+right? And it's both more fun and
+energizing, but also I think like you
+learn more through that, right? And so
+like I've really tried to stress the
+value of play with these AI products and
+I kind of you know try to lead by
+example by like literally going and like
+sharing out links or or uh screenshots
+like you know of the things that I'm
+doing in these various products. So like
+you know as an example you know like I
+uh will go into um you know like what
+one of the um uh prototyping tools and
+show like hey like you know uh I built a
+marketing landing page for you know this
+new uh capability we're launching. I
+kind of created like a landing page for
+it in Replet, let's say. And now I'm
+sharing that link instead of, you know,
+what typically like we would have done
+in the past is like, okay, we're going
+to write a doc about it and then share
+the doc. I'm just going to show you like
+an actual landing page with like visuals
+and everything in there, right? Um or
+like I'll share like uh you know the
+actual link to my deep research reports
+or like instead of me writing a perfect
+memo on a topic like I'll actually just
+like prompt my way into getting like a
+chat thread uh or a chat output that
+basically covers all the content that I
+care about and maybe even like ask it to
+like okay summarize this all into like a
+final, you know, kind of like memo
+output and then intentionally share that
+rather than expose the fact that like
+I'm using AI in this way and here's
+literally how I'm prompting it so you
+can follow along as you know, but really
+trying to encourage everyone to like go
+and just play with these products. And
+I've even said, look, if anyone wants to
+just literally block out a day or
+frankly even a week and like like um
+have the ultimate uh excuse like you can
+use like you know you you could say that
+I told you to do it, right? Like if you
+want to cancel all your meetings for
+like a day or for an entire week and
+just go play around with every product
+AI product that you can find that you
+think could be relevant to Air Table, go
+do it like period. Um so I think that's
+the most important thing is like this
+this play this experimentation. I think
+there's also a lot of other you know
+kind of shifts in how we execute uh
+prototypes over decks. um you know like
+I I want to see like actual interactive
+demos because like again like it's hard
+to to you know in a deck or in a PRD you
+could say like okay well we're going to
+make Omni really good at handling this
+kind of app building okay those are just
+words the real proof is in the pudding
+of like okay let me try it out on a few
+like realistic prompts I can imagine and
+in a demo in a real prototype you can
+like instantly you know try it out on
+realistic rather than golden pathy
+scenarios um and see how it feels too
+like is Does it feel too slow? Like do
+we need to expose more of the the
+reasoning or steps, you know, kind of um
+you know that that are happening behind
+the scenes, create a progress bar or
+something like that. But like it's
+really hard to get that feel of the
+product with anything but like a
+functional prototype that really does in
+an open-end way, you know, like use the
+the AI to to do whatever um you know,
+you put in. So, you know, I think it's
+it's more like a
+um like experimentation playground. It
+feels like uh how we need to execute
+versus I think in the past it's
+sometimes felt like a more like
+deterministic resourcing and and like
+kind of timelines view of execution,
+right? Like we're going to put this many
+people on this problem and this is the
+8week timeline to this milestone and
+we're going to ship in a quarter from
+now. And like I think now the whole
+thing is just like a lot more
+experimentation and iteration driven.
+&gt;&gt; Of the different functions on a product
+team, PM, engineering, design, who has
+had the most success being more
+productive with these tools and how do
+you think this will impact each of these
+three functions over time? What I found
+is that it really does become more about
+individual attitude and maybe some like
+um you know polymathism like you know
+there's a strong uh advantage to any of
+those three roles who can kind of cross
+over into the other two right like kind
+of the the hybrid unicorn types right so
+if you're a designer who can be just
+technical enough to kind of be dangerous
+and and understand a little bit of like
+how these models work and you know um
+like how does tool calling work and uh
+and all of this stuff like then you can
+actually design a concept or even
+prototype a concept in including in
+these prototyping tools. um that that's
+much more interesting and maybe
+realistic than if you're just stuck in
+kind of the flat like let me put
+something in a static design right um
+concept right because uh I think you
+know designs have to be more interactive
+like that the whole the the the value of
+the product um and the product
+functionality is in the interaction of
+it right like you know think about the
+design of chachki again it's like you
+know it's the most basic design you
+could possibly imagine the real design
+actually is happening underneath
+underneath the hood in how it responds
+to different queries, right? And what
+happens after you fire off a prompt,
+right? Um, so you know, I think like I
+found that there are people within each
+of these functions like there are
+engineers who are very good at thinking
+about product and experience and like
+you know kind of can go and prototype
+out like the whole thing. There are
+designers who can kind of do do the same
+even if they can't literally code. They
+can prototype something out like
+literally using a prototyping tool. And
+I think that's where like AI tooling is
+also giving more advantage to people who
+can think in this way by equipping them
+with an alternative to actually having
+to go through the long hoops of learning
+CS right and then PMs as well. I think
+like there are some PMs who are like
+really getting into the technical
+details and studying up on like you know
+how does this stuff work and actually
+getting hands-on rather than seeing
+their role as you know kind of writing
+documents writing PRDS. Do you see one
+of these roles uh I don't know being
+more in trouble than others just like
+you need fewer of the these people in
+the future potentially? I think overall
+you can get more done with fewer people.
+And that's not to say like, you know, we
+want to go and like like make the team
+smaller, but rather like like the really
+cool thing for for uh us and I think a
+lot of other companies is
+not like you have a finite set of things
+you need to do and execute on from a
+product standpoint. And okay, like now I
+can do that with a tenth of people. I
+mean you could do that in a lot of cases
+but like for us maybe it's also because
+we're a very meta product right like we
+are the app platform with which you can
+build now any AI app with AI right the
+apps themselves leverage AI capabilities
+at runtime whether it's to generate
+imagery for a creative production
+workflow or you know kind of leveraging
+deep research um or AI based like um you
+know kind of crawling of the web to
+search for companies that match a
+certain criteria for your deal flow app
+right or something like like we can
+effectively leverage all of these
+different AI capabilities in this this
+kind of like app platform because by
+definition we're enabling our customers
+to build apps that have this wide range
+of AI capabilities but because of that
+it's like we have a you know kind of
+almost infinite like set of possible AI
+capabilities that we could execute on
+right and I'm always telling the team
+like look like the great news is like we
+have it's like we have all these fruit
+trees and Like there's so many crazy
+lowhanging fruit, right? Like and you
+got literally like massive watermelons
+like literally sitting on the ground,
+right? And all you have to do is like
+kind of walk over 20 ft and pick it up
+instead of having to climb the really
+tall coconut tree to grab like a hard
+coconut from like 50 feet up. And so
+like there's so many watermelons on the
+ground, just go out and like start
+finding the biggest ones and attacking
+those, right? And like um and what that
+means is that like if we can build this
+culture and I do think like it's a
+learnable way of operating like I I I
+really like to believe in like the like
+the growth potential of like any human
+right like and and uh any individual
+like I think if you really have a growth
+mindset that's why one of our like most
+important core values is is growth
+mindset right like if you really have
+that growth mindset I think like
+especially if you're willing to put in
+the nights and weekends hours or in my
+case like I'm literally telling people
+like take a full day off, take a full
+week off and learn this stuff like you
+can, you know, become more fluent uh in
+this way and I think then what we get is
+like a team that can just go and work on
+more things in a much more leveraged and
+fast way, right? So I like to think like
+you know people who are willing to jump
+on the train are just going to become
+more and more effective and it's not
+like oh like as a PM my role is becoming
+entirely irrelevant, right? Like no, it
+means that as a PM you need to start
+looking more like a hybrid PM prototyper
+who has some good design sensibilities
+and by the way like I think some of the
+best edge PM and design cultures
+respectively over the past even few
+decades have always been
+multi-disiplinary in nature right like
+the original PM spec at Google required
+the PMs to actually be somewhat
+technical so they could understand the
+engineering you know kind of um
+limitations of of like the product, you
+know, designs they wanted to make and
+they had to be kind of designy, right?
+Like um I remember my my co-founder
+Andrew when he was in the ATM program
+was like always reading books about like
+design
+like even down to like visual design and
+color theory and that kind of thing,
+right? Um, and so I think it's just a
+reminder that you know like designers as
+well like the you know some of the best
+designers if you're a designer at Apple
+like you know including hardware
+designer like you have to understand
+some of the technical capabilities of
+how this stuff works right um and if
+you're an engineer like I think some of
+the best engineers and maybe Stripe
+always had a very good engineering
+culture of engineers who could think
+about the product and business
+requirements and in fact like you know
+on any given product group uh at Shri my
+understanding is that like you know the
+DRRI isn't always the PM, right? Um,
+like as is traditionally the case in in
+kind of that that triangle. It's like,
+you know, sometimes it's actually the
+engineer who's taking the product lead
+and saying like this is what we need to
+build.
+&gt;&gt; So what I'm hearing is essentially if
+you want like the trend across product
+engineering and design is each of those
+functions needs to get good at one of
+the other functions at least. Yeah,
+&gt;&gt; ideally you can do them all, but if if
+you can just do one additional, so a PM
+becomes better at design, an engineer
+becomes better at product management.
+&gt;&gt; Well, I would actually go further and
+say like I think you need to get like
+decently good at all three. Like there's
+just a minimum baseline of like if
+you're any one of those roles, you need
+to be like minimally good at the other
+two. And then you can go deeper into
+your own kind of specialty, right? like
+you know you could be a designer who's
+really good at thinking about UX and
+interaction design and then just like
+good enough to be dangerous on thinking
+about like what's technically possible
+and like what is the product you know
+kind of you know kind of story around
+this this uh feature
+&gt;&gt; I love that and to do that one piece of
+advice that comes up again again in what
+you're what you've been describing is
+using use the tools constantly to see
+what's possible and that will teach you
+a lot of these things
+&gt;&gt; I think use well use the tools gives you
+exposure to what's possible, right? It's
+kind of like if you wanted to be a great
+industrial designer and let's say like I
+mean the chair is kind of the ultimate
+like hello world of like industrial
+design, right? It's like the the like
+canonical design object like you would
+just sit there in a vacuum and with no
+familiarity with like the materials that
+you can use, plywood, steel, whatever or
+like existing form factors of chairs
+trying to invent the world's best chair
+in a vacuum, right? like you should go
+and first do a study of like all of the
+best chairs out there today. Like go
+look at an EMS chair, sit in it and like
+try to examine it to kind of reverse
+engineer how it was made, right? And
+like you know and and um just look at
+the prior art for that type of product.
+Like that's how I see the go out and
+play with these products. And also I
+think like actually going and designing
+or implementing or executing is the best
+practice. So like you can't just only go
+and look at other people's shares. Like
+eventually you have to go and like
+actually try building your own and then
+try building another one and another one
+and another one. And so I think that's
+where like you know when I think about
+how I honed my own product UX
+sensibilities like I never like I mean
+you know and at that time like that I
+was in in uh school and and kind of
+learning about this stuff like there
+wasn't really any good curriculum for
+UX, right? It's not like there were like
+great you know college classes to learn
+product UX. I mean even CS was like very
+academic in nature at that time. It
+wasn't applied software engineering like
+build an app or whatever. Um maybe now
+at like some of the schools like
+Stanford, MIT, they have like actually
+UXy type courses, but it's it's still a
+rarity for most people to have access to
+that. And so like the way I learned like
+all of my product sensibilities was just
+like trial and error and like also using
+and studying other products, right? And
+then going and trying to build like my
+own weekend project ideas, right? Oh, I
+want to build like a Yelp style app with
+a map view and then also a list view.
+And I want it so that when when you pan
+around in the map for it to
+automatically update the list view and
+maybe there's some UX improvements I can
+make on top of that. But I can also like
+test my technical skills to to figure
+out like which parts of this are hard to
+implement and like how do you make it
+work and what are some of the design
+changes or affordances that you can use
+to kind of like map to like the
+technical possibilities
+&gt;&gt; to do that. I loved your piece of advice
+which I forgot to double down on which I
+also find really powerful. The best tip
+there is find something to actually
+build that is useful to you and fun.
+Like pick a project that's like, okay,
+this would be fun to do. Have like a
+problem you're solving that forces you
+to actually do this thing.
+&gt;&gt; For sure. And look, I think that can be
+like night and weekend projects. It can
+also be like the daytime job projects,
+right? I mean like I am basically
+telling our teams on the AI platform um
+uh group especially like look like you
+know in that that lowh hanging fruit
+metaphor it's like I'm not being
+prescriptive with you on like which
+watermelons you should pick but like you
+should go and like and and we do have
+different like pods within that group
+but one of them for instance is uh what
+we call the field agents team and they
+are responsible for the agents that work
+within your app. So this is not the
+agent that builds your app, but these
+agents that run on a customer's behalf
+to do like web research on your
+customers or they can you know go and
+analyze a document um and like in the
+future maybe do things like actually
+generate a like prototype like of of a
+uh of a feature you know from a purity
+or from like a feature idea. Uh and you
+know I'm telling them like look like
+there's a almost infinite number of
+things you could like superpowers you
+can give these field agents. I'm not
+going to tell you which specifically to
+do. Now, you can ask me to weigh in for
+sure, but like you should go and like,
+you know, just experiment and prototype
+like a few different versions of like a
+few different directions we could go.
+What if you prototyped what it would
+look like to have a deep research
+implementation in field agent so that
+like for any given row of data let's say
+in your case it's podcast guests you can
+just click a button or click a button on
+mass across the entire like every
+speaker you have lined up to do deep
+research like powered by chap GPT's own
+deep research on each of the speakers
+and have them all laid out side by side
+in this table right like go prototype
+that and see how like you know see how
+it feels and looks like and so I think
+some of the stuff can also like in your
+daytime job, especially if that daytime
+job is literally to go and build AI
+functionality.
+&gt;&gt; I actually tried to do exactly that. The
+problem I ran into, I wonder if it's
+changed, is there's no API for uh for
+chat GPT deep research yet.
+&gt;&gt; There is now there is now
+ends up being uh and I think they only
+recently exposed it. It ends up being
+like something on the order of like a
+dollar plus per research call, which a
+deal.
+&gt;&gt; Like I mean to again exactly I mean some
+people would say, "Oh my god, that's so
+expensive." and you rack up 50 of those,
+you've cost $50 a month. I think it's
+like, well, it just saved you like hours
+of research by a human. Like,
+&gt;&gt; not only that, I I actually have a
+researcher that I pay to he'll give me
+background on guests that was like four
+or 500 bucks and the dollar sounds
+great. And I
+&gt;&gt; He manually smart. He would be using
+deep research and just collecting.
+&gt;&gt; They might be they might just be
+&gt;&gt; Oh, man. Okay. There's one more uh skill
+I wanted to talk about real quick. This
+comes up a lot
+&gt;&gt; in these conversations is eval.
+&gt;&gt; Okay.
+&gt;&gt; The power of getting good at eval.s. I
+know that's something you value highly.
+Talk about just why you think this is
+something people need to get good at.
+&gt;&gt; Yeah. I mean um and I listen to your
+your uh your episodes with uh with and
+Mike uh who talk about this. I think
+it's like
+&gt;&gt; interesting that like um you know like
+both heads of open eye and anthropic uh
+you know have converged on on this
+point. I mean, look, I think um I I
+would add like a a slightly different or
+additive take though, which is like I
+think um for a completely novel product
+experience or form factor, you should
+actually not start with Evals and you
+should start with Vibes, right? Meaning
+like you know you you need to go and
+just kind of test in a much more
+open-ended way like like does this even
+work like you know in in kind of like a
+broad sense. So like as an example for
+our custom code generation capability
+like instead of defining evals that get
+repeatably tested you know as you vary
+like the prompt or the model or like the
+the agentic workflow used to generate
+the these outputs and you have to define
+like you know what does good look like
+right by definition for the eval like I
+would first start with a much more
+open-ended and like ad hoc style of like
+just throw stuff against the wall like
+try different prompts and see how well
+it does. And to me, eval are more useful
+a once you've converged on the kind of
+like basic scaffold of the form factor
+and you kind of know what are the use
+cases you want it to work well for and
+what you want to test against it.
+Whereas in the early days, especially if
+if your product market fit finding
+either for an entirely new company or
+for like a new a pretty dramatically new
+or bold new capability that doesn't
+really have like it's not an incremental
+improvement on something that exists in
+Air Table today. Like I think you have
+to just be a little bit more creative
+initially and like throwing stuff at it,
+seeing what works to understand. Okay,
+like let's use an example. You know, we
+we're implementing this new capability
+that can use uh basically a longunning
+AI crawler agent that goes and
+researches the web, you know, for a
+specific type of object or entity,
+right? So, it's a little bit different
+from deep research. It's similar to deep
+research, but what it actually does is
+instead of outputting like a, you know,
+kind of a report, it's actually going
+and compiling a list of things. The
+things could be companies or people. um
+or or anything else, right? Like find me
+every Marvel movie, right? Ever made.
+Find me every like um you know, kind of
+DC comics like uh spin-off, right? Like
+series, right? Um literally anything.
+And you know, you have to go in and
+first like just try out a bunch of
+random like, you know, use your own
+brain to think of like what are all the
+like what's the range of use cases I can
+test this against, right? And then you
+get back some results and you're like
+okay well like it's clear that like
+where it does really well are these
+types of searches right like people and
+companies with this kind of parameter
+and I think to me like eval are useful
+once you have like a sense of like what
+is that cluster of useful use cases you
+can start then more um like um uh
+programmatically like measuring the
+changes that you're making to improve
+like the the uh the the output for that,
+right? Um, but like by that point,
+you've probably already scoped the
+product and maybe the way we would
+merchandise it in the the in air table
+is not like a completely open-ended
+capability, but like hey, like here is a
+specific capability that can research
+one of these x number of uh entity types
+including people in companies and here's
+even like the filter conditions or
+criteria that are more explicit that you
+can define to give it the prompting to
+to search for that thing, right? But I
+kind of think it's it's more useful as a
+way to iterate your way to improvement.
+Um, and you can start, you know, really
+testing stuff like empirically, right?
+You can AB test, especially if you have
+the scale of a really large product like
+Interthropic or OpenAI. You can like
+just test everything and and see like,
+oh, this model actually performs better
+than this one. This performs better than
+this one. Um, but I think early on like
+you don't have that luxury and you're in
+a much more open-ended discovery
+process.
+&gt;&gt; That is very wise. EVLs can constrain
+you too early. I think about just the
+double diamond I don't know ideo kind of
+framework of like be conver divergent
+first and then converge and then maybe
+exactly uh I hadn't heard that before
+but um that that uh completely
+resonates.
+&gt;&gt; Okay, let me try to reflect back some of
+the advice I've been hearing about how
+to shift a company to be successful in
+this new world and let me see if I'm
+missing anything that you think is
+really important. So one is there's this
+sense of just like reset the
+expectations on pace and urgency
+&gt;&gt; and help people understand in AI things
+move incredibly fast. This is how we
+need to operate. And then there's also a
+piece of get stuff out so that you can
+learn how people use it and what it's
+capable of versus polishing it
+endlessly. Mhm.
+&gt;&gt; Um forcing people almost I don't know if
+forcing is the right word but
+encouraging people to play with the
+latest stuff and like giving them chance
+to take days off to or block out
+calendars, cancel meetings, just like
+stay on top of the stuff.
+&gt;&gt; Yeah.
+&gt;&gt; Uh to play as you talked about it and
+then sharing things they've learned, get
+the vibes of what's possible.
+&gt;&gt; There's also this idea of just rethink
+okay if we were to start today in this
+world, what would we do to achieve the
+same mission we have achieved? we are
+trying to achieve and ideally it
+leverages this unfair advantage we have
+with things we've been working on for a
+long time and then there's just like
+talk to AI constantly every hour script
+&gt;&gt; yeah multiple times an hour
+&gt;&gt; multiple times an hour keeps going up um
+is there anything else that I missed
+there that you're like this is you need
+to do this too to be really to have a
+chance
+&gt;&gt; I think just to really really try to
+break down ro silos like and I think
+that's true certainly for EPD um in the
+typical like um you know EPD triangle
+but I also think it's it's probably true
+even for like non product roles right
+like I think um it's true in marketing
+right like I'm seeing you know something
+uh you know something I'm really pushing
+for in marketing I think our marketing
+team is like you know really leaning
+into actually is um is like you know if
+you can just do all of the thing
+yourself like traditionally you know how
+a marketing team might operate is like
+okay you have one person who's kind of
+responsible for executing the
+performance marketing, you know, kind of
+part of a campaign, right? Like they
+literally go into the Google Adwords
+interface and they're like tweaking the
+parameters of targeting and, you know,
+budget and like, you know, kind of
+conversion uh tracking, etc. And and
+then somebody else is actually
+responsible for like coming up with the
+specific ad copy, right? And somebody
+else yet was responsible for coming up
+with like the seed content or
+positioning, you know, guide like
+written by a PMM that feeds into the ad
+creative and, you know, so on and so
+forth, right? like maybe they're
+promoting some like new demo asset,
+right? Uh that somebody else yeah
+created. And I just think that like you
+know in the same way that you can
+collapse the roles in EPD and like the
+ideal person maybe they they're very
+specially uh you know specialized and
+deep in one dimension like engineering
+um but they're well-rounded enough to
+kind of like be dangerous on the other
+two like I think that's kind of true in
+almost every other function right like
+you know like sales as well like I think
+you should you know start to be able to
+play more of an SE role like
+traditionally sales people um didn't
+necessarily know the product that well
+and like you know kind of relied on the
+SE to come in and be the product experts
+like I think it's really hard to sell
+any kind of AI product now without
+actually being fluent in the product and
+be able to demo the product right so
+like you know uh AEES need to be like SE
+fluent as well so I just think that that
+concept of like collapsing roles um you
+know everybody needs to like become more
+full stack to do the thing like being
+more outcome oriented right like your
+outcome as an AE is to like show
+customers, you know, convince customers
+of the value of your product and close
+deals, right? Okay. Well, in order to do
+that, like you used to have dependencies
+on having assets created by marketing
+and like, you know, an SE to help you
+demo like can you collapse more of those
+dependencies so that if you had to, you
+could do it all yourself, right? Um, and
+I just think that's a new way like it's
+a new operating mentality overall for
+every AI native company or company that
+wants to compete in this new arena.
+&gt;&gt; That is that is a great addition. It
+almost feels like you go back to startup
+times when everyone's doing a bunch of
+stuff. There's no like here's the head
+of product, here's the head of
+engineering, just we're just doing stuff
+to be done.
+&gt;&gt; Totally.
+&gt;&gt; Yeah. Um, I'm kind of seeing it as this
+like upside down T where there's like
+the thing you're really strong at and
+then you just have to as you describe
+the minimum of being good at engineering
+design or and SE by the way sales
+engineering imagine is what that stands
+for um that you just like there adjacent
+roles you need to start having a
+baseline the baseline is increasing of
+how much you need to understand that
+everyone's ven diagrams are kind of
+converging exactly amazing
+okay let me take a step back and kind of
+zoom out and think about the broader
+journey you've been on over the past
+decade plus. Let me just ask you this.
+What's what's the most counterintuitive
+lesson you've learned about building Air
+Table, building a company, building
+teams that maybe goes against common
+startup wisdom?
+&gt;&gt; You know, I I heard um uh you know, your
+interview with with Brian Chesky and
+then later you talked about founder mode
+um in in that kind of YC retreat and the
+points there really really resonated
+with me. um you know and I I feel like
+uh maybe less eloquently I kind of like
+deduced you know some of the same
+principles just just in my own
+experience which is like I think um when
+you're scaling up and this relates also
+to what we talked about before around
+like the early days of building a
+company you're like in the details
+you're finding product market fit you
+kind of have to be like you know pretty
+versatile right like you know all these
+decisions from a technical standpoint to
+design to even commercial and like
+what's the premium model going to be
+like and like you know how are we going
+to market this product, what does the
+website look like? Like they're all very
+intertwined, right? You can't like
+compartmentalize and then like, you
+know, almost like factory produce, you
+know, kind of each of these things
+separately. Like you they're all
+intertwined, right? And you have a very
+small tight-knit team that's like a
+tight-knit team that's thinking full
+stack about all of this combined. And
+you know, obviously like that's the only
+way in my opinion to create like that
+that magical product market fit in the
+first place. And then I think as you
+scale up you know the default guidance
+that you often get from you know like
+operational experts and and you know
+kind of like larger scale you know kind
+of uh uh company investors is like okay
+you got to kind of industrialize the
+process of all of this stuff right it's
+kind of it's kind of like going from
+like a bespoke artisal like one person
+made an entire you know item of clothing
+to like we got to like factory produce
+this thing right and you know what that
+means in a organizational context is
+like You then create these different
+FIFO dums. You hire all these exacts and
+like you know each exec kind of like
+just manages their own swim lane and
+there's relatively looser coupling
+between all of those different groups,
+right? So you got sales kind of
+executing on its own thing. Marketing is
+executing on its own thing. Product's
+executing on its own thing rather and
+even within product there's different
+product groups and surface areas that
+are each kind of executing on their own
+thing. And you know, using the factory
+metaphor, like there's there's an
+argument that that's actually kind of an
+efficient way to scale up production for
+each of these different swim lanes,
+right? Like each one can kind of
+operate, you know, like in a in a more
+autonomous and like, you know, purely
+like scale up, you know, focus kind of
+wait. How do we produce more of this
+thing if the thing happens to be within
+one product group improving search?
+That's our main focus. we're just going
+to, you know, go and ship ship ship more
+stuff to improve search and, you know,
+so there it's not completely crazy like,
+you know, why why people give this
+advice, but I think what you lose is the
+magical integrative value of holistic
+thinking, right? And and making the
+bigger picture bets, right? Right. And I
+think Brian talked a lot about this on
+his episode with you, which is like
+look, like in in a company that is
+really serious about product, first of
+all, like, you know, uh I really liked
+his point about like the CEO has to play
+a CPO role, right? Um you have to care
+about the product. Like ultimately, like
+the product is the thing, right? And you
+can't just coast on scaling up go to
+market around the product forever. Like
+you got to keep innovating on the
+product. And by the way, the best way to
+it innovate on the product is not
+incrementally split over all these
+different, you know, different little
+service areas, but actually to have like
+a bigger, you know, kind of more step
+function vision of how this product
+needs to make a leap, right? Or what's
+the next big like, you know, kind of
+either act of the product or new
+capability of the product uh or
+reinvention of the product, right? And
+so like I think if you really care about
+doing that from a product execution
+standpoint and almost like refinding new
+product market fit on a regular basis
+like I think it necessitates a
+completely different operating and
+leadership model throughout the
+organization and all of the stuff we
+just talked about in terms of how to
+operate in the AI native era. I think
+it's actually exactly the same as how
+you need to operate in this like
+constant product market refinding of fit
+uh state. So like I could not agree more
+with with that concept of you know kind
+of you got to you know think ambitiously
+and move the organization holistically
+towards these bigger outcomes but also
+like ship and learn and experiment a lot
+more in this era. And then you know
+maybe the meta learning I had from all
+of the above is that like you know the
+specific advice obviously was like okay
+go scale up in this way or go hire these
+types of people experienced operators
+etc. Now obviously there's some truth to
+that right like you know the people
+giving this advice are not incompetent
+uh you know they had some reason for
+getting it and in certain context it
+that is the right thing to do but I
+think like my meta learning is you know
+it's it's not uh enough to just like
+trust the recommendation like here's the
+action you should take from a lot of
+people because everybody has different
+priors and it's almost like we're all
+our own LMS right and like we all have
+different training from a different
+corpus of data informed our own
+experiences and maybe you're trained on
+like the like you know kind of service
+now or the you know kind of a Oracle you
+know kind of um you know training corpus
+right and you know this person's trained
+on the Facebook corpus and I'm trained
+on like you know the air table one right
+and I think what I've tried to do more
+and more is like not to just like ignore
+advice from smart people like obviously
+that's not the right answer but like to
+kind of take their it's almost like um
+in an LLM uh you can now like with a
+reasoning model like actually inspect
+the chain of thought, right? Like and
+and uh see how it's thinking, why did it
+come up with this answer, right? And to
+me that like chain of thought like why
+did you recommend this is actually more
+informative than the actual like just do
+this recommendation, right? So the
+answer might be like hey like you know
+at so and so company this is how we
+eliminated the PM role entirely, right?
+For for Brian like at Airbnb like made
+sense like we're no longer having PMs in
+their traditional form. Now we have
+program managers and product marketers
+and but like more than the actual
+decision because I don't think it's a
+one-sizefits-all like everybody should
+do the same. Why did you do that? Right?
+And the why actually was very
+informative and then be able to take
+that and say like okay like how would I
+apply that and maybe it yields a
+different outcome but the reasoning
+actually is very uh informative.
+&gt;&gt; It's interesting how this idea founder
+mode is not so different from this ICE
+&gt;&gt; trend that you're following and it's
+Yeah. Yeah, it's like being in the
+weeds, being in the details, trying
+things yourself, not delegating to
+execs.
+&gt;&gt; Yeah. You know, and and like um I think
+anything taken to an extreme can be
+problematic, right? So like there is a
+world where like you know, you are so in
+the details and in every detail that
+you're basically just micromanaging and
+you're you're kind of creating like the
+euphemism for that. And that's not
+really what founder mode is about,
+right? That's not like the the Brian
+conceptual founder mode is to like
+micromanage everything and like not
+trust anyone. Uh but I think it's more
+about like finding that right balance of
+being unabashed about caring about the
+details that do matter and where the
+tying together of details across
+different groups or departments actually
+is the only way to yield a
+non-incremental outcome because
+otherwise each person is just optimizing
+within their own domain, right? But
+you'll never get to the global maxima or
+the global breakthrough. Um and you know
+I think um like
+the really cool thing about uh you know
+CEOs as IC's and frankly any leader
+playing more of an IC like role and
+being in the details is I think for the
+right type of person it's it's actually
+more fun that way right like I mean to
+be honest like for me like the the times
+where I felt most
+um disintermediated from like what I
+felt was like the substance of this
+company was when I thought that I I was
+almost like, you know, forcing myself to
+step away from the details because I I
+thought that's like what, you know, a
+atscale CEO was supposed to do, right?
+Like I mean, there there's, you know,
+some like, you know, famous CEOs who
+have talked about like the the less
+decisions I can make the better, right?
+Like the less details I'm exposed to,
+the better, right? Like I just want to
+inspect at the topmost layer how this
+business is running and if the
+everything underneath it is going
+smoothly, then like I'm able to do that,
+right? And everything looks good. And I
+just think that's a maybe again it works
+in a certain type of very mature type of
+business like you know even then though
+like I can't imagine that like at a CPG
+company like in Proctor and Gamble you
+wouldn't want to have a CEO who still
+actually goes and tastes the soup and
+like tries the products and sees like
+literally the details of like what the
+new product innovation pipeline looks
+like um as well as like how it's being
+experienced on the shelves and so on
+like so I don't know I guess um like I
+guess I'm just more and more skeptical
+that that like hands-off, you know, pure
+delegation,
+uh, you know, and process management
+role ever works as a CEO. Like maybe
+maybe you just like you go through a
+long enough period of like where the
+business is coasting that like nobody
+notices. But I got to say like for me
+like it's just much more invigorating to
+get to play that role. And I think for
+for the um types of operators and
+leaders that I most admire, like it's
+it's like that's what makes the job
+interesting. like they don't want to
+have like a automated away you know kind
+of role as a leader.
+&gt;&gt; If you could go back in time and whisper
+something in a decade ago Howie's ear
+that would have saved you a lot of pain
+and suffering over the last decade what
+would that be? Don't step away from the
+details that both you love. Like I mean
+first of all like if your passion is
+like building product and product design
+even if it feels like at times the
+company needs to do all this other stuff
+like scale up you know go to market and
+operations and like just have like a
+large people organization that itself
+creates a lot of um you know kind of uh
+you know need to to do things and manage
+and like there becomes a new job
+invented just to like manage a larger
+group of people Right. Um, and like you
+know, obviously you're going to have to
+do some of that. You can't just
+completely eskeew all your
+responsibility as like an atscale CEO.
+Uh but like don't lose the like the the
+essence of like the thing that you love
+doing and that you know had like really
+made this product happen uh and gives
+you know this company as many companies
+that like were were founded on like a
+you know kind of a magical product
+market fit finding insight. Don't like
+step too far away from that, right? And
+always make sure that is still your like
+number one. Even if like other stuff has
+to also add to your plate.
+&gt;&gt; I think people don't talk enough about
+this how someone starts a company that's
+an idea they have they're excited about,
+it takes off and then you're stuck on
+that for a long time and then even if
+things are pushed in a direction you're
+not as excited about. And so this point
+about just remembering what you actually
+love about it and coming back to that is
+so important because that's the only way
+to keep doing this for for a long time.
+I I I think that's so true. And to me,
+that's why there's always been a
+difference between entrepreneurs who
+love the the act of building a product
+or, you know, the business too versus
+those who saw a you know, just purely
+business or financial opportunity that
+they felt like they couldn't pass up
+exploiting or or going after. And look,
+no knock on people who are more the
+latter and like there's entire
+industries where like it's all just
+about alpha generation, right? Like you
+know, you could go into the private
+equity business and and so on. Um and
+it's just purely it's it's rationally
+about like how do I find the alpha? And
+I think that like you know the some of
+the best companies um product centric
+companies at least in my opinion are
+like you know run by those people who
+like actually just love the product,
+right? I think you get a feel for that
+from some of the AI companies like Sam
+like I think genuinely just loves like
+working on AI, right? Like if he could
+spend a 100% of his time on like just
+being close to the AI and the research,
+I mean he would and he's even said as
+much, right? Like um you know, but but
+ranging to like the Brians with Airbnb
+like like it's pretty clear, you know,
+uh that, you know, people like this are
+not motivated like Airbnb was not
+founded because like oh my god, we want
+to make a lot of money off this like
+arbitrage opportunity against hotels.
+They just needed to pay their rent.
+&gt;&gt; Yeah. Well, that that and like I think
+they loved the the product and I think
+they also loved the way in which they
+built the product, right? Like you know
+the design centric nature of that
+product and company and culture like you
+know and and that's what gives you like
+the continued joy of of uh working on
+you know what could be the same company
+for a very long time.
+&gt;&gt; Howie, is there anything else that you
+wanted to touch on or leave listeners
+with before we get to our very exciting
+lightning round? I I just want to
+reiterate um you know especially for for
+listeners here who who uh are in you
+know an EP or D role and especially in
+the P role like you know I really do
+believe that this is not a like you
+either have it or you don't like in
+terms of the skill set needed to be
+relevant in AI native but I do think
+like it's a call to action to go and and
+bolster your skill sets where where uh
+you know where where they may be you
+know less refined right now right like I
+think everyone like even programming I
+really believe like everyone could learn
+how to be a software engineer if they
+wanted to. Now like obviously like some
+people just as with like great writers
+are never going to be like you know a
+published author, right? Or like you
+know the the Hemingway, right? Uh but
+like everyone can gain a good enough
+proficiency of software engineering if
+they really wanted to. You could take
+that boot camp, you could do like some
+like you know coding uh you know kind of
+exercises on on the side um etc. And the
+point there is that like you know
+sometimes I think we treat these
+disciplines like you know hard hard
+skills that like if you're not already
+if you're already halfway into your
+career and you're not already an
+engineer if you're not already a
+designer like okay well you can never be
+one. And I just think like you know our
+brains are malleable. I think there's a
+lot of great curriculum out there to
+learn and and you know a lot of it like
+I said just comes down to also like
+trial and error and like building
+projects maybe nights and weekends
+projects uh even um to learn uh this
+stuff but like everyone can learn how to
+be a versatile you know kind of unicorn
+like product engineer designer hybrid in
+the AI native era and and like the only
+thing stopping you is like just going
+out and doing it. That is a really
+empowering way to end it. And I just to
+double down on that, it's never been
+easier to learn these things. Like there
+are super intelligences that you can
+talk to that do a lot like as they're
+building can help you learn. I mean like
+I literally I mean I go into chachki
+sometimes and I ask it like you know
+just like hey like how would you build
+this app? Like or you know like I'm just
+curious. I'm like like how would you
+build Manis right like the the agent
+open-ended agent? Like literally how
+would you build it? You can ask it
+questions and it's like having like an
+amazing brilliant software architect,
+software engineer, product manager,
+designer, expert, tutor that you can
+literally like there's no dumb question.
+They have infinite patience. They're
+literally on and awake like 247. Like it
+is the most incredible time to like
+learn this stuff to your point. And then
+of course like the interactive tools to
+go and actually build stuff like anyone
+can download cursor and just start like
+asking composer to generate some code
+for you and then looking at the code and
+trying to figure out what it does. And
+you know it to your point like it you
+know when I think back to the earliest
+era that I experienced of building apps
+like you know first I learned C++ then I
+learned PHP and JavaScript and like even
+like building you know kind of
+JavaScript like single page apps in the
+early days like 08 you know through 2010
+like it was a dark dark art. I mean
+there were some like you just had to
+like go and like learn some of these
+things. There wasn't great like, you
+know, tutorials for it. You know, you
+had to reverse engineer certain things.
+Like there were just like weird things
+like if you wanted rounded corners in
+your UI, you literally took Photoshop,
+opened it up, created like a rounded
+corner and pixels, and then cut pixel up
+into an image that you dropped onto the
+page at exactly the right position to be
+at the edge of like a box. Like crazy
+stuff, right? I mean, everything was
+like so much more arcane at the time.
+And now it's just it feels so much more
+fluid and accessible. And like the gap
+between the arcane tech that you have to
+wade through to build something has just
+been minimized so much. It's like the
+the effort and like abstraction between
+you and like the magical delightful
+actual building of the thing that you
+want has been so minimized. So it's
+never been a more exciting time to be a
+builder.
+&gt;&gt; You remember spacer.gif.
+Uh,
+&gt;&gt; it's like to create like to line stuff
+you just
+&gt;&gt; know I remember invisible one pixel
+thing that you just stick in places.
+&gt;&gt; Yeah. Yeah. No, I don't.
+&gt;&gt; Oh my god, what a time to be alive. Uh,
+Howie, with that, we've reached our very
+exciting lightning round. I've got five
+questions for you. Are you ready?
+&gt;&gt; Yes.
+&gt;&gt; Here we go. What are two or three books
+you find yourself recommending most to
+other people?
+&gt;&gt; You know, I I've um I've been trying to
+read fiction more. Um, partly because I
+think it's just like a really nice
+mental reset. Uh, I will say like Three
+Body Problem like for anyone who hasn't
+read it, like it's it's a mind expanding
+book. Like I like sci-fi and and fiction
+that like kind of opens your brain. So
+maybe this is my cheat card, but uh you
+know it's a threebook series. Those are
+those are three great books.
+&gt;&gt; I love that series. And my tip there is
+it gets good uh one and a half books in
+is my tip. So just keep reading. That's
+where it's like, okay, now I'm in.
+&gt;&gt; I liked even the first one. Um but I do
+like it. I felt like it was like
+inception where every book, every
+subsequent book was like you dropped
+into another like you you incepted into
+like another layer, right?
+&gt;&gt; Awesome. Okay. What's a favorite recent
+movie or TV show you've really enjoyed?
+&gt;&gt; TV show. I just started watching the
+studio. Um the it's like uh the Seth
+Roan Rogan Roan.
+&gt;&gt; Yeah. So stressful. Yeah, it is very
+stressful and you know I just kind of
+like I mean Silicon Valley was like too
+close to home um when it came out. So
+like I watched it but it was like just
+cringey. The studio is kind of fun to
+watch cuz like it's it's it's a little
+bit of that like inside baseball of uh
+of Hollywood uh and yet like I'm not in
+Hollywood so it's like entertaining to
+watch and uh it's just you know it's
+it's a I thought smart and uh funny
+show. Um, and you know, because I split
+time between LA and SF, like I also feel
+like it's uh it's very real to me. I see
+a lot of the like literal characters out
+there in the world that that uh it's
+characterizing.
+&gt;&gt; Do you have a favorite product you
+recently discovered they really love?
+Could be an app, could be a gadget,
+could be a clothing.
+&gt;&gt; So, okay. So, I I'll give uh two uh
+because I feel like I have to I have to
+say some kind of software product,
+right? Um, I mean I um I'm a really big
+fan of Runway uh the product and the
+company. Um I just think like you know
+every like new model uh they come out
+with uh they just came out with with a
+new one just I think like two days ago
+uh that gives even more like controls
+and refinement on like creating exactly
+the video scene that you want. And so
+like I think just the photo realism um
+in in what you can generate now and like
+they also built this like cool demo
+thing that's like an immersive world
+generator I mentioned before like I
+think um it's just cool to see uh I also
+like the underdog story and like clearly
+like Google's gunning gunning in the
+space uh has V3 and so on and like you
+know as open AI but like I love the
+underdog story of this like subund
+person company still punching above
+their weight and building like really
+awesome you know uh video experiences
+right so that's the software And then a
+very very uh kind of nerdy um uh real
+world uh answer on product is I kind of
+just recently got into like this whole
+um cottage industry of artisally
+produced uh you know basically clothing
+you know by like smallcale like Japanese
+manufacturers that use like like
+literally like hundred-year-old looms to
+to make clothes like the oldfashioned
+way like you know or or the oldfashioned
+industrial way right like they have
+these like loop wheeler machines and
+they spin the cloth in like a very slow
+pace. So, it's completely impractical
+from like a production scale standpoint.
+Um, but you know, I just like I've
+gotten like some of these t-shirts and
+they like I just love the um no, I
+guess, you know, in a world where it
+feels like everything is becoming so
+much uh faster moving and like you know
+even tech from 5 years ago is obsolete.
+Uh, like I love a little bit of the
+throwback to like, you know, old things
+sometimes can be even more cherishable
+in this new era, right? Uh, so like
+maybe that makes me a hipster, but like
+I I love the um, you know, the uh, the
+vintage, the retro uh, increasingly
+these days.
+&gt;&gt; I feel like anything that starts with
+artisal, small batch Japanese is going
+to be really good stuff.
+&gt;&gt; Is there is there a brand you want to
+share that is that or is this like you
+want to keep it under the radar? Um
+actually so Self Edge which actually has
+a a storefront like the main storefront
+is uh on Valencia Street in SF. Um they
+carry a lot of these items and like
+that's kind of their whole MMO and they
+have like jeans and like t-shirts. So
+I've gotten a lot I mean they they
+basically curate a really good selection
+of different actual makers. Like one of
+them is called Studio Darton. Um another
+one's called uh actually it's cool.
+There's this company uh called uh I
+think that the um umbrella company is
+actually just Toyo to yo manufacturing
+uh which sounds like it's a big like you
+know kind of like largecale conglomerate
+but it's anything but it's like a really
+smallcale uh Japanese um you know kind
+of like vintage uh manufacturer of
+clothing and but they have a few
+subbrands. They actually bought the
+rights to this um like American postwar
+brand that was kind of like Hannes like
+one of the like big like four or five
+like you know kind of um men's wear like
+you know kind of undershirts and
+athletic wear uh brands called
+Whitesville. I don't know where the name
+came from but um you know it it uh it
+basically it's a bunch of like basic
+clothing like t-shirts etc. And uh and
+they this Japanese indie company
+basically bought the like defunct you
+know basically name um you know and and
+now like is reproducing clothes almost
+made to the exact shape and spec and
+even with like the exact recreation of
+like the graphic packaging on these uh
+TE's um but like you know today right so
+I just think there's something really
+funny and ironic about like you know
+they've taken like an American post-war
+aesthetic and literal hand, but like
+it's actually like a indie, you know,
+smallcale Japanese manufacturing uh
+approach to to uh to making those
+clothes.
+&gt;&gt; I feel like we just tapped into what
+could be a whole other podcast
+conversation about clothing and
+craftsmanship, but let's I'm going to
+pull us out of that
+&gt;&gt; the next uh franchise
+&gt;&gt; or just Howie and Lenny talking about
+clothing.
+&gt;&gt; Um okay, two more questions. Yeah.
+&gt;&gt; Do you have a life motto that you often
+find useful in worker life? share with
+friends or family. I I stumbled on this
+uh this this guy um Paul Ki who I think
+uh he's an MD but also like a
+psychologist and um he has a book uh you
+know but also like he did this long form
+podcast with uh with Andrew Huberman and
+um you know he actually ends up talking
+a lot about like just how to think about
+like your life outlook and like kind of
+your framework for thinking about life
+but grounded in a kind of like
+scientific and like you know kind of
+neurological
+um and and cognitive science uh basis
+and you know I found one particular
+point really really powerful it stuck
+with me which is like you know if you
+live your life in a way that's you know
+foundationally built around humility and
+gratitude right um and and look like you
+know everybody has different
+circumstances like you know I think like
+I I fully own that like you know even So
+you know I didn't come for money like my
+family was was very very financially
+modest like growing up like I still had
+incredible resources and opportunities
+adv you know afforded to me uh even just
+by virtue of growing up in the US right
+being born in and growing up in the US
+like you know uh but also like having
+access to a computer and the internet
+and like even all the free resources I
+could then access and learn about from
+there but um you know like I I still
+feel like you know whatever you have or
+don't have to start with like if you
+kind of approach the world and and you
+know kind of the future with a spirit of
+humility and gratitude rather than I
+guess the opposite of that. Um you know
+it just I think I've felt like it it
+makes like it kind of like becomes a
+self-fulfilling prophecy, right? Like
+you know you're you're you're
+open-minded, you're kind of grateful and
+then like more opportunities actually
+come your way, right? And maybe it's
+because of the energy you're putting out
+into the world and you know and other
+people and like you're kind of
+attracting like you know good
+opportunities and good people and good
+things. Uh but I you know I think like
+you know there's a lot of other parts of
+like his framework but like the one that
+you know is easiest to remember is just
+like how do I approach each day even if
+like I'm going through a tough moment
+and you know we had to like you know I
+had to fire somebody today or maybe like
+you know I got disappointed because we
+lost a customer deal or something broke
+or whatever you know. um you know but
+like to still try to look at the entire
+situation from an overall you know uh
+feeling of of humility and gratitude I
+think just really does shift your your
+like you know it it spills over into
+everything else um for that day and
+maybe even for like you know the the
+whole uh lifetime
+&gt;&gt; that uh super resonates that is really
+powerful advice that's hard to
+internalize but important
+&gt;&gt; yeah um easily said hard to uh practice
+&gt;&gt; yeah uh where can folks find you? What
+should they know about Air Table? And
+how can listeners be useful to you?
+&gt;&gt; Okay, so uh I am on Twitter, Howy TL. Um
+I don't post that much. Uh but I am a
+I'm a lurker so I listen uh and and
+watch and you can always DM me there. Um
+you can also email me directly howie
+airtable.com anytime if you have ideas,
+feedback, etc. Um you know on Air Table
+like just go try it. Like the whole
+point is we want to make this an
+experiential product, right? Like you
+know that's why we're we're really
+leaning into the PLG roots. We talked
+about like the homepage literally says
+like just start building right now. What
+do you want to build? Go. Like it starts
+building and so use the product. Give me
+feedback. Um and you know if you have
+ideas of your own and and you want to
+rip on them like I I love because my
+passion is thinking about product and
+like product UX especially in the AI era
+if you're working on or in you know
+thinking about something interesting in
+that space like and even if it's just
+purely to like riff on a concept like
+that's that's something I enjoy doing
+and maybe I get to learn and and sharpen
+my own skill set from. So feel free to
+reach out. Um and uh and yeah, I mean,
+you know, tell your friends and family
+to to try Air Table as well. Like that's
+that's the uh main thing.
+&gt;&gt; Sounds like you're looking for people to
+nerd snipe you. And
+&gt;&gt; yes,
+&gt;&gt; Howie, thank you so much for being here.
+&gt;&gt; Awesome. Thank you, Lenny. This was
+&gt;&gt; Hi, everyone. Thank you so much for
+listening. If you found this valuable,
+you can subscribe to the show on Apple
+Podcasts, Spotify, or your favorite
+podcast app. Also, please consider
+giving us a rating or leaving a review
+as that really helps other listeners
+find the podcast. You can find all past
+episodes or learn more about the show at
+lennispodcast.com.
+See you in the next episode.

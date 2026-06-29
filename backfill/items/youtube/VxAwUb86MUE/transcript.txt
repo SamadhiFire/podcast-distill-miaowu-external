@@ -1,0 +1,2390 @@
+Kind: captions
+Language: en
+You don't want to walk into the gym on
+day one and try and deadlift 300 lb. So,
+when someone comes to me and they're a
+first-time entrepreneur and they say,
+"I'm going to make the next great AI
+company." I think that is the
+equivalent. I feel like you've actually
+started and run more companies than
+maybe anyone else in the world. What is
+your best advice for coming up with a
+great startup idea? Charlie Mer, Warren
+Buffett's longtime business partner, has
+this amazing quote, "Fish where the fish
+are." The biggest mistakes I've made
+have been going into business models
+where other people have repeatedly
+failed and thinking, "I can do this
+better." It's so funny to watch you on
+Twitter. Clearly, you've become AI
+obsessed. It's like having the world's
+most reliable employee who costs $200 a
+month and works 24/7. So many knowledge
+work jobs are going to change massively.
+I think the fundamental question is, do
+all jobs just become a single prompt?
+Today my guest is Andrew Wilkinson.
+Andrew is the co-founder and CEO of
+Tiny, a holding company that's often
+called the Berkshire Hathaway of the
+internet. They own over 40 businesses
+ranging from dribble to we commerce to
+the Aeropress coffee maker. And they
+focused on buying profitable businesses
+from founders and holding them for the
+long term. Andrew and his co-founder
+bootstrapped the business from zero to
+hundreds of millions of dollars in
+value. And Andrew personally was worth
+over $1 billion at one point. In our
+wide-ranging conversation, we cover a
+bunch of strategies for coming up with a
+good business idea, what common business
+ideas you should avoid, his experience
+automating much of his work and life
+using AI and what that means for
+employment in the near future. Also,
+what he's learned about happiness and
+money and how they are not directly
+related and also how getting diagnosed
+with ADHD and then taking SSRIs was the
+thing that most impacted his happiness
+in life. This is both a powerful and
+also a very tactically useful
+conversation and I'm really excited for
+you to hear it. If you enjoy this
+podcast, don't forget to subscribe and
+follow it in your favorite podcasting
+app or YouTube. Also, if you become an
+annual subscriber of my newsletter, you
+get a year free of a bunch of amazing
+products including Bolt, Linear,
+Superhum, Notion, Perplexity, Granola,
+and more. Check it out at
+lennisnewsletter.com and click bundle.
+With that, I bring you Andrew Wilkinson.
+This episode is brought to you by Sauce.
+The way teams turn feedback into product
+impact is stuck in the past. Vague
+reports, static taxonomies, unactionable
+insights that don't move business
+metrics. The result turn lost deals miss
+growth. Sauce is the AI product co-pilot
+that helps CPOS and product teams
+uncover business impact and act faster.
+It listens to your sales calls, support
+tickets, churn reasons, and lost deal
+surfacing the biggest product issues and
+opportunities in real time. It then
+routes them to the right teams to turn
+signals into PRDS, prototypes, and even
+code that drives revenue retention and
+adoption. That's why whatnot, Linkree,
+Incident, IO, and ZIP use SAS. One
+enterprise uncovered a product gap that
+unlocked $16 million ARR. Another caught
+a spiking issue and prevented millions
+in. You can, too, at s.app/lenny.
+Sauce, built for AI product teams. Don't
+get left behind.
+This episode is brought to you by
+Interpret. Interpret is a customer
+intelligence platform used by leading CX
+and product orgs like Canva, Notion,
+Perplexity, Straa, Hinge, and Linear to
+leverage the voice of the customer and
+build best-in-class products. Interpret
+unifies all customer conversations in
+real time from Gong recordings to Zenesk
+tickets to Twitter threads and makes it
+available for your team for analysis and
+for action. What makes Interpret unique
+is its ability to build and update a
+customerspecific knowledge graph that
+provides the most granular and accurate
+categorization of all customer feedback
+and connects that customer feedback to
+critical metrics like revenue and
+seesat. If modernizing your voice of
+customer program to a generational
+upgrade is a 2025 priority like
+customer- ccentric industry leaders like
+Canva, Notion, Perplexity, and Linear,
+reach out to the team at
+interpret.com/lenny.
+That's e n t e r p re t.com/lenny.
+Andrew, thank you so much for being
+here. Welcome to the podcast. Oh, thanks
+man. Great to be here. I've been wanting
+to chat with you for so long. There's so
+much that I want to talk about. And I
+want to start with a topic that I know
+that you think a lot about and that's
+also on the minds of a lot of people,
+which is coming up with a great startup
+idea. And uh this is something that a
+lot of people are thinking about right
+now because AI makes it so easy to
+actually build your idea into something
+real. And I feel like this is something
+you spent a lot of time thinking about.
+I feel like you've actually started and
+run more companies than I don't know
+maybe anyone else in the world. I feel
+like you're in the top 100, top 10,
+something like that. I don't know. Does
+that feel right? I've definitely had a
+lot of experiences and I've probably
+started or been involved with
+75 different projects or businesses
+where I've been a primary contributor.
+And I wouldn't say that's anything to
+brag about because I've been an inch
+deep and a mile wide. Um, so that's been
+in a lot of ways kind of my Achilles
+heel is I get too excited about ideas
+and I start too many businesses. But as
+a result, I've seen almost every
+business model under the sun. Amazing.
+Okay. So yeah, I think the benefit is
+for us is we get to learn from your
+experience. So let me just ask you this
+question. What is your best advice for
+coming up with a great startup idea?
+Ultimately, the best thing is something
+you're going to be interested in. But I
+think a mistake a lot of people make is
+they choose something that everything is
+everybody is interested in. So, for
+example, they say, I I don't know anyone
+that has had the thought, man, I would
+love to start like a really cool
+restaurant or, you know, I want to have
+a cool cafe or something. And what in
+reality, what they think about is how
+cool would it be to come up with a an
+amazing logo or, you know, all the fun
+stuff, design the lo the menu and stuff.
+But in reality, operating those
+businesses is miserable. And it's also a
+very hard business because every morning
+millions of people wake up and they go,
+I should start a cafe. But on the flip
+side, almost nobody wakes up every
+morning and says, you know what, I'd
+love to start a funeral home or I would
+like to start a pest control business or
+I should start software that helps
+people fill out forms for the
+government. And Charlie Mer, Warren
+Buffett's longtime business partner, has
+this amazing quote. He says, "Fish where
+the fish are." And he gives this
+example. He says, "You know, if you're a
+fisherman and you see a large pond and
+all around the pond there's a whole
+bunch of fishermen and they're all
+elbowing each other out of the out of
+the way. They're all using the best
+lures, the best fishing line. Uh, you
+know, they all have amazing strategy.
+You actually want to walk off into the
+forest and find a small fishing hole
+with lots of fish and very little
+competition. And I think that's probably
+the most important thing in business is
+actually to find those niches where you
+can actually make real money because
+competition equals lower margin. The
+more competitors there are, the lower
+your prices have to be and the more
+competitive the business is. Ultimately,
+it doesn't feel uh intuitive to go after
+small markets and to find niches. So,
+let's just follow that thread. Well, why
+is that actually a source of some of the
+best ideas starting really small and
+niche? I don't necessarily think it has
+to be something that is small forever,
+but it has to be something that like I
+think about if if you're a first-time
+entrepreneur or a student or something,
+you don't want to walk into the gym on
+day one and try and deadlift 300 lb,
+right? So when someone comes to me and
+they're a first-time entrepreneur and
+they say I'm going to make the next
+great AI company or you know I'm going
+to launch uh a new bank or something
+like that something that is very very
+rigorous and complicated and highly
+competitive and regulated. I think that
+is the equivalent. I think you really
+want to take the baby weights and start
+slowly building your muscle. And I think
+about my own experience starting a
+business. I was so lucky because the
+first business I ever started, my web
+design agency, which became Metalab,
+that was so easy and it worked. It
+worked immediately because all I had to
+do was know how to build websites and be
+able to talk to potential customers and
+then once they said, you know, yes, I
+will pay you $5,000, I just had to send
+them an invoice, do the work, and that
+was it. It was a very simple business.
+And because of that, I got immediate
+positive feedback. And I built my own
+narrative. And my narrative was, I'm
+good at business. I can do this. Keep
+going. And then I went off and I started
+taking my money uh that I made from that
+original business. And that's when I
+[&nbsp;__&nbsp;] up. So I went out and I started a
+pizzeria and I lost all my money. I
+started a designer cat furniture
+business, a online DJ school, uh a skin
+cream business. all of these things, I
+just lost all my money almost
+immediately. But because I had that
+first win, I kept on going. And I just
+think it's so critical that people
+choose a business where they get that
+initial win. Okay, this is a great
+topic. This is just like how do you
+avoid creating a job for yourself you
+hate. There's a lot of business
+opportunities and ideas that like, yeah,
+you can make this work and then you work
+and then you're stuck doing this thing,
+running a restaurant. Uh my wife tells a
+story where a friend started a coffee
+shop and then he's like, "I thought I
+was starting a coffee shop, but I'm just
+uh replacing milk and buying milk all
+day. That's my job now." So just kind of
+along those lines to help people avoid
+creating a beast that they didn't
+expect. Any advice for just how to know
+this is maybe even though this may work
+and make money, you probably don't want
+to be spending your life doing this sort
+of business. So like I just started a
+pressure washing business. I was
+speaking at a local business school and
+after I spoke, one of the kids walked up
+to me and he said, "Hey, I'm an
+entrepreneur. I've started two or three
+businesses in the past um doing
+landscaping and I'm not enjoying
+school." And so, just on the spot, I
+said to him, "Why don't you drop out and
+we'll start a business together?" And
+I'd kind of been cooking on this idea of
+a pressure washing business because I'd
+studied that industry a little bit and I
+knew a few friends who' done it in other
+cities. And I had this unfair advantage
+which is I owned a whole bunch of media
+properties where I could advertise it
+for free basically. And so uh we started
+this business and and I think for him he
+kind of had this moment of do I really
+want to be washing people's driveways
+for the rest of my life? And what I said
+to him is, look, if this gets to scale,
+you'll never touch a pressure washer
+unless you want to. You know, if the
+business can get big enough where you
+can have employees, he can just focus on
+sales or digital marketing or whatever
+aspect of the business that he really
+loves. I think that's the biggest thing
+that a lot of entrepreneurs miss. You
+know, they say, "I don't want to do that
+for the rest of my life. I don't want
+to, you know, be in the back of a dry
+cleaner dry cleaning clothes. And to me,
+it's just a question of scale. I think
+the cafe is a great example because a
+cafe, if it doesn't get to a reasonable
+scale, is just a job. There's a big
+difference between a business and a job,
+right? I think if you you could start a
+pressure washing business where you're
+the only employee, yeah, that's a job.
+But if you can get to a scale where you
+can drive 10 leads a day, then you don't
+have to do any of the pressure washing
+and you just do what you love. So, I
+think a lot of people have this kind of
+Protestant work ethic where they think,
+well, I've got to be the person to do
+everything. And I think they really need
+to lean into what I call lazy
+leadership, which is how do I get away
+from the things I hate as quickly as
+humanly possible? How do I be teflon for
+tasks? It's interesting that this
+business is non-software related at all,
+this pressure washing business. So I
+guess just for folks that are coming up
+with ideas and I imagine most ideas are
+there's like a pull to make it software
+oriented something AI is going to help
+build for you and help you run. What's
+your calculus on just going down a
+direction of like real world physical
+business like a restaurant power washing
+business versus uh software just like
+what are the benefits of that direction?
+When should someone actually seriously
+think about doing a business like a
+power washing business? I think if
+someone's listening to this podcast,
+odds are they're someone who's kind of a
+digital native. And I think the question
+is, what's your unfair advantage and
+what are you great at? So for me, I
+think I have reasonably good taste and
+so what I could do is identify and I
+knew enough to identify great design and
+development talent, but mostly I was
+lucky because I was a talker. I was good
+at meeting with clients and selling
+myself. And so ultimately my highest and
+best use, my superpower was sales. And
+so that can be applied to anything,
+anything where you need to go out and
+you need to sell a customer. And so
+really it just comes down to what do you
+get drawn to and then how do you find
+the profitable business within that. So
+here's an example. A friend of mine, he
+owns a restaurant and he said, "Oh, like
+I love it. It's so I'm so passionate
+about it. It's this stunning, beautiful
+uh restaurant in my hometown. And he
+said, you know, but it's really just a
+job for a few different people and we
+can't make any money at it, but I've
+been noticing that there's all these
+vendors that service the restaurant and
+those guys are making a killing. And so
+he told me about a business that cleans
+grease traps, another one that cleans uh
+exhaust vents for kitchens. So I think
+looking around and seeing where your
+passion is and then sniffing around
+within it probably somewhere within your
+passion there's an opportunity. So for
+example I love movies. My happy place is
+a dark theater. You know that's the best
+way for me to de-stress is go to a dark
+theater and watch a movie and get lost
+in it. And probably about four or five
+years ago, I was like, man, how cool
+would it be to invest in movies in some
+way to be a part of that creative world.
+And so I started looking into funding
+movies. And I realized that when you
+fund movies, like 90% of the time you
+lose all your money. And even if you do
+make some money, you rarely make a good
+return. But I kind of spent a bunch of
+time understanding the industry and
+learning about it. And then uh two years
+ago I was in New Zealand and I met the
+founder of Letterbox and I realized, oh
+my god, this is a business where uh this
+has a moat. So it has a network effect.
+It's a huge social network for film
+reviewers. It's something I'm passionate
+about and it's something that we can buy
+at a fair price. And so all those things
+came together and I was like, "Oh my
+god, I can invest in film now." So and
+in the same way I used to be a barista,
+we ended up buying the Aeropress coffee
+maker company. So I kind of follow my
+passions and spend a long time learning
+different industries and then I find the
+profitable niche within. Okay, this is a
+great takeaway. Essentially, when you're
+thinking about startup ideas, make sure
+there's some connection to something
+unique to you where you have some unfair
+advantage. This makes me think about
+Brian Armstrong. He come he I saw him do
+a talk once and he gave this really
+amazing insight about why uh why
+Coinbase did well and why he started
+Coinbase. And it's because if you look
+at his background, he had this weirdly
+rare van diagram of background of
+computer science and I think it was
+cryptography and economics
+which is the exact set of skills you
+need to start something like Coinbase.
+And so I think the tip there is just
+what is that unique ven diagram of
+skills in your background and just
+ideally what you're building connects to
+that and gives you an unfair advantage.
+Well, yeah. I mean, like I just met some
+another UIC student at the local
+university student, you know, she is
+interested in marketing and so she's
+gone out and she's found some local
+clients, so small restaurants and stuff
+and managed their social media. And she
+kind of said, "Yeah, it's okay. I can
+make a,000 bucks a month, but it's a lot
+of work and you know, the owners really
+want a lot for their money." And I said,
+'Well, you know, if you just pivot that
+idea just ever so slightly and instead
+of doing restaurants, you did realtors
+or wealth managers who have quite a
+large marketing budget and are used to
+spending serious money and it only has
+to work a little bit to make a lot of
+money for them. Those people you can
+charge $5,000 a month. So, I think often
+it's you find your passion, you know
+your skill set, you zero in, and then
+you just kind of pivot and you find the
+most profitable way to do it. Like when
+I started my web design firm, I started
+mostly with local and small projects,
+but very quickly I found a job board in
+San Francisco where startups would share
+uh projects they needed help with. I
+could charge five times the amount for
+five times less work. This point about
+fish where the fish are, I think, is
+really important. You can start
+something that's awesome, that you love,
+that you're so excited about, but nobody
+needs it. Talk a bit more about just
+what that looks like. What have you seen
+when you're thinking about ideas that
+tell you that there's fish but also not
+overfished as he pointed out? I think
+it's hard like Warren Buffett has this
+great quote, I'm a better businessman
+because I'm an investor and I'm a better
+investor because I'm a businessman. And
+I feel like in order to know what
+problems are valuable to solve, you kind
+of need to have valuable problems. So,
+it's a bit of a hard thing because, you
+know, I remember when I was like 20, I
+would say, um, I hate how ugly all the
+cat furniture I can buy for my cats is.
+I bet people would pay a lot of money to
+solve this. But I didn't understand
+anything about the realities of that
+business model. I didn't understand how
+little people were actually willing to
+pay. I didn't there I just I didn't have
+enough life experience to go yes that's
+actually a worthwhile opportunity and I
+think that being able to know what
+people would pay to solve the problem
+realistically is incredibly valuable. So
+my example of a realtor selling a house
+because I've studied that industry I
+know that a realtor can make like 20 to
+$50,000 selling a single house. So, I
+can intuit it that they'd be willing to
+spend a lot of money if I have a unique
+way of getting them clients that'll buy
+houses that'll convert at a high
+conversion rate that is worth $5,000 a
+lead maybe, right? So, so I think you
+kind of have to like understand the
+problem in depth before you really know
+because when I was starting out, I would
+go down every rabbit trail, you know,
+every um infomercial idea I had, I would
+think was genius. For people that don't
+I don't know that don't have this
+experience which is most people is there
+is there one thing you do maybe a
+heruristic that kind of gives you a
+sense maybe there's something here maybe
+there's a lot of fish maybe it's a
+valable problem or no this will tell me
+it probably isn't no unfortunately I
+think it's mostly gut I mean it's a it's
+a like you know Mer and Buffett talk
+about having a whole bunch of mental
+models in your brain and they form a
+lattice work right and they all kind of
+piece together and I feel like for me
+there's so much of this that is like
+it's almost like I'm an AI model and
+I've trained on all this data of what
+works and what doesn't and what you know
+what's a good boat and what what's a bad
+business etc. And when I see it, I just
+immediately know. I mean, I think all
+the all entrepreneurs are so lucky now
+to be able to go into Claude or Chap GPT
+and just say, "Hey, I'm thinking about
+starting a Botox clinic. Can you break
+down the numbers? Is this a good
+business? What's hard about it? What is
+the regulatory uh moat? You know, what
+what would my payroll look like?" I
+didn't have any of that. And so, I
+started so many incredibly stupid
+businesses, but I think there's no
+excuse at this point. you should be able
+to do it with AI. That's a really good
+tip actually. Then there's this point
+you made about boring is good. That's a
+really good piece of advice. A lot of
+people are going after flashy stuff,
+things they condemn on Twitter. Your
+advice here is boring is actually a
+really good thing because fewer people
+are going after it. Is that the general
+tip? Totally. I mean, I think um so I
+started this business uh one of my first
+called Flow. And Flow was basically a
+sauna before a sauna came out. So, was a
+way to manage your to-dos and projects
+with your team uh in a web app. And we
+basically did the thing, we made the
+mistake that so many entrepreneurs make,
+which is to go after an industry that
+everybody goes after, you know, just
+like cafes, everybody has the idea, man,
+I wish I could design my own project
+management system or my own to-do
+system. And not only that, but everybody
+loves new things. They love jumping
+around. And I know me personally in the
+last 3 years I probably used three
+different productivity systems and I I
+love jumping around in them and I didn't
+understand that and I ended up losing
+$10 million trying to compete with
+venturebacked businesses and
+bootstrapping. It was all my own money.
+Poured $10 million lit on fire trying to
+compete with Asana because I didn't
+understand how the business world worked
+really. You know, I was kind of like
+they they had raised, you know, hundreds
+of millions of dollars and they were run
+by the co-founder of Facebook and it was
+a little little bit like I'm Fiji and
+I'm deciding I'm going to invade the
+United States in retrospect. Just
+completely silly. Now, on the flip side,
+if I'd taken that same amount of energy
+and I'd instead focused on, let's see,
+what's a really boring one I've heard
+about there? There was a business I saw
+recently. They were making $30 million a
+year, and all they did was help people
+fill out forms to get government
+assistance in certain programs. So, it'
+be like, uh, you know, your uncle is
+disabled and you need to access
+government funding. They the process to
+do it is incredibly time consuming and
+miserable and you have to fill out all
+these forms. They just have software
+that fills out the forms for you and it
+says look you're going to get $20,000 as
+a grant. Pay us a,000 bucks and that is
+such a boring like nobody wakes up and
+goes I want to make form filling
+software but I think they would if they
+could make $20 million a year. Along
+these lines of just bad ideas things
+people shouldn't start. What are a few
+ideas that you think everyone thinks is
+going to be a great idea and then they
+do it and then they always fail? Well, I
+think the biggest mistake I can speak
+from my own experience. The biggest
+mistakes I've made business-wise have
+been going into business models where
+other people have repeatedly failed and
+thinking I can do this better. So, for
+example, me and one of my best friends
+about 10 years ago, we really wanted to
+start a bar. We just thought it'd be so
+cool to have a bar where us and all of
+our friends could go. We thought it'd be
+great for the city. And so we and we and
+we thought, you know, we can run this
+really high margin because we're tech
+guys. We know how to build systems.
+We're good at business. And we were
+utterly humbled. You know, we realized
+that we didn't know anything about
+business compared to someone who runs a
+pizzeria. If you think about it, like my
+example earlier of if you run a software
+company, what has to happen? You have to
+hire a bunch of nerds. They need
+internet connections and computers and
+you need to pay them and you need to
+coordinate online and everyone can work
+asynchronously. Nothing has to go right.
+You know, it's not that complicated, at
+least at small scale. A pizzeria, it's
+like if the baker doesn't wake up at 3
+in the morning and start prepping dough,
+the entire thing is effed. And all along
+the way there's a hundred different
+failure points from front of house, back
+of house, the deliveries arriving on
+time, all these logistics. And so I
+think it's been stuff like that. I I
+mean I also, you know, I got into the
+news business, the local news business.
+I ended up buying a like a old paper uh
+in Vancouver and it's the exact same
+thing. It's like I just can't you can't
+take a brilliant management team and
+change a bad business model. You know,
+ultimately the business model wins. This
+is uh this is really good advice.
+Basically, if there's a bunch of dead
+bodies in that space, there's probably
+something there that keeps killing them
+that you probably not aware of until
+maybe somebody figures something out,
+right? Like once in a while, once in a
+blue moon, someone's like, "Okay, here's
+how we do this." And then it works.
+Well, look at Instacart, right? When
+Instacart came out, everyone said,
+"Well, web van failed. This is never
+going to work." And we still don't
+necessarily know if Instacart is a great
+business. I don't I don't know. I
+haven't studied it but but I think it
+was like okay enough technology has
+changed that it can happen but would it
+be easier to start Instacart, Amazon or
+Coupang or would it be easier to start
+an enterprise SAS software company?
+Definitely the enterprise SAS software
+company. I see. So this is I guess is
+the advice there. The thing that is easy
+to start is the thing you should not do
+because everyone's going after that.
+Well, it goes back to my gym analogy of
+if you're going to deadlift 300 pounds,
+train for 15 years, right? You should
+have already had three startups and they
+should have worked and you know, you've
+really built up the reps. And I think
+that if I was going to start Instacart,
+you know, that's different than someone
+who's 20 starting it. Not that I would
+be good at it, but at least I would know
+what I'm getting into. Let's talk about
+something that is kind of this like
+endless debate on Twitter. Maybe it's a
+false dichotomy between lifestyle
+businesses, kind of bootstrap
+businesses. This idea of not raising
+money, just making revenue, living off
+the revenue versus ventureback venture
+scale companies. Feels like you're uh
+very good at the first bucket. And uh a
+lot of people, this is their dream. I'm
+just going to start something. I'll
+start a lifestyle business, make a few
+million a year, never raise money. Who
+needs VCs? VCs suck. Advice for deciding
+which route to go with a an idea you
+have? Well, I think um
+there's this it's just not true that a
+quote unquote lifestyle or bootstrap
+business can't get huge. I mean, we
+bootstrapped the entire business and now
+across all of our companies, we do
+almost $300 million in revenue, right?
+So it doesn't there's no and the the
+whole time you know I had been focusing
+on taking you know starting small
+businesses small ideas simple ideas
+often buying small companies and
+watching them grow really big and I
+think that the only difference between
+what we do and what a venture capitalist
+does is the level of tolerance of
+burning money on fire and I just haven't
+seen that if we ch if we choose the
+right businesses that aren't in
+incredibly competitive markets or where
+they have some sort of moat. So, what I
+mean by that is like a great brand or a
+network effect like a social network or
+something like that. There's no I don't
+feel we're holding them back by not
+letting them light a bunch of money on
+fire because these things naturally
+grow. The numbers I mean they're like,
+you know, balloons. They just go uh as
+long as we don't mess them up too much.
+So I think the decision ultimately comes
+down to how hairy do you want your big
+hairy audacious goal to be. And if you
+you know your big hairy audacious goal
+is I'm going to start the next satellite
+business that you know creates some sort
+of crazy technological revolution. Yes,
+you're going to have to raise venture
+capital unless you're already a
+billionaire or something like that. But
+if you're wanting to just tinker and
+solve a problem that you think is not
+going to be hyper competitive. So for
+example, that form filling thing or
+software that just does a narrow thing
+that doesn't require 20, 30, $40 million
+to be lit on fire before it can make
+money, then you know, you can have a
+wonderful life and build a wonderful
+company that can scale into the hundreds
+of millions of dollars if you play your
+cards right without ever raising money.
+per the story you shared with Flo where
+you were competing against a venture uh
+venture funded company if there is a
+venturebacked company in the space is
+the advice like you're not going to win
+competing with them most likely and try
+to do something else well look at um
+things do you know things
+I do it's awesome so you know things
+still exists and things has existed for
+20 years it's run by I believe one or
+two or three people like it's not a big
+team, certainly under 10 people. It was,
+I believe, bootstrapped and it's just
+consistently delivered an exceptional
+product and built up a loyal following.
+They have their, you know, 10,000 true
+fans who use it and that's enough for
+them. But they don't do a lot. They've
+been very intentional. They don't do any
+AI stuff. They don't have an API, you
+know, all they they've they're not on
+Android. They're very focused. And I
+think they they have succeeded. But the
+question is what would an MBA or a
+business professor say about their
+success. If the measure of success is
+did they maximize taking as much market
+share as possible and grow to be as big
+as possible then the answer is no
+because Aana and other people have built
+multi-billion dollar companies. If the
+goal is the founder has an incredible
+life, probably has three houses, flies
+all over the place, does whatever he
+wants, has recurring revenue, and he
+gets to work with headphones on building
+a beautiful piece of software that
+people love, then I think he's won. I am
+generally much more in the camp of the
+things guy has won, not Dustin
+Moskavitz. Dustin Mos Moskovitz is just
+playing a different game than the things
+guy. And if Dustin Moskovitz was running
+things, he'd be miserable. And if the
+things guy was running a sauna, he would
+probably kill himself because he wants
+to put his headphones on and build. I
+wonder why nobody has come. It feels
+like just with lifestyle businesses, if
+it's working and you would think
+somebody would come in with more money
+and more funding and just eat eat their
+lunch is the key that the market is too
+small for a VC to ever be excited and so
+that's why no one's coming for them. I
+think so. I mean, I think things
+probably I'm I'm just guessing. I don't
+know any of the numbers or whatever, but
+I would assume it makes between five and
+$25 million of revenue, which to a VC is
+like not even worth considering. Like a
+VC, they want to you for for a VC to
+invest in your business, you need to
+have a story where it's worth 300
+million to a billion dollars or more.
+So, it's just not that exciting to them.
+Which, again, going back to fish where
+the fish are, right? You don't want to
+be con uh fighting against the
+commercial fishermen, right? If you just
+want to have a little business where you
+make enough, you know, you get enough
+fish to feed your family and your
+village or whatever, find the other
+fishing hole. Don't go where the trwers
+are. This is great advice. If you're
+trying to start a non- ventureback
+company is find uh this metaphor just
+keeps working for us, which is uh fish
+where the fish are, but not where the
+professional fishermen are. Also,
+ideally, not where there's just like a
+ton of uh I don't know, fishermen from
+all over the place. I don't know. Solo
+solopreneur fisherman. Okay. Coming back
+to just starting a successful company,
+what would you say are the keys to an
+amazing business model and amazing
+business broadly? Like what should you
+be thinking about and looking into? I
+know you spend a lot of time thinking
+about this when you're buying companies.
+What are like a few bullet points that
+you want to focus on? What I do for a
+living is basically buy businesses. So
+in my early career, I started one
+business. Then I started about 10 more.
+And then I realized starting businesses
+was extremely hard. And I I was doing
+pretty well. I was making quite a bit of
+money and I'd sold one of my businesses.
+And I was looking out at the next 10
+years and really asking myself, what do
+I want my career to be? And am I happy
+doing what I'm doing? And the answer was
+no. I did not like starting businesses
+and experiencing that failure rate. It
+was incredibly stressful. And so I
+picked up a book about investing and I
+got lucky. The first one I b I bought
+was about Warren Buffett. And for those
+that don't know, Warren Buffett is kind
+of he's counter to every VC kind of
+hustle culture thing you might hear
+because he basically just sits quietly
+in a room and reads all day despite
+owning 260
+uh different businesses and being one of
+the 10 wealthiest people in the world.
+His life is incredibly calm. He only
+does what he wants and he spends most of
+his time quietly reading and once or
+twice a year he makes a big decision to
+buy a business. And so when I read about
+Warren Buffett, I just thought, "Wow,
+I'm a sucker. I'm running around like a
+crazy person trying to run all these
+businesses. Why am I not just buying
+businesses and letting them run?" And so
+when I'm buying a business, what I'm
+really looking for is something that I
+can't mess up. Right now, obviously, we
+buy a business, we try not to mess it
+up, and we're very intentional,
+actually, very odd in that when Tiny
+buys a company, we generally just leave
+them alone. If they already have
+management in place, we say nothing
+changes. You know, no one should know
+that any that we've even bought them. Uh
+obviously, people know that, but but
+really like there should be no change
+whatsoever. The only change that we
+generally make is if the founder wants
+to leave the business, then we'll bring
+in a CEO to run the company. And that's
+probably the most important decision
+that we make. So I'm looking for a
+business though where it is so good that
+it's hard to mess up. And most
+businesses are very easy to mess up. You
+know, like one person leaves and the
+whole business falls apart because it's
+held together with dental floss and duct
+tape. And so I'm really looking for what
+Warren Buffett would call a moat. So a
+moat is basically a brand. So that could
+be a brand like Coca-Cola, Tylenol,
+Advil, something like that. So something
+that gives you pricing power where you
+can consistently charge and you have
+loyal customers or uh where we usually
+find a lot of opportunity is in network
+effects. So typically we're looking for
+a community that's gotten so big where
+people don't want to go elsewhere. So
+for example, we own Letterbox, which is
+the largest social network for film
+lovers. And the question is, if someone
+else wants to compete with us, why would
+someone go to their social network that
+has a small number of users when all
+their friends are already on letter
+boxed? And so you see that same kind of
+thing with Instagram or Facebook or
+similar. And so we're looking for
+businesses like that, something that has
+staying power that is hard to compete
+with and that we can hold over the very
+long term. It was interesting when Elon
+bought X, how that was such a test of
+the power of network effects. If you
+think about it back then, he changed the
+name. So the brand completely changed
+the team, 80% of the people left. Like
+what was left? It was the network and
+the network effect. And the the simplest
+way just for folks that aren't super
+familiar with network effects, the way I
+think about it is just network effect is
+where every additional user that joins
+the network becomes more useful for
+everybody. There's another mode which is
+high switching costs which I don't
+really like because it's it's not really
+very consumer friendly, but an example
+might be Salesforce where no one wants
+to they've they've spent years and
+they've done all the implementation and
+trained everyone on it and it's kind of
+the standard. Everybody hates it, but
+ripping it out and switching is such a
+pain in the ass that they just won't
+bother. You know, that's another form of
+sometimes a great business. But again,
+that's more depressing. I don't love
+that one. What's the last company you
+guys bought? Uh, we bought Sorado. So,
+Sorado is the largest DJ software
+company in the world. So, if you ever
+see a DJ playing and they've got a
+laptop in front of them, probably using
+Sorado to DJ. Wow, that is super cool.
+What like a fun thing to to I used to I
+used to DJ so I I was aware of them and
+it was one of those moments we talked
+about earlier where you know I
+understood the business. They had uh a
+really interesting mode of this huge
+passionate user base and deep hardware
+integration and uh and I also love DJing
+and I was able to analyze the business
+and you know luck comes the prepared
+mind and it worked out. This is another
+great call back to your excellent piece
+of advice of just ideally what you're
+working on whether you're starting the
+company or buying the company is you
+have a unique unfair advantage or some
+kind of unique background that connects
+to that idea. Let me ask you one more
+question before we shift to a whole
+different topic. Uh, hint hint AI.
+Something that I know you talk a lot
+about, something you believe strongly,
+and something you deal with a lot is
+when you buy companies is just is people
+and the the challenges of of management
+and hiring and people. So, what have you
+learned about just uh how to
+successfully I don't know find amazing
+people, keep amazing people, help people
+be more successful within the companies
+that you operate? My business partner
+Chris has a really great quote. He says,
+"There are no problems. there is only
+people problems and so we've found that
+you know you could tell us that there's
+a disaster that you know one of our
+business units is about to fail or
+something like that as long as I'm
+surrounded by really great smart people
+I feel fine right but when we have a bad
+actor we have a psycho or a narcissist
+or a really horrible difficult person
+we're dealing with all bets are off and
+life becomes incredibly stressful so I'd
+say I spend probably
+20% % of my time just trying to make
+sure we're filtering people very
+carefully and ensuring we're working
+with people that we enjoy. Uh, and I
+could talk about it in the AI. I've done
+some really interesting stuff to help me
+screen and identify difficult people.
+But I've just found that the biggest
+mistake I made in my early career was I
+would hire people because I like them on
+gut and I would think that I could
+change them. So, it's kind of like in
+romantic relationships. It never works
+out well if you, you know, get married
+to someone and you go, "Okay, well, this
+is going to be a great relationship as
+long as I can convert them to
+Christianity or I can change their
+parents or their personality or whatever
+it is." And so, I've just found that
+I've never been able to change someone.
+I've never You can never mentor someone
+out out into being a good employee. And
+the the kind of heruristic I have is if
+I ever think should I fire this person
+even once I should fire them
+immediately. Uh it has always been a
+signal at least for me that when
+someone's a superstar I can't imagine
+firing them. I think it's it's
+impossible the I'd be lost without them.
+But when I repeatedly start going man is
+this person gonna work out almost always
+within six to 12 months uh it doesn't
+work out. And so I really try and be
+really direct about stuff like that and
+just cut when it's not working. So I'd
+say like the lesson really is hire for
+what you need. Don't hire just for
+potential, which is counter to what a
+lot of people say. A lot of people say
+hire for potential and coach them into
+being whatever you need. I just haven't
+found that. I I think you kind of need
+to have hire someone who already is
+fully formed and can do what you need.
+But again, everyone does it differently.
+This is big advice. Powerful advice. Is
+this is this true? Not just for like the
+CEOs of the companies you you run is for
+folks under lower down the ladder too.
+Well for CEOs one of the most
+interesting things we've observed is so
+so I'll give you an example. So we had a
+CEO come in and we were interviewing
+them and he my in my opinion the
+business needed to grow via organic
+marketing. In his opinion it was
+enterprise sales. And so when we're
+interviewing him, he keeps going back to
+his experience building with enterprise
+sales. And there's this great saying to
+a man with a hammer, everything looks
+like a nail. And so for him, he's
+looking at this business and going,
+"Enterprise sales, that's the way to
+grow." I hire him, but I say, "Look, if
+we're going to hire you, we need you to
+do the organic marketing." Lo and
+behold, of course, he goes off and he
+does the enterprise sales thing. And
+I've just found that hiring CEOs is like
+you're they're an elephant and you're
+the rider. They're going to go wherever
+it is that they want to go. And so
+listening incredibly carefully to
+people's words and their experiences
+because generally people will do the
+thing they tell you. So what I look for
+when I interview a CEO now, I want to be
+nodding along. I want to go that's
+exactly what I would do or that's way
+smarter than my idea. and then I just
+leave them alone because I've found that
+anytime I try and pull pull them in a
+certain direction or coach them or
+whatever, it just doesn't work. And
+again, this could be my problem. I might
+be the world's worst coach and mentor,
+but for me, that's been what's true. I
+imagine there's also an element of they
+won't love the job if they want to be
+doing say enterprise sales and then
+they're like creating viral Tik Tok
+videos all day and tweeting. They're
+like, "What the hell?" Well, I've also
+found people will shoot themselves in
+the foot, right? if they if they if I
+tell them an idea in a board meeting and
+I say, "I really need you to try this,"
+it never works because usually they kind
+of sandbag it, right? They don't really
+put their heart into it or they they're
+just kind of placating me and they don't
+want it to work. They want their idea to
+work. And so I've learned not to do
+that. This episode is brought to you by
+Miro. Every day, new headlines are
+scaring us about all the ways that AI is
+coming for our jobs, creating a lot of
+anxiety and fear. But a recent survey
+for Miro tells a different story. 76% of
+people believe that AI can benefit their
+role, but over 50% of people struggle to
+know when to use it. Enter Miro's
+innovation workspace, an intelligent
+platform that brings people and AI
+together in a shared space to get great
+work done. Miro has been empowering
+teams to transform bold ideas into the
+next big thing for over a decade. Today,
+they're at the forefront of bringing
+products to market even faster by
+unleashing the combined power of AI and
+human potential. Teams can work with
+Miro AI to turn unstructured data like
+sticky notes or screenshots into usable
+diagrams, product briefs, data tables,
+and prototypes in minutes. You don't
+have to be an AI master or to toggle yet
+another tool. The work you're already
+doing in Miro's canvas is the prompt.
+Help your teams get great work done with
+Miro. Check it out at miro.com to find
+out how. That's mirror.com.
+Let's talk about AI. Uh, it's so funny
+to watch you on Twitter. Clearly, you've
+become AI obsessed, AI pills. I don't
+know what the term is. And I love that
+you're not just the kind of person that
+just talks about it and tweets
+plantifications. You're like clearly
+using it in like every facet of your job
+and looking for more ways to use AI. So,
+I have a lot of questions here because I
+think this is where more and more
+founders are going to be where you are
+today. First of all, just what's in your
+AI stack these days? like what are the
+tools you find yourself coming back to
+most or finding more most useful? So the
+primary tool I use is a tool called
+Lindy lindy.ai.
+Uh and what it basically lets you do is
+build workflows and agents. So it's very
+simple. You might say when I get an
+email in the Gmail API, uh I want you I
+want to add an AI agent that reads the
+email and labels it based on that.
+Right? Or you can build a crazy Rube
+Goldberg machine that sends different
+emails all sorts of different places. So
+for example, uh when I get an email and
+it's related to my kid's school. One of
+the big problems I have is that my kid's
+school sends so many emails, you know,
+the field trip is on Thursday and you
+need to bring the following things and
+meanwhile there's parent teacher
+interviews and all these things get
+added to my calendar. the AI agent
+automatically takes that, puts it onto
+my calendar, makes sure there's notes
+for all the things I need to prepare and
+stuff. So, like I have just basically
+tried to take every single thing a human
+could do in my inbox and automate it
+with Lindy. And you're sitting there in
+Lindy doing this yourself. Uh, or do you
+have people that you've kind of trained
+to help build these sorts of things for
+you? No, I do it myself. Okay. How many
+agents, if if that's the term you want
+to use, do you have running for you? Oh,
+man. I think I probably have not not a
+crazy amount within let's see each well
+each workflow probably has four or five
+agents. So for example my inbox has four
+or five agents and then I have a whole
+bunch of other you know I've got a
+calendar agent, I've got a meeting
+agent, I've got an email agent, I've got
+uh a scheduler, I've got a CRM and
+basically they're all different
+workflows with a whole bunch of agents
+within. Okay. And you're not even you're
+not an investor in Lindy, right? You're
+just a fan. Super easy. No. No. Fun
+fact, I actually am. So, this is great.
+That's awesome. A tiny angel investor.
+So, just want to put that out there,
+which is I love that this came up
+organically. What are a couple other uh
+really interesting use cases, workflows
+you've built that people might be
+inspired by? Let me let me go through
+the email one a little more. So,
+basically, emails come in and the first
+agent says, "Does Andrew even need to
+see this?" Like let's say you're on a
+thread and you've already chimed in and
+everyone's just saying cool that works.
+I don't need to see that. So it just
+archives that never never. So that
+immediately reduces my email about by
+about 20%. Then it decides is this
+something that is time sensitive? Is
+this something that needs to be dealt
+with in the next 24 hours? And if so, it
+labels it in a special 24-hour label. So
+when I go to my email, one of the
+biggest stresses I find is I go, [&nbsp;__&nbsp;]
+there's 200 emails in here and if I
+don't go through all of them, I don't
+know if there's an emergency burning
+somewhere. So now I do. Then it takes
+any email uh or every single email and
+it decides is this a simple decision. So
+for example, let's say you email me and
+you say, hey, do you want to get lunch?
+So it emails me privately and it says,
+hey, Lenny wants to get lunch. Do you
+want to say yes? Do you want to say yes,
+but in a few months? Do you want to say
+no? How do you want to say no? And it
+gives me multiple choice. I just can say
+four, like number four. And then it'll
+email you as me and it'll write out a
+nice thoughtful email or whatever. So
+stuff like that is like so freaking cool
+and helpful. And I'd say that it's
+replaced stuff that my full-time I used
+to have a full-time assistant just
+working on email. That's all completely
+automated. And there's all sorts of
+other cool stuff I'm doing there. Other
+agents, like I'm working on one right
+now to manage my calendar, which is
+really complex. I do a lot of scheduling
+and a lot of rules. I have another
+really simple one. It adds emojis to
+every single calendar event. So, when I
+look at my calendar, I've got beautiful
+little emojis for every single calendar
+event. Very silly. What are the emojis?
+Like, do they represent something? Yeah.
+So, if I write weightlifting, it'll just
+do like a, you know, a guy weightlifting
+or whatever. I've got one that this
+one's cool. Basically, what it does,
+every time I email someone, it looks
+them up online. It figures out what city
+they live in. It checks my CRM in Air
+Table. It says, "Okay, I don't know.
+Where do you live?" In uh in Marin, in
+the Bay Area. Okay. So, it' say, "Okay,
+you email Lenny, he lives in Marin. It
+puts in the database you live in Marin."
+And then next time I travel to the Bay
+Area, the agent will see two weeks
+before and it'll say, "I saw you're
+going to to San Francisco. Here's all
+the people in San Francisco you should
+try and have coffee with. Right. So,
+just like all these things that
+Yeah. Yeah. Exactly. Like all these
+things that I've dreamed of having my
+assistant do that my assistant could
+just never consistently do because she
+gets distracted. We're doing an event.
+There's something going on. It's like
+having the world's most reliable
+employee who costs $200 a month and
+works 24/7. Okay. I want to follow that
+thread. But first of all, what other
+tools do you have? What are Lindy is one
+what else do you find really useful? So
+the other one is um Replet. So Replet is
+basically a vibe coding platform. You
+can literally go into it and say you
+know I want to make a website for my SAS
+software business. Here's you know a big
+document with a bunch of details and
+it'll go and design a pretty impressive
+website. But then you can also build web
+apps now. So you can you can literally
+be like, "Yeah, build a Python web app
+that does XYZ." And the design is
+getting so good because it uses Claude
+4. You can start saying, "Do it in the
+style of Stripe. Um, think this through.
+Rewrite all the copy and the tone of
+David Oglevie or Malcolm Gladwell or
+whoever you like." And it does a really
+incredible job. So what I'm finding is
+that things that previously would have
+frustrated me because I would have had
+to rely on a team of five, I can just do
+entirely on my own when it comes to web
+projects and stuff like that. So I'm
+having a blast with that. That's cool.
+So you're team replet versus lovable
+bold v0ero. Is that roughly? I mean
+they're all great. I I just am the most
+familiar with replet and it seems like
+it has the most functionality. like it
+has a lot of uh beef to it, whereas
+Lovable and Bolt seem a little more
+basic. You might have to deal with uh
+deployment and stuff in a fiddlier way
+with them. Awesome. Okay. Anything else?
+Um, another one I love, so Limitless, I
+don't know if you've seen this. I've
+I've got one of those. It's really cool.
+So, you know, clips to your shirt. I
+actually just put it on my pocket so no
+one actually notices that I've got it on
+usually and I just have it on all day.
+And what it does is it just records
+everything I do. And then I can say, you
+know, the other day I had a coffee with
+someone and I'm the kind of person where
+I go a mile a minute and I say, "Oh,
+I'll I'll send you that and I'll do this
+or whatever." And so at the end of the
+day, I can just say, "Hey, what did what
+did I promise to people today or me even
+better, everyone loves this use case, I
+have a fight with my girlfriend." And
+she says, "You didn't say that." And I'm
+able to say, "Well, actually, you know,
+you did." and and you can query it as an
+LLM. So you can say you're a couple's
+counselor. Look at this fight. What did
+each person need? How did it start? What
+are the key lines? Where did it change?
+How could you do this better? And so
+honestly, from a relationship standpoint
+is probably where it's been the most
+useful. What's cool, too, is that has an
+API. And so eventually, I haven't gotten
+there yet, but eventually you'll be able
+to just have it record your entire day
+and then automatically go into your
+to-do list or whatever it is and add
+to-dos or send emails or whatever you
+need it to do. Wow, this is so fun. Uh
+or just per your point with the
+relationship, ask it, what could I have
+done better today? Where did I where did
+I where did the day go downhill? Yeah, I
+saw a guy on Twitter. He said, every day
+I ask it, how could I have been a better
+dad? And it'll be like, "Oh, your, you
+know, your daughter tried to get your
+attention about this. You, you know, you
+should have paid attention or whatever."
+And that was with the Limitless data.
+Oh, man. I love that with the
+relationship you didn't go where I
+thought you were going to go where it's
+like, "Oh, but who actually said it?
+What did you actually say?" I love that
+it became much more wholesome of just
+like, "How could we have communicated
+better holistically?"
+Okay. My wife actually is like, "Don't
+don't wear this around. You just got to
+wear it really covertly." It honestly
+honestly I know it sounds kind of cheesy
+because you think like oh it'll tell her
+right but in reality usually you're both
+guilty in the fight and my girlfriend
+has actually appreciated it because
+there's been half the time it'll be like
+oh yeah you know Zoe kind of said this
+and it triggered this but a lot of the
+time it's me too and I think I'm totally
+right. So I I find it actually really
+helpful. other other tools. I mean,
+otherwise it's kind of the basic stack
+of uh Claude and Chad GPT and Gemini.
+And Gemini I use mostly for things that
+are really um large. So, for example,
+all my medical records I have trained on
+Gemini 2.5 just cuz the other ones can't
+really go through it all. Claude I use
+for writing very extensively. I find
+it's the best for that. And then Chad
+GBT for everything else. In terms of
+cool things I do recently, like I went
+through my entire medicine cabinet and I
+just took big photos that showed all the
+different uh medicines and stuff and now
+I can say something like, "Hey, um you
+know, I'm really tired and stressed out
+today. What supplement should I take and
+what dose?" Uh or I'll say, "Remember
+remember all the medications I'm taking.
+Whenever I ask you a health question,
+always remind me in the context of I
+might be taking that medication." And so
+a few times it said, "Hey, you shouldn't
+take this other medication because your
+genetics say you're not compatible with
+it and you're already taking this other
+one." So stuff like that's been really
+helpful for that use case. Do you come
+back to a specific conversation where
+you've given it that context? Use a
+project. When I say remember, I just say
+whenever remember these supplements,
+this is what I have in my medicine
+cabinet or this is what I take every
+day. I see. So just tap into the memory
+of chat GPT. Yeah, this is awesome. This
+makes me uh remember that I I've started
+to use and this connects to other points
+you've been making. I've started to use
+Chad GBT deep research to prep for these
+conversations. I used to have a
+researcher who did this for 400 bucks.
+They did research on every guest that I
+had 4 to 500 bucks and gave me a whole
+doc. Here's everything about them.
+Here's their background. Here's
+questions you might want to ask. Deep
+research is better just as of recently,
+especially with 03 Pro. We were talking
+earlier about agents. I forgot one of my
+favorite agents. So it looks on my
+calendar 30 minutes before I meet
+anyone. It goes on to perplexity and it
+does a deep dive on the person and it
+sends me it goes into my email and it
+gets the context of the meeting. So
+often I book meetings 3 months out. So I
+usually look at my calendar and I go who
+is this person? I don't even remember
+booking this meeting. It'll text me
+before and it'll say here's who you are.
+Here's your background. Here's the email
+context of why we're meeting. And it can
+and it basically does all the research
+for me. So, and I I do the same thing. I
+also use deep research and say like give
+me if I'm meeting them, you know
+everything about me. What are our
+commonalities and what are all the fun
+things we should talk about? Oh my god,
+I just I just want to plug and play all
+these agents you built to use them
+myself. Uh, interestingly, I tried to
+create an agent to do this research
+kickoff for me, but I don't think you
+can automate chatbt deep research. Okay.
+Only Yeah. Okay. Okay. Perplexity is
+great, too, but it's different. Okay.
+Okay, so let me follow this thread I was
+going down which is around job
+displacement. I know you think a lot
+about this. So with me, this researcher,
+it was a contractor I was working with
+for a few months. I no longer need them.
+Your assistant, you no longer need.
+Thoughts on just the impact we're going
+to see on jobs as a result of AI.
+There's this great uh William Gibson
+quote, the future is already here. It's
+just not evenly distributed. And I think
+that we are in the Palm Trio phase. Do
+you remember the Palm Trio? No. So, so
+when I was, let's see, in 2007, I think
+was that when the iPhone came out, 2007,
+2007, something like that. In 2007,
+there was this device called the Palm
+Trio, and it was like a little PDA with
+a stylus and you, it had a little modem
+attachment. And so, what you could do is
+you could get your email anywhere. And
+that was this shocking thing. It had a
+you know, black and white or barely
+color screen and you could go in and
+email people. And I remember being
+walking through the mall buying shoes
+while answering business emails and
+going, "This is the ultimate freedom.
+This is incredible." But the problem
+with that device was it sucked. You
+know, you had to use a stylus. It's not
+a good user experience. And then the
+iPhone comes out and you're like, "Okay,
+this is this is what I was waiting for.
+This is the real thing." But I got a
+little preview with the Palm Trio. And
+so right now, people like me who have
+the time to the time and skill set to
+nerd out and build the agents can do
+this. It's just not accessible to
+everybody. And I think that if it was
+accessible to everybody in terms of if
+you could just open chat GPT and say,
+"Hey, ChatGpt, I run a business. Can you
+help me?" And it started asking you
+questions and it said, "Oh, well, you
+know, you do sales. Do you want me to
+set up a sales agent?" Okay, great. Plug
+in your HubSpot API. Now, tell me a few
+things and then give me access to all
+your data and then before you know it,
+it's just a digital employee that's on
+the other end of the phone on chat GPT
+just like in the movie Her that you can
+talk to and it can go do stuff. I think
+that is kind of the iPhone moment that
+we're going to have in sometime in the
+next 5 years. And so I think that if AI
+doesn't progress we will see some
+serious job displacement like what you
+already mentioned the translators the
+researchers the admin um some assistant
+jobs depending on the kind of work they
+do those jobs will definitely be
+massively affected but I think pretty
+quick all knowledge work jobs could be
+affected if the models scale in the way
+that they say they're going I mean if
+you trust Sam Alman and Dario Amade I
+mean Daario Amade said by 2027 our
+models will be smarter than all PhDs
+any so in any subject that is a
+staggering statement and he's been a
+very conservative kind of almost fearful
+voice in the AI world very cautious to
+say things like that and so when he said
+that I kind of perked up and started
+listening carefully. I don't know that
+that's going to h how it's going to play
+out. He might be trying to fund raise.
+We have to take it with a grain of salt.
+But if that's true, then I think so many
+knowledge work jobs are going to change
+massively.
+Okay, there's a lot here. I actually had
+Mike on the podcast, their CPO, Mike
+Rger, and he pointed out that Daario,
+every prediction he's had so far has
+been right over the past few years. And
+so there's reason to listen to his
+insights. Okay. Andre, I know you're not
+going to have all the answers for
+people, but let me ask you a kind of a
+two-part question for new grads and for
+people currently in the workforce, say
+like I don't know, senior product
+manager, advice on what they should do,
+where should they focus, what skills
+will matter most, what jobs do you think
+will last? What advice can you give us?
+You know, everybody 10 years ago, do you
+remember there was this whole movement
+that we should teach kids how to code?
+Remember that? So now teaching kids how
+to code is like teaching kids basic and
+we have a guey right you don't need to
+learn punch cards and basic programming
+because or MS DOS because we all have
+keyboards and mice so we don't have to
+do that and I feel like coding
+has really gone away because of that and
+I think now people are saying people
+need to learn how to prompt which I
+think is very true for the tool set
+right now but I don't know how relevant
+that is in the future because I think
+we're still again at the palm trio
+phase. I think that the AIS will be very
+good at eliciting what the actual
+problem you're trying to solve is and
+reinterpreting it in a way that it can
+optimize the query to get the right
+answer and solve the problem. And so I
+think the fundamental question is do all
+jobs just become a single prompt? So for
+example, does a CEO just become uh grow
+the business while making the customers
+happy and turning a profit or or
+something like that and it is able to
+actually be an omnisient presence that
+can run a whole company. Now that's a
+big I'm someone building AI agents. I
+can barely get it to reliably do you
+know calendar entries and that kind of
+stuff. So I don't think that's totally
+imminent. But I can certainly see a
+world where that's coming. And so the
+question is what is one to do when that
+reality is barreling down at you? For
+people who have resources, I think
+there's a lot of things they can do in
+terms of investment. They can invest in
+the companies that'll benefit from this.
+Companies that have a lot of compute or
+energy or that sort of thing. So that's
+one thing, but that's not really the
+question. The question is what do you do
+if you're a smart 18year-old or
+19year-old or whatever. In my opinion, I
+think the best thing to do right now is
+to get incredibly good with these tools
+and utilize them to build enough wealth
+that you can put the money into
+diversifying into uh compute and energy.
+And I do think that while everybody
+thinks that, you know, all jobs will go
+away in 5 years and robots will be
+everywhere, people generally
+overestimate things in the short term
+and underestimate them in the long term.
+So, I think there's going to be this
+long window where robotics is not
+anywhere near good enough to even do
+like raking leaves and stuff. And I
+think there's going to be a ton of
+opportunity for people to just spin up
+new businesses that never existed
+before. Like I was talking to some
+friends and we were like, you know, what
+do you do in a world of abundance where,
+you know, everything is really cheap and
+and companies operate almost
+autonomously? I think there's a lot of
+weird skill sets that we can't imagine
+right now. Like for example, just being
+funny, right? Being funny to hang out
+with. You know, think about Only Fans,
+right? Right now, there's this whole
+idea of Only Fans or or where people are
+paying for comfort and connection, but
+in a romantic sense. Imagine people did
+that dayto-day. They just love hanging
+out with funny people. So, you have a
+funny guy who you chat with or comes
+over to your house or whatever it is.
+I'm making stuff up. Maybe it's a guy
+who comes play to plays play pickle ball
+with you or something. I don't know. But
+I could imagine that in this weird world
+there's all these weird new jobs. So I
+think like my take is like things will
+either be to things will either be
+totally fine or they will be terrible
+and we'll all be dead. And I can't
+predict which one of those is there. I
+don't think it's worth thinking about
+all of us being dead. And so I think
+it's really just lean into what are the
+tools? How do you stay cutting edge? How
+do you build businesses and wealth in
+this new world? But I'm certainly
+feeling a little bit like all of our
+brains could be defunct in the next 10
+years. And that's kind of a scary
+thought. I'm picturing this dystopian
+world where humans are just going around
+making jokes.
+Well, it's like where does where does
+status come from, right? In a world of
+abundance, where does status come from?
+You know, maybe it is just like having
+being the best at hiking or something.
+Well, let me ask you this because this
+is where it gets even more real is just
+with your kids. What are you encouraging
+them to learn? What are you encouraging
+them to get good at? Because that's, you
+know, like this is the real problem a
+lot of people are having right now is
+what will matter in the future?
+Obviously, we don't know. But what are
+you what are you what are you
+encouraging them to focus on? Well, I
+don't know. I mean, they're so little.
+They're five and eight. And so, really,
+what I'm focused on is making sure
+they're socialized and they're polite.
+Very basic. So, are they comfortable
+talking to adults? Like I often send my
+son whenever he wants something at a
+cafe, I always make him go up, ask
+nicely, pay himself, all that kind of
+stuff. But at this point, you know, I
+feel like for the first 10 years of
+life, you're just trying to make sure
+that they're not traumatized or rude.
+And that I think it's going to be really
+interesting when they're 10 plus where
+they're really aware of this stuff and
+can start building with these tools. And
+to be honest, I just don't know. I think
+I just want them to lean into whatever
+they're passionate about and go from
+there. But I have no idea. And to be
+honest, it's not something I'm worrying
+about because it's too hard to worry
+about. I don't know. It's too
+multivariate. There's too many ways it
+can go. I feel like a core part of your
+message is just get good with these
+tools. There's this classic quote, uh,
+AI won't replace you. It'll be somebody
+very good using AI is going to replace
+you, at least for a while. And so it
+feels like a big part of this is just
+like use these things. Before we were
+started recording, we were having a mic
+issue and I love you just went straight
+to chatt chatt how do I connect this mic
+to riverside and make it work and I feel
+like that's just a habit to build is
+just assume chat like go to catch
+whenever you have problem like that.
+I've been doing that a lot. I was
+connecting a subwoofer. I'm like what
+wire do I need to buy to connect the
+subwoofer to the receiver? Well the best
+part about chatbt is I used to just get
+stuck and I have ADHD. So when I get
+stuck, let's say like what's an example?
+I was I was redoing my home IT security,
+right? And what will happen is I'll be
+in the terminal and I'll enter something
+and then something goes wrong and it
+just keeps erroring and then I'm like,
+well, I'm out. Like I have ADHD. I can't
+tolerate this. I I don't have I just I
+just lose the thread completely. And
+Chad GBT allows me to stay on track and
+go so much further and faster than I
+ever could before. And I just love I
+love not being artificially stopped in
+your tracks and being able to continue
+the flow state as a result. And also uh
+I noticed you were using voice mode
+which is what I've been using more and
+more and I feel like that's something a
+lot of people sleep on is just the voice
+mode where you could talk to it and not
+have to sit there and type your
+questions.
+Okay. So let me go in a different
+direction. You've been spending a lot of
+time. And you wrote a whole book about
+this of just kind of your journey from
+you called it barista to billionaire
+where you started serving coffee then
+you ended up being very successful then
+realized that that's not didn't make you
+happy. You were quite unhappy uh with
+lots and lots of money. I think a lot of
+people hear these stories they see this
+stuff they're like yeah okay I sort of
+get it but they still do the same sorts
+of things. They still assume they will
+be happy once they reach that next goal
+that next title make certain dollar
+amount. What can you share? What have
+you learned about just what it actually
+takes to be happy that you think people
+are still not really recognizing and
+still kind of are confused about? Do you
+remember um when you're in your early
+20s like you I I remember when I was in
+my early 20s I'd always be like I need
+to move away to Europe. I need to go
+discover myself. And I'd be really
+anxious and stressed out and in an
+existential crisis and then I'd fly to
+Europe to go backpacking or something
+and I'd still feel anxious and have my
+existential crisis. It's just now I'm in
+Europe. And I think the reality is that
+whatever is in your brain, whatever that
+anxiety loop is doesn't go away just
+because you have a bigger house or more
+money in the bank account or you're in
+Bali or wherever it is. That's a
+chemical reaction happening inside you
+that relates to your past and your DNA
+and all that stuff that creates that
+soup. And for me, I've always been a
+very anxious person. I've always worried
+about tomorrow. I rarely enjoy today.
+I'm always worrying about what could go
+wrong in health or my businesses or with
+my family or whatever it is. And so when
+I started my business, all I thought
+was, I just don't want to work for
+someone else. If I can just wake up in
+the morning, do my own thing, make 60k a
+year, then I'll be happy. So I got that.
+And then it was once I make a million
+dollars a year and I can buy a house.
+Well, I got that. And so on and so on
+and so on all the way up to at one point
+being worth over a billion dollars. by
+the way should redo the title of the
+book from Briista to billionaire. Now
+it's former billionaire because our
+stock went down. But you know it didn't
+change anything. Like I'm still just as
+anxious as ever. I remember a month ago
+I had this day where I was sitting in
+the sauna and I was stressing about a
+bunch of business problems and money
+things and I had this m I stopped myself
+and I was like wait a minute like 10
+years ago I had all the same thoughts
+and I was stressed out about similar
+kinds of problems and our revenue was
+20 million bucks or 15 million bucks.
+Now we're at, you know, almost 300
+million and I'm still stressed about the
+same things. And the saddest part was as
+I met more and more wealthier people all
+the way up to multi-billionaires, I
+realized they were all still comparing
+themselves to their peers, competing
+over who has what and tracking stuff and
+still unhappy. That anxiety loop or
+depression was still in their brain. Uh,
+I remember I had this moment where I met
+this guy who is a multi-billionaire,
+singledigit multi-billionaire, and he
+goes, "Oh, Jeff Bezos, he's just so
+[&nbsp;__&nbsp;] rich." And I was like, "Wait,
+like what what do you mean you're worth
+like $5 billion? Like, what can what can
+he do that you can't?" And he goes, "He
+can buy a super yacht." And it's like,
+"What?" like and you know you can look
+at that guy and you can say oh that's a
+wacko and all the other stuff but the
+reality is that we're all just comparing
+ourselves to our peers whatever our
+peers have that we don't we feel hard
+done by and I remember just thinking
+like oh my god how do I not how do I
+avoid becoming this and that that's the
+scary reality is no matter how lucky you
+are I mean we're all so fortunate we
+live in uh you know for me I live in
+Canada I have every opportunity
+that I ever could have hoped for. And
+there's people all over the world who
+have nowhere near what I had growing up.
+And yet I felt hard done by because in
+my neighborhood I was the poor kid. I
+wasn't poor globally. I wasn't even poor
+based on Canada, but all my friends had
+big screen TVs and would go to Hawaii
+and I never got to do any of that stuff.
+My parents were stressed about money. So
+I feel hard done by. There's a phrase a
+friend's financial adviser once shared.
+the Joneses are doing really well
+and that's hard to get over. What um so
+what changes did you make to just be
+happier? You know, it's hard to give up
+money. It's hard to give up more money
+you could make. It's hard to give up
+things that you know that that money
+buys, I guess. Just so what what did you
+change? Well, there's a few things. I
+mean, one was reframing money to some
+degree to have it be something that
+wasn't just about feathering my own nest
+and making it better. So, for example, I
+I was talking to a friend who's very
+wealthy and I was kind of saying like,
+you know, I I all the feelings I
+described of, you know, have all this
+and yet I don't feel better. And he
+said, well, you know, what are you
+working for? And I said, "Well, I guess
+I'm just working for the numbers to get
+bigger and, you know, have more
+employees and, you know, that's nice.
+Like, our businesses do good things in
+the world and help more people and
+stuff, but ultimately it's just to pile
+up cash." And he said, you know, I've
+reframed it so that all my money, 90% of
+my money plus goes into my philanthropic
+foundation and then it gets given away
+to great causes. So when I think about
+working really hard or losing a deal or
+a investment going well, the win isn't
+for me. The win is about doing something
+good. So, so I did that and that
+definitely helped. I also stopped
+spending as much money. I found that,
+you know, the more stuff I had, the more
+houses I had, the more people that
+directly work for me to manage all that
+stuff, the less happy I was. You know, I
+was kind of owned by my stuff. And then
+I also do a really I work really hard
+not to have people I I try not to beat
+people over the head with it. Like I
+drive a normal car. I don't bring people
+to my house until I know them really
+really well. I meet them on neutral
+ground. Like I meet them in a cafe. I
+dress like a schmo. You know, I just try
+not to be, you know, a weird out of
+touch rich person. Um, but the biggest
+thing, which is kind of a weird answer,
+is actually medicating myself. So,
+basically, like all my life, I've been
+really anxious and in 2020, I remember I
+was watching a movie with my ex-wife and
+I was looping on, you know, I need to
+respond to this email. If I don't
+respond to that email, this person's
+going to be mad. And then I realized
+that I was watching a movie for the last
+20 minutes and I didn't know anything
+about what was happening in the movie.
+And then I was going, "Oh my god, my my
+wife is going to be mad at me. We're
+going to get in a fight." And, you know,
+I'm projecting all this negative stuff.
+And in that moment, I was like, "Okay,
+maybe I do need to, you know, try an
+SSRI or something. This is not
+sustainable." And so, I went to my
+doctor and I got prescribed with one.
+And I remember I was so scared of it
+that I cut it into 10 pieces. I said,
+"I'm just going to take a tiny little
+piece." And it took me six months after
+that to try any. But I started taking
+these pieces every day. And I just
+noticed that within about three or four
+days, it was like someone had turned
+down the volume on the nasty voice
+inside of me doing all that. And for the
+first time in my life, I felt relief. I,
+you know, no amount of money or success
+or attention or anything else had done
+what this little tiny yellow pill could
+do for my mental state. And so now I've
+been on an SSRI for four and a half
+years or something like that. And then I
+also started medicating my ADHD. And I
+would say that my brain went from Times
+Square to a quiet library. And I think a
+lot of people are scared of that. But
+ultimately, most people are acting out
+something that's going on inside of
+them. You know, there's a trauma or
+something medically going on and that's
+creating this anxiety, this depression,
+this feeling. and addressing that is so
+much more important than trying to get
+praise from the external world. Wow,
+that is really powerful. I really I'm
+really thankful you're sharing this. The
+advice most people hear, you know, like
+the general I don't know culture is just
+like no, don't take meds, don't take
+don't medicate yourself. You're going to
+you're I don't know there's all these
+downsides, all this risk. The pharma
+industry is trying to make money. I love
+this other perspective of it. It's
+actually really effective and actually
+makes a big difference in your life and
+it may be the only solution. Well, it's
+funny because if you have a headache, I
+don't think many people say, "Oh, don't
+don't take Tylenol. You know, you're
+benefiting Johnson and Johnson big
+pharma." They go, "Yeah, you know, you
+take a Tylenol when you have a
+headache." Or a lot of people have
+seasonal allergies and they take
+antihistamines. And they forget that
+histamine is not just in your nose.
+Histamine's in your brain and everywhere
+in your body. And so when you take an
+antihistamine or a even a Tylenol,
+you're changing your brain. You're
+changing the way you think. you're
+changing everything. And yet, for some
+reason, people are so scared, myself
+included, of taking an SSRI or similar
+medication to treat something that is
+ruining their life. Like anxiety was
+ruining my life. Every minute of every
+day, I was convinced that something
+terrible was about to happen. And even
+now, medicated, I still have that voice.
+It's not like that that bene that
+frankly beneficial voice that helps you
+grow your business or whatever becomes
+unproductive at a certain point and I
+think that it is it's wonderful to be
+able to actually just get a little bit
+of solace from it. Wow. For folks that I
+imagine many folks listening are like,
+"Oh man, I should really explore this."
+What's the best way to explore is to
+talk to your primary care physician
+physician? Yeah, I think talking to your
+doctor and one one note I think a lot of
+people miss is what I I was so scared of
+side effects because you hear about all
+these horrific side effects of, you
+know, people lose their libido and feel
+terrible and stuff. And so I looked into
+it and a lot of the side effects are due
+to the way that people metabolize
+different drugs. And so you can actually
+do your 23 and me u or similar DNA test
+and you can find out how you metabolize
+different SSRIs. And then I chose one
+that I could metabolize well. And so
+I've had no side effects or problems.
+And I know every time I mention this, I
+get a lot of people that say exactly
+what you say, you know, big pharma and
+all this other stuff. But I just ask
+everyone listening, if you take a
+Tylenol or you take an antihistamine or
+other medications, I don't know why, you
+know, something that can be so
+profoundly helpful is something that
+people need to be afraid of. Amazing.
+Andrew, we've covered so much ground. I
+love the spectrum of topics we've gone
+after. Is there anything else that you
+wanted to share? Anything you wanted to
+double down on? Any last nugget you want
+to leave listeners with before we get to
+a very exciting lightning round? So one
+one thing um that was kind of shocking
+for me was I was doing my doctor asked
+me to get a cognitive test not because I
+had any problem but he said look it's
+really important to get a baseline in
+your 30s because then as you age we can
+make sure that you're not getting
+Alzheimer's or dementia or whatever. So
+I go and I do this uh test with the
+neurologist and she asked me a bunch of
+questions you know it's remember these
+10 digits and say them backwards and all
+this stuff. And finally, when I got my
+test results back, she said, "Look, your
+crystallized intelligence, your ability
+to remember stuff long range is totally
+fine. You're you're above average. Your
+short-term memory, your working memory
+is 10th percentile. Very, very bad. And
+you probably should get checked for
+ADHD." And I was like, "Nope, there's no
+way I don't have ADHD. I'm organized.
+you know, I've got to-do lists. I built
+a business. You know, I wasn't the hyper
+kid in school or anything like that. And
+she said, "Well, look, just humor me.
+Just go get tested." And so, I went
+through this crazy process. They they
+were um you know, you can go online and
+just quickly get tested or whatever, but
+um I went through this really really,
+you know, like kind of fiveday process
+to get tested. And it turned out that I
+do have it. And it's really interesting
+because if you take the normal
+population, about 5% of people have
+ADHD, but about 30% of entrepreneurs
+have ADHD. And many entrepreneurs I
+talked to, they love new things. They
+love jumping around between a million
+different topics. They're an inch deep
+and a mile wide like I described. And
+they describe themselves as
+unemployable.
+And I frankly I remember I was so
+skeptical of ADHD that when my
+girlfriend told me a friend of hers got
+diagnosed with it, I sarcastically said,
+"Oh, good. She better take some meth."
+Right? Talking about stimulant drugs. So
+I previously I was very very skeptical
+of ADHD. But it is a real brain
+disorder. If you actually dig into it,
+it's very a very real thing, very
+objective that people have poor
+executive function. And for me, it's
+given me a lot more empathy for myself
+and my behaviors because at work, if you
+have ADHD, you can delegate to other
+people and build systems to get around
+your disability. But at home, that's
+where it really plays out. And so for
+me, it's like my girlfriend asks me to
+take the garbage out, and I say, "Of
+course." And then I forget three times
+in a row. and she views that as you are
+being very hurtful and you're not caring
+for me and it causes, you know, all
+sorts of different problems at home. And
+so for me, not only did it make my work
+life better because I was more focused,
+but it actually really helped me in my
+personal life and it made me feel not
+broken. I always felt a bit broken. I
+couldn't put my finger on why, but I
+just went, I'm not good at doing all the
+things everyone else seems to be able to
+do. No problem. And so I think
+especially because you have an
+entrepreneur audience. I think a lot of
+entrepreneurs should consider getting
+checked for ADHD. Just go and chat GPT
+says ask me a bunch of questions and
+tell me if you think I might have it.
+But I was very surprised and that's been
+really impactful for me too. Man, this
+garbage story is uh very descriptive of
+my life and so I'm going to do this. Oh
+boy. Uh there's kind of this implication
+that it's good to know this, right? like
+people would be like it feels scary to
+feel like oh [&nbsp;__&nbsp;] I might get diagnosed
+with ADHD. Your advice I imagine is like
+you'd actually it's better to know and
+you could because you could do stuff
+about it. Totally. I think it's uh it's
+like any medical thing, right? It's like
+uh there's an Alzheimer's gene, right?
+And if you know you uh have it, there's
+a lot you can do to slow the disease or
+prevent maybe getting it or whatever.
+It's always better to know even if you
+don't medicate. I think there's a lot of
+lifestyle interventions, dietary
+interventions, and just things you can
+do to make your life easier. Even if
+it's just explaining to your partner,
+hey, I need things to be explained to me
+this way so that I can be effective in
+loving you. Beautiful. Okay. Well,
+Andrew, with that, we've reached our
+very exciting lightning round. I've got
+five questions for you. Are you ready?
+Let's go. First question, what are two
+or three books that you find yourself
+recommending most to other people? If I
+could only recommend two, I would
+recommend The Laws of Human Nature by
+Robert Green. It's basically like a
+compendium of every single type of
+personality disorder or psychological
+effect. How do people warp their minds
+to make bad decisions? Uh what is a
+narcissist? What is a psychopath? All
+that kind of stuff. And Robert Green
+does such a great job of telling all
+that in a really engaging way by using
+storytelling. So every single chapter
+has a story about someone with that
+personality disorder. Um, so I love that
+book. The other one that I love is a
+book by Felix Dennis called How to Get
+Rich. It's hilarious because the whole
+book starts out saying, "I got rich and
+I regret it and I wish that I'd become a
+poet and instead he went off and he
+built this huge publishing empire,
+became a poet in his 60s, and then he
+died of throat cancer." So it's his
+story. He basically says, "I'll tell you
+how to build the business even though
+you probably shouldn't." And I read that
+when I was in my 20s and I found it so
+exciting and inspiring and then I
+recently reread it and I was like, "Oh
+my god, why didn't I listen to this
+guy?" Like everything he said came true.
+Next question. Do you have a favorite
+recent movie or TV show that you have
+really enjoyed? I love Challengers. Uh I
+don't know if you've seen it, but it's
+amazingly acted, amazing cinematography,
+and it's like this amazing uh like
+romantic triad tennis movie. Really,
+really good. Do you have a favorite
+product you recently discovered that you
+really love? Uh, you already mentioned
+Limitless. Is there anything else? I'm
+one of those people who really believes
+in the idea of a robot vacuum. I've
+probably spent like $10,000 on different
+robot vacuums over the years, probably
+five or six of them. And I finally got
+one that actually works. It's called the
+Madic Vacuum, M A T IC. And basically, I
+think it's like former Google engineers
+basically built like a mini Whimo car.
+So, it has like machine vision and it
+will avoid absolutely everything and
+never get tangled and it can mop your
+floors and vacuum. I've been super
+impressed with it so far. I've got one
+of these myself. I completely agree. My
+wife loves it, which she I did not
+expect. She's like, "Turn that madic
+on." It's like very delightful. It has
+this little personality and it just does
+a really good job. Uh, and I'm not an
+investor. That's awesome. I'm a huge
+fan. Okay, next question. Do you have a
+favorite life motto that you often come
+back to find useful in work or in life?
+Yeah, my favorite is a quote by Jersey
+Gregoric. Um, it's easy choices, hard
+life, hard choices, easy life. And I
+often find that anytime that I'm making
+the easy choice, my life gets hard. And
+when I make the hard choice to shut down
+the business, fire the person, you know,
+say bye to a project that I was excited
+about, it's almost always the right
+choice and it makes my life a lot
+easier. Final question. Okay, so let me
+know if this is true. I I found that
+when you were a teenager, when you're
+running Mac Teens, you interviewed Steve
+Jobs at a conference. Is that true? So,
+when I was a teenager, I had a tech news
+website and I emailed the Apple PR
+people and I said, "Hey, could I
+interview Steve Jobs and they kind of
+laughed at me like they're like, "Yeah,
+there's no way you're not going to
+interview Steve Jobs, but um hey, why
+don't you go to this um tour of the
+Apple store?" So, this is no other Apple
+stores existed. This is in New York at
+Macworld back in like 2004,
+no 2003, something like that. And so I
+was really excited about that. So, I
+show up to go do this tour and there's
+like 30 other journalists there and I'm
+first in line and this big black SUV
+pulls up and this man gets out and the
+man is wearing gray New Balance, little
+circular John Lennin glasses, the mock
+turtleneck and my brain finally puts it
+together and I realize it's Steve Jobs
+and he walks directly up to me because
+I'm first in line and he shakes my my
+hand and he says, "Hi, I'm Steve." And
+I'm like a quivering mess, you know? I'm
+17 years old. I He's my hero. He is my
+Jesus. And so I was just so high on
+adrenaline that I just started asking
+him questions. As soon as we walked in,
+I basically just stayed at his side and
+I just picked his brain about all sorts
+of different stuff. So it's not like I
+got to ask him questions about life. I
+was asking him about, you know, the new
+17inch iMac or whatever. But it was a
+pretty cool experience to get to meet
+him. Pat is awesome. There's such a
+funny thread recently with guests.
+Everyone's there's like a Steve Jobs
+connection for the past couple months of
+guests. Uh that's an awesome story. It
+just shows how you, you know, it wasn't
+luck you made this happen. You got there
+first first in line. The lesson for me
+was ask big and maybe you'll get
+something great. You know, ask for ask
+for amazing, you'll get something great,
+which which I did. The uh door door in
+the face technique, I think people call
+it. Yeah. Andrew, this was incredible.
+Two final questions. Where can folks
+find you if they want to reach out? I
+know you're buying companies, investing
+in companies. So, just talk about what
+you're looking for there in case people
+are like, "Oh, this is me." And then
+finally, how can listeners be useful to
+you? Yeah, my my business is Tiny
+tiny.com
+and we buy businesses. Uh we we
+basically when we sold the business, we
+hated it. We went through this process
+where we talked to all these douchebags
+that were private, you know, ran private
+equity firms and would show up in our
+office in suits and, you know, use a
+bunch of words we didn't understand. And
+we ended up uh going, man, why can't we
+just sell to somebody who's like us? And
+so we basically started Tiny to become
+the buyer uh we wish we could have sold
+to. And uh we're looking for businesses
+that have some of the qualities I
+mentioned before. So, you know, really
+high quality businesses that do
+something positive in the world and have
+happy customers, happy employees, and
+some kind of competitive advantage that
+will make them continue into the future.
+So, we own like Aeropress,
+uh, Letterbox, uh, Dribble, which is
+like a design social network, whole
+bunch of businesses like that. So, if
+somebody uh, is thinking about selling
+their business, uh, definitely get in
+touch. Amazing. Okay. And then how can
+listeners be useful to you if it's not
+just that? I just would say if there's
+anyone really interesting coming to
+Victoria, Canada, which is where I live,
+send me an email and would love to have
+coffee with you. I just I I the reason I
+love going on podcasts is because I get
+to meet so many interesting people both
+randomly, like if I'm in a cafe and
+someone sees me and says hi, I often
+make a lot of friends that way or if
+someone comes to my hometown. So, yeah,
+just get in touch. Amazing. Andrew,
+thank you so much for being here. Yeah,
+thanks dude. That was fun. Bye,
+everyone.
+Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

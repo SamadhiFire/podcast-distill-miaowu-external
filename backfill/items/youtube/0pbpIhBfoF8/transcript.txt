@@ -1,0 +1,1501 @@
+Kind: captions
+Language: en
+[Music]
+Bloomberg Audio Studios podcasts, radio,
+news.
+[Music]
+&gt;&gt; Hello and welcome to another episode of
+the OddLotss podcast. I'm Joe
+Weisenthal.
+&gt;&gt; And I'm Tracy Aloway. Tracy, I love
+doing the podcast, but I'm kind of
+thinking about becoming a PhD level a AI
+researcher. If I do a career pivot, it
+seems something I'm considering place to
+be.
+&gt;&gt; Have you seen Have you seen like the
+salaries supposedly? I still don't
+actually believe them, but have you seen
+like the salaries and comp packages that
+supposedly Meta and a few others are
+paying for top
+&gt;&gt; AI? Some of the headlines. I have also
+learned a bunch of new words like
+exploding offer and aqua hire. And I
+always thought exploding offer sounds
+dangerous. What you want is an explosive
+offer that you can't turn down.
+&gt;&gt; But I take it the exploding hire is like
+one that lasts like 5 minutes.
+&gt;&gt; Yeah. So you have to make a decision
+right away and the company that you're
+currently working for can't counter
+offer.
+&gt;&gt; So I read these headlines about some
+engineer or something getting paid 100
+million or 250 million. I actually
+literally don't believe them. Like I
+actually literally think that's fake
+news.
+&gt;&gt; Really? No, but I kind of
+&gt;&gt; I just think it's probably made up of
+like all this weird equity structure
+&gt;&gt; comp, but I'm sure it's not all up
+front. Anyway, we sort of seem to be in
+a moment and it's actually not just AI,
+I would say uh journalism, finance, etc.
+where it's like the sportsification of a
+lot of different industries, individual
+talent, the demand for individual
+superstars on anything doing very well.
+I have a bunch of questions when it
+comes specifically to AI, such as what
+makes an AI talent because I assume if
+you're Mark Zuckerberg and you're trying
+to assemble your AI dream team or
+something. Okay, sure you have like a
+level of technical insight and maybe you
+hear people talking about, oh, this one
+guy is fantastic,
+&gt;&gt; but I assume it's not like you can look
+at their like individual levels of code
+and you can't see what they're doing on
+like a daily basis. I don't know.
+&gt;&gt; I don't know either. I don't know
+anything about this stuff, but I'm
+really excited to say we do have the
+perfect guests, a couple of guys who are
+right in the middle of all of this and
+also who have sort of been ahead of the
+curve in terms of this, like I said, the
+sportsification of the industry. We're
+going to be speaking with uh John Kugan
+and Jordy Hayes. They are the co-hosts
+of TBPN. It's a live show podcast. It's
+become one of my favorite new media
+properties. it exists. And I'm really
+excited we have them both in the studio
+here with us today. So, John and Jordy,
+thank you so much for uh coming on.
+&gt;&gt; Thanks for having us.
+&gt;&gt; We're so excited to be here.
+&gt;&gt; I love by the way you guys like make
+these like baseball cards every time.
+So, it's so clever. For those who are
+not paying attention, why don't you sort
+of give the highlevel overview of like
+what you see happening in this like
+crazy talent war for people who don't
+know about this? what is actually going
+on this this talent war for for people
+who know how to do AI or train a model
+or whatever it is.
+&gt;&gt; Yeah, the league or the mag seven the
+serious teams are all worth over a
+trillion dollars. Tesla's in a different
+kind of boat some days, but pretty much
+there's mult there's seven trillion plus
+dollar companies now. So there is an
+inordinate amount of money to flow
+around. And if you think about
+investing.1%
+of your market cap to make your business
+potentially 5% better, that's a trade
+you take all day. The number is
+staggering, but now you're seeing
+companies pay hundreds of millions of
+dollars. I think you mentioned that, you
+know, there's a lot of debate over
+whether that was fake news or not. They
+seem like they are very real offers and
+they are indeed happening. And there's a
+whole bunch of different ways that you
+can kind of underwrite that, but we
+could start with going through just a
+little bit of the history here of how we
+got into this place or what these AI
+researchers are actually doing. I'm
+happy to kind of answer any any
+question.
+&gt;&gt; Okay. Well, why don't we start with the
+baseball analogy then? If I was
+collecting AI engineer cards,
+&gt;&gt; who's the most valuable? Like who do I
+actually want to have? And then
+secondly, what are the stats that are
+printed? So, so, so taking a little bit
+of a step back, talking about kind of
+the sportsification of of tech and
+business, which has been a huge catalyst
+for our show. I think we realized early
+on people would call TVPN the sports
+center for tech or some analogy like
+that. We were a little bit, it sounded
+cool. We didn't really know what that
+meant. John and I don't watch sports at
+all from for for basically for basically
+like two decades now. Uh I'm in my late
+20s, John mid30s. And and and we've
+followed tech in business the way that
+our college friends follow sports. So
+the com in sports, you have players,
+personalities, coaches, managers,
+leagues, teams, and and people obsess
+over all the details. I never fully
+understood that. I mean, I I understood
+kind of the draw, but it just was never
+for me. whereas John and I would pick up
+the newspaper as teenagers and we were
+tracking the uh the talent, the CEOs,
+the companies, the markets, the
+industries and it's just something that
+we obsessed over and so this year has
+been amazing as these AI researchers
+have been getting these sort of
+superstar max contracts, which is what
+we would call them. We would start
+joking on the show and be like, "Look,
+this guy just went over to Meta. It's
+probably, you know, four-year contract,
+you know, one-year cliff." And it just
+got more and more and more real as the
+kind of demand for world-class AI
+researchers completely outstripped the
+supply. And we actually put out
+something a couple days ago called the
+Metis list. And John can go a little bit
+more into into the name behind that. It
+was kind of our take on the Midas list
+which was we built a list of top roughly
+a hundred AI researchers and rank them
+on a bunch of different factors. And so
+when you talk about what goes into what
+makes a great, you know, AI researcher,
+there's a bunch of different factors.
+One that you can get right into the
+numbers with is like citations. So if
+somebody's a researcher, they've been
+publishing, you know, studies, papers,
+etc. for quite a while at this point.
+And you can just see quantitatively what
+their contributions have been to the
+industry. And so that's like a good
+starting point to understand. And
+historically, Elon even said earlier
+this week, honestly, it was like an hour
+after we posted the medicine list,
+probably unrelated, but who knows? He's
+basically saying that AI researchers and
+a and engineers, we're just going to
+call them engineers now. And that's
+makes a lot of sense for someone like
+Elon to do as somebody who's always been
+you know very engineering focused less
+focused on you know entirely net new
+innovation more so how do we make the
+best possible versions of products that
+exist and it's not to say that he hasn't
+innovated in a bunch of different ways
+but it is a really wild moment in time
+and it's been a fun moment because
+historically you hear about this Midas
+list investor you making $2 billion of
+carry on some deal or this founder, you
+know, IPOing. Today we have, you know,
+the Figma IPO and uh, you know, there's
+bunch of people that are going to make
+billions of dollars there,
+&gt;&gt; but you don't hear about the hundth
+engineer that was hired making
+&gt;&gt; a$und00 million signing bonus. And all
+of this makes a ton of sense in in the
+context of what John said because you
+look Meta's up, I checked this morning,
+$195 billion new uh market cap and think
+about how many hundred million dollar
+signing bonuses you can make against
+that kind of market cap.
+&gt;&gt; Should we answer your question about who
+the
+&gt;&gt; who's the best I want to have in my
+collection?
+&gt;&gt; The uh who is the white whale from the
+novel?
+Don't say anything about whales or whale
+products or hunting large
+&gt;&gt; tired tired of me hearing about perhaps
+he's the white whale perhaps he's the
+Michael Jordan of AI researcher but
+Ilaskver is really he's at the top of
+our list for a variety of reasons and he
+if you're if you're not familiar with
+Ilia Sitzkver he is an AI researcher who
+was at openai for a long time and
+there's a few different ways to
+characterize him he is both coming up
+with new ways is to implement AI
+algorithms the way you train the model
+but he's also very good at for a long
+time identifying which the shortest path
+in the tech tree so there are there are
+branches of choices that you need to
+make as you develop the new AI models
+and he was very early at while he was at
+openai he identified that the
+transformer paper from Google he didn't
+invent that it was at Google but the
+transformer technology was extremely
+important and that it had the ability to
+do remarkable things when scaled up
+massively. And so he was the driving
+force between kind of identifying the
+transformer as a as the correct path.
+Now we look back on attention is all you
+need, which is the name of the paper
+that defines the architecture that is
+used in these modern large language
+models that you use when you're in chat.
+There were 25 other potential paths that
+we could have gone down. He you know the
+story goes is that he really identified
+that and said let's go really really
+hard on that.
+&gt;&gt; So he can sort of identify the
+innovation what's new and then also
+identify the most efficient path to
+actually execute on.
+&gt;&gt; Yes. And if you're familiar with what
+the more the more modern so the first
+arc of LLMs and these chat bots scaling
+up were really this pick the transformer
+paper understand that that's the correct
+architecture and then scale it up really
+really big. So you need to be able to
+not just write the code to implement
+that that particular algorithm. You need
+to marshall the capital to say we're
+going really really big and we're going
+to build the big data center. We're
+going to spend a lot of money but it's
+going to be worth it because we
+understand the trade-offs here.
+&gt;&gt; Then the second kind of innovation or
+correct call he had was during the Sam
+Alman ouster and return he was working
+on a project that was cenamed.
+&gt;&gt; And there was a lot of speculation about
+what Qstar was. Was it the secret
+superintendent?
+&gt;&gt; Everybody was saying, "What did I see?"
+&gt;&gt; Yes. Yeah. Because he he was going back
+and forth in support of Sam Alman and
+then leaving and then and then it was
+back and forth and there was a lot of
+drama there.
+&gt;&gt; Always keep them guessing.
+&gt;&gt; Always keep them guessing for sure. And
+so there was there was a lot of rumors
+but what it wound up being was just
+reasoning which is now what is available
+in uh if you use any of the O3 models in
+Chat GPT or you use DeepSseek R1. And
+it's it goes by a number of different
+names. the project was rebranded
+strawberry and then the oer and um you
+can think about this as the test time
+inference is the other buzzword but
+basically the LLM you're using the same
+foundation model but you're running it a
+ton more to come up with a bunch of
+potential answers to questions and then
+narrowing that down and essentially
+applying what's called reinforcement
+learning to the transformer architecture
+and the pre-training that's happening
+and so he was very critical in leading
+that project and so that's allowed him
+to eventually once he left OpenAI go
+start a new company called Safe Super
+Intelligence SSI and he's gotten that
+company to what a $30 billion valuation
+billion $32 billion valuation
+&gt;&gt; which ties into the talent war because
+uh I think it's I don't know that it's
+been officially announced yet but people
+are expecting uh Daniel Gross to join
+Meta at
+&gt;&gt; who was the CEO and co-founder of that
+company SSI and so back to your back to
+the white question
+&gt;&gt; think about the dynamic here
+&gt;&gt; if you guys get together. They start a
+company. Within a year, it's worth $32
+billion.
+&gt;&gt; Yeah.
+&gt;&gt; And one of the people on that team
+decides to actually leave and go join
+Meta. It sounds insane. Probably leaving
+billions of dollars on the table. But
+the you can kind of trace the this
+talent war actually back to the OpenAI
+founding team. When you think about all
+the different players, right? You have
+Meera Marotti who's now uh with Thinking
+Machine. She was the CTO of OpenAI. You
+have Ilia Sutzkver with SSI. you have
+Elon with XAI and not to mention you
+have these sort of hyperscalers who are
+also competing for the same talent. So
+yeah, that that's really kind of the the
+origin story in the Genesis and it's
+been amazing to see OpenAI's progress
+despite, you know, the the recent
+reporting is around, you know, losing a
+bunch of top researchers, which is real,
+but it wasn't that long ago that they
+lost like two very very very key senior
+execs in Ilia and uh Mera.
+[Music]
+So, a few stats. We're recording this,
+by the way, July 31st. Meta came out
+with uh earnings last night. The stock
+is up like 10%. It's up like 150 billion
+more dollars. The other thing is, and I
+think this gets ties into the uh logic
+behind the comp, so they're going to
+spend like something like another 70
+billion on capex and stuff like that.
+So, we know these are incredibly
+computationally intensive things.
+They're electricity intensive things.
+You mentioned paper citations, but also
+actually having the experience of one of
+these runs. And it does seem very highly
+intuitive to me that if you've done it
+before and if you could even cut down
+the cost of a training run or set up a
+big computer rack for
+&gt;&gt; you can pay for very quickly 5% less,
+right?
+&gt;&gt; This exa this is% what just happened
+instantly pay then you instantly pay for
+your salary. I could say because and
+this is different from the B2B SAS era,
+right? Because you can there's these
+huge capeex costs. If you can just
+marginally improve the efficiency of
+that, that pays that 100 million seller
+salary.
+&gt;&gt; Yeah. And and so this this literally
+just happened right before uh Mark
+Zuckerberg went on the talent
+acquisition spree that he's been on for
+the last few months. Meta's main AI
+model is called Llama and they've
+released a series of versions of that
+model and Llama 4 was the latest and
+greatest and it didn't go very well and
+the rumors about why it kind of failed
+to deliver on expectations was that they
+kind of went down the wrong path in the
+tech tree and they focused a little bit
+too much on pre-training scale insanely
+costly. So, so they've released a part
+of Llama 4, but they have yet to release
+Llama 4 behemoth, which is their biggest
+model, the most the most aggressive, and
+they had just like little details in the
+implementation, little choices of how
+you chunk the attention in the
+transformer model. You know, we're
+operating at this level of abstraction
+up here talking about, you know, it's
+it's a prediction model and then we talk
+about transformers a little bit. There
+are sub algorithms within these systems
+that you make the wrong decision and you
+could get a vastly different outcome.
+&gt;&gt; Your electricity bill goes up by 100
+million.
+&gt;&gt; Exactly. So all of that money that was
+spent on that electricity and that and
+that build out of course Meta can absorb
+that. But when you think about the the
+cost of getting it correct
+&gt;&gt; one thing is is a lot of these projects
+will be energy constrained too. So
+efficiency is going to matter a lot. It
+hasn't been the core focus today. If you
+talk to anybody at the big labs, they
+are focused on maxing out intelligence
+at the cost of efficiency because they
+know they can, you know, you want to be
+on the bleeding edge. You want to have
+the smartest model. You want to be, you
+know, there's debates around which
+benchmarks actually matter, how
+important AI benchmarks really are, but
+energy is going to, you know, a lot of
+people are saying Zuck won't even be
+able to spend as much as he wants to
+spend on data center development purely
+because of the energy constraint.
+&gt;&gt; Yeah. M can you talk a little bit about
+what happened with Wind Surf cuz this is
+this is the one that seems to have like
+captured everyone's attention in part
+because there was the drama of it almost
+seemed like it came out of like a
+Silicon Valley um the show script or
+something where all the employees were
+gathering expecting to hear that they
+were going to be bought by Open AI and
+then they find out that actually their
+CTO has just been bought by someone else
+completely different and they're sort of
+left in the
+&gt;&gt; CEO. Oh, was it the CEO? top
+&gt;&gt; CEO and top 50. Well, how about I give
+some prehistory on acquires and you can
+take take us through that actual
+weekend. So, there has been a trend of
+sort of these zombie aqua hires.
+Everyone has different names for this,
+but effectively when a very large
+company, usually a hyperscaler, wants to
+go and acquire a company that has AI
+talent, they used to just buy the whole
+company. And this was part of the
+Silicon Valley social contract that even
+if I am in operations or sales or
+finance or HR, if I join a hot startup
+and it gets acquired, I'm coming along
+for the ride
+&gt;&gt; and I get the job at Google at least for
+a little bit and then yeah, if I
+underperform Google or Meta or Amazon,
+they might lay me off. But even if I'm
+somewhat redundant, I'm coming along for
+the ride and I'm cashing out my shares.
+And these the reason that you go and
+take the risk and take the little bit of
+the rougher ride that is a startup. You
+don't get as many amenities, but you get
+the lottery tickets in the form of stock
+options that hopefully pay out. But
+there's a big question about how much of
+this is the acquirer just not wanting to
+deal with the dduplication of the back
+office. There's also the question of the
+FTC. A lot of the FTC rulings have made
+it much harder to get these these big
+acquisitions across the finish line. And
+even if they even if the FDC does
+approve, they can often hold it up for
+six months. And we're in a race where if
+you deliver the best model today, you're
+going to make more money. You're going
+to be the hot company. You're going to
+acquire. It's all this big snowball. So
+companies this started with there were a
+few but character AI was the big one
+with Nome Shazir who was
+&gt;&gt; and very very interesting situation
+where so Gnome wanted to go back to
+Google which made sense. Google wanted
+him there as well.
+&gt;&gt; He's one of the greatest AI researchers
+of all time.
+&gt;&gt; Yes. And so having him go back there
+made a lot of sense. I think he had
+built this platform. He built like the
+first atscale AI companionship platform.
+If you look at Character AI's site
+traffic today, I mean, it's it's one of
+the largest sites on the internet still,
+which is wild. But I think he realized,
+I want to work on AI research. I don't
+want to work on AI girlfriends,
+boyfriends, that that kind of thing. And
+as part of that deal, Character AI
+effectively became entirely
+employeeowned.
+And they had a really strong balance
+sheet. They had a crazy amount of users.
+they weren't monetizing maybe that well
+yet. But I think a lot of the employees
+in that situation were like this is
+pretty cool. We're basically running a
+co-op where we all own a lot of this
+company. We don't have investors. We
+don't have the same kind of pressure to
+perform. And that space is competitive,
+right? You even Elon is is competing
+there now. ChatGpt gets used as a
+companion, but not competitive like
+codegen. And so that was the dynamic
+here that was insane because Google
+clearly cares about code generation.
+They see Anthropic adding they went
+from$1 to4 billion dollars in uh run
+rate this year. They're they're pacing
+to be somewhere around 10 at the end of
+the year. And so that's a Googleiz
+market, right? Google's going to
+ultimately care about codegen. So it
+made sense for them to say, hey, let's
+get, you know, 50 more hyper talented
+engineers. This is winter we're talking
+about.
+&gt;&gt; The issue though is if you didn't get
+brought over to the Google ship, you
+were on what I what I was calling a
+ghost ship. John, everyone who was pro
+the strategy, they would call it the
+remain coordin
+but but imagine you're at a company and
+and the dynamic with windsurf was
+fascinating because the company if you
+had joined in August of last year
+windsurf you could have the product
+hadn't launched yet. So you could have
+worked and worked up to the product
+launch, launched it, seen this meteoric
+growth. The last reported number they
+had was some something like 80 million
+of ARR. You have a term sheet to get
+acquired from OpenAI for $3 billion.
+And that falls through and then all
+these employees are looking around and
+they're like, "Wait, I didn't even hit
+my I haven't even hit my one-year cliff
+yet. I don't actually have a right to I
+mean I they might technically own shares
+or or options depending on how it was
+structured but they as I'm sure everyone
+here knows you often times like some
+sometimes founders would would try to
+accelerate their employees get them
+compensated as part of a transaction
+like that but there's not necessarily a
+contractual right to do that and it's
+part of a negotiation and so in this
+case you have this team that's
+effectively split up And we were
+covering the whole thing live because we
+were hearing that, you know, employees
+that Friday were like crying and there
+was a ton of confusion and chaos and
+everybody was learning facts kind of
+over that 48 hour period. Luckily, our
+friend Scott Woo at Cognition, the
+company that ultimately bought the
+remain co flew to meet the Windsurf
+team, the new CEO Windsurf, and
+basically spent the weekend doing this
+insane deal. And it ended up being a
+great outcome, I think, for everybody
+involved. would surf have their like
+marketing department in the room or
+something when they made the
+announcement, the initial announcement
+and everyone was like because they were
+expecting to be bought by OpenAI, right?
+So they're like we're going to film this
+for posterity and then it turns out to
+be something completely different.
+&gt;&gt; Yeah. Yeah. I believe the timeline is
+that you know Windsurf launches a year
+ago is in a knockout dragout fight with
+Curser. Curser is doing very well.
+They're also growing to 80 million or so
+opening up. Cursor is in the hundreds of
+millions of revenue. And so Windsurf was
+very clearly the number two player in
+the AI IDE market.
+&gt;&gt; Yeah. And so Curser is staying
+independent, but OpenAI wants to
+continue to get a foothold in this
+space. So they make an offer that falls
+through. The rumor was because Microsoft
+would have had IP look through exposure
+via the more complex OpenAI structure
+&gt;&gt; which is ongoing
+&gt;&gt; which is continues to be ongoing. And
+then when when Google came through, they
+said that they wanted just to buy the
+team, leave the remain co because it's
+potentially cleaner from an FTC
+perspective, but there's a whole bunch
+of different reasons and no one really
+comments on exactly what happens. But
+when these deals happen, this just
+happened with Scale AI and Meta, the
+CEO, even though there's some sort of
+amorphous FTC risk, the the CEO, if
+they're going through one of these
+zombie acquisitions, does have the
+ability to kind of set the team up with
+certain expectations and say, "Hey,
+we're going to take care of you. Trust
+me, you're going to get a check that you
+would expect based on your ownership."
+So, if you own 01% of the company, you
+you would expect that you get X of the
+headline number. And yes, it's coming to
+you. The weird thing about the wind surf
+deal was that that was not messaged. And
+so there was there was like this the
+zombie ship was more zombified.
+&gt;&gt; So like
+&gt;&gt; Well, yeah. And and imagine imagine
+you're in a you're in a hyper
+competitive market where you're
+competing with Google and Anthropic and
+Cursor and and all these different
+players and then you lose your CEO and
+your top 50 engineers and they're like,
+"Guys, don't worry. You guys have a
+strong balance sheet. You guys are going
+to do great and we're also going to be
+we're also going to be competing with
+you at at at Google. But you guys are
+going to be fine. Good luck, guys. And
+so and great. Thanks. Thanks for the
+help.
+&gt;&gt; But but this but like okay cognition
+came in. It sounds like all the
+employees will get something. It's not
+the end of the world.
+&gt;&gt; Yes. Because there was cash on the
+balance sheet that got dividended out.
+&gt;&gt; But it didn't have to be that outcome.
+And so there's two things here that
+strike me. One is again this does not
+seem like the B2B SAS era where it's
+like if you created the hottest billing
+product for dentist offices
+&gt;&gt; and that was gathering traction no one
+would like just buy the talent that
+built that so that's really different
+right because the so the I the ability
+to take value out via the talent channel
+rather than buying the product itself
+but then also and I'm just you know the
+knock-on effects okay fine the wind surf
+employees did fine but going forward
+there's no guarantee that they could
+have and so I'm wondering from either a
+VC perspective or a future employees
+perspective, how this is going to change
+the sort of calculation that anyone
+makes when participating in a new AI
+startup. The fact that the enterprise
+may not be where the value actually is.
+&gt;&gt; So the first question is like this kind
+of is the example you gave of like
+buying the team that built the dentist
+B2B SAS because Windinsurf does not
+train foundation models and Google is
+exceptional in training foundation
+models with Gemini and Deepmind. The
+deep mind team is is extremely well
+staffed on AI researchers and
+continually seems to push the frontier
+both in qualitative and quantitative
+metrics.
+&gt;&gt; And if they were weak anywhere, it was
+maybe product.
+&gt;&gt; Exactly. And so this is the like I don't
+want to be like they're just product
+people. Um Windsurf has some amazing AI
+researchers, some amazing AI engineers,
+but what Windinsurf really did, they did
+not train a frontier model that was
+about to disrupt Gemini. Yeah. Deep
+Mind's foundation model, they were going
+after, you know, would you use a Google
+product? No, you would use Windsurf on
+top of Anthropic or or another
+foundation model.
+&gt;&gt; And ultimately, I I don't I don't think
+it's a systemic risk to the social
+contract of
+&gt;&gt; our industry. And the reason for that is
+that when when you see a deal like the
+the Google Windsurf deal get done, it
+was very concerning. A lot of people
+were extremely angry. It ended up being
+a good outcome. A lot of employees were
+looking around probably concerned about,
+you know, is the million dollars of
+stock that I've been working for for
+years worth anything at all. I think
+that was a good question to ask. But I
+think there's two things. One is this is
+AI is a category and of course it's
+touching kind of every category of
+venture in the private markets. But
+we're not seeing you're not seeing a
+defense tech founding team or
+engineering group get there's no real
+aqua hire value there. the aqua hires
+that are getting done in hard techch are
+hey you you clearly have good
+engineering capabilities we're happy to
+have you join the team but there's no
+like real premium being placed on that
+kind of talent might be able to get a
+great comp packages but they're
+certainly not getting these sort of
+multiund million premiums the other
+factor here is like we have a set like
+right now if you are one of the top 100
+AI researchers you could probably get a
+hundred million comp package like within
+a week if you really wanted it, right?
+And there's even people that are at
+thinking m you know the reporting from
+this week was that and it was kind of
+hotly debated but that people at
+thinking machines mirror Marott's
+company former CTO of open AAI were
+turning down these sort of hundred
+million multiund million dollar there
+was a rumor that somebody had turned
+down a billion dollar 5-year contract
+and I don't believe that those deals
+will be getting done in three years.
+Now, I might be wrong and there's going
+to be like probably some exceptions, but
+the idea that the 30th AI researcher on
+your team is going to make more than a
+Mag 7 CEO, like that doesn't feel
+hyperainable.
+Either Tim Cook has to make more money
+or research to make less.
+&gt;&gt; Tim Cook is looking in existences on
+Wall Street where like a top trader, top
+deal makers consistently make more than
+or will often make more than the CEO.
+Citadel.
+&gt;&gt; Oh, absolutely. Because they're the ones
+that get the money in the door.
+&gt;&gt; Yeah.
+[Music]
+Can you talk a little bit more about I
+guess the fungeability of the IP here in
+both the practical and legal sense? So,
+if I'm a VC or some sort of investor, I
+invest in an AI company because I get to
+own that technology, that intellectual
+property, but then let's say the main
+guy walks out the door, gets hired by
+Google or whoever. Like, how much of
+what he learned at his original firm or
+developed is immediately going to be
+replicated at Google? I bet
+&gt;&gt; almost all of it.
+&gt;&gt; Yeah. I guess this is like this is a
+long way. That's exactly why they're
+paying that much money. This is a long
+way to think of saying how many lawsuits
+are we going to get after all these aqua
+hires.
+&gt;&gt; So I think one one way you can look at
+some of Zuck's deals are like
+unauthorized aqua hires. It's like the
+other CEO is not even participating in
+the deal. But you know Zuck is able to
+come in and be like would I pay if this
+if these 10 people were working on a
+company independently? Would I pay a
+billion dollars to bring them onto my
+team? 100%. Okay, let's do the deal.
+doesn't matter that you're kind of
+piecing it all up from a uh I think
+going back to like the kind of Wall
+Street example of like a top trader who
+maybe is like putting up consistently
+incredible returns with some sort of
+like differentiated approach. That
+person can go and as long as they have
+capital at the new company, they're
+going to be able I imagine to continue
+to just follow that same type of
+strategy. I do think that AI and and
+large language models are somewhat
+different in that you have to look at
+what is the the AI product that these
+companies are going to sell. How much of
+an impact is that individual engineer
+researcher going to have? And you know,
+it's fairly obvious with OpenAI, they're
+a consumer tech company, right? They
+sell subscriptions to chat GBT. They
+have some other use cases. It's obvious
+at companies like Anthropic where
+they're in the code generation business.
+They don't really have a consumer
+business. And at Meta, it's a little bit
+less clear right now because the sort of
+ongoing product strategy is not entirely
+clear yet. The the thing that is obvious
+is that if you can make a $20 billion
+training run more efficient, then you
+pay for yourself pretty quickly.
+&gt;&gt; We should just point out the Wall Street
+analogy is not perfect, right? Because
+if you're a high-f flyier at a Wall
+Street firm, either client-f facing or
+if you're trading, if you join someone
+else, you usually have a non-compete
+agreement in one form or another. So,
+you can't take all your existing clients
+with you. And then B,
+&gt;&gt; you're off and on an enforced gardening
+leave for a really long time.
+&gt;&gt; Oh, yeah. I imagine in the massive race
+that is AI at the moment uh there's no
+gardening.
+&gt;&gt; Also the nature of the intellectual
+property I believe is a little bit
+different still. I think of this I think
+it's a 2012 example from Citadel in
+Chicago where a high frequency trader uh
+stole some code and they sent and he had
+it on his hard drive. You know the
+story?
+&gt;&gt; Yes. It was really famous when it
+happened. He like sent it to himself or
+something.
+&gt;&gt; Yeah. Yeah. So, so he exfiltrated some
+code, some very, you know, definitive
+code of how to make money in the market
+and get an edge. And they he figured out
+that they were on his trail and he threw
+his hard drive into the river and they
+sent scuba divers into the river and got
+it back. I didn't know that.
+&gt;&gt; The other the other high-profile SV
+example was the guy going from Google
+self-driving to Uber.
+&gt;&gt; Oh, yes. Yeah. And and and so and so
+taking specific code, that's not
+happening.
+There's probably going to be like one
+example of this that pops up, but mostly
+it's just you get someone who says, "I
+understand that at my previous job, we
+scaled up the transformer a little too
+far and we didn't focus on reasoning
+enough and so we need to shift this
+spend to test time inference and it's
+almost like you're leaving you're
+leaving a company and you're and you're
+just you're you're leaving with like a
+mindset of of like the right balance of
+capex to opex or something. And then
+what was the recent Jane Street example
+that came out in that lawsuit around was
+it the the trading strategy where it
+only we we only really all learned what
+was happening because there was this
+lawsuit over over basically the team
+bringing over some type of IP or
+methodology.
+&gt;&gt; Yeah.
+&gt;&gt; Can we talk about like the broader
+&gt;&gt; sort of economic world right now because
+there's a bunch of other sort of things
+going on and things that you talk about
+touch on them. Last last thing because I
+think it's pretty interesting. So we put
+out the medicine list. I think it was
+Monday and we immediately had a ton of
+inbound from a lot of these researchers
+basically like critiquing like the
+ranking, right? And the ranking was like
+we got we got people that work in AI to
+kind of like rank them. We
+&gt;&gt; This is the beauty of ranks. You you get
+so much sourcing.
+&gt;&gt; Amazing. I understand why every firm
+puts out market.
+&gt;&gt; This is the beauty of ranking. There's
+one uh there there was one example that
+was interesting where somebody that was
+ranked fairly high that I know has
+gotten one of these nine figure comp
+packages and somebody that worked with
+him basically said this person was
+kicked off of every team they worked on
+and just like effectively like over a
+multi-year period like consistently
+demoted over and over and over and back
+now now like got you know this
+incredible
+&gt;&gt; can you factor in soft skills into your
+rankings? Well, yeah. And and it was it
+was more of like a technical ability
+thing. It was not even I think soft
+skills are getting a little bit uh you
+know, they don't they don't
+you don't care that LeBron James like
+might get a little angry at somebody if
+they underperform, right?
+&gt;&gt; Yeah. Sorry.
+&gt;&gt; No, no, no, no, no. this guy. So this
+phenomenon of like superstars like it's
+not just it's not just in tech and like
+we see it I mentioned in journalism
+where you know the sort of like median
+reporter job in a newsroom a lot of
+that's hollowing out but you have some
+people who become insanely well
+compensated either because they're
+really smart and they write a great
+newsletter or they're really
+good-looking and they can do
+front-facing video etc. or you know like
+the four of us you know like can do
+something on video or something like
+that. you see it in a range of areas and
+then like the amount of betting that's
+going on which of course adds to this
+and so the fact that all of these events
+there's some market out there that you
+can bet on that and I'm curious like
+from your coast you know you're here in
+New York but from your coast what does
+the world look like in terms of just
+like the state of this economy
+&gt;&gt; yeah there's something interesting going
+on in tech where the idea of a company
+going from a hundred billion to a
+trillion seemed unfathomable
+&gt;&gt; and there's this take that in fact that
+was the easiest 10x of all
+&gt;&gt; where the hardest 10x was going from
+zero to one, from going to zero to a
+million dollars and getting these
+systems, inventing page rank, and then
+once you had Google humming at a hundred
+billion dollar market cap, getting to a
+trillion, not to, you know, knock at the
+work that they did to get that, but but
+these the the numbers have just kept
+growing and growing at internet scale,
+at internet speed. And so the the
+leverage that you're getting from an AI
+researcher is ever more increasing. And
+it just adds 10x every couple years. And
+so you're seeing the comp packages
+increase that way.
+&gt;&gt; You have couple things like the internet
+is the greatest distribution engine for
+information and digital products and
+apps and services ever. And so at least
+in venture that just means that
+everything is faster now. Even in media
+too. If you're if you are somebody's
+working at at a at a legacy media
+company and they set up a Substack, they
+can get a million dollars of ARR on the
+first day that they launch. If somebody
+is working at a media company and and
+really good at a certain type of YouTube
+video, they can launch and immediately
+the YouTube algorithm will serve that
+video to all of their fans within the
+first week.
+&gt;&gt; And that what that does is it it it just
+changes, you know, the power dynamic
+between media companies.
+&gt;&gt; Leverage come in through financial
+markets. If you can lever up or or just
+marshall more capital, one idea can
+generate billions of dollars in value.
+Same thing in technology. But we aren't
+seeing it everywhere. I don't think
+we're seeing it in hard skills
+woodworking like unless you get into
+true like art territory. But there is
+this interesting question about like
+what's up next. And we were kind of
+noodling on like there might be a law
+firm in the future that's extremely high
+leverage in the same sense that you
+might have a lawyer who's so good at
+what they do and they are so good at
+resolving these and and the connections
+and everything that they're doing.
+They're making billions, but they have a
+very very lean team. And so you see a
+much a much steeper power law in in law.
+And there's a there's a number of other
+professional services that are going
+through like a transformation with
+technology bringing increased leverage
+to the profession and that could drive
+more of that power outcome in terms of
+earnings.
+&gt;&gt; Yeah. the the thing, you know, in the
+private markets on on the West Coast,
+which is the dynamic right now that's
+fascinating, is like I feel like a lot
+of people have like a little bit of PTSD
+from the 2020 to 2022
+era where many of the things that in
+hindsight were incredible top signals
+are like all pop popping up again right
+now. And like we like we like track we
+track them just for fun. We're not in
+the business of like calling calling the
+top or anything like that. In in many
+ways it feels like you know there's so
+many positive indicators but the
+interesting dynamic in in venture is
+like as as an angel investor I've
+invested in probably 65 or so different
+companies at the preed to series A stage
+and there was a bunch of deals that I
+did in 2021 2022 that ultimately like I
+paid too much or just like the team
+wasn't good enough to execute against
+the vision they had. But there was also
+just like a handful of deals that I did
+that that have been, you know, performed
+so well that it doesn't matter that I
+did a bunch of silly deals. And so
+venture right now is this interesting
+kind of dynamic where everybody knows
+that it's crazy, right? You have
+hundreds of billions of dollars of of
+value created in the private markets
+that there's a lot of real revenue
+growth, but there's also hundreds of
+billions of dollars of value tied to
+zero revenue, right? And I think that
+there's something that we've been
+tracking is like this underlying kind of
+feeling from people that are maybe under
+30 of there's like this meme that's
+become very prevalent and I think it
+explains a lot of economic activity
+today which is young people feel that
+they have two years to accumulate
+capital to escape the permanent
+underclass. And so I think that drives a
+lot of investing activity today in that,
+you know, you'll see young people on the
+timeline saying that like you'd be
+stupid not to use leverage, you know,
+and they're and they're just like, you
+know, they're not a professional
+investor in any capacity. Um,
+&gt;&gt; don't do it.
+&gt;&gt; And you know, any anytime you have
+people in venture making public market
+stock predictions, we get a little
+concerned.
+&gt;&gt; Are we going to get AI talent agents?
+Not AI agents. We have those already.
+But AI talent agents because like
+&gt;&gt; we do.
+&gt;&gt; So
+&gt;&gt; we do they're called venture
+capitalists.
+&gt;&gt; Oh well this
+&gt;&gt; but yes I I
+&gt;&gt; this was going to be my last sentence.
+So if the money is no longer in you know
+I invest in a startup and eventually
+they get the exit, they get acquired or
+they list or whatever. If the money is
+in eventually the guy that started the
+startup gets bought by someone like Meta
+or whoever,
+&gt;&gt; wouldn't I invest my money in that
+person versus in the startup itself?
+&gt;&gt; Indentured services. Yeah. Yeah. You you
+can't quite do that, but there are a ton
+of roles that are indexed to these high
+performance packages. And yes, there are
+people right now in Silicon Valley who
+are effectively talent agents who get a
+cut of those big packages and they help
+negotiate. Just
+&gt;&gt; what are they called? Just talent agents
+&gt;&gt; called venture capitalists.
+&gt;&gt; No, no, no. So, so, so, so you can you
+can I if you find if you find a great
+researcher and you think that, okay,
+maybe they will build a business, but
+I'm sure that they are going to be worth
+hundreds of millions of dollars a year
+and you can just invest in their
+company, you will almost certainly see a
+good return on that investment even if
+the product never gets to scale because
+when they get an aqua hire, you will get
+a payout. other scouts going to like
+Carnegie Melon Carnegie Melon and like
+going there and like finding you know
+the sophomores who are like
+&gt;&gt; oh absolutely absolutely
+&gt;&gt; it's now it's now so normalized to
+invest in college dropouts that you
+actually see people
+&gt;&gt; like investing in high school students
+&gt;&gt; I'm not kidding about this so the IMO
+gold medal is the math olympiad and
+there are venture capitalists who will
+give calls to every single student that
+performs well on the on the math
+olympiad and these are high school
+students
+&gt;&gt; so do they What are these investments
+exactly? Like are you're funding their
+tuition or
+&gt;&gt; No, no, no. It's it's it's I am taking
+10 or 20% of of a company of a Delaware
+COP most likely that that you will build
+something in and who knows where it
+goes. Maybe it turns into a great
+business. Maybe it turns into aquaire,
+but the downside is extremely limited
+because there's always this at least
+right now there's this aquaire there's
+this aqua hire on the table where
+&gt;&gt; it used to be
+&gt;&gt; but to be clear that is only in AI and
+it's only for the the people that that
+you would consider to be the top 500 in
+their industry to go back cursor wind
+surf thing like Instagram was the power
+law winner got the billion dollar
+acquisition from meta hipeatic was the
+second largest photo filtering app did
+not get a billion dollar aqua hire from
+Google, right? But now we're in the
+market where if there's a leading
+product with a bunch of AI researchers
+over here and they get a multi-billion
+dollar acquisition for the product and
+the product's working and it's growing
+and it is a great business and you buy
+it for the value of the business, then
+the second best team might get acquired
+just for talent, which is a completely
+different downside protection.
+&gt;&gt; Yeah. Yeah. And there's a lot of talent
+acquisitions, traditional aqua hires
+where it's only the talent that benefit,
+right? In the sense that they get
+basically a job offer at the new company
+and VCs get some capital back or in some
+cases a small amount of money.
+&gt;&gt; Um, can I ask a a TBPN question? Um,
+this should be like the ultimate
+compliment, which is that I got a DM
+from some random person. I had never
+seen them the other day
+&gt;&gt; and he said, um, I can build tbps for X.
+So, like that's that stack, that sort of
+live thing, which means it's sort of
+like it's become like Kleenex or one of
+these things where it's like a category.
+And where are you going with it? What uh
+what are your plans?
+&gt;&gt; Well, it's funny. It's it's it's so
+funny that people are calling it TBPN
+for X because our show, while it's
+unique in a variety of ways, looks very
+much like traditional tele which is
+interesting. And so we can't we can't
+take credit for inventing.
+&gt;&gt; We like to joke. We invented TV. We
+invented media. We invented
+&gt;&gt; also been live streaming before. And
+like normally it doesn't really I don't
+know. It's like why would I watch cable
+news on
+&gt;&gt; I think the thing that's exciting is
+that in the private markets and venture
+and tech if you had a podcast there was
+one format which was a once a week
+interview show. And it was a great
+strategy to do that 10 years ago around
+the time that you guys
+Um, no. And it's still you're going to
+stick around forever. You're locked in.
+&gt;&gt; But if we if we tried to clone this,
+everyone would be like, "Why is that a
+knockoff? There's nothing new about
+this. Nothing fresh about this. Like,
+why why do I want to go on your
+knockoff? I just go on the real thing."
+&gt;&gt; Yeah.
+&gt;&gt; So, so our edge in in launching the show
+at the beginning of the year is that
+media is not zero sum. Content is not
+zero sum. We have a friend that jokes
+that he he's so competitive. He wishes
+he wishes media was zero sum was truly
+zero sum. But our edge early was that we
+just took it 10 times more seriously
+than anyone else. So everybody that was
+creating content for the private markets
+was doing it as a part-time gig and we
+were happy to compete with a bunch of
+people that were part-time.
+&gt;&gt; Yeah. You know what? Actually, I was
+wondering in 2021 or 2022 that
+craziness. Um, someone once reached out
+to me
+&gt;&gt; and they're like, you know what, you
+should like
+&gt;&gt; Bitcoin Treasury,
+you know, you should go direct. It was
+probably the P.
+&gt;&gt; No, this but this was the this was the
+interesting thing. He said you should go
+independent and what you should do is
+attach a VC arm to it and that because
+of the quality of the guest that you
+could get, you would get really act good
+access to deal flow. But it seems like
+basically
+&gt;&gt; it was very uncomfortable to me because
+I'm not gonna like highlight startup
+founders and say, "Oh, you're the
+perfect guest." And it's like because
+like I have like 5% equity in them. But
+I'm curious about because you mentioned
+doing angel the sort of link. TBPN at
+some point be like so angsting
+platform.
+&gt;&gt; Angel investing I look at as as a hobby.
+It's not a great financial activity,
+right? Locking up capital.
+locking up I mean like you can generate
+great returns but it's not the most
+logical way to invest your time but it's
+really fun like we just enjoy supporting
+founders early when it's an idea and a
+team and it's it's just it it is
+genuinely addicting I always joke about
+uh people in San Francisco with angel
+you know people across the country
+sports uh betting addictions San
+Francisco you know uh angel investing
+addictions are I think uh real but for
+us uh for us that was you know as we
+started having some success. A lot of
+people, they would probably get a
+message a day, when's the fund coming?
+When's the fund coming? And and that's
+been a way to monetize an audience
+within tech. If you have an audience, go
+raise a $100 million fund. You get the
+fee streamers do that.
+&gt;&gt; Uh you get a bunch of upside. And we
+joke uh because we have the shows every
+single day. We go live at 11:00. We have
+to eat. We have to
+&gt;&gt; work out, prep the show.
+&gt;&gt; We have to prep the show. We have to
+talk with partners. we have to manage
+our team. There's all these different
+things. And so, somebody might
+immediately think, okay, these guys talk
+to six founders and investors a day.
+They have this like media property that
+like I think everybody in Venture now is
+going to see our content like once a
+week in some form or another if they're
+if they're online. But I joke with them,
+I'm like, "So, we're live for three
+hours every single day during the middle
+of the day. And so if if you think that
+we with a show would would effectively
+compete at VC is about winning
+allocation, right? You can be cool and
+and connected and have an audience that
+might get you a 100k allocation, but if
+you have a $100 million fund, you need
+to be putting size into deals. And so I
+know that if John and Jordy have a VC
+fund and we're competing with these
+other guys that have a live show that
+they're live for three hours a day and
+they have a VC fund, we'd smoke them
+because we'd be like, "Okay, while
+they're live, I'm going to fly to the
+founder. I'm going to meet with them and
+we're going to win this deal and we're
+going to be like, "Yeah, why don't why
+don't you let them put in like 200k?" So
+the thing is for when the VC fund is
+coming is when you start reducing your
+live hours. That'll be the sign.
+&gt;&gt; Yeah. And I think I think we we didn't
+get into this to start a fund. And I
+think there's a lot of people that get
+into content because they see it as a
+way to do that. And we just love talking
+about tech. And
+&gt;&gt; actually was the key insight was that
+not enough people Well, yeah, it's very
+fun, but not but very few people in tech
+were actually taking media seriously.
+&gt;&gt; Yeah.
+&gt;&gt; It it was everyone had a fund. Everyone
+that was the high status thing and doing
+media was like lower status or people
+didn't think it could have as much of a
+power law outcome as it very clearly
+can. And so this idea of of just what if
+you actually took it completely
+seriously and just made it the main
+thing and
+&gt;&gt; so we've had a bunch of people copy our
+format you know major legacy media
+companies all the way through friends of
+ours. Uh it doesn't really bo I mean it
+bothers me more than John but but at the
+end of the day if you want to spend
+&gt;&gt; you're the Tracy by the way.
+&gt;&gt; It bothers me too. I totally get it. And
+and so it's like we basically know so so
+John and I John and I
+&gt;&gt; basically hang out for 12 hours a day
+and the entire time
+&gt;&gt; the entire time we're thinking we're
+thinking about the show we're just
+talking about the show doesn't look very
+different than when we're hanging out
+offline.
+&gt;&gt; And so I just joke I'm like okay if you
+want to compete with us and you're
+willing to put a 100 hours a week in
+&gt;&gt; go by all means go for it. Like this
+probably your life's work but if it's
+not
+&gt;&gt; good luck
+&gt;&gt; it doesn't matter. Yeah,
+&gt;&gt; John Kugan, Jordy Hayes, thank you so
+much for uh coming on OddLots. That was
+a blast. And um and good luck and
+looking forward to continue watching uh
+TBPM.
+&gt;&gt; We'll be live uh from NY later.
+&gt;&gt; Oh, nice for the Figma IPO.
+&gt;&gt; Figma IPO and Odd Lots in the same day.
+&gt;&gt; What a day. What a day. And in the wake
+of meta,
+&gt;&gt; pinch me.
+&gt;&gt; Yes, pinch me. Pinch me.
+&gt;&gt; All right.
+&gt;&gt; Thank you for having us. Thank you so
+much for having us.
+[Music]
+&gt;&gt; Tracy, that was a lot of fun.
+&gt;&gt; It was a little bit media naval gazing.
+That's fun.
+&gt;&gt; A little bit media naval gazing. I mean,
+there is this thing that's happening.
+It's been happening in media for a
+while.
+And of course it happens in Wall Street
+but and now happening in AI where you
+just have a lot of talented people and
+they wonder about the degree to which
+they need their existing platform.
+they're you know like a star banker can
+take a book of business or a star lawyer
+can take a book of business and in the
+case of AI it's not taking a book of
+business right because they don't have
+like their individual clients but it's
+this knowledge and transport it and it's
+instantly worth a lot of money for
+someone somewhere else
+&gt;&gt; the thing I thought was really
+interesting about that discussion was
+the emphasis on how capital intensive
+all of AI is and so that kind of changes
+the the economics of why you're paying
+such massive money for someone who's
+able to like ek out even a slight
+efficiency ends up being massive.
+&gt;&gt; This is huge. This was like this it
+suddenly is what made it all made sense
+to me, right? Because we know about like
+how costly one training run is, right?
+And we know just the insane numbers for
+data center setup, etc. And I'm sure
+there's progress being made on the
+literal design of like how you string
+together uh Nvidia GPUs, etc. And so if
+you could get some marginal if you know
+have that know how to get some marginal
+improvement out of it and this is
+fundamentally what was
+&gt;&gt; $1 trillion for you but not a trillion
+&gt;&gt; no not a trillion yet but like this was
+not the case when tech was not so
+capital intensive in the 2010s where yes
+I'm sure talented people always made a
+lot of money and there's always
+improvements but where it's so that link
+between some sort of efficiency gain and
+instant cost savings is so linear and so
+straightforward. Yeah, and I take their
+point that okay, VCs exist and they're
+already investing in some ways in
+specific talent. But I do kind of wonder
+if you're going to get some sort of like
+specialized head hunters at the very
+least who are going to like seek out
+these big AI talents and try to like
+graft themselves onto them.
+&gt;&gt; Yeah. Or just uh people whose expertise
+is in reading through undersited
+undersited AI research papers
+&gt;&gt; approach to AI research.
+&gt;&gt; Yeah. We can't give you Sam Alman, but
+what if we could replace Sam Alman in
+the
+&gt;&gt; sky has 50 citations in the following
+papers. Um, should we leave it there?
+&gt;&gt; Let's leave it there.
+&gt;&gt; This has been another episode of the Odd
+Thoughts podcast. I'm Tracy Aloway. You
+can follow me at Tracy Aloway.
+&gt;&gt; And I'm Joe Weisenthal. You can follow
+me at the stalwart. Follow our guest,
+Jordy Hayes. He's at Jordy Hayes and
+John Kugan at Johncouan. And check out
+TBPN at TBPN. Follow our producers
+Carmen Rodriguez at Cararman Arman
+Dashelbennet at Dashbot and Kalebrooks
+at Kalebrooks. And for more OddLots
+content, go to bloomberg.com/odlots.
+We have a daily newsletter and all of
+our episodes and you can chat about all
+of these topics 24/7 in our Discord,
+discord.gg/odlots.
+&gt;&gt; And if you enjoy OddLots, if you like it
+when we talk about the sportification of
+AI talent, then please leave us a
+positive review on your favorite podcast
+platform. And remember, if you are a
+Bloomberg subscriber, you can listen to
+all of our episodes absolutely adree.
+All you need to do is find the Bloomberg
+channel on Apple Podcast and follow the
+instructions there. Thanks for
+listening.
+[Music]

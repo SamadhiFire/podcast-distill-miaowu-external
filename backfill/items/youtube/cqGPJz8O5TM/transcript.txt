@@ -1,0 +1,742 @@
+Kind: captions
+Language: en
+From the New York Times, I'm Natalie
+Kitroof. This is the daily.
+[Music]
+The president spoke with reporters. He
+says that the US will have a golden
+share in US deal. Shares of rare earth
+producer MP materials on pace for their
+best day in history. DoD will be MP's
+largest shareholder. After
+&gt;&gt; Nvidia and AMD have agreed to give the
+US government 15% of the revenue.
+&gt;&gt; In a series of extraordinary deals,
+President Trump has muscled himself
+directly into the business of corporate
+America.
+&gt;&gt; Friday night breaking news. It's on
+Intel. Intel stock is
+&gt;&gt; including making the US government the
+largest shareholder of Intel, one of the
+most iconic companies in the country. It
+really is almost uncharted territory, is
+it?
+&gt;&gt; It's a move that's been praised by
+Bernie Sanders and criticized by
+conservatives as socialism.
+Today, my colleague Andrew Ross Sorcin
+on what all this means and how it could
+reshape America's approach to
+capitalism.
+[Music]
+It's Tuesday, September 2nd.
+[Music]
+Andrew, we've seen Trump insert the
+government into US companies in a bunch
+of ways in the last few months, but the
+recent news that the US government was
+taking this ownership stake in Intel is
+the thing that convinced us we had to
+come to you. This was the bombshell.
+This is a major corporation and this
+kind of move is just extremely rare. and
+you as our resident expert on all things
+corporate America have been trying to
+make sense of it.
+&gt;&gt; There's no question that the decision by
+the administration to take a 10% stake
+in Intel is a watershed. It's a
+watershed not just for the world of
+business but for the much larger idea
+around capitalism
+&gt;&gt; around free markets
+around the idea that the United States
+has spent the last century exporting the
+concept of free market capitalism and
+has been critical of state-run
+capitalism.
+And in so many ways, even politically,
+this flips the entire script of the
+approach that Republicans and
+conservatives have taken towards
+business for so many years. I can't tell
+you how many business leaders I've
+spoken to over the last several days who
+are looking at this and have so many
+questions have so many questions not
+just about the particulars of the US
+taking stake in this company but in what
+it portends
+what it means. You know, the last time
+we saw anything like this, and really
+the only times this has ever happened in
+American history where the US
+government's gotten this engaged in
+business, it's been in the context of a
+crisis.
+&gt;&gt; We had this happen in 2008 with the
+investment banks, with the automobile
+makers. But it happened because those
+companies were considered in absolute
+distress and that the effect of letting
+them go bankrupt was going to be
+cataclysmic
+for the rest of the country and its
+economy.
+&gt;&gt; Right. The idea then was that these
+banks were too big to fail.
+Incidentally, the title of your book on
+this subject, the idea was this was
+necessary to contain major economic
+fallout.
+&gt;&gt; Exactly. And look, that moment unto
+itself created all sorts of debates
+around the country that last even till
+this day around the very idea of
+bailouts and how the government should
+or should not be involved in the world
+of business. And so here we have this
+example of Intel which is just the
+latest in a string of transactions in
+which the US government has taken
+effectively stakes in businesses or
+otherwise collecting tolls or other
+things that they haven't done before at
+a time when we're not in crisis and how
+that may rewrite the rules of
+capitalism. So let's talk about how all
+this started. You mentioned that Intel
+is part of this string of transactions.
+Take me through that.
+&gt;&gt; So earlier this year we saw Nippon,
+which is a steel maker in Japan, try to
+buy US steel. And the president stepped
+in and said, "I'll approve this deal,
+but I'll only approve this deal if the
+United States gets what's called a
+golden share." So this is a special
+share that has certain governance powers
+&gt;&gt; which effectively allow the US
+government in many cases to control what
+Nipon Steel does with US steel in the
+future.
+&gt;&gt; How so? In what way?
+&gt;&gt; Well, for example, if the US government
+decides that Nippon wants to close down
+a factory that's owned by US Steel, they
+could say no. In certain cases, they may
+try to even be able to require Nipon
+Steel to make investments in ways that
+Nip on Steel wouldn't normally. So, it
+just changes the complete dynamic of the
+business.
+&gt;&gt; Right.
+&gt;&gt; And then in July, we saw the Pentagon
+take a stake in a rare earth's minerals
+company, which is something we've also
+never seen the government do in this
+kind of context. And then after that, we
+saw an even more unique transaction.
+Trump administration officials, you
+know, they had been railing about how we
+should not allow our chip makers to
+export their chips to China,
+&gt;&gt; right? It was prohibited.
+&gt;&gt; It was prohibited until the CEO of
+Nvidia goes to the White House and makes
+the case to the president that they
+should be able to sell less advanced
+chips in China,
+&gt;&gt; right?
+&gt;&gt; And the president says, "You know what?
+Okay, I'll let you do that, but you are
+going to pay me. You're going to pay the
+US government a 15% tax on those chips.
+Now, some people look at that and say
+that's a 15% vig.
+&gt;&gt; What's a vague?
+&gt;&gt; A vig is like what the mafia would do.
+You take a vig.
+&gt;&gt; Uh-huh. Like extortion.
+&gt;&gt; I mean, that's one way to I'm being
+polite about it, but you can sell the
+chips, but we're going to take a piece
+of the action. We're going to take 15%
+of every chip that you sell.
+&gt;&gt; It's also just, as you said, it's a tax,
+right? which is not something that
+Republicans typically want to do. Tax
+corporations,
+&gt;&gt; it's the antithesis of what they've
+talked about for all of these years. You
+know, Ronald Reagan has a famous quote
+where he says, "The nine most terrifying
+words in the English language are, I'm
+from the government and I'm here to
+help."
+And here we are in a situation now where
+a Republican president is saying the US
+government is here to help and not just
+here to help. We want to own you.
+&gt;&gt; And then we get this intel deal.
+&gt;&gt; And that was really the biggest
+bombshell of all. And let me go
+backwards just a minute to give you the
+backstory of that because unto itself I
+think it's fascinating and it has the
+entire business world wondering what
+comes next. In this instance, Fox News
+does a report.
+&gt;&gt; The CEO's name is Lip Bhutan
+&gt;&gt; about the CEO of Intel.
+He was formerly the head of Cadence
+Design Systems, a software company
+enabling chip design, but it was found
+guilty of violating export control,
+selling the technology at Cadence Design
+to a Chinese military university,
+&gt;&gt; alleging and claiming that he has ties
+to the Chinese government. And that
+report sets off President Trump to the
+point where he literally takes to truth
+social. On Truth Social, President Trump
+wrote, "The CEO of Intel is highly
+conflicted and must resign immediately.
+There is no other solution to this
+problem."
+&gt;&gt; Questioning the CEO whether he should be
+the CEO of Intel and what's happening at
+Intel. And remember, importantly, Intel
+was a recipient of billions of dollars
+of grants from the chips act in 2022
+during the Biden administration where
+they had committed to build advanced
+chips and what are called foundaries in
+the United States. And that came after
+CO where we decided as a country that we
+needed to have a more resilient supply
+chain. We couldn't rely on all of the
+major important chips being manufactured
+in Taiwan. And so Intel is literally
+building huge manufacturing facilities
+in places like Arizona with the
+expectation that this grant money is
+coming their way.
+&gt;&gt; So they have a lot at stake in all of
+this.
+&gt;&gt; All the construction workers are there
+and they're just waiting for more checks
+to keep coming for years,
+&gt;&gt; right? So the CEO of Intel is now under
+fire in the biggest way because you have
+the president of the United States
+criticizing him, criticizing Intel,
+and he and the board of Intel go into
+crisis management mode. And what do they
+tell him to do? They say, "Go try to
+take a meeting with the president of the
+United States in the White House. This
+president loves to meet with CEOs. Call
+the White House and get a meeting." like
+make this go away. This needs to be
+solved.
+&gt;&gt; Somehow make this go away because if it
+doesn't go away, the CEO might lose his
+job and he would go away. So the CEO
+goes to the White House, sits in the
+Oval Office with President Trump and
+makes his case.
+And in the context of making his case
+for himself, for the company, the
+president has a suggestion. Well, you
+know, we're giving you all of this
+money. And by the way, there's still
+billions of dollars in grant money that
+has been allocated to you, but we have
+not sent the check yet, so you're going
+to still need that money. I think the US
+government, given the fact that we're
+helping you so much, should own a piece
+of your company. the CEO given I think
+all of the pressures around him against
+him personally and the pressure on the
+company and the pressure on the board
+says okay
+&gt;&gt; wow
+&gt;&gt; and so the president then takes to truth
+social and says that we the US taxpayer
+has just gotten 10% of the company and
+he says that we got it for free?
+I mean,
+&gt;&gt; did we get it for free?
+&gt;&gt; It's a good question. Sort of. We had
+committed and allocated this money as
+part of the chips act to Intel. That
+money was supposed to go to Intel
+anyway. Intel now is justifying its
+decision to give the 10%.
+In part because if you were to add up
+all of the dollars that the US
+government had granted the company, it
+would buy you the equivalent of 10% of
+the company.
+&gt;&gt; Do we know why Trump is doing these
+deals like with Intel, but also with
+these other companies that we talked
+about? Is there a motivation that ties
+all of this together? You know, if
+there's a throughine to all of this,
+it's the general concept that Trump
+believes, as he has articulated for
+decades, that he believes the US
+government and the taxpayer is
+ultimately getting ripped off and is
+often times getting ripped off by
+businesses
+and in many cases getting ripped off by
+other countries. That's the rationale,
+for example, behind the tariffs,
+&gt;&gt; right? and he's somebody who's saying
+there's no free lunch. If the taxpayer
+is going to give a business money, the
+taxpayer should get something directly
+from it. Historically,
+the philosophy of grants, for example,
+was that the US economy and therefore
+the taxpayer indirectly would be a
+beneficiary of giving various grants to
+different industries or businesses or
+whatnot. Sometimes we've wanted to
+increase innovation in EVs and so we've
+subsidized that in the in the past or
+windmills, something the president is
+against, but we never asked for
+something directly in return because
+what we were getting in return was
+hopefully a larger economic benefit.
+&gt;&gt; And in this case, Trump is saying we,
+the American taxpayer, the American
+government, we need something much more
+tangible than that. very much so. He
+wants to be able to say, "I gave out x
+amount of money and I can look right
+here and I can do the math and I can
+show you that we got x amount back and
+then some."
+&gt;&gt; And it's not just money compensation
+that he's getting in these deals. He and
+the US government are also getting
+control. Control over these companies,
+sway over their decisions. This is
+something that we've seen the Trump
+administration do over and over again
+with a bunch of institutions in this
+country. In this case, what is that
+control about?
+&gt;&gt; There's two things going on here. One is
+this issue of national security. The
+president has been very outspoken about
+his worries that China is going to one
+day take over Taiwan. And if that
+happens, the US is going to be in a real
+problem spot because most advanced chips
+in the world are made there. And so he
+says to himself that he needs to have
+more control over the idea that Intel is
+going to have success in the United
+States and he would like to have a hand
+in that.
+There's another issue which is just
+broader that has almost nothing to do
+with national security and is everything
+to do with what President Trump would
+call the art of the deal. You use the
+word control. He might use the word
+leverage.
+&gt;&gt; He likes to have leverage over somebody
+else, over a company, over an
+individual, over a country. and he is
+now finding every opportunity he can to
+create that leverage.
+&gt;&gt; He doesn't have to be able to use the
+leverage. He may not even know what he
+wants from the leverage. But leverage
+creates optionality.
+That's the negotiating theory of the
+case.
+&gt;&gt; But on the other hand, Trump isn't
+running a company. He is the president
+of America. and the tools that he's
+doing to get leverage in these cases.
+The extent of the government
+intervention, that's just a pretty big
+departure from what you normally see in
+America. There isn't all that much
+precedent for this. As you've said,
+&gt;&gt; there's almost no precedent for these
+kinds of deals in this country. There's
+precedent for them in China. There's
+precedent for them in Russia. There's
+precedent for them in France. But we
+we've always been a country that has
+advocated for this idea of free market
+capitalism. Having said that, it's not
+exactly like free market capitalism is
+somehow the most popular concept in the
+world these days. And there are a lot of
+people who look at the idea of free
+market capitalism and say it's not
+working for them. Mhm.
+&gt;&gt; And in many ways,
+Donald Trump
+is puncturing the idea that free market
+capitalism ever existed.
+He's saying free market capitalism has
+actually been a myth, that the US
+government has always been subsidizing
+all of these businesses in all sorts of
+different ways.
+And instead of pretending it's a free
+market and getting nothing for it, he's
+saying, "Give us something back for it."
+And that very idea in America is so
+provocative.
+[Music]
+We'll be right back.
+Okay, Andrew, tell us about the reaction
+to these moves, to this provocative idea
+that the government should get a stake
+or some kind of say in the companies
+that it is helping in one way or
+another. Well, the real surprising part
+of this in Washington is just how the
+politics have almost flipped. So Bernie
+Sanders, for example, loves this idea.
+When the CHIPS Act was first put in
+place in 2022, folks like Elizabeth
+Warren and Bernie Sanders were
+specifically articulating the idea that
+we should be getting something for these
+big grants. So, he's been out there for
+years advocating the idea that
+corporations should not be getting
+welfare, that all of these subsidies are
+bailouts, and that we shouldn't be
+involved in it. And if we are, we should
+be getting something for it.
+&gt;&gt; In a way, so much of what the
+president's doing is taxing corporate
+America, something the Democrats have
+long been advocating for.
+&gt;&gt; It is fascinating. You know, there
+there's so many ways in which Trump's
+economic policies just don't fall within
+traditional party politics. Tariffs
+obviously being something that
+Republicans don't typically favor. And
+this too in a kind of dramatic way
+because here you have one of the most
+progressive members of Congress saying,
+"Good, this is good." you know, his
+approach really has pulled in a certain
+subset of Democrats who look at at least
+some of his policies and say, "Yeah,
+that's what we should be doing." Now, on
+the other end of the spectrum, while
+much of the Republican establishment
+has, in truth, been pretty quiet about
+all this. They're not commenting on what
+the president is doing, there are some
+prominent conservatives who are kind of
+going out of their mind about this.
+Republican Senator Ran Paul criticized
+the deal before it was finalized,
+posting, "If socialism is government
+owning the means of production, wouldn't
+the government owning part of Intel be a
+step towards socialism?"
+&gt;&gt; The conservative commentators look at
+this and say to themselves, "This is a
+slippery slope.
+&gt;&gt; You can't just be against socialism when
+the left does it." So, if you support
+socialism, apparently Donald Trump is
+your guy. If you are a free market
+capitalist, you do not want government
+investing in public companies. It may
+prioritize government goals as opposed
+to profit maximization.
+&gt;&gt; The United States is the most dynamic
+economy in the world. They would argue
+that capitalism across the globe has
+raised people out of poverty. They would
+tell you that innovation comes from
+competition,
+not protectionism. And once you have the
+government picking winners and losers,
+and that's the phrase, picking winners
+and losers, you no longer have the idea
+of Adam Smith's invisible hand at work.
+&gt;&gt; Right. No more invisible hand. Now we
+have the very visible hand of Donald
+Trump, of the US government, the strong
+arm, if you will. Exactly.
+[Music]
+&gt;&gt; So, just to do a reality check here, as
+dramatic as these moves may be, there
+are plenty of other countries that own
+stakes in corporations that they think
+are important to national security. This
+happens in Europe. France and Germany
+have a stake in Airbus. I covered
+aerospace. That's a really successful
+company. And those countries are some of
+the biggest economies in the world.
+&gt;&gt; Sure. But we've been critical of those
+countries for years for that approach in
+large part because we look at their
+economy and we say that it doesn't grow
+nearly as fast as the United States.
+It's not nearly as dynamic. You're not
+seeing the kind of innovation out of
+Europe that you've seen out of the US
+over all of these years. Where's AI come
+from? Not Europe. Where did the internet
+come from? Not Europe. And so I think
+sure there are other places that have
+economies that work to some degree, but
+what's made the American experiment so
+successful has been this very idea of a
+quote unquote free market.
+&gt;&gt; You're saying this kind of free market
+where you limit government intervention
+as much as possible, that's a key part
+of America's economic identity. It also
+explains our success as a country, at
+least until now.
+&gt;&gt; Well, that's the argument. And the
+question is, is this just a one-off or
+is this really the beginning of
+something much bigger? You know, I spoke
+with Kevin Hasset, who runs the National
+Economic Council for the Trump
+administration, and he has said, as has
+the president, as has now Howard Lutnik,
+Secretary of Commerce, that this is the
+beginning that the administration wants
+to have stakes in more businesses.
+specifically has identified the idea
+that defense companies may be up for
+grabs in terms of the US government
+taking stakes in them given how much
+business the US government gives them.
+You know, Loheed Martin a huge part of
+their business as you might imagine. The
+US government is their largest customer.
+Should the taxpayer not just pay them
+but have a stake in the company itself?
+These are the questions. And it's not
+just defense companies. Think about all
+of the businesses that interact with the
+US government. There are construction
+companies in America whose biggest
+client is the US government. Should we
+own a stake in those construction
+companies? And this goes then to the
+competition question, which is once you
+own a stake in the business, does the
+competition end? M
+&gt;&gt; meaning the next time the US government
+has to choose between two companies that
+it wants to use for whatever maybe it's
+building an airplane maybe it's building
+a building is there actually a
+competition based on the lowest price
+and the best service
+&gt;&gt; or does the US government say actually
+we own a 10% stake in this one so we
+actually have to use this one and then
+by the way longer term does the US
+taxpayer actually pay more
+&gt;&gt; but if I could push you on that just a
+little bit. Some might argue that
+Americans already live in a world where
+competition has been stifled. You know,
+there's antitrust cases against some of
+the biggest tech companies in this
+country. And when you think about one of
+this country's biggest industries,
+healthcare, there's been all this
+consolidation. And I think a lot of
+Americans would probably say, "Look,
+we're already paying through the nose on
+hospital bills and drug costs." is the
+argument from critics that that would be
+worse if the government owns stakes in a
+lot of these companies.
+&gt;&gt; I think the critique is that you're
+right, we don't have enough competition
+in this country as it is, but that this
+would make it worse, not better. And
+think about this. The next time a
+company in which the government has a
+stake wants to buy another company, how
+would regulators think about that, for
+example? Would they say, "Well, this is
+good for the American taxpayer because
+we own a stake in it."
+&gt;&gt; Even though it would be bad for
+competition,
+&gt;&gt; you're saying it could lead to more
+consolidation potentially. It just
+changes the entire incentive structure
+because all of a sudden the government,
+the taxpayer is now an official owner in
+these businesses.
+&gt;&gt; I want to turn to the potential benefits
+that we'd theoretically be getting in
+exchange for these deals, including the
+government stakes in private companies.
+The whole argument from the Trump
+administration is that ultimately they
+are extracting better deals on behalf of
+the US taxpayer. My question is, does
+that money that the administration that
+the government may be getting from
+Intel, from Nvidia sales, from these
+other companies, do we know how it would
+actually benefit the American taxpayer?
+&gt;&gt; Well, ostensibly the benefit would be in
+the form of revenue to the government.
+And if you think about the enormous
+budget deficit which is in the trillions
+of dollars that we have today, I mean, I
+think there's no question that we
+already live beyond our means. We're
+already trying to find other ways to
+raise revenue to pay for things. I can't
+tell you where the money directly is
+going to go. Will it be used for the
+social safety net? Will it be used to
+pay down debt? Will it be used for
+infrastructure spending in the United
+States? Will be used for education? I
+don't think we know the answer to that
+question, but the arguable benefit is
+that it would go into the coffers of the
+US government and the coffers need
+filling. It's also worth noting that,
+you know, you go back to the financial
+crisis of 2008 and the US government did
+rescue the banks at that time and the
+automakers at that time and it was very
+unpopular
+&gt;&gt; and it was unpopular because people
+thought it was a freebie. People thought
+that the money was going out and was
+never coming back. And the truth is that
+the US government made a profit on that
+money. And so the benefit was that not
+only did it make a profit directly, it
+also managed to prop up those companies
+and businesses and keep them in
+business, which kept the economy alive,
+kept people in their jobs, etc. Okay,
+stepping back, I think it's probably
+worth noting that Trump won two
+elections now on the argument that this
+economic system has not worked for a
+huge swath of people in this country,
+that people had been left behind. They
+had lost good factory jobs. And so, I
+wonder if there aren't going to be
+people who look at this and say, "Sure,
+you may be kind of breaking the system,
+but that's what I voted for. There is no
+question that many Americans voted for
+Trump to break the glass. That's what
+they wanted him to do. They wanted him
+to change the way this economy works.
+Now, whether they want these specific
+changes, I think is still a big
+question. I think an even bigger
+question is how permanent these changes
+really are. You know, when I talk to
+CEOs, even in the past couple of days,
+they they talk about this phrase, a
+generational shift that we are in the
+midst of a generational shift in
+capitalism. A generational shift in the
+very idea of free markets where we own
+these businesses for decades to come.
+The decisions that get made around that
+business or industry no longer have to
+do with profits or employees or anything
+else. It has to do with potentially the
+influence of what comes from Washington.
+And who knows who's going to be in the
+White House? Maybe it'll be President
+Trump who's influencing this. But down
+the line, it could be a Democrat, could
+be Bernie Sanders.
+But when the government becomes an owner
+in the business, that influence shifts
+the direction of travel such that
+business could potentially become deeply
+political.
+[Music]
+&gt;&gt; Andrew, thanks so much for your time.
+&gt;&gt; Thanks for having me.
+[Music]
+We'll be right back.
+Here's what else you need to know today.
+In a lastminute flurry of legal action
+on Sunday, a federal judge temporarily
+blocked the Trump administration from
+deporting Guatemalan children who had
+already been put onto planes.
+The judge expressed frustration with the
+government, saying it was surprising
+that the administration had tried to get
+the minors out of the country in the wee
+hours of the morning on a holiday
+weekend.
+A lawyer for the government said the
+children were going to be reunited with
+their parents in Guatemala. But a lawyer
+for the children disputed that, saying
+that at least some of the children
+didn't want to return.
+Migrant children have posed a challenge
+for the Trump administration's
+immigration crackdown because they're
+entitled to special legal protections.
+And the death toll from an earthquake
+that hit Afghanistan on Sunday has
+climbed to more than 800 people,
+authorities said, warning that the
+fatality count would likely rise.
+So far, only a handful of countries have
+offered humanitarian assistance to the
+Taliban government. Foreign countries
+have become reluctant to send aid to
+Afghanistan in recent years as the
+Taliban faces accusations of diverting
+humanitarian assistance to their
+fighters and favoring some communities
+over others.
+Afghanistan has been battling various
+crises and hospitals have shut down
+since the Trump administration
+completely cut off all US foreign aid to
+the country earlier this year.
+[Music]
+Today's episode was produced by Ricky
+Nevetski, Stella Tan, and Carlos Prito.
+It was edited by Lisa Chow and Chris Hel
+and was engineered by Chris Wood.
+[Music]
+That's it for the daily. I'm Natalie
+Kitro. See you tomorrow.
+[Music]

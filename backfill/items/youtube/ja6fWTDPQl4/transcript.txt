@@ -1,0 +1,1871 @@
+Kind: captions
+Language: en
+The wealthiest companies in the world
+are willing to spend whatever it takes
+to improve model capabilities.
+&gt;&gt; We are entering the era of evals.
+&gt;&gt; We started working with all of the top
+AI labs. What the labs need is a labor
+marketplace. They actually need
+extraordinary professionals that can
+measure model capabilities.
+&gt;&gt; You found this pocket maybe the biggest
+business opportunity in history.
+&gt;&gt; We grew from 1 to 400 million in revenue
+run rate in 16 months. Fastest ascent in
+history. Why is this so valuable?
+&gt;&gt; The market is bound by the amount of
+things where humans can do something
+that models can't. The lab's primary
+bottleneck to improve models is how they
+can effectively have some way of
+measuring what success looks like for
+the model.
+&gt;&gt; There's this tweet that you retweeted.
+If you really think about it, we were
+put on Earth to create reinforcement
+learning training data for labs. It's
+highly likely that the entire economy
+will become an RL environment machine
+building out all of these worlds and
+contexts. And I think the narrative in
+AI over the last 3 years has almost
+entirely been one of job displacement.
+But very few companies and people have
+talked about this new category of jobs
+that's being created.
+&gt;&gt; I talked to a lot of people about what
+should I be studying, where should I be
+getting better,
+&gt;&gt; how can they leverage this technology to
+do so much more. We'll give people
+interviews where we say, "Use whatever
+tools are available to build a website
+and let's see what product you're able
+to build in an hour."
+Today, my guest is Brendan Foody, CEO
+and co-founder of Merkor. Merkor is the
+fastest growing company in history to go
+from 1 to $500 million in revenue. They
+did this in 17 months, less than a year
+and a half. Brendan is also the youngest
+Unicorn founder ever. They just raised
+$und00 million at $2 billion valuation.
+Merkore, if you haven't heard of them,
+helps AI labs and AI companies hire
+experts to help them train their models
+using AI. They've never had a customer
+turn. Their net retention is over 1,600%
+and they're on a 9 figure revenue run
+rate. In our conversation, we talk about
+the increasing value and importance of
+eval. landscape of AI training companies
+like Merkor and why they've become so
+important and valuable. How Brennan
+discovered this opportunity. His
+insights on what product market fit
+looks like. The core tenants he's
+instilled within his organization that
+have allowed him to build the fastest
+growing company in history. What people
+writing evals for labs are actually
+doing day-to-day. Which skills and jobs
+are going to last the longest with the
+rise of AI? Why he doesn't think we'll
+see AGI or super intelligence anytime
+soon? And so much more. This episode is
+incredible. You need to hear this. If
+you enjoy this podcast, don't forget to
+subscribe and follow it in your favorite
+podcasting app or YouTube. It helps
+tremendously. Also, if you become an
+annual subscriber of my newsletter, you
+get 15 incredible products for free for
+1 year, including lovable, replet, bolt,
+nad, linear, superhuman, descript,
+whisper flow, gamma, perplexity, warp,
+granola, magic patterns, raycast,
+chappd, and mobin. Check it out at
+lenniesnewsletter.com and click product
+pass. With that, I bring you Brendan
+Foodie. This episode is brought to you
+by work OS. If you're building a SAS
+app, at some point your customers will
+start asking for enterprise features
+like SAML authentication and skim
+provisioning. That's where work OS comes
+in, making it fast and painless to add
+enterprise features to your app. Their
+APIs are easy to understand so that you
+can ship quickly and get back to
+building other features. Today, hundreds
+of companies are already powered by work
+OS, including ones you probably know
+like Verscell, Web Flow, and Loom. Work
+OS also recently acquired Warrant, the
+fine grain authorization service.
+Warrant's product is based on a
+groundbreaking authorization system
+called Zanzibar, which was originally
+designed for Google to power Google Docs
+and YouTube. This enables fast
+authorization checks at enormous scale
+while maintaining a flexible model that
+can be adapted to even the most complex
+use cases. If you're currently looking
+to build role-based access control or
+other enterprise features like single
+signon, skim or user management, you
+should consider work OS. It's a drop-in
+replacement for Ozero and supports up to
+1 million monthly active users for free.
+Check it out at workos.com to learn
+more. That's work os.com.
+You fell in love with building products
+for a reason. But sometimes the
+day-to-day reality is a little different
+than you imagined. Instead of dreaming
+up big ideas, talking to customers, and
+crafting a strategy, you're drowning in
+spreadsheets and roadmap updates, and
+you're spending your days basically
+putting out fires. A better way is
+possible. Introducing Jira product
+discovery, the new prioritization and
+road mapping tool built for product
+teams by Atlassian. With Jira product
+discovery, you can gather all your
+product ideas and insights in one place
+and prioritize confidently, finally
+replacing those endless spreadsheets.
+Create and share custom product road
+maps with any stakeholder in seconds.
+And it's all built on Jira, where your
+engineering team is already working, so
+true collaboration is finally possible.
+Great products are built by great teams,
+not just engineers. Sales, support,
+leadership, even Greg from finance.
+Anyone that you want can contribute
+ideas, feedback, and insights in Jira
+product discovery for free. No catch.
+And it's only $10 a month for you. Say
+goodbye to your spreadsheets and the
+never-ending alignment efforts. The old
+way of doing product management is over.
+Rediscover what's possible with Jira
+product discovery. Try it for free at
+atlassian.com/lenny.
+That's atlassian.com/lenny.
+Brendan, thank you so much for being
+here. Welcome to the podcast.
+&gt;&gt; Thank you so much for having me, Lenny.
+I'm a huge fan and so excited to have a
+conversation.
+&gt;&gt; I'm really excited to have this
+conversation as well. I'm a huge fan of
+yours. I'm excited for more people to
+learn about you and what you're
+building. I want to start with uh a
+tweet that you have pinned at the top of
+your Twitter feed right now. And here's
+the tweet. Quote, "We are now working
+with six out of the magnificent seven
+all of the top five AI labs, most of the
+AI application layer companies. One
+trend is common across every customer.
+We're entering the era of evals."
+The reason this caught my attention is
+that's one of the most recurring trends
+on this podcast. people talking about
+the increasing value of learning how to
+do eval well and the value of evals for
+companies. Uh feels like still people
+don't know what the hell this is, what
+we're talking about, why this is so
+important. Talk about just what you
+think people are still missing, what
+they need to know, what this era of eval
+means. If the model is the product, then
+the eval is the product requirement
+document. And the way that researchers
+day-to-day looks is that they'll run
+dozens of experiments where they'll make
+small improvements on an eval set. And
+reinforcement learning is becoming so
+effective that once they have an EVL,
+they can hill climb it. Right? If you
+look at just how fast people were able
+to saturate Olympiad math once they
+focused on it, how fast we're even
+saturating Sweetbench once we focus on
+it. And so in many ways the barrier to
+applying agents the entire economy to
+automate every workflow is how do we
+measure success? How do we evalore
+is obviously a huge part of doing. So
+people hearing this are like okay okay
+I got to really pay attention to
+this eval stuff. Any advice about
+learning how to do this well? What
+companies that are doing this well are
+doing differently? like help people get
+better at this thing.
+&gt;&gt; Yeah, I think that for enterprises
+especially the core way to think about
+it is how can they build a test or
+systematic way to measure how well AI
+automates their core value chain. So if
+it's an architecture firm that's
+producing you know these like
+architecture diagrams of uh what they
+provide to their end customer like how
+can they effectively measure that right
+and each company has its own value chain
+uh or maybe a handful of them if it's a
+multi-product company uh and just
+thinking about how they measure that um
+is the prerequisite to really
+effectively applying AI throughout their
+entire business. I saw you talking about
+this on the No Priors podcast with Sarah
+and Ilad and I don't know if it was
+after this or before this but Sarah
+tweeted evals equals your new marketing.
+What do you what does that mean? What do
+you think she's saying there?
+&gt;&gt; Yeah. Well, it ties to what I said
+earlier about how if the model is the
+product, evals are the PRD, but also
+subsequently the sales collateral,
+right? Because like eval are what you
+give to researchers to show them what
+they uh should be building and going on,
+but they're also the way that you
+demonstrate the efficacy of
+capabilities. And historically,
+everyone's been pointing to these
+academic evals of PhD level reasoning
+with GPQA, humanities last exam or
+Olympiad math. Now it's moving towards
+the capabilities that people practically
+care about of how do we get models to
+automate the way that we build a
+software platform or automate the way
+that we do an investment banking uh
+analysis. Uh and I think labs will
+increasingly use labs as well as
+application layer companies will
+increasingly use eval to demonstrate the
+capabilities of their models and their
+products.
+&gt;&gt; Okay. So, let's kind of build on this
+and zoom out a little bit and talk about
+the landscape of the market that you're
+in. And I was just reflecting on this as
+I was preparing for this conversation.
+If you think about the companies growing
+faster than any company's ever grown in
+history, there's essentially three
+buckets. There's the foundational model
+companies. There's VIP coding apps,
+cursor, and lovable and bolt and replet
+and all zero. And then there's data
+labeling data companies like you. So,
+I've had the CEO of Handshake on the
+podcast. I have the CEO of Scale coming
+on. There's also Serge, there's you
+guys. Help us just understand the
+landscape of what this is all about
+because I think people don't really know
+what the hell is going on and see all
+these companies growing like crazy.
+&gt;&gt; Yeah, I'll give a little bit of the
+origin story incorporated in that and
+how it sort of frames the landscape
+because when we started the company uh I
+met my co-founders in when we were 14
+years old. Uh we started the company
+together when we were 19. Initially hire
+in January 2023, initially hiring people
+internationally, matching them with our
+friends and automating all the processes
+of how we did that. So similar to how a
+human would review a resume, conduct an
+interview and decided to hire. We
+automated all of those processes with
+LMS, bootstrapped the company to a
+million-doll revenue run rate before we
+dropped out of college. And then uh a
+handful of other things happened, but we
+met OpenAI and we saw that there was
+this enormous transition in the human
+data market where it was moving away
+from this crowdsourcing problem of how
+do you find low and medium skilled
+people that can write barely
+grammatically correct sentences for
+early versions of LLMs and moving
+towards this sourcing and vetting
+problem. How do we source and assess the
+best professionals, the experienced fang
+software engineers, the uh investment
+bankers and doctors and lawyers that can
+actually help to evaluate and interpret
+all the capabilities that people want
+models to have. So from there we uh
+started working with all of the top AI
+labs. We grew from 1 to 400 million in
+revenue run rate in uh 16 months. and
+it's been an extraordinary journey um
+and super exciting.
+&gt;&gt; Okay, first of all, that is out of
+control. I don't know if people have
+unders I think this is the first time
+you're sharing that number. I know
+recording this you'll have announced it
+by now, but
+&gt;&gt; uh 1 to400 million in revenue in 16
+months.
+&gt;&gt; Exactly. So fastest ascent uh in history
+uh which is an exciting statistic we're
+we're very proud of.
+&gt;&gt; Okay, so something big is happening
+here. Uh why is this so valuable? What
+is going on here? So it's just to try to
+summarize what you guys do simply is you
+help f hire people for labs to train
+help them train their models and you
+help them find not just generalist uh
+labor but experts helping them with very
+specific gaps in the models knowledge.
+&gt;&gt; Yeah, precisely. And so it really ties
+to your first question around the era of
+evals that's framing all of this which
+is that the lab's primary bottleneck to
+being able to improve models is how they
+can effectively have some way of
+measuring what success looks like for
+for the model both to use it as the eval
+for you know the test that they're
+measuring their progress against as well
+as the verifiers in an RL environment to
+then uh reward the model improve capab
+capabilities, etc. Um, and they need
+this across every domain for every
+capability that models don't know how to
+use. Um, and the wealthiest companies in
+the world are willing to spend whatever
+it takes to improve model capabilities
+where Merore is sitting at the forefront
+uh, and sort of the primary bottleneck.
+&gt;&gt; Okay. What are these people actually
+doing? So, what's an example of a kind
+of person that is sought after and then
+what are they doing like sitting there
+at the computer? Effectively, the market
+is bound by the amount of things where
+humans can do something that models
+can't. So, I'll make that very concrete.
+Say you have a model that you want to
+write like a red line for a contract in
+the way that a lawyer would and it makes
+a handful of mistakes, misses a bunch of
+key points in doing so. What you could
+do is have a lawyer create a rubric
+similar to how a professor might create
+a rubric to create a deliverable for
+what are the things we want the model to
+be able to do um so it can effectively
+score that right like you know plus
+however much of it identifies this or
+you know xyz key point and that's really
+the foundation to measuring what does
+progress look like for models you know
+is this model achieving the capabilities
+that these professionals want as as well
+as how do we use this as training data
+to reward and to reinforce a lot of the
+capabilities that people want models to
+achieve.
+&gt;&gt; Okay. So they're essentially writing
+evals just to connect it back to
+original conversation.
+&gt;&gt; Exactly. Well, well that's an
+interesting thing is everyone talks
+about RL environment. I feel like the
+two like hot button things are like RL
+environments and eval. But one thing
+like Andre Karpathy tweeted about a
+bunch is there there's not actually a
+nuance. It's in in the data type. It's
+more just a different semantic way of
+what uh describing what it's being used
+for. Uh but ultimately it's just some
+stasis point for like how do you measure
+what good looks like and you can use
+that either as the benchmark to you know
+the sales collateral as Sarah was saying
+to say here is why our model is the best
+model in the world and here's the
+capabilities that we've been working
+towards or you can use it on the post-
+training side to reward certain model
+trajectories and achieve those
+capabilities.
+&gt;&gt; Okay. Okay. So, say this lawyer, so this
+person is writing here's what a great
+red line contract looks like and here's
+the rubric of what excellent is. And
+then are they also providing data like
+actual examples of redline documents as
+a part of that?
+&gt;&gt; They may. So the data landscape
+historically has included two kinds of
+data. The first is supervised
+fine-tuning data which is input output.
+When people think about like fine-tuning
+in the historical sense, that's what it
+is. The second is RHF where the model
+will generate a couple of examples.
+We'll choose you know which is the most
+popular example. What everyone is
+generally moving towards is
+reinforcement learning from AI feedback
+instead of human feedback. Uh where you
+have instead the human defines some sort
+of success criteria, some way to measure
+that and examples in code. It could be a
+unit test, right? We can scalably
+measure success in other domains. could
+be a rubric and then you use that to
+incentivize model capabilities and it's
+far more scalable and data efficient and
+so that's why uh a lot of you know the
+broader trend in the market across the
+board is moving towards RLIF
+uh to both eval models as well as
+improved capabilities.
+&gt;&gt; I had the uh one of the co-founders of
+Enthropic on he uh did said exactly the
+same thing. That's what they've done at
+Anthropic is move towards AIdriven
+reinforcement learning. So essentially,
+if I can understand this correctly, I
+I'm I'm the lay person here trying to
+understand this on behalf of the
+audience. Uh so essentially a lawyer is
+like here's what correct looks like for
+redlinining. And then it's AI is just on
+its own almost just like here's all the
+I'm going to try to get this I'm going
+to try to improve on this and I know if
+I'm get heading in the right direction
+based on this eval I've been given.
+&gt;&gt; Exactly. applying all of the criteria of
+what good looks like similar to how you
+know the TA might apply the professor's
+criteria of does the uh you know
+students response meet this criteria or
+this criteria plus however many points
+etc.
+&gt;&gt; Awesome. Okay, let me shift to talking
+about the broader labor market here. So
+there's kind of two parts to this
+question as as we talk about this. One
+is just how long will we need to do
+this? Is there a point where we don't
+need like you guys grew so incredibly
+fast. Is there a point of like okay we
+don't need humans are we're c tapped
+out. Uh so let's start there and then
+I'll ask a broader question.
+&gt;&gt; So the key question is how long there's
+going to be things in the economy that
+humans can do that AI can't do. And I
+think there's certainly a bucket of
+people that say we're going to have
+super intelligence within three years
+and we you know humans won't play a role
+in the economy. Uh and that's one school
+of thought. Our perspective is very
+different. Our perspective is that these
+models are extraordinary and automating
+a lot of things very quickly, but
+there's a lot of things that they're
+horrible at. Like even still, it can't
+schedule time on my calendar. It can't
+draft emails for me. It can't use basic
+tools. And we need evals for everything.
+For everything that the models can't do,
+we need, you know, evals for the tool
+use, evals for the long horizon
+reasoning. Like imagine in 10 years when
+we want models to be able to go out and
+build a startup for 30 days. Like we
+need evals for that to effectively
+reward it. And I think that that road to
+improving models uh will last for as
+long as there is anything in the economy
+that humans can do which models can't.
+Uh and be huge portion of what the
+future of work looks like. Um and so our
+our mission is creating the future of
+work. And I I think that this is a
+really exciting industry in giving us a
+glimpse into the direction that
+everything is headed towards.
+&gt;&gt; Yeah. There's this tweet that you
+retweeted that I want to ask you about.
+&gt;&gt; If you really think about it, we were
+put on Earth to create reinforcement
+learning training data for labs.
+&gt;&gt; Yeah.
+&gt;&gt; What is that? What does that mean to
+you? What is that what is this person
+implying? And it's basically what you're
+saying is we're just helping train
+models. It it speaks to conversations
+I've had with a lot of researchers and
+executives at top labs, which is that
+it's highly likely that the entire
+economy will become an RL environment
+machine building out all of these, you
+know, worlds and contexts uh for us to
+then have, you know, rubrics or other
+kinds of verifiers. Um, and that is
+really exciting in so many ways because
+I I think like let's let's draw an
+analog to other revolutions where when
+we had the industrial re revolution,
+everyone was freaking out about losing
+their jobs. But there was this whole new
+class of jobs of how do we build the
+machines? How do we have knowledge work?
+How do we, you know, create everything
+new? And I think that the narrative in
+AI over the last three years has almost
+entirely been oneup job displacement,
+right? Uh sure there's like chatbt is
+growing fast and it's very cool and
+everyone loves using it for but from an
+economic standpoint people talking a lot
+about job displacement but very few
+companies and people have talked about
+this new category of jobs that's being
+created uh and what that's going to mean
+and how people can prepare and upskill
+for that and I think that the most
+exciting thing possible is creating that
+future of how do humans fit into the
+economy and how will that evolve over
+time. I talk to a lot of people about
+just like what should I be studying?
+Where should I be getting better? Uh
+people in school right now are just like
+what is even going to be valuable in the
+future. You're at the center of a lot of
+just what jobs are most in demand? What
+how hiring is evolving? So let me just
+ask you a very concrete question. What
+jobs do you think will remain in the
+future slash what skills are still worth
+investing in for younger people
+especially? In terms of jobs, I would
+respond with a category of things that
+have very elastic demand are going to be
+super exciting because when we make
+people 10 times more productive, we'll
+build 10 times if not a hundred times as
+much software as an example, right? And
+so I think the product managers that can
+now do so much more are going to be
+extremely well positioned. In so far as
+the skills, I think it's people that can
+leverage AI to to do whatever their
+day-to-day workflows are. Like I have
+had a couple conversations with teachers
+where they get my thoughts on how they
+should be assessing their students cuz
+you know we originally started out
+curating all of these AI interviews and
+assessments for people and have thought
+about this immensely and what we
+realized is that you don't want to fight
+against them using the models right it's
+sort of similar to like when the
+calculator come out you came out you
+don't want to give people all this this
+arithmetic homework of like how do you
+you get them to do it and and not use
+the calculator you want to tell them use
+the tools and let's see what you can do
+and so we'll give people interviews
+where we say use chatbt and codeax use
+cloud code use whatever tool cursor and
+whatever tools are available to build a
+website and and let's see what product
+you're able to build in an hour and so I
+think that I give that an example in so
+far as talent assessment because I think
+it pertains also to the skills that
+people should be honing in on of how can
+they leverage this technology to do so
+much more in whatever industry or
+vertical they're operating in.
+&gt;&gt; When you talk about elastic being
+elastic, is it like generalist being
+good at just a bunch of different things
+or or what what do you say what do you
+mean when you think elastic?
+&gt;&gt; So I more mean how much capacity for
+demand there is in that industry. So I
+I'll give a couple of examples like in
+accounting I think realistically we only
+need so much accounting in the world,
+right? like maybe there's areas where we
+can do more and that'll be good but but
+it doesn't feel like the world needs 100
+times more accounting on the other hand
+in software development right like I
+think we can ship 100 times more
+features for our products move 100 times
+faster build so much more there's just
+it feels like there's unlimited demand
+for the industry and I think um Mark and
+tweeted about this recently that
+software is the most elastic industry of
+all where when we increase productivity,
+there's so much more that will be built.
+Um, and it's definitely characteristic
+of a lot of other domains as well. And
+so I would I would focus on those
+domains where if we make everyone 10
+times more productive, that'll increase
+demand, not reduce it.
+&gt;&gt; Okay. So you're you're in the bucket of
+learn to code still useful as a skill.
+Take computer science. Okay. And so in
+terms of elastic categories of jobs,
+sounds like engineering, product
+management is in that bucket. Great to a
+lot of people listening to those PMs. Uh
+what else like design user re I don't
+know what else do you feel is in that
+bucket from what you've seen?
+&gt;&gt; Yeah, I think that there's a lot of
+things or the whole value chain of uh
+building companies as a lot of these
+like variable costs uh even large
+portions of like operations or or
+consulting, right? Like imagine if we
+could have 10 times as many Mckenzie
+consultants. what would be possible in
+so far as the research we could do, the
+analysis, etc. Um, but I think the
+companies and people that are going to
+succeed are those that lean into this
+narrative of abundance of how do we do
+so much more rather than fighting back
+against it of how do we try to stop
+displacement. So along those lines, I
+think about your second bucket, which is
+the people that will be most successful.
+It's not like a specific skill, but it's
+being good with AI, using AI to become
+more become better at what you're
+already doing. This reminds me of Elon's
+whole thing with Neurolink, which if if
+I don't know if this is how he put it,
+but the way I've always heard it is he
+wanted to build Neurolink because in the
+future when AGI and super intelligence
+is around, we need a way to compete. And
+the best way to compete is plug our
+brains into a super intelligence so we
+have a chance. And it feels like that's
+what AI is like. Getting good at AI
+tools is essentially is having the super
+&gt;&gt; superpower. Fi
+&gt;&gt; figuring out how to leverage them and
+incorporate it will will definitely be
+of paramount importance.
+&gt;&gt; Yeah. Just comes back to this almost
+cliche quote now. It's uh AI won't
+replace you. People that are really good
+with AI will replace you.
+&gt;&gt; I think I think it's totally spoton. Um,
+and I've definitely seen this at the
+enterprise level as well, where there
+are certain enterprises we talk to that
+are almost like fearful, not wanting to
+engage, not wanting to, you know, eval
+their businesses because that'll provide
+the evidence that their value chain is
+being automated. And there's others that
+I I mean, literally like, you know, some
+of the most recognized, sophisticated
+Fortune 500 businesses that that have
+this mentality. there's others that are
+leaning into it of if we have the
+ability to do 10 or 100 times more, what
+will that mean and how do we lean into
+that future because there's so many
+things that are going to change over the
+next 10 years and I think those are the
+kinds of businesses that are going to be
+successful. Let's talk about labor
+markets more broadly. You you guys So,
+it's interesting though you started not
+feeding people to AI labs, not training
+models. It was just like help people
+find jobs, help companies hire and then
+you're like, "Oh, wow. This whole
+opportunity." You have this really
+interesting view on the future of just
+labor markets and hiring. Talk about
+that. Yeah, it's interesting. I remember
+when we started the company, as I
+mentioned, we were 19 and just had this
+like gut intuition that it felt so
+wildly inefficient that labor markets
+are so disagregated. And what I mean by
+that is when we would hire someone
+internationally, they would apply to a
+dozen jobs. When we as a company in the
+Bay Area were considering candidates, we
+would consider a fraction of a percent
+of candidates that were available in the
+market. And the reason for that is that
+there is this matching problem that
+everyone's solving manually where
+they'll manually review resumeums,
+they'll manually conduct interviews and
+manually decide who to hire. But when
+we're able to automate that matching
+problem at the cost of software, it
+makes way for this global unified labor
+market that every candidate applies to.
+and every company hires from
+facilitating a perfect flow of
+information in the economy. Um, and I
+think that that future is undoubtedly
+what we're heading towards. But what
+we've realized over time is that the
+nature of work is also changing
+dramatically. And part of building that
+future over a 10-year time horizon is is
+like creating that future of work. um
+and all the more tactical things we do
+and building these incredible data sets
+across evals and RL environments for our
+customers. The way that I what I've seen
+in how hiring has changed, I'm doing
+research on this with with a partner
+Gnome. Um it's so much easier to apply
+for companies that everyone's just
+applying now to hundreds of companies.
+AI is just making it easy to adjust
+their resumes and cover letters and like
+and make it feel like oh I applied to
+more course very specifically but it was
+one of 100 places. And then on the flip
+side, hiring managers are getting
+flooded with applications. And so now
+they need AI to filter. So even if we
+didn't want to get to this place, we're
+almost being pushed into this direction
+of so much volume on both sides, we need
+something really smart at filtering and
+helping us hire and select. And this is
+exactly what you guys have been building
+for a long time.
+&gt;&gt; Precisely. Yeah. And the fascinating
+thing like a lot of people ask are we do
+we think about ourselves as a labor
+marketplace or do we think about
+ourselves as a data company? And I think
+that the reason it's an interesting
+question is our realization on the from
+what the labs need is that they actually
+need a labor marketplace. They actually
+need these exceptionally highc caliber
+people. And of course we'll you know
+layer on some project management and
+some software platform associated with
+it. The really core thing that they want
+is how do they find these extraordinary
+professionals across all these different
+domains that can measure model
+capabilities and work to build that
+future work together. This episode is
+brought to you by Interpret. Interpret
+is a customer intelligence platform used
+by leading CX and product orgs like
+Canva, Notion, Perplexity, Strava,
+Hinge, and Linear to leverage the voice
+of the customer and build best-in-class
+products. Interpret unifies all customer
+conversations in real time from gong
+recordings to Zenesk tickets to Twitter
+threads and makes it available for your
+team for analysis and for action. What
+makes Interpret unique is its ability to
+build and update a customerspecific
+knowledge graph that provides the most
+granular and accurate categorization of
+all customer feedback and connects that
+customer feedback to critical metrics
+like revenue and seesat. If modernizing
+your voice of customer program to a
+generational upgrade is a 2025 priority
+like customer- ccentric industry leaders
+like Canva, notion, perplexity, and
+linear, reach out to the team at
+interpret.com/lenny.
+That's n tre.com/lenny.
+Going back to just how this all works
+and what you guys do for models. I was
+talking to a friend who had a ankle
+sprain or his foot was hurting and he
+got an X-ray and he fed the X-ray into
+Chad BT and then asked him like give me
+this specific X-ray and he's like okay
+sure. And then it gave him here's what
+you have. And he was talking to me. He's
+like, how did what is out there in the
+on the internet that trained this model
+to know this stuff. And I was like, no,
+it's actually somebody sitting there
+helping the model understand this once
+they recognize it doesn't fully
+understand this. Like humans are
+actually helping them learn these
+things. Exactly. Well, so the way it
+works um at least what most people's
+understanding is there's a a lot of
+complexity in how the models work is
+that pre-training gets a lot of the
+knowledge into the model of what are all
+the different things that sort of seen
+in the world and then post-training and
+reinforcement learning is for all the
+reasoning of what are the pieces of
+knowledge that are accurate, what are
+inaccurate and what to prioritize uh at
+any given time to make a decision. And
+so behind that there would have been
+radiologists that uh worked on the
+post-training data set to create some
+stasis point for here's the diagnosis
+and rewards and penalties associated
+with it. And it's really the quality of
+those people that went into the quality
+of the decision and recommendation that
+chat GBT ultimately made.
+&gt;&gt; So let's let's actually follow that
+thread because that's really interesting
+and I don't know how many people
+understand it. I sort of understand it.
+So the work that you do and these
+experts do is postraining. It's not
+feeding data into the model that it's
+trained on. It's we have this model GBT5
+now here's all the things it's missing.
+Let's add to it.
+&gt;&gt; Exactly. Yeah. It it's really unlocking
+allowing the model to focus on all the
+right tokens from pre-training all the
+right things in model context upweing
+the effective reasoning chains um to
+enable the models to reason better in a
+more generalized way. What's the scale
+of people just working on the stuff is
+like thousands, tens of thousands,
+hundreds of thousands,
+&gt;&gt; tens of thousands at any given time,
+hundreds of thousands more generally.
+Um, I mean it's it's huge and the most
+exciting thing is that it's growing
+really quickly. I I mean I think that to
+your question also about the competitive
+landscape historically there were all
+these crowdsourcing companies that would
+get these super high volumes of
+lowskilled people. I think like scale
+and surge were the primary companies
+that pioneered that industry. A and then
+in this transition to higher skilled
+labor, what people realized is that
+actually you can go a lot further um
+with just getting higher caliber people
+uh even in smaller amounts initially uh
+and now subsequently scaling that back
+up uh once they're able to meet the
+quality bar. And I think that there's a
+bunch of companies that after our
+success and very rapid revenue growth
+that start sort of started uh early last
+year have chased after that. Um which
+which makes sense, right? And and seeing
+that uh the market was changing very
+quickly. We were taking off and uh
+trying to pursue a similar thesis on the
+market.
+&gt;&gt; It's interesting. There's always been
+these companies, Alphasites and uh GLG
+that like sort of did this before AI or
+is like pay to connect to an expert and
+ask them questions about stuff and
+essentially okay it turns out this is
+really useful for for models. We don't
+need the person in the middle.
+&gt;&gt; Exactly. Yeah. Well, but one core
+difference is that alpha sites would
+generally be a one-off call versus a lot
+of our work is really hiring people for
+projects, right? of how do they work on
+something for a longer period of time?
+Um, and so that uh that's I think one of
+the reasons that some of the traditional
+expert networks have struggled to get
+into this and also how do you like
+retain those people um and think about
+all the incentives where it actually
+looks more similar in some ways to one
+of the traditional labor marketplaces of
+an Uber or Door Dash just with much
+higher skilled talent that's treated
+exceptionally well. It's such a good
+opportunity for me to learn so much
+about this. So, I'm just I'm gonna ask
+questions that are so interesting to me.
+Uh, how much of the expert is f are
+focused on specific concrete knowledge
+versus personality and like softer
+skills? How much of is like here's how
+you do an exam, here's how you do an
+X-ray? It depends on the lab. It's a lot
+of both. I think that previously it
+might have been more softer skills, but
+now a lot of the labs are focused on
+their business models of what are the
+economically valuable capabilities that
+drive revenue and leaning a lot into
+these professional domains. Um, but I
+think the creative side is also still
+really important to everyone. Um, and so
+we're seeing a meaningful amount of
+both. Like we hired all the people from
+the Harvard Lampoon a couple months ago,
+their comedy club to help with making
+models funnier. Uh and so do all sorts
+of stuff like that, hiring Emmy
+award-winning screenwriters and uh
+everything across the board on creative
+capabilities that you'd look for.
+&gt;&gt; That is amazing. What a cool story.
+&gt;&gt; Yeah,
+&gt;&gt; I'm excited for this to kick in. How
+fast do these things turn around? Like
+say you hire this team, like how fast
+are we going to see the impact
+potential? Is it like months? Is it
+years? Well, so it depends because some
+models uh or some labs will release
+iteratively where they'll just improve
+the model behind the scenes uh sort of
+every
+&gt;&gt; without announcing a new model.
+&gt;&gt; Exactly. Sort of every couple of weeks
+versus others do these big releases. Um
+and so it depends a lot. We're behind
+all of them. But the I mean we move
+really fast. It would be a customer
+gives us a request of we need these you
+know award-winning screenwriters and
+within 24 hours we'll turn around um the
+experts. And there's also this really
+interesting dynamic where in a set of a
+100 people that we hire oftent times the
+top 10% of people will drive majority of
+the model improvement. It's sort of like
+a company right if you have a 100 person
+company oftentimes the top 10% of the
+company uh will will drive majority of
+of the impact. And what that means is
+that when we're able to build
+proprietary advantages in identifying
+who are those top 10% of people both in
+so far as how do we have them on our
+platform but also identify and match
+them effectively. It creates so much
+value for customers that it's difficult
+to compete against. And so really does
+tie back to the founding thesis of the
+company which is like you know how do we
+find these extraordinary people and
+identify them um so that we can reliably
+deliver these top 10% or top 10x
+experiences for our customers. So on
+that so is the idea you hire uh Jane
+she's incredible at coding and she now
+works for Anthropic and that's her
+full-time job doing this or is this like
+a part-time thing? Is this a project
+thing mostly? It it would sometimes be
+part-time, sometimes it would be
+full-time. Um, I would say most often
+it's part-time where it's like, you
+know, someone might work at uh Fang
+Company where they're undermployed,
+maybe one of the ones that's moving
+slower where they have an extra 20 hours
+a week. Uh, and then they're able to do
+this on the side or, you know, uh,
+whatever the equivalent is sort of
+across a bunch of different industries.
+But we also do a lot of um you know
+40hour a week uh roles as well.
+&gt;&gt; And these how much are they making? Is
+it like like meaningful enough for fang
+engineer to spend time on this?
+&gt;&gt; Yeah, very meaningful. I mean so our
+median pay rate in the marketplace is
+$95 an hour, but it can flex up well up
+into like $500 an hour um based on the
+depth of someone's expertise. And one
+thing that highlights this difference
+relative to a lot of the crowdsourcing
+companies is if you look at the
+economics of the crowd sourcing
+companies oftent times they would pay
+like $30 an hour to talent as sort of
+the average. Um, and so think about the,
+you know, people that you can hire, uh,
+the undergrads for $30 an hour versus
+the, you know, Goldman, the Mckenzie
+analysts, the, uh, Fang software
+engineers. And ultimately, it comes down
+to what are the capabilities that labs
+want their models to have. Uh, and it
+much more falls in the latter bucket
+than the former one. I know there's only
+so much you can talk about with this
+stuff, but so Enthropic Claude has been
+so good at coding, so much better
+historically than other models. I also
+use it for writing, giving feedback on
+writing. What is it that allowed them to
+get so good at this and continue to be
+so good at this? Well, I I can't go too
+much into detail about uh customer work,
+but I think that it's this trend of
+reinforcement learning and being very
+thoughtful about defining the right
+rewards um that we're really seeing
+across the board. Um and how we can, you
+know, mitigate reward hacking, set up
+the right rewards. Um that's super
+impactful.
+&gt;&gt; Evals, again, eval is all you need. Back
+to evals. I one of my favorite quotes
+from customers is that models are only
+as good as their evals. Um which has
+always held true.
+&gt;&gt; I think Greg Greg Brockman tweeted this
+once. Evals are all you need.
+&gt;&gt; Yeah. No, truly.
+&gt;&gt; Let's talk about Marcore a little bit
+more. One of the maybe I not even maybe
+I believe uh the data tells us it's the
+fastest growing company in history.
+&gt;&gt; Yeah.
+&gt;&gt; I want to understand what you did to
+make this happen. So let me just ask
+what do you think are some of the core
+tenants of how you built Mor that most
+contributed to being this successful?
+&gt;&gt; I think the most important thing is
+looking at the leading indicators in
+fastmoving markets. Like I remember when
+I used to think everyone in venture
+talks about the why now and I used to
+think about the why now of how from a
+product standpoint less from a market
+standpoint of like now we can automate
+the way that we review resumeums or the
+way that we conduct interviews etc. But
+ultimately like there is this legacy
+market that's you know has all these
+incumbents and it's relatively stagnant.
+What what matters a ton is actually
+figuring out what are the new markets
+the new pockets of demand. um that are
+changing very quickly where the
+wealthiest customers in the world are
+willing to pay whatever it takes to
+improve model capabilities and how do we
+focus on the leading indicators of those
+markets to make sure that we have the
+best solution for the flagship customers
+um you know in the market and optimize
+everything around that. Uh and that's
+what I found has been most impactful in
+building the business. I I think that's
+maybe that's one thing is like leading
+indicators in markets. If I had to
+choose another, it's customer obsession.
+Like we have had for the last we're
+starting to like have a couple of uh
+product managers help out with go to
+market, but like for the last year and a
+half of the business, we've had no one
+in sales and marketing. And so we're
+we're sort of like immature from a sales
+and marketing standpoint because we
+focused 100% of company resources on how
+do we build great products and
+experiences for our customers. Um you
+know just getting word of mouth the the
+people that have worked with us at other
+businesses want to keep working with us
+um and leaning into creating those great
+experiences. And so that's where I spend
+all my time. And I think that some
+founders can get caught up in like how
+do they get really good at marketing
+before they've figured out the thing
+that really drives um a lot of customer
+love um and creates the six-star
+experiences that um you're used to
+building.
+&gt;&gt; I want to go back to that first point
+which is like okay you found this pocket
+maybe the biggest business opportunity
+in history.
+&gt;&gt; How did you first find what was that
+moment of like wait this could be this
+could be really big. So there's some
+crazy stories here. Um I remember we
+started the company as I mentioned in
+January 2023 and then in August 2023
+when I was still in college, one of our
+customers introduced us to the
+co-founders of XAI uh over a Zoom call
+saying how we had these really smart
+Indian software engineers that were
+great at math and coding. So we met them
+and we explained how the software
+engineers we had were really good at
+math and coding because they weren't
+distracted by all the humanities. they
+didn't have to study history and English
+and all these other things and they
+loved it, right? So, they had us in uh
+two days later to the Tesla office and
+we met the entire XAI co-founding team
+except for Elon while I was still a
+college student, right? Uh and XAI was
+just getting started at that point and
+they were super excited about our focus
+on the quality of the experts and so
+while they were still doing
+pre-training, they weren't ready for
+human data at the time and we didn't um
+start working with them at that point.
+We just knew from that point forward
+before we even dropped out that the
+market was about to change radically and
+we needed to be at the frontier of that.
+And so then fast forward a few months,
+one of the crowdsourcing players came to
+us and actually used our platform to
+hire over a thousand people where it was
+this very interesting experience because
+we started getting flooded with support
+tickets about how those people weren't
+getting paid and we obviously felt
+horrible because we had referred them to
+this opportunity. It was this like
+reputable company. Um, and we realized
+that a lot of the incumbents were
+resting on their loyal laurels with
+respect to what was needed in the
+experiences they were creating for
+talent in their marketplaces to help
+improve models and and there was this
+opportunity to work directly with the
+labs in a way that, you know, kept the
+like dignity of the experts in the
+marketplace, paid them extremely well
+and sort of uh cut out the middlemen.
+And um and so we started doing that in
+May of last year. Um and then the the
+rest is history.
+&gt;&gt; Wow. Hundreds of millions of dollars in
+revenue since. So what I'm hearing here
+is you were very open to looking for
+pull. You saw some pull. You explored it
+and then you once you saw that there was
+something really meaningful there, you
+just went deep on making that an
+incredible experience as amazing as
+possible.
+&gt;&gt; Exactly. I think like if I had to
+distill it into advice for founders, one
+thing I've realized is that I spent a
+lot of time trying to like force product
+market fit. And in some ways like you
+should be persistent. You should like
+have these thesis that you have
+conviction about how the world will
+change. But sometimes you just need to
+like sort of hear it from the market uh
+and like know that it's there. pole uh
+to to know the right places to focus
+because if it's difficult to sell if
+it's extremely difficult to sell the
+marginal customer, you're not going to
+be able to grow a huge business. What
+you actually need to find is the
+customer that's surprisingly easy to
+sell into where you're going to be able
+to grow with them. You know that it's a
+large pain point. And so it's it's some
+combination of being stubborn with
+respect to your thesis around how the
+world will change, but also very
+open-minded with respect to exactly what
+form that takes uh and how the markets
+developing and how your company will fit
+into it.
+&gt;&gt; That's an amazing insight. In the
+moments you described is felt like it
+was a combination of this XAI meeting
+feeling like oh wow they really really
+want this thing that we sort of have
+we're not doing an amazing job and then
+it's a thousand people hired in the
+platform. Was it those two moments that
+are like, "Wow."
+&gt;&gt; Exactly. And those happened, keep in
+mind, while we were a seed company,
+right? Well, so the first one was before
+we even raised Eddie Seed funding. We
+were totally bootstrapped because we
+bootstrapped the company to a million
+dollar revenue run rate and have always
+remained super capital efficient. Like
+we've we've never burned money. We've
+we're lifetime profitable. Um and then
+in we raised our seed round in September
+from general catalyst and it it was the
+other experience after we raised our
+seed round where we really knew that
+there was an enormous amount of demand
+in this market. Uh where we saw the
+volume right and we saw that the
+incumbents were sort of sleeping with
+respect to how the market was changing
+and the kinds of people that were needed
+to make that change happen.
+&gt;&gt; It's one thing to see this opportunity
+and start to execute on it. it's another
+to actually succeed at this scale and
+consistently win. You guys have very
+specific values within the business.
+Talk about those. It feels like that's a
+big part of your success, too.
+&gt;&gt; It totally is. Um, so I'll I'll give the
+three and maybe a brief story associated
+with each of them. So, the first one is
+having a can do attitude, which everyone
+gives me a little bit of of a hard time
+for because it's it's sort of a a funny
+saying, but we've always set these
+ridiculously ambitious goals and and
+somehow the trajectory of the company
+forms around those goals where I
+remember when we were talking to
+Benchmark uh before they let our series
+A, we were at 1.5 million in run rate
+and I said we'd be at 50 million in run
+rate by the end of the year and they
+said we were absolutely insane. right as
+anyone anyone would and plus or minus
+two weeks we hit it right uh and then
+we've now well blown past um you know
+the tracking to 500 million in run rate
+which was initially our goal for this
+year and so setting these in incredibly
+ambitious goals with respect to the
+revenue scale of the business the
+caliber of experiences for talent all
+all those dimensions is super important
+to first have a can do attitude uh the
+second thing is really high standards
+which is who we hire and what we expect
+of them. Um like we have an incredibly
+high hiring bar where we hire tons of
+former founders um people that have
+incredible experiences. We just hired uh
+or partnered with Sundep Jane who joined
+us as president. He was previously the
+chief product officer and chief
+technology officer at Uber and you know
+joined our our uh small uh relatively
+small in the grand scheme of things
+company to help scale up all the
+processes where Uber is of course the
+largest labor marketplace in the world.
+So super high standards is of paramount
+importance. And then the third one that
+we really lean on significantly is
+intensity. In that if you look at the
+early cultures of businesses of the
+legendary companies thinking of Meta,
+Google, they have these incredible
+intense early stage cultures of people
+just moving heaven and earth and doing
+whatever it takes to push the frontier
+of model capabilities. And so ve still
+very much output oriented of what do
+people achieve rather than input
+oriented of the specific hours they work
+but recognizing that um it takes a lot
+to build a legendary business and that's
+ultimately what we're optimizing for.
+&gt;&gt; I could see why this works. Can do
+attitude plus high standards plus
+intensity. Uh I could see how that leads
+to success. There's a lot of talk these
+days about this uh 699 culture working
+six days a week 9:00 am to 900 pm. You
+know, a lot of people are like, why?
+That's terrible. Why would you make
+people do that? But at the same time,
+I'm just constantly hearing this from
+the most successful AI companies. This
+is just the way in it is to be
+successful. Things are moving so fast.
+This is a an opportunity you'll never
+see again. Just talk about your thoughts
+on that.
+&gt;&gt; Yeah. Well, to clarify, we don't we've
+never mandated hours. It's more been a
+byproduct of people that care a lot
+where we care a lot about the trajectory
+of the business. And so a lot of people
+come into the office and stay late, but
+uh you know if they need to leave early
+and get dinner with their kids or, you
+know, travel on the weekend, of course,
+that's totally fine. And and for us,
+it's it's much more about finding people
+have a lot of ownership and are really
+bought in. uh less so about the specific
+hours in the office. Even though we
+found that oftentimes it's the people
+that are most bought in, not always, but
+oftentimes it's the people that are most
+bought in that, you know, sort of burn
+the the midnight oil with us.
+&gt;&gt; When you say high standards, is there
+something you could share that gives us
+an example what you mean there? Because
+a lot of people are think they have high
+standards and they don't.
+&gt;&gt; If you
+are very patient, there's always some
+trade-off between speed and quality when
+hiring. Uh and I remember especially for
+our first 10 people, we were just so
+patient and disciplined about finding
+some of the best people in the world
+like you know half of them are for our
+our second employee Sid as an example.
+our second employee in the in the US
+said was previously the head of growth
+at scale you know when who joined us
+when we were a seedstage company uh
+Daniel who joined us was previously uh
+scaled two consumer apps to over 100,000
+users um and all sorts of just like
+extraordinary backgrounds um of our
+first 10 hires uh and I think that that
+initial talent density shaped so much of
+what the rest of the org looks like as
+you scale it up
+&gt;&gt; I know you also have this perspective
+that uh people talk about waiting to
+hire hiring really slowly, but
+&gt;&gt; it's actually not necessarily the right
+advice. Talk about that.
+&gt;&gt; It's painful because it's a double-edged
+sword. Like on one hand, I'm thrilled
+that our first 10 people are like so
+phenomenal, and I think that that has
+paid dividends for the business. But on
+the other hand, I think that companies
+do get to the point where you just need
+to hire really fast and and there are
+some things where you need a lot of
+people to do them. and the you need to
+recognize that you know there's going to
+be some variance associated with hiring
+um but but moving quickly is the
+priority and I think that in some ways
+we move too slowly with how we scaled
+out the team and so the benefit is that
+everyone is extraordinary we have this
+super high bar and and we want to
+maintain that over time um but I I think
+the downside is that uh you know while
+the company has grown incredibly quickly
+we we likely could have grown even
+faster uh if we had moved a little bit
+more quickly um with especially ramping
+from call like 10 to 100 people.
+&gt;&gt; Okay. I was going to ask so it sounds
+like the first 10 be very careful take
+your time 10 to 100 maybe speed up a
+bit.
+&gt;&gt; Yes. Though I wouldn't say it's
+necessarily 10. It's determined by the
+point where you know it's really
+working. Uh, and that's I know that's
+still not like a bright line, but it's
+like once you know that there's so much
+more demand than you can handle, that's
+when you want to step on the gas and
+optimize for for speed in a lot of ways.
+Um, but I I think especially until then,
+it's important to be patient, be
+disciplined. Uh, get the best people is
+always important. Um, but uh speed
+becomes more important once you once you
+find the market opportunity, the market
+vacuum. You've I know you've started a
+couple companies in the past, much
+smaller scale. Uh in this new role as
+CEO of this massive hyperrowth company,
+what's what surprised you most about
+where you spend the time most or just
+what the role include in involves
+because a lot of people want to start
+companies dream about being in your
+shoes. What do they maybe not
+understanding about where you a lot of
+your time goes?
+&gt;&gt; Yeah, it it's actually not too
+surprising. like the top two buckets are
+always working on hiring uh and time
+with customers. Uh how do I really
+deeply understand what customers need
+and how we can support them and then how
+do I build the team and a lot of the
+processes around that. Of course,
+there's all the ad hoc things I didn't
+expect of, you know, dealing with the
+the people questions of how do we set up
+our levels and our our comp bands and
+all of that. Uh which you sort of learn
+as you scale a business. Um but but I
+think that the core places that I spend
+my time are in line with what I expected
+as well as what I love doing. Um which
+is very fortunate.
+&gt;&gt; So these two companies you've started in
+the past,
+&gt;&gt; maybe share what they were because
+they're fun. And then what how did they
+help you be successful in this? Like
+what's something that they taught you
+that helped you in your current role?
+&gt;&gt; Yeah. So I'll uh there's been like a
+dozen, but I'll I'll choose my my
+favorite two. So, when I was in eighth
+grade, I started Doughnut Dynasty where
+I saw that Safeway donuts were selling
+for $5 a dozen. And I was amazed because
+I felt like as an eighth grader, this
+was such a incredible deal. And so, I
+started to bike down to Safeway, buy
+Safeway Donuts for $5 a dozen, and then
+uh go back to my middle school and then
+sell them for $2 each, running really
+good margins, of course. Uh it sold out
+super quickly, and so then I need to
+scale up. So, I would pay my mom $20 to
+drive me in her minivan uh down to
+Safeway, buy 10 dozen donuts, go to my
+middle school, sell them all out. Uh,
+and then the school tried to shut me
+down and so because I was selling like
+food on school campus, which they didn't
+like, uh, so they had me in the
+principal's office asking me to not do
+that. And then I moved my doughnut stand
+over 50 feet so it was off school campus
+saying that they they could no longer,
+you know, police me. I remember we had
+competitors pop up where the competitors
+were charging. They bought these Chucks
+donuts which if anyone in in the Bay
+Area knows are uh you know higherend
+donuts than Safeway donuts, but they
+have a higher cost basis. They cost a
+dollar um per. And so I dropped my
+prices to $1 for two weeks to run them
+out of business before I before I knew
+uh what anti-competitive practices were.
+And I' I'd hire all my friends, paying
+my friends in donuts because uh you know
+they perceived the donuts as as $2 each
+where they could sell them throughout
+the school uh and I could have a lower
+cost basis on them. So I had all of
+these like fun experiences and selling
+to and then I could talk more about my
+high school business as well which was
+uh more significant scale. But I think
+the takeaway from that was just like you
+can just do things. Like so many people
+have ideas, but the barrier to more
+companies being built I think is just
+initiative and taking the steps to build
+the product or experience that customers
+want um and investing the time and the
+ambition to scale that up. Um, and so I
+think it was really getting reps of that
+um that enabled me to realize that that
+I should do it later on uh at a much
+larger scale.
+&gt;&gt; Amazing story. I love how wholesome that
+is versus like drugs donuts.
+&gt;&gt; Then my mom was very worried. She was
+like, "Oh, are is there any pot of these
+donuts?" I was like, "No, mom. I assure
+you these these are are pure donuts."
+&gt;&gt; I love that you paid your mom $20 to
+try.
+&gt;&gt; Yeah. She was adamant. She it couldn't
+be, you know, a handout that she was
+taking her time to drive me. So, she
+needed to make a little bit of money off
+of it. We haggled over her title where
+eventually she wanted to be head of
+global operations, which we found very
+entertaining.
+&gt;&gt; I hope that's on her LinkedIn.
+&gt;&gt; Not yet. Maybe she'll have to add it.
+&gt;&gt; And so, you said that you've started a
+dozen companies.
+&gt;&gt; Yeah.
+&gt;&gt; Wow. Okay. Well, a dozen projects, but I
+I think there were it was that and then
+my AWS company uh were the two that that
+I sort of scaled up.
+&gt;&gt; What's the story behind Merkore as as
+the name?
+&gt;&gt; Meror means marketplace in Latin or to
+buy, sell, trade. And we want to build
+the largest marketplace in the world,
+the marketplace for how everyone finds
+jobs. Um and and that was really the the
+draw to it.
+&gt;&gt; Okay, maybe a last question. And this is
+going back to earlier in discussion
+because it's something I've been
+thinking about as we're talking. There's
+been this shift from data as kind of the
+the fuel for models and now it's
+experts. Do you think there's a next
+step or is this just like will take us
+to AGI super intelligence? I don't think
+it's necessarily changing from data to
+experts as experts. It's more just the
+paradigm of realizing that labs need
+this close collaboration
+um with experts to help understand what
+are the evals that they're building and
+how can they push the frontier. But I
+think it's very clear that eval are
+evergreen that so long as we want to
+improve models, we'll needs we'll need
+experts to create evals for them and to
+create the post- training data for them
+to learn those capabilities and of
+course there might be changes in the
+exact way that people do training with
+RL or otherwise but they will always
+need an eval to measure what does
+success look like across every domain
+that they want to build.
+&gt;&gt; Okay. Okay. So then then building on
+that, a question that comes up a lot
+these days is uh and I know we're
+talking about fun stuff, but I'm getting
+to serious stuff again. Um scaling laws
+and just like progression of model
+intelligence. A lot of people are
+feeling like I don't know, it's slowing
+down. We're not going to really get to
+super intelligence at this rate. What is
+your sense?
+&gt;&gt; I totally agree with that. Like I don't
+think it's I I know there's been some
+executives at big labs that say we'll
+have super intelligence in three years,
+but I think the truth is that it's a
+longer road. And that's not to diminish
+from how extraordinary the models are.
+Like I think we'll be able to automate a
+majority of of knowledge work tasks uh
+in in the next 10 years for sure. Uh but
+that long road is paved with all of the
+evals that help to make those
+capabilities possible. And it's not
+going to be, you know, 10x more
+pre-training data that gets those
+capabilities. It's much more going to be
+all of the host training data sets that
+are far more data efficient and
+thoughtful that help us get there. David
+Sax tweeted this interesting point that
+like the situation we're in now is
+almost the best case scenario where AI
+is not in this fast takeoff to super
+intelligence. There's a lot of
+competitors kind of keeping each other
+in check. uh models are already very
+valuable and only getting valuable more
+valuable, but there's not just this like
+winner super intelligence taking over
+the world situation.
+&gt;&gt; Yeah, I think that's true. I think a lot
+of the super intelligence fear-mongering
+is probably overrated, but at the same
+time, a lot of people's framing around
+that is even if there's a 5 to 10%
+chance of this P doom, then we should be
+careful, which which seems logical. Um,
+but I think that it's going to be an
+extraordinary 10 years for all of
+Silicon Valley and and all of the world
+as this technology is able to create
+abundance and giving everyone better
+medical treatment, you know, the best
+access to legal recommendations and the
+ability to build great products more
+than we've ever seen before.
+&gt;&gt; And education feels like is
+transforming.
+&gt;&gt; Absolutely. Right. Like I I even have
+felt bits of this over the last 10 years
+where like I remember ever my my parents
+would give me a hard time for not going
+to classes in college and I'd be like
+well there's way better lectures on
+YouTube. Why not just listen there? But
+I can only imagine as the models get
+extremely good at conveying information
+better than the best professor what
+that'll mean, right? And and access to
+all sorts of information um to better
+forward humanity and and upskill
+everyone.
+&gt;&gt; So I'll use that as a segue to a final
+question. Uh I'm going to take us to AI
+corner which is a recurring segment on
+the podcast. What's some way that you
+personally use AI to do better work to
+help you in life? Well, let's see. I use
+it a lot to write documents as you would
+expect. Um, I also talk to it to get
+advice on problems. Like I find it
+helpful to just reason through almost as
+a thought partner. Uh, because yeah, I I
+don't know. I I find I I think better
+sometimes when I'm talking something
+through. Uh, but I can't talk through
+everything uh with colleagues or people
+around me.
+&gt;&gt; And so this is like chat GPT voice mode
+mostly or something else.
+&gt;&gt; I like chatt voice mode a lot. There's
+still room for improvement, but I I am
+very excited about the future of voice.
+&gt;&gt; Let me show you something I built.
+Actually, that I wasn't planning to talk
+about this, but there's this uh guy,
+Eric Antinau, who recommended by a lot
+of people to get him on this podcast.
+He's this creative uh product person
+that's kind of under the radar now. He's
+at Facebook for a long time. He built
+this project called Parrot GPT, which is
+you put uh you basically put JBT into a
+stuffed animal to talk to it. So, built
+built a little wise owl. I don't have it
+on right now, but basically you sew in a
+little speaker right here and you put a
+little magnet underneath and you can put
+on your shoulder and then you just talk
+to it.
+&gt;&gt; So cute. Wow. I love it. I'll have to
+get one of those. You know, I've because
+I have like a some of the voice
+assistants in my apartment, but I really
+want a chatbt voice assistant. And so
+I'm excited for
+&gt;&gt; I was just thinking that
+&gt;&gt; like Yeah. Just come on. Why can't we
+have Chat GPT voice just sitting around
+listening to us all the time? And you
+can't on your phone because it goes to
+sleep and it's like hello. What? No.
+Exactly. Yeah.
+&gt;&gt; Yeah. So, it's kind of what this is
+trying to be. Well, like there's a
+Kickstarter he started that welding too
+that you could help you out.
+&gt;&gt; It's really easy.
+&gt;&gt; Uh Brendan, is there anything else that
+you wanted to share or touch on or maybe
+leave listeners with before we get to a
+very exciting lighting round?
+&gt;&gt; Tying to the point around initiative and
+that you can just do do things. I
+encourage everyone, especially with AI
+and it being so much easier to build,
+just take the initiative to to go out
+and build products and talk with
+customers and take that leap of faith
+because I think that that is in so many
+ways the largest barrier to more
+innovation in the economy um in any way
+that um we can support that. Yeah,
+there's so many people that just uh
+nothing, let's not bash the podcast, but
+just listen to podcasts, read posts,
+just keep reading and listening and
+don't do anything with that information.
+And there's never been an easier time to
+actually build stuff and try stuff.
+Totally.
+&gt;&gt; So, definitely take that advice. Just
+you can do things. You can move your
+doughut stand 50 feet and
+&gt;&gt; get out of their jurisdiction.
+&gt;&gt; Yeah.
+&gt;&gt; Okay, Brennan, with that, we've reached
+our very exciting lightning round. I've
+got five questions for you. Are you
+ready?
+&gt;&gt; All set. What are two or three books
+that you find yourself recommending most
+to other people?
+&gt;&gt; Let's see. I would say in order high
+output management is a phenomenal book
+on running companies. Second is 0ero to1
+uh which of course is a classic. And
+then third is shoe dog where I just find
+it to be a really inspirational story.
+&gt;&gt; What is a recent movie or TV show you've
+really enjoyed?
+&gt;&gt; I really liked Oenheimer. My favorite TV
+show of all time is Suits. Uh, so I know
+not not recent, but if I had to choose a
+recent one, probably Oppenheimer.
+&gt;&gt; Very cool. Suits. First time someone's
+mentioned that.
+&gt;&gt; Favorite product you recently discovered
+that you really love.
+&gt;&gt; I love using codecs, like the new
+version. Uh, I I know it's it's sort of
+new in in terms of version. Uh, yeah, I
+think it's it's incredible and just a
+huge huge improvement. Um, so yeah. Do
+you have a life motto that you find
+yourself coming back to, sharing with
+folks, finding useful in work or in
+life?
+&gt;&gt; I think it's you can just do stuff you
+know what we were talking about earlier.
+Uh take the leap of faith.
+&gt;&gt; I thought you were going to say can do
+which is in your Twitter profile.
+&gt;&gt; Can't do as well. Yeah.
+&gt;&gt; Two great ones. Final question. So I we
+were chatting before this about things
+that we could talk about and you shared
+this interesting thing that uh you
+haven't shared anywhere else which is
+that you're dyslexic.
+&gt;&gt; Yep. Why don't you share why don't you
+share that with folks and just how do
+you get around that having built the
+fastest growing company in history?
+&gt;&gt; I don't hide it at all like I think a
+lot of my colleagues know. Um and I
+think on one hand it definitely makes it
+difficult to go through a thousand
+emails a day or or read every document
+that I'm supposed to. But on the other
+hand, I feel like it helps me to think a
+little bit differently, to be more
+creative, and perhaps see the ways that
+markets are changing that not everyone
+sees. Um, and so it it's turned out okay
+so far. And so, uh, you know, I I try to
+I think one thing it's it's helped me
+realize from a management standpoint is
+that we focus much more on how we can
+leverage people's strengths rather than
+helping to improve weaknesses. because
+there's some things that I'm not great
+at and I'll I'll never be the best in
+the world at and and there's others that
+I can hopefully refine and strive to be.
+&gt;&gt; That's such a also recurring theme on
+this podcast of just focusing on
+strengths and not over not focusing over
+all your focus on weaknesses. Uh
+Brandon, this was incredible. I learned
+so much. I have I have a billion more
+questions, but you got to do. Uh
+two final questions. What should people
+know about what you're doing and roles
+you're hiring for? And then how can
+listeners be useful to you?
+&gt;&gt; Absolutely. We're hiring a ton uh across
+the board on our team. We're hiring
+strategic project leads on our
+operations team, software engineers and
+our engineering team as well as
+researchers. And so please go to
+mercur.com and we would love to work
+with you. Um and that's the largest way
+that you can help us. Share it with your
+friends as well. Uh over half of people
+in our marketplace come from referrals
+uh because we have a platform of people
+that love us. And so, uh, any jobs that
+you want to apply to or send your
+friends to, uh, we would love to have
+you.
+&gt;&gt; Brendan, thank you so much for joining
+me.
+&gt;&gt; Thank you for having me. Bye, everyone.
+Thank you so much for listening. If you
+found this valuable, you can subscribe
+to the show on Apple Podcasts, Spotify,
+or your favorite podcast app. Also,
+please consider giving us a rating or
+leaving a review as that really helps
+other listeners find the podcast. You
+can find all past episodes or learn more
+about the show at lennispodcast.com.
+See you in the next episode.

@@ -1,0 +1,2298 @@
+Kind: captions
+Language: en
+We literally had to bring the weights of
+the the model physically into their
+supercomput.
+&gt;&gt; In San Francisco, you could take a car
+from one part of SF to the other fully
+autonomously. As opposed to the digital
+world, I can't book a ticket online
+right now. Physical autonomy is ahead of
+digital autonomy in 2025.
+&gt;&gt; I think AI agents are like really in day
+one here. Like Chad GBT only came out in
+2022. The slope, I think, is incredibly
+steep.
+&gt;&gt; I actually do think self-driving cars
+have a good amount of scaffolding in the
+world. You have roads. Roads exist.
+They're pretty standardized. You have
+stop AI agents are just kind of dropped
+in the middle of nowhere.
+&gt;&gt; We'll start with long short game.
+&gt;&gt; I'm short on the entire category of like
+tooling eval products. Healthcare is
+probably the industry that will benefit
+the most from AI. I think I'm a JPEL.
+&gt;&gt; You're definitely a pill. The first one
+was the realization in 2023 that I would
+never need to code manually like ever
+ever again.
+Hey folks, I'm Apur Vagraval and today
+at the OpenAI office we had a
+wide-ranging conversation about OpenAI's
+work in enterprise. I have with me the
+head of engineering and head of product
+of the OpenAI platform, Sherwin Wu and
+Olivia Goodman. OpenAI is well known as
+the creator of Chad GPT which is a
+product that billions across the world
+have come to love and enjoy. But today
+we dive into the other side of the
+business which is OpenAI's work in
+enterprise. We go deep into their work
+with specific customers and how OpenAI
+is transforming large and important
+industries like healthcare,
+telecommunications, and national
+security research. We also talk about
+Shervin and Olivia's outlook on the next
+what's next in AI, what's next in
+technology, and their picks both on the
+long and short side. This was a lot of
+fun to do. I hope you really enjoy it.
+Well, two worldclass builders, two
+people who make look building easy.
+Shervin uh my paler 2013 classmate
+tennis buddy with two stops at Kora and
+open door through the IPO before joining
+openAI before Chad GPT you've now been
+here for three years and lead
+engineering for all open platform
+Olivier former entrepreneur winner of
+the golden llama at stripe where you
+were for just under a decade
+&gt;&gt; and now lead all of the product at uh
+open air platform
+&gt;&gt; that's right
+&gt;&gt; thanks for doing it
+&gt;&gt; thank you thanks for having us
+&gt;&gt; you know as shareholder as a thought
+partner kicking ideas back and forth. I
+always learn a lot from you guys and so
+it's a treat. It's a real treat to be do
+this for everybody. You know, I'll open
+with people know OpenAI as the firm that
+build chat GPT the product that they
+have in their pocket that comes with
+them every day to work to personal
+lives. But the focus for today is OpenAI
+for enterprise. You guys lead open
+platform. Tell us about it. What's
+underneath the OpenAI platform for B2B
+for enterprise?
+Yeah. So this is actually a really
+interesting question too because when I
+joined OpenAI around three years ago to
+work on the API, it was actually the
+only product that we had. So I think a
+lot of people actually forget this where
+the original product for uh from OpenAI
+actually was not chat GBT. It was a B2B
+product. It was uh the API. We were
+catering towards developers.
+&gt;&gt; Um and so I've actually seen you know
+the launch of chat GBT and and all of
+you everything downstream from that. Um
+but at its core I actually think the the
+reason why we have a platform and why we
+started with an API is it kind of comes
+back to the openi mission. So our our
+mission obviously is to build AGI uh
+which is pretty hard in and of itself
+but also to distribute the benefits of
+it to everyone uh in the world to all of
+humanity. Um and you know it's pretty
+clear right now to see Chad GGBT doing
+that because you know my mom you know
+maybe even your parents are using TAGBT
+but um we actually view our platform and
+especially our API and how we work with
+our customers our enterprise customers
+as our way of getting the benefits of
+AGI of of AI to as many people as
+possible to everyone in every corner of
+the world.
+&gt;&gt; Uh chat GPT obviously is really really
+really big now. It's I think like the
+fifth largest website in the world. Um
+but we actually by working through
+developers using our API we're actually
+able to reach even more uh people and
+you know every corner of the world in
+every different use case that you might
+have uh and especially with some of our
+enterprise customers we're able to reach
+even uh use cases within businesses and
+reach end users of those businesses as
+well. And so we actually view the the
+platform as kind of our way of fully
+expressing our our mission of getting
+the the benefits of AGI to to to
+everyone. And so um concretely though
+what the platform actually includes
+today.
+&gt;&gt; Um the biggest product that we have is
+is obviously um our developer platform
+which is our our API um you know many
+developers the you know the majority of
+of the startup ecosystem builds on top
+of this as well as a lot of start uh
+digital natives uh fortune 500
+enterprises at this point.
+&gt;&gt; Um we also have a product that we sell
+to governments um as well in the public
+sector. So that's all part of this as
+well. Um and also an emerging product
+line for us in the platform is our
+enterprise products. So what we actually
+might sell directly to uh enterprises
+beyond just a core API offering.
+&gt;&gt; Fascinating.
+&gt;&gt; And maybe to to to double down like um I
+think B2B is actually quite core to the
+open air mission.
+&gt;&gt; What we mean by distributing AI benefits
+is you know I want to live in a world
+where you know there are like 10x more
+medicines like you know going out every
+year. I want to live in a world where
+you know education like you know public
+service civil service you know are like
+you know increasingly like optimized you
+know to everyone and you know there are
+like a large like category of use cases
+that only go through B2B frankly unless
+you enable like the enterprises and you
+know we talked about palenteer I think
+that's probably the same fees at
+palenteer
+&gt;&gt; it's like hey like those are the
+businesses who are actually like you
+know making stuff happen in the real
+world and so if you do enable them if
+you do accelerate them like that's how
+essentially you benefit you know to
+distribute AGI.
+&gt;&gt; Yeah. Well, maybe we can double click
+into that, Olivia. You know, the reach
+for chat is obviously wide.
+&gt;&gt; Yeah.
+&gt;&gt; Billions of users, but for enterprise,
+it's maybe tell us about it. Maybe we go
+deep into a customer example or two. And
+what is an organization that we've
+helped uh transform maybe uh and at what
+layers?
+&gt;&gt; So, if I were to step back like we
+started our B2B efforts with the API
+like a few years ago. M
+&gt;&gt; initially the customers were startups,
+developers, indie hackers, extremely
+technically sophisticated people like
+you know who are building like you know
+cool new stuff essentially and taking
+massive like you know market technical
+risk. Um, so we still have a bunch of
+customers in that category and we love
+them. Um, and we keep building with
+them.
+&gt;&gt; On top of that, you know, over the past
+couple of days, we've been working one
+more with traditional like enterprises
+and also like digital natives. Um,
+essentially I think basically everyone
+woke up like with like um those models
+are working there is a ton of value and
+they could see essentially many use
+cases in enterprise. Um, couple of
+examples which I like the most. Um, one
+which is very both fresh and you know
+it's quite cool. Um we've been working a
+lot with T-Mobile.
+&gt;&gt; T-Mobile.
+&gt;&gt; Um so T-Mobile leading like US t
+operator.
+&gt;&gt; Um T-Mobile has like you know a massive
+customer support load
+&gt;&gt; like you know people asking like you
+know hey I was charged like that amount
+of money what's going on or you know my
+my cell phone like isn't working
+anymore.
+&gt;&gt; Um a massive like you know um share of
+that load is like you know voice calls
+like people want to talk to someone. Um,
+and so for them like you know to be able
+to essentially automate like more and
+more and you know to help like people
+like self-s serve in a way like you know
+um debug their their subscription was
+pretty big. And so we've been working
+with T-Mobile pretty much for the past
+year at that point to basically automate
+like not only like text support but also
+voice support. And so today like you
+know there are like features like in the
+T-Mobile app that if you call actually
+handled by open air you know models
+behind the scenes and you know it does
+sound like super natural like you know
+human sounding latency quality wise. So
+that one was um really fun.
+&gt;&gt; A second one uh which is
+&gt;&gt; just on that can I can I ask you a
+follow-up question? So, we've got text
+models, we've got voice models, maybe
+even video models someday that are
+deployed at T-Mobile.
+&gt;&gt; But what above the models or or or or
+adjacent to the models might we have
+helped T-Mobile with for example?
+&gt;&gt; Yeah, there is a tongue we're doing. Um
+the first one is you know you have to
+put yourself in the shoes of an
+enterprise buyer like their goal is to
+automate you know or reduce like you
+know optimize customer support
+&gt;&gt; and you know going from like a model
+like tokens in tokens out to that use
+case it's hard and so you know first
+like there's a lot of design like you
+know system design
+&gt;&gt; um we do have actually now forward
+deployed engineers who are helping us
+quite a bit
+&gt;&gt; forward deployed engineers familiar to
+the
+&gt;&gt; borrow the term from palunteer um yeah
+it's a great term
+&gt;&gt; were you at palunteer
+&gt;&gt; I was not an FD I was on I think they
+called it the dev side, right? It's like
+software engineering. I al also only in
+internet at Palunteer. Um but yeah, it's
+a great term. I think it accurately
+describes what we're asking folks to do
+which is like embed very deeply with
+customers and and honestly like build
+things specific to their systems.
+They're deployed uh onto these
+customers.
+&gt;&gt; Um but yeah, we are obviously growing
+and hiring that team quite a bit because
+they've been very effective like
+T-Mobile.
+&gt;&gt; Yeah.
+&gt;&gt; For years of my life.
+&gt;&gt; Yeah. Forward deployed.
+&gt;&gt; Yeah.
+&gt;&gt; But but go ahead. So forward deployed
+engineering
+&gt;&gt; for engineers and the sort of like
+systems and like integrations they're
+doing is you know first like you know
+you have to orchestrate those models
+like those models are not just you know
+those models like know nothing about
+like you know the CRM like you know and
+like what's going on and so you have to
+plug the model to like many tools many
+of those like tools like in the
+enterprise do not even have like APIs or
+like clean interfaces right it's the
+first time they'll be exposed like you
+know to a third party system and so
+there's a lot of you know standing up
+like you know API gateways tools
+connecting.
+&gt;&gt; Um, then you have to essentially like
+define what good looks like,
+&gt;&gt; you know.
+Like, you know, defining like a golden
+set of evals
+&gt;&gt; is, you know, easier than it sound.
+&gt;&gt; Um, harder than it sounds.
+&gt;&gt; Um, and so we've been spending like a
+bunch of time with them.
+&gt;&gt; Evals are important.
+&gt;&gt; Eval are super important,
+&gt;&gt; especially like audio evals. I know
+audio emails are like extra hard to
+grade and and get right and but like the
+bulk of the use case here is actually
+audio and you have like I don't know
+five minute like call transcript how do
+you actually know that the right thing
+happened? It's a pretty tough problem.
+&gt;&gt; Yeah, it's pretty tough.
+&gt;&gt; Um and then you know actually nailing
+down like the quality of the customer
+experience like you know until it feels
+natural and here latency and
+interruptions play a really like you
+know important part. We shipped um in G
+um an API, a real built- API.
+&gt;&gt; I think it was last week.
+&gt;&gt; Couple last week.
+&gt;&gt; Yeah,
+&gt;&gt; it was just last week I think
+&gt;&gt; which is like a beautiful work of
+engineering. Uh you know there was a
+really cracked team behind the scenes.
+Um which basically allows us like to get
+like the most like natural sounding like
+you know voice experience without having
+like these weird interruptions on your
+lag where you can feel that essentially
+the thing is off. Mhm.
+&gt;&gt; Um so yeah, cobbling all that together,
+you know, and you get like, you know, a
+really good experience.
+&gt;&gt; Yeah, that's a lot more than just
+models.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. I was going to say um uh one
+actually really great thing that I think
+we've gotten from the T-Mobile
+experience is actually working with them
+to improve our models themselves. So for
+example, the last uh real time the real
+time GA last last week. We obviously
+released a new snapshot, the GA
+snapshot. Uh and a lot of what the
+improvements that we actually got into
+the model came out of, you know, the
+learnings that we had from T-Mobile. It
+brings in a lot of other change from
+other customers, but because we were so
+deeply embedded into T-Mobile and and we
+were able to understand what good looks
+like for them, we were able to bring
+that to some of our models.
+&gt;&gt; That makes sense. So, this is a large
+customer with tens of millions of users,
+if not hundreds of millions, and the
+before and after is on the support side,
+both tech support internally and then
+their customer support.
+&gt;&gt; Yeah,
+&gt;&gt; makes sense.
+&gt;&gt; Yeah.
+&gt;&gt; Is there another one that you guys can
+share?
+&gt;&gt; I like a lot uh am
+the healthare business. Yeah. M
+&gt;&gt; so we working quite a bit with healthare
+companies
+is one of the leading like healthare
+companies who specialized into drugs for
+um uh cancer or like you know
+inflammatory diseases they're based out
+of of LA um and we've been working
+essentially with Abent to essentially
+speed up like the drug like development
+and likeation process
+&gt;&gt; so you know the the sort of the the
+northstar is like pretty bold um and
+it's really interesting like when you
+similarly like you know we embedded
+pretty deeply with Amjen to understand
+what are their needs
+&gt;&gt; and it's really interesting like when I
+look at those healthcare companies I
+feel like there are two big buckets of
+needs
+&gt;&gt; one is like pure R&amp;D it's like you know
+you're seeing like a massive amount of
+data and like you have super smart
+scientists who are trying to you know
+combine test out things you know so
+that's one bucket a second bucket is
+like you know much more like you know
+common across other industries it's like
+pure like you know admin document
+authoring documents reviewing work which
+is you know by the time like your R&amp;D
+team has essentially locked the recipe
+of a medication. Getting that medication
+to market is a ton of work. Like you
+have to submit to like various
+regulatory bodies, get a ton of reviews.
+And you know when we looked at
+essentially those problems, what we
+knew, what models were capable of, we
+saw like you know a ton of benefits, a
+ton of like opportunities to automate
+and you know augment essentially the
+work of those teams. Um and so yeah has
+been like a top customer of DP5 for
+instance.
+&gt;&gt; Wow. I mean this could be hundreds of
+millions of lives if a new drug is
+developed faster.
+&gt;&gt; Yeah, exactly.
+&gt;&gt; Huge impact. So that's you know that's I
+think one good example of like a kind of
+impact on which you need to enable
+enterprises like to do it right you know
+uh and so I think we're going to do more
+and more of those uh and yeah frankly
+like you know on a personal level like
+it's a delight you know if I can play
+like you know a tiny role essentially
+like doubling like you know the kind of
+medication that people you know get in
+the real world that feels like you know
+a pretty good like you know achievement
+&gt;&gt; huge huge huge I know you had one as
+well
+&gt;&gt; yeah so one of my favorite deployments
+that we've done uh more recently
+actually is with the Los Alamos National
+Labs. So this is the the the like
+government national research lab that uh
+the US government is running in Los
+Alamos, New Mexico. It's also where you
+know the Manhattan project happened uh
+back in the 40s and 50s
+&gt;&gt; um back when it was a secret secret
+project. So you know after that they
+ended up formalizing it as a city and a
+program and then now it's a pretty
+sizable national uh laboratory. Um this
+one is is very interesting because one
+just the depth of impact here is is like
+unimaginable for me. It's like on the
+scale of of of Amgen and and some of
+these other uh uh larger companies, but
+you know, obviously they're doing a lot
+of actual new research there. So, a lot
+of new science. They're doing a lot of
+stuff with uh our uh defense department
+uh and defense use cases as well. So,
+very intense, you know, very intense
+stuff.
+&gt;&gt; Um but the other thing that was actually
+very interesting about this one was that
+it's it's a it's also a story of a very
+like bespoke and like new type of
+deployment that we've done. Yeah.
+&gt;&gt; Um, so because they are so they're
+government lab, they're so, you know,
+uh, restrictive and high security and
+high clearance with a lot of their
+things, we couldn't just do a normal
+deployment with them. They couldn't, you
+know, you can't have people doing
+national security research just hitting
+our, uh, our APIs. And so, um, we
+actually did a custom on-prem deployment
+with them onto one of their
+supercomputers called, uh, Bonado. M um
+and so this actually involves a bunch of
+you know uh very bespoke work with some
+FTDEs also with a lot of our developer
+team um to actually bring one of our
+reasoning models 03 um into their
+laboratory into an airgapped you know
+supercomputer of an autoado and actually
+deploy it and get it installed to work
+on their hardware on their networking
+stack um uh and uh and actually run it
+in this in this particular environment.
+And so it it was actually very
+interesting because we literally had to
+bring the weights of the the model
+physically into their uh into their
+supercomput um in an environment by the
+way where you're not allowed to have you
+know it's very it's very locked down for
+good reason. Um you're not allowed to
+have like cell phones or like any
+electronics with you um as well. And so
+I think that was a very very unique
+challenge. Um and then uh the other
+interesting thing about this deployment
+is just how it's being used right. So um
+the interesting thing is because it's so
+uh locked down and on prem we actually
+do not have much visibility into exactly
+what they're what they're doing with it.
+But we do have you know they give us
+feedback. Yeah. Yeah. Um they actually
+do have some telemetry but it's you know
+within their own their own systems. But
+we do know that it's it's it's you know
+being used for uh a bunch of different
+things. It's being used for aiding them
+in in terms of speeding up their
+experiments. They have a lot of data
+analysis use cases, a lot of notebooks
+that they're running with reams of data
+that they're trying to process. um
+they're actually using it as a thought
+partner which is something that's pretty
+interesting to me. Um 03 is like pretty
+smart uh as a as a model and a lot of
+these people are tackling really tough
+you know novel research problems and a
+lot of times they're kind of using 03 um
+and uh going back and forth with it on
+their experiment design on like what
+they actually should be using it for.
+&gt;&gt; Um uh which is you know something that
+we couldn't really say about our our our
+older models.
+&gt;&gt; Um and so yeah it's it's just being used
+by by um for a lot of different use
+cases for the for the national lab. And
+um the other cool thing is it's actually
+being shared between Los Alamos and some
+of the other labs, Lawrence Livermore,
+Sandia as well because it it's the
+supercomputer setup where they can all
+kind of uh connect with it remotely.
+&gt;&gt; Fascinating. I mean we've just gone
+through three pretty large scale
+enterprise deployments, right, which
+might touch tens if not hundreds of
+millions of people. But there was this
+on the other side of this is the MIT
+report that came out a couple of weeks
+ago. 95% of AI deployments don't work a
+bunch of you know scary headlines that
+even shook the markets for a couple days
+like you know put this in perspective
+like like for every deployment that
+works there presumably a bunch that
+don't work so maybe we can you know
+maybe talk about that like what does it
+take to build a successful enterprise
+deployment a successful customer
+deployment
+um and and and the counterfactual uh
+based on all your experience serving all
+these large enterprises
+&gt;&gt; I think at that point I may have worked
+start with like a couple of hundreds I
+think enterprises.
+&gt;&gt; So, okay, I'm going to pattern match.
+Um, what I've seen being like clear
+leading indicator of success.
+&gt;&gt; Uh, number one is like the the
+interesting combination of like top down
+like buy in and like enabling like you
+know
+&gt;&gt; very clear group of like a tiger team
+essentially like you know the enterprise
+which is sometime a mix of like open AI
+like you know enterprise employee. So
+you know typically like you know you
+take like T-Mobile like the top
+leadership was like extremely like you
+know it's a priority right but then
+letting the team like you know organize
+and be like okay if you want to start
+small start small you know and then we
+can scale it up essentially.
+&gt;&gt; So that would be part number one. So top
+down buying and a bottom called a tiger
+team. tiger team, you know, of people
+like, you know, a mix of like technical
+skills and like people who just have
+like the organizational knowledge, like
+institutional knowledge, you know,
+&gt;&gt; it's really funny like in the enterprise
+like customer support example like what
+we found is that
+&gt;&gt; the vast majority of the knowledge
+&gt;&gt; is in people's heads.
+&gt;&gt; Right.
+&gt;&gt; Right. Which is probably like a thing
+that you know with these like in general
+but like you know you take a customer
+support you would think that you know
+everything is like perfectly documented
+like GI etc. The reality is like the the
+standard like operating procedures like
+the SOPs are largely in people said and
+so unless you have that tiger team like
+mix of like technical and like you know
+subject matter expert really hard like
+to get something off the ground
+&gt;&gt; that would be one.
+&gt;&gt; Um two would be evals first like
+whenever we define like good evals like
+that gives like a clearly clear common
+goal for people to hit whenever like you
+know the customer like fails to come up
+with good evals it's a moving target you
+never know essentially you know if
+you've made it or not. Um, and you know,
+evals are much harder than what it looks
+uh to get done.
+&gt;&gt; And eval also oftentimes need to come up
+bottom up, right? Because all of these
+things are kind of in people's heads in
+the actual operator's heads. Like it's
+actually very hard to have a top down
+mandate of like
+&gt;&gt; you got like this is how the eval should
+look. A lot of it needs the bottoms up
+adoption,
+&gt;&gt; right?
+&gt;&gt; Yeah. Yeah. Yeah. And so we've been
+building quite a bit of tooling on
+evals. We have like an product and you
+know we're working on more to
+essentially solve like you know that
+problem or you know make it as easy as
+we can. Um the last thing is you know
+you want to hill climb essentially you
+have your evals the goal is to get to
+99%. you start at like you know 46 uh
+you know how do you get there and here
+frankly I think often time like you know
+a mix of like
+&gt;&gt; like I will say like almost wisdom from
+people who've done it before like you
+know a lot of that is like you know like
+art sometime more than science and like
+you know knowing like the quirks of the
+model the behavior sometime we even need
+to fine-tune ourselves the models you
+know when there are some clear
+limitation
+&gt;&gt; uh and you know being patient getting
+your way you know up there
+&gt;&gt; and then you ship.
+&gt;&gt; Can we go under the hood a little bit?
+You know, one of the things that we
+think about a lot is autonomy more
+broadly, right? What is the makeup of
+autonomy on one side? You know, in San
+Francisco, you could take a car from one
+part of SF to the other fully
+autonomously. No humans involved. No,
+you press a button,
+&gt;&gt; right? They've done billions of rides. I
+think it was like what three and a half
+billion rides
+&gt;&gt; um on on the test. This is on the Tesla
+FSD. Ido's done like million tens of
+millions of rides.
+&gt;&gt; That's a lot of autonomy.
+&gt;&gt; Yeah. in the physical world as opposed
+to the digital world. I can't book a
+ticket online right now. It's there's
+all sorts of problems that happen if I
+have my operator try to book a ticket.
+And it's very counterintuitive because
+the bar for physical safety is so much
+higher. The bar for physical safety is
+higher than the human's capability
+because lives are at stake.
+&gt;&gt; Yeah.
+&gt;&gt; The bar for digital safety not that high
+because all you're going to lose is
+money. Nobody's life is at stake. But
+yet physical autonomy is ahead of
+digital autonomy in 2025. What seems
+counterintuitive? Like why is that the
+case at you know at a technical level?
+Why is it that what should sound easier
+is actually a lot harder?
+&gt;&gt; Yeah. So I I think there there are kind
+of two things at play here and I really
+like the analogy with with self-driving
+cars cuz you know they they've been
+they've actually been like one of the
+best applications of AI I think that
+I've I've used recently.
+&gt;&gt; Um but I think there are two things in
+play. One of them is honestly just the
+timelines. Like we've been working on
+self-driving cars for so long. Like I
+remember when I you know back in like
+2014 it was kind of like the the advent
+of this and everyone was like oh it's
+happening in like 5 years.
+&gt;&gt; Turns out it took like I don't know 10
+15 years or so for this happen. So
+there's been a long time for this
+technology to to really mature and I
+think there was probably like dark ages
+you know back in like 2015 or 2018 or
+something where it felt like it wasn't
+going to happen.
+&gt;&gt; Trough of disillusionment.
+&gt;&gt; Yes. Yes. Yeah. And then now we're you
+know um finally seeing it get deployed
+um which is really exciting but it has
+been like I don't know 10 years maybe
+even 20 years from the very beginning of
+the research whereas uh I think AI
+agents are like really in day one here
+like chat GBT only came out in 2022
+uh so like around three like less than
+three years ago. Um, but I actually
+think the what we think about with uh AI
+agents and all that really I think
+started uh with the reasoning paradigm
+that uh when we released the the O1
+preview model back in
+&gt;&gt; uh LA late last year I think. Uh and so
+I actually think this whole reasoning
+paradigm with AI agents and the
+robustness that those bring has only
+really unfolded for like a year less
+than a year really. And so, um, I I know
+you had a chart in your blog post which
+I really like, which, you know, the
+slope is very meaningfully different
+now. Like, self-driving started very,
+very early. Slope seems to be a little
+bit slower, but now it's reaching the
+promised land, but man, like we we
+started super recently with AI agents,
+and the slope, I think, is incredibly
+steep, and we'll probably see it cross
+over at some point.
+&gt;&gt; Yeah.
+&gt;&gt; Um, but uh uh uh we really have only had
+like a year really to explore these uh
+&gt;&gt; Do you think we haven't crossed over
+already? When you look at like the
+coding work in particular?
+&gt;&gt; Yeah, it's it's a good point. It's like
+you know your chart actually shows uh AI
+agents is below self-driving but like
+you know like what is the y- axis like
+by some measures like I would not be
+surprised actually if you know AI
+products or agent products is making
+more revenue than whimo at this point
+like who is making a lot but like just
+look at all the startups coming up look
+at you know chat GPT and how many
+subscriptions are happening there and
+all of that and so maybe we have
+actually crossed and you know couple
+years from now it's going to look very
+very different
+&gt;&gt; yeah the y-axis is tangible felt
+autonomy
+&gt;&gt; perfectly objective
+[Laughter]
+How do I feel about
+&gt;&gt; exactly vibes more than revenue? But
+revenue is a good one. We should
+probably redo that with revenue.
+&gt;&gt; The um there's a second thing I wanted
+to uh mention on on this as well, which
+is uh the scaffolding and the
+environment in which these things
+operate in. So um I actually remember in
+the early days of self-driving a lot of
+the like researchers around self-driving
+where saying that the roads themselves
+will have to like change to accommodate
+self-driving, right? There might be like
+sensors everywhere so that the
+self-driving cars can interact with it.
+Um, which I think is like, you know,
+retrospect overkill. Um, but I actually
+do think self-driving cars have a good
+amount of scaffolding in the world for
+them to operate in. It's like not
+completely like unlimited.
+&gt;&gt; Um, you have roads. Roads exist. They're
+pretty standardized. You have stop
+lights. People generally uh operate in
+like pretty normal ways. Um, and there
+are all these traffic laws that that you
+can learn. Um, whereas um uh AI agents
+are just kind of dropped in the middle
+of nowhere and they kind of have to feel
+fill around for them. And I actually
+think, you know, going off of what
+Olivier just said too, my hunch is some
+of the um uh enterprise deployments that
+don't actually work out likely don't
+have the scaffolding or infrastructure
+for these agents to interact with as
+well. Um a lot of the like really
+successful deployments that we've made,
+a lot of what our FDS end up doing with
+some of these customers is to create um
+almost like a platform or some type of
+scaffolding, connectors, organizing the
+data so that the models have something
+that they can interact with in a more
+standardized way. M
+&gt;&gt; and so my sense is self-driving cars
+actually have had this uh in in in some
+degree with with roads over the last uh
+uh you know over the course of their
+deployment but I actually think it's
+still very early in the AI agents uh
+space and I would not be surprised if a
+lot of these uh a lot of enterprises a
+lot of companies just don't really have
+the scaffolding ready. So if you drop an
+AI agent in there it kind of doesn't
+really know what to do and and its
+impact will be limited. And so I think
+once this scaffolding gets built out uh
+across some of these companies I think
+the deployment will also speed up.
+&gt;&gt; Um but again to our point earlier I
+think there's no slowdown. Uh there's
+no, you know, things are still moving
+very fast.
+&gt;&gt; That's great. Well, you know, I've
+thought about autonomy as a three-part
+structure. You've got perception, you've
+got the the reasoning, the brain, and
+then you've got the call it the
+scaffolding, the last mile of making
+things work. Uh maybe we can dive into
+the second part, which is the reasoning,
+which is the the the juice that you guys
+are building with GPD5 most recently.
+Huge endeavor. Congrats. the first time
+you guys have launched a full system,
+not a model or a set of models, but a
+full system. Talk about that. I mean,
+the full arc of that development, what
+was your focus? I mean, honestly, the
+benchmarks all seem so saturated. Like,
+clearly, it was more than just
+benchmarks that you were focused on. And
+so, what was a northstar? Like, tell us
+about GP5 soup to nuts.
+&gt;&gt; It's been the work of love of many
+people for a long time.
+&gt;&gt; Um, and to your point, I think GP5 is
+amazingly intelligent. you look at the
+benchmark like you know the sweep bench
+and the likes you know it is going
+pretty high but I think to me equally
+important and impactful was I would say
+the craft like the style the tone the
+behavior of the model so you know
+capabilities intelligence and you know
+behavior of the model
+&gt;&gt; um on the behavior of the model I think
+it's the first model like large model
+release for which we have worked so
+closely with a bunch of customers for
+like month and month
+&gt;&gt; essentially to better understand like
+what are the concrete like locks like
+what are the concrete blockers of the
+model and often like you know it's not
+about like you know um like having a
+model which is way more intelligent a
+model which is faster a model that
+better like follows instruction a model
+like who is more likely to say no you
+know when you know he doesn't know about
+something um and so that like super
+close like you know customer feedback
+loop on DP5 was pretty impressive to uh
+to to see and I think like all the love
+that DP5 has been getting like you know
+in the past like couple of weeks I think
+people are starting to feel that
+essentially the builders and once you
+see it like it's really hard to come
+back to a model which is like extremely
+intelligent but not you know an
+exclusively like academic essentially
+way
+&gt;&gt; are there tradeoffs that you made as you
+were going through it like maybe what
+are the hardest trade-offs you made as
+you were building GPD5
+&gt;&gt; I actually think a very clear trade-off
+which I I honestly think we are still
+iterating on is uh the trade-off between
+the reasoning tokens and how long it
+thinks versus uh performance
+performance.
+&gt;&gt; Um because and I honestly this is
+something that I think we've been
+&gt;&gt; um working on with our customers since
+the launch of the reasoning models which
+is these models are so so smart.
+&gt;&gt; Uh
+&gt;&gt; uh especially if you give it all this
+like thinking time. Um I I I think the
+the feedback I've been seeing around
+GPD5 Pro has been pretty crazy too. It's
+just like like you know these tweet last
+night.
+&gt;&gt; Yeah. Yeah. I saw that Sam retweeted it.
+Um
+&gt;&gt; uh but like these like unsolved problems
+that none of the other models could
+handle. you throw it to GPT5 Pro and
+&gt;&gt; uh it just like oneshots it is is pretty
+crazy. But the trade-off here is you're
+you're you're waiting for 10 minutes. Uh
+it's quite a long time.
+&gt;&gt; And so these things just get like so
+smart with with um uh with more
+inference time. But on the like product
+builder, on the API side for some of
+these like business use cases, I think
+it's pretty tough to like you know
+manage that trade-off. And for us it's
+been difficult to figure out where to
+where we want to fall on that spectrum.
+So, we've had to make some trade-offs on
+like how much should the model think
+versus like how intelligent should it
+get because as a product builder there's
+a latency there's a real latency
+trade-off that you have to deal with
+where you know your user might not be
+happy waiting 10 minutes for like the
+best answer in the world. You might be
+more okay with the substandard answer
+and like no wait at all.
+&gt;&gt; Yeah. I mean even between GBD5 and GBD5
+thinking I have to toggle it now because
+sometimes I'm so impatient I just want
+it ASAP.
+&gt;&gt; Yeah. I think there's ability to skip,
+right, in in GCP where it's like I'm
+impatient. I just want the the more
+simple answer.
+&gt;&gt; That's right. That's right. Well, four
+weeks in GBD5, how's the feedback?
+&gt;&gt; Yeah, I I think the feedback has been
+very positive. Uh especially on the
+platform side, which uh have been really
+great to see. I think um a lot of the
+the things that Olivier mentioned have
+been, you know, come up in feedback from
+customers.
+&gt;&gt; Um the model is extremely good at
+coding. Um extremely good at at kind of
+like reasoning through through different
+tasks. M
+&gt;&gt; um but especially for like coding use
+cases, it especially at the uh you know
+at the when it thinks for a while it'll
+usually solve problems that no other
+models can solve. So I think that's been
+a big uh positive point of feedback.
+&gt;&gt; Um the kind of robustness and the
+reduction in hallucinations has been a
+really big uh positive feedback.
+&gt;&gt; Um uh I I think there was an evol that
+showed that hallucinations basically
+went to zero for a lot of this. It's not
+perfect. There's still a lot of work to
+be done, but
+&gt;&gt; that's a big one. Um I think because of
+the reasoning in there too, it just
+makes uh the model more likely to say
+no, less likely to hallucinate um
+answer. So that's been something that
+people have really liked as well. Other
+bit of feedback uh has been around
+instruction following. So it's really
+good at instruction following. This
+almost bleeds into like the constructive
+feedback that we're working on where he
+for that it's so good at construction
+following that instruction following
+that people need to tweak their prompts
+or it's almost like too literal uh in in
+&gt;&gt; that's one is an interesting trade-off
+actually cuz you know when you ask
+people developers like what do you want
+like you want them all to follow
+instructions of course you know but once
+you have a model which who is like that
+is like you know extremely literal
+essentially then essentially forces you
+to express extremely clearly what you
+want otherwise the model you know may go
+sideways and so that one was interesting
+feedback
+&gt;&gt; it's almost like the monkey paw where
+it's like developers and and platform
+customers ask for better instruction
+following so we're like yes we'll give
+you really good instruction following
+but it was like you know follows it
+almost to a to a te and so it's
+obviously something that the the the
+team is actually working working through
+I think a good example this by the way
+is um some customers would have these
+prompts I remember when we were testing
+GPD5 one of the uh negative feedback
+that we got was the model was too
+concise we were like what's going on why
+is the model so concise and then we
+realized it was because they were
+reusing their old prompts from other
+models
+&gt;&gt; and with the other models they have to
+like you have to really beg the model to
+be prec concise. So they're like 10
+lines of like be concise, really be
+concise,
+&gt;&gt; also keep your answer short. Um, and it
+turns out when you give that to GBD5,
+it's like oh my gosh, this person really
+wants to be concise. And so the response
+would be like one sentence, which is two
+tur. And so just by removing the extra
+prompts around being concise, the model
+behaved in a much better way uh and a
+much closer to what they actually end up
+wanting.
+&gt;&gt; Yeah. Turns out writing the right prompt
+is still important.
+&gt;&gt; Yes. Yes. Yeah. Prompt engineering is
+still very very important.
+&gt;&gt; Yeah.
+um on constructive feedback effort GBD5
+um there's actually been a good amount
+as well which we're all we're all
+working through. One of them that I
+think is uh I'm really excited um for
+for the next uh you know snapshot to
+come out to to fix some of this is code
+quality and like small like code uh like
+paradigms or like uh idioms that they
+might use. I think there were like
+feedback around um the types of code and
+and and the patterns in which it was
+using which I think we're working
+through
+&gt;&gt; uh as well. Um and then uh the the other
+bit of feedback which uh I think we've
+already made good progress on internally
+uh is around the trade-off of the
+reasoning tokens and thinking and
+latency around intelligence. I think
+especially for these simpler problems,
+you don't usually need a lot of
+thinking. The thinking should ideally be
+a little bit more dynamic.
+&gt;&gt; Um and of course we're always trying to
+squeeze as much reasoning and
+performance into as little reasoning
+tokens as possible. So I'd imagine that
+that curve kind of going down as well.
+&gt;&gt; Yeah. Well, huge congrats. I mean it's
+been I know it's a work in motion for a
+bunch of our companies. They've had
+incredible outcomes with GPD5. One of
+them is Expo uh cyber security business.
+Just like a
+&gt;&gt; Yeah, I saw the chart from that. It was
+pretty crazy.
+&gt;&gt; Huge huge upgrade from whatever they
+were using prior to that. And
+&gt;&gt; I think they're going to need a new eval
+soon.
+&gt;&gt; They're going to need a new eval. It's
+all about eval on on the multimodality
+side of it. Obviously, you guys
+announced the real time API last week.
+Uh I saw T-Mobile was one of the
+featured customers on there.
+uh talk about that like how obviously
+the text models are leading the pack but
+then we got audio and we got video.
+&gt;&gt; Yeah.
+&gt;&gt; Talk about the progress on the
+multi-odal
+models. Uh when should we expect to have
+like the next big unlock and what would
+that look like?
+&gt;&gt; Uh it's a good question. Um the teams
+have been making amazing progress on
+multimodality on voice image video.
+Frankly the last generation models have
+been unlocking like quite a few cool use
+cases. M
+&gt;&gt; um one of the feedback that we've
+received is you know because like text
+was so much leading the pack on
+intelligence like people felt like in
+part on voice that the model was
+somewhat a little less intelligent and
+you know until you actually see it like
+it does feel weird like you know to have
+like you know to have a better answer
+like on text versus voice
+&gt;&gt; and so that's pretty much a focus that
+we have at the moment
+&gt;&gt; um I think we like filled like part of
+that gap but not the full gap for sure.
+So I think you know catching up I would
+say you know with the text like you know
+would be one.
+&gt;&gt; Um a second one you know which is
+absolutely fascinating is
+&gt;&gt; the model is like excellent at the
+moment on like you know
+&gt;&gt; easy like casual conversation like talk
+to your coach your therapist
+&gt;&gt; and we basically had to teach the model
+like to um speak essentially better like
+in actual like you know work
+economically valuable setups. Give an
+example like the model has to be able to
+understand what an SSN is and you know
+what does it mean to spell SSN and if
+one digit is actually like you know
+fuzzy it should actually has to repeat
+versus you know guess you know there are
+lots of like you know intrusions like
+that that someone you know of course has
+you know of voice that we are currently
+like teaching the model and that's like
+an ongoing work actually with our
+customers you know until we actually
+confront the model to like actual like
+customer support calls actual set school
+it's really hard like to get a feel you
+know for those gaps so that's um a top
+like you know priority as well.
+&gt;&gt; This is uh completely off script but an
+interesting question that comes up in
+voice models particularly the real-time
+API is you know previously people were
+doing they would take in a speech input
+convert that to text
+&gt;&gt; then have some layer of intelligence.
+&gt;&gt; Yeah.
+&gt;&gt; Then you would have a texttospech model
+that would sort of play it back.
+&gt;&gt; Yeah.
+&gt;&gt; And this would be it would be a stitch
+of these three parts. But the real time
+API you guys have integrated all of
+that. Yes. And h you know how does it
+happen because a lot of the logic is
+written in in text a lot of the boolean
+logic or you call it any function
+calling is written in text. How how does
+it work with the real time API is that
+&gt;&gt; that's an excellent question. Um so the
+reason why we ship the real time API is
+that we saw that for the stitch model
+&gt;&gt; the stitch model. Yeah, they're stitched
+like a stitch together like speech to
+text thinking text to speech
+&gt;&gt; like we saw essentially a couple of
+issues. One slowness like you know hops
+essentially
+&gt;&gt; two loss of signal like you know across
+each model like the speech text model is
+less intelligent.
+&gt;&gt; Yeah. You lose emotion you accent.
+&gt;&gt; Exactly. Right. Pauses. Yeah. And you
+know when you when you are doing like
+actual voice like phone like calls
+essentially like those signals are like
+so important like for decent to them.
+&gt;&gt; Um one of the challenge that we have is
+what you mentioned which is you know it
+means like a slightly different
+architecture essentially for text versus
+voice
+&gt;&gt; and so that's something that we actively
+working on. Uh but I think it was the
+right call to start essentially with
+let's make like the voice experience
+like natural sounding to a point where
+essentially you're feeling comfortable
+like putting in production and then
+working backward like to unify like the
+sort of the orchestration logic
+essentially across modalities
+&gt;&gt; and and to be clear like a lot of
+customers still stitch these together.
+It's like kind of what worked in the
+last generation. But what we're
+increasingly seeing is more and more
+customers moving towards the real-time
+approach because of how natural it
+sounds, how much lower latency it is,
+especially as we uple the intelligence
+&gt;&gt; of the model. Uh but also even like
+taking a step back, I will say it's like
+pretty mind-blowing to me that it works.
+Like the fact that like I think it's
+mind-blowing that these LM work at all
+where you just train on a bunch of text
+and it's just, you know, autogressively
+coming up with the next token and it
+sounds super intelligent. That's like
+mindblowing in and of itself, but I
+think it's actually even more
+mind-blowing that this speech to speech
+setup actually works correctly because
+you're literally taking the audio bits
+from it from someone speaking
+&gt;&gt; streaming or putting it into the the
+model and then it's generating audio
+bits back. And so, uh, to me, it's
+actually crazy that this works at all,
+let alone the fact that it can
+understand accents and tone and pauses
+and things like that and then also be
+intelligent enough to handle a support
+call or something.
+&gt;&gt; I mean, if you've gone from text in,
+text out to voice in voice out, that's
+pretty crazy.
+&gt;&gt; Yeah. Yeah,
+&gt;&gt; we have a bunch of companies in our
+portfolio that are using these models.
+You know, Parlo on the customer support
+side, LiveKit on the infra side, and
+&gt;&gt; you know, there's a bunch of use cases
+we're starting to see that that that a
+speechtoech model could could address.
+Obviously, a lot of the
+&gt;&gt; harder ones still still running on what
+you're calling the stitch model.
+&gt;&gt; Yeah.
+&gt;&gt; Uh but I I I hope the day is not far
+when it's all on real time API.
+&gt;&gt; It's going to happen at some point.
+&gt;&gt; Right. Right. Right. Right. And actually
+maybe that's a good segue into talking
+about model customization because I
+suspect that you have such a wide
+variety of enterprise customers. I think
+you mentioned what hundreds of customers
+or or or maybe more. Um each of them has
+a different use case, a different
+problem set, a different call it
+envelope of of of parameters that
+they're working in. Maybe latency, maybe
+maybe power, maybe others. How do you
+how do you handle that? Talk about what
+OpenAI offers enterprises who need a
+customized version of of of a great
+model to make it great for them. Yeah.
+So model customization has actually been
+something that we've invested very
+deeply in on the API platform since the
+very beginning. So even you know uh
+pre-hatbt days we actually had a
+supervised fine-tuning uh API available
+and people were actually using it to
+great effect. Um, the most exciting
+thing actually I'd say around model
+customization, it obviously resonates
+quite well with customers because they
+want to be able to uh bring in your own
+custom data and create your own custom
+version of you know 03 or 04 mini or
+something um or GBD5 even um uh suited
+to their own needs.
+&gt;&gt; Um it's very attractive but the the most
+recent development I think is very
+exciting is has been the introduction of
+reinforcement fine-tuning which is
+something we announced uh late last year
+I think in the 12 days of Christmas.
+We've g it since
+&gt;&gt; and we're continuing to iterate on it.
+&gt;&gt; What What is it? Break it down for us.
+&gt;&gt; Yeah. So, it's called It's actually
+funny. I I I think we we made up the
+term reinforcement finetuning. It's like
+not a real uh thing until until we
+&gt;&gt; It's stuck now. I stuck on Twitter all
+the time.
+&gt;&gt; I remember we were discussing it and I
+was like I I don't know about RP.
+&gt;&gt; Yeah. Yeah. So, reinforce and
+fine-tuning. Um so, it really uh it's
+introducing uh reinforcement learning
+into the fine-tuning process. So um the
+original um fine-tuning API uh does
+something called supervised fine-tuning.
+We call it SFT. Um it is not using
+reinforcement learning. It is um you
+know it's it's it's using supervised
+learning.
+&gt;&gt; Um and so what that usually means is you
+need a bunch of data, a bunch of prompt
+completion pairs. You need to really
+supervise and tell exactly the model how
+to how it should be acting and then when
+you train it on on our finetuning API,
+it moves it closer in that direction.
+Reinforcement fine-tuning introduces re
+like RL or reinforcement learning to the
+loop. way more complex, way more
+finicky, but an order of magnitude more
+powerful. And so, um, that's actually
+what's really resonated with a lot of
+our customers. It allows you to if you
+use RFT, the the discussion is less of
+like creating a custom model that's
+specific to your own use case. It is you
+can actually use your own data and
+actually crank the RL uh uh yeah, turn
+the crank on RL to actually create a
+like best-in-class model for your own
+particular use case.
+&gt;&gt; And so, that's kind of the the main
+difference here. Um, with RFT, the data
+set looks a little bit different.
+Instead of, you know, prompt completion
+pairs, you really need a set of tasks
+that are very gradable. You need a
+grader that is very objective that you
+can use here as well. Uh, and so that's
+actually been something that we've
+invested a lot in over the last year.
+And, um, we've actually seen a couple a
+good number of customers get really good
+results on this. We've talked about a
+couple of them across different
+verticals. So, Rogo, um, which is a
+startup in the, um, financial services
+space, um, they have a very, you know,
+sophisticated AI team. I think they
+hired some folks from DeepMind um to to
+run their AI program and they've used
+been using RFT uh to get best-in-class
+results on you know parsing through
+financial documents answering questions
+around it and and doing tasks around
+that as well.
+&gt;&gt; Um there's another uh uh startup called
+Accordance that's doing this in the tax
+space. I think they they've been
+targeting um an eval called tax bench uh
+which looks at you know CPA style tasks
+as well and because they because you
+know they're able to turn it into a very
+gradable setup um they're actually able
+to turn the RFT crank and also get I
+think like soda results on a tax bench
+just using our RF uh uh product as well
+and so um it has kind of shifted the the
+discussion away from just customizing
+something for your own use case to like
+really leveraging your own data to
+create a best-in-class maybe best in the
+world model for uh something that you
+care about for your business.
+&gt;&gt; Yeah. I feel like the the base models
+are getting so good at instruction
+following
+&gt;&gt; that for you know
+&gt;&gt; behavior like steering like you know you
+don't need to find tune at that point
+like you know you can describe what you
+want and is pretty good at it
+&gt;&gt; but pushing the frontier on like actual
+capabilities my hunch is that RF will
+pretty much become the norm like you
+know if you are actually pushing in your
+field like you know intelligence like
+you know to a pretty high point
+&gt;&gt; like at some point like you know you
+need to RL essentially with custom
+environments.
+&gt;&gt; Yeah.
+&gt;&gt; Fascinating.
+&gt;&gt; And even going back to the point earlier
+around like top down versus bottoms up
+for some of these enterprises, a lot of
+the data that you end up needing for RFT
+to require like very intricate knowledge
+about the exact task that you're doing
+and understanding how to grade it. Uh
+and so a lot of that actually comes from
+bottoms up. Like a lot I know a lot of
+these startups will work with experts in
+their field to try and get the right
+tasks and um um get the right feedback
+to craft some of these data sets.
+Without further ado, we're going to jump
+into my favorite section, which is a
+rapidfire question. We had a lot of
+great uh friends of ours send in some
+questions for you guys. Okay.
+&gt;&gt; We'll start with Ultimator's favorite
+game, which is a long short game.
+&gt;&gt; Mhm.
+&gt;&gt; Pick a business, an idea, a startup that
+you're long
+&gt;&gt; and the same short that you would bet
+against that there's more hype than
+there is reality. Uh, whoever's ready to
+go first, long short.
+&gt;&gt; My long is actually not in the AI space,
+so this is going to be slightly
+different. Um there uh my short is
+though in the in the AI uh space. So um
+I'm actually extremely long uh esports
+and so uh what I mean by esports is the
+entire like professional gaming industry
+that's emerging around video games.
+&gt;&gt; Um very near and dear to my heart. I
+play a lot of video games and so I watch
+a lot of this. So um obviously I'm
+pretty in the weeds on this. Um but I
+actually think there's incredible
+untapped potential in esports and
+incredible growth to be had in this
+area. Um so concretely what I mean are
+like you know a really big uh one is uh
+League of Legends. all of the games that
+Riot Games puts out, they actually have
+their own professional leagues. Uh they
+actually have professional uh
+tournaments. Uh believe it or not, they
+rent out stadiums actually now.
+&gt;&gt; Um but I just think it's like if you
+look at kind of what the youth and like
+what younger kids are looking and where
+their time is going, it's predominantly
+going towards these things. They spend a
+lot of time on video games.
+&gt;&gt; They watch more sports and like soccer,
+basketball, you know.
+&gt;&gt; Yeah. Yeah. Yeah. Yeah. Yeah. A growing
+number of these too. Um I've actually
+been to some of these uh events and it's
+very interesting.
+Yeah. Yeah. I'm extremely long and
+stuff. Um uh and
+&gt;&gt; and so they're booking out stadiums for
+people to go watch electronic sports.
+&gt;&gt; Yeah. Yeah. Yeah. It's uh I literally
+went to Oracle Arena, the old Warrior
+Stadium to watch one of these I think uh
+before CO. Um and then the So it's just
+Wow. That's 5 years ago.
+&gt;&gt; So I actually I've been following this
+for a while and I actually think it had
+a really big moment in CO like everyone
+was playing video games and I think it's
+kind of like come back down. So I think
+it's like undervalued, you know, it's
+like I think no one's really
+appreciating it now, but it has all the
+elements to like really really take off.
+&gt;&gt; Um, and so the youth are doing it. The
+other thing I'd say is it is huge in
+Asia, like absolutely massive in Asia.
+Um, it is absolutely big in uh Korea, in
+China as well. Like you know, we rented
+out Oracle Arena, I think, or like the
+the event I went to was an Oracle Arena.
+My sense is in Asia, they rent out like
+the entire stadiums, like the soccer
+stadiums, and the players are already
+like celebrities. So anyways, um you
+know, as like you know, the I know like
+Korean culture is really making its way
+into the US as well. I think that's
+another tailwind for this whole thing.
+But anyways, esports, I think is
+something you should keep an eye out on
+because uh uh there's a lot of room for
+growth.
+&gt;&gt; Very unexpected.
+&gt;&gt; Yeah,
+&gt;&gt; good to hear. Short
+&gt;&gt; uh my short my short's a little spicy.
+Um which is I'm short on uh the entire
+category of like tooling uh around AI uh
+AI products. Uh and so this this
+encapsulates a lot of different things.
+kind of cheating because some of these,
+you know, I think are starting to play
+out already. But, um, I think like two
+years ago it was maybe like Eval's
+products or like frameworks or vector
+stores. I'm pretty sure those
+&gt;&gt; I think nowadays there's a lot of um
+additional uh excitement around other uh
+tooling around AI models. So, uh RL
+environments I think are really big
+right now as well. Unfortunately, I'm
+very short on those. Um not really
+&gt;&gt; uh I don't really see a lot of uh
+potential there. see a lot of potential
+in and reinforcement learning and
+applying it but I think the startup uh
+uh space around our own environments I
+think is really tough.
+&gt;&gt; Um main main thing is is one it's just a
+very competitive space. There's just a
+lot of people kind of operating in and
+then two
+&gt;&gt; um if the last two years have shown us
+anything the space is evolving so
+quickly and it's so difficult to try and
+like adapt and make and understand what
+the exact stack is that will really you
+know
+&gt;&gt; uh uh carry through to the next
+generation of models. I think that just
+makes it very difficult when you're when
+you're in the tooling space because you
+know today's really hot framework or
+really hot hot tool might just not get
+used in the next generation of models.
+&gt;&gt; So I I've been noticing like the same
+pattern which is the the teams that
+&gt;&gt; build like breakout like startups in AI
+are extremely pragmatic
+&gt;&gt; pragmatic
+&gt;&gt; like they're not super like you know
+intellectual about like the perfect
+world etc. And it's funny because I feel
+like you know our generation has
+basically started in tech in a very like
+stable like you know moment where you
+know technology had been building up
+like you know for years and years with
+like SAS like cloud etc. And so we were
+in a way like raised like you know in
+that very stable moment where it makes
+sense at that point to you know design
+like very like you know good like
+abstractions and toolings because you
+know you have a sense where it's going
+&gt;&gt; but it's so different today like no one
+quite knows what's going to happen next
+year or two. So it's almost impossible
+like to define like the perfect tooling
+and platform.
+&gt;&gt; Right. Right. Right. Right. Well, that's
+uh there's a lot of that going around
+right now.
+&gt;&gt; Yes.
+&gt;&gt; Um spicy. A lot of homework there. Uh
+Olivia, over to you, sir. Long short.
+&gt;&gt; Long short.
+&gt;&gt; I've been thinking a lot about education
+for the past month. Uh in the context of
+kids,
+&gt;&gt; um
+&gt;&gt; I'm pretty short on any education, which
+basically emphasizes human memorization
+at that point. And I say that having
+mostly been through the education
+myself. But you know like I learned so
+much on like you know history facts like
+you know legal things that are um you
+know some of it like does shape your way
+of thinking. A lot of it frankly is just
+like you know knowledge tokens
+essentially and those knowledge tokens
+you know it turns out like you know LM
+are pretty good at it.
+&gt;&gt; Um so I'm I'm quite short on that.
+&gt;&gt; That's right. You won't need memory when
+strategy is bionic. You can just think
+about straight into your head.
+&gt;&gt; Exactly. Exactly. What am I long at? Um,
+frankly, I think
+healthcare is probably the industry that
+will benefit the most from AI in the
+next like year or two.
+&gt;&gt; I would say more.
+&gt;&gt; I think like all the ingredients are
+here for a perfect storm.
+&gt;&gt; Mhm.
+&gt;&gt; Um, an huge amount of like structured
+and structured data, you know, it's
+basically the heart of, you know,
+&gt;&gt; like the the pharma companies. Uh, the
+malls are excellent at digesting,
+processing that kind of data.
+uh a huge amount of like admin like you
+know heavy like documents heavy like you
+know culture but at the same time like
+companies which are very technical very
+R&amp;D friendly like you know companies
+like you know who's like sort of
+technology in a way at the heart of what
+they do and so yeah I'm pretty bullish
+on the health
+&gt;&gt; this is like life sciences so you mean
+life sciences research organizations
+that are producing drugs
+&gt;&gt; gotcha exactly yeah got
+&gt;&gt; yeah it's almost like you know over the
+last 20 30 years these these like pharma
+or like biotech companies have have
+basically if you look at the work that
+they're doing like only a small amount
+of it is is actual research and so much
+of it ends up being admin and like you
+know documents and and things like that
+and that area is just so ripe for you
+know something to happen with AI and I
+think that's what we're seeing with
+Amgen and some of these other customers
+and it's also like not what they want to
+do it's I think it's good that we have
+some regulations there obviously but
+like just means that they have like
+reams and reams of things to kind of go
+through
+&gt;&gt; and so
+&gt;&gt; you know like when you have a technology
+that's able to really help like bring
+down the the cost of something like
+that. I think it'll just you know tear
+right through it
+&gt;&gt; and I think once governments and like
+you know institutions are going to
+realize that like if you step back like
+it is probably one of the biggest
+bottleneck to like human progress right
+&gt;&gt; you step back in the past decade like
+you know how many like true like
+breakthrough drugs have there been like
+you know not that many like you know how
+life would be different like if you
+double that rate essentially so once you
+realize what stakes yeah my hunch is
+that we're going to see quite a bit of
+momentum in that space. Wow. All right.
+Lots of homework there as well.
+&gt;&gt; Yeah.
+&gt;&gt; Next one. Favorite underrated AI tool
+other than chat GPT. Maybe
+&gt;&gt; I love granola.
+&gt;&gt; Oh man, you love so much granola. Like
+um
+&gt;&gt; two votes for granola.
+&gt;&gt; There is something like Yeah.
+&gt;&gt; Hey, what about chat GPT record?
+&gt;&gt; I like to record as well. But um there
+are some features in granola which I
+think are really done well
+&gt;&gt; like the whole like you know integration
+with your Google calendar is excellent.
+&gt;&gt; Yeah. Um and just you know the quality
+of like the transcription and like the
+summary is pretty good.
+&gt;&gt; Do you just have it on because I know
+your calendar is back to back. You just
+have granola on.
+&gt;&gt; So the funny thing is that I don't use
+granola internally. Uh I use for my
+personal life mostly.
+&gt;&gt; I see. Yeah. I see. On dates. I'm
+joking.
+&gt;&gt; I'll say yeah granola is actually going
+to be mine. So two votes for granola. Um
+I was going to say the easy answer for
+me is CEX. Uh as a software engineer
+it's just like so it's gotten so good
+recently. Codex Cly especially with GPT5
+especially for me I tend to be less
+timesensitive about like uh you know the
+iteration loop with with coding and so
+leaning into GPD5 on Codex I think has
+been really really
+&gt;&gt; what about Codex has changed because you
+know Codex has also been through a
+journey Codex has been around for a bit
+I remember like it's been launched for
+like a more than over a year ago like
+what's what's changed about Codex
+has been around for a bit
+&gt;&gt; I feel like it's been less than a year
+for Codex
+&gt;&gt; few months I would say
+&gt;&gt; the time dilation is so crazy in this
+the old it feels like it's been around
+forever.
+&gt;&gt; A year ago with GPT4 like you remember
+that demo like that feels like ages ago.
+&gt;&gt; One hadn't even come out yet. 12 days of
+Christmas hadn't happened yet.
+&gt;&gt; The voice demo is
+&gt;&gt; there's a naming thing. Okay. But
+anyway,
+&gt;&gt; oh there was a Codex model.
+&gt;&gt; That's what I'm thinking about.
+&gt;&gt; There was a Codex model.
+&gt;&gt; We are. Yeah, we are. You're not you're
+not to blame for that confusion.
+&gt;&gt; Also, I think the the GitHub thing was
+called Codex as well. Yes. Yes, that's
+right. But I'm talking about our uh
+coding product within Chad GBT which is
+the Codex cloud offering and then also
+Codex Cly. So actually maybe if I were
+to narrow my answer a little bit more to
+Codex Clyde which I've I've really
+really liked. I like the local
+environment setup.
+&gt;&gt; Um the thing that's actually made it
+really useful in the last I'd say like
+month or so is uh one I think the team
+has done a really good job of just like
+&gt;&gt; getting rid of all the paper cuts like
+the small product polish and like paper
+cut things. It just is it kind of feels
+like a joy to use now. It feels more
+reactive.
+&gt;&gt; Uh and then uh the second thing honestly
+is is GPD5. Like I I just think GPD5
+really allows the product to shine. Um
+it's you know at the end of the day this
+is kind of a this is a product that
+really is dependent on the model
+underlying model and when you have to
+you know like iterate and go back and
+forth with model like four or five times
+to get it right to get it to like you
+know do the change that you want
+&gt;&gt; versus having it think a little bit
+longer and it just like one shots and
+does exactly what you want to do. You
+get this like weird like bionic feeling
+where you're like I feel so mind-melded
+with the model right now and like
+perfectly understands what I'm doing.
+And so getting like that kind of like
+dopamine hit and like feedback loop
+constantly with codeex has made it kind
+of like an indispensable thing that I
+really really like.
+&gt;&gt; Nice.
+&gt;&gt; Um and the other thing I'd say Codex is
+just really good for me is um so I use
+it in my for like personal projects. Um
+I also use it to like help me understand
+code bases like as a as a um engineering
+manager. Now I'm not as in the weeds on
+uh uh on the actual code. And so you're
+actually able to use codeex to really
+understand what's happening with the
+codebase. um have it like an ask
+questions and have it answer about uh
+things and really catch you up to speed
+on things as well. So like even the
+non-coding use cases are really useful
+with Codex Clay.
+&gt;&gt; Fascinating. Sam had this tweet about
+Codex um usage uh ripping I think like
+yesterday. So I wonder uh what's going
+on there. But you're uh you're not
+alone.
+&gt;&gt; Yeah, I think I think I'm not alone.
+Just judging from the Twitter feedback,
+I think people are really realizing how
+great of a combination Codex client and
+GPT5 are. Um, yeah, I know that team is
+undergoing a lot of scaling challenges,
+but I mean it the system hasn't gone
+down for me, so props to them. Um, but
+we are in a GPU crunch, so we'll see
+how, you know, how long that goes.
+&gt;&gt; Awesome. Awesome.
+&gt;&gt; All right, the next one. Um, will there
+be more software engineers in 10 years
+or less?
+There's about what
+&gt;&gt; professional software engineers?
+&gt;&gt; That's what you mean? Like full-time
+like actual jobs?
+&gt;&gt; Yeah. Yeah. cuz this is a hard one cuz
+like I think without a doubt there's
+going to be a lot more software
+engineering going on.
+&gt;&gt; Yes, of course.
+&gt;&gt; There's actually a really great post
+that was shared I think in our internal
+Slack. It was like a Reddit post
+recently. I actually think that
+highlights this.
+&gt;&gt; Um it was a really touching story. It
+was a Reddit post about someone who has
+a brother who's non-verbal. I actually
+don't know if you saw this. It was just
+posted.
+&gt;&gt; Um it's a person on Reddit posted. They
+have a non-verbal brother who they have
+to take care of. the brother like they
+tried all these types of things to help
+the brother interact with the world use
+computers but like vision tracking
+didn't work cuz I think his vision
+wasn't good um all the tools didn't work
+and then uh this brother um uh ended up
+using chat GBT I don't think he used
+Codex but he used chat GBT and basically
+taught himself how to create a set of
+tools that were tailor made to his
+non-verbal brother
+&gt;&gt; and basically a custom software
+application just for them and because of
+that he he now has this like custom
+setup that was written by his brother
+&gt;&gt; uh and allows him to like browse the
+internet. I think the video was like him
+watching the Simpsons or something like
+that which is really touching.
+&gt;&gt; But I think that's actually what we'll
+see a lot more of. Like this guy's not a
+professional software engineer. His
+title is not software engineer.
+&gt;&gt; But he like did a lot of software
+engineering probably pretty good. Um
+good enough definitely for his brother
+to use. So the amount of code, the
+amount of like building that that will
+happen, I think is just going to go
+through an incredible transformation,
+&gt;&gt; right?
+&gt;&gt; I'm not sure what that means for
+software engineers like myself. Maybe
+there's, you know, equivalent or maybe
+there's more.
+&gt;&gt; Yeah, more of me.
+specific way,
+&gt;&gt; but definitely a lot more software
+engineering and a lot of
+&gt;&gt; code. I buy that completely like I buy
+completely a thesis that there is a
+massive software shortage.
+&gt;&gt; Yeah.
+&gt;&gt; Like in the world like we've been sort
+of accepting it, you know, for the past
+20 years, but like the goal of software
+was never to be that super rigid, super
+hard to build, you know, uh artifact. It
+was to be like, you know, customized,
+like malleable. Uh and so I expect that
+we'll see like way more a sort of a a
+reconfiguration of like people's like
+you know jobs in scale set where way
+more people code like you know I expect
+that product managers are going to code
+like more and more for instance uh
+&gt;&gt; yeah you made you made your PM's code
+recently if you
+&gt;&gt; oh yeah we did that that was really fun
+uh we started like essentially not doing
+like PRDS like product requirements
+documents you know classic PM thing you
+write like five pages like my product
+does etc and you know PMs have been
+basically v coding prototypes
+And one it's pretty fast with GT5 and
+like Codex
+&gt;&gt; just a couple hours I think
+&gt;&gt; fast and second like it sort of conveys
+like so much more information than a
+document
+&gt;&gt; like you get a feel essentially for the
+feature like write or not.
+&gt;&gt; So yeah I expect that sort of you know
+behavior we're going to see more and
+more.
+&gt;&gt; Yeah. Instead of writing English you can
+actually now write the actual thing you
+want.
+&gt;&gt; Yeah. Yeah. And yeah, that's amazing.
+Advice for high school students who are
+just starting out their career.
+&gt;&gt; My advice is
+&gt;&gt; I don't know maybe it's evergreen like
+&gt;&gt; prioritize
+critical thinking above anything else.
+&gt;&gt; If you go in a field which requires like
+extremely high critical thinking like
+you know skills I don't know math,
+physics or you know maybe philosophies
+in that bucket you will be fine
+regardless. If you go in a field that
+sort of turns down I think and again
+gets back to like memorization like you
+know pattern matching I think you will
+probably be less future proof
+&gt;&gt; as a you know uh
+&gt;&gt; what's a good way to sharpen critical
+thinking
+&gt;&gt; um use EBT and have it test you
+&gt;&gt; that's actually having like you know
+worldass tutor
+&gt;&gt; who essentially knows
+&gt;&gt; how to put the bar like 20% of what you
+can do all the time you know
+&gt;&gt; uh is actually probably like a really
+good way to do it.
+&gt;&gt; Yeah. Nice. Anything from you, sir?
+&gt;&gt; Um mine is I I think it's just I think
+we're actually in such an interesting
+like unique time period where um the
+like younger So like maybe this is a
+more general advice for not just like
+high school students, but just like the
+younger generation, maybe even like
+college students. M
+&gt;&gt; it's like uh I think the advice would be
+don't underestimate how much of an
+advantage you have relative to the rest
+of the world right now because of how AI
+native you might be or how like you know
+in in the weeds of the tools you are
+&gt;&gt; my hunch is like high schoolers college
+students when they come into the
+workplace they're going to have actually
+a huge leg up on uh how to use AI tools
+how to actually transform the workplace
+and my push for like some of the younger
+I guess high school students is like one
+like just really immerse yourself in
+this thing and then two just like really
+take advantage of the fact that you're
+you're in a unique time where like no
+one else in the workforce really
+understands these tools as deeply
+probably as you do.
+&gt;&gt; Um a good example of this is actually we
+had our first intern class uh uh
+recently at at at OpenAI. Um a lot of uh
+software interns uh and some of them
+were just like the most incredible
+cursor power users I've like ever seen.
+&gt;&gt; They were so productive. I was I was
+shocked in a good way.
+&gt;&gt; Yep. Yep. I was like yeah I know I know
+we can get good interns but like I don't
+know they'd be like this good. Um, and I
+think part of it is like they've grown
+up um, using these tools for better or
+worse in college.
+&gt;&gt; Um, but I think the meta level point is
+they they're so like AI native and even
+like I don't know me and Olivier, we're
+like kind of AI native. We work at Open
+AI but like we haven't like been steeped
+in this and kind of grown up in this and
+so uh, the advice here would just be
+like yeah leverage that like you know
+don't be afraid to kind of like go in
+and spread this knowledge and take
+advantage of it in the workplace because
+it is a pretty big advantage for Yeah, I
+can't remember who said this to us at
+Palanter, but every intern class was
+just getting faster, smarter, like
+laptops, like smarter every generation.
+&gt;&gt; You sure didn't peak in 2013 with, you
+know, when I was an intern.
+&gt;&gt; That's right. That's right.
+&gt;&gt; He's a weird spike
+in 2013. Yeah.
+&gt;&gt; Two guys like 12 players.
+&gt;&gt; That's right. That's right. That's
+right.
+&gt;&gt; Yeah.
+&gt;&gt; Well, a lot's happened. You know, a
+lot's happened since you guys joined
+OpenAI, right? What? Three years and
+almost three years. Um, in your OpenAI
+journey, what has been the the rose
+moment? Your favorite moment,
+&gt;&gt; the bud moment where you're like most
+excited about something, but but still
+opportunity ahead
+&gt;&gt; and the thorn toughest moment of your of
+your of your uh three-ear journey.
+&gt;&gt; The thorn is easy for me.
+&gt;&gt; What we call the blip
+&gt;&gt; which is you know the coup of the board
+like that was a really tough moment.
+Yeah, it's funny because you know after
+the fact it actually reunited quite a
+bit the company like there was a feeling
+open had a pretty strong culture before
+but you know there was a feeling of like
+camaraderie essentially that was even
+stronger
+&gt;&gt; but you know sure like tough on the day
+off
+&gt;&gt; it's very rare to see that
+anti-fragility most orgs after something
+like that break break apart but I feel
+like open got stronger open came back
+&gt;&gt; it's a good point I feel it made open
+stronger for real now essentially when I
+look after the fact when I look at you
+other like you know news like departures
+or you know whatever like you know bad
+news essentially
+&gt;&gt; I feel the company has built like you
+know a thicker skin and you know an
+ability to like recover like way quicker
+&gt;&gt; I actually think part I think it's
+definitely right part of it too I think
+is also just the culture I also think
+this is why it was such a low point for
+a lot of people so many people just at
+open care so deeply about what we're
+doing which is why they work so hard um
+you just care a lot about the work it
+almost feels like your life's work like
+it's a very audacious mission and thing
+that you're which is why I think the
+blip was like so tough on a lot of
+people, but also is what I think helped
+bring people back together and why we
+were able to hold together and and get
+that that thick skin as well.
+&gt;&gt; Yeah.
+&gt;&gt; I have I have a separate uh worst moment
+uh which was uh the big outage that we
+had in uh December of last year if you
+remember. Yeah, you remember? I do.
+&gt;&gt; Uh it was like a multi-hour uh outage.
+Um really highlighted to uh to us how uh
+essential of almost like a utility the
+API was. So, so the background is I
+think we had like a like a 3 4 hour
+outage sometime in
+&gt;&gt; uh November or December last year.
+&gt;&gt; Um really brutal pure zero. No one could
+hit Chad GBT. No one could hit the APIs.
+It was it was really really rough.
+&gt;&gt; Um that was just really tough just from
+a like
+&gt;&gt; you know customer trust perspective. I
+remember we like talked to a lot of our
+customers to kind of like um postmorton
+them on what happened and kind of our
+plan moving forward. Thankfully, we
+haven't had anything close to that uh
+since then. And I've been actually
+really happy with um all the investments
+we've made in reliability over the last
+uh six months. Um uh but uh in that
+moment, I think it was really it was
+really tough.
+&gt;&gt; Yeah. On the happy side, like on the
+roses, um
+&gt;&gt; I think I have two of them. The first
+one would be GPT5 was really good. like
+the sprint up to GPT5 I think really
+like you know
+&gt;&gt; showed like the best of open AI like you
+know having like cutting edge like
+science research like you know extreme
+like customer focus like you know
+extreme like you know infrastructure and
+inference like you know talent uh and
+the fact that we were able like to ship
+like such a big model and like scale it
+to like you know many many many many
+tokens you know per minute like almost
+like immediately I think speaks to it.
+So that one I really
+&gt;&gt; no with no outages.
+&gt;&gt; With no outages.
+&gt;&gt; Yeah. Really good reliability. Yep.
+&gt;&gt; Like I remember when we shipped like D4
+Turbo like a year ago, a year and a half
+ago, we were terrified by you know like
+the influx of traffic and I feel we've
+really gotten like much better at you
+know shipping like those you know
+massive updates.
+&gt;&gt; Um the second uh rose like you know
+happy moment for me would be the first
+death day was really fun.
+&gt;&gt; Yeah. It felt like a coming of age like
+of open AI like you know we are
+embracing that you know we have like a
+huge community developers you know we
+are going to ship models new products
+and I remember basically seeing like you
+know all my favorite people open eye or
+not you know like you know essentially
+nerding out on you know what are you
+building like you know what's coming up
+next it felt really like you know a
+special moment uh in time. No, that was
+actually going to be mine as well. So,
+I'll just pay you back off of that,
+which is the very first Dev Day, 2023.
+Yeah. Uh, November. Uh, I actually I
+remember it. So, I mean, obviously a lot
+of good things have happened since then.
+There was just a very I don't know why
+for for me it was a very memorable
+moment, which was
+&gt;&gt; uh one uh it was actually quite a rush
+up to dev day. We were we shipped a lot.
+So, our team was just really really
+sprinting. So, it was like this high,
+you know, uh high stress environment
+kind of going up. to add to that um you
+know of course because we're openi we
+did a live demo on Sam's and Sam's
+keynote of all the stuff that we shipped
+and I just remember being in the back of
+the audience sitting with like the team
+&gt;&gt; and like waiting for the demo to happen
+once it finished happening we all just
+like let out a huge sigh of relief like
+oh my god thank you um
+&gt;&gt; uh and so there's I think there's just
+like a lot of like you know buildup to
+it for me the most memorable thing was I
+remember right after dev day all the
+demos worked well all the talks worked
+well we had the afterparty and then I
+was just in a way driving home at night
+with the music playing. It was just like
+such a great end to the dub day. That
+was that was what I remember. That was
+my rose for the last uh last
+&gt;&gt; That's awesome. I assume you guys are,
+but please tell me if you're AGI pled.
+Yes or no? And if so, what was the
+moment that got you there? What was your
+aha moment? When did you feel the AGI?
+&gt;&gt; I think I'm AJ Peeled. I think I'm a
+Jed.
+&gt;&gt; You're definitely AGI pled.
+&gt;&gt; I am. Okay.
+&gt;&gt; Uh I've had a couple of them.
+The first one was the realization in
+2023 that I would never need to code
+manually like ever ever again. Like I'm
+not I'm not the best coder frankly you
+know I chose my job like you know for a
+reason.
+&gt;&gt; Um but realizing that you know what I
+thought was a given that we humans would
+have like to write like basically
+machine language like forever is
+actually not a given and that you know
+the pace of price is huge
+&gt;&gt; feeling the AGI. Um the second like
+field ai moment for me was uh maybe the
+progress on voice and multiodality
+&gt;&gt; like you know text like at some point
+you get used to it like okay you know
+the machine can write pretty good text.
+Yeah, voice makes it real.
+&gt;&gt; But once you start actually talking like
+you know to something that really
+understands your tone
+&gt;&gt; like you know understand my accent like
+in French um it felt like sort of a uh
+moment like okay machines are going
+beyond like cold mechanical
+deterministic like you know like logic
+to something like much more like
+emotional and like you know tangible.
+&gt;&gt; Yeah, that's a great one. Yeah, mine
+mine are uh uh so I do think I'm I am a
+GI pill. I probably gradually became a
+GI pill over the last couple years. I
+think there are two and and for me um
+yeah, I think I I I actually get more
+get more shocked from the text models. I
+know the multimodal ones are are really
+great as well. For me, I think they
+actually line up with with two like
+general breakthroughs. So
+&gt;&gt; um the first one was right when I joined
+the company in September 2022.
+&gt;&gt; We it was pre-trib.
+&gt;&gt; Yeah. 2 months ago. Um, but at the time
+GPD4 already existed internally
+&gt;&gt; and I think we were trying to figure out
+how to deploy. I think Nick Turley's
+talked about this a lot. Um,
+&gt;&gt; the early days of chat GBT, but it was
+the first time I talked to GPD4 and it
+was it was like going from nothing to
+GBD4 was just
+&gt;&gt; the most mind-blowing experience for me.
+I think for the rest of the world, maybe
+going from nothing to GPD 3.5 in chat
+was maybe the big one and then going
+from 3.5 to 4. But for me and I think
+for a lot of maybe some other people who
+joined around that time going from
+nothing to or or not nothing but like
+what was publicly available at the time
+but going from that to GBT4 was just
+incredible. Like I just remember asking
+throwing so many things at like there's
+no way this thing is going to be able to
+give an intelligible answer and it just
+like knocks it out of the park. It was
+it was absolutely incredible.
+&gt;&gt; GPT4 was insane. I remember GPT4 came
+out when I was interviewing with OpenAI
+and I was still like on the phone and
+should I Joshua join? I saw that thing.
+I was like, "Okay." I mean, I mean,
+guys, there's no way I can work on
+anything else at that point.
+&gt;&gt; Yep. Yep. Yep. Yeah. So, GBD, yeah, GBD4
+was just crazy. Um, and then, uh, the
+other one was, uh, like is the other
+breakthrough, which is like the
+reasoning paradigm. I actually think the
+the purest repres representation of that
+for for me was deep research. Uh, and
+throwing like
+&gt;&gt; like asking it to like really look up
+things that I didn't think it would be
+able to know and seeing it like think
+through all of it, like be really
+persistent with the search. uh get
+really detailed with the write up and
+all of that. That was pretty pretty
+crazy. I don't remember the exact query
+that I threw it, but I just remember
+like I feel like the field AGI moments
+for me are like I'll throw something at
+the model that I I was like there's no
+way this thing will be able to get and
+then it just like knocks it out of the
+park.
+&gt;&gt; Like that is kind of the Philly AJI
+moment. I definitely have that with Deep
+Research with some of the things I was
+asking it.
+&gt;&gt; Yeah.
+&gt;&gt; Well, this has been great. Thank you so
+much folks. You guys are building the
+future. You guys are inspiring us every
+day and appreciate the conversation.
+&gt;&gt; Yeah. Thank you so much.
+Thank you.
+[Music]
+As a reminder to everybody, just our
+opinions, not investment advice.

@@ -1,0 +1,2348 @@
+Kind: captions
+Language: en
+We're half an hour from the open in Hong
+Kong, Shanzhan, and Shanghai. You're
+watching the China Show. I'm Averil Hong
+in Singapore
+&gt;&gt; and I'm David Inglass here in Hong Kong.
+Let's get to your top stories today.
+Asian chipmakers in focus as President
+Trump announces a 100% tariff on
+semiconductors with some carveouts for
+those investing in the United States.
+will be putting a tariff on of
+approximately 100% on chips and
+semiconductors.
+But if you're building in the United
+States of America, there's no charge.
+Now, traders are also weighing the
+impacts of Trump doubling tariffs on
+India over Russian energy imports with a
+warning that China could also face
+punishment. And momentum is building for
+a US rate cut next month as three Fed
+officials have voiced concerns over the
+weakness in the labor market.
+[Music]
+Good morning. Welcome to the show. We're
+looking at market action right now. And
+you know what the story is? one where it
+doesn't seem like there's a lot of news
+out there. I guess in other words, right
+now we're taking this one in stride.
+Perhaps it could be down to the lack of
+details as far as is it going to be
+product category specific? Is it going
+to be across all semiconductor products?
+A lot of questions remain, but the
+credible of course how credible the
+threat is. We'll see what happens of
+course over the next few hours or so. At
+the moment though, as you can see,
+equity markets are doing quite well.
+Half of 1% to the upside Asia Pacific.
+We'll get to the earning story because
+it's a big theme as well as far as Japan
+specifically goes today. Right. A quick
+glance at some of the semi semiconductor
+names. You have TSMC, you have Samsung,
+SK Highix, Tokyo Electron on your
+screens right now. And as you can see,
+we're actually doing quite well to the
+upside. It's worth pointing out TSMC
+overnight did also catch a very strong
+bid. Bit of catch up right now. Samsung
+Electronics up two and a half%. Uh we're
+looking at the Bloomberg dollar index.
+Reason we have that in play, it's also
+the Fed conversation. We have the Bank
+of England, by the way, on deck today.
+Bloomberg dollar index has fallen enough
+and we're now again at critical support.
+50-day moving average is where we are
+right now as far as that is concerned.
+Uh rate cuts largely expected out of the
+Bank of England. Apart from other things
+on deck today, uh you have a 30-year
+bond auction, number one, and number two
+is you also have some trade numbers
+coming through out of China, which takes
+us into the China part of the
+conversation here. And we're looking at
+A50 futures. As you can see here, we're
+flat and Shanghai crude and focus given
+of course all the
+uh all the conversations around Brent
+and Dollar China. Uh nothing watch
+nothing much to not as far as that is
+concerned. So it's turning out to be a
+big nothing burger.
+&gt;&gt; Yeah, we're still watching out. Maybe
+this is also part of the taco trade,
+right? and chips. Of course, given how
+we were waiting out for what Trump would
+do on these sectoral tariffs, now we
+know he has 100% tariffs on
+semiconductors in his sites, but there
+are carveouts or exemptions. So, we know
+how TSMC given how it's committed to US
+uh fab investments, you know, that is
+why we're seeing TSMC surging at the
+start of trade. South Korean media have
+reported that maybe the likes of SKH
+High, Samsung, they won't be hit with
+these tariffs either. And then the Apple
+story, right? 100%
+uh tariffs for chips. Maybe it won't be
+part of this because of its hundred
+billion dollar investment in the US.
+This is seen as a sort of win for Tim
+Cook and indeed Apple as well, David.
+Yeah, it it was an announcement before
+the meeting took place at the White
+House and it certainly underscores, you
+know, what what would constitute being
+considered for an exemption, right? And
+it's really a commitment uh as far as,
+you know, capex in the US is concerned.
+And we were looking at some statistics
+earlier on here, Averil, uh 2.5 trillion
+right now is that number that a lot of
+corporates have committed to the US. So
+we'll talk about that and of course
+whether or not that does then qualify uh
+certain things for for for for in terms
+of the uh the exemptions there which
+goes into the India story right because
+India is actually a place where Apple
+has actually started increasing its
+capacity as well. uh so we'll see what
+happens there because India is now part
+of the conversation it's doubled the
+tariffs and as far as the other uh
+earnings uh the other theme is concerned
+as far as markets go uh perhaps not as
+consequential but it's it's it's taking
+place consistently under the hood uh are
+corporate earnings right I think you
+have about 15% of the topics index
+reporting today we did see of course in
+the greater China space Cath Pacific was
+a big news moment uh yesterday massive
+drop in the stock and I think we have a
+couple of big names reporting here in
+Hong Kong but apart from that of course
+April it's the tariff conversations,
+100% tariff uh on on chips as you were
+pointing out there.
+&gt;&gt; Yeah, I think that's the the main bit of
+information we've been getting. Right.
+So, let's get more on President Trump's
+latest tariff bombshell that 100% tax on
+chips imported into the US but with
+exemptions for commitments to produce
+locally.
+will be putting a tariff on of
+approximately 100% on chips and
+semiconductors.
+But if you're building in the United
+States of America, there's no charge.
+Even though you're building uh and
+you're not producing yet in terms of the
+big numbers of jobs and all of the
+things that you're building, uh if
+you're building, there will be no
+charge.
+Bloomberg's digital politics editor Romy
+Vagis and China correspondent Mimllo are
+with us. So Romy, let's start with you.
+How significant is it that Trump says
+he's exempting companies that build in
+the US from the new chips tariffs?
+&gt;&gt; This is an incredibly significant carve
+out. I mean, if we take Trump's words
+and if Trump's words are put into a plan
+and we're saying that companies that
+have committed
+promised to spend millions in the United
+States on on factories, on production,
+on plants, that they would be exempt
+from these semiconductor tariffs. That
+means that the largest players in the
+industry won't be affected. So, we're
+talking about TSMC, Samsung, Micron,
+Texas Instruments. these major players
+would not be affected by these tariffs
+and that of course includes Apple. So
+yes, this is a huge exemption from these
+tariffs.
+Okay, let's Romy David here. Let's fast
+forward this film. How likely is it that
+the iPhone will be completely assembled
+in the US?
+Well, you may remember that earlier in
+the year Trump said that he told Tim
+Cook, "I want the iPhone to be
+completely manufactured in the United
+States." Um, that seems fairly unlikely.
+Even Tim Cook today when pressed said,
+"Uh, it will be made elsewhere for a
+while." Um, yes. So this is a
+significant investment by Apple, 600
+billion in total in the United States.
+Some significant investments, but no, we
+are not going to see made entirely in
+the USA uh a sticker slapped like that
+on the iPhone.
+&gt;&gt; But Trump is satisfied,
+&gt;&gt; Romy. It also all kind of makes you
+wonder what this is going to mean for
+Apple's manufacturing in India at a time
+when he's doubling these tariffs uh on
+the South Asian nation. What exactly is
+Trump trying to achieve here?
+&gt;&gt; Yeah. So, as of 12:01 a.m. New York
+time, India will have this 25% tariff.
+Um that's the country bycountry tariffs
+that Trump had announced last week. Then
+in 21 days if nothing changes there'll
+be an additional 25%. And this is
+specifically because Trump wants to
+penalize India for buying energy from
+Russia. Trump is getting increasingly
+frustrated at the pace or the lack of
+progress really um of a truce between
+Russia and Ukraine and he wants to put
+pressure on India to stop buying energy
+from Russia. And you know we have seen
+this before that that Trump uses tariffs
+not for economic reasons but for
+political reasons and for other goals.
+So at the at the end of 21 days if
+nothing changes we will see a 50% tariff
+on Indian goods.
+&gt;&gt; Yeah. And you know what China's now
+tossed into the same bucket in the same
+way India was upset that they got tossed
+into the bucket of Russia. and Minman
+I'll bring you in because now this is
+really part of Donald Trump looping in
+China with the same the possibility that
+they he might increase tariffs on China
+because of what their dependence if you
+will their buying of Russian oil.
+&gt;&gt; Yes. Again this is a big question mark
+right because the two sides just
+concluded their third round of trade
+talks in Stockholm and there were quite
+positive signals from both sides. Trump
+even saying that he's close to a trade
+deal with China. But now after imposing
+this 25% additional tariff on India,
+he's saying the same thing could happen
+for China. And China of course is the
+biggest buyer of Russian crude. If China
+were to stop buying Russian crude, it's
+going to be very very disruptive and
+costly for the Chinese economy because
+about a fifth of their crude oil is
+coming from Russia. And this is
+something that China will likely push
+back hard against because China already
+got some warning from this in a third
+round of trade talk. Scott Besson
+mentioned this in Stockholm. China had
+said they they are going to protect
+their energy sovereignty. The Chinese
+foreign ministry in a press briefing in
+July had said they would be opposed to
+such a long armed jurisdiction and
+illicit secondary tariffs. And Global
+Times, the Chinese state linked media
+has also said any targeting of China
+because of the buying of Russian oil
+could potentially undermine the trade
+talk mechanism. So it's going to be
+pretty serious. If he does impose these
+tariffs, we could see, you know, the
+progress that we have made so far really
+being derailed and perhaps things
+tension escalating once again between US
+and China.
+&gt;&gt; And Mim, amid all this this morning,
+we're going to be getting a snapshot of
+Chinese trade.
+That's right. We are expecting the trade
+data out today and economists are
+expecting exports to still hold up quite
+well at 5.6% 6% versus the previous
+month's 5.9%. Now we have already been
+getting the high high frequency data
+weekly and that shows that shipments to
+the US had started to fall after a brief
+rebound in June. That's after the London
+talks that brief tariff pause there. So
+that tells us that the front-loading
+momentum has already starting started to
+fade already. There's so much of
+frontloading taking place in the first
+half of the year. So Bloomberg economics
+believe that in the second half of the
+year even with a trade truce extension
+they believe that exports to the US will
+continue to decline but overall trade
+with the world that's still holding up
+pretty well. It shows that Chinese
+exporters had been able to find
+alternative markets outside the US.
+Perhaps there is still some trans
+shshipments that are going on to uh
+skirt around those tariffs. And the key
+risk going forward is whether or not
+other countries start to crack down on
+these trans shshipments as part of their
+trade deal with the US. But there had
+been some analysts uh like Dan Wang from
+Eurasia Group who said that that risk is
+not high especially among Southeast
+Asian countries that may not have the
+willingness and the incentive and the
+capacity to actually crack down on that.
+Uh we have the import data as well
+coming out today. Expectations is a
+decline of 1% really continuing to show
+that weakness in domestic demand there.
+Minman, thank you so much. Our team
+there, Minman Lo and Romy Fergiz there,
+of course, to talk us through the
+complications, well, the latest and the
+potential complications there on the
+tariff front there. By the way, just one
+more ahead here on the chip tariff
+conversation here. So, coming up here on
+the China show, uh, Reva Gujon will be
+joining us to talk us through the
+potential impact on the industry as
+well. What we know, what we don't know,
+what's actionable, and what for now
+remains speculation. So, they'll be
+joining us in a couple of minutes as
+well, 17 minutes away. And also counting
+down to the open of trade and around the
+open today, Hiong International Wang
+Chanzu will be joining us and on the
+point Minman was just making, you can't
+frontload forever. They actually think a
+growth surprise is in story in China
+towards the end of this year. The
+opening bell 17 minutes away here in
+Hong Kong, up in Shanghai, and in
+between in Shenzhen. This is the China
+show. Good morning.
+[Music]
+You're watching the China show. A couple
+of things that we're watching out for
+today. After the Shanghai com rallied, I
+think to the highest close since 2021.
+We also have the continued fallout from
+earnings, right, Kathy? Those passenger
+yields really raised eyebrows. 10%
+decline yesterday. Xiaomi getting
+downgraded uh by Nura and then falling
+highore keeping an eye on trade data as
+well and some of the points that our
+correspondents have been making. You
+can't frontload forever. Earnings
+announcements as well. Uh a number of
+them including SU Pacific and then of
+course this all also brings us to that
+tariff conversation particularly when it
+comes to chip uh and Apple suppliers.
+David.
+Yeah, lot to watch out for that. In
+fact, the uh our folks at
+uh Bloomberg economics have really put
+this out, right? So obviously I think
+for one what was in terms of the
+sequence of events the the announcement
+from Apple on the commitment 100 billion
+came before uh that meeting at the White
+House. So certainly it was in their and
+how they've framed it um uh was a clear
+move to secure political goodwill and
+add resiliency to Apple supply chain.
+Now as far as the what the meat on the
+bones is as far as this this this this
+call was concerned 100 billion does not
+include by the way the half a trillion
+which is separate establishing a US
+silicon supply chain with partners and
+as you can see I'm not going to go
+through all the names on your screens
+right now how do we make sense of this
+strategically in terms of how supply
+chains are going to get rejigged we know
+enough about 100% tariffs when where and
+what product categories is it a blanket
+across all products with semiconductors
+in
+Uh let's try and sort signal from noise.
+And joining us now is Reva Gujon uh
+director at independent research firm
+Rodium Group. Uh Reva, good morning from
+the Asia Pacific. Thank you so much for
+joining us. We're all yours. Initial
+take uh based on what we've heard so far
+the last few hours or so.
+&gt;&gt; Uh well the to the question you were
+just asking David on on what is actually
+covered here. If we go back at least to
+the April investigation announcement,
+the scope is very ambitious. Um, so it's
+supposed to cover chip making equipment,
+chip fabrication, even the actual
+electronic device that contains the
+chip. So the the point here is that
+Trump isn't just satisfied with bringing
+semiconductor manufacturing to the US,
+right? He wants to pull the entire
+electronics ecosystem away from Asia to
+the US. Now, lots of details, right,
+that we need to test here on what is
+there's the tariff announcement, right,
+that is is designed to drive these big
+onshore investments like Apple just
+made, but what's the design and the
+implementation of the tariff regime is
+critical. So, how would you design a
+component tariff to cover devices
+containing chips not made in the US? And
+critically, what's the phase in
+timelines? Right? This isn't this
+manufacturing isn't going to happen
+overnight. there's going to be consumer
+impacts here that have political impacts
+as well and even in the most optimistic
+onshoring scenarios. Um, for example,
+with TSMC, uh, if they are are are
+fabbing chips for Nvidia, Blackwell GPUs
+in Arizona, those chips are still going
+back to Taiwan for advanced packaging.
+Um, so still a lot here on phasin.
+Okay. So, Rea, let's let's play the
+let's let's let's let's let's
+fast forward that mental exercise,
+right? So, if if for example, if you
+were to advise the White House, then how
+you design policy to to make the threat
+credible? In other words, what what
+realistically can the US produce among
+the supply chain? How would you how
+would you design that policy in to
+incentivize capex back into the US and
+and what in what categories?
+&gt;&gt; Yeah. So critically, it's the exemption
+tied to the investment project itself,
+right? It's not enough for this
+administration just to make the mega
+investment deal, right? Um so you need
+to ensure that these projects actually
+break ground. So you create an incentive
+by tying tariff breaks to investment
+projects. Um this is administration is
+not a fan of grants like the the chips
+act funding for example. Maybe they'll
+be more open to tax credits as a further
+incentive, but that's still maybe down
+the line. Um so when we look at what
+tariff breaks you get right that are
+tied to investment projects um this
+really matters right because for all
+these leading edge fab uh projects for
+AI data centers there are a lot of
+things that go into these projects right
+everything from the middle the metals
+the chips the chipm equipment um and
+we're already seeing some signs of
+pragmatism here take semiconductor
+manufacturing equipment as one example
+um this is where if you look at the US
+EU new bilateral trade deal framework
+that was recently announced in the zero
+for zero tariff category. Semiconductor
+manufacturing equipment got in there.
+Right? So there is a reality check that
+seems to be dawning on the Trump
+administration of look, if Trump cares
+about his AI legacy, his political
+legacy, then he's going to need to get
+creative in how he actually implements
+and applies this tariff regime while
+still bu putting out that big tariff
+announcement to drive these big
+investment project pledges.
+Reva, pulling the supply chain away from
+Asia, investments into the US, this is
+all going to take time. It's also going
+to add cost. How does this affect US
+tech competitiveness, particularly in
+relation to AI?
+&gt;&gt; Well, exactly right. Uh the US doesn't
+want to short circuit all these big AI
+infrastructure buildouts. So, it's going
+to need to to create tariff breaks,
+right? these types of exemptions, it's
+going to need to get creative in how it
+implements it. That's where we'll see
+the details. And this may not come all
+in one go, right? If we take the auto
+tariffs as an example that has had
+multiple adjustments, right, to destack
+tariffs down the line, this could be
+just as messy. We'll have to see. Um,
+but I do think the president cares about
+having these buildouts happen under his
+watch. Um so so we will see carveouts
+probably and that's where probably the
+retroactive tariff threat comes into
+play to say look even if you're getting
+an exemption today you you won't um a
+few years from now if we don't see these
+projects actually happen. Um but still
+you know cost advantages is an important
+factor here and as it was noted earlier
+you're not going to be able to bring the
+entire electronic supply chain to the US
+overnight. Um there's that's obviously
+going to um blow commercial reason out
+of the water. Um but there is still a
+broader incentive to pull more
+semiconductor and electronics
+manufacturing away from Taiwan in
+particular. And so when we look at that
+plus very high tariffs that are are
+being imposed on Southeast Asia as well,
+that is likely to have some pull effect.
+Um but we really need to watch the US
+Taiwan bilateral closely now.
+&gt;&gt; Yeah. And as you were speaking, we got
+this hot uh crossing the terminal how
+Taiwan saying TSMC is exempted from the
+100% US ship tariffs. How do you see US
+Taiwan bilateral relations progressing
+from here on out?
+&gt;&gt; Well, the Trump administration is is
+attempting several objectives here,
+right? Um it's getting big investments
+out of TSMC in particular for leading
+edge fabrication. Um, at the same time,
+uh, it is also trying to, um, get more
+out of TSMC. So, we still need to see
+what how how far those pressure tactics
+go. Um, it's also trying to bring, um,
+more investment from companies like
+Foxcon. It's also trying to bring legacy
+chip capacity to the US as well, right?
+Um, so there's there's more to come out
+of the US Taiwan trade negotiation, the
+trade pressure that the US can apply
+there, also security leverage that the
+US tries to to use with with Taiwan. Um,
+but overlaying this picture, um, we have
+the US also grappling with, okay, how to
+get more investment out of TSMC for
+leading edge fabrication, but it still
+has an imperative to get an American
+chip champion uh, to lead. And right now
+Intel, which is supposed to take that
+mantle, is floundering. Um, so there's
+more to come, I think, on the the TSMC
+story and the Intel story as well here
+as the US tries to ensure that there's
+an American ship champion as it's
+drawing more of those assets out of
+Taiwan. Um, but then we need to look at
+what's ahead out of um the Trump Summit.
+How transactional will Trump get with
+Beijing as Beijing tries to impose U
+restraint on the US for defense support
+for Taiwan? Um, but this is this is the
+ultimate test, right, for Trump
+transactional transactionalism. Can he
+can he squeeze more investment out of
+Taiwan? Um, but can he at the same time
+probe for a grand bargain with China?
+That's a very tricky balancing act. Um,
+but I think he's going to get further
+with Taiwan on this front.
+&gt;&gt; Reva, pay, you know, pay close attention
+to your email because we might ask you
+to come on again fairly last minute.
+This is a developing story. Thank you so
+much for taking the time. is my point
+director at the roodium group joining us
+there on the chip conversation here. We
+just got the fix of the day coming out.
+It should be coming up bottom of your
+screen. 71345
+against the US dollar which should be
+that should be the strongest going back
+to last year. We'll get more details on
+that. Plenty more ahead. This is the
+China show.
+[Music]
+Welcome back. You're watching the China
+Show and we're counting down to the open
+of markets. All things considered, we've
+actually been seeing Chinese stocks
+fairing pretty well on a 3-day winning
+streak. But of course, these
+geopolitical developments. You got to
+wonder whether this cast a pal on trade
+today. And we haven't even gotten into
+the conversation about the Federal
+Reserve. We had at least three officials
+sounding increasingly concerned about
+the US labor market and you know that's
+informing bets of a doubbish pivot from
+the US central bank. For now we are
+seeing the hongen in the early goings.
+Uh looks like it could be quite a bright
+start. Maybe that is going to help
+offset some of these tariff concerns.
+Let's take a look at how mainland stocks
+are fairing. Extension of the gains
+potentially. We'll see if this holds to
+the end of the session. A couple of
+sectors we're watching including coal
+related stocks. I think Morgan Stanley
+put out a note that uh they see coal
+prices stabilizing. Aside from that,
+take a look at how Hong Singh is fairing
+especially the tech names right because
+of what we're seeing across Asia at the
+moment including the likes of TSMC, SKH,
+Samsung Electronics. It looks like a bit
+of a bounce on some of these Chinese
+consumer tech names. And of course,
+keeping tabs on Kathy as well, which
+yesterday showed a sharp decline
+following its earnings. Passenger yields
+raise a lot of concerns because it was a
+sharper than expected slump. Uh but not
+too bad overall on the benchmarks,
+right? We're seeing that green still
+seeping through. Taking a look at Apple
+suppliers as well on the mainland and it
+is a bright start. We're seeing it green
+across the board. This uh pledge for
+hundred billion dollar investment into
+the US would mean Apple is exempt from
+these 100% uh chip tariffs. So helpful
+potentially for Apple suppliers. Xiaomi
+as well. That's the other one that we're
+watching. Uh let's see how it is fairing
+in trade today. This is following Namura
+cutting it uh from buy to neutral. This
+is of course a stock that I think has
+tripled in the past year and we have
+earnings coming out about two weeks from
+now down about 2.3%.
+Uh but David, you were unpacking some of
+that earnings for us as well.
+&gt;&gt; Yeah, you know what and you know let me
+let me use the the Xiaomi story as a
+jump off point because it certainly when
+you look at the the changes that have
+come I'll get to Cathy Pacific in a
+moment here. Right. So in Xiaomi's case,
+it's it does seem that the more call was
+more a function of how how much a stock
+has gone up relative to us going into an
+earnings season, right? And that does
+seem to be what's consistent with the
+Cathy Pacific story, right? So it came
+out with earnings midday. Uh one of the
+biggest drops on record, right? 9% in
+fact, as we still speak, it's still down
+in the early minutes right now of of of
+the Thursday session. So that's number
+one. Uh and we're getting some
+downgrades there. We'll unpack that in a
+in a moment. And what the new price
+targets are at the bottom of the screen
+that's consensus rating, right? So, not
+a lot of analysts actually cover Cathy
+Pacific. Rackling my head now. I think
+about less than 10. I think it's about
+six or seven. Uh now, what this does is
+it takes a score buy, hold, and sell. It
+amalgamates that five is the most
+bullish, one is the most bearish. We're
+now at three after those three
+downgrades, which effectively means the
+consensus rating on the stock is now the
+worst or lowest since the pandemic when
+of course Cathy Pacific ran into all
+those challenges given the logistics
+issues right now. So, um, as promised,
+let's have a look at some of the calls
+here coming through HSBC, DAW, and JP
+Morgan coming up on your screens and the
+new price targets there. 8.90, 915, 820.
+And we just showed you we were able
+trading just above 10. stock to watch,
+of course, from yesterday. Still is a
+story that will continue to track today,
+April.
+&gt;&gt; Yep. And checking on Xiaomi, we're going
+to track that as well. Um, as you
+alluded to, you know, maybe this is also
+a part of how these stocks have just run
+up so far uh so far. So, let's bring in
+Wang Shungchu, chief economist and
+acting head of research at High Tone
+International for a bit of analysis on
+the macro backdrop as well. Uh Shanu,
+great to have you with us. I mean we are
+still assessing earnings. Uh but I think
+the big one to watch today aside from
+these geopolitical developments would be
+the China trade data. I mean what are
+you you know kind of pulling into the
+equation as part of your analysis in so
+far?
+&gt;&gt; Yeah. Okay. for China's exports in July
+is expected to continue to rise uh
+despite the concerns over tariff and
+also trade wars. Actually, if you look
+at the first half of uh years, China's
+exports and imports data, the imports
+declined slightly. I mean, the growth
+rate is lower than before, but also
+exports again expanded for the first
+half of this year. basically the export
+to the US uh the the softer growth was
+largely offset or even more than offset
+by uh export to other countries like
+IMIA or the belt and road countries. So
+in July again we expect um you know a
+modest expansion uh of the exports and
+we also expect some weakness still in
+the imports.
+Uh what about what has sort of helped to
+support Chinese markets of late the
+anti-involution
+rally? Uh what sort of commitments have
+you been seeing from Chinese authorities
+so far? Uh does that you know lift
+confidence enough?
+&gt;&gt; Yeah. Um okay. uh from two point of
+view. One on the market side, I think
+both China Asia and also Hong Kong
+markets are playing a catching up
+against the development world uh
+equities, you know, that have been
+lagging in the last three years. So this
+year there's a revival of sentiment also
+with a lower funding cost offshore uh
+which pushed the um the sentiment also
+the market activities so far. But on the
+macro side, you know, for the first half
+of year, China was growing around 5.2%
+year on year and it's u above
+expectations and many economists also
+the market expect softening uh towards
+the year end.
+The July IMF uh world economic outlook
+forecast uh revising up China's annual
+growth to 4.8% but still below 5%. which
+which means there's a softening um
+towards the end of this year. But I want
+to make a point that the market may have
+missed
+is that this is the final year of
+China's the 14th five-year plan and
+actually by the end of this year there
+are many quantitative targets the KPIs
+need to be met. Let me name a few. For
+example, the total length of um
+highspeed railway,
+number of airports, the number of new
+constructed ports, etc. Also
+urbanization rate, forest coverage ratio
+and also um you know the energy
+consumption per unit of GDP etc. So
+for this year towards the the last six
+months of of this year I think the the
+Chinese government still going to put a
+lot of efforts to meeting this
+quantitative targets on the social and
+the economic development side. So this
+is a binding one. So that's why um I see
+some potential upside even uh in the
+last two quarters of the the the year
+for the for the government to put more
+stimulus basically to meet the target. H
+I'd like for you to talk a little bit
+more about that because that really
+hasn't come up a lot as you point out
+the market might be missing that. So I
+think my my I have two questions on
+that. One is
+what likely will be the boost to growth.
+So if we could quantify that further you
+know the the targets because of the uh
+we're going into the end of the 14 year
+5year plan. The second question I have
+is that seems to be correct me if I'm
+wrong more on the government fiscal
+side. Uh how is China going to afford
+that? Is there fiscal space to be able
+to push those projects through and just
+trying does the economy need those
+projects is the other question
+&gt;&gt; right um so maybe starting with the
+fiscal question
+&gt;&gt; yes
+&gt;&gt; um by end of June if you look at China's
+fiscal balance I think the in terms of u
+um revenue growth and also the fiscal
+spendings roughly half of the fiscal
+space has been spent so it's on track
+China has raised official fiscal deficit
+to 4% of GDP. That's roughly 5.5 to 6
+trillion fiscal deficit year to date by
+end of June they spend around 2.5
+trillion. So it's around half of uh
+space left towards the end of the year.
+So in terms of fiscal expansion if if
+they want to do more uh basically to
+boost consumption or like they said to
+extend uh child care um they can do that
+and also they will probably do more on
+the real estate side which I see that is
+still the largest drag factor for the
+Chinese economy in terms of new housing
+stars um transactions etc. they can do
+more tax relief or certain tax exemption
+on these sectors and also they as they
+always said the government tried to
+boost consumption by increasing for
+example social security safety net to um
+to boost the the confidence for
+consumption
+&gt;&gt; so they can afford so let's let's talk
+about the consumption side then can they
+afford to do everything
+&gt;&gt; no they have to be highly selective well
+again it's differ by regions and the
+cities
+in terms of social economic development
+in some cities for example they give
+coupons and in other cities uh they try
+to boost the the minimum wage or try to
+increase the social safety net so there
+are again they differ by cities it's
+very similar to the uh housing market
+policy right yeah each city has
+different policy I think they're likely
+to do that against to boost in
+consumption
+&gt;&gt; the
+let's talk about the housing market. So
+you have three components, right? One is
+some of the fiscal push on airports and
+as you point out, the other are
+subsidies, child child care for example,
+the housing market to your point seems
+to be uh losing acceler losing momentum
+over the last few months or so. And my
+question is the notion that if they fix
+the housing market in some in a large
+way, they also address the consump the
+consumer confidence issue. Uh do those
+two things come hand in hand? In other
+words,
+&gt;&gt; yes and no. Um, I believe the
+governments changed their mindset um to
+to downplay the the real estate sector
+as a real as an important growth engine.
+&gt;&gt; Interesting. Okay.
+&gt;&gt; The the business model or the economic
+development model differs
+um because China facing a structural
+many structural issues. the main is uh
+the main one is population agent and
+basically decreasing housing demand
+right
+&gt;&gt; so that's the long-term play it's not
+cyclical right on the other hand if
+China can still grow 5%
+in the first half of this year without
+the support of the housing market
+&gt;&gt; or even the drag by the housing market I
+think they believe they can do better
+even without a huge stimulus to the
+housing or the property market
+stabilization.
+&gt;&gt; Okay. Now, I want to ask about the the
+market implication of the current state
+of the economy. Like the it the economy
+doesn't seem to be doing well enough to
+lift corporate earnings outlook. It
+doesn't seem to be doing bad enough that
+it merits a lot more stimulus.
+It it seems to be in a gray area for the
+market which is wanting either corporate
+earnings to come through or more
+stimulus. What's the out what does this
+mean then for the market outlook over
+the next let's call it two halves? Yeah,
+I think for the next 12 months say uh
+chi as I mentioned China is the at the
+conjuncture of ending uh the existing
+five-year plan. Yes. And also the
+starting of new one. Right.
+&gt;&gt; So they're going to have a very detailed
+report submitted to MPC in next March
+&gt;&gt; highlighting the total achievements in
+this fiveyear period and also outlining
+the road map for the next five year. So
+that's why the next 12 months could be
+very crucial um because
+based on many economist estimates to
+achieve the long-term goal for example
+2035 to double the GDP or GDP per capita
+against 2020 level China need to grow
+around four to 5%. On average and the
+China is making up or catching making up
+some loss during for example the year of
+&gt;&gt; right
+&gt;&gt; uh because of the co M
+&gt;&gt; I think they estimate if they maintain a
+a average growth of four to 5% per year
+they can move towards making progress
+towards that goal.
+&gt;&gt; So um that implies that the the
+corporate earnings may not be too much
+upside. Uh that's why we keep a barbear
+approach. We um for example we
+overweight uh the tech and the consuming
+consumer sectors. uh instead instead of
+manufacturing and other traditional
+sectors.
+&gt;&gt; Shu just wondering as well I mean we've
+been seeing these uh tariff and
+geopolitical developments between the US
+and China. How are you perhaps assessing
+how this is a different episode from the
+first trade war and how Chinese
+authorities are viewing all this?
+&gt;&gt; Right. Um I think for the US
+administration
+their policy agenda can be described in
+one sentence
+which is high tariff, low domestic uh
+tax and a weak dollar. And to me even
+not with China this can imply some new
+the so-called impossible trinities
+higher tariff going to push uh higher US
+domestic inflation which make the fed
+more difficult to cut and also lower
+domestic tax will increase the US trade
+uh the US fiscal deficit.
+uh with the one big beautiful bill the
+CBO estimates going to add to additional
+3.4 trillion US dollar deficit by 2034.
+So it's like the current policy setup as
+the trade negotiation with China
+continue to be dismissed by the market.
+I think the market implications is more
+important and peop the market may not
+take this sanctions or uh you know the
+tariff settings more permanent they can
+be easily negotiated or even reversed as
+long as other countries promise to make
+more investment in the US etc. So people
+are more like to watch how it's played
+and also how it's ways on the US
+domestic economy to make the
+administration either change the mind or
+the fed to do more aggressive more
+accommodative um monetary easings.
+&gt;&gt; What about I mean you talk about the US
+economy. What are you seeing now in
+terms of the cracks that are starting to
+show? what sort of assumptions are you
+making about how doubbish the central
+bank is going to be?
+&gt;&gt; Right. Um look at inflation side. I
+think the inflation is trending down
+around 2.5 to between 2.5 to 3%. And
+also the recent labor market data
+regardless the the the revision whatever
+why they revise it they um they showed
+some weakness in the labor market. the
+labor market is cooling down. If the Fed
+already did a 50% cut last September uh
+for for example for precautionary
+reasons, I can see um they are more
+likely to do so in this September uh to
+do another cut to 25 to 50 basis point
+basically according to the changing
+economic fundamentals.
+&gt;&gt; Wong Shanzu, thank you so much for the
+time. We can do this again. Lots more to
+unpack there. Chief economist and acting
+head of research at Haong International.
+Lots of breaking news right now. Excuse
+me. Um get me some water, please. Um so
+a couple of things, right? So Taiwan on
+the conversations around if and when. I
+think it's more if u we get these
+tariffs broadened out. Uh Taiwan is
+considering to expand the special budget
+on chips if that is the conversation to
+be had. Number two is earlier on and as
+you can see the market's running with it
+already 5% gains on TSMC record high. I
+think this is the biggest gain in going
+back to May of this year. Um it does
+seem that TSMC well Taiwan has said
+actually that TSMC is exempted from the
+100% US chip stars. Okay, we will take a
+break. I'll get some water and then we
+will regroup and figure out what we do
+with all this information that's coming
+through right now. Markets are rallying
+this Thursday. This is the China show.
+[Music]
+to some corporate headlines this
+morning. Bloomberg has learned that the
+Netflix style streaming platform it is
+seeking to raise $300 million in a Hong
+Kong market debut this year. Sources say
+negotiations around the listing are
+fluid and the BU owned company may still
+reconsider. If a second listing goes
+ahead, it will join a wave of offers
+that's fueled Hong Kong's revival this
+year. Meanwhile, Walt Disney shares fell
+after an earnings beat was overshadowed
+by a cautious fullear profit forecast.
+It now sees earnings increasing 18% in
+fiscal 2025. A slightly higher forecast,
+but short of Wall Street hopes. CEO Bob
+Iger says Disney will no longer report
+streaming subscriber numbers, calling
+them less meaningful. Disney also
+unveiled a $30 standalone ESPN app and a
+new bundle with Hulu.
+Singapore's biggest bank, DBS, reported
+second quarter profit that beat
+expectations, boyed by a jump in income
+from trading and wealth fees. CEO Tan
+Suan says nimble balance sheet moves
+helped offset external pressure.
+Meanwhile, rival OB reported lower
+second quarter profit that fell short of
+analyst estimates as lending income
+declined. Net profit dropped 6%.
+Uh we have plenty more ahead. This is
+Bloomberg.
+[Music]
+Right. 444. Um, as you can see, uh,
+let's call it 4 and a half%. TSMC to the
+upside. Big move up overnight. Big move
+right now. Shares at a record high here.
+Uh, when you look at the news flow so
+far, fairly encouraging and conducive
+really for more gains. So, number one is
+exemptions. Taiwan has said that TSMC is
+exempted to these chip tariffs that will
+be affecting some firms and of course we
+understand given the news flow overnight
+uh out of the US it is 100% tariffs on
+chips. Now it's still unclear and we're
+still getting more information that is
+who is exempted what product categories
+are exempted. Uh there's a separate but
+related point on the South Korean side
+of the conversation, but in any case,
+TSMC is lifting the tide across Asian
+semis right now, 5% there. And as you
+can see, Taiwan is also getting quite
+substantially. One other stock that
+we're tracking still today is Cathy
+Pacific extending the 9 10% drop that we
+had on Wednesday. We're still down about
+3%. uh brokerages have all come out at
+least in the last let's call it since
+the earnings came out at least three I'm
+counting at least three have come out
+and downgraded the stock uh it to
+varying degrees right and we're looking
+at price targets now of 8 to nine bucks
+roughly speaking as look at the range is
+concerned speaking of downgrades Namora
+became I think the latest when I say
+latest the one of the rare ones in the
+last few months that's come out and
+downgraded their outlook on the stock
+itself. If memory serves me correctly, I
+think it was Morning Star back in May
+that did a similar move, but back to the
+here now. Xiaomi cutting this one to
+neutral uh 3 and a half% that's ahead of
+earnings coming through and the stock of
+course has done exceptionally well and
+it might be a function of that as well.
+Still overwhelming buy recommendations
+though here Averil on shares of Xiaomi.
+Yeah, given how it's I think tripled in
+the past year and it's been doing pretty
+well, right? Especially given its uh EV
+endeavors, but we are also counting down
+to July trade data out of China. Exports
+expected to hold up. 5.6% is the
+consensus despite weakness potentially
+to the US. But you got to wonder how
+much longer, given the front loading
+effect, can this carry on? Coming up in
+the next hour, we'll look at the impact
+of the trade turmoil as well on FX
+markets with UBP.
+[Music]
+Welcome back. You're watching the China
+show. Here's a look at Hong Singh. Half
+hour into the session. We are seeing it
+slightly positive. Uh moving off session
+highs and it is kind of being supported
+by the mood in the rest of the region
+particularly when it comes to tech right
+we're seeing the region's benchmark
+higher by 8/10en of a percent and if you
+take a look at the broader gauges you
+know this is really being supported by
+the chipm related stocks. Hing tech
+though is being dragged by Xiaomi today
+and I think we can show you what we're
+seeing in the rest of these chip related
+names right Han high uh Taiwan stock
+higher we're also seeing TSMC record
+highs all this in relation to these uh
+tariff exemptions that TSMC or Taiwan is
+going to be getting uh from Trump
+imposing potentially these 100% chip
+tariffs uh and we also seeing some of
+these carve outs for the likes of uh
+South Korea reportedly. Also worth
+noting some of the Apple suppliers are
+on the move after it committed to the
+hundred billion dollar investments. So
+bringing production back to the US and
+that's going to help it to avert some of
+these uh tariffs and one country that
+hasn't quite been able to do that. If
+you take a look at the India stock
+futures, look at how uh we are fairing.
+Yesterday was uh tepid kind of showing
+when it came to Indian stocks because it
+wasn't just about the tariff story.
+There was also the RBI's a hawkish hole
+maybe is choosing to after a 100 basis
+point cut so far this year let the cuts
+work their way through the system policy
+transmission right so uh stocks were on
+the back foot futures now though in
+India seem to be pointing to some upside
+David
+&gt;&gt; yeah and we'll see whether or not the
+cash market reflects that all
+indications though suggest that markets
+will and are uh taking this one in
+stride in fact you know when you Look at
+the how the the message that the markets
+are taking from the tariff conversation
+is how big those exemptions and holes
+are really and to the point that I think
+April was just making there this massive
+move up in Taiwan. Uh other things on
+deck today um you have a Bank of England
+decision which we'll get to later on.
+There's a 30-year bond auction in Japan.
+That's number two. And at some point
+over the next at some point from this
+point on in fact we will be getting the
+trade numbers coming through um out out
+of mainland China. will see what those
+look like within the hood. Front loing
+of course and you know can you frontload
+forever um is really one of the big
+points of conversation there. So while
+we wait for that of course let's let's
+talk about the other things taking place
+across these markets. So uh so Averil
+you you've talked about India give us
+more context there.
+&gt;&gt; Yeah I mean this has been quite an
+interesting turn of events for the Asian
+economy. It was at the start of this
+whole trade ruction sort of front of the
+queue and then in February we saw Modi
+at the White House um it was supposed to
+get some of these lower rates all things
+considered right but then we saw in the
+past week getting hit by 25% Trump now
+doubling it because of its Russian oil
+uh imports so you know you've got to
+assess as well the price of Russian oil
+uh on geopolitical developments at the
+moment
+Yeah, absolutely. And I think one thing
+that we really haven't touched on but is
+equally important. That's really the
+reason why India's now being part of the
+conversation and China as well. And
+Minman will talk more about that in a
+moment is, you know, the lack of
+progress the White House is getting with
+Russia, right? And they're using, if you
+could call India now and maybe even
+China a proxy on that specific part of
+the conversation that we're not getting
+progress. Trump is then using this lever
+to maybe get something um out of what
+what what he calls uh these purchases of
+of Russian oil as funding uh the war
+effort right so it's it's it's I guess
+in many many ways at some point things
+are related here as well uh I haven't
+mentioned as well earnings is a big
+theme today we'll see what happens there
+so you have Sony uh and the world's
+biggest car maker I believe still based
+on the last quarter uh Toyota is
+reporting today so about 15% of the
+topics index we'll get to that in a
+moment But yes, let's get back to this.
+100%
+taxes or tariff on chips imported into
+the US, but with some exemptions for
+commitments to produce locally. Have a
+look.
+We'll be putting a tariff on of
+approximately 100% on chips and
+semiconductors.
+But if you're building in the United
+States of America, there's no charge.
+even though you're building uh and
+you're not producing yet in terms of the
+big numbers of jobs and all of the
+things that you're building uh if you're
+building there will be no charge.
+Let's bring in our team. Jill Dus, our
+news desk editor with us here on set and
+as you can see as well, Minlo, our
+chronic correspondent. Jill, let let's
+start with you. Okay. So, what do we
+know? Who's so 100% tariffs? When when
+does it take effect? Who's exempted?
+What are the loopholes? Yeah.
+&gt;&gt; Yeah. Well, I mean the gaps once again,
+David, as with Trump, um it's a lot of
+it kind of comes down to trying to make
+sense of some of these comments. I mean,
+what he's saying there, what he just
+said there about building um you know,
+sort of production, domestic production
+in the United States. Um, I mean, if
+we're taking that at his word, that
+actually covers quite a lot of the
+biggest chip makers. I mean, think
+about, um, so I mean, you know, when it
+when it comes to chipmakers, there's,
+you know, obviously there's there's
+companies like, um, you know, Intel and
+AMD and such that design chips. Um, you
+know, a lot of these companies are often
+outsourcing the actual like fabrication
+or the creation of the chip. Um, but I
+mean, when you're bringing in companies
+like TSMC, for example, right? So,
+Taiwanese, um, you know, world's largest
+chipmaker. Um, I mean, they've been for
+the last five years building this um,
+you know, giant plants in Arizona. And,
+um, I mean, if you're taking Trump at
+his word about this idea of, well, if
+you're building plants in the United
+States or if you're creating room for
+domestic production in the United
+States, then um, you're exempt from
+these tariffs. I mean, conceivably TSMC
+or, you know, other chipmakers that
+ultimately, you know, would make use of
+TSMC facilities and stuff would be
+exempt from these types of tariffs. I do
+think there's a lot of questions about
+how much production you can actually
+have in the United States um when you're
+taking into account like overall global
+demand and like whether the United
+States actually has the capacity to do
+all of that, you know, doesn't. But um I
+think that kind of introduces this this
+question of okay, well then it kind of
+sounds like um there's exemptions for a
+lot of these major chipmakers, right?
+And then you've got Apple uh you know,
+which you know, Tim Cook appearing at
+the White House uh you know, kind of
+talking about their investment plans. It
+looks like they're increasing a a
+pre-existing $500 billion uh investment
+plan by another hundred billion dollars,
+talking about bringing domestic
+production back. I mean, sounds to me
+like what Trump really wants is he wants
+these big flashy commitments where he
+gets to appear at the White House with
+um you know, all of these major
+executives um make some of these
+commitments and promises and then it
+does seem like you're able to kind of
+skate out of um you know uh some of
+these tariffs um at least in the
+interim. I don't know. Again, like I
+think we have to see a lot of this kind
+of down on paper, but I think that's why
+you're seeing some of that good news
+there.
+Yeah, Min, let's bring you in. I mean,
+to Jill's point, it's difficult to
+separate noise and signal rhetoric from
+actual action with Trump. Um, you know,
+he had been softening his tone towards
+China. Now, we're hearing we could see
+tariffs on them for buying Russian oil,
+secondary sanctions as well.
+Yes, Trump has definitely been dragging
+his feet on announcing that potential
+extension of the trade truce despite,
+you know, signals that that's going to
+happen soon. But we're days away from
+August 12th and it looks like there are
+still a couple of things that could
+potentially derail that. One of it is,
+as he said, potentially imposing new
+secondary sanctions or tariffs on China
+for purchasing Russian oil. The 25% that
+have been placed on India could be a
+model for China as well. And this is
+something that will likely be um very
+bad for trade relations given that this
+is um you know Russia is China's largest
+source of crude oil about a fifth of its
+crude oil come from r comes from Russia
+and we know that China has previously
+said it's going to oppose this that it's
+going to protect its energy sovereignty
+that it opposes this sort of long armed
+jurisdiction and global times the
+Chinese state link media even saying
+that this could undermine the trade talk
+mechanism. So there is this uh sort of
+oil tariff going on and then there's
+another piece which is related to chips
+right the US recently charging a couple
+of Chinese nationals for selling Nvidia
+chips to China illegally and at the same
+time China expressing these concerns
+around security vulnerabilities of using
+Nvidia chips. So it's possible that
+China may not see the recent reversal of
+chip cuts as an act of goodwill from the
+US side. So a few things that could
+potentially undo all the progress that
+we have seen so far.
+&gt;&gt; Mim we are expecting these Chinese trade
+numbers as well. How much weight is
+economist are economists putting on the
+data given how you know if we get that
+trade truce extension that could also
+significantly change the picture.
+Yes, we have already seen a lot of
+front-loading in the fast first half of
+the year. And so, Bloomberg economics
+believe even with the trade truths being
+extended, we are likely to continue
+seeing this downtrend in exports of
+shipments from China to the United
+States. Currently, we're already seeing
+the weekly data, the high frequency data
+showing that shipments have been
+dropping since June, but overall
+shipments to the rest of the world
+actually holding up pretty well. In
+fact, offsetting some of that decline in
+trade with the US. So, Chinese exporters
+still pretty resilient here. Of course,
+the big question is whether or not other
+countries will begin to start cracking
+down on these trans shipments uh going
+forward, especially as part of their
+trade deal with the United States.
+&gt;&gt; Yeah, and it's a really tricky setup.
+How do you even quantify or define these
+trans shipments? Great to have you both
+Bloomberg News Desk editor Jesus and our
+China correspondent Min Lo. Now, we also
+had data crossing the terminal
+Philippines second quarter GDP and the
+estimate was for a 1.3% expansion. We're
+seeing it at 1 and a half%. This is on
+the quarteronquarter basis. So, slightly
+better than expected. If you're looking
+at the exports numbers as well, uh they
+rose 4.4%. Of course, this is all coming
+against the backdrop of pretty tepid
+consumption in the Philippines. We did
+see that sort of play out in the
+inflation numbers earlier in the week as
+well. Still ahead on the China show,
+India stocks and the currency set uh to
+open in markets under pressure as
+President Trump doubles the country's
+tariff rate to 50%. A closer look at the
+impact next. This is Bloomberg.
+[Music]
+Right. Welcome back. India on our mind.
+So 25% tariffs that's gone up by double
+50% according to the US president uh
+over the same issue its purchases of
+Russian oil. We know of course Indis
+pushed back at that that it was part of
+the commentary coming through yesterday
+out of that RBI rate decision. So what
+we've done is we we're taking a look at
+number one the economic impact what the
+you know domestic politics will be. The
+other thing too is we've taken a massive
+step back and really tried and figure
+out really how much India is actually
+buying in terms of Russian oil and
+really help us break down all of that
+for us right now. Let's bring in our
+team. Our oil and shipping reporter Whan
+Sun is in Singapore for us. And on the
+economy side of things Swati Pandy also
+joins us to talk us through the economic
+impact here. Whan let me start with you.
+You guys have crunched the numbers on
+this. What do we know? What have you
+found out here?
+Um thank you David and and of course we
+know that um India is a really big buyer
+of Russian oil and this really became uh
+a case a scenario that we've seen uh
+since the G7 put in place a price cap on
+the purchases of Russian oil. Um that
+was at the end of um 2022 um when the EU
+and the US were trying to uh force
+Russia to end its war on Ukraine. And up
+fast forward to today um in July we have
+numbers showing that India is buying 1.6
+um nearly 1.6 6 million barrels uh per
+day of Russian oil um into shores and
+and the makeup is about 37% of India's
+um consumption of oil and and that's a
+very big number that we're looking at.
+Okay. Then what is the I want to say
+what's the choice what's at stake for
+India number one and I guess what's the
+trade-off now that India needs to
+consider given first its obviously
+reliance on Russian crude and other
+things it might have to take into
+consideration here
+&gt;&gt; exactly um so so what we have is
+actually a secondary tariff that might
+kick in later this month um on top of
+the 25% so what the US essentially is
+doing is trying to influence this
+relationship that India has with Russia
+for what the US thinks is helping
+Russia's war in Ukraine and and just to
+put it in in context. So India exports
+around 88 billion dollar worth of
+exports um into the US. So that will
+come under a secondary tariffs. Um and
+and what we have here at the same time
+is India's huge consumption of Russian
+oil. Um and and there on the screen you
+can see that uh the state-run uh
+refineries uh take up almost half of it
+and also the private ones like Reliance
+and Nara um are also big takers of
+Russian oil and and there we have it is
+that um India has been relying on um
+cheaper Russian oil that's often sold at
+a discount um to rent and WTI um crude
+that's on the market and uh in in this
+case we also can see that um the the
+Reliance which actually has a long-term
+deal with uh one of the Russian
+producers um it will continue to take
+Russian oil. So that's a big question um
+in place uh that we have in in face of
+the secondary sanctions that the US
+tries to place on but taking one step
+back today um as we can see um India is
+a big taker of seaborn exports of uh
+Moscow's uh oil exports. So, so this is
+to say that the the logistics of uh
+moving Russian oil to India can be
+easily shifted. It's not like a pipeline
+and India can easily turn to other
+sources of crude. Um and we are coming
+into a season where OPEC um that means
+the Middle Eastern producers are
+planning to ramp up um production of
+oil. So, we're going to see more and
+more uh barrels from other sources are
+coming into the market. And at the same
+time we have Russian um oil the discount
+um to brand narrowing. So it's less
+painful uh for India to turn to other
+sources of oil. But but for for India
+and what we're hearing from within um
+the country itself it's it's causing a
+lot of heartburn um a lot of pain for
+them because they have been told um they
+say um by the US and by the EU that it's
+okay for them to buy um Russian oil. I
+mean last year we have Treasury
+officials telling New Delhi that um the
+price cap mechanism is in place to allow
+Russian oil to flow and to help India
+take up cheaper crude. So now to have
+the secondary sanctions uh terrorists uh
+sorry um placed on them uh for buying of
+Russian oil they they don't really
+understand what's the what's the
+situation over there and they're trying
+to figure it out.
+Yeah, a lot of people are uh Whan
+Swatti, on that note, let me let me
+bring you in with the economic overlay
+here. How has India responded now to the
+latest tariff announcement?
+&gt;&gt; Um, so David, like William was saying
+there there is a bit of bitterness in
+the country. People are struggling to
+figure out why they have got the
+secondary sanctions when in the first
+place. they were kind of encouraged to
+use uh Russian oil to stabilize oil
+prices uh and global supply. Uh so far
+uh India is standing its ground. It's
+continuing to buy from Russia and uh it
+has called um the move by Donald Trump
+uh as unfair, unjustified. it it's also
+pointing to a little bit of hypocrisy by
+European Union and United States both
+who are also buying uh goods from
+Russia. So there's there's definitely
+that question mark around why is why is
+India being targeted?
+Well, well, the the threshold that
+clearly right now Donald Trump is
+pushing is now from 25 to 50. And is
+that threshold 50% rate uh Swati I guess
+enough uh to get India to cave? I guess
+in in some ways
+&gt;&gt; it is uh quite possible. Yes. Uh 50%
+makes India really uncompetitive in the
+export market uh especially with
+countries that India competes with. So
+let's say Vietnam or even China uh it
+will impact the labor intensive sectors
+really badly. So we are talking about
+gems and jewelry, footwear, furniture,
+uh apparel, garment uh those sectors are
+going to be very badly impacted. Uh and
+uh 50% tariff will also lead to probably
+some demand shock, some supply shock.
+It's kind of unclear at this stage uh
+how big the impact will be. Uh some
+economists have uh earlier had earlier
+said um three percentage points uh if it
+was 25% and now nobody is willing to put
+a number on the actual impact that may
+flow through. uh one uh point that I
+have heard from uh my conversations with
+economists or strategists is that uh
+given that there is a 21day timeline uh
+for the additional 25% it looks like a
+negotiating tactic and not a policy. So
+it is possible that that 25% is removed
+especially if we see some good news on
+uh Russia Ukraine ceasefire um and uh
+then the 25% that remains will be uh
+probably negotiated or it remains there
+&gt;&gt; and this goes into I I guess the RBI
+yesterday which I guess to be fair to
+them we didn't know of course we were
+going to be facing a double tariff today
+but you know they did leave their policy
+rates unchanged is that in some they
+keeping their powder dry in case things
+then worsen. Uh Swati,
+&gt;&gt; yes. So the RBI also uh published
+forecasts for inflation and economic
+growth and they left their GDP forecast
+at 6 and a half% unchanged. Um and that
+was largely because of these
+uncertainties. Um 25% was known. uh it
+was known that there will be additional
+tariff on u like a punishment for buying
+Russian oil. How much extra was not
+known. Uh and in spite of that knowledge
+they left the economic forecast
+unchanged at 6 and a half%. Uh the RBI
+did signal that room for further easing
+is uh uh limited. Uh which means the bar
+is quite high. Uh so the economy has to
+go through some real pain for the RBI to
+come in and ease policy further. Uh
+probably they will rely more on fiscal
+uh stimulus or other measures that the
+government government can take to
+promote some of these labor intensive
+industries that would be heavily
+impacted from these tariffs.
+&gt;&gt; Fantastic team. Thank you so much for
+the time today Swati Pandy there on the
+economy and of course the oil angle
+which is really at the center of this
+right now. Willinsson in Singapore for
+us there on the currency just very
+quickly here. So we're obviously looking
+at this it's been under pressure that's
+that's not a big surprise. Uh the level
+you want to track is the high that we
+hit back in Feb early Feb Feb 10 and
+that level is 87 9563. If we get above
+that of course that takes us into new
+territory. Uh we did get a note coming
+through yesterday out of MUFG I believe
+is at an 88 is the level that the RBI
+might come might come in and and
+intervene right uh and we'll have more
+on this in fact I'm very excited for
+this one bottom of your screens that our
+times on your screens uh a live Q&amp;A
+really on India that starts 8:30 p.m. if
+you're watching or if you are based in
+Hong Kong 1:30 p.m. London if you're in
+the US that's 8:30 a.m. time details
+there on your screens what it really
+means as far as a broader conversation
+goes between the two. Plenty more ahead.
+This is the China show.
+[Music]
+Welcome back in some corporate news
+we're tracking this morning. Earnings is
+a key theme. Walt Disney will start
+their shares down overnight after an
+earnings beats was overshadowed by a
+cautious fullear profit forecast. It now
+sees earnings increasing 18% in fiscal
+2025, slightly higher but short of Wall
+Street hopes. CEO Bob Iger says Disney
+will no longer report streaming
+subscriber numbers, calling them less
+meaningful. Disney also unveiled a $30
+standalone ESPN app and a new bundle
+with Hulu.
+We are building on Disney's value
+proposition in streaming by combining
+Hulu into Disney Plus to create a
+unified app experience featuring branded
+and general entertainment, news, and
+sports, resulting in a one-of-a-kind
+entertainment destination for
+subscribers.
+McDonald's says sales picked up in the
+most recent quarter, suggesting that the
+recent pop culture focused
+collaborations and budget meals are well
+paying off. The global sales at
+restaurants operating at least 13 months
+uh same store sales effectively here up
+3.8% beating Wall Street estimates. But
+the company says it's seeing weakness in
+its breakfast menu which it describes as
+economically sensitive. Now Singapore's
+biggest bank DBS reporting second
+quarter profit beating expectations
+really lifted by a jump in income from
+trading and also wealth fees. The CEO
+Tanushan Tanushan says nimble balance
+sheet moves helped offset external
+pressure. Meanwhile, you have UB also
+coming out reporting second quarter
+lower Tuki profits here short of
+estimates as lending income declined.
+Net profit dropped about 6%. Right,
+staying on the well loosely on the
+earnings theme because Xiaomi's
+reporting in a couple of weeks.
+Interesting though is we talked about
+this first call coming out of Namora
+cutting the spoon to neutral first
+downgrade in several months but after
+that that we've seen a series of brokers
+have come out and said the opposite
+right still bullish on the stock reason
+this is important is the stock's
+actually down quite substantially today
+similar to the BYD conversation we had
+yesterday charts coming up for the first
+time going back to early April let's
+call it late March we're not trading
+below the 100 day moving average 51
+right now in Sami plenty more ahead This
+is the China show.
+[Music]
+Right, welcome back. Uh going into the
+Japanese lunch break, we are in the
+thick of earnings season there. um in a
+couple of in fact I think at some point
+in the next two hours Sony I think is
+coming out and of course towards the
+latter part of the day the likes of
+Toyota are coming out will uh show you
+really how much uh this is an earnings
+team today uh all that said the the
+market story is well news on tariffs
+some really not as new uh markets are
+running with it so far taking it in
+stride and it seems the markets are
+focused specifically when you look at
+Japan Korea and Taiwan tech AI chip
+heavy benchmarks are focusing on the
+good things right so exemptions what
+have you um as you can see 1 1% to the
+upside in a couple of minutes we'll be
+getting the uh 30-year bond auction over
+Japan results there demand everything
+else right tail yield bid to cover what
+have you on your screens right now is
+the curve from tense all the way down uh
+to the 40-year yield so as you can see
+we're down on the 10 so we are steeper
+going into that uh auction
+today. Couple of movers to tell you
+about reported as of the close
+yesterday. So, initial reaction is
+coming in today and as you can see quite
+substantial reaction on some of these
+big names. About 120ish companies
+reported yesterday on the topics index.
+You add that to about the 250 that
+reports today and you get a 24-hour
+window where effectively you have about
+a fifth at the topics index in terms of
+the number, right? Not market cap, not
+value, uh about a fifth of index
+constituency. There we go. that's the
+proper term. Um that are reporting
+earnings as well with global
+implications of course given of course
+how some of the big names are coming
+through as well. In fact, on that very
+note, uh 15% is the 251 reporting on
+Thursday and so big names on your
+screens and there's a separate
+conversation on I think there's a story
+out on uh tariffs affecting the prices
+of consoles, right? So Sony's going to
+be part of that, SoftBank Group and of
+course Toyota, which I think makes cars.
+We're not sure. Okay. Later on, we'll be
+speaking with NT data global chief
+growth officer in North America CEO and
+that's after the company reported it
+operating income that missed for the
+first quarter. Exclusive conver
+conversation coming up on Insights with
+has in the next hour. Okay, let's talk
+about politics shall we? Uh you have top
+prey negotiator uh Rio Asaga Akazawa has
+met with US commerce secretary Howard
+Lutnik urging swift implementation of
+their deal to reduce tariffs on cars and
+also auto parts. That comes after Prime
+Minister Shigaro Ishiba uh admitting
+getting a win-win outcome will be a
+challenge. For more on this, let's bring
+in our Japan politics and economics
+reporter Sakura Murakami joining us from
+Tokyo right now. Uh Sakura, thank you
+for joining us. Well, what what has so
+far come out from that visit? What were
+the what were the wins that we could we
+we can count so far, if any?
+&gt;&gt; Uh well, I'm not so sure about the wins
+just yet. Actually, um so far what we do
+know is that um Akazawa met with Lutnik
+as you said and he's urged Lutnik to
+apply implement the tariffs, implement
+the um agreement that um the US and
+Japan have agreed on so far. What's
+coming to light is that there are sight
+slight discrepancies in the
+understanding of the trade deal and that
+includes one element which is uh whether
+the tariffs that have been announced the
+15% tariffs are actually stacked on top
+of existing tariffs or not and this has
+become of a bit of a a point of concern
+in Japan because there have been reports
+that US officials are saying that they
+will be stacked whereas um Rio Akazawa
+and Ishiba himself has also has said
+that they won't be. So, this is a bit of
+a a point of divergence that uh we'll be
+keeping our eye on.
+&gt;&gt; Oh, that's a very diplomatic way of
+putting it. A point of divergence. Okay.
+Uh well, speaking of, let's underscore
+that point even further. What other
+areas uh are the US and Japan still at
+odds with each other when it comes to
+the agreement?
+So, um, yeah, beyond the whole stack,
+whether the tariffs are stacked or not,
+there's also the question of the, for
+example, the $550 billion investment
+plan that President Trump has touted as
+um like a almost like a signing fee for
+a baseball player for him. He said that
+the US has complete control over how to
+spend this money. But that's not really
+the rhetoric that's coming out of Japan.
+um Japan is saying 1 to 2% of that money
+will be actual investments whereas the
+remaining will probably be a mix of
+loans and grants and um ultimately these
+investments and these loans and grants
+have to be in the um beneficial for
+Japanese companies. It will be at the
+best of Japanese companies. So there's a
+uh point of difference there as well you
+could say. Also the imple when the auto
+tariffs will be in implemented is also a
+very big uh point of concern for Japan.
+Um currently the auto tariffs are 27.5%.
+Um the so far we've heard that the
+agreement is to lower this to 15% but
+there's not been any clarity on when it
+actually will be implemented. So, uh,
+that's something that, um, Jose Akaza
+will will be probably pressing his
+counterparts, his US counterparts on
+while he's in DC.
+&gt;&gt; And how much time might this buy Ishiba
+uh, in terms of being able to sell this
+domestically and his longevity, of
+course, as prime minister then?
+&gt;&gt; Well, I it'll depend on how Akazawa like
+how well his Akazawa's visit in DC goes.
+Um at the moment um Ishiba is facing a
+plenary meeting tomorrow um within the
+LTP. Um he'll be trying to convince his
+peers, the people in his party that he
+has a mandate to stay on because he has
+to see the US trade deal implemented. He
+has to see it through. But there are
+voices in the LDP calling for him to
+step down. Uh that being said, there's
+the broader public doesn't necessarily
+see as the problem. They also see the
+LDP as the problem as well. So, how long
+he stays on is um still a bit up in the
+air. Some people say, you know, maybe
+the end of August, but um we'll we'll
+see how the visit um Akazawa's visit in
+DC plays out and also how the plenary
+meeting tomorrow plays out as well.
+&gt;&gt; Okay, stuff to watch. Sakura, thank you
+so much. Sakura Murakami there in Tokyo
+for us. Uh we're just going into about 5
+minutes into the Tokyo lunch break. We
+are going well we went into the lunch
+break on fairly decent footing as far as
+that's concerned. Uh slight decline
+though as you can see about an hour into
+the cash market session here in Hong
+Kong and up in mainland China.
+[Music]
+The labor market has softened and you
+can see this everywhere in the US
+economy and here as well and I would see
+additional slowing in the labor market
+as an unwelcome sign. So all this means
+as you put it together that I think
+we'll likely need to adjust the policy
+rate sometime in the coming months.
+there were major revisions. So, two two
+major revisions to to May and June. And
+these revisions are somewhat typical of
+turning points
+&gt;&gt; which again uh speak to uncertainty. And
+uh Susan is absolutely right. We want to
+know not just where we've been but where
+we're going. So if we're at an
+inflection point, we want to look at
+data for example that speak to
+inflection points. And it's not always
+uh payrolls. uh the unemployment rate is
+still a good indicator of uh slack in
+the system but we have to look at the
+paniply of them and we have to keep a
+close eye on these
+&gt;&gt; in case you haven't noticed the tones
+changed right and you know we're coming
+off Mary Daly and of course Lisa Cook
+separate events on the week US labor
+markets data uh and then of course not
+to mention the ISM of course this week
+the services number now uh you have Neil
+Kashkari here on your screens.
+Effectively, what he's saying is it
+might actually be time to adjust
+interest rates. Traders have priced in
+certainly as much ahead of the FMOC's
+September meeting. So, just some dates
+to watch, right? September. And this is
+if you're in Asia, right? September 17.
+That's that's the next meeting. After
+that, it's not that it's related to it's
+2 days before Halloween. Uh October 29.
+And then the last meeting of the year is
+December the 10th. And then next year is
+January 28th. And you look at current
+the reason I bring up four meetings is
+because currently the pricing is three
+cuts over the next four. So one is a
+skip but that's a moving target
+altogether. Market seems to be coalesing
+around a September cut now as as base
+case and I guess we can worry about
+other things after that. Uh let's bring
+in uh the Asia head of FX sales and
+execution at UBP Ignatius Pong who might
+be able to help us understand this even
+further. Nice to see you. Good morning.
+&gt;&gt; Thank you very much, David.
+&gt;&gt; So, uh, four dates I mentioned there,
+September, October, December, and
+January. When do you think the first
+one's going to be?
+&gt;&gt; Well, I think, uh, we will get a clearer
+indication as to when the next fed rate,
+uh, cut will probably be in this
+incoming, uh, Jackson Hole Symposium,
+which is expected to be between the 21st
+to the 23rd of August.
+&gt;&gt; So, um, and the Fed has typically been,
+uh, always airing on the side of
+caution. So, I think they are very data
+dependent as well. So of course the last
+labor market reading was definitely uh
+disastrous in a sense and with the
+revisions in the previous few months as
+well the market is starting to uh
+&gt;&gt; anticipate that September is a very live
+meeting as well
+&gt;&gt; but uh however we still have two more
+CPI readings uh into the next meeting
+&gt;&gt; um that will also probably be very much
+watched by the market and like you have
+mentioned clearly it's a moving target
+and it will be very much data dependent
+but our base case is that we are
+probably expecting one uh two rate cuts
+this year but uh the first one probably
+uh the last one will be in December and
+the second one the first one in October
+and the second in December as well.
+&gt;&gt; Okay. So, we're down to 100 basis. Oh,
+50 basis points. I'm sorry. 50 not not
+two big ones.
+&gt;&gt; Two big ones. You have a problem.
+&gt;&gt; We don't want to be in a world where
+we're getting two big ones
+consecutively. Okay. At at what point
+does the dollar start to move then on
+interest rate differentials or is that
+in other words what has been the biggest
+move uh driver of the US dollar?
+Sentiment flows positioning or is it
+rate differentials at some point?
+&gt;&gt; It's a combination of all actually at
+this moment. um mispositioning like you
+said and after the sell we have seen in
+the US dollar since liberation day
+itself we have seen a period of
+consolidation in the US dollar and to
+this current juncture I think the
+interest rate profile of the US dollar
+is starting to take forefront uh take
+the forefront in driving FX markets as
+well
+&gt;&gt; um positioning wise uh the market is
+starting to consolidate on that front
+and uh if we were to recall back uh the
+previous week when the dollar gained
+2.2% 2% in just a matter of one week
+itself is faster gain in 2022. This was
+a clear indication that the market was
+not was highly consensual in selling the
+dollar but with not a very strong
+conviction and the rebounds in the
+dollar are possible as well.
+&gt;&gt; So we are actually looking at this
+opportunities to actually diversify out
+of the US dollar doing sporadic bounces
+in the US dollar itself.
+&gt;&gt; Okay. Yeah.
+&gt;&gt; So so that bounce effectively you think
+was just simply extreme repositioning.
+It's uh well it's a consolidation after
+extreme positioning like you said and
+also as the market tries to juggle
+between the interest rate uh break path
+of the US of the Fed themselves as well.
+This is also another determinant for the
+US dollar in the short term.
+&gt;&gt; Yeah. Now the do you see any before we
+get into the sort of idiosyncratic
+stories on I think you have the bank of
+England you have what's happening in
+Switzerland and them leaving without a
+win India
+&gt;&gt; I want to get a sense of when you look
+on the horizon is there a catalyst that
+you see even if it's a tail risk that
+catalyzes the sustained rebound in the
+US dollar
+&gt;&gt; well a sustained rebound in the US
+dollar will be a refulfillment of the
+confidence in the US dollar after it was
+uh lost in April itself So what that
+would mean number one very healthy
+fiscal balance in the US side of the
+economy and then the fed actually uh
+communicates effectively the number of
+rate cuts that they are going to
+undertake not only to the end of 2025
+but also in the 2026. Now that's the
+problem in 2026 we actually have uh J
+power potentially stepping down as well
+and being replaced there. So the market
+will be probably pricing very
+aggressively uh the number of rate cuts
+in 2026 and that will be uh well a
+driver for the dollar itself. M y and uh
+as we go on uh into all the trade
+negotiations that the US is starting to
+ink in this in its favor that actually
+has put the uh well the trade policy
+part of the US uh dollar equation at the
+side at the moment with the market
+refocusing back on interest rate
+differentials again
+&gt;&gt; or the lack of deals that have been
+inked and I think the reason I bring
+that up is yeah Switzerland for example
+dollar Swissy
+&gt;&gt; dollar Swiss
+&gt;&gt; yeah where do you see that going they
+seem to have left without anything
+&gt;&gt; yes that's right and I think as we speak
+she's on the way back to Switzerland as
+well without inking a deal now the 39
+39% tariff is in place at the moment.
+Uh, of course there's a lot of uh
+analysis as to why the current surplus
+is huge in Switzerland being blamed on
+the their exportation of gold as well.
+Now uh in terms of dollar Swiss uh I
+would say that we will probably see a
+consolidation in dollar Swiss above 80
+cents. Uh with a risk of it gliding up
+uh grinding up towards uh 82 in the
+short term. Um, of course, uh, the Swiss
+National Bank itself will probably want
+to keep the Swiss on a looser footing or
+on the weaker side, especially once, uh,
+uh, especially in the absence of any,
+uh, trade agreement with the US at the
+moment.
+&gt;&gt; What about cable?
+&gt;&gt; Cable. Yeah.
+&gt;&gt; Very exciting day today. We have the
+Bank of England meeting.
+&gt;&gt; Y, it's a cut, right?
+&gt;&gt; It's a cut. 25 basis points fully priced
+in.
+&gt;&gt; Okay. Okay.
+&gt;&gt; So, I guess uh, and again, the rhetoric
+will be clearly watched into as to how
+many rate cuts they'll be pricing it for
+the rest of the year. So far, I think
+the market's pricing in two rate cuts.
+uh but of course that will be very
+dependent on the data side as well. I
+mean the UK has been facing uh a weak
+labor market and also to the same extent
+um they have a huge uh funding gap as
+well which they are trying to restore
+confidence in after what we had seen a
+few years back as well.
+&gt;&gt; So the rate cut is definitely priced in
+at 25 basis points uh tonight uh but I
+was I would probably have to uh examine
+clearly as to what the rhetoric is
+coming uh the rhetoric from the bank of
+England themselves before actually uh
+pricing the next rate cut from them as
+well. Is is is the bank of England a
+bigger driver for cable or is it these
+fiscal concerns and the funding gap
+that's seem to be every now and then
+seems to be moving the dial the needle
+on this.
+&gt;&gt; Exactly. And that that is also one of
+the reason we had seen cable actually
+collapse to around 132 recently as well.
+Um combination of factors the weak labor
+market on on that front and also the uh
+funding gap that the the UK is facing
+has uh basically uh kept the risk very
+much idiosyncratic on the on the side of
+the cable. So um if any rebound in the
+cable we will definitely be on the back
+of the US dollar itself and not because
+of uh any cable specific factors.
+&gt;&gt; Okay. I think we're final question for
+you. India is a big story today.
+&gt;&gt; Yes.
+&gt;&gt; Um we're looking at a Feb. So the Feb 10
+high of 87 and change I think was the
+record low and there was a comment
+yesterday coming through I think out of
+MUFJ
+&gt;&gt; uh that 88 is the level at which they
+might come in and defend it.
+&gt;&gt; Yes. uh what are your expectations in
+terms of well short-term moves in in
+dollar India and what is a level that
+you think authorities will come in to
+intervene
+&gt;&gt; well that's uh a little bit of a target
+um well almost a key to HKMA itself and
+well in a sense that uh 88 is a wrong
+figure and that was exactly the high the
+near the high we seen in uh the dollar
+just a few weeks ago as well
+&gt;&gt; now um if we look back at what the RBI
+had mentioned yesterday as well um it
+was clearly a case whereby they were
+focused more on currency stability
+rather than growth risk as well. And of
+of course with the 50% tariff that was
+put on them last night um there is a
+risk that we might see dollar break
+above 88 but we do not think that that
+will be a very sustained move higher
+because uh we will probably see well a
+renegotiation going on again and that
+will probably see a restore in
+confidence and uh prevention of capital
+outflows out of India.
+&gt;&gt; Fantastic. Thank you so much. Nice to
+see you. Let's let us know next time
+you're back in town.
+&gt;&gt; There we go. uh Ignatius Pong, Asia head
+of FX sales and execution at at UBP.
+Okay. Uh lots more to talk about. A
+couple of big movers on your screens is
+a quick glance at the FX complex right
+now. Uh there's some big stock movers
+here in the Asia Pacific, including Hong
+Kong. You have Xiaomi, you have Cathy
+Pacific, which I guess we can cross that
+bridge in a couple of minutes. We're
+back from a break. Plenty more ahead.
+This is the China Show.
+[Music]
+Welcome back. Chips is a big story today
+and as you can see TSMC up by 5% is
+really all this benchmark needs with the
+waiting that one has really on a
+benchmark record highs there on TSMC.
+That goes into the AMD part of the
+conversation, chip tariffs, what have
+you. You have shares of AMD gaining in
+after hours trading in New York. Again,
+same similar theme here. Investors
+reacting to President Trump's plan for
+100% tariffs uh on chip imports. Now,
+earlier on, its earnings report also
+offered little clarity uh on when AMD
+might actually resume its sales of key
+chips, AI chips specifically, uh to the
+Chinese markets. CEO Lisa Sue uh told
+Bloomberg that she is optimistic about a
+prog about progress towards a
+resolution.
+I know people always want precision and
+what I will give you is exactly um how
+things um are playing out from our
+standpoint. Um I think we've seen an
+improvement over the last 90 days. You
+know 90 days ago uh you know we did not
+expect to believe to ship uh to be able
+to ship to China because of some of the
+regulations. I think the um this
+administration um you know the
+department of commerce the government
+has actually been very open uh to uh
+trying to find the right balance between
+national security and ensuring that we
+have AI US AI technologies uh
+proliferated um across the world. So we
+think that's a great balance. Uh we now
+know that um we have a number of
+licenses that are under review. uh we've
+been given good indications that those
+are moving through the review process
+and you know we will um certainly inform
+everyone when the licenses are granted
+but given that it's hard to predict
+exact timing just given all of the
+things that are in front of the
+government at the moment we thought the
+right thing to do right now is just say
+hey um let's not uh include that in the
+third quarter revenue but even with that
+we're growing 28% year-over-year which
+is you know fantastic growth rate and if
+you asked me you know what we've learned
+in the last 90 days, we've learned that
+the demand is even stronger in the
+second half of the year than we
+necessarily, you know, thought maybe
+just a few months ago.
+&gt;&gt; And analysts really cooperated and
+thought it was right that we should see
+such caution perhaps and not show up in
+the numbers. But Lisa, I'm interested in
+the inventory that you had been very
+clear about the $800 million knock on
+the fact that you couldn't access China
+for a while. I know that most of those
+manufacturing hadn't been complete, but
+do you think you can unwind that 800
+million? How much do you think can you
+bring that back to bear?
+&gt;&gt; Well, we certainly expect that um once
+licenses are approved that we will you
+know restart our supply chain and uh you
+know get those in place. Um we do have
+you know a bit of time that it takes to
+complete those but we would expect to be
+able uh you know to ship some of those
+products as licenses are approved and
+you know again the exact timing will
+depend on when licenses um are approved.
+But I again would hope that we don't get
+caught up in you know something that I
+would say is um moving um actually in
+the right direction and really see like
+the overall business is doing extremely
+well.
+&gt;&gt; There we go. though is the boss at AMD,
+Lisa Sue with Caroline Hyde of course
+our colleague there post earnings and
+really as much clarity and context and
+granularity
+u that's possible uh without going into
+speculation of course post what they can
+do as far as the Chinese market is
+concerned okay that was just me buying
+15 seconds of the time okay uh pounds uh
+and some of the crosses here you have
+cable and everything in between bank of
+England rate decision in a couple of
+hours or so it's a consensus really uh
+every single economist that we've
+surveyed expects a cuts uh to about 4% I
+believe uh is where we are on that. Uh
+we did get a bounce off from the 132
+handle on that. We're back above a key
+moving average on cable. Um this note
+just dropped in our inboxes right now.
+This is on several markets along a
+tariff conversation. Uh so UBS has
+overrates on China, Brazil, not on your
+screens, Indonesia, Malaysia and the
+Philippines. Uh because these markets
+are largely indifferent
+according to UBS to tariff risks. We are
+more worried they say we stick with
+tariffs as an important market selection
+theme for now. So among ems these are
+including Brazil the top picks out of
+UBS. Um nifty futures on your screens
+India quite literally 50 is the number
+of the day from 25 to 50 as far as the
+tariff goes there. We'll see what the
+impact's going to be as far as the
+market goes. All indications are though
+markets will be ignoring this. Cash
+markets are set to open higher there.
+We're coming off 24 hours from the RBI.
+The other thing though is what the
+currency is going to do, right? Because
+we're trading at about 87 and change 87.
+On the higher end of that takes us back
+to Feb 10 levels, which is the level to
+watch. So stay t stay tuned for that.
+One stock we're tracking still today is
+Cathy Pacific. Extending the 9 10% drop
+yesterday, which really puts the stock
+on track for one of its worst weeks ever
+as a public company post earnings.
+Couple of brokerages have downgraded the
+stock. We're down about 3% going into
+the last 60 minutes of trade where we
+might actually get and probably will get
+the trade numbers coming out of China.
+July numbers preview on your screens and
+yeah, we are expecting a contraction
+there
+uh an imports of about 1%. All things
+equal trade balance 105 billion US.
+That's it from us here on the China
+show. We'll see you all tomorrow.
+Chinese markets go on break in 20
+minutes. Stay tuned though for more here
+on Bloomer Television.
+[Music]
