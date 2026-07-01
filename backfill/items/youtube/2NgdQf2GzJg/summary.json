@@ -47,15 +47,15 @@
         "source_refs": []
       },
       {
-        "label": "四大云商资本支出",
-        "value": "Google/Microsoft/AWS/Meta 2024年资本支出约$2200亿，2025预计超$3000亿",
-        "context": "大型科技公司AI基础设施军备竞赛",
+        "label": "AI资本支出规模",
+        "value": "大型科技公司年度AI资本支出达$220亿至$300亿级别",
+        "context": "Google/Microsoft/AWS/Meta等云商正进行大规模AI基础设施投资",
         "source_refs": []
       },
       {
         "label": "Meta收购Scale AI",
-        "value": "Meta以$150亿估值收购Scale AI的49%股权",
-        "context": "Meta对AI数据标注基础设施的战略投资",
+        "value": "Meta收购Scale AI的49%股权",
+        "context": "Mark Zuckerberg通过收购AI数据标注基础设施来加强AI布局",
         "source_refs": []
       },
       {
@@ -66,8 +66,8 @@
       },
       {
         "label": "Amazon广告收入",
-        "value": "Amazon 2024年广告收入$500-600亿",
-        "context": "AI对其核心零售业务难以构成颠覆",
+        "value": "Amazon年广告收入达$500亿级别",
+        "context": "AI对其核心零售业务难以构成颠覆，广告业务持续增长",
         "source_refs": []
       }
     ],

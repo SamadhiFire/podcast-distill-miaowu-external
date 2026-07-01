@@ -1,18 +1,20 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-30T10:53:02Z",
+  "generated_at": "2026-07-01T03:08:20Z",
   "platform": "youtube",
   "month": null,
   "date": null,
-  "item_id": "youtube:f8xIxDc0THE",
+  "item_id": "youtube:znkRUhZHKAA",
   "counts": {
     "invalid": 1
   },
   "invalid_or_missing": [
     {
-      "item_id": "youtube:f8xIxDc0THE",
-      "summary_path": "backfill/items/youtube/f8xIxDc0THE/summary.json",
-      "error": "key_facts_2_number_not_found_in_transcript:4"
+      "item_id": "youtube:znkRUhZHKAA",
+      "summary_path": "backfill/items/youtube/znkRUhZHKAA/summary.json",
+      "error": "platform_mismatch",
+      "expected": "youtube",
+      "actual": null
     }
   ]
 }

@@ -40,33 +40,33 @@
     ],
     "key_facts": [
       {
-        "label": "EV税收抵免到期日",
-        "value": "$7,500联邦EV税收抵免将于2025年9月30日到期",
-        "context": "John Murphy分析称EV渗透率已降至个位数",
+        "label": "EV税收抵免金额",
+        "value": "联邦EV税收抵免为每辆车$7,500",
+        "context": "该补贴即将到期，EV渗透率已降至个位数，早期采用者已消化完毕",
         "source_refs": []
       },
       {
-        "label": "福特EV亏损",
-        "value": "福特取消三排电动SUV投资损失$20亿，Mach-E库存积压400天",
-        "context": "EV战略失误的典型案例",
+        "label": "福特EV战略亏损",
+        "value": "福特取消三排电动SUV损失$20亿",
+        "context": "Mach-E库存积压严重，EV战略面临重新评估",
         "source_refs": []
       },
       {
-        "label": "Toyota混动渗透率",
-        "value": "Toyota混动已在约20%车型中采用，计划推至30%",
-        "context": "混动年产能约200万辆，计划扩至300万辆以上",
+        "label": "Toyota混动比例",
+        "value": "Toyota混动已在约20%车型中采用",
+        "context": "计划进一步提高混动渗透率，产能持续扩张",
         "source_refs": []
       },
       {
-        "label": "电池配比法则",
-        "value": "1:6:90——1辆EV的电池可造6辆PHEV或90辆混动",
-        "context": "90辆混动在真实驾驶循环中碳减排效果远超1辆EV",
+        "label": "电池资源效率比",
+        "value": "一辆EV的电池资源可造90辆混动车",
+        "context": "同一电池资源在混动车型中可实现更大规模的碳减排效果",
         "source_refs": []
       },
       {
         "label": "Tesla CyberCab",
-        "value": "Tesla CyberCab起售价$3万，双座无方向盘设计",
-        "context": "目前仅搭载L2辅助驾驶，未来计划升级至L4/L5",
+        "value": "Tesla发布CyberCab双座无人驾驶出租车",
+        "context": "目前仅搭载L2辅助驾驶，未来计划升级至完全自动驾驶",
         "source_refs": []
       }
     ],

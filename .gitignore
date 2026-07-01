@@ -20,6 +20,36 @@ cookies.txt
 cookies*.txt
 reports/
 subtitles/
+_gen_skeleton.py
+.workbuddy/
+
+# Backfill runtime/generated artifacts (local runs; do not commit new outputs)
+backfill/state/
+backfill/temp/
+backfill/failures/
+backfill/logs/
+backfill/catalog/
+backfill/daily/
+backfill/summary_jobs/
+backfill/*.db
+backfill/*.sqlite
+backfill/*.sqlite-*
+backfill/items.db
+backfill/backfill.db
+backfill/db.sqlite3
+backfill/batch*.json
+backfill/*_batch_info.json
+backfill/*_items_js.txt
+backfill/*_remaining.txt
+backfill/*_remaining.json
+backfill/*_pending.txt
+backfill/*_batches.json
+backfill/*_queue.json
+backfill/*_youtube_ids.txt
+backfill/*_processor.py
+backfill/*.py
+backfill/test.json
+backfill/items/**/summary*.json
 
 # 配置/状态文件（运行时生成，不应提交）
 config/daily_urls.txt

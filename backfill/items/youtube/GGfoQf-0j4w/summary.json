@@ -1,8 +1,7 @@
 {
   "schema_version": 1,
-  "item_id": "youtube:GGfoQf-0j4w",
+  "item_id": "GGfoQf-0j4w",
   "platform": "youtube",
-  "platform_id": "GGfoQf-0j4w",
   "transcript_sha256": "63881c734c2c981b033ff9eea06d2bbef2da56cdd8331bffbc2d9285c0585085",
   "metadata": {
     "item_id": "youtube:GGfoQf-0j4w",
@@ -19,50 +18,66 @@
     "language": "en"
   },
   "generation": {
-    "script": "trae_agent",
-    "model": "trae_agent",
-    "quality": "trae_agent_validated"
+    "model": "backfill-gpt4o",
+    "prompt_version": "v1",
+    "generated_at": "2026-06-30T00:00:00Z"
   },
   "digest": {
-    "short_title": "AI狂潮驱动全球股市连涨",
-    "one_liner": "SpaceX IPO融资750亿美元，Jensen Huang力推Marvell涨33%，全球AI交易持续升温推动11天连涨",
-    "why_it_matters": "涵盖Computex芯片峰会、SpaceX史上最大IPO、腾讯AI代理入局微信、日本成AI资金新宠，多线并进描绘AI超级周期全貌",
+    "short_title": "AI热潮推动股市飙升，美国提出新关税",
+    "one_liner": "AI交易推动亚洲股市追踪华尔街上涨，SpaceX IPO募资750亿美元，美国对60个经济体提出新关税。",
+    "why_it_matters": "AI热潮、科技IPO和贸易政策变化正在同时塑造全球市场，对投资者和理解全球经济格局具有重要参考价值。",
     "summary": [
-      "全球股市录得11天连涨，创2004年以来最长纪录，AI交易是核心驱动力。SpaceX正式申请IPO，拟以每股135美元发行约5.56亿股，目标融资750亿美元，超过沙特阿美290亿美元的前纪录。Elon Musk坚持固定价格而非投行惯用的询价区间，零售投资者可参与。此外，Google以850亿美元股权融资、Anthropic私募筹资均为天量级。",
-      "Computex台北展上，Nvidia CEO黄仁勋效应达到顶峰。他称Marvell将是下一个万亿美元公司，该股单日暴涨33%，创26年来最大涨幅。Nvidia三个月前已向Marvell投资20亿美元。SK海力士董事长警告存储芯片短缺可能持续至2030年，计划未来五年翻倍产能。ARM CEO在其专访中透露自研芯片目标15亿美元营收，可能提前于2030年达标。",
-      "腾讯推出微信内嵌AI代理获得市场关注，单日涨10%后回落。CLSA分析师指出腾讯拥有数十亿用户和小程序生态，但AI代理带来的Token成本可能侵蚀利润。分析认为中国互联网巨头正在追赶独立AI模型厂商，市场仍在评估谁能成为中国的Anthropic。百度在港股中自研GPU获得关注，其云端业务连续增长。",
-      "资金流向方面，日本今年吸引740亿美元外资流入，成为亚洲最大赢家，而韩国遭遇700亿美元流出，尽管高盛将KOSPI目标从9000上调至12000。台湾指数受TSMC等集中度过高影响面临获利回吐。张一鸣以928亿美元身价成为亚洲第二富豪，仅次于Gautam Adani的1170亿美元，得益于TikTok及AI聊天机器人300万月活用户。"
+      "彭博社《中国秀》报道了多个影响全球市场的重要事件。",
+      "AI交易继续推动股市：亚洲股市追踪华尔街上涨，S&P 500创下连续9天上涨和历史新高。",
+      "SpaceX IPO细节曝光：路透社报道其寻求募集750亿美元，每股定价135美元。",
+      "英伟达CEO黄仁勋在Computex表示，Marvell可能成为下一个万亿美元公司，Marvell股价应声上涨33%，创26年来最大单日涨幅。",
+      "美国提出新关税：对约60个经济体提出额外关税，包括加拿大、墨西哥、欧盟、台湾、英国（10%），以及中国、印度、日本、韩国、巴西、瑞士等（12.5%）。",
+      "报道还采访了ARM Holdings CEO Renee Haas，讨论AI芯片需求和数据中心建设。"
     ],
     "core_points": [
-      "SpaceX IPO定价750亿美元成为史上最大，Elon Musk以固定价135美元打破投行惯例，零售投资者可参与",
-      "黄仁勋 Computex推Marvell为万亿美元公司，后者单日涨33%，Nvidia此前持股20亿美元",
-      "SK海力士预警存储芯片短缺或持续至2030年，计划五年内产能翻倍",
-      "腾讯微信AI代理受热捧但Token成本可能压缩利润，中国互联网巨头与独立AI厂商竞争加剧",
-      "日本今年吸金740亿美元成亚洲AI资金新宠，韩国虽盈利增长350%却遭700亿美元外流",
-      "张一鸣身价928亿美元成中国首富及亚洲第二，ByteDance AI聊天机器人月活达300万"
+      "AI交易推动全球股市上涨，S&P 500连续9天上涨",
+      "SpaceX IPO寻求募集750亿美元，每股定价135美元",
+      "黄仁勋预测Marvell可能成为下一个万亿美元公司",
+      "美国对60个经济体提出新关税方案",
+      "AI芯片需求持续旺盛，供应链面临挑战"
     ],
     "key_facts": [
-      {"label": "SpaceX IPO融资目标", "value": "$75 billion", "context": "SpaceX拟以每股135美元发行约5.56亿股，创历史最高IPO融资纪录", "source_refs": []},
-      {"label": "Marvell单日涨幅", "value": "33%", "context": "黄仁勋在Computex称Marvell将是下一个万亿公司，股价单日涨33%创26年纪录", "source_refs": []},
-      {"label": "全球股市连涨天数", "value": "11", "context": "MSCI全球指数录得11天连涨，若达12天将是2004年以来最长连胜", "source_refs": []},
-      {"label": "日本外资净流入", "value": "$74 billion", "context": "日本股市今年吸引740亿美元外资流入，而韩国遭遇700亿美元外流", "source_refs": []},
-      {"label": "张一鸣财富", "value": "$92.8 billion", "context": "ByteDance创始人张一鸣以928亿美元身价成为中国首富，亚洲第二", "source_refs": []}
+      "SpaceX IPO募集750亿美元，超过沙特阿美IPO规模",
+      "Marvell股价单日上涨33%，创26年来最大涨幅",
+      "美国提出对60个经济体的新关税方案",
+      "10%关税适用于加拿大、墨西哥、欧盟、台湾、英国",
+      "12.5%关税适用于中国、印度、日本、韩国、巴西、瑞士等"
     ],
     "takeaways": [
-      "AI超级周期已从芯片扩散至算力、存储、IPO融资各环节，但亚洲市场K型分化加剧，需警惕过度拥挤风险"
+      "AI热潮继续推动科技股上涨，但估值担忧加剧",
+      "SpaceX IPO是科技和金融史上的里程碑事件",
+      "美国贸易政策再次收紧，全球供应链面临新挑战",
+      "芯片产业供应链紧张可能持续到2030年",
+      "投资者需要关注AI泡沫风险和地缘政治张力"
     ],
     "guests": [
-      "Jensen Huang, Nvidia, CEO",
-      "Rene Haas, ARM Holdings, CEO",
-      "Joe Little, HSBC Asset Management, Global Chief Strategist",
-      "Henry Hu, BYU, CFO",
-      "Ni Jun, CATL, Chief Manufacturing Officer"
+      "Stephen Engle（彭博社记者）",
+      "Joe Little（HSBC资产管理部门全球首席策略师）"
     ],
-    "topics": ["AI超级周期", "全球IPO市场", "亚洲科技股流向"],
-    "tensions": ["全球AI算力需求爆发与存储芯片供应短缺的矛盾", "日本吸金效应与韩台资金外流的区域再平衡", "互联网巨头AI化能否追上独立模型厂商"],
-    "quote": {"text": "The next trillion dollar company, ladies and gentlemen.", "speaker": "Jensen Huang", "kind": "verbatim"},
-    "importance_score": 4,
-    "content_density": "high",
-    "quality": "trae_agent_validated"
+    "topics": [
+      "AI热潮",
+      "SpaceX IPO",
+      "美国关税",
+      "芯片产业",
+      "全球股市"
+    ],
+    "tensions": [
+      "AI估值 vs 盈利能力",
+      "自由贸易 vs 保护主义",
+      "科技竞争 vs 供应链安全"
+    ],
+    "quote": {
+      "text": "这将是下一个万亿美元公司。",
+      "speaker": "Jensen Huang（英伟达CEO）",
+      "context": "在Computex预测Marvell可能成为下一个万亿美元公司"
+    },
+    "importance_score": 5,
+    "content_density": 5,
+    "quality": 4
   }
 }

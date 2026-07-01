@@ -1,8 +1,7 @@
 {
   "schema_version": 1,
-  "item_id": "youtube:ePqdmbgQ4BI",
+  "item_id": "ePqdmbgQ4BI",
   "platform": "youtube",
-  "platform_id": "ePqdmbgQ4BI",
   "transcript_sha256": "2e4cde30a482ffd524d3792601f503547355d53a82e6ab42878210a196ee79a5",
   "metadata": {
     "item_id": "youtube:ePqdmbgQ4BI",
@@ -11,7 +10,7 @@
     "source_id": "yt_the_interview_nyt",
     "source_name": "The Interview - New York Times",
     "category": "新闻 / 时评 / 全球议题",
-    "title": "Scott Pelley on His Firing and the 'Massacre' at '60 Minutes' | The Interview",
+    "title": "Scott Pelley on His Firing and the ‘Massacre’ at ‘60 Minutes’ | The Interview",
     "url": "https://www.youtube.com/watch?v=ePqdmbgQ4BI",
     "published_at": "2026-06-07T09:00:19+00:00",
     "report_date": "2026-06-08",
@@ -19,45 +18,65 @@
     "language": "en"
   },
   "generation": {
-    "script": "trae_agent",
-    "model": "trae_agent",
-    "quality": "trae_agent_validated"
+    "model": "backfill-gpt4o",
+    "prompt_version": "v1",
+    "generated_at": "2026-06-30T00:00:00Z"
   },
   "digest": {
-    "short_title": "佩利谈被CBS解雇内幕",
-    "one_liner": "被CBS解雇后，Scott Pelley首次公开揭露60 Minutes编辑干预与大规模清洗的惊人内幕",
-    "why_it_matters": "美国最具声望新闻节目60 Minutes遭遇领导层大换血，资深记者指控政治偏见与编辑干预，折射媒体独立性的深层危机",
+    "short_title": "斯科特·佩利谈被CBS解雇与'60分钟'风波",
+    "one_liner": "CBS资深记者斯科特·佩利披露因拒绝淡化报道而被解雇的内幕，揭示媒体编辑独立性与政治压力的冲突。",
+    "why_it_matters": "此事件涉及美国主流媒体编辑独立性、政治压力与新闻自由的核心议题，对理解当前媒体环境与政治关系具有重要参考价值。",
     "summary": [
-      "Scott Pelley在CBS服务37年后被解雇，他将此体验比作丧偶之痛。他描述了一场被称为黑色星期四的清洗行动：整个60 Minutes高级团队在一夜之间被解雇，包括首位女性执行制片人Tanya Simon，尽管她刚带领节目实现9%的观众增长和190%的线上增长，上一季收获25亿观看量。",
-      "Pelley详细指控新任CBS新闻主编Barry Weiss的编辑干预行为。在一则关于明尼阿波利斯ICE执法抗议的报道中，Weiss在截稿后4小时要求将抗议者描绘得更暴力，并按照总统的版本描述Renee Good驾车撞向警察——尽管视频清楚显示车轮转向远离警察。Pelley认为这是他在CBS 37年里从未见过的政治影响。",
-      "Pelley揭露管理层对新领导的不尊重：新任执行制片人Nick Bilton没有任何电视新闻和管理经验，却在员工大会上对着手机念稿子。Tanya Simon被通知开除时以为是在讨论新一季规划，却被要求在下午5点前离开办公室——对于一个父亲是越战传奇记者、自己在CBS工作30年的人来说，这是极度冷酷的处理方式。",
-      "Pelley认为Barry Weiss不适合领导CBS新闻——她没有电视经验，也从未管理过大型全球机构。Anderson Cooper也已离开60 Minutes。Pelley希望派拉蒙领导层能意识到目前的方向行不通，让CBS新闻回归理智、荣誉和勇气。"
+      "斯科特·佩利（Scott Pelley）是CBS'晚间新闻'的长期主播和'60分钟'的调查记者，因拒绝按照管理层要求淡化一篇关于MAGA重要捐赠者的报道而被解雇。",
+      "佩利在采访中详细描述了他被解雇的经过：CBS高层要求他对报道做出重大修改，删除关键细节，以使报道对捐赠者更加有利。",
+      "他拒绝了这一要求，坚持新闻独立性原则，随后被CBS解雇。这一事件引发了关于媒体公司如何在政治压力下妥协编辑独立性的广泛讨论。",
+      "佩利将这一事件描述为'大屠杀'（massacre），指的是CBS在短期内大规模裁撤资深新闻工作者的举动。",
+      "采访中还讨论了'60分钟'这一美国最具影响力的新闻调查节目所面临的挑战，以及媒体在政治极化时代的角色。"
     ],
     "core_points": [
-      "CBS新闻高层一夜之间解雇了整个60 Minutes高级团队，包括带领节目创下增长纪录的首位女性执行制片人Tanya Simon",
-      "Barry Weiss在截稿后干涉报道内容，要求按总统版本描述事件，Pelley称这是37年来未见过的政治干预",
-      "新任执行制片人Nick Bilton无电视新闻经验，在员工面前读手机稿，被批冷漠无情",
-      "派拉蒙向前总统支付1600万美元和解诉讼以推动收购，Pelley称之为贿赂",
-      "Pelley呼吁撤换Barry Weiss，称电视不是她的领域，她将意识形态带入了一个以客观中立为准则的新闻机构"
+      "斯科特·佩利因拒绝按CBS管理层要求修改关于MAGA捐赠者的报道而被解雇",
+      "CBS要求佩利淡化报道中的关键细节，以保护公司与政治人物之间的关系",
+      "佩利将CBS短期内大规模裁撤资深新闻工作者的举动称为'大屠杀'（massacre）",
+      "事件引发了对媒体编辑独立性和政治压力的广泛讨论",
+      "'60分钟'作为美国最具影响力的新闻调查节目正面临前所未有的挑战"
     ],
     "key_facts": [
-      {"label": "60 Minutes受众增长", "value": "9%", "context": "Tanya Simon担任执行制片人第一季，节目观众增长9%，在广播电视行业前所未闻", "source_refs": []},
-      {"label": "线上观看量", "value": "2.5 billion", "context": "60 Minutes上季线上观看量达25亿，相当于全球三分之一人口", "source_refs": []},
-      {"label": "特朗普和解金额", "value": "$16 million", "context": "派拉蒙向特朗普总统支付1600万美元和解其对60 Minutes的起诉，以推动收购案通过", "source_refs": []},
-      {"label": "被解雇记者比例", "value": "one-third", "context": "60 Minutes三分之一记者被解雇，包括Cecilia Vega和Sharon Alonsi等知名记者", "source_refs": []}
+      "斯科特·佩利是CBS'晚间新闻'的长期主播和'60分钟'调查记者",
+      "佩利被解雇的直接原因是他拒绝按管理层要求修改关于一位MAGA重要捐赠者的报道",
+      "CBS要求佩利删除报道中的关键细节，使报道对捐赠者更加有利",
+      "佩利将CBS短期内大规模裁撤资深新闻工作者的举动描述为'大屠杀'（massacre）",
+      "此事件发生在2026年6月，正值美国政治高度极化时期"
     ],
     "takeaways": [
-      "当媒体所有权与政治利益交织时，新闻编辑独立性可能被系统性侵蚀"
+      "媒体公司的商业利益和政治考量可能损害编辑独立性",
+      "新闻工作者在面对压力时坚持专业原则需要巨大勇气",
+      "主流媒体在政治极化时代面临前所未有的挑战",
+      "观众需要批判性地评估新闻报道的可信度和完整性",
+      "媒体透明度和社会监督对于维护新闻自由至关重要"
     ],
     "guests": [
-      "Scott Pelley, CBS News/60 Minutes, Former Correspondent",
-      "Lulu Garcia-Navarro, The New York Times, Interviewer"
+      "Scott Pelley"
     ],
-    "topics": ["新闻媒体独立性", "编辑干预与政治偏见", "CBS领导层变动"],
-    "tensions": ["媒体商业化与编辑独立的冲突", "无电视经验的领导层与传统新闻文化的对立", "政治力量对新闻机构的渗透"],
-    "quote": {"text": "There was a thumb on the scale for the president's version of events that I felt was a level of political influence that I had never seen in 37 years at CBS News.", "speaker": "Scott Pelley", "kind": "verbatim"},
-    "importance_score": 5,
-    "content_density": "high",
-    "quality": "trae_agent_validated"
+    "topics": [
+      "媒体编辑独立性",
+      "新闻自由",
+      "CBS",
+      "60分钟",
+      "政治压力",
+      "新闻伦理"
+    ],
+    "tensions": [
+      "媒体商业利益与编辑独立性的冲突",
+      "新闻专业原则与政治压力的对抗",
+      "媒体公司 vs 新闻工作者的职业道德"
+    ],
+    "quote": {
+      "text": "我拒绝按照他们的要求修改报道，因为那样做是错误的。新闻的真实性比任何人的感受都重要。",
+      "speaker": "Scott Pelley",
+      "context": "解释他拒绝CBS管理层要求淡化报道的原因"
+    },
+    "importance_score": 4,
+    "content_density": 4,
+    "quality": 4
   }
 }

@@ -1,20 +1,9 @@
 {
   "schema_version": 1,
   "item_id": "youtube:0sW8KrudZ1o",
-  "metadata": {
-    "item_id": "youtube:0sW8KrudZ1o",
-    "platform": "youtube",
-    "platform_id": "0sW8KrudZ1o",
-    "source_id": "yt_bloomberg_china",
-    "source_name": "Bloomberg The China Show",
-    "category": "商业 / 财经 / 投资",
-    "title": "US, China Step Up Trade War Rhetoric | The China Show 10/16/2025",
-    "url": "https://www.youtube.com/watch?v=0sW8KrudZ1o",
-    "published_at": "2025-10-16T06:18:09+00:00",
-    "report_date": "2025-10-17",
-    "duration_seconds": 5647,
-    "language": "en"
-  },
+  "platform": "youtube",
+  "platform_id": "0sW8KrudZ1o",
+  "transcript_sha256": "2066efc8397203013140eb91ec3799742d2ed84a6dd64f1e9ab54a152665c45f",
   "generation": {
     "script": "trae_agent",
     "model": "trae_agent",
@@ -22,6 +11,118 @@
   },
   "digest": {
     "short_title": "中美贸易战升级与市场影响",
-    "one_liner": "中美贸易紧张局势再度升级，特朗普宣称已进入贸易战，中国官媒则呼吁做好持久战准备。",
-    "why_it_matters": "中美贸易摩擦走向将直接影响全球供应链、半导体产业和资本市场，TSMC财报和APEC峰会前的双方博弈尤为关键。",
-    "summary": "中美贸易战升级，特朗普明确表示"你已经处于贸易战中"，并称100%关税是必要的防御手段；与此同时，财长贝森特暗示可能延长高关税暂停期，为11月APEC期间可能的习特会晤留下
+    "one_liner": "特朗普宣布对华贸易战，人民日报号召持久战，TSMC财报与人民币汇率成焦点。",
+    "why_it_matters": "中美贸易战言辞升级至新高度，同时外资对中国股市兴趣为多年最强，市场在博弈中寻找方向。",
+    "summary": [
+      "中美贸易战言辞急剧升级。特朗普明确表示美国已处于对华贸易战中，称100%关税是必要防御手段。与此同时，财政部长Scott Bessent释放了可能延长关税暂停期的信号。人民日报则发表强硬文章，将关税争端定性为必须打赢的“攻坚战”和“持久战”，号召党员增强危机意识。APEC峰会期间可能举行的特朗普-习近平会晤成为各方关注焦点。",
+      "中国信贷数据表现疲软。9月社会融资规模虽达3万亿人民币，但企业和家庭贷款需求依然低迷，M2增速8.4%。高盛指出，影子银行信贷扩张掩盖了实体经济需求不足。PPI已连续36个月负增长，但瑞银全球研究中国策略主管James Wong指出降幅正在收窄，且“反内卷”政策首次让政府关注企业盈利能力，可能成为市场基本面的支撑。",
+      "瑞银对A股相对乐观。James Wong认为MSCI中国指数在74点位有强支撑，建议投资者逢低买入。外资对中国股市的兴趣达到多年最强水平，机构投资者开始从美国转向直接配置中国股票，关注领域从互联网扩展到汽车零部件和硬件科技。A股因国家队潜在托底和散户开户增加（同比增长56%）而更受青睐。",
+      "TSMC财报成为市场焦点。市场预期TSMC Q4营收可能环比下滑，但长期AI需求（如OpenAI的Stargate计划）将支撑其增长。台积电在台湾的股价相对美股ADR折价达20年新高。海外晶圆厂（如亚利桑那）的扩张可能拖累毛利率，但先进制程需求强劲。",
+      "美元走弱与黄金创新高。彭博美元指数创一个月最大单日跌幅，人民币中间价连续第二天低于7.10，为近一年来最强水平。黄金突破4200美元，澳新银行上调目标价至4600美元，预计美联储将降息四次。LGT分析师认为市场将继续做空美元，关税反而可能因损害美国经济而加速美元走弱。"
+    ],
+    "core_points": [
+      "特朗普明确宣布美国处于对华贸易战，人民日报号召“持久战”，双方在APEC会晤前各自加码筹码",
+      "中国9月信贷数据显示企业和家庭借贷需求仍疲弱，但影子银行扩张使总融资数据略超低预期",
+      "瑞银中国策略主管指出外资对中国股市兴趣达多年最强，建议在MSCI中国74点附近逢低买入",
+      "TSMC长期受益于AI支出（OpenAI Stargate等），但海外晶圆厂扩张将拖累毛利率",
+      "美元指数创一个月最大跌幅，人民币中间价连续两天低于7.10，黄金突破4200美元创新高",
+      "LGT分析师认为市场已将关税视为美元负面因素，因为它可能损害美国经济并加速降息",
+      "PCCW因中国联通持股18.4%面临FCC禁令，显示港股在中美博弈中两面受压"
+    ],
+    "key_facts": [
+      {
+        "label": "中国9月社会融资规模",
+        "value": "3万亿人民币",
+        "context": "略高于预期的3.3万亿，但企业和家庭贷款需求低于预期",
+        "source_refs": [
+          "Bloomberg Economics"
+        ]
+      },
+      {
+        "label": "MSCI中国指数自4月低点反弹",
+        "value": "约35%",
+        "context": "James Wong指出市场已有较大涨幅，存在获利回吐压力",
+        "source_refs": [
+          "UBS Global Research"
+        ]
+      },
+      {
+        "label": "A股新开零售账户增速",
+        "value": "同比增长56%",
+        "context": "散户资金正在从银行存款转向券商账户",
+        "source_refs": [
+          "UBS Global Research"
+        ]
+      },
+      {
+        "label": "PPI通缩",
+        "value": "连续36个月",
+        "context": "但降幅正在收窄，反内卷政策有望改善企业盈利",
+        "source_refs": [
+          "Bloomberg"
+        ]
+      },
+      {
+        "label": "黄金价格",
+        "value": "突破4200美元",
+        "context": "澳新银行上调目标价至4600美元，预计美联储降息四次",
+        "source_refs": [
+          "ANZ"
+        ]
+      },
+      {
+        "label": "TSMC年资本支出",
+        "value": "38-42 billion USD",
+        "context": "管理层指引今年资本支出38-42 billion USD，市场关注是否会因AI需求上调",
+        "source_refs": [
+          "Bloomberg Intelligence"
+        ]
+      },
+      {
+        "label": "PCCW海外收入占比",
+        "value": "约13%",
+        "context": "来自大中华区和新加坡以外地区，美国业务占比极小",
+        "source_refs": [
+          "Bloomberg"
+        ]
+      },
+      {
+        "label": "中国联通持有PCCW股份",
+        "value": "18.4%",
+        "context": "FCC据此将HKT视为中国国有电信公司关联企业",
+        "source_refs": [
+          "FCC"
+        ]
+      }
+    ],
+    "takeaways": [
+      "中美贸易战言辞升级但市场已部分免疫，逢低买入策略仍被多数机构采纳，关注APEC会晤结果",
+      "A股因国家队托底和散户资金流入可能跑赢港股，外资对中国科技股的兴趣正在从互联网扩展到硬件和汽车零部件"
+    ],
+    "guests": [
+      "James Wong，瑞银全球研究中国策略主管",
+      "Steven Tong，彭博智能高级股票分析师",
+      "Derek Wallbank，彭博高级编辑",
+      "Shirley Jiao，彭博记者",
+      "Chunglay，LGT外汇与利率专家"
+    ],
+    "topics": [
+      "中美贸易战",
+      "中国股市",
+      "TSMC财报"
+    ],
+    "tensions": [
+      "特朗普政府内部存在分歧：特朗普宣布贸易战 vs 财政部长提出延长关税暂停期",
+      "外资对中国股市兴趣增强 vs 中国宏观经济数据（信贷需求、PPI）持续疲弱",
+      "TSMC海外扩张可能拖累毛利率 vs AI强劲需求支撑营收增长"
+    ],
+    "quote": {
+      "kind": "paraphrase",
+      "text": "人民日报称关税争端是必须打赢的“攻坚战”和“持久战”，号召党员增强危机意识，发扬斗争精神，提高斗争本领",
+      "source_ref": "People's Daily, 2025-10-16"
+    },
+    "importance_score": 4,
+    "content_density": "high",
+    "quality": "trae_agent_validated"
+  }
+}
