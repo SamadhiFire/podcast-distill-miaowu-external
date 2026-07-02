@@ -57,6 +57,7 @@ jobs:
           echo "ITEMS_PATH=reports/daily_items_${REPORT_DATE}.json" >> "$GITHUB_ENV"
           echo "MANIFEST_PATH=reports/daily_items_${REPORT_DATE}.manifest.json" >> "$GITHUB_ENV"
           echo "TINGWU_STATUS_PATH=reports/tingwu_xiaoyuzhou_${REPORT_DATE}.status.json" >> "$GITHUB_ENV"
+          echo "YOUTUBE_STATUS_PATH=reports/youtube_external_${REPORT_DATE}.status.json" >> "$GITHUB_ENV"
           echo "VALIDATION_PATH=reports/transcript_validation_${REPORT_DATE}.json" >> "$GITHUB_ENV"
           echo "BUNDLE_PATH=subtitles_bundle.zip" >> "$GITHUB_ENV"
 
@@ -79,6 +80,11 @@ jobs:
           test -n "${{ secrets.FEISHU_WIKI_SPACE_ID }}"
           test -n "${{ secrets.FEISHU_NOTIFY_WEBHOOK }}"
 
+      - name: Check required YouTube transcript service secrets
+        shell: bash
+        run: |
+          test -n "${{ secrets.MEDIA_API_TOKEN }}"
+
       - name: Collect Xiaoyuzhou and transcribe via Tingwu
         env:
           TINGWU_APP_KEY: ${{ secrets.TINGWU_APP_KEY }}
@@ -92,6 +98,23 @@ jobs:
             --manifest-json "$MANIFEST_PATH" \
             --bundle-path "$BUNDLE_PATH" \
             --status-json "$TINGWU_STATUS_PATH" \
+            --subtitles-dir subtitles \
+            --poll-interval 20 \
+            --timeout-seconds 18000
+
+      - name: Collect YouTube via external transcript service
+        env:
+          MEDIA_API_TOKEN: ${{ secrets.MEDIA_API_TOKEN }}
+          MEDIA_API_BASE: ${{ vars.MEDIA_API_BASE }}
+          YOUTUBE_SOURCES_PROFILE: ${{ vars.YOUTUBE_SOURCES_PROFILE }}
+        run: |
+          python scripts/youtube_external_daily.py \
+            --date "$REPORT_DATE" \
+            --timezone "Asia/Shanghai" \
+            --items-json "$ITEMS_PATH" \
+            --manifest-json "$MANIFEST_PATH" \
+            --bundle-path "$BUNDLE_PATH" \
+            --status-json "$YOUTUBE_STATUS_PATH" \
             --subtitles-dir subtitles \
             --poll-interval 20 \
             --timeout-seconds 18000
@@ -168,6 +191,7 @@ jobs:
             ${{ env.ITEMS_PATH }}
             ${{ env.MANIFEST_PATH }}
             ${{ env.TINGWU_STATUS_PATH }}
+            ${{ env.YOUTUBE_STATUS_PATH }}
             ${{ env.VALIDATION_PATH }}
             ${{ env.BUNDLE_PATH }}
             subtitles/
