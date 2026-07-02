@@ -1,63 +1,43 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 .venv/
+venv/
+
+# Secrets and local credentials
 .env
 credentials.cmd
 client_secret_*.json
 token*.json
 *.b64
+cookies.txt
+cookies*.txt
 
-# 临时文件
+# Local runtime outputs
+.cache/
+.workbuddy/
+reports/
 test_results/
-test_tools/
+subtitles/
+subtitles_bundle*.zip
+*.log
 *.tmp
 *.part
 *.ytdl
-*.log
-cookies.txt
-cookies*.txt
-reports/
-subtitles/
-subtitles_bundle*.zip
-_gen_skeleton.py
-.workbuddy/
 
-# Backfill runtime/generated artifacts (local runs; do not commit new outputs)
-backfill/state/
-backfill/temp/
-backfill/failures/
-backfill/logs/
-backfill/catalog/
-backfill/daily/
-backfill/summary_jobs/
-backfill/*.db
-backfill/*.sqlite
-backfill/*.sqlite-*
-backfill/items.db
-backfill/backfill.db
-backfill/db.sqlite3
-backfill/batch*.json
-backfill/*_batch_info.json
-backfill/*_items_js.txt
-backfill/*_remaining.txt
-backfill/*_remaining.json
-backfill/*_pending.txt
-backfill/*_batches.json
-backfill/*_queue.json
-backfill/*_youtube_ids.txt
-backfill/*_processor.py
-backfill/*.py
-backfill/test.json
-backfill/items/**/summary*.json
+# Backfill and legacy generated data
+backfill/
+diagrams/
+raw_nodes*.json
+pending_*.txt
+*_remaining.txt
+*_pending.txt
+*_meta.json
 
-# 配置/状态文件（运行时生成，不应提交）
-config/daily_urls.txt
-config/last_check.json
-config/youtube_channel_cache.json
-
-# 视频/音频/缩略图文件（中间产物，最终字幕在 subtitles/ 下）
+# Media and ASR binaries
+whisper-bin-x64/
+whisper.cpp/
 *.mp4
 *.mkv
 *.webm
@@ -71,16 +51,14 @@ config/youtube_channel_cache.json
 *.jpeg
 *.png
 
-# whisper.cpp 源码目录（CI 运行时自动 clone + 编译，不要提交整个源码）
-whisper.cpp/
+# Generated config/state
+config/daily_urls*.txt
+config/last_check.json
+config/youtube_channel_cache.json
+config/xiaoyuzhou_asr_*.txt
 
-# Whisper 模型文件（超过 100MB，超出 GitHub 文件限制，使用 download-model.cmd 下载）
-whisper-bin-x64/models/*.bin
-
-# IDE
+# IDE and OS files
 .vscode/
 .idea/
-
-# OS
 .DS_Store
 Thumbs.db

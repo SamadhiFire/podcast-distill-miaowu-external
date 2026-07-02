@@ -1,5 +1,0 @@
-# 字幕提取 URL 列表（每行一个，# 开头为注释）
-# YouTube
-https://www.youtube.com/watch?v=CFqjjKp9Y-Q
-# 小宇宙
-https://www.xiaoyuzhoufm.com/episode/6a059d321b7bd50295257a5e

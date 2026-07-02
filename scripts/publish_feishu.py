@@ -242,6 +242,14 @@ def markdown_to_feishu_xml(markdown: str) -> str:
     return xml
 
 
+def assert_no_encoding_damage(text: str, label: str) -> None:
+    """Refuse to publish text that looks like mojibake or lossy encoding."""
+    if "\ufffd" in text:
+        raise ValueError(f"{label} contains Unicode replacement characters")
+    if re.search(r"\?{4,}", text):
+        raise ValueError(f"{label} contains long runs of question marks; possible encoding damage")
+
+
 def write_doc_via_larkcli(
     doc_token: str,
     xml_content: str,
@@ -569,6 +577,7 @@ def main() -> int:
     args = parse_args()
     source_path = Path(args.file)
     source_text = source_path.read_text(encoding="utf-8")
+    assert_no_encoding_damage(source_text, str(source_path))
     report: dict[str, Any] | None = None
     report_path = source_path if source_path.suffix.lower() == ".json" else source_path.with_suffix(".json")
     if report_path.exists():
@@ -583,6 +592,7 @@ def main() -> int:
     if report:
         report["title"] = args.title
     xml_content = report_to_feishu_xml(report) if report else markdown_to_feishu_xml(source_text)
+    assert_no_encoding_damage(xml_content, "rendered Feishu XML")
     if args.dry_run or not os.getenv("FEISHU_APP_ID"):
         print(f"Dry run: would publish {source_path} as {args.title} ({len(xml_content)} XML chars)")
         url = f"https://my.feishu.cn/wiki/DRY_RUN"
