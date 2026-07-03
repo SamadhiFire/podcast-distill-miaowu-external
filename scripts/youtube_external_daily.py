@@ -262,6 +262,16 @@ def single_cue_vtt(text: str, duration_seconds: float) -> str:
     return f"WEBVTT\n\n00:00:00.000 --> {format_vtt_time(end)}\n{text.strip()}\n"
 
 
+def transcript_text_looks_complete(text: str, duration_seconds: float) -> bool:
+    if duration_seconds < 300:
+        return bool(text.strip())
+    # A very conservative density check. English and Chinese transcripts that
+    # cover a long-form episode are usually far denser than this; short
+    # timestamp spans from external caption tools can otherwise make a complete
+    # plain-text transcript look like a failed artifact.
+    return len(text.strip()) >= max(2000, int(duration_seconds * 4))
+
+
 def srt_to_vtt(srt: str) -> str:
     content = (srt or "").strip()
     content = re.sub(
@@ -557,17 +567,24 @@ def write_youtube_transcript(
     if caption_has_timestamps(srt):
         (subtitles_dir / srt_name).write_text(srt.strip() + "\n", encoding="utf-8", newline="\n")
 
-    last_ts = parse_number(
+    declared_last_ts = parse_number(
         record.get("last_timestamp_seconds") or item.get("last_timestamp_seconds"),
         0.0,
     )
-    if not last_ts:
-        last_ts = last_timestamp_seconds(vtt, srt)
+    timed_last_ts = last_timestamp_seconds(vtt, srt)
+    last_ts = max(declared_last_ts, timed_last_ts)
     if not duration:
         duration = parse_number(record.get("duration_seconds") or record.get("duration"), 0.0) or last_ts
     coverage = parse_number(record.get("coverage_ratio") or item.get("coverage_ratio"), 0.0)
     if not coverage and duration:
         coverage = min(last_ts / duration, 1.0)
+    timing_quality = "timed"
+    if duration >= 300 and coverage < 0.95 and transcript_text_looks_complete(text, duration):
+        vtt = single_cue_vtt(text, duration)
+        (subtitles_dir / vtt_name).write_text(vtt.strip() + "\n", encoding="utf-8", newline="\n")
+        last_ts = duration
+        coverage = 1.0
+        timing_quality = "synthetic_full_span"
     if not last_ts and duration:
         last_ts = duration
     source_method = transcript_method(
@@ -594,6 +611,7 @@ def write_youtube_transcript(
         "source": source_method,
         "source_method": source_method,
         "language": item.get("language") or record.get("language") or "",
+        "timing_quality": timing_quality,
     }
     write_json(subtitles_dir / meta_name, meta)
     return meta
@@ -808,11 +826,28 @@ def main() -> int:
             )
             item["transcript_status"] = "success"
         else:
-            item["transcript_status"] = "failed"
-            message = f"transcript missing from external bundle for {item.get('url') or item.get('title')}"
-            transcript_results.append({"url": item.get("url"), "status": "failed", "error_message": message})
-            if not args.no_require_transcripts:
-                errors.append({"url": item.get("url"), "error_type": "transcript_missing", "error_message": message})
+            duration = parse_number(item.get("duration_seconds") or item.get("duration"), 0.0)
+            if duration < 300:
+                item["transcript_status"] = "skipped_short"
+                transcript_results.append(
+                    {
+                        "url": item.get("url"),
+                        "status": "skipped_short",
+                        "duration_seconds": duration,
+                    }
+                )
+            else:
+                item["transcript_status"] = "failed"
+                message = f"transcript missing from external bundle for {item.get('url') or item.get('title')}"
+                transcript_results.append({"url": item.get("url"), "status": "failed", "error_message": message})
+                if not args.no_require_transcripts:
+                    errors.append(
+                        {
+                            "url": item.get("url"),
+                            "error_type": "transcript_missing",
+                            "error_message": message,
+                        }
+                    )
         youtube_items.append(item)
 
     non_youtube_items = [

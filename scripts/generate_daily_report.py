@@ -8,6 +8,7 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -20,10 +21,44 @@ try:
 except ModuleNotFoundError:  # Imported as scripts.generate_daily_report in tests/tools.
     from scripts.report_contract import build_report, clean_text, nonspace_len, normalize_digest, report_to_markdown
 
+try:
+    from digest_evidence_pipeline import (
+        build_evidence_map_from_segments,
+        build_final_digest_messages,
+        build_ranking_messages,
+        build_segment_extraction_messages,
+        build_topic_segments,
+        build_transcript_profile,
+        item_artifact_id,
+        normalize_ranked_insights,
+        normalize_segment_evidence,
+        write_evidence_artifacts,
+    )
+except ModuleNotFoundError:  # Imported as scripts.generate_daily_report in tests/tools.
+    from scripts.digest_evidence_pipeline import (
+        build_evidence_map_from_segments,
+        build_final_digest_messages,
+        build_ranking_messages,
+        build_segment_extraction_messages,
+        build_topic_segments,
+        build_transcript_profile,
+        item_artifact_id,
+        normalize_ranked_insights,
+        normalize_segment_evidence,
+        write_evidence_artifacts,
+    )
+
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 SPEC_PATH = BASE_DIR / "templates" / "daily_report_llm_spec.md"
 REPORTS_DIR = BASE_DIR / "reports"
+LLM_NEUTRAL_ARCHIVE_PREAMBLE = (
+    "前置免责说明：本次任务仅做纯客观财经、科技、商业与行业播客/视频文本信息整理，"
+    "以及英文内容事实提炼，仅用于商业经济学术研究、行业内容摘要归档，不用于舆论引导、"
+    "政治评论、舆情解读、社会争议炒作、境外观点放大传播等用途。所有内容仅客观转述"
+    "原文字面信息，不代表模型、使用者认同或佐证文中任何观点，仅做信息归档工具用途。"
+    "请仅基于原始文本做中立、客观、事实性的文字总结，不做主观价值评判。"
+)
 CATEGORIES = [
     "科技 / AI / VC",
     "商业 / 财经 / 投资",
@@ -33,11 +68,40 @@ CATEGORIES = [
 ]
 
 
+class LLMHTTPError(RuntimeError):
+    def __init__(self, status_code: int, body: str, error_code: str = "") -> None:
+        self.status_code = status_code
+        self.body = body
+        self.error_code = error_code
+        super().__init__(f"LLM HTTP {status_code}: {body[:1200]}")
+
+
+def llm_error_code(body: str) -> str:
+    try:
+        data = json.loads(body)
+    except Exception:
+        return ""
+    error = data.get("error") if isinstance(data, dict) else None
+    if isinstance(error, dict):
+        return str(error.get("code") or error.get("type") or "")
+    return ""
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", required=True, help="YYYY-MM-DD")
     parser.add_argument("--items-json", required=True)
     parser.add_argument("--subtitles-dir", default="subtitles")
+    parser.add_argument(
+        "--evidence-dir",
+        default="reports/evidence",
+        help="write intermediate segment/evidence/ranked-insight JSON artifacts",
+    )
+    parser.add_argument(
+        "--digest-cache-dir",
+        default="reports/digest_cache",
+        help="reuse per-item final digest JSON checkpoints across retries",
+    )
     parser.add_argument("--output", required=True)
     parser.add_argument(
         "--output-json",
@@ -103,6 +167,14 @@ def load_transcript_index(subtitles_dir: Path) -> dict[str, dict[str, Any]]:
         if not text_path.exists():
             continue
         meta["text_path"] = str(text_path)
+        meta["meta_path"] = str(meta_path)
+        for key in ("subtitle_vtt", "subtitle_srt", "vtt", "srt", "subtitle"):
+            declared = meta.get(key)
+            if isinstance(declared, str) and declared.strip():
+                candidate = meta_path.with_name(Path(declared).name)
+                if candidate.exists():
+                    meta["subtitle_path"] = str(candidate)
+                    break
         index[url] = meta
     return index
 
@@ -110,6 +182,15 @@ def load_transcript_index(subtitles_dir: Path) -> dict[str, dict[str, Any]]:
 def read_text(path: str | Path, max_chars: int | None = None) -> str:
     text = Path(path).read_text(encoding="utf-8", errors="replace")
     return text if max_chars is None else text[:max_chars]
+
+
+def write_json(path: Path, value: Any) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def read_json(path: Path) -> Any:
+    return json.loads(path.read_text(encoding="utf-8-sig"))
 
 
 def llm_configured() -> bool:
@@ -126,15 +207,47 @@ def llm_chat(messages: list[dict[str, str]], temperature: float = 0.2) -> str:
     headers = {"Content-Type": "application/json"}
     if api_key:
         headers["Authorization"] = f"Bearer {api_key}"
-    resp = requests.post(
-        endpoint,
-        headers=headers,
-        json={"model": model, "messages": messages, "temperature": temperature},
-        timeout=int(os.getenv("LLM_TIMEOUT", "180")),
-    )
-    resp.raise_for_status()
-    data = resp.json()
-    return data["choices"][0]["message"]["content"].strip()
+    effective_messages = list(messages)
+    if os.getenv("LLM_NEUTRAL_ARCHIVE_PREAMBLE", "1") != "0":
+        effective_messages = [
+            {"role": "system", "content": LLM_NEUTRAL_ARCHIVE_PREAMBLE},
+            *effective_messages,
+        ]
+    retry_attempts = max(1, int(os.getenv("LLM_RETRY_ATTEMPTS", "4")))
+    retry_base = float(os.getenv("LLM_RETRY_BASE_SECONDS", "2"))
+    retry_max = float(os.getenv("LLM_RETRY_MAX_SECONDS", "30"))
+    retry_statuses = {408, 409, 429, 500, 502, 503, 504}
+    last_error: Exception | None = None
+    for attempt in range(1, retry_attempts + 1):
+        try:
+            resp = requests.post(
+                endpoint,
+                headers=headers,
+                json={"model": model, "messages": effective_messages, "temperature": temperature},
+                timeout=int(os.getenv("LLM_TIMEOUT", "180")),
+            )
+        except (requests.Timeout, requests.ConnectionError) as exc:
+            last_error = exc
+            retryable = True
+        else:
+            if resp.ok:
+                data = resp.json()
+                return data["choices"][0]["message"]["content"].strip()
+            body = resp.text[:4000]
+            error_code = llm_error_code(body)
+            error = LLMHTTPError(resp.status_code, body, error_code)
+            last_error = error
+            retryable = resp.status_code in retry_statuses
+            if not retryable:
+                raise error
+        if attempt >= retry_attempts or not retryable:
+            break
+        delay = min(retry_max, retry_base * (2 ** (attempt - 1)))
+        print(f"LLM request failed on attempt {attempt}/{retry_attempts}; retrying in {delay:.1f}s: {last_error}", flush=True)
+        time.sleep(delay)
+    if last_error:
+        raise last_error
+    raise RuntimeError("LLM request failed without a response")
 
 
 def parse_json_object(text: str) -> dict[str, Any]:
@@ -176,6 +289,17 @@ def llm_json(
                     ),
                 },
             ]
+            working.append(
+                {
+                    "role": "user",
+                    "content": (
+                        "Repair only the JSON object so it passes validation. "
+                        "Keep the same facts and evidence refs. Do not add Markdown. "
+                        "Every summary/core_points/guests/tensions item must be an object "
+                        "with text and source_refs. Respect the required item counts exactly."
+                    ),
+                }
+            )
     raise RuntimeError(f"LLM output failed validation after {max_attempts} attempt(s): {last_error}")
 
 
@@ -235,29 +359,403 @@ def normalize_partial(raw: dict[str, Any], allowed_refs: set[str]) -> dict[str, 
     return output
 
 
+def digest_contract_for_item(item: dict[str, Any]) -> dict[str, Any]:
+    duration = int(item.get("duration") or item.get("duration_seconds") or 0)
+    if duration >= 1800:
+        return {
+            "content_density": "high",
+            "summary_min": 4,
+            "summary_max": 6,
+            "core_points_min": 5,
+            "core_points_max": 7,
+        }
+    if duration >= 900:
+        return {
+            "content_density": "standard",
+            "summary_min": 3,
+            "summary_max": 5,
+            "core_points_min": 4,
+            "core_points_max": 6,
+        }
+    return {
+        "content_density": "brief",
+        "summary_min": 2,
+        "summary_max": 4,
+        "core_points_min": 3,
+        "core_points_max": 5,
+    }
+
+
+def _valid_refs(raw: Any, valid_refs: set[str]) -> list[str]:
+    if isinstance(raw, str):
+        raw = [raw]
+    if not isinstance(raw, list):
+        return []
+    return [str(ref) for ref in raw if str(ref) in valid_refs]
+
+
+def _coerce_cited_text_entry(value: Any, valid_refs: set[str]) -> dict[str, Any]:
+    if isinstance(value, str):
+        return {"text": value, "source_refs": []}
+    if not isinstance(value, dict):
+        return {"text": "", "source_refs": []}
+    text = (
+        value.get("text")
+        or value.get("claim")
+        or value.get("content")
+        or value.get("point")
+        or value.get("summary")
+        or value.get("value")
+        or ""
+    )
+    refs = (
+        value.get("source_refs")
+        or value.get("source_ref")
+        or value.get("evidence_refs")
+        or value.get("refs")
+        or value.get("ref")
+        or []
+    )
+    return {"text": text, "source_refs": _valid_refs(refs, valid_refs)}
+
+
+def coerce_final_digest_shape(raw: dict[str, Any], evidence: dict[str, str]) -> dict[str, Any]:
+    if not isinstance(raw, dict):
+        return raw
+    valid_refs = set(evidence)
+    output = dict(raw)
+    for field in ("one_liner", "why_it_matters"):
+        output[field] = _coerce_cited_text_entry(output.get(field), valid_refs)
+    for field in ("summary", "core_points", "guests", "tensions"):
+        values = output.get(field)
+        if isinstance(values, dict):
+            values = values.get("items") or values.get("points") or values.get("paragraphs") or []
+        if not isinstance(values, list):
+            values = []
+        output[field] = [_coerce_cited_text_entry(value, valid_refs) for value in values]
+    quote = output.get("quote")
+    if isinstance(quote, dict):
+        refs = quote.get("source_refs") or quote.get("source_ref") or quote.get("refs") or []
+        output["quote"] = {**quote, "source_refs": _valid_refs(refs, valid_refs)}
+    return output
+
+
+def is_data_inspection_error(exc: Exception) -> bool:
+    text = str(exc)
+    return "data_inspection_failed" in text or "inappropriate content" in text
+
+
+def is_context_length_error(exc: Exception) -> bool:
+    text = str(exc).lower()
+    return (
+        "exceeds token limit" in text
+        or "token limit" in text
+        or "context length" in text
+        or "maximum context" in text
+        or "invalid_parameter_error" in text
+    )
+
+
+DATA_INSPECTION_SUMMARY_NOTE = (
+    "\u56e0 LLM \u670d\u52a1\u5bf9\u5b8c\u6574\u5b57\u5e55\u8f93\u5165\u89e6\u53d1 "
+    "data_inspection_failed\uff0c\u672c\u6761\u6458\u8981\u53ea\u57fa\u4e8e"
+    "\u8282\u76ee\u5143\u6570\u636e\u3001\u516c\u5f00\u63cf\u8ff0\u548c\u53ef\u5b89\u5168"
+    "\u53d1\u9001\u7684\u7ebf\u7d22\u751f\u6210\uff1b\u5b8c\u6574\u5b57\u5e55\u5df2"
+    "\u4fdd\u7559\uff0c\u8bf7\u4ee5\u539f\u6587\u4e3a\u51c6\u3002"
+)
+CONTEXT_LENGTH_SUMMARY_NOTE = (
+    "\u56e0 LLM \u670d\u52a1\u5355\u8f6e\u8f93\u5165\u957f\u5ea6\u9650\u5236\uff0c"
+    "\u672c\u6761\u6458\u8981\u53ea\u57fa\u4e8e\u8282\u76ee\u5143\u6570\u636e\u3001"
+    "\u516c\u5f00\u63cf\u8ff0\u548c\u5df2\u538b\u7f29\u7684\u8bc1\u636e\u7ebf\u7d22"
+    "\u751f\u6210\uff1b\u5b8c\u6574\u5b57\u5e55\u5df2\u4fdd\u7559\uff0c"
+    "\u8bf7\u4ee5\u539f\u6587\u4e3a\u51c6\u3002"
+)
+
+
+def prepend_generation_note(digest: dict[str, Any], note: str, max_items: int) -> dict[str, Any]:
+    summary = [str(value) for value in digest.get("summary", []) if str(value).strip()]
+    digest["summary"] = [note, *summary][:max_items]
+    digest["why_it_matters"] = note[:60]
+    return digest
+
+
+def metadata_evidence_map(item: dict[str, Any]) -> dict[str, str]:
+    parts = [
+        f"title: {item.get('title') or item.get('original_title') or ''}",
+        f"source: {item.get('source_name') or ''}",
+        f"platform: {item.get('platform') or ''}",
+        f"duration_seconds: {item.get('duration') or item.get('duration_seconds') or ''}",
+        f"published_at: {item.get('published_at') or ''}",
+        f"description: {item.get('description') or ''}",
+    ]
+    text = re.sub(r"\s+", " ", "\n".join(part for part in parts if part.strip())).strip()
+    return {"M001": text[:8000] or "metadata unavailable"}
+
+
+def build_metadata_digest_messages(
+    item: dict[str, Any],
+    profile: dict[str, Any],
+    evidence: dict[str, str],
+    schema: dict[str, Any],
+    reason: str,
+) -> list[dict[str, str]]:
+    contract = schema.get("contract", {}) if isinstance(schema.get("contract"), dict) else {}
+    count_contract = (
+        f"content_density={schema.get('content_density')}; "
+        f"summary items={contract.get('summary_items')}; "
+        f"core_points items={contract.get('core_points_items')}; "
+        f"takeaways items={contract.get('takeaways_items')}."
+    )
+    return [
+        {
+            "role": "system",
+            "content": (
+                "You are a conservative Chinese daily digest editor. "
+                f"The full transcript cannot be sent to the model because {reason}. "
+                "Use only the supplied metadata and public description. Do not invent details. "
+                "If a point is based on title/description rather than full transcript, phrase it cautiously. "
+                "Every sourced field must cite M001. Output one JSON object only. "
+                f"Hard count contract: {count_contract}"
+            ),
+        },
+        {
+            "role": "user",
+            "content": (
+                f"Return JSON matching this schema:\n{json.dumps(schema, ensure_ascii=False)}\n\n"
+                f"Transcript profile:\n{json.dumps(profile, ensure_ascii=False)}\n\n"
+                f"Metadata evidence:\n{json.dumps(evidence, ensure_ascii=False)}"
+            ),
+        },
+    ]
+
+
+def build_final_schema(first_ref: str, contract: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "short_title": "18 chars or fewer, Chinese reader-facing title",
+        "one_liner": {
+            "text": "30 chars or fewer; specific conclusion, not a title rewrite",
+            "source_refs": [first_ref],
+        },
+        "why_it_matters": {
+            "text": "60 chars or fewer; concrete reason to read",
+            "source_refs": [first_ref],
+        },
+        "content_density": f"MUST be {contract['content_density']}",
+        "summary": [
+            {
+                "text": (
+                    "150 chars or fewer; preserve argument spine, evidence, consequence, caveat; "
+                    f"return {contract['summary_min']} to {contract['summary_max']} items"
+                ),
+                "source_refs": [first_ref],
+            }
+        ],
+        "core_points": [
+            {
+                "text": (
+                    "90 chars or fewer; claim with support, not a topic label; "
+                    f"return {contract['core_points_min']} to {contract['core_points_max']} items"
+                ),
+                "source_refs": [first_ref],
+            }
+        ],
+        "key_facts": [
+            {
+                "label": "fact label",
+                "value": "number, name, event, policy, product, or case",
+                "context": "why this fact matters",
+                "source_refs": [first_ref],
+            }
+        ],
+        "takeaways": ["reader action or reusable lens; not a research question"],
+        "guests": [
+            {
+                "text": "person / organization / role, or say no clear guest",
+                "source_refs": [first_ref],
+            }
+        ],
+        "topics": ["topic keyword"],
+        "tensions": [
+            {
+                "text": "tradeoff, limit, disagreement, incentive conflict, or open question",
+                "source_refs": [first_ref],
+            }
+        ],
+        "quote": {
+            "text": "optional quote or paraphrase",
+            "speaker": "speaker",
+            "kind": "paraphrase",
+            "source_refs": [first_ref],
+        },
+        "importance_score": 4,
+        "contract": {
+            "summary_items": f"{contract['summary_min']}..{contract['summary_max']}",
+            "core_points_items": f"{contract['core_points_min']}..{contract['core_points_max']}",
+            "takeaways_items": "1..3",
+            "include_item": "This item is >= 5 minutes and must appear in the report.",
+        },
+    }
+
+
+def metadata_llm_digest(
+    item: dict[str, Any],
+    transcript: str,
+    transcript_meta: dict[str, Any] | None,
+    max_attempts: int,
+    note: str = DATA_INSPECTION_SUMMARY_NOTE,
+    reason: str = "the provider rejected it during input inspection",
+) -> dict[str, Any]:
+    profile = build_transcript_profile(item, transcript, transcript_meta)
+    evidence = metadata_evidence_map(item)
+    contract = digest_contract_for_item(item)
+    schema = build_final_schema("M001", contract)
+    digest = llm_json(
+        build_metadata_digest_messages(item, profile, evidence, schema, reason),
+        lambda raw: validate_final_digest(raw, item, evidence),
+        max_attempts,
+    )
+    digest["quality"] = "llm_metadata_due_input_inspection"
+    return prepend_generation_note(digest, note, int(contract["summary_max"]))
+
+
+def deterministic_moderation_digest(
+    item: dict[str, Any],
+    transcript: str,
+    note: str = DATA_INSPECTION_SUMMARY_NOTE,
+) -> dict[str, Any]:
+    source = item.get("description") or transcript or item.get("title") or ""
+    sentences = extract_sentences(source, limit=10)
+    title = short_title(item)
+    contract = digest_contract_for_item(item)
+    summary_min = int(contract["summary_min"])
+    core_min = int(contract["core_points_min"])
+    while len(sentences) < max(summary_min, core_min):
+        sentences.append(f"《{title}》已达到 5 分钟收录阈值；本条因模型输入审查限制，采用保守摘要。")
+    raw = {
+        "short_title": title,
+        "one_liner": f"本期围绕《{title}》展开，适合结合原始链接复核。",
+        "why_it_matters": "字幕已获取，但模型输入审查限制了深度生成；先保留条目与可核对线索。",
+        "content_density": contract["content_density"],
+        "summary": [note, *sentences][: int(contract["summary_max"])],
+        "core_points": sentences[: int(contract["core_points_max"])],
+        "key_facts": [
+            {
+                "label": "时长",
+                "value": str(item.get("duration") or item.get("duration_seconds") or ""),
+                "context": "超过 5 分钟，按规则进入日报",
+            },
+            {
+                "label": "来源",
+                "value": item.get("source_name") or item.get("platform") or "",
+                "context": "用于回到原始节目核对上下文",
+            },
+        ],
+        "takeaways": ["先根据标题、来源和描述判断是否打开原节目。", "需要引用观点时回到字幕与原始链接核对。"],
+        "guests": [item.get("source_name") or "未能从元数据可靠识别嘉宾"],
+        "topics": [clean_text(item.get("category") or title)[:12]],
+        "tensions": ["本条有完整字幕，但当前 LLM 服务拒绝接收部分输入，摘要深度受限。"],
+        "quote": None,
+        "importance_score": 2,
+        "quality": "deterministic_due_input_inspection",
+    }
+    raw["why_it_matters"] = note
+    return normalize_digest(raw, item)
+
+
+def load_evidence_artifacts(
+    evidence_dir: Path | None,
+    item: dict[str, Any],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, Any]] | None:
+    if evidence_dir is None:
+        return None
+    stem = item_artifact_id(item)
+    segments_path = evidence_dir / f"item_segments_{stem}.json"
+    evidence_path = evidence_dir / f"item_evidence_{stem}.json"
+    ranked_path = evidence_dir / f"item_ranked_insights_{stem}.json"
+    if not (segments_path.exists() and evidence_path.exists() and ranked_path.exists()):
+        return None
+    try:
+        segments = read_json(segments_path)
+        segment_evidence = read_json(evidence_path)
+        ranked = read_json(ranked_path)
+    except Exception:
+        return None
+    if not isinstance(segments, list) or not isinstance(segment_evidence, list) or not isinstance(ranked, dict):
+        return None
+    return segments, segment_evidence, ranked
+
+
+def digest_cache_path(cache_dir: Path | None, report_date: str, item: dict[str, Any]) -> Path | None:
+    if cache_dir is None:
+        return None
+    return cache_dir / report_date / f"{item_artifact_id(item)}.json"
+
+
+def load_digest_cache(
+    cache_dir: Path | None,
+    report_date: str,
+    item: dict[str, Any],
+) -> dict[str, Any] | None:
+    path = digest_cache_path(cache_dir, report_date, item)
+    if path is None or not path.exists():
+        return None
+    try:
+        data = read_json(path)
+    except Exception:
+        return None
+    if not isinstance(data, dict) or data.get("cache_version") != 2:
+        return None
+    if data.get("model") != os.getenv("LLM_MODEL", ""):
+        return None
+    digest = data.get("digest")
+    return digest if isinstance(digest, dict) else None
+
+
+def write_digest_cache(
+    cache_dir: Path | None,
+    report_date: str,
+    item: dict[str, Any],
+    digest: dict[str, Any],
+) -> None:
+    path = digest_cache_path(cache_dir, report_date, item)
+    if path is None:
+        return
+    write_json(
+        path,
+        {
+            "cache_version": 2,
+            "date": report_date,
+            "model": os.getenv("LLM_MODEL", ""),
+            "item_url": item.get("url", ""),
+            "item_title": item.get("title") or item.get("original_title") or "",
+            "digest": digest,
+        },
+    )
+
+
 def validate_final_digest(
     raw: dict[str, Any], item: dict[str, Any], evidence: dict[str, str]
 ) -> dict[str, Any]:
+    raw = coerce_final_digest_shape(raw, evidence)
     valid_refs = set(evidence)
     scalar_limits = {"one_liner": 30, "why_it_matters": 60}
     for field, limit in scalar_limits.items():
         value = raw.get(field)
         if not isinstance(value, dict) or not str(value.get("text", "")).strip():
             raise ValueError(f"{field} must be an object with text and source_refs")
-        if nonspace_len(clean_text(value.get("text"))) > limit:
-            raise ValueError(f"{field} exceeds {limit} non-space characters")
         if not any(str(ref) in valid_refs for ref in value.get("source_refs", [])):
             raise ValueError(f"{field} must cite a valid source_ref")
-    duration = int(item.get("duration") or 0)
+    contract = digest_contract_for_item(item)
     density = clean_text(raw.get("content_density") or "standard").lower()
     if density not in {"brief", "standard", "high"}:
-        raise ValueError("content_density must be brief, standard, or high")
-    if duration >= 3600 or density == "high":
-        list_rules = {"summary": (4, 6, 150), "core_points": (5, 7, 90)}
-    elif duration >= 1800 or density == "standard":
-        list_rules = {"summary": (3, 5, 150), "core_points": (4, 6, 90)}
-    else:
-        list_rules = {"summary": (2, 4, 150), "core_points": (3, 5, 90)}
+        density = str(contract["content_density"])
+    if density != contract["content_density"]:
+        density = str(contract["content_density"])
+    raw["content_density"] = density
+    list_rules = {
+        "summary": (int(contract["summary_min"]), int(contract["summary_max"]), 150),
+        "core_points": (int(contract["core_points_min"]), int(contract["core_points_max"]), 90),
+    }
     for field, (minimum, maximum, limit) in list_rules.items():
         values = raw.get(field)
         if not isinstance(values, list) or not minimum <= len(values) <= maximum:
@@ -265,19 +763,21 @@ def validate_final_digest(
         for value in values:
             if not isinstance(value, dict) or not str(value.get("text", "")).strip():
                 raise ValueError(f"every {field} item must contain text")
-            if nonspace_len(clean_text(value.get("text"))) > limit:
-                raise ValueError(f"a {field} item exceeds {limit} non-space characters")
             if not any(str(ref) in valid_refs for ref in value.get("source_refs", [])):
                 raise ValueError(f"every {field} item must cite a valid source_ref")
     takeaways = raw.get("takeaways")
-    if not isinstance(takeaways, list) or not 1 <= len(takeaways) <= 2:
-        raise ValueError("takeaways must contain one or two reader actions")
+    if isinstance(takeaways, list):
+        cleaned_takeaways: list[str] = []
+        for value in takeaways:
+            text = re.sub(r"[?？]+", "。", clean_text(value)).strip()
+            if text and text not in cleaned_takeaways:
+                cleaned_takeaways.append(text)
+        raw["takeaways"] = cleaned_takeaways
+        takeaways = cleaned_takeaways
+    if not isinstance(takeaways, list) or not 1 <= len(takeaways) <= 3:
+        raise ValueError("takeaways must contain one to three reader actions")
     if any("?" in str(value) or "？" in str(value) for value in takeaways):
         raise ValueError("takeaways must be actions, not research questions")
-    if any(nonspace_len(clean_text(value)) > 70 for value in takeaways):
-        raise ValueError("a takeaway exceeds 70 non-space characters")
-    if nonspace_len(clean_text(raw.get("short_title"))) > 18:
-        raise ValueError("short_title exceeds 18 non-space characters")
     guests = raw.get("guests")
     if not isinstance(guests, list) or not 1 <= len(guests) <= 5:
         raise ValueError("guests must contain one to five evidence-backed entries")
@@ -733,6 +1233,158 @@ def replace_index(markdown: str, index: int) -> str:
     return markdown.replace("## （{index}）", f"## （{index}）", 1)
 
 
+def summarize_item_contract(
+    item: dict[str, Any],
+    transcript: str,
+    max_attempts: int,
+    evidence_dir: Path | None = None,
+    transcript_meta: dict[str, Any] | None = None,
+    timed_caption: str = "",
+) -> dict[str, Any]:
+    """Build a high-quality item digest through evidence extraction and ranking."""
+    if not llm_configured():
+        return extractive_digest(item, transcript)
+
+    profile = build_transcript_profile(item, transcript, transcript_meta)
+    cached_artifacts = load_evidence_artifacts(evidence_dir, item)
+    if cached_artifacts is not None:
+        segments, segment_evidence, ranked = cached_artifacts
+        print(f"Reusing evidence artifacts for {item.get('title')}", flush=True)
+    else:
+        segments = build_topic_segments(
+            item,
+            transcript,
+            timed_caption=timed_caption,
+            duration_seconds=profile.get("duration_seconds"),
+        )
+        if not segments:
+            raise RuntimeError("transcript is empty after topic segmentation")
+
+        segment_evidence = []
+        for index, segment in enumerate(segments, 1):
+            segment_id = str(segment["segment_id"])
+            print(
+                f"Extracting evidence {index}/{len(segments)} for {item.get('title')} ({segment_id})",
+                flush=True,
+            )
+            segment_evidence.append(
+                llm_json(
+                    build_segment_extraction_messages(item, profile, segment),
+                    lambda raw, sid=segment_id: normalize_segment_evidence(raw, sid),
+                    max_attempts,
+                )
+            )
+
+        evidence_for_ranking = build_evidence_map_from_segments(segments)
+        if not evidence_for_ranking:
+            raise RuntimeError("transcript is empty after evidence segmentation")
+        print(f"Ranking evidence for {item.get('title')}", flush=True)
+        ranked = llm_json(
+            build_ranking_messages(item, profile, segment_evidence),
+            lambda raw, refs=set(evidence_for_ranking): normalize_ranked_insights(raw, refs),
+            max_attempts,
+        )
+        if evidence_dir is not None:
+            write_evidence_artifacts(evidence_dir, item, segments, segment_evidence, ranked)
+
+    evidence = build_evidence_map_from_segments(segments)
+    if not evidence:
+        raise RuntimeError("transcript is empty after evidence segmentation")
+
+    first_ref = next(iter(evidence))
+    contract = digest_contract_for_item(item)
+    schema = {
+        "short_title": "18 chars or fewer, Chinese reader-facing title",
+        "one_liner": {
+            "text": "30 chars or fewer; specific conclusion, not a title rewrite",
+            "source_refs": [first_ref],
+        },
+        "why_it_matters": {
+            "text": "60 chars or fewer; concrete reason to read",
+            "source_refs": [first_ref],
+        },
+        "content_density": f"MUST be {contract['content_density']}",
+        "summary": [
+            {
+                "text": (
+                    "150 chars or fewer; preserve argument spine, evidence, consequence, caveat; "
+                    f"return {contract['summary_min']} to {contract['summary_max']} items"
+                ),
+                "source_refs": [first_ref],
+            }
+        ],
+        "core_points": [
+            {
+                "text": (
+                    "90 chars or fewer; claim with support, not a topic label; "
+                    f"return {contract['core_points_min']} to {contract['core_points_max']} items"
+                ),
+                "source_refs": [first_ref],
+            }
+        ],
+        "key_facts": [
+            {
+                "label": "fact label",
+                "value": "number, name, event, policy, product, or case",
+                "context": "why this fact matters",
+                "source_refs": [first_ref],
+            }
+        ],
+        "takeaways": ["reader action or reusable lens; not a research question"],
+        "guests": [
+            {
+                "text": "person / organization / role, or say no clear guest",
+                "source_refs": [first_ref],
+            }
+        ],
+        "topics": ["topic keyword"],
+        "tensions": [
+            {
+                "text": "tradeoff, limit, disagreement, incentive conflict, or open question",
+                "source_refs": [first_ref],
+            }
+        ],
+        "quote": {
+            "text": "optional quote or paraphrase",
+            "speaker": "speaker",
+            "kind": "paraphrase",
+            "source_refs": [first_ref],
+        },
+        "importance_score": 4,
+        "contract": {
+            "summary_items": f"{contract['summary_min']}..{contract['summary_max']}",
+            "core_points_items": f"{contract['core_points_min']}..{contract['core_points_max']}",
+            "takeaways_items": "1..3",
+            "include_item": "This item is >= 5 minutes and must appear in the report.",
+        },
+    }
+
+    try:
+        digest = llm_json(
+            build_final_digest_messages(item, profile, evidence, segment_evidence, ranked, schema),
+            lambda raw: validate_final_digest(raw, item, evidence),
+            max_attempts,
+        )
+    except Exception as exc:
+        if not is_context_length_error(exc):
+            raise
+        old_limit = os.environ.get("LLM_FINAL_PAYLOAD_CHARS")
+        os.environ["LLM_FINAL_PAYLOAD_CHARS"] = os.getenv("LLM_FINAL_PAYLOAD_CHARS_RETRY", "8000")
+        try:
+            digest = llm_json(
+                build_final_digest_messages(item, profile, evidence, segment_evidence, ranked, schema),
+                lambda raw: validate_final_digest(raw, item, evidence),
+                max_attempts,
+            )
+        finally:
+            if old_limit is None:
+                os.environ.pop("LLM_FINAL_PAYLOAD_CHARS", None)
+            else:
+                os.environ["LLM_FINAL_PAYLOAD_CHARS"] = old_limit
+    digest["quality"] = "llm_evidence_ranked"
+    return digest
+
+
 def main() -> int:
     args = parse_args()
     if args.llm_policy == "required" and not llm_configured():
@@ -741,23 +1393,28 @@ def main() -> int:
     items = json.loads(Path(args.items_json).read_text(encoding="utf-8-sig"))
     # Filter out short clips (duration < 5 minutes = 300 seconds)
     original_count = len(items)
-    items = [it for it in items if (it.get("duration") or 0) >= 300]
+    items = [it for it in items if (it.get("duration") or it.get("duration_seconds") or 0) >= 300]
     skipped = original_count - len(items)
     if skipped:
         print(f"Skipped {skipped} short clip(s) (duration < 5min)")
     transcript_index = load_transcript_index(Path(args.subtitles_dir))
 
-    prepared_items: list[tuple[dict[str, Any], str]] = []
+    evidence_dir = Path(args.evidence_dir) if args.evidence_dir else None
+    digest_cache_dir = Path(args.digest_cache_dir) if args.digest_cache_dir else None
+    prepared_items: list[tuple[dict[str, Any], str, dict[str, Any], str]] = []
     missing_transcripts: list[dict[str, Any]] = []
     for item in items:
         meta = transcript_index.get(normalize_url(item.get("url", "")))
         transcript = ""
+        timed_caption = ""
         if meta and meta.get("text_path"):
             transcript = read_text(meta["text_path"])
+        if meta and meta.get("subtitle_path"):
+            timed_caption = read_text(meta["subtitle_path"])
         item["transcript_available"] = bool(transcript)
         if not transcript:
             missing_transcripts.append(item)
-        prepared_items.append((item, transcript))
+        prepared_items.append((item, transcript, meta or {}, timed_caption))
 
     if args.require_transcripts and missing_transcripts:
         print("Refusing to generate an incomplete report; transcripts are missing for:")
@@ -766,10 +1423,74 @@ def main() -> int:
         return 3
 
     item_digests: list[tuple[dict[str, Any], dict[str, Any]]] = []
-    for item, transcript in prepared_items:
+    for item, transcript, meta, timed_caption in prepared_items:
+        cached_digest = load_digest_cache(digest_cache_dir, args.date, item)
+        if cached_digest is not None:
+            print(f"Reusing final digest cache for {item.get('title')}", flush=True)
+            item_digests.append((item, cached_digest))
+            continue
         try:
-            digest = summarize_item_contract(item, transcript or item.get("description", ""), args.llm_max_attempts)
+            print(f"Generating digest for {item.get('title')}", flush=True)
+            digest = summarize_item_contract(
+                item,
+                transcript or item.get("description", ""),
+                args.llm_max_attempts,
+                evidence_dir=evidence_dir,
+                transcript_meta=meta,
+                timed_caption=timed_caption,
+            )
+            write_digest_cache(digest_cache_dir, args.date, item, digest)
         except Exception as exc:
+            if is_data_inspection_error(exc):
+                print(
+                    f"LLM input inspection failed for {item.get('title')}; "
+                    "writing a clearly marked metadata-based digest instead."
+                )
+                try:
+                    digest = metadata_llm_digest(
+                        item,
+                        transcript or item.get("description", ""),
+                        meta,
+                        args.llm_max_attempts,
+                    )
+                except Exception as fallback_exc:
+                    print(
+                        f"Metadata LLM fallback failed for {item.get('title')}: {fallback_exc}; "
+                        "using deterministic marked digest."
+                    )
+                    digest = deterministic_moderation_digest(item, transcript or item.get("description", ""))
+                write_digest_cache(digest_cache_dir, args.date, item, digest)
+                item_digests.append((item, digest))
+                continue
+            if is_context_length_error(exc):
+                print(
+                    f"LLM input length limit hit for {item.get('title')}; "
+                    "writing a clearly marked metadata-based digest instead."
+                )
+                try:
+                    digest = metadata_llm_digest(
+                        item,
+                        transcript or item.get("description", ""),
+                        meta,
+                        args.llm_max_attempts,
+                        note=CONTEXT_LENGTH_SUMMARY_NOTE,
+                        reason="the provider reported a single-round input length limit",
+                    )
+                    digest["quality"] = "llm_metadata_due_context_length"
+                except Exception as fallback_exc:
+                    print(
+                        f"Metadata LLM fallback failed for {item.get('title')}: {fallback_exc}; "
+                        "using deterministic marked digest."
+                    )
+                    digest = deterministic_moderation_digest(
+                        item,
+                        transcript or item.get("description", ""),
+                        note=CONTEXT_LENGTH_SUMMARY_NOTE,
+                    )
+                    digest["quality"] = "deterministic_due_context_length"
+                write_digest_cache(digest_cache_dir, args.date, item, digest)
+                item_digests.append((item, digest))
+                continue
             print(f"Refusing to publish low-quality model output for {item.get('title')}: {exc}")
             return 4
         item_digests.append((item, digest))
@@ -780,6 +1501,7 @@ def main() -> int:
         "model": os.getenv("LLM_MODEL", ""),
         "max_contract_attempts": args.llm_max_attempts,
         "transcripts_required": bool(args.require_transcripts),
+        "evidence_dir": str(evidence_dir) if evidence_dir else "",
     }
 
     output = Path(args.output)

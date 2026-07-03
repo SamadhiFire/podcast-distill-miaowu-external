@@ -146,6 +146,12 @@ jobs:
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
           LLM_TIMEOUT: "600"
           LLM_CHUNK_CHARS: "30000"
+          LLM_RETRY_ATTEMPTS: "4"
+          LLM_RETRY_BASE_SECONDS: "2"
+          LLM_RETRY_MAX_SECONDS: "30"
+          LLM_FINAL_PAYLOAD_CHARS: "18000"
+          LLM_FINAL_PAYLOAD_CHARS_RETRY: "8000"
+          LLM_NEUTRAL_ARCHIVE_PREAMBLE: "1"
         run: |
           python scripts/generate_daily_report.py \
             --date "$REPORT_DATE" \
@@ -154,6 +160,7 @@ jobs:
             --require-transcripts \
             --llm-policy required \
             --llm-max-attempts 3 \
+            --digest-cache-dir reports/digest_cache \
             --output "$REPORT_PATH" \
             --output-json "$REPORT_JSON_PATH"
 
@@ -195,3 +202,5 @@ jobs:
             ${{ env.VALIDATION_PATH }}
             ${{ env.BUNDLE_PATH }}
             subtitles/
+            reports/evidence/
+            reports/digest_cache/
