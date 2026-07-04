@@ -1,4 +1,4 @@
-# Podcast Distill Miaoda
+# Podcast Distill
 
 一个很薄的播客 / 视频日报自动化仓库。
 
