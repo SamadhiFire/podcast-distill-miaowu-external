@@ -45,6 +45,9 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
+      - name: Run report validation tests
+        run: python -m unittest discover -s tests -p "test_*.py"
+
       - name: Resolve report date
         id: report_date
         shell: bash
@@ -163,6 +166,8 @@ jobs:
           LLM_FILEID_DIRECT_ENABLED: "1"
           LLM_FILEID_DIRECT_MIN_DURATION_SECONDS: "300"
           LLM_FILEID_DIRECT_MIN_CHARS: "1"
+          LLM_FILEID_DIRECT_MAX_DURATION_SECONDS: "1800"
+          LLM_FILEID_DIRECT_MAX_CHARS: "30000"
           LLM_FILE_UPLOAD_TIMEOUT: "600"
           LLM_FILE_READY_TIMEOUT: "300"
         run: |

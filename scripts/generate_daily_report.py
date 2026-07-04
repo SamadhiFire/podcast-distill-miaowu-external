@@ -78,8 +78,12 @@ DEEP_SUMMARY_GUIDANCE = (
     "papers, companies, policies, or products only; tensions are disagreements, limits, risks, "
     "and unanswered questions only; takeaways are reusable reader lenses or actions only. "
     "Avoid duplicating the same sentence across sections. "
-    "Every summary paragraph must contain a claim plus support plus meaning; generic topic lists fail."
+    "Every summary paragraph must contain a claim plus support plus meaning; generic topic lists fail. "
+    "Preserve the source's scope, unit, currency, comparison baseline, and qualifiers. Never turn a "
+    "subset, post-baseline count, or 'meaningful/substantive' claim into an all-time total."
 )
+
+DIGEST_CACHE_VERSION = 4
 
 DEEP_DIVE_HINTS = (
     "interview",
@@ -881,6 +885,10 @@ def should_use_direct_fileid(item: dict[str, Any], transcript: str) -> bool:
         return False
     min_duration = int(os.getenv("LLM_FILEID_DIRECT_MIN_DURATION_SECONDS", "300"))
     min_chars = int(os.getenv("LLM_FILEID_DIRECT_MIN_CHARS", "1"))
+    max_duration = int(os.getenv("LLM_FILEID_DIRECT_MAX_DURATION_SECONDS", "1800"))
+    max_chars = int(os.getenv("LLM_FILEID_DIRECT_MAX_CHARS", "30000"))
+    if duration > max_duration or len(transcript) > max_chars:
+        return False
     return bool(transcript.strip()) and (duration >= min_duration or len(transcript) >= min_chars)
 
 
@@ -908,6 +916,8 @@ def build_fileid_direct_digest_messages(
                 "Read across the full transcript before writing; do not summarize only the beginning. "
                 "Find the episode's central question, argument arc, strongest mechanisms, examples, numbers, "
                 "speaker positions, caveats, and reusable reader value. "
+                "Preserve every number's scope, unit, currency, time period, baseline, and qualifiers. "
+                "Never rewrite a subset or a count after a baseline as an all-time total. "
                 "Do not write a chronological recap unless the argument is chronological. "
                 f"{DEEP_SUMMARY_GUIDANCE} "
                 "Every field with source_refs must cite F001 exactly. "
@@ -1056,7 +1066,7 @@ def load_digest_cache(
         data = read_json(path)
     except Exception:
         return None
-    if not isinstance(data, dict) or data.get("cache_version") != 3:
+    if not isinstance(data, dict) or data.get("cache_version") != DIGEST_CACHE_VERSION:
         return None
     if data.get("model") != os.getenv("LLM_MODEL", ""):
         return None
@@ -1076,7 +1086,7 @@ def write_digest_cache(
     write_json(
         path,
         {
-            "cache_version": 3,
+            "cache_version": DIGEST_CACHE_VERSION,
             "date": report_date,
             "model": os.getenv("LLM_MODEL", ""),
             "item_url": item.get("url", ""),
@@ -1094,6 +1104,21 @@ def validate_final_digest(
 ) -> dict[str, Any]:
     raw = coerce_final_digest_shape(raw, evidence)
     valid_refs = set(evidence)
+
+    def assert_numbers_grounded(value: dict[str, Any], field: str, *text_keys: str) -> None:
+        refs = [str(ref) for ref in value.get("source_refs", []) if str(ref) in valid_refs]
+        if not refs:
+            return
+        claim = " ".join(str(value.get(key, "")) for key in text_keys)
+        numbers = set(re.findall(r"(?<![A-Za-z])\d+(?:[.,]\d+)?%?", claim))
+        if not numbers:
+            return
+        source = " ".join(evidence[ref] for ref in refs)
+        source_numbers = set(re.findall(r"(?<![A-Za-z])\d+(?:[.,]\d+)?%?", source))
+        missing = sorted(numbers - source_numbers)
+        if missing:
+            raise ValueError(f"{field} has numbers absent from its cited segment(s): {', '.join(missing)}")
+
     scalar_limits = {"one_liner": 30, "why_it_matters": 60}
     for field, limit in scalar_limits.items():
         value = raw.get(field)
@@ -1101,6 +1126,7 @@ def validate_final_digest(
             raise ValueError(f"{field} must be an object with text and source_refs")
         if not any(str(ref) in valid_refs for ref in value.get("source_refs", [])):
             raise ValueError(f"{field} must cite a valid source_ref")
+        assert_numbers_grounded(value, field, "text")
     contract = contract or digest_contract_for_item(item)
     density = clean_text(raw.get("content_density") or "standard").lower()
     if density not in {"brief", "standard", "high"}:
@@ -1130,6 +1156,7 @@ def validate_final_digest(
                 raise ValueError("summary must be analytical paragraphs, not list items")
             if not any(str(ref) in valid_refs for ref in value.get("source_refs", [])):
                 raise ValueError(f"every {field} item must cite a valid source_ref")
+            assert_numbers_grounded(value, field, "text")
     takeaways = raw.get("takeaways")
     if isinstance(takeaways, list):
         cleaned_takeaways: list[str] = []
@@ -1159,6 +1186,13 @@ def validate_final_digest(
             raise ValueError("every tension must contain text")
         if not any(str(ref) in valid_refs for ref in tension.get("source_refs", [])):
             raise ValueError("every tension must cite a valid source_ref")
+        assert_numbers_grounded(tension, "tensions", "text")
+    for fact in raw.get("key_facts", []) if isinstance(raw.get("key_facts"), list) else []:
+        if isinstance(fact, dict):
+            assert_numbers_grounded(fact, "key_facts", "value", "context")
+    quote = raw.get("quote")
+    if isinstance(quote, dict):
+        assert_numbers_grounded(quote, "quote", "text")
     digest = normalize_digest(raw, item, evidence=evidence, strict_evidence=True)
     digest["quality"] = "llm_evidence_validated"
     return digest
@@ -1828,8 +1862,13 @@ def main() -> int:
                 write_digest_cache(digest_cache_dir, args.date, item, digest)
                 item_digests.append((item, digest))
                 continue
-            print(f"Refusing to publish low-quality model output for {item.get('title')}: {exc}")
-            return 4
+            print(
+                f"Validated LLM digest failed for {item.get('title')}: {exc}; "
+                "using deterministic extractive fallback so the daily run can continue."
+            )
+            digest = extractive_digest(item, transcript or item.get("description", ""))
+            digest["quality"] = "deterministic_due_validation_failure"
+            write_digest_cache(digest_cache_dir, args.date, item, digest)
         item_digests.append((item, digest))
 
     report = build_report(args.date, item_digests)

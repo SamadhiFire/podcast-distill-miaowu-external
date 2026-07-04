@@ -20,7 +20,9 @@ DEEP_SUMMARY_GUIDANCE = (
     "portable claims only; key_facts are checkable names, numbers, events, papers, companies, policies, "
     "or products only; tensions are disagreements, limits, risks, and unanswered questions only; "
     "takeaways are reusable reader lenses or actions only. Avoid duplicating the same sentence across "
-    "sections. Every summary paragraph must contain a claim plus support plus meaning."
+    "sections. Every summary paragraph must contain a claim plus support plus meaning. Preserve each "
+    "number's scope, unit, currency, time period, comparison baseline, and qualifiers. Never turn a "
+    "subset, post-baseline count, or 'meaningful/substantive' claim into an all-time total."
 )
 
 
@@ -306,7 +308,8 @@ def build_segment_extraction_messages(
                 "Do not summarize yet. Extract only information grounded in the transcript segment. "
                 "Separate claims, evidence, examples, numbers, mechanisms, tensions, quotes, and terms. "
                 "Prefer concrete mechanisms, examples, numbers, tradeoffs, and non-obvious claims. "
-                "Do not invent context. Output one JSON object only. "
+                "For every number, retain its unit, scope, time period, baseline, and nearby qualifier. "
+                "Do not invent context or expand a subset into a total. Output one JSON object only. "
                 "Every array item must include text; speaker/support are optional. "
                 "Use concise Chinese for text fields unless an English proper noun is necessary."
             ),
@@ -535,6 +538,7 @@ def build_final_digest_messages(
                 "Core points must be claims with support, not topic labels. "
                 "Takeaways must be usable actions or reader lenses, not research questions. "
                 "Every factual or interpretive field with source_refs must cite valid evidence refs. "
+                "Cite the smallest segment that supports the whole claim, including all numbers and qualifiers. "
                 f"{count_contract} "
                 "Output one JSON object only, in Chinese, with necessary English proper nouns preserved."
             ),
