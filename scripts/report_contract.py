@@ -104,8 +104,149 @@ def _refs(raw: Any, valid_refs: set[str]) -> list[str]:
     return [str(ref) for ref in raw if str(ref) in valid_refs]
 
 
+EN_NUMBER_SMALL = {
+    "zero": 0,
+    "oh": 0,
+    "one": 1,
+    "two": 2,
+    "three": 3,
+    "four": 4,
+    "five": 5,
+    "six": 6,
+    "seven": 7,
+    "eight": 8,
+    "nine": 9,
+    "ten": 10,
+    "eleven": 11,
+    "twelve": 12,
+    "thirteen": 13,
+    "fourteen": 14,
+    "fifteen": 15,
+    "sixteen": 16,
+    "seventeen": 17,
+    "eighteen": 18,
+    "nineteen": 19,
+}
+EN_NUMBER_TENS = {
+    "twenty": 20,
+    "thirty": 30,
+    "forty": 40,
+    "fifty": 50,
+    "sixty": 60,
+    "seventy": 70,
+    "eighty": 80,
+    "ninety": 90,
+}
+EN_NUMBER_SCALES = {"thousand": 1000, "million": 1000000, "billion": 1000000000}
+ZH_DIGITS = {"零": 0, "〇": 0, "一": 1, "二": 2, "两": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
+ZH_SMALL_UNITS = {"十": 10, "百": 100, "千": 1000}
+ZH_BIG_UNITS = {"万": 10000, "亿": 100000000}
+ZH_NUMBER_FOLLOWERS = set("种家个条次期年月日时分秒元块美元倍点岁名位集章篇")
+
+
+def _add_number_value(output: set[str], value: int | float) -> None:
+    if isinstance(value, float) and not value.is_integer():
+        output.add(str(value).rstrip("0").rstrip("."))
+        return
+    output.add(str(int(value)))
+
+
+def _english_number_tokens(text: str) -> set[str]:
+    values: set[str] = set()
+    tokens = re.findall(r"[A-Za-z]+", text.lower().replace("-", " "))
+    current = 0
+    total = 0
+    active = False
+
+    def flush() -> None:
+        nonlocal current, total, active
+        if active:
+            _add_number_value(values, total + current)
+        current = 0
+        total = 0
+        active = False
+
+    for index, token in enumerate(tokens):
+        if token in EN_NUMBER_SMALL:
+            current += EN_NUMBER_SMALL[token]
+            active = True
+            next_token = tokens[index + 1] if index + 1 < len(tokens) else ""
+            if next_token in EN_NUMBER_TENS and 0 < EN_NUMBER_SMALL[token] < 10:
+                _add_number_value(values, EN_NUMBER_SMALL[token] * 100 + EN_NUMBER_TENS[next_token])
+        elif token in EN_NUMBER_TENS:
+            current += EN_NUMBER_TENS[token]
+            active = True
+        elif token == "hundred" and active:
+            current = max(1, current) * 100
+            _add_number_value(values, current)
+        elif token in EN_NUMBER_SCALES and active:
+            total += max(1, current) * EN_NUMBER_SCALES[token]
+            _add_number_value(values, total)
+            current = 0
+        elif token == "and" and active:
+            continue
+        else:
+            flush()
+    flush()
+    return values
+
+
+def _parse_chinese_number(value: str) -> int | None:
+    if not value:
+        return None
+    if all(char in ZH_DIGITS for char in value):
+        digits = "".join(str(ZH_DIGITS[char]) for char in value)
+        return int(digits) if digits else None
+
+    total = 0
+    section = 0
+    number = 0
+    seen = False
+    for char in value:
+        if char in ZH_DIGITS:
+            number = ZH_DIGITS[char]
+            seen = True
+        elif char in ZH_SMALL_UNITS:
+            section += (number or 1) * ZH_SMALL_UNITS[char]
+            number = 0
+            seen = True
+        elif char in ZH_BIG_UNITS:
+            section += number
+            total += (section or 1) * ZH_BIG_UNITS[char]
+            section = 0
+            number = 0
+            seen = True
+        else:
+            return None
+    if not seen:
+        return None
+    return total + section + number
+
+
+def _chinese_number_tokens(text: str) -> set[str]:
+    values: set[str] = set()
+    for match in re.finditer(r"[零〇一二两三四五六七八九十百千万亿]+", text):
+        token = match.group(0)
+        next_char = text[match.end() : match.end() + 1]
+        has_numeric_unit = any(char in ZH_SMALL_UNITS or char in ZH_BIG_UNITS for char in token)
+        if len(token) == 1 and not has_numeric_unit and next_char not in ZH_NUMBER_FOLLOWERS:
+            continue
+        parsed = _parse_chinese_number(token)
+        if parsed is not None:
+            _add_number_value(values, parsed)
+    return values
+
+
+def number_tokens(text: str) -> set[str]:
+    values = set(re.findall(r"(?<![A-Za-z])\d+(?:[.,]\d+)?%?", text))
+    values.update(value.replace(",", "") for value in list(values) if "," in value)
+    values.update(_english_number_tokens(text))
+    values.update(_chinese_number_tokens(text))
+    return values
+
+
 def _numbers(text: str) -> set[str]:
-    return set(re.findall(r"(?<![A-Za-z])\d+(?:[.,]\d+)?%?", text))
+    return number_tokens(text)
 
 
 def _correct_known_fact_scope(

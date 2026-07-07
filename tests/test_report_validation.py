@@ -120,6 +120,10 @@ class ReportValidationTests(unittest.TestCase):
         with patch.dict(os.environ, {"LLM_METADATA_FALLBACK_ENABLED": "0"}, clear=False):
             self.assertFalse(metadata_fallback_enabled())
 
+    def test_metadata_fallback_is_disabled_by_default(self) -> None:
+        with patch.dict(os.environ, {}, clear=True):
+            self.assertFalse(metadata_fallback_enabled())
+
     @patch("scripts.publish_feishu.requests.post")
     def test_wiki_title_update_uses_official_update_title_endpoint(self, post) -> None:
         post.return_value.json.return_value = {"code": 0, "msg": "success"}
@@ -215,14 +219,14 @@ class ReportValidationTests(unittest.TestCase):
             self.assertFalse(should_use_direct_fileid({"duration": 600}, "x" * 30001))
             self.assertTrue(should_use_direct_fileid({"duration": 600}, "x" * 1000))
 
-    def test_key_fact_context_numbers_must_exist_in_cited_segment(self) -> None:
+    def test_ungrounded_numbers_are_removed_instead_of_failing_digest(self) -> None:
         raw = {
             "short_title": "测试",
             "one_liner": {"text": "结论", "source_refs": ["S001"]},
             "why_it_matters": {"text": "原因", "source_refs": ["S001"]},
             "content_density": "brief",
             "summary": [
-                {"text": "摘要一", "source_refs": ["S001"]},
+                {"text": "摘要一。最近一次为 1971 年。", "source_refs": ["S001"]},
                 {"text": "摘要二", "source_refs": ["S001"]},
                 {"text": "摘要三", "source_refs": ["S001"]},
             ],
@@ -254,8 +258,152 @@ class ReportValidationTests(unittest.TestCase):
             "core_points_min": 3,
             "core_points_max": 5,
         }
-        with self.assertRaisesRegex(ValueError, "1971"):
-            validate_final_digest(raw, {}, {"S001": "the constitution changed 17 times"}, contract)
+        digest = validate_final_digest(raw, {}, {"S001": "the constitution changed 17 times"}, contract)
+        self.assertNotIn("1971", " ".join(digest["summary"]))
+        self.assertEqual(digest["key_facts"], [])
+
+    def test_number_grounding_accepts_spoken_number_forms(self) -> None:
+        raw = {
+            "short_title": "测试",
+            "one_liner": {"text": "用 400 家门店说明模式。", "source_refs": ["S001"]},
+            "why_it_matters": {"text": "它解释了食品成本下降的机制。", "source_refs": ["S001"]},
+            "content_density": "brief",
+            "summary": [
+                {"text": "案例围绕 400 家门店的运营方式展开。", "source_refs": ["S001"]},
+                {"text": "团队把成本优势拆成供应链、选品和店内流程。", "source_refs": ["S001"]},
+                {"text": "这些做法帮助读者理解折扣零售的结构性优势。", "source_refs": ["S001"]},
+            ],
+            "core_points": [
+                {"text": "门店规模支撑采购效率。", "source_refs": ["S001"]},
+                {"text": "少量 SKU 降低复杂度。", "source_refs": ["S001"]},
+                {"text": "流程标准化压低运营成本。", "source_refs": ["S001"]},
+            ],
+            "key_facts": [
+                {
+                    "label": "门店数量",
+                    "value": "400 家",
+                    "context": "原文用 four hundred stores 描述规模。",
+                    "source_refs": ["S001"],
+                },
+                {
+                    "label": "方法数量",
+                    "value": "4 种",
+                    "context": "中文原文说四种配速。",
+                    "source_refs": ["S002"],
+                },
+            ],
+            "takeaways": ["用规模、复杂度和流程三个层次拆解成本。"],
+            "guests": [{"text": "嘉宾", "source_refs": ["S001"]}],
+            "topics": ["零售"],
+            "tensions": [],
+            "quote": None,
+            "importance_score": 3,
+        }
+        contract = {
+            "content_density": "brief",
+            "summary_min": 3,
+            "summary_max": 5,
+            "summary_char_limit": 280,
+            "core_points_min": 3,
+            "core_points_max": 5,
+        }
+        digest = validate_final_digest(
+            raw,
+            {},
+            {
+                "S001": "The operator described four hundred stores and the supply chain choices.",
+                "S002": "读书方法里提到四种配速。",
+            },
+            contract,
+        )
+        self.assertEqual(digest["key_facts"][0]["value"], "400 家")
+
+    def test_extra_list_items_are_truncated_instead_of_failing_digest(self) -> None:
+        raw = {
+            "short_title": "测试",
+            "one_liner": {"text": "结论成立。", "source_refs": ["S001"]},
+            "why_it_matters": {"text": "它帮助读者理解主题。", "source_refs": ["S001"]},
+            "content_density": "brief",
+            "summary": [
+                {"text": f"摘要段落{label}说明同一主题。", "source_refs": ["S001"]}
+                for label in ("甲", "乙", "丙", "丁", "戊", "己")
+            ],
+            "core_points": [
+                {"text": f"核心观点{label}。", "source_refs": ["S001"]}
+                for label in ("甲", "乙", "丙", "丁", "戊", "己")
+            ],
+            "key_facts": [],
+            "takeaways": ["行动一。", "行动二。", "行动三。", "行动四。"],
+            "guests": [
+                {"text": f"嘉宾{label}", "source_refs": ["S001"]}
+                for label in ("甲", "乙", "丙", "丁", "戊", "己")
+            ],
+            "topics": ["测试"],
+            "tensions": [
+                {"text": f"限制{label}。", "source_refs": ["S001"]}
+                for label in ("甲", "乙", "丙", "丁")
+            ],
+            "quote": None,
+            "importance_score": 3,
+        }
+        contract = {
+            "content_density": "brief",
+            "summary_min": 3,
+            "summary_max": 5,
+            "summary_char_limit": 280,
+            "core_points_min": 3,
+            "core_points_max": 5,
+        }
+        digest = validate_final_digest(raw, {}, {"S001": "节目讨论了同一主题。"}, contract)
+
+        self.assertEqual(len(digest["summary"]), 5)
+        self.assertEqual(len(digest["core_points"]), 5)
+        self.assertEqual(len(digest["takeaways"]), 3)
+        self.assertEqual(len(digest["guests"]), 5)
+        self.assertEqual(len(digest["tensions"]), 3)
+
+    def test_malformed_trailing_number_sentence_is_removed(self) -> None:
+        raw = {
+            "short_title": "测试",
+            "one_liner": {"text": "结论成立。", "source_refs": ["S001"]},
+            "why_it_matters": {"text": "它帮助读者理解主题。", "source_refs": ["S001"]},
+            "content_density": "brief",
+            "summary": [
+                {"text": "电子价签节省人力。鸡胸肉售价可低至每磅 2.", "source_refs": ["S001"]},
+                {"text": "摘要二说明同一主题。", "source_refs": ["S001"]},
+                {"text": "摘要三说明同一主题。", "source_refs": ["S001"]},
+            ],
+            "core_points": [
+                {"text": "核心观点甲。", "source_refs": ["S001"]},
+                {"text": "核心观点乙。", "source_refs": ["S001"]},
+                {"text": "核心观点丙。", "source_refs": ["S001"]},
+            ],
+            "key_facts": [],
+            "takeaways": ["行动一。"],
+            "guests": [{"text": "嘉宾", "source_refs": ["S001"]}],
+            "topics": ["测试"],
+            "tensions": [],
+            "quote": None,
+            "importance_score": 3,
+        }
+        contract = {
+            "content_density": "brief",
+            "summary_min": 3,
+            "summary_max": 5,
+            "summary_char_limit": 280,
+            "core_points_min": 3,
+            "core_points_max": 5,
+        }
+        digest = validate_final_digest(
+            raw,
+            {},
+            {"S001": "The transcript mentions two stores and electronic shelf labels."},
+            contract,
+        )
+
+        joined = " ".join(digest["summary"])
+        self.assertIn("电子价签节省人力", joined)
+        self.assertNotIn("每磅 2.", joined)
 
     def test_us_constitution_scope_is_corrected(self) -> None:
         raw = {
