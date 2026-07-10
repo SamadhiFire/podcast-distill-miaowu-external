@@ -8,10 +8,14 @@ from unittest.mock import patch
 
 from scripts.generate_daily_report import (
     DIGEST_CACHE_VERSION,
+    DirectFileIdContractError,
+    deterministic_item_failure_digest,
+    evidence_fallback_enabled,
     is_context_length_error,
     load_digest_cache,
     metadata_fallback_enabled,
     should_use_direct_fileid,
+    summarize_item_contract,
     validate_final_digest,
 )
 from scripts.report_contract import (
@@ -22,7 +26,7 @@ from scripts.report_contract import (
     report_to_feishu_xml,
     report_to_markdown,
 )
-from scripts.publish_feishu import FEISHU_API, update_wiki_node_title
+from scripts.publish_feishu import FEISHU_API, sort_daily_reports_below_pinned_page, update_wiki_node_title
 from scripts.validate_transcript_bundle import (
     has_required_transcript_items,
     validate_bundle_zip,
@@ -108,6 +112,21 @@ class ReportValidationTests(unittest.TestCase):
         xml = report_to_feishu_xml(report)
         self.assertIn("今日无新增", xml)
 
+    def test_information_map_uses_persistent_grid_instead_of_whiteboard_import(self) -> None:
+        report = {
+            "date": "2026-07-10",
+            "items": [{"short_title": "测试", "category": "科技 / AI / VC"}],
+            "themes": ["大模型", "AI 记忆", "端侧 AI"],
+            "platform_counts": {"YouTube": 1},
+            "read_minutes": 3,
+            "top_items": [],
+        }
+
+        xml = report_to_feishu_xml(report)
+        self.assertIn("<h1>今日信息地图</h1>\n<grid>", xml)
+        self.assertIn("跨来源主题聚合", xml)
+        self.assertNotIn("<whiteboard", xml)
+
     def test_context_classifier_does_not_hide_unrelated_invalid_parameters(self) -> None:
         self.assertFalse(is_context_length_error(RuntimeError("invalid_parameter_error: bad temperature")))
         self.assertTrue(
@@ -124,6 +143,47 @@ class ReportValidationTests(unittest.TestCase):
         with patch.dict(os.environ, {}, clear=True):
             self.assertFalse(metadata_fallback_enabled())
 
+    def test_direct_required_disables_segment_evidence_fallback_by_default(self) -> None:
+        with patch.dict(os.environ, {"LLM_FILEID_DIRECT_REQUIRED": "1"}, clear=True):
+            self.assertFalse(evidence_fallback_enabled())
+
+    def test_explicit_evidence_fallback_can_be_enabled_for_nonproduction_runs(self) -> None:
+        env = {
+            "LLM_FILEID_DIRECT_REQUIRED": "1",
+            "LLM_EVIDENCE_FALLBACK_ENABLED": "true",
+        }
+        with patch.dict(os.environ, env, clear=True):
+            self.assertTrue(evidence_fallback_enabled())
+
+    def test_known_item_failure_uses_a_transparent_non_llm_placeholder(self) -> None:
+        item = {"title": "受限节目", "url": "https://example.test/blocked"}
+        digest = deterministic_item_failure_digest(item, "provider_input_inspection")
+
+        self.assertEqual(digest["quality"], "provider_input_rejected")
+        self.assertIn("未生成", digest["summary"][0])
+        self.assertGreaterEqual(len(digest["core_points"]), 2)
+
+    def test_direct_fileid_contract_error_is_distinct_from_transport_failures(self) -> None:
+        self.assertIsInstance(DirectFileIdContractError("format"), RuntimeError)
+
+    @patch("scripts.generate_daily_report.summarize_item_fileid_direct")
+    @patch("scripts.generate_daily_report.llm_configured", return_value=True)
+    def test_direct_required_contract_failure_does_not_enter_segment_extraction(
+        self, _configured, direct_digest
+    ) -> None:
+        direct_digest.side_effect = RuntimeError("LLM output failed validation after 3 attempt(s): summary")
+        env = {
+            "LLM_FILEID_DIRECT_ENABLED": "1",
+            "LLM_FILEID_DIRECT_REQUIRED": "1",
+        }
+        with patch.dict(os.environ, env, clear=False):
+            with self.assertRaises(DirectFileIdContractError):
+                summarize_item_contract(
+                    {"title": "测试", "duration": 300},
+                    "一段完整转写。",
+                    max_attempts=1,
+                )
+
     @patch("scripts.publish_feishu.requests.post")
     def test_wiki_title_update_uses_official_update_title_endpoint(self, post) -> None:
         post.return_value.json.return_value = {"code": 0, "msg": "success"}
@@ -135,6 +195,16 @@ class ReportValidationTests(unittest.TestCase):
             f"{FEISHU_API}/wiki/v2/spaces/space-1/nodes/node-1/update_title",
         )
         self.assertEqual(post.call_args.kwargs["json"], {"title": "日报"})
+
+    @patch("scripts.publish_feishu.list_root_nodes")
+    def test_unrelated_root_node_skips_sort_without_failing_the_publish(self, list_nodes) -> None:
+        list_nodes.return_value = [
+            {"title": "日报中心", "node_token": "pinned"},
+            {"title": "Temp Test Page for Whiteboard", "node_token": "unrelated"},
+            {"title": "2026-07-10 播客与视频更新日报", "node_token": "report"},
+        ]
+        with patch.dict(os.environ, {"FEISHU_PINNED_WIKI_TITLE": "日报中心"}, clear=False):
+            self.assertEqual(sort_daily_reports_below_pinned_page("tenant-token"), 0)
 
     def test_legacy_markdown_enrichment_never_crosses_item_boundaries(self) -> None:
         report = {

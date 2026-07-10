@@ -622,6 +622,31 @@ def metadata_fallback_enabled() -> bool:
     }
 
 
+class DirectFileIdContractError(RuntimeError):
+    """The model replied, but could not satisfy the direct file-id contract."""
+
+
+def direct_fileid_required() -> bool:
+    return os.getenv("LLM_FILEID_DIRECT_REQUIRED", "0").lower() in {
+        "1",
+        "true",
+        "yes",
+    }
+
+
+def evidence_fallback_enabled() -> bool:
+    """Keep segmented evidence as an explicit opt-in when direct file-id is required."""
+    configured = os.getenv("LLM_EVIDENCE_FALLBACK_ENABLED")
+    if configured is not None:
+        return configured.lower() in {"1", "true", "yes"}
+    return not direct_fileid_required()
+
+
+def item_failure_placeholder_enabled() -> bool:
+    """Allow one known, content-safe item failure without cancelling the daily report."""
+    return os.getenv("LLM_ITEM_FAILURE_POLICY", "placeholder").lower() != "fail"
+
+
 DATA_INSPECTION_SUMMARY_NOTE = (
     "\u56e0 LLM \u670d\u52a1\u5bf9\u5b8c\u6574\u5b57\u5e55\u8f93\u5165\u89e6\u53d1 "
     "data_inspection_failed\uff0c\u672c\u6761\u6458\u8981\u53ea\u57fa\u4e8e"
@@ -636,6 +661,48 @@ CONTEXT_LENGTH_SUMMARY_NOTE = (
     "\u751f\u6210\uff1b\u5b8c\u6574\u5b57\u5e55\u5df2\u4fdd\u7559\uff0c"
     "\u8bf7\u4ee5\u539f\u6587\u4e3a\u51c6\u3002"
 )
+
+
+def deterministic_item_failure_digest(item: dict[str, Any], reason: str) -> dict[str, Any]:
+    """Emit an explicit, non-LLM placeholder without making claims about blocked content."""
+    if reason == "provider_input_inspection":
+        summary = (
+            "上游模型的输入安全审核未允许处理本期完整转写，因此未生成基于逐字稿的自动摘要。"
+        )
+        one_liner = "模型安全审核未生成摘要。"
+        quality = "provider_input_rejected"
+    else:
+        summary = (
+            "上游模型未能按日报固定格式完成本期整篇转写摘要，因此未生成内容性结论。"
+        )
+        one_liner = "模型未通过摘要格式校验。"
+        quality = "direct_fileid_contract_failed"
+
+    raw = {
+        "short_title": item.get("title") or item.get("original_title") or "摘要受限内容",
+        "one_liner": one_liner,
+        "why_it_matters": "单条内容异常不会中断当天日报发布。",
+        "content_density": "brief",
+        "summary": [
+            summary
+            + "原始节目链接和转写产物仍已保留；如需使用本期内容，请以原始来源为准。"
+        ],
+        "core_points": [
+            "本期未生成基于完整转写的自动内容摘要。",
+            "原始节目链接与转写产物已保留，便于人工核对。",
+        ],
+        "key_facts": [],
+        "takeaways": ["如需引用本期内容，请直接阅读原始节目或转写并人工确认。"],
+        "guests": ["未生成嘉宾与机构信息。"],
+        "topics": ["摘要受限"],
+        "tensions": ["第三方模型的安全审核或格式约束不应阻断整份日报。"],
+        "quote": None,
+        "importance_score": 1,
+        "quality": quality,
+    }
+    digest = normalize_digest(raw, item)
+    digest["quality"] = quality
+    return digest
 
 
 def prepend_generation_note(digest: dict[str, Any], note: str, max_items: int) -> dict[str, Any]:
@@ -1173,7 +1240,7 @@ def summarize_item_contract(
     transcript_meta: dict[str, Any] | None = None,
     timed_caption: str = "",
 ) -> dict[str, Any]:
-    """Build a high-quality item digest through evidence extraction and ranking."""
+    """Build an item digest, preferring direct file-id synthesis for long transcripts."""
     if not llm_configured():
         raise RuntimeError("大模型摘要生成失败：LLM_BASE_URL and LLM_MODEL are not configured")
 
@@ -1188,24 +1255,19 @@ def summarize_item_contract(
                 fileid_cache_dir,
             )
         except Exception as exc:
-            direct_required = os.getenv("LLM_FILEID_DIRECT_REQUIRED", "0").lower() in {
-                "1",
-                "true",
-                "yes",
-            }
             if is_data_inspection_error(exc):
+                raise
+            if not evidence_fallback_enabled():
+                if "LLM output failed validation after" in str(exc):
+                    raise DirectFileIdContractError(
+                        f"direct file-id synthesis could not satisfy its contract: {exc}"
+                    ) from exc
                 raise
             print(
                 f"Direct qwen-long fileid synthesis failed for {item.get('title')}: {exc}; "
                 "falling back to segmented evidence pipeline.",
                 flush=True,
             )
-            if direct_required:
-                print(
-                    "Direct file-id mode is required, but segmented evidence fallback still uses "
-                    "file-id for final synthesis and remains LLM-based.",
-                    flush=True,
-                )
 
     cached_artifacts = load_evidence_artifacts(evidence_dir, item)
     if cached_artifacts is not None:
@@ -1369,37 +1431,59 @@ def main() -> int:
             )
             write_digest_cache(digest_cache_dir, args.date, item, digest)
         except Exception as exc:
-            if not metadata_fallback_enabled() and (
-                is_data_inspection_error(exc) or is_context_length_error(exc)
-            ):
+            failure_kind = ""
+            if is_data_inspection_error(exc):
+                failure_kind = "provider_input_inspection"
+            elif isinstance(exc, DirectFileIdContractError):
+                failure_kind = "direct_fileid_contract"
+
+            if failure_kind:
+                if failure_kind == "provider_input_inspection" and metadata_fallback_enabled():
+                    print(
+                        f"LLM input inspection failed for {item.get('title')}; "
+                        "trying the clearly marked metadata-only digest first."
+                    )
+                    try:
+                        digest = metadata_llm_digest(
+                            item,
+                            transcript or item.get("description", ""),
+                            meta,
+                            args.llm_max_attempts,
+                        )
+                    except Exception as fallback_exc:
+                        print(
+                            f"Metadata LLM fallback also failed for {item.get('title')}: {fallback_exc}",
+                            flush=True,
+                        )
+                    else:
+                        write_digest_cache(digest_cache_dir, args.date, item, digest)
+                        item_digests.append((item, digest))
+                        continue
+
+                if item_failure_placeholder_enabled():
+                    print(
+                        f"Writing a transparent non-LLM placeholder for {item.get('title')}: {failure_kind}",
+                        flush=True,
+                    )
+                    digest = deterministic_item_failure_digest(item, failure_kind)
+                    write_digest_cache(digest_cache_dir, args.date, item, digest)
+                    item_digests.append((item, digest))
+                    continue
+
                 print(
                     f"Full-transcript LLM digest failed for {item.get('title')}: {exc}",
                     flush=True,
                 )
                 print("大模型摘要生成失败，请重新运行。", flush=True)
                 return 4
-            if is_data_inspection_error(exc):
-                print(
-                    f"LLM input inspection failed for {item.get('title')}; "
-                    "writing a clearly marked metadata-based digest instead."
-                )
-                try:
-                    digest = metadata_llm_digest(
-                        item,
-                        transcript or item.get("description", ""),
-                        meta,
-                        args.llm_max_attempts,
-                    )
-                except Exception as fallback_exc:
-                    print(
-                        f"Metadata LLM fallback failed for {item.get('title')}: {fallback_exc}; "
-                        "大模型摘要生成失败，请重新运行。"
-                    )
-                    return 4
-                write_digest_cache(digest_cache_dir, args.date, item, digest)
-                item_digests.append((item, digest))
-                continue
             if is_context_length_error(exc):
+                if not metadata_fallback_enabled():
+                    print(
+                        f"Full-transcript LLM digest failed for {item.get('title')}: {exc}",
+                        flush=True,
+                    )
+                    print("大模型摘要生成失败，请重新运行。", flush=True)
+                    return 4
                 print(
                     f"LLM input length limit hit for {item.get('title')}; "
                     "writing a clearly marked metadata-based digest instead."

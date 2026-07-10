@@ -569,12 +569,21 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
     )
 
     if len(themes) >= 2:
-        nodes = ["flowchart LR", 'A["今日信息地图"]']
-        for idx, theme in enumerate(themes[:3], 1):
-            nodes.append(f'A --> T{idx}["{clean_text(theme).replace(chr(34), "")}"]')
-        diagram = escape("\n".join(nodes), quote=False)
         parts.append('<h1>今日信息地图</h1>')
-        parts.append(f'<whiteboard type="mermaid">{diagram}</whiteboard>')
+        map_themes = themes[:3]
+        width = 1 / (len(map_themes) + 1)
+        columns = [
+            (
+                f'<column width-ratio="{width:.3f}"><p align="center"><b>今日主线</b><br/>'
+                '<span text-color="gray">跨来源主题聚合</span></p></column>'
+            )
+        ]
+        for theme in map_themes:
+            columns.append(
+                f'<column width-ratio="{width:.3f}"><p align="center"><b>{_x(theme)}</b><br/>'
+                '<span text-color="gray">今日重点</span></p></column>'
+            )
+        parts.append('<grid>' + ''.join(columns) + '</grid>')
 
     parts.append('<h1>3 分钟速览</h1>')
     if not items:

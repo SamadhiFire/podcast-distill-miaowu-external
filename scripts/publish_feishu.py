@@ -474,10 +474,11 @@ def sort_daily_reports_below_pinned_page(token: str) -> int:
     ]
     if unrelated:
         titles = ", ".join(node.get("title", "") for node in unrelated)
-        raise RuntimeError(
-            "Cannot safely place reports immediately below the pinned page while unrelated root nodes exist: "
-            + titles
+        print(
+            "Skipping daily-report ordering because unrelated root nodes are present: " + titles,
+            file=sys.stderr,
         )
+        return 0
 
     pinned_token = str(pinned["node_token"])
     # Stay below the documented 100 move requests/minute limit as the archive grows.
@@ -648,7 +649,13 @@ def main() -> int:
             publish_document_id = node_token or document_id
             command = "overwrite"
         write_doc_via_openapi(token, publish_document_id, xml_content, command=command)
-        reordered = sort_daily_reports_below_pinned_page(token)
+        try:
+            reordered = sort_daily_reports_below_pinned_page(token)
+        except Exception as ordering_exc:
+            # The document is already durable at this point. Wiki ordering is a
+            # convenience feature and must not turn a successful publish red.
+            print(f"Wiki ordering skipped after successful publish: {ordering_exc}", file=sys.stderr)
+            reordered = 0
         if reordered:
             print(f"Reordered {reordered} daily report node(s) below the pinned Wiki page")
         if args.cleanup_old:
