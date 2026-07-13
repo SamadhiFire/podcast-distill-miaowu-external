@@ -26,7 +26,7 @@ from scripts.report_contract import (
     report_to_feishu_xml,
     report_to_markdown,
 )
-from scripts.publish_feishu import FEISHU_API, sort_daily_reports_below_pinned_page, update_wiki_node_title
+from scripts.publish_feishu import FEISHU_API, create_wiki_doc, update_wiki_node_title
 from scripts.validate_transcript_bundle import (
     has_required_transcript_items,
     validate_bundle_zip,
@@ -195,15 +195,33 @@ class ReportValidationTests(unittest.TestCase):
         )
         self.assertEqual(post.call_args.kwargs["json"], {"title": "日报"})
 
+    @patch("scripts.publish_feishu.requests.post")
     @patch("scripts.publish_feishu.list_root_nodes")
-    def test_unrelated_root_node_skips_sort_without_failing_the_publish(self, list_nodes) -> None:
+    def test_new_report_is_created_under_hub_without_moving_existing_nodes(self, list_nodes, post) -> None:
         list_nodes.return_value = [
-            {"title": "日报中心", "node_token": "pinned"},
-            {"title": "Temp Test Page for Whiteboard", "node_token": "unrelated"},
-            {"title": "2026-07-10 播客与视频更新日报", "node_token": "report"},
+            {"title": "hub", "node_token": "hub-node"},
+            {"title": "existing-report", "node_token": "existing-node"},
         ]
-        with patch.dict(os.environ, {"FEISHU_PINNED_WIKI_TITLE": "日报中心"}, clear=False):
-            self.assertEqual(sort_daily_reports_below_pinned_page("tenant-token"), 0)
+        post.return_value.json.return_value = {
+            "code": 0,
+            "data": {"node": {"obj_token": "doc-1", "node_token": "new-node"}},
+        }
+        with patch.dict(
+            os.environ,
+            {
+                "FEISHU_WIKI_SPACE_ID": "space-1",
+                "FEISHU_PARENT_WIKI_TITLE": "hub",
+            },
+            clear=False,
+        ):
+            self.assertEqual(create_wiki_doc("tenant-token", "new-report"), ("doc-1", "new-node"))
+
+        post.assert_called_once()
+        self.assertEqual(
+            post.call_args.args[0],
+            f"{FEISHU_API}/wiki/v2/spaces/space-1/nodes",
+        )
+        self.assertEqual(post.call_args.kwargs["json"]["parent_node_token"], "hub-node")
 
     def test_legacy_markdown_enrichment_never_crosses_item_boundaries(self) -> None:
         report = {
