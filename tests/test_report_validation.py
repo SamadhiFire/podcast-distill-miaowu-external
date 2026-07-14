@@ -26,7 +26,7 @@ from scripts.report_contract import (
     report_to_feishu_xml,
     report_to_markdown,
 )
-from scripts.publish_feishu import FEISHU_API, create_wiki_doc, update_wiki_node_title
+from scripts.publish_feishu import FEISHU_API, create_wiki_doc, keep_pinned_page_first, update_wiki_node_title
 from scripts.validate_transcript_bundle import (
     has_required_transcript_items,
     validate_bundle_zip,
@@ -196,24 +196,12 @@ class ReportValidationTests(unittest.TestCase):
         self.assertEqual(post.call_args.kwargs["json"], {"title": "日报"})
 
     @patch("scripts.publish_feishu.requests.post")
-    @patch("scripts.publish_feishu.list_root_nodes")
-    def test_new_report_is_created_under_hub_without_moving_existing_nodes(self, list_nodes, post) -> None:
-        list_nodes.return_value = [
-            {"title": "hub", "node_token": "hub-node"},
-            {"title": "existing-report", "node_token": "existing-node"},
-        ]
+    def test_new_report_is_created_at_wiki_root(self, post) -> None:
         post.return_value.json.return_value = {
             "code": 0,
             "data": {"node": {"obj_token": "doc-1", "node_token": "new-node"}},
         }
-        with patch.dict(
-            os.environ,
-            {
-                "FEISHU_WIKI_SPACE_ID": "space-1",
-                "FEISHU_PARENT_WIKI_TITLE": "hub",
-            },
-            clear=False,
-        ):
+        with patch.dict(os.environ, {"FEISHU_WIKI_SPACE_ID": "space-1"}, clear=False):
             self.assertEqual(create_wiki_doc("tenant-token", "new-report"), ("doc-1", "new-node"))
 
         post.assert_called_once()
@@ -221,7 +209,32 @@ class ReportValidationTests(unittest.TestCase):
             post.call_args.args[0],
             f"{FEISHU_API}/wiki/v2/spaces/space-1/nodes",
         )
-        self.assertEqual(post.call_args.kwargs["json"]["parent_node_token"], "hub-node")
+        self.assertNotIn("parent_node_token", post.call_args.kwargs["json"])
+
+    @patch("scripts.publish_feishu.feishu_json_request")
+    @patch("scripts.publish_feishu.list_root_nodes")
+    def test_pinned_page_refresh_only_moves_the_hub_node(self, list_nodes, request) -> None:
+        list_nodes.return_value = [
+            {"title": "hub", "node_token": "hub-node"},
+            {"title": "2026-07-14 播客与视频更新日报", "node_token": "report-node"},
+        ]
+        request.return_value = {"code": 0}
+        with patch.dict(
+            os.environ,
+            {
+                "FEISHU_WIKI_SPACE_ID": "space-1",
+                "FEISHU_PINNED_WIKI_TITLE": "hub",
+            },
+            clear=False,
+        ):
+            keep_pinned_page_first("tenant-token")
+
+        request.assert_called_once_with(
+            "POST",
+            "/wiki/v2/spaces/space-1/nodes/hub-node/move",
+            "tenant-token",
+            body={"target_space_id": "space-1"},
+        )
 
     def test_legacy_markdown_enrichment_never_crosses_item_boundaries(self) -> None:
         report = {

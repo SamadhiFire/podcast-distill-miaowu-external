@@ -77,7 +77,6 @@ def create_wiki_doc(token: str, title: str) -> tuple[str, str | None]:
         "node_type": "origin",
         "title": title,
     }
-    body["parent_node_token"] = get_report_parent_node_token(token)
     resp = requests.post(
         f"{FEISHU_API}/wiki/v2/spaces/{space_id}/nodes",
         headers=feishu_headers(token),
@@ -405,29 +404,42 @@ def list_root_nodes(token: str) -> list[dict[str, Any]]:
     return all_nodes
 
 
-def get_report_parent_node_token(token: str) -> str:
-    """Resolve the Wiki hub used as the parent of newly published reports.
+def get_pinned_wiki_node_token(token: str) -> str:
+    """Resolve the root Wiki hub that should stay above daily reports."""
+    explicit_pinned = os.getenv("FEISHU_PINNED_NODE_TOKEN")
+    if explicit_pinned:
+        return explicit_pinned
 
-    An explicit token takes priority for deployments where the hub's title is
-    customized. This lookup does not move or reorder any existing Wiki node.
-    """
-    explicit_parent = os.getenv("FEISHU_PARENT_NODE_TOKEN")
-    if explicit_parent:
-        return explicit_parent
-
-    parent_title = os.getenv(
-        "FEISHU_PARENT_WIKI_TITLE",
-        os.getenv("FEISHU_PINNED_WIKI_TITLE", DEFAULT_PINNED_WIKI_TITLE),
-    )
+    parent_title = os.getenv("FEISHU_PINNED_WIKI_TITLE", DEFAULT_PINNED_WIKI_TITLE)
     nodes = list_root_nodes(token)
     parent = next((node for node in nodes if node.get("title") == parent_title), None)
     parent_token = str((parent or {}).get("node_token") or "")
     if not parent_token:
         raise RuntimeError(
-            f"Report parent Wiki page not found: {parent_title}. "
-            "Set FEISHU_PARENT_NODE_TOKEN to its node token if it has a different title."
+            f"Pinned Wiki page not found at root: {parent_title}. "
+            "Set FEISHU_PINNED_NODE_TOKEN to its node token if it has a different title."
         )
     return parent_token
+
+
+def move_wiki_node_to_root(token: str, node_token: str) -> None:
+    """Move a node to the root of the current Wiki space."""
+    space_id = required_env("FEISHU_WIKI_SPACE_ID")
+    body: dict[str, Any] = {"target_space_id": space_id}
+    data = feishu_json_request(
+        "POST",
+        f"/wiki/v2/spaces/{space_id}/nodes/{node_token}/move",
+        token,
+        body=body,
+    )
+    if data.get("code", 0) != 0:
+        raise RuntimeError(f"Feishu move wiki node error: {data}")
+
+
+def keep_pinned_page_first(token: str) -> None:
+    """Keep the hub above root-level daily reports without nesting reports."""
+    pinned_token = get_pinned_wiki_node_token(token)
+    move_wiki_node_to_root(token, pinned_token)
 
 
 def delete_wiki_node(token: str, node_token: str) -> bool:
@@ -553,6 +565,7 @@ def main() -> int:
             node_token = args.node_token
             publish_document_id = document_id
             command = "overwrite"
+            should_refresh_pinned_order = False
         elif args.wiki_url or args.wiki_node_token:
             requested_node_token = extract_wiki_node_token(args.wiki_url or args.wiki_node_token)
             if not requested_node_token:
@@ -561,11 +574,15 @@ def main() -> int:
             update_wiki_node_title(token, node_token, args.title)
             publish_document_id = node_token
             command = "overwrite"
+            should_refresh_pinned_order = False
         else:
             document_id, node_token = create_wiki_doc(token, args.title)
             publish_document_id = node_token or document_id
             command = "overwrite"
+            should_refresh_pinned_order = bool(node_token)
         write_doc_via_openapi(token, publish_document_id, xml_content, command=command)
+        if should_refresh_pinned_order:
+            keep_pinned_page_first(token)
         if args.cleanup_old:
             deleted = cleanup_old_daily_reports(token, args.title)
             print(f"Cleaned up {deleted} old report node(s)")
