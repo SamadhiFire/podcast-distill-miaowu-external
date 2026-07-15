@@ -24,6 +24,13 @@ CATEGORIES = [
     "文化 / 社会 / 人文",
 ]
 
+# These digests deliberately contain no content claims.  They remain visible in
+# the full report, but must never influence editorial summaries or maps.
+NON_CONTENT_DIGEST_QUALITIES = {
+    "provider_input_rejected",
+    "direct_fileid_contract_failed",
+}
+
 CATEGORY_EMOJI = {
     "科技 / AI / VC": "🤖",
     "商业 / 财经 / 投资": "📈",
@@ -402,6 +409,11 @@ def fmt_duration(seconds: Any) -> str:
     return f"{minutes} 分钟"
 
 
+def is_content_digest(item: dict[str, Any]) -> bool:
+    """Return whether an item has a content-bearing, validated digest."""
+    return str(item.get("quality", "")).strip() not in NON_CONTENT_DIGEST_QUALITIES
+
+
 def build_report(date: str, item_digests: list[tuple[dict[str, Any], dict[str, Any]]]) -> dict[str, Any]:
     items: list[dict[str, Any]] = []
     for item, digest in item_digests:
@@ -416,18 +428,15 @@ def build_report(date: str, item_digests: list[tuple[dict[str, Any], dict[str, A
                 "category": item.get("category") or "待分类",
                 **digest,
             }
-        )
+    )
     platform_counts = Counter(item["platform"] for item in items)
     category_counts = Counter(item["category"] for item in items)
-    topic_counts = Counter(topic for item in items for topic in item.get("topics", []))
-    themes = [name for name, _ in topic_counts.most_common(3)]
-    if len(themes) < 2:
-        themes = [name.split(" /")[0] for name, _ in category_counts.most_common(3)]
+    content_indices = [idx for idx, item in enumerate(items) if is_content_digest(item)]
     top_items = sorted(
-        range(len(items)),
+        content_indices,
         key=lambda idx: (items[idx].get("importance_score", 3), items[idx].get("published_at", "")),
         reverse=True,
-    )[: min(3, len(items))]
+    )[: min(3, len(content_indices))]
     return {
         "schema_version": 2,
         "date": date,
@@ -437,7 +446,11 @@ def build_report(date: str, item_digests: list[tuple[dict[str, Any], dict[str, A
         "read_minutes": max(3, min(12, math.ceil(len(items) * 0.7))),
         "platform_counts": dict(platform_counts),
         "category_counts": dict(category_counts),
-        "themes": themes[:3],
+        # Themes are generated in a separate report-level pass after all
+        # validated item digests are available.  Do not derive them from item
+        # labels or categories here.
+        "themes": [],
+        "theme_sources": [],
         "top_items": top_items,
         "items": items,
     }
@@ -582,7 +595,9 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
             '<callout emoji="📭" background-color="light-gray" border-color="gray">'
             '<p>今日无新增。</p></callout>'
         )
-    top_indices = report.get("top_items") or list(range(min(3, len(items))))
+    top_indices = report.get("top_items")
+    if top_indices is None:
+        top_indices = list(range(min(3, len(items))))
     for rank, item_idx in enumerate(top_indices, 1):
         if not isinstance(item_idx, int) or not 0 <= item_idx < len(items):
             continue

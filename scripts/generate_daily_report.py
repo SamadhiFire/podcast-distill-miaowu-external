@@ -15,9 +15,27 @@ from urllib.parse import parse_qs, urlencode, urlparse
 import requests
 
 try:
-    from report_contract import build_report, clean_text, nonspace_len, normalize_digest, number_tokens, report_to_markdown
+    from report_contract import (
+        CATEGORIES,
+        build_report,
+        clean_text,
+        is_content_digest,
+        nonspace_len,
+        normalize_digest,
+        number_tokens,
+        report_to_markdown,
+    )
 except ModuleNotFoundError:  # Imported as scripts.generate_daily_report in tests/tools.
-    from scripts.report_contract import build_report, clean_text, nonspace_len, normalize_digest, number_tokens, report_to_markdown
+    from scripts.report_contract import (
+        CATEGORIES,
+        build_report,
+        clean_text,
+        is_content_digest,
+        nonspace_len,
+        normalize_digest,
+        number_tokens,
+        report_to_markdown,
+    )
 
 try:
     from digest_evidence_pipeline import (
@@ -486,6 +504,104 @@ def llm_json(
                 }
             )
     raise RuntimeError(f"LLM output failed validation after {max_attempts} attempt(s): {last_error}")
+
+
+REPORT_THEME_BLOCKLIST = (
+    "摘要受限",
+    "模型安全审核",
+    "摘要格式校验",
+    "未生成摘要",
+)
+
+
+def report_theme_candidates(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Build the evidence-bounded input for a report-level theme synthesis."""
+    candidates: list[dict[str, Any]] = []
+    for item_index, item in enumerate(items):
+        if not is_content_digest(item):
+            continue
+        one_liner = clean_text(item.get("one_liner", ""))
+        summary = item.get("summary", [])
+        summary_text = clean_text(summary[0] if isinstance(summary, list) and summary else summary)
+        if not one_liner and not summary_text:
+            continue
+        candidates.append(
+            {
+                "item_id": f"I{item_index + 1}",
+                "title": clean_text(item.get("short_title") or item.get("original_title")),
+                "one_liner": one_liner[:180],
+                "summary": summary_text[:360],
+            }
+        )
+    return candidates
+
+
+def build_report_theme_messages(candidates: list[dict[str, Any]]) -> list[dict[str, str]]:
+    payload = json.dumps(candidates, ensure_ascii=False)
+    return [
+        {
+            "role": "system",
+            "content": (
+                "你是中文日报编辑。请基于给定的条目摘要，提炼本期 2 到 3 条真实的信息主线。"
+                "这不是栏目分类，也不是关键词罗列；每条应概括一项具体的事实、机制、变化或争议，"
+                "并且只能使用所给条目中已有的信息。禁止写‘摘要受限’、模型状态、平台状态、"
+                "或‘商业/财经/投资’这类栏目名。"
+                "只输出 JSON，不要 Markdown。"
+            ),
+        },
+        {
+            "role": "user",
+            "content": (
+                "候选条目：\n"
+                f"{payload}\n\n"
+                "返回：{\"themes\":[{\"title\":\"8-28 字的具体中文主线\","
+                "\"source_item_ids\":[\"I1\",\"I2\"]}]}。"
+                "每条必须关联 1-3 个有效条目 ID；不要添加候选条目没有支持的事实。"
+            ),
+        },
+    ]
+
+
+def validate_report_themes(raw: dict[str, Any], candidates: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    values = raw.get("themes")
+    if not isinstance(values, list) or not 2 <= len(values) <= 3:
+        raise ValueError("themes must contain 2..3 entries")
+    valid_ids = {str(item["item_id"]) for item in candidates}
+    result: list[dict[str, Any]] = []
+    seen_titles: set[str] = set()
+    for value in values:
+        if not isinstance(value, dict):
+            raise ValueError("every theme must be an object")
+        title = clean_text(value.get("title", ""))
+        if not 8 <= nonspace_len(title) <= 28:
+            raise ValueError("theme title must be 8..28 non-space characters")
+        if title in CATEGORIES or any(blocked in title for blocked in REPORT_THEME_BLOCKLIST):
+            raise ValueError("theme title is a category or internal placeholder")
+        if title in seen_titles:
+            raise ValueError("theme titles must be unique")
+        source_ids = value.get("source_item_ids")
+        if not isinstance(source_ids, list) or not 1 <= len(source_ids) <= 3:
+            raise ValueError("every theme needs 1..3 source item IDs")
+        normalized_ids = [str(source_id) for source_id in source_ids]
+        if len(set(normalized_ids)) != len(normalized_ids) or any(
+            source_id not in valid_ids for source_id in normalized_ids
+        ):
+            raise ValueError("theme source_item_ids must reference valid normal digests")
+        seen_titles.add(title)
+        result.append({"title": title, "source_item_ids": normalized_ids})
+    return result
+
+
+def generate_report_themes(items: list[dict[str, Any]], max_attempts: int) -> list[dict[str, Any]]:
+    """Create evidence-linked daily themes, or suppress the map on failure."""
+    candidates = report_theme_candidates(items)
+    if len(candidates) < 2 or not llm_configured():
+        return []
+    return llm_json(
+        build_report_theme_messages(candidates),
+        lambda raw: validate_report_themes(raw, candidates),
+        max_attempts=min(2, max_attempts),
+    )
 
 
 def digest_contract_for_item(
@@ -1516,6 +1632,13 @@ def main() -> int:
         item_digests.append((item, digest))
 
     report = build_report(args.date, item_digests)
+    try:
+        theme_entries = generate_report_themes(report["items"], args.llm_max_attempts)
+    except Exception as exc:
+        print(f"Skipping information map because report-level theme synthesis failed: {exc}", flush=True)
+        theme_entries = []
+    report["themes"] = [entry["title"] for entry in theme_entries]
+    report["theme_sources"] = theme_entries
     report["generation"] = {
         "mode": "llm_evidence_validated" if llm_configured() else "llm_not_configured",
         "model": os.getenv("LLM_MODEL", ""),

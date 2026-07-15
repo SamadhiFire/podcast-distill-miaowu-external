@@ -4,18 +4,21 @@ import tempfile
 import unittest
 import zipfile
 from pathlib import Path
-from unittest.mock import patch
+from unittest.mock import call, patch
 
 from scripts.generate_daily_report import (
     DIGEST_CACHE_VERSION,
     DirectFileIdContractError,
     deterministic_item_failure_digest,
     evidence_fallback_enabled,
+    generate_report_themes,
     is_context_length_error,
     load_digest_cache,
     metadata_fallback_enabled,
+    report_theme_candidates,
     should_use_direct_fileid,
     summarize_item_contract,
+    validate_report_themes,
     validate_final_digest,
 )
 from scripts.report_contract import (
@@ -26,7 +29,12 @@ from scripts.report_contract import (
     report_to_feishu_xml,
     report_to_markdown,
 )
-from scripts.publish_feishu import FEISHU_API, create_wiki_doc, keep_pinned_page_first, update_wiki_node_title
+from scripts.publish_feishu import (
+    FEISHU_API,
+    create_wiki_doc,
+    sort_daily_reports_below_pinned_page,
+    update_wiki_node_title,
+)
 from scripts.validate_transcript_bundle import (
     has_required_transcript_items,
     validate_bundle_zip,
@@ -126,6 +134,149 @@ class ReportValidationTests(unittest.TestCase):
         self.assertIn("<h1>今日信息地图</h1>\n<whiteboard type=\"mermaid\">", xml)
         self.assertIn("flowchart LR", xml)
 
+    def test_information_map_excludes_placeholder_digests_until_report_level_synthesis(self) -> None:
+        failed_item = {
+            "title": "异常内容",
+            "category": "商业 / 财经 / 投资",
+            "platform": "youtube",
+            "published_at": "2026-07-15T06:00:00+08:00",
+        }
+        valid_item = {
+            "title": "火箭回收",
+            "category": "科技 / AI / VC",
+            "platform": "youtube",
+            "published_at": "2026-07-15T06:10:00+08:00",
+        }
+        second_valid_item = {
+            "title": "AI 就业",
+            "category": "产品 / 创业 / 管理",
+            "platform": "youtube",
+            "published_at": "2026-07-15T06:20:00+08:00",
+        }
+        report = build_report(
+            "2026-07-15",
+            [
+                (failed_item, deterministic_item_failure_digest(failed_item, "contract")),
+                (
+                    valid_item,
+                    {
+                        "short_title": "火箭回收",
+                        "one_liner": "验证内容",
+                        "why_it_matters": "验证主题聚合",
+                        "topics": ["可回收火箭"],
+                        "importance_score": 4,
+                    },
+                ),
+                (
+                    second_valid_item,
+                    {
+                        "short_title": "AI 就业",
+                        "one_liner": "验证内容",
+                        "why_it_matters": "验证主题聚合",
+                        "topics": ["AI 就业"],
+                        "importance_score": 4,
+                    },
+                ),
+            ],
+        )
+
+        self.assertEqual(report["themes"], [])
+        self.assertNotIn("摘要受限", report["themes"])
+        self.assertEqual(report["top_items"], [2, 1])
+        xml = report_to_feishu_xml(report)
+        self.assertNotIn("摘要受限", xml)
+        self.assertNotIn("<h1>今日信息地图</h1>", xml)
+
+    def test_report_level_themes_reject_placeholder_and_invalid_source_ids(self) -> None:
+        items = [
+            {
+                "short_title": "火箭回收",
+                "one_liner": "海上回收验证了可复用火箭的工程路径。",
+                "summary": ["回收系统降低了未来发射成本。"],
+                "quality": "llm_evidence_validated",
+            },
+            {
+                "short_title": "AI 与就业",
+                "one_liner": "AI 推动岗位能力重组而非简单替代。",
+                "summary": ["教育与职业训练需要转向人机协作能力。"],
+                "quality": "llm_evidence_validated",
+            },
+            {
+                "short_title": "失败条目",
+                "one_liner": "模型未通过摘要格式校验。",
+                "quality": "direct_fileid_contract_failed",
+            },
+        ]
+        with patch("scripts.generate_daily_report.llm_configured", return_value=True), patch(
+            "scripts.generate_daily_report.llm_json",
+            return_value=[
+                {"title": "可复用火箭走向工程验证", "source_item_ids": ["I1"]},
+                {"title": "AI 重组教育与职业能力", "source_item_ids": ["I2"]},
+            ],
+        ):
+            self.assertEqual(
+                generate_report_themes(items, 3),
+                [
+                    {"title": "可复用火箭走向工程验证", "source_item_ids": ["I1"]},
+                    {"title": "AI 重组教育与职业能力", "source_item_ids": ["I2"]},
+                ],
+            )
+
+    def test_report_theme_validation_rejects_placeholders_and_unknown_sources(self) -> None:
+        candidates = report_theme_candidates(
+            [
+                {
+                    "short_title": "rocket recovery",
+                    "one_liner": "A sea recovery test validated a reusable rocket path.",
+                    "quality": "llm_evidence_validated",
+                },
+                {
+                    "short_title": "AI and education",
+                    "one_liner": "AI is reshaping education and workplace skills.",
+                    "quality": "llm_evidence_validated",
+                },
+                {
+                    "short_title": "failed item",
+                    "one_liner": "This must not appear in editorial synthesis.",
+                    "quality": "provider_input_rejected",
+                },
+            ]
+        )
+        self.assertEqual([item["item_id"] for item in candidates], ["I1", "I2"])
+
+        themes = validate_report_themes(
+            {
+                "themes": [
+                    {"title": "可复用火箭完成工程回收验证", "source_item_ids": ["I1"]},
+                    {"title": "AI推动教育与职业能力重组", "source_item_ids": ["I2"]},
+                ]
+            },
+            candidates,
+        )
+        self.assertEqual(len(themes), 2)
+
+        with self.assertRaises(ValueError):
+            validate_report_themes(
+                {
+                    "themes": [
+                        {"title": "摘要受限正在影响内容生成", "source_item_ids": ["I1"]},
+                        {"title": "AI推动教育与职业能力重组", "source_item_ids": ["I2"]},
+                    ]
+                },
+                candidates,
+            )
+
+        with self.assertRaises(ValueError):
+            validate_report_themes(
+                {
+                    "themes": [
+                        {"title": "可复用火箭完成工程回收验证", "source_item_ids": ["I1"]},
+                        {"title": "AI推动教育与职业能力重组", "source_item_ids": ["I3"]},
+                    ]
+                },
+                candidates,
+            )
+
     def test_context_classifier_does_not_hide_unrelated_invalid_parameters(self) -> None:
         self.assertFalse(is_context_length_error(RuntimeError("invalid_parameter_error: bad temperature")))
         self.assertTrue(
@@ -211,30 +362,43 @@ class ReportValidationTests(unittest.TestCase):
         )
         self.assertNotIn("parent_node_token", post.call_args.kwargs["json"])
 
-    @patch("scripts.publish_feishu.feishu_json_request")
-    @patch("scripts.publish_feishu.list_root_nodes")
-    def test_pinned_page_refresh_only_moves_the_hub_node(self, list_nodes, request) -> None:
-        list_nodes.return_value = [
-            {"title": "hub", "node_token": "hub-node"},
-            {"title": "2026-07-14 播客与视频更新日报", "node_token": "report-node"},
-        ]
-        request.return_value = {"code": 0}
-        with patch.dict(
-            os.environ,
-            {
-                "FEISHU_WIKI_SPACE_ID": "space-1",
-                "FEISHU_PINNED_WIKI_TITLE": "hub",
-            },
-            clear=False,
-        ):
-            keep_pinned_page_first("tenant-token")
+    def test_new_daily_report_reorders_root_with_hub_first(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        july_14 = {"node_token": "jul-14", "title": "2026-07-14 播客与视频更新日报"}
+        july_15 = {"node_token": "jul-15", "title": "2026-07-15 播客与视频更新日报"}
+        initial_root = [july_14, july_15, hub]
+        expected_root = [hub, july_15, july_14]
 
-        request.assert_called_once_with(
-            "POST",
-            "/wiki/v2/spaces/space-1/nodes/hub-node/move",
-            "tenant-token",
-            body={"target_space_id": "space-1"},
+        with patch.dict(os.environ, {"FEISHU_WIKI_SPACE_ID": "space-1"}, clear=False), patch(
+            "scripts.publish_feishu.list_root_nodes",
+            side_effect=[initial_root, expected_root],
+        ), patch("scripts.publish_feishu.list_wiki_nodes", return_value=[]), patch(
+            "scripts.publish_feishu.move_wiki_node"
+        ) as move, patch("scripts.publish_feishu.time.sleep"):
+            self.assertEqual(sort_daily_reports_below_pinned_page("tenant-token"), 2)
+
+        self.assertEqual(
+            move.call_args_list,
+            [
+                call("tenant-token", "jul-14", parent_token="hub"),
+                call("tenant-token", "jul-15", parent_token="hub"),
+                call("tenant-token", "jul-15"),
+                call("tenant-token", "jul-14"),
+            ],
         )
+
+    def test_daily_ordering_refuses_unrelated_root_nodes(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        report = {"node_token": "jul-15", "title": "2026-07-15 播客与视频更新日报"}
+        other = {"node_token": "other", "title": "其他根节点"}
+
+        with patch.dict(os.environ, {"FEISHU_WIKI_SPACE_ID": "space-1"}, clear=False), patch(
+            "scripts.publish_feishu.list_root_nodes", return_value=[hub, report, other]
+        ), patch("scripts.publish_feishu.move_wiki_node") as move:
+            with self.assertRaisesRegex(RuntimeError, "unrelated root nodes"):
+                sort_daily_reports_below_pinned_page("tenant-token")
+
+        move.assert_not_called()
 
     def test_legacy_markdown_enrichment_never_crosses_item_boundaries(self) -> None:
         report = {
