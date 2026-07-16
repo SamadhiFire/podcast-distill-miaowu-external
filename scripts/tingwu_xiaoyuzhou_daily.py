@@ -272,10 +272,13 @@ def discover_source(source: dict[str, Any], start: datetime, end: datetime) -> t
 def resolve_episode_audio(item: dict[str, Any]) -> dict[str, Any]:
     data = get_json_page(item["url"])
     episode = data.get("props", {}).get("pageProps", {}).get("episode") or {}
+    media = episode.get("media") or {}
+    media_source = media.get("source") or {}
+    trial = episode.get("trial") or {}
     audio_url = (
         ((episode.get("enclosure") or {}).get("url"))
-        or (((episode.get("media") or {}).get("source") or {}).get("url"))
-        or (((episode.get("media") or {}).get("backupSource") or {}).get("url"))
+        or media_source.get("url")
+        or ((media.get("backupSource") or {}).get("url"))
     )
     if not audio_url:
         raise CollectError(f"audio_url not found for {item['url']}")
@@ -298,9 +301,67 @@ def resolve_episode_audio(item: dict[str, Any]) -> dict[str, Any]:
             "duration": duration_seconds,
             "duration_seconds": duration_seconds,
             "description": episode.get("description") or episode.get("shownotes") or item.get("description", ""),
+            "_pay_type": str(episode.get("payType") or ""),
+            "_media_access_mode": str(media_source.get("mode") or ""),
+            "_media_size": media.get("size") or 0,
+            "_trial_type": str(trial.get("type") or ""),
+            "_trial_seconds": max(0, int(float(trial.get("to") or 0)) - int(float(trial.get("from") or 0))),
         }
     )
     return enriched
+
+
+def restricted_episode_reason(item: dict[str, Any]) -> str | None:
+    pay_type = str(item.get("_pay_type") or "").upper()
+    access_mode = str(item.get("_media_access_mode") or "").upper()
+    if pay_type and pay_type != "FREE":
+        return f"Xiaoyuzhou episode requires paid access ({pay_type})"
+    if access_mode == "PRIVATE":
+        return "Xiaoyuzhou full audio is private"
+    return None
+
+
+def public_item(item: dict[str, Any]) -> dict[str, Any]:
+    return {key: value for key, value in item.items() if not key.startswith("_")}
+
+
+def probe_audio_size(url: str) -> int | None:
+    response = requests.get(
+        url,
+        headers={**HEADERS, "Range": "bytes=0-0"},
+        timeout=30,
+        stream=True,
+    )
+    try:
+        response.raise_for_status()
+        content_range = str(response.headers.get("Content-Range") or "")
+        match = re.search(r"/(\d+)$", content_range)
+        if match:
+            return int(match.group(1))
+        content_length = response.headers.get("Content-Length")
+        if content_length and response.status_code == 200:
+            return int(content_length)
+        return None
+    finally:
+        response.close()
+
+
+def validate_public_audio(item: dict[str, Any]) -> None:
+    duration_seconds = int(item.get("duration_seconds") or item.get("duration") or 0)
+    if duration_seconds < 300:
+        return
+    actual_size = probe_audio_size(str(item.get("audio_url") or ""))
+    if actual_size is None:
+        return
+    declared_size = int(item.get("_media_size") or 0)
+    if actual_size < 64 * 1024:
+        raise RuntimeError(
+            f"public audio is unexpectedly small ({actual_size} bytes for {duration_seconds}s): {item['url']}"
+        )
+    if declared_size >= 1024 * 1024 and actual_size < declared_size * 0.1:
+        raise RuntimeError(
+            f"public audio size {actual_size} is inconsistent with declared media size {declared_size}: {item['url']}"
+        )
 
 
 class TingwuClient:
@@ -547,7 +608,7 @@ def transcribe_item(
     args: argparse.Namespace,
 ) -> tuple[dict[str, Any], dict[str, Any]]:
     episode_id = item["episode_id"]
-    enriched = resolve_episode_audio(item)
+    enriched = dict(item) if item.get("audio_url") else resolve_episode_audio(item)
     if not args.force:
         meta = cached_meta(cache_dir, subtitles_dir, episode_id)
         if meta:
@@ -570,6 +631,7 @@ def transcribe_item(
                 "coverage_ratio": meta.get("coverage_ratio"),
             }
 
+    validate_public_audio(enriched)
     created = client.create_task(enriched)
     data = created.get("Data") or {}
     task_id = data.get("TaskId")
@@ -653,6 +715,7 @@ def main() -> int:
     selected_items = all_items[: args.max_items] if args.max_items else list(all_items)
     completed_items: list[dict[str, Any]] = []
     transcript_results: list[dict[str, Any]] = []
+    skipped_items: list[dict[str, Any]] = []
     if args.discover_only:
         for item in selected_items:
             try:
@@ -661,17 +724,46 @@ def main() -> int:
                 completed_items.append({**item, "audio_url": "", "resolve_error": str(exc)})
                 failures.append({"url": item["url"], "error_type": "episode_resolve_failed", "error_message": str(exc)})
     else:
+        processable_items: list[dict[str, Any]] = []
+        for item in selected_items:
+            try:
+                enriched = resolve_episode_audio(item)
+                skip_reason = restricted_episode_reason(enriched)
+                if skip_reason:
+                    skipped = {
+                        "url": enriched["url"],
+                        "title": enriched.get("title", ""),
+                        "source_name": enriched.get("source_name", ""),
+                        "status": "skipped_paid_episode",
+                        "reason": skip_reason,
+                        "pay_type": enriched.get("_pay_type", ""),
+                        "media_access_mode": enriched.get("_media_access_mode", ""),
+                        "trial_type": enriched.get("_trial_type", ""),
+                        "trial_seconds": enriched.get("_trial_seconds", 0),
+                    }
+                    skipped_items.append(skipped)
+                    transcript_results.append(skipped)
+                    print(f"Skipping paid/private episode: {enriched['title']} ({enriched['url']})", flush=True)
+                    continue
+                processable_items.append(enriched)
+            except Exception as exc:
+                failed = {**item, "transcript_status": "failed", "error_type": "episode_resolve_failed", "error_message": str(exc)}
+                completed_items.append(failed)
+                transcript_results.append({"url": item["url"], "status": "failed", "error_message": str(exc)})
+                failures.append({"url": item["url"], "error_type": "episode_resolve_failed", "error_message": str(exc)})
+                print(f"  ERROR resolving episode: {exc}", flush=True)
+
         app_key = os.getenv("TINGWU_APP_KEY")
         access_key_id = os.getenv("ALIBABA_CLOUD_ACCESS_KEY_ID") or os.getenv("ALIBABA_ACCESS_KEY_ID")
         access_key_secret = os.getenv("ALIBABA_CLOUD_ACCESS_KEY_SECRET") or os.getenv("ALIBABA_ACCESS_KEY_SECRET")
-        if selected_items and not (app_key and access_key_id and access_key_secret):
+        if processable_items and not (app_key and access_key_id and access_key_secret):
             raise RuntimeError(
                 "TINGWU_APP_KEY, ALIBABA_CLOUD_ACCESS_KEY_ID and "
                 "ALIBABA_CLOUD_ACCESS_KEY_SECRET are required for transcription"
             )
-        client = TingwuClient(app_key or "", access_key_id or "", access_key_secret or "") if selected_items else None
-        for index, item in enumerate(selected_items, 1):
-            print(f"Transcribing {index}/{len(selected_items)}: {item['title']} ({item['url']})", flush=True)
+        client = TingwuClient(app_key or "", access_key_id or "", access_key_secret or "") if processable_items else None
+        for index, item in enumerate(processable_items, 1):
+            print(f"Transcribing {index}/{len(processable_items)}: {item['title']} ({item['url']})", flush=True)
             try:
                 assert client is not None
                 completed, result = transcribe_item(item, client, subtitles_dir, cache_dir, args)
@@ -687,7 +779,7 @@ def main() -> int:
     daily_items = [
         {
             key: value
-            for key, value in item.items()
+            for key, value in public_item(item).items()
             if key
             not in {
                 "transcript_meta",
@@ -707,11 +799,14 @@ def main() -> int:
         "sources_profile": "xiaoyuzhou-default",
         "source_count": len(sources),
         "item_count": len(completed_items),
+        "discovered_item_count": len(selected_items),
         "success_count": success_count,
+        "skipped_count": len(skipped_items),
         "no_update_count": no_update_count,
         "failure_count": failure_count + sum(1 for failure in failures if "source_url" in failure),
         "sources_summary": source_summaries,
         "transcript_results": transcript_results,
+        "skipped_items": skipped_items,
         "errors": failures,
     }
 

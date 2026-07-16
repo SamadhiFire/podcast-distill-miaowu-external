@@ -678,10 +678,13 @@ def merge_manifest(
         "sources_profile": "xiaoyuzhou-plus-youtube-external",
         "source_count": existing_manifest.get("source_count", 0),
         "item_count": len(items),
+        "discovered_item_count": existing_manifest.get("discovered_item_count", len(items)),
         "success_count": sum(1 for item in items if item.get("transcript_status") == "success"),
+        "skipped_count": existing_manifest.get("skipped_count", 0),
         "failure_count": len(all_errors),
         "counts_by_platform": platform_counts(items),
         "sources_summary": existing_sources,
+        "skipped_items": existing_manifest.get("skipped_items") or [],
         "transcript_results": [
             *(existing_manifest.get("transcript_results") or []),
             *transcript_results,
