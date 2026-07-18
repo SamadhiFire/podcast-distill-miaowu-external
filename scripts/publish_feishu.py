@@ -71,13 +71,20 @@ def feishu_headers(token: str) -> dict[str, str]:
     return {"Authorization": f"Bearer {token}", "Content-Type": "application/json; charset=utf-8"}
 
 
-def create_wiki_doc(token: str, title: str) -> tuple[str, str | None]:
+def create_wiki_doc(
+    token: str,
+    title: str,
+    *,
+    parent_node_token: str | None = None,
+) -> tuple[str, str | None]:
     space_id = required_env("FEISHU_WIKI_SPACE_ID")
     body: dict[str, Any] = {
         "obj_type": "docx",
         "node_type": "origin",
         "title": title,
     }
+    if parent_node_token:
+        body["parent_node_token"] = parent_node_token
     resp = requests.post(
         f"{FEISHU_API}/wiki/v2/spaces/{space_id}/nodes",
         headers=feishu_headers(token),
@@ -412,52 +419,79 @@ def list_root_nodes(token: str) -> list[dict[str, Any]]:
     return list_wiki_nodes(token)
 
 
-def get_or_create_root_wiki_doc(token: str, title: str) -> tuple[str, str | None, bool]:
-    """Reuse one exact-title root node, or create it without a parent.
+def get_daily_hub_node(token: str, *, root_nodes: list[dict[str, Any]] | None = None) -> dict[str, Any]:
+    """Return the unique root-level daily-report hub."""
+    pinned_title = os.getenv("FEISHU_PINNED_WIKI_TITLE", DEFAULT_PINNED_WIKI_TITLE)
+    roots = root_nodes if root_nodes is not None else list_root_nodes(token)
+    matches = [node for node in roots if str(node.get("title") or "") == pinned_title]
+    if len(matches) != 1:
+        raise RuntimeError(
+            f"Expected exactly one root Wiki hub titled {pinned_title!r}; found {len(matches)}"
+        )
+    hub = matches[0]
+    if not str(hub.get("node_token") or ""):
+        raise RuntimeError(f"Root Wiki hub has no node_token: {hub}")
+    return hub
 
-    Refuse ambiguous duplicates instead of deleting or moving any Wiki node.
+
+def get_or_create_daily_wiki_doc(
+    token: str,
+    title: str,
+) -> tuple[str, str | None, str, bool]:
+    """Reuse or create one exact-title daily report directly under the hub.
+
+    A same-title root node is treated as an incomplete migration.  Refusing to
+    create a duplicate keeps retries idempotent and prevents reports from
+    silently escaping the hub hierarchy.
     """
-    matches = [node for node in list_root_nodes(token) if str(node.get("title") or "") == title]
+    root_nodes = list_root_nodes(token)
+    hub = get_daily_hub_node(token, root_nodes=root_nodes)
+    hub_token = str(hub["node_token"])
+    root_matches = [node for node in root_nodes if str(node.get("title") or "") == title]
+    if root_matches:
+        raise RuntimeError(
+            f"Daily report {title!r} still exists at the Wiki root; "
+            "finish the one-time hub migration before publishing"
+        )
+
+    child_nodes = list_wiki_nodes(token, parent_token=hub_token)
+    matches = [node for node in child_nodes if str(node.get("title") or "") == title]
     if len(matches) > 1:
         raise RuntimeError(
-            f"Multiple root Wiki nodes have the exact title {title!r}; "
+            f"Multiple child Wiki nodes under {hub.get('title')!r} have the exact title {title!r}; "
             "resolve the duplicates manually before publishing"
         )
     if matches:
         node_token = str(matches[0].get("node_token") or "")
         if not node_token:
-            raise RuntimeError(f"Existing root Wiki node has no node_token: {matches[0]}")
+            raise RuntimeError(f"Existing child Wiki node has no node_token: {matches[0]}")
         document_id, resolved_node_token = get_wiki_doc_token(token, node_token)
-        return document_id, resolved_node_token, False
+        return document_id, resolved_node_token, hub_token, False
 
-    document_id, node_token = create_wiki_doc(token, title)
-    return document_id, node_token, True
+    document_id, node_token = create_wiki_doc(token, title, parent_node_token=hub_token)
+    return document_id, node_token, hub_token, True
 
 
-def verify_root_daily_order(token: str) -> str:
-    """Return a warning when root nodes are not hub-first/date-descending.
-
-    This check is deliberately read-only.  Feishu's Wiki API does not expose a
-    sibling-position field, so publishing must never use hierarchy moves as a
-    substitute for sorting.
-    """
+def verify_daily_report_child(token: str, title: str, expected_node_token: str) -> None:
+    """Verify that the published report is a unique direct child of the hub."""
     root_nodes = list_root_nodes(token)
-    pinned_title = os.getenv("FEISHU_PINNED_WIKI_TITLE", DEFAULT_PINNED_WIKI_TITLE)
-    relevant_titles = [
-        str(node.get("title") or "")
-        for node in root_nodes
-        if str(node.get("title") or "") == pinned_title
-        or DAILY_REPORT_TITLE_RE.fullmatch(str(node.get("title") or ""))
-    ]
-    pinned_count = relevant_titles.count(pinned_title)
-    if pinned_count != 1:
-        return f"根节点中应有且仅有一个《{pinned_title}》，当前找到 {pinned_count} 个"
+    hub = get_daily_hub_node(token, root_nodes=root_nodes)
+    root_matches = [node for node in root_nodes if str(node.get("title") or "") == title]
+    if root_matches:
+        raise RuntimeError(f"Published daily report unexpectedly remains at the Wiki root: {title}")
 
-    daily_titles = [title for title in relevant_titles if DAILY_REPORT_TITLE_RE.fullmatch(title)]
-    expected = [pinned_title, *sorted(daily_titles, reverse=True)]
-    if relevant_titles != expected:
-        return "根节点顺序不是“播客蒸馏室在前、日报按日期倒序”；请在飞书中手动调整"
-    return ""
+    hub_token = str(hub["node_token"])
+    matches = [
+        node
+        for node in list_wiki_nodes(token, parent_token=hub_token)
+        if str(node.get("title") or "") == title
+    ]
+    actual_tokens = [str(node.get("node_token") or "") for node in matches]
+    if actual_tokens != [expected_node_token]:
+        raise RuntimeError(
+            f"Daily report hierarchy verification failed for {title!r}: "
+            f"expected child token {expected_node_token!r}, found {actual_tokens!r}"
+        )
 
 
 def delete_wiki_node(token: str, node_token: str) -> bool:
@@ -527,7 +561,8 @@ def build_notify_summary_from_report(report: dict[str, Any]) -> str:
 
 
 def cleanup_old_daily_reports(token: str, current_title: str) -> int:
-    nodes = list_root_nodes(token)
+    hub = get_daily_hub_node(token)
+    nodes = list_wiki_nodes(token, parent_token=str(hub["node_token"]))
     deleted = 0
     for node in nodes:
         title = node.get("title", "")
@@ -592,22 +627,24 @@ def main() -> int:
             publish_document_id = node_token
             command = "overwrite"
         else:
-            document_id, node_token, created = get_or_create_root_wiki_doc(token, args.title)
+            document_id, node_token, hub_token, created = get_or_create_daily_wiki_doc(token, args.title)
             publish_document_id = node_token or document_id
             command = "overwrite"
             action = "Created" if created else "Reusing"
-            print(f"{action} root Wiki node for exact title: {args.title}")
+            print(f"{action} daily report child under hub {hub_token}: {args.title}")
         write_doc_via_openapi(token, publish_document_id, xml_content, command=command)
         if args.cleanup_old:
             deleted = cleanup_old_daily_reports(token, args.title)
             print(f"Cleaned up {deleted} old report node(s)")
         url = f"https://my.feishu.cn/wiki/{node_token}" if node_token else ""
         summary = build_notify_summary_from_report(report) if report else build_notify_summary(source_text)
-        if DAILY_REPORT_TITLE_RE.fullmatch(args.title):
-            order_warning = verify_root_daily_order(token)
-            if order_warning:
-                print(f"Wiki order warning: {order_warning}", file=sys.stderr)
-                summary = f"⚠️ {order_warning}\n\n{summary}"
+        if (
+            DAILY_REPORT_TITLE_RE.fullmatch(args.title)
+            and node_token
+            and not (args.doc_token or args.wiki_url or args.wiki_node_token)
+        ):
+            verify_daily_report_child(token, args.title, str(node_token))
+            print(f"Verified daily report as a direct child of the Wiki hub: {node_token}")
         notify(args.title, url, summary)
         print(f"Published to Feishu Wiki: document={document_id} node={node_token}")
         return 0

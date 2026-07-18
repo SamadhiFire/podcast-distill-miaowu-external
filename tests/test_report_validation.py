@@ -32,10 +32,11 @@ from scripts.report_contract import (
 from scripts.publish_feishu import (
     FEISHU_API,
     create_wiki_doc,
-    get_or_create_root_wiki_doc,
+    get_daily_hub_node,
+    get_or_create_daily_wiki_doc,
     list_wiki_nodes,
     update_wiki_node_title,
-    verify_root_daily_order,
+    verify_daily_report_child,
 )
 from scripts.validate_transcript_bundle import (
     has_required_transcript_items,
@@ -349,20 +350,23 @@ class ReportValidationTests(unittest.TestCase):
         self.assertEqual(post.call_args.kwargs["json"], {"title": "日报"})
 
     @patch("scripts.publish_feishu.requests.post")
-    def test_new_report_is_created_at_wiki_root(self, post) -> None:
+    def test_new_report_is_created_under_requested_parent(self, post) -> None:
         post.return_value.json.return_value = {
             "code": 0,
             "data": {"node": {"obj_token": "doc-1", "node_token": "new-node"}},
         }
         with patch.dict(os.environ, {"FEISHU_WIKI_SPACE_ID": "space-1"}, clear=False):
-            self.assertEqual(create_wiki_doc("tenant-token", "new-report"), ("doc-1", "new-node"))
+            self.assertEqual(
+                create_wiki_doc("tenant-token", "new-report", parent_node_token="hub"),
+                ("doc-1", "new-node"),
+            )
 
         post.assert_called_once()
         self.assertEqual(
             post.call_args.args[0],
             f"{FEISHU_API}/wiki/v2/spaces/space-1/nodes",
         )
-        self.assertNotIn("parent_node_token", post.call_args.kwargs["json"])
+        self.assertEqual(post.call_args.kwargs["json"]["parent_node_token"], "hub")
         self.assertNotIn("/move", post.call_args.args[0])
 
     @patch("scripts.publish_feishu.requests.get")
@@ -399,44 +403,73 @@ class ReportValidationTests(unittest.TestCase):
         self.assertNotIn("/move", source)
         self.assertNotIn("move_wiki_node", source)
 
-    def test_existing_exact_title_root_node_is_reused(self) -> None:
+    def test_unique_root_hub_is_resolved(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        self.assertEqual(get_daily_hub_node("tenant-token", root_nodes=[hub]), hub)
+
+        with self.assertRaisesRegex(RuntimeError, "exactly one root Wiki hub"):
+            get_daily_hub_node("tenant-token", root_nodes=[])
+
+    def test_existing_exact_title_child_node_is_reused(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
         report = {"node_token": "jul-15", "title": "2026-07-15 播客与视频更新日报"}
-        with patch("scripts.publish_feishu.list_root_nodes", return_value=[report]), patch(
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
+            "scripts.publish_feishu.list_wiki_nodes", return_value=[report]
+        ), patch(
             "scripts.publish_feishu.get_wiki_doc_token", return_value=("doc-15", "jul-15")
         ) as resolve, patch("scripts.publish_feishu.create_wiki_doc") as create:
-            result = get_or_create_root_wiki_doc("tenant-token", report["title"])
+            result = get_or_create_daily_wiki_doc("tenant-token", report["title"])
 
-        self.assertEqual(result, ("doc-15", "jul-15", False))
+        self.assertEqual(result, ("doc-15", "jul-15", "hub", False))
         resolve.assert_called_once_with("tenant-token", "jul-15")
         create.assert_not_called()
 
-    def test_duplicate_exact_title_root_nodes_fail_without_writes(self) -> None:
-        title = "2026-07-15 播客与视频更新日报"
-        duplicates = [
-            {"node_token": "one", "title": title},
-            {"node_token": "two", "title": title},
-        ]
-        with patch("scripts.publish_feishu.list_root_nodes", return_value=duplicates), patch(
-            "scripts.publish_feishu.get_wiki_doc_token"
-        ) as resolve, patch("scripts.publish_feishu.create_wiki_doc") as create:
-            with self.assertRaisesRegex(RuntimeError, "Multiple root Wiki nodes"):
-                get_or_create_root_wiki_doc("tenant-token", title)
+    def test_new_daily_report_is_created_as_hub_child(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
+            "scripts.publish_feishu.list_wiki_nodes", return_value=[]
+        ), patch(
+            "scripts.publish_feishu.create_wiki_doc", return_value=("doc-new", "node-new")
+        ) as create:
+            result = get_or_create_daily_wiki_doc(
+                "tenant-token", "2026-07-19 播客与视频更新日报"
+            )
 
-        resolve.assert_not_called()
+        self.assertEqual(result, ("doc-new", "node-new", "hub", True))
+        create.assert_called_once_with(
+            "tenant-token",
+            "2026-07-19 播客与视频更新日报",
+            parent_node_token="hub",
+        )
+
+    def test_unmigrated_root_report_blocks_duplicate_creation(self) -> None:
+        title = "2026-07-15 播客与视频更新日报"
+        roots = [
+            {"node_token": "hub", "title": "🎧 播客蒸馏室"},
+            {"node_token": "old-root", "title": title},
+        ]
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=roots), patch(
+            "scripts.publish_feishu.list_wiki_nodes"
+        ) as list_children, patch("scripts.publish_feishu.create_wiki_doc") as create:
+            with self.assertRaisesRegex(RuntimeError, "one-time hub migration"):
+                get_or_create_daily_wiki_doc("tenant-token", title)
+
+        list_children.assert_not_called()
         create.assert_not_called()
 
-    def test_root_daily_order_verification_is_read_only(self) -> None:
+    def test_daily_report_child_verification_is_read_only(self) -> None:
         hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
-        july_14 = {"node_token": "jul-14", "title": "2026-07-14 播客与视频更新日报"}
         july_15 = {"node_token": "jul-15", "title": "2026-07-15 播客与视频更新日报"}
-        other = {"node_token": "other", "title": "其他根节点"}
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
+            "scripts.publish_feishu.list_wiki_nodes", return_value=[july_15]
+        ):
+            verify_daily_report_child("tenant-token", july_15["title"], "jul-15")
 
-        with patch("scripts.publish_feishu.list_root_nodes", return_value=[other, hub, july_15, july_14]):
-            self.assertEqual(verify_root_daily_order("tenant-token"), "")
-
-        with patch("scripts.publish_feishu.list_root_nodes", return_value=[july_14, hub, july_15]):
-            warning = verify_root_daily_order("tenant-token")
-        self.assertIn("手动调整", warning)
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
+            "scripts.publish_feishu.list_wiki_nodes", return_value=[]
+        ):
+            with self.assertRaisesRegex(RuntimeError, "hierarchy verification failed"):
+                verify_daily_report_child("tenant-token", july_15["title"], "jul-15")
 
     def test_legacy_markdown_enrichment_never_crosses_item_boundaries(self) -> None:
         report = {

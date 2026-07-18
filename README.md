@@ -37,6 +37,15 @@ extract_subtitles.py                   YouTube 字幕提取入口
 - 飞书知识库：https://my.feishu.cn/wiki/space/7655607441056337129?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home
 - 飞书知识问答：https://ask.feishu.cn/shared-space/7655607441056337129
 
+知识库采用固定的两层结构：
+
+```text
+🎧 播客蒸馏室
+└── YYYY-MM-DD 播客与视频更新日报
+```
+
+`🎧 播客蒸馏室` 是唯一一级入口。发布脚本按完整标题复用或创建它的直接子节点；同一天重跑只覆盖原日报，不会创建重复节点，也不会为了排序移动历史日报。蒸馏室页面中的原生子页面列表可按名称降序显示，日期前缀会自然形成最新日期在前的归档视图。
+
 扫码也可以直接查看知识库：
 
 ![半脑互搏飞书知识库二维码](docs/assets/feishu-knowledge-base-qr.png)
@@ -73,6 +82,8 @@ FEISHU_APP_SECRET
 FEISHU_WIKI_SPACE_ID
 FEISHU_NOTIFY_WEBHOOK
 ```
+
+飞书发布不需要浏览器 Cookie、Playwright 登录状态或额外的 UI Secret。
 
 不要把任何 token、AccessKey、飞书 secret 写进仓库文件。
 

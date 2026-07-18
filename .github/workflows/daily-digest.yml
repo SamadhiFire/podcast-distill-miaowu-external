@@ -197,6 +197,7 @@ jobs:
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_WIKI_SPACE_ID: ${{ secrets.FEISHU_WIKI_SPACE_ID }}
           FEISHU_NOTIFY_WEBHOOK: ${{ secrets.FEISHU_NOTIFY_WEBHOOK }}
+          FEISHU_PINNED_WIKI_TITLE: "🎧 播客蒸馏室"
           FEISHU_WIKI_URL: ${{ github.event.inputs.feishu_wiki_url }}
         shell: bash
         run: |
