@@ -1489,18 +1489,36 @@ def summarize_item_contract(
     return digest
 
 
+def filter_report_items(items: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], int, int]:
+    unavailable_count = sum(
+        1
+        for item in items
+        if str(item.get("transcript_status") or "").lower() == "skipped_unavailable"
+    )
+    available_items = [
+        item
+        for item in items
+        if str(item.get("transcript_status") or "").lower() != "skipped_unavailable"
+    ]
+    reportable_items = [
+        item
+        for item in available_items
+        if (item.get("duration") or item.get("duration_seconds") or 0) >= 300
+    ]
+    return reportable_items, unavailable_count, len(available_items) - len(reportable_items)
+
+
 def main() -> int:
     args = parse_args()
     if args.llm_policy == "required" and not llm_configured():
         print("LLM is required but LLM_BASE_URL and LLM_MODEL are not configured")
         return 2
     items = json.loads(Path(args.items_json).read_text(encoding="utf-8-sig"))
-    # Filter out short clips (duration < 5 minutes = 300 seconds)
-    original_count = len(items)
-    items = [it for it in items if (it.get("duration") or it.get("duration_seconds") or 0) >= 300]
-    skipped = original_count - len(items)
-    if skipped:
-        print(f"Skipped {skipped} short clip(s) (duration < 5min)")
+    items, unavailable_count, short_count = filter_report_items(items)
+    if unavailable_count:
+        print(f"Skipped {unavailable_count} item(s) with explicitly unavailable transcripts")
+    if short_count:
+        print(f"Skipped {short_count} short clip(s) (duration < 5min)")
     transcript_index = load_transcript_index(Path(args.subtitles_dir))
 
     evidence_dir = Path(args.evidence_dir) if args.evidence_dir else None

@@ -5,6 +5,7 @@ from scripts.tingwu_xiaoyuzhou_daily import (
     probe_audio_size,
     public_item,
     restricted_episode_reason,
+    transcript_coverage_policy,
     validate_public_audio,
 )
 
@@ -46,6 +47,17 @@ class TingwuXiaoyuzhouTests(unittest.TestCase):
         }
         with self.assertRaisesRegex(RuntimeError, "unexpectedly small"):
             validate_public_audio(item)
+
+    def test_small_trailing_asr_gap_is_tolerated(self) -> None:
+        coverage, tolerated = transcript_coverage_policy(2289.7, 2147.38, 0.95, 180)
+
+        self.assertAlmostEqual(coverage, 0.9378433855963665)
+        self.assertTrue(tolerated)
+
+    def test_large_or_low_coverage_gap_is_rejected(self) -> None:
+        self.assertFalse(transcript_coverage_policy(2289.7, 2000, 0.95, 180)[1])
+        self.assertFalse(transcript_coverage_policy(300, 120, 0.95, 180)[1])
+        self.assertFalse(transcript_coverage_policy(200, 185, 0.95, 180)[1])
 
 
 if __name__ == "__main__":

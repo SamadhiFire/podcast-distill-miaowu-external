@@ -1,3 +1,4 @@
+import hashlib
 import json
 import os
 import tempfile
@@ -11,6 +12,7 @@ from scripts.generate_daily_report import (
     DirectFileIdContractError,
     deterministic_item_failure_digest,
     evidence_fallback_enabled,
+    filter_report_items,
     generate_report_themes,
     is_context_length_error,
     load_digest_cache,
@@ -111,6 +113,83 @@ class ReportValidationTests(unittest.TestCase):
             self.assertTrue(any("zip does not contain subtitles/ root" in failure for failure in failures))
             self.assertTrue(any("no per-item transcript metadata found" in failure for failure in failures))
             self.assertTrue(any("missing transcript metadata" in failure for failure in failures))
+
+    def test_explicitly_unavailable_long_item_does_not_require_transcript(self) -> None:
+        items = [
+            {
+                "platform": "youtube",
+                "url": "https://www.youtube.com/watch?v=abc12345678",
+                "duration": 2856,
+                "transcript_status": "skipped_unavailable",
+            }
+        ]
+        failures: list[str] = []
+
+        self.assertFalse(has_required_transcript_items(items, 300))
+        item_count, required_count = validate_items(items, {}, 0.95, 300, [], failures)
+
+        self.assertEqual((item_count, required_count), (1, 0))
+        self.assertEqual(failures, [])
+
+    def test_report_generation_filters_unavailable_items_before_transcript_check(self) -> None:
+        items = [
+            {
+                "url": "https://www.youtube.com/watch?v=unavailable",
+                "duration": 2856,
+                "transcript_status": "skipped_unavailable",
+            },
+            {"url": "https://www.youtube.com/watch?v=short", "duration": 120},
+            {"url": "https://www.youtube.com/watch?v=ready", "duration": 600},
+        ]
+
+        reportable, unavailable_count, short_count = filter_report_items(items)
+
+        self.assertEqual([item["url"] for item in reportable], ["https://www.youtube.com/watch?v=ready"])
+        self.assertEqual(unavailable_count, 1)
+        self.assertEqual(short_count, 1)
+
+    def test_validator_accepts_marked_asr_trailing_gap(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            subtitles_dir = Path(tmp)
+            text = "完整转写。\n"
+            text_path = subtitles_dir / "episode.txt"
+            text_path.write_text(text, encoding="utf-8", newline="\n")
+            (subtitles_dir / "episode.vtt").write_text(
+                "WEBVTT\n\n00:00:00.000 --> 00:35:47.380\n完整转写。\n",
+                encoding="utf-8",
+                newline="\n",
+            )
+            metadata = {
+                "url": "https://www.xiaoyuzhoufm.com/episode/test",
+                "text": "episode.txt",
+                "subtitle_vtt": "episode.vtt",
+                "text_chars": len(text),
+                "sha256": hashlib.sha256(text.encode("utf-8")).hexdigest(),
+                "duration_seconds": 2289.7,
+                "last_timestamp_seconds": 2147.38,
+                "coverage_ratio": 2147.38 / 2289.7,
+                "coverage_policy": "trailing_gap_tolerated",
+                "source_method": "asr",
+            }
+            (subtitles_dir / "episode.json").write_text(
+                json.dumps(metadata, ensure_ascii=False),
+                encoding="utf-8",
+            )
+            failures: list[str] = []
+            warnings: list[str] = []
+
+            index = validate_transcript_meta(
+                subtitles_dir,
+                0.95,
+                300,
+                failures,
+                warnings,
+                max_trailing_gap_seconds=180,
+            )
+
+            self.assertEqual(failures, [])
+            self.assertTrue(index["https://www.xiaoyuzhoufm.com/episode/test"]["coverage_ok"])
+            self.assertTrue(any("accepted ASR trailing gap" in warning for warning in warnings))
 
     def test_empty_report_has_no_update_placeholders(self) -> None:
         report = build_report("2026-07-06", [])

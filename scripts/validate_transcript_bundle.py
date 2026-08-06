@@ -15,6 +15,8 @@ import zipfile
 
 
 ALLOWED_TRANSCRIPT_SOURCES = {"official_caption", "auto_caption", "asr"}
+MIN_TRAILING_GAP_COVERAGE = 0.90
+SKIPPED_UNAVAILABLE_STATUS = "skipped_unavailable"
 
 
 def parse_args() -> argparse.Namespace:
@@ -25,6 +27,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--bundle-zip")
     parser.add_argument("--min-coverage", type=float, default=0.95)
     parser.add_argument("--min-duration-seconds", type=float, default=300)
+    parser.add_argument("--max-trailing-gap-seconds", type=float, default=180)
     parser.add_argument("--expected-url", action="append", default=[])
     parser.add_argument("--output-json")
     return parser.parse_args()
@@ -75,6 +78,8 @@ def duration_of(item: dict[str, Any]) -> float | None:
 
 def item_requires_transcript(item: Any, min_duration_seconds: float) -> bool:
     if not isinstance(item, dict):
+        return False
+    if str(item.get("transcript_status") or "").lower() == SKIPPED_UNAVAILABLE_STATUS:
         return False
     duration = duration_of(item)
     return duration is not None and duration >= min_duration_seconds
@@ -176,6 +181,7 @@ def validate_transcript_meta(
     failures: list[str],
     warnings: list[str],
     require_metadata: bool = True,
+    max_trailing_gap_seconds: float = 180,
 ) -> dict[str, dict[str, Any]]:
     index: dict[str, dict[str, Any]] = {}
     meta_paths = sorted(subtitles_dir.glob("*.json"))
@@ -228,13 +234,34 @@ def validate_transcript_meta(
                 failures.append(f"{context}: text_chars={int(text_chars)} but decoded text length={len(text)}")
 
         duration = parse_number(meta.get("duration_seconds"), "duration_seconds", failures, context)
-        parse_number(meta.get("last_timestamp_seconds"), "last_timestamp_seconds", failures, context)
+        last_timestamp = parse_number(
+            meta.get("last_timestamp_seconds"),
+            "last_timestamp_seconds",
+            failures,
+            context,
+        )
         coverage = parse_number(meta.get("coverage_ratio"), "coverage_ratio", failures, context)
+        method = transcript_method(meta)
+        coverage_ok = coverage is not None and coverage >= min_coverage
         if duration is not None and coverage is not None and duration >= min_duration_seconds:
             if coverage < min_coverage:
-                failures.append(f"{context}: coverage_ratio {coverage:.4f} < {min_coverage:.4f}")
+                trailing_gap = (
+                    max(duration - last_timestamp, 0.0) if last_timestamp is not None else float("inf")
+                )
+                coverage_ok = (
+                    method == "asr"
+                    and meta.get("coverage_policy") == "trailing_gap_tolerated"
+                    and coverage >= MIN_TRAILING_GAP_COVERAGE
+                    and trailing_gap <= max(max_trailing_gap_seconds, 0.0)
+                )
+                if coverage_ok:
+                    warnings.append(
+                        f"{context}: accepted ASR trailing gap {trailing_gap:.2f}s "
+                        f"with coverage_ratio {coverage:.4f}"
+                    )
+                else:
+                    failures.append(f"{context}: coverage_ratio {coverage:.4f} < {min_coverage:.4f}")
 
-        method = transcript_method(meta)
         if method not in ALLOWED_TRANSCRIPT_SOURCES:
             failures.append(
                 f"{context}: source/source_method must be one of "
@@ -247,7 +274,13 @@ def validate_transcript_meta(
         normalized = normalize_url(url)
         if normalized in index:
             warnings.append(f"duplicate transcript metadata for {normalized}")
-        index[normalized] = {"meta": meta, "path": str(meta_path), "coverage": coverage, "duration": duration}
+        index[normalized] = {
+            "meta": meta,
+            "path": str(meta_path),
+            "coverage": coverage,
+            "coverage_ok": coverage_ok,
+            "duration": duration,
+        }
     return index
 
 
@@ -288,6 +321,8 @@ def validate_items(
             continue
         if duration < min_duration_seconds:
             continue
+        if str(item.get("transcript_status") or "").lower() == SKIPPED_UNAVAILABLE_STATUS:
+            continue
         required_count += 1
         normalized = normalize_url(url)
         transcript = transcript_index.get(normalized)
@@ -295,7 +330,8 @@ def validate_items(
             failures.append(f"{context}: missing transcript metadata for required item: {url}")
             continue
         coverage = transcript.get("coverage")
-        if coverage is None or float(coverage) < min_coverage:
+        coverage_ok = transcript.get("coverage_ok")
+        if coverage_ok is False or (coverage_ok is None and (coverage is None or float(coverage) < min_coverage)):
             failures.append(f"{context}: transcript coverage below threshold for {url}")
     return len(items), required_count
 
@@ -326,6 +362,7 @@ def main() -> int:
             failures,
             warnings,
             require_metadata=requires_transcripts,
+            max_trailing_gap_seconds=args.max_trailing_gap_seconds,
         )
     if not requires_transcripts:
         warnings.append("no daily items require transcripts; empty subtitle artifacts are allowed")
@@ -345,6 +382,7 @@ def main() -> int:
         "transcript_metadata_count": len(transcript_index),
         "min_coverage": args.min_coverage,
         "min_duration_seconds": args.min_duration_seconds,
+        "max_trailing_gap_seconds": args.max_trailing_gap_seconds,
         "failures": failures,
         "warnings": warnings,
     }

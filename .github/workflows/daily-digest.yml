@@ -106,6 +106,7 @@ jobs:
             --bundle-path "$BUNDLE_PATH" \
             --status-json "$TINGWU_STATUS_PATH" \
             --subtitles-dir subtitles \
+            --max-trailing-gap-seconds 180 \
             --poll-interval 20 \
             --timeout-seconds 18000
 
@@ -143,6 +144,7 @@ jobs:
             --bundle-zip "$BUNDLE_PATH" \
             --min-coverage 0.95 \
             --min-duration-seconds 300 \
+            --max-trailing-gap-seconds 180 \
             --output-json "$VALIDATION_PATH" \
             "${EXTRA_ARGS[@]}"
 

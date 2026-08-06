@@ -28,6 +28,32 @@ DEFAULT_API_BASE = "https://gnevobefaowwiwwtfowj.supabase.co/functions/v1"
 TZ_SHANGHAI = timezone(timedelta(hours=8))
 BASE_DIR = Path(__file__).resolve().parents[1]
 REPORTS_DIR = BASE_DIR / "reports"
+SKIPPED_UNAVAILABLE_STATUS = "skipped_unavailable"
+UNAVAILABLE_TRANSCRIPT_MARKERS = (
+    "no captions available",
+    "captions unavailable",
+    "transcript unavailable",
+    "subtitles unavailable",
+    "video unavailable",
+    "private video",
+    "members-only",
+    "age-restricted",
+)
+TRANSIENT_TRANSCRIPT_ERROR_MARKERS = (
+    "timeout",
+    "timed out",
+    "network",
+    "connection",
+    "rate limit",
+    "too many requests",
+    "internal server error",
+    "upstream",
+    "http 429",
+    "http 500",
+    "http 502",
+    "http 503",
+    "http 504",
+)
 
 
 class ExternalServiceError(RuntimeError):
@@ -483,6 +509,22 @@ def first_text(records: list[dict[str, Any]], keys: tuple[str, ...]) -> str:
     return ""
 
 
+def unavailable_transcript_reason(*records: dict[str, Any]) -> str:
+    """Return an explicit provider reason that makes a transcript unavailable."""
+    fields = ("error", "error_message", "message", "transcript_error", "title")
+    for record in records:
+        for field in fields:
+            value = record.get(field)
+            if not isinstance(value, str) or not value.strip():
+                continue
+            normalized = value.strip().lower()
+            if any(marker in normalized for marker in TRANSIENT_TRANSCRIPT_ERROR_MARKERS):
+                continue
+            if any(marker in normalized for marker in UNAVAILABLE_TRANSCRIPT_MARKERS):
+                return value.strip()
+    return ""
+
+
 def normalize_youtube_item(item: dict[str, Any], record: dict[str, Any], report_date: str) -> dict[str, Any]:
     url = str(
         item.get("url")
@@ -670,6 +712,15 @@ def merge_manifest(
         existing_errors = [existing_errors]
     all_errors = [*existing_errors, *errors]
     existing_sources = existing_manifest.get("sources_summary") or []
+    youtube_skipped = [
+        item for item in items
+        if isinstance(item, dict)
+        and str(item.get("platform") or "").lower() == "youtube"
+        and str(item.get("transcript_status") or "").lower() == SKIPPED_UNAVAILABLE_STATUS
+    ]
+    existing_skipped_items = existing_manifest.get("skipped_items") or []
+    if not isinstance(existing_skipped_items, list):
+        existing_skipped_items = [existing_skipped_items]
     return {
         "status": "failed" if all_errors else "success",
         "date": report_date,
@@ -680,11 +731,22 @@ def merge_manifest(
         "item_count": len(items),
         "discovered_item_count": existing_manifest.get("discovered_item_count", len(items)),
         "success_count": sum(1 for item in items if item.get("transcript_status") == "success"),
-        "skipped_count": existing_manifest.get("skipped_count", 0),
+        "skipped_count": existing_manifest.get("skipped_count", 0) + len(youtube_skipped),
         "failure_count": len(all_errors),
         "counts_by_platform": platform_counts(items),
         "sources_summary": existing_sources,
-        "skipped_items": existing_manifest.get("skipped_items") or [],
+        "skipped_items": [
+            *existing_skipped_items,
+            *[
+                {
+                    "url": item.get("url"),
+                    "title": item.get("title"),
+                    "status": SKIPPED_UNAVAILABLE_STATUS,
+                    "reason": item.get("transcript_skip_reason"),
+                }
+                for item in youtube_skipped
+            ],
+        ],
         "transcript_results": [
             *(existing_manifest.get("transcript_results") or []),
             *transcript_results,
@@ -839,6 +901,22 @@ def main() -> int:
                         "duration_seconds": duration,
                     }
                 )
+            elif reason := unavailable_transcript_reason(raw_item, record):
+                item["transcript_status"] = SKIPPED_UNAVAILABLE_STATUS
+                item["transcript_skip_reason"] = reason
+                transcript_results.append(
+                    {
+                        "url": item.get("url"),
+                        "status": SKIPPED_UNAVAILABLE_STATUS,
+                        "duration_seconds": duration,
+                        "reason": reason,
+                    }
+                )
+                print(
+                    f"Skipping unavailable YouTube transcript: {item.get('url') or item.get('title')} "
+                    f"({reason})",
+                    flush=True,
+                )
             else:
                 item["transcript_status"] = "failed"
                 message = f"transcript missing from external bundle for {item.get('url') or item.get('title')}"
@@ -897,6 +975,8 @@ def main() -> int:
     print(f"Wrote {manifest_path}")
     print(f"Wrote {bundle_path}")
     if errors:
+        for error in errors:
+            print(f"ERROR: {error.get('error_message') or error}", flush=True)
         return 1
     return 0
 

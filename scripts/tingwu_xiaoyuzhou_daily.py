@@ -41,6 +41,7 @@ REPORTS_DIR = BASE_DIR / "reports"
 TZ_SHANGHAI = timezone(timedelta(hours=8))
 TINGWU_DOMAIN = "tingwu.cn-beijing.aliyuncs.com"
 TINGWU_VERSION = "2023-09-30"
+MIN_TRAILING_GAP_COVERAGE = 0.90
 
 HEADERS = {
     "User-Agent": (
@@ -74,6 +75,15 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--timeout-seconds", type=int, default=3 * 60 * 60)
     parser.add_argument("--force", action="store_true", help="Ignore cached transcript outputs.")
     parser.add_argument("--min-coverage", type=float, default=0.95)
+    parser.add_argument(
+        "--max-trailing-gap-seconds",
+        type=float,
+        default=180,
+        help=(
+            "Allow an ASR transcript below --min-coverage when it still covers at least "
+            f"{MIN_TRAILING_GAP_COVERAGE:.0%} and only this many trailing seconds are missing."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -489,11 +499,30 @@ def max_number(a: Any, b: Any) -> Any:
     return max(values)
 
 
+def transcript_coverage_policy(
+    duration_seconds: float,
+    last_timestamp_seconds: float,
+    min_coverage: float,
+    max_trailing_gap_seconds: float,
+) -> tuple[float, bool]:
+    """Return the measured coverage and whether a small trailing gap is tolerated."""
+    coverage_ratio = min(last_timestamp_seconds / duration_seconds, 1.0) if duration_seconds else 0.0
+    trailing_gap_seconds = max(duration_seconds - last_timestamp_seconds, 0.0)
+    trailing_gap_tolerated = (
+        duration_seconds >= 300
+        and coverage_ratio < min_coverage
+        and coverage_ratio >= MIN_TRAILING_GAP_COVERAGE
+        and trailing_gap_seconds <= max(max_trailing_gap_seconds, 0.0)
+    )
+    return coverage_ratio, trailing_gap_tolerated
+
+
 def write_transcript_files(
     item: dict[str, Any],
     transcription_json: dict[str, Any],
     subtitles_dir: Path,
     min_coverage: float,
+    max_trailing_gap_seconds: float,
 ) -> dict[str, Any]:
     segments, audio_duration_seconds = extract_segments(transcription_json)
     if not segments:
@@ -536,7 +565,13 @@ def write_transcript_files(
     if audio_duration_seconds > duration_seconds:
         duration_seconds = audio_duration_seconds
     last_timestamp_seconds = max(segment["end"] for segment in segments)
-    coverage_ratio = min(last_timestamp_seconds / duration_seconds, 1.0) if duration_seconds else 0.0
+    coverage_ratio, trailing_gap_tolerated = transcript_coverage_policy(
+        duration_seconds,
+        last_timestamp_seconds,
+        min_coverage,
+        max_trailing_gap_seconds,
+    )
+    trailing_gap_seconds = max(duration_seconds - last_timestamp_seconds, 0.0)
     meta = {
         "platform": "xiaoyuzhou",
         "episode_id": episode_id,
@@ -553,15 +588,24 @@ def write_transcript_files(
         "duration_seconds": duration_seconds,
         "last_timestamp_seconds": last_timestamp_seconds,
         "coverage_ratio": coverage_ratio,
+        "coverage_policy": "trailing_gap_tolerated" if trailing_gap_tolerated else "ratio",
+        "trailing_gap_seconds": trailing_gap_seconds,
         "source": "asr",
         "source_method": "asr",
         "asr_provider": "aliyun_tingwu",
         "language": "zh",
     }
     write_json(subtitles_dir / meta_name, meta)
-    if duration_seconds >= 300 and coverage_ratio < min_coverage:
+    if duration_seconds >= 300 and coverage_ratio < min_coverage and not trailing_gap_tolerated:
         raise RuntimeError(
             f"coverage_ratio {coverage_ratio:.4f} < {min_coverage:.4f} for {item['url']}"
+        )
+    if trailing_gap_tolerated:
+        print(
+            "  WARNING: accepted ASR trailing gap "
+            f"{trailing_gap_seconds:.2f}s with coverage_ratio {coverage_ratio:.4f} "
+            f"for {item['url']}",
+            flush=True,
         )
     return meta
 
@@ -645,7 +689,13 @@ def transcribe_item(
     if not result_url:
         raise RuntimeError(f"Tingwu task completed without Transcription result URL: {task_id}")
     transcription_json = download_json(result_url)
-    meta = write_transcript_files(enriched, transcription_json, subtitles_dir, args.min_coverage)
+    meta = write_transcript_files(
+        enriched,
+        transcription_json,
+        subtitles_dir,
+        args.min_coverage,
+        args.max_trailing_gap_seconds,
+    )
     save_to_cache(cache_dir, subtitles_dir, episode_id)
     return {**enriched, "transcript_status": "success", "transcript_meta": meta}, {
         "url": enriched["url"],

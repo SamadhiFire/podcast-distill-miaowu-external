@@ -65,10 +65,14 @@ Before summarization, build a transcript profile:
 
 Reject or downgrade reports when:
 
-- `duration >= 300` and coverage is below `0.95`
+- `duration >= 300` and coverage is below `0.95`, except ASR transcripts with at least
+  `0.90` coverage and no more than 180 seconds of trailing audio after the last speech segment
 - transcript text is empty
 - transcript is mostly boilerplate
 - only description is available
+
+An explicit provider response that captions or the video are unavailable is recorded as a skipped
+item. Authentication, transport, rate-limit, timeout, and upstream service errors remain fatal.
 
 ### 2. Chapter Or Topic Segmentation
 
