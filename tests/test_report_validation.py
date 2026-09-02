@@ -34,9 +34,11 @@ from scripts.report_contract import (
 from scripts.publish_feishu import (
     FEISHU_API,
     create_wiki_doc,
+    ensure_children_order_descending,
     get_daily_hub_node,
     get_or_create_daily_wiki_doc,
     list_wiki_nodes,
+    move_wiki_node,
     update_wiki_node_title,
     verify_daily_report_child,
 )
@@ -476,11 +478,20 @@ class ReportValidationTests(unittest.TestCase):
         self.assertNotIn("parent_node_token", get.call_args_list[0].kwargs["params"])
         self.assertEqual(get.call_args_list[1].kwargs["params"]["page_token"], "next-page")
 
-    def test_publisher_contains_no_wiki_move_endpoint(self) -> None:
-        publisher = Path(__file__).parents[1] / "scripts" / "publish_feishu.py"
-        source = publisher.read_text(encoding="utf-8")
-        self.assertNotIn("/move", source)
-        self.assertNotIn("move_wiki_node", source)
+    @patch("scripts.publish_feishu.requests.post")
+    def test_publisher_move_wiki_node_calls_official_endpoint(self, post) -> None:
+        post.return_value.json.return_value = {"code": 0, "msg": "success"}
+        with patch.dict(os.environ, {"FEISHU_WIKI_SPACE_ID": "space-1"}, clear=False):
+            move_wiki_node("tenant-token", "node-1", "target-parent")
+        post.assert_called_once()
+        self.assertEqual(
+            post.call_args.args[0],
+            f"{FEISHU_API}/wiki/v2/spaces/space-1/nodes/node-1/move",
+        )
+        self.assertEqual(
+            post.call_args.kwargs["json"],
+            {"target_parent_token": "target-parent", "target_space_id": "space-1"},
+        )
 
     def test_unique_root_hub_is_resolved(self) -> None:
         hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
@@ -491,22 +502,40 @@ class ReportValidationTests(unittest.TestCase):
 
     def test_existing_exact_title_child_node_is_reused(self) -> None:
         hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        month_node = {"node_token": "month-2026-07", "title": "2026-07"}
         report = {"node_token": "jul-15", "title": "2026-07-15 播客与视频更新日报"}
+
+        def mock_list_wiki_nodes(token, parent_token=None):
+            if parent_token == "hub":
+                return [month_node]
+            if parent_token == "month-2026-07":
+                return [report]
+            return []
+
         with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
-            "scripts.publish_feishu.list_wiki_nodes", return_value=[report]
+            "scripts.publish_feishu.list_wiki_nodes", side_effect=mock_list_wiki_nodes
         ), patch(
             "scripts.publish_feishu.get_wiki_doc_token", return_value=("doc-15", "jul-15")
         ) as resolve, patch("scripts.publish_feishu.create_wiki_doc") as create:
             result = get_or_create_daily_wiki_doc("tenant-token", report["title"])
 
-        self.assertEqual(result, ("doc-15", "jul-15", "hub", False))
+        self.assertEqual(result, ("doc-15", "jul-15", "month-2026-07", False))
         resolve.assert_called_once_with("tenant-token", "jul-15")
         create.assert_not_called()
 
-    def test_new_daily_report_is_created_as_hub_child(self) -> None:
+    def test_new_daily_report_is_created_under_month_folder(self) -> None:
         hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        month_node = {"node_token": "month-2026-07", "title": "2026-07"}
+
+        def mock_list_wiki_nodes(token, parent_token=None):
+            if parent_token == "hub":
+                return [month_node]
+            if parent_token == "month-2026-07":
+                return []
+            return []
+
         with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
-            "scripts.publish_feishu.list_wiki_nodes", return_value=[]
+            "scripts.publish_feishu.list_wiki_nodes", side_effect=mock_list_wiki_nodes
         ), patch(
             "scripts.publish_feishu.create_wiki_doc", return_value=("doc-new", "node-new")
         ) as create:
@@ -514,12 +543,47 @@ class ReportValidationTests(unittest.TestCase):
                 "tenant-token", "2026-07-19 播客与视频更新日报"
             )
 
-        self.assertEqual(result, ("doc-new", "node-new", "hub", True))
+        self.assertEqual(result, ("doc-new", "node-new", "month-2026-07", True))
         create.assert_called_once_with(
             "tenant-token",
             "2026-07-19 播客与视频更新日报",
-            parent_node_token="hub",
+            parent_node_token="month-2026-07",
         )
+
+    def test_new_month_folder_created_when_missing(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        created_calls = []
+
+        def mock_create_wiki_doc(token, title, parent_node_token=None):
+            created_calls.append((title, parent_node_token))
+            if title == "2026-10":
+                return ("doc-oct", "node-oct")
+            return ("doc-daily", "node-daily")
+
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
+            "scripts.publish_feishu.list_wiki_nodes", return_value=[]
+        ), patch(
+            "scripts.publish_feishu.create_wiki_doc", side_effect=mock_create_wiki_doc
+        ), patch("scripts.publish_feishu.write_doc_via_openapi"):
+            result = get_or_create_daily_wiki_doc(
+                "tenant-token", "2026-10-01 播客与视频更新日报"
+            )
+
+        self.assertEqual(result, ("doc-daily", "node-daily", "node-oct", True))
+        self.assertEqual(created_calls[0], ("2026-10", "hub"))
+        self.assertEqual(created_calls[1], ("2026-10-01 播客与视频更新日报", "node-oct"))
+
+    def test_ensure_children_order_descending(self) -> None:
+        nodes = [
+            {"node_token": "t-01", "title": "2026-09-01 播客与视频更新日报"},
+            {"node_token": "t-02", "title": "2026-09-02 播客与视频更新日报"},
+        ]
+        with patch("scripts.publish_feishu.list_wiki_nodes", return_value=nodes), patch(
+            "scripts.publish_feishu.move_wiki_node"
+        ) as move_mock:
+            ensure_children_order_descending("token", "parent-1")
+
+        move_mock.assert_called_once_with("token", "t-01", target_parent_token="parent-1")
 
     def test_unmigrated_root_report_blocks_duplicate_creation(self) -> None:
         title = "2026-07-15 播客与视频更新日报"
@@ -538,16 +602,25 @@ class ReportValidationTests(unittest.TestCase):
 
     def test_daily_report_child_verification_is_read_only(self) -> None:
         hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        month_node = {"node_token": "month-2026-07", "title": "2026-07"}
         july_15 = {"node_token": "jul-15", "title": "2026-07-15 播客与视频更新日报"}
+
+        def mock_list_wiki_nodes(token, parent_token=None):
+            if parent_token == "hub":
+                return [month_node]
+            if parent_token == "month-2026-07":
+                return [july_15]
+            return []
+
         with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
-            "scripts.publish_feishu.list_wiki_nodes", return_value=[july_15]
+            "scripts.publish_feishu.list_wiki_nodes", side_effect=mock_list_wiki_nodes
         ):
             verify_daily_report_child("tenant-token", july_15["title"], "jul-15")
 
         with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
             "scripts.publish_feishu.list_wiki_nodes", return_value=[]
         ):
-            with self.assertRaisesRegex(RuntimeError, "hierarchy verification failed"):
+            with self.assertRaisesRegex(RuntimeError, "Expected month folder"):
                 verify_daily_report_child("tenant-token", july_15["title"], "jul-15")
 
     def test_legacy_markdown_enrichment_never_crosses_item_boundaries(self) -> None:

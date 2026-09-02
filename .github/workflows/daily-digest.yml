@@ -235,3 +235,58 @@ jobs:
             reports/evidence/
             reports/digest_cache/
             reports/qwen_file_cache/
+      - name: Send failure notification to Feishu
+        if: failure()
+        env:
+          FEISHU_NOTIFY_WEBHOOK: ${{ secrets.FEISHU_NOTIFY_WEBHOOK }}
+          WORKFLOW_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          REPORT_DATE: ${{ steps.report_date.outputs.date }}
+        shell: python
+        run: |
+          import os, json, urllib.request
+
+          webhook = os.getenv("FEISHU_NOTIFY_WEBHOOK")
+          if not webhook:
+              print("FEISHU_NOTIFY_WEBHOOK is not set; skipping failure notification.")
+              exit(0)
+
+          date_str = os.getenv("REPORT_DATE") or "今日"
+          run_url = os.getenv("WORKFLOW_RUN_URL", "")
+
+          card = {
+              "msg_type": "interactive",
+              "card": {
+                  "header": {
+                      "title": {"tag": "plain_text", "content": f"⚠️ 播客蒸馏任务执行失败 ({date_str})"},
+                      "template": "red",
+                  },
+                  "elements": [
+                      {
+                          "tag": "markdown",
+                          "content": "**任务执行异常中止**\n今日播客转写、抓取或报告生成环节出现错误。\n请点击下方按钮前往 GitHub Actions 查看详细运行日志并排查。",
+                      },
+                      {
+                          "tag": "action",
+                          "actions": [
+                              {
+                                  "tag": "button",
+                                  "text": {"tag": "plain_text", "content": "查看 GitHub 失败日志"},
+                                  "url": run_url,
+                                  "type": "danger",
+                              }
+                          ],
+                      },
+                  ],
+              },
+          }
+
+          req = urllib.request.Request(
+              webhook,
+              data=json.dumps(card).encode("utf-8"),
+              headers={"Content-Type": "application/json"},
+          )
+          try:
+              with urllib.request.urlopen(req, timeout=30) as resp:
+                  print(f"Feishu failure notification sent (HTTP {resp.status}).")
+          except Exception as exc:
+              print(f"Failed to send Feishu failure notification: {exc}")

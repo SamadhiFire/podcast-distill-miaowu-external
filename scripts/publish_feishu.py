@@ -434,11 +434,90 @@ def get_daily_hub_node(token: str, *, root_nodes: list[dict[str, Any]] | None = 
     return hub
 
 
+MONTH_FOLDER_TITLE_RE = re.compile(r"^(\d{4}-\d{2})$")
+
+
+def move_wiki_node(token: str, node_token: str, target_parent_token: str) -> bool:
+    """Move a wiki node to target_parent_token (placed at end of target parent)."""
+    space_id = required_env("FEISHU_WIKI_SPACE_ID")
+    resp = requests.post(
+        f"{FEISHU_API}/wiki/v2/spaces/{space_id}/nodes/{node_token}/move",
+        headers=feishu_headers(token),
+        json={
+            "target_parent_token": target_parent_token,
+            "target_space_id": space_id,
+        },
+        timeout=30,
+    )
+    resp.raise_for_status()
+    data = resp.json()
+    if data.get("code") != 0:
+        raise RuntimeError(f"Feishu move wiki node error: {data}")
+    return True
+
+
+def ensure_children_order_descending(
+    token: str,
+    parent_token: str,
+    *,
+    filter_re: re.Pattern | None = None,
+) -> None:
+    """Ensure child nodes matching filter_re are sorted descending (newest on top)."""
+    children = list_wiki_nodes(token, parent_token=parent_token)
+    if filter_re:
+        matching = [c for c in children if filter_re.match(str(c.get("title") or ""))]
+    else:
+        matching = children
+    if len(matching) <= 1:
+        return
+
+    current_titles = [str(c.get("title") or "") for c in matching]
+    expected_titles = sorted(current_titles, reverse=True)
+    if current_titles == expected_titles:
+        return
+
+    title_to_token = {str(c.get("title") or ""): str(c.get("node_token") or "") for c in matching}
+    for title in expected_titles[1:]:
+        node_token = title_to_token.get(title)
+        if node_token:
+            move_wiki_node(token, node_token, target_parent_token=parent_token)
+            time.sleep(0.05)
+
+
+def get_or_create_month_wiki_node(
+    token: str,
+    hub_token: str,
+    month_str: str,
+) -> tuple[str, bool]:
+    """Resolve or create a YYYY-MM folder under the Wiki hub in descending order."""
+    hub_children = list_wiki_nodes(token, parent_token=hub_token)
+    matches = [n for n in hub_children if str(n.get("title") or "") == month_str]
+    if matches:
+        node_token = str(matches[0].get("node_token") or "")
+        if not node_token:
+            raise RuntimeError(f"Existing month Wiki node has no node_token: {matches[0]}")
+        return node_token, False
+
+    doc_id, node_token = create_wiki_doc(token, month_str, parent_node_token=hub_token)
+    month_token = str(node_token or doc_id)
+    month_xml = (
+        f"<title>{month_str} 播客与视频更新日报归档</title>"
+        f"<p>本目录归档 {month_str} 发布的播客与视频更新日报，按日期倒序排列。</p>"
+    )
+    try:
+        write_doc_via_openapi(token, month_token, month_xml, command="overwrite")
+    except Exception as exc:
+        print(f"Warning: could not write month folder description: {exc}", file=sys.stderr)
+
+    ensure_children_order_descending(token, hub_token, filter_re=MONTH_FOLDER_TITLE_RE)
+    return month_token, True
+
+
 def get_or_create_daily_wiki_doc(
     token: str,
     title: str,
 ) -> tuple[str, str | None, str, bool]:
-    """Reuse or create one exact-title daily report directly under the hub.
+    """Reuse or create one exact-title daily report under its month folder.
 
     A same-title root node is treated as an incomplete migration.  Refusing to
     create a duplicate keeps retries idempotent and prevents reports from
@@ -454,11 +533,19 @@ def get_or_create_daily_wiki_doc(
             "finish the one-time hub migration before publishing"
         )
 
-    child_nodes = list_wiki_nodes(token, parent_token=hub_token)
+    m = DAILY_REPORT_TITLE_RE.match(title)
+    if m:
+        report_date = m.group(1)
+        month_str = report_date[:7]
+        target_parent_token, _ = get_or_create_month_wiki_node(token, hub_token, month_str)
+    else:
+        target_parent_token = hub_token
+
+    child_nodes = list_wiki_nodes(token, parent_token=target_parent_token)
     matches = [node for node in child_nodes if str(node.get("title") or "") == title]
     if len(matches) > 1:
         raise RuntimeError(
-            f"Multiple child Wiki nodes under {hub.get('title')!r} have the exact title {title!r}; "
+            f"Multiple child Wiki nodes under parent have the exact title {title!r}; "
             "resolve the duplicates manually before publishing"
         )
     if matches:
@@ -466,14 +553,16 @@ def get_or_create_daily_wiki_doc(
         if not node_token:
             raise RuntimeError(f"Existing child Wiki node has no node_token: {matches[0]}")
         document_id, resolved_node_token = get_wiki_doc_token(token, node_token)
-        return document_id, resolved_node_token, hub_token, False
+        return document_id, resolved_node_token, target_parent_token, False
 
-    document_id, node_token = create_wiki_doc(token, title, parent_node_token=hub_token)
-    return document_id, node_token, hub_token, True
+    document_id, node_token = create_wiki_doc(token, title, parent_node_token=target_parent_token)
+    if node_token and m:
+        ensure_children_order_descending(token, target_parent_token, filter_re=DAILY_REPORT_TITLE_RE)
+    return document_id, node_token, target_parent_token, True
 
 
 def verify_daily_report_child(token: str, title: str, expected_node_token: str) -> None:
-    """Verify that the published report is a unique direct child of the hub."""
+    """Verify that the published report is a unique direct child of its month folder."""
     root_nodes = list_root_nodes(token)
     hub = get_daily_hub_node(token, root_nodes=root_nodes)
     root_matches = [node for node in root_nodes if str(node.get("title") or "") == title]
@@ -481,9 +570,20 @@ def verify_daily_report_child(token: str, title: str, expected_node_token: str) 
         raise RuntimeError(f"Published daily report unexpectedly remains at the Wiki root: {title}")
 
     hub_token = str(hub["node_token"])
+    m = DAILY_REPORT_TITLE_RE.match(title)
+    if m:
+        month_str = m.group(1)[:7]
+        hub_children = list_wiki_nodes(token, parent_token=hub_token)
+        month_matches = [n for n in hub_children if str(n.get("title") or "") == month_str]
+        if not month_matches:
+            raise RuntimeError(f"Expected month folder {month_str!r} under hub, but none found")
+        target_parent_token = str(month_matches[0].get("node_token") or "")
+    else:
+        target_parent_token = hub_token
+
     matches = [
         node
-        for node in list_wiki_nodes(token, parent_token=hub_token)
+        for node in list_wiki_nodes(token, parent_token=target_parent_token)
         if str(node.get("title") or "") == title
     ]
     actual_tokens = [str(node.get("node_token") or "") for node in matches]
@@ -627,11 +727,11 @@ def main() -> int:
             publish_document_id = node_token
             command = "overwrite"
         else:
-            document_id, node_token, hub_token, created = get_or_create_daily_wiki_doc(token, args.title)
+            document_id, node_token, parent_token, created = get_or_create_daily_wiki_doc(token, args.title)
             publish_document_id = node_token or document_id
             command = "overwrite"
             action = "Created" if created else "Reusing"
-            print(f"{action} daily report child under hub {hub_token}: {args.title}")
+            print(f"{action} daily report child under parent {parent_token}: {args.title}")
         write_doc_via_openapi(token, publish_document_id, xml_content, command=command)
         if args.cleanup_old:
             deleted = cleanup_old_daily_reports(token, args.title)
@@ -644,7 +744,7 @@ def main() -> int:
             and not (args.doc_token or args.wiki_url or args.wiki_node_token)
         ):
             verify_daily_report_child(token, args.title, str(node_token))
-            print(f"Verified daily report as a direct child of the Wiki hub: {node_token}")
+            print(f"Verified daily report as a child of its month folder under Wiki hub: {node_token}")
         notify(args.title, url, summary)
         print(f"Published to Feishu Wiki: document={document_id} node={node_token}")
         return 0
