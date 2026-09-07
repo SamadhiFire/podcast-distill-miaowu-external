@@ -16,6 +16,7 @@ cookies*.txt
 
 # Local runtime outputs
 .cache/
+.codex-tmp/
 .workbuddy/
 lark_backups/
 reports/
