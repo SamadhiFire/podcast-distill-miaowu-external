@@ -162,8 +162,8 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--fileid-cache-dir",
-        default="reports/qwen_file_cache",
-        help="cache DashScope qwen-long uploaded file ids by transcript hash",
+        default="",
+        help="optional cache for legacy qwen-long file-id uploads",
     )
     parser.add_argument("--output", required=True)
     parser.add_argument(

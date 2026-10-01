@@ -173,8 +173,8 @@ jobs:
           LLM_FILEID_DIRECT_ENABLED: "0"
           # Use segmented evidence only when full-context validation or context length fails.
           LLM_EVIDENCE_FALLBACK_ENABLED: "1"
-          # Known per-item provider rejections are published transparently; infrastructure failures still fail.
-          LLM_ITEM_FAILURE_POLICY: "placeholder"
+          # Do not publish a report with a missing item summary.
+          LLM_ITEM_FAILURE_POLICY: "fail"
           # Never publish a metadata-only digest as a successful required run.
           LLM_METADATA_FALLBACK_ENABLED: "0"
         run: |
