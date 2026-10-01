@@ -12,6 +12,7 @@ from datetime import datetime, timedelta, timezone
 from html import escape
 import math
 import re
+import unicodedata
 import xml.etree.ElementTree as ET
 from typing import Any
 
@@ -245,6 +246,9 @@ def _chinese_number_tokens(text: str) -> set[str]:
 
 
 def number_tokens(text: str) -> set[str]:
+    # Captions can use non-ASCII decimal digits (for example Bengali subtitles).
+    # Normalize them before comparing model claims with transcript evidence.
+    text = "".join(str(unicodedata.decimal(char)) if char.isdecimal() else char for char in text)
     values = set(re.findall(r"(?<![A-Za-z])\d+(?:[.,]\d+)?%?", text))
     values.update(value.replace(",", "") for value in list(values) if "," in value)
     values.update(_english_number_tokens(text))

@@ -435,6 +435,15 @@ def get_daily_hub_node(token: str, *, root_nodes: list[dict[str, Any]] | None = 
 
 
 MONTH_FOLDER_TITLE_RE = re.compile(r"^(\d{4}-\d{2})$")
+LEGACY_MONTH_FOLDER_SUFFIX = " 播客与视频更新日报归档"
+
+
+def month_folder_xml(month_str: str) -> str:
+    """Keep the document title identical to the Wiki folder title."""
+    return (
+        f"<title>{month_str}</title>"
+        f"<p>本目录归档 {month_str} 发布的播客与视频更新日报，按日期倒序排列。</p>"
+    )
 
 
 def move_wiki_node(token: str, node_token: str, target_parent_token: str) -> bool:
@@ -491,21 +500,27 @@ def get_or_create_month_wiki_node(
 ) -> tuple[str, bool]:
     """Resolve or create a YYYY-MM folder under the Wiki hub in descending order."""
     hub_children = list_wiki_nodes(token, parent_token=hub_token)
-    matches = [n for n in hub_children if str(n.get("title") or "") == month_str]
+    matches = [
+        n for n in hub_children
+        if str(n.get("title") or "") in {month_str, month_str + LEGACY_MONTH_FOLDER_SUFFIX}
+    ]
+    if len(matches) > 1:
+        raise RuntimeError(f"Multiple Wiki folders found for {month_str!r} under hub")
     if matches:
         node_token = str(matches[0].get("node_token") or "")
         if not node_token:
             raise RuntimeError(f"Existing month Wiki node has no node_token: {matches[0]}")
+        if str(matches[0].get("title") or "") != month_str:
+            # The old description XML changed the newly created Wiki node's title.
+            write_doc_via_openapi(token, node_token, month_folder_xml(month_str), command="overwrite")
+            update_wiki_node_title(token, node_token, month_str)
         return node_token, False
 
     doc_id, node_token = create_wiki_doc(token, month_str, parent_node_token=hub_token)
     month_token = str(node_token or doc_id)
-    month_xml = (
-        f"<title>{month_str} 播客与视频更新日报归档</title>"
-        f"<p>本目录归档 {month_str} 发布的播客与视频更新日报，按日期倒序排列。</p>"
-    )
     try:
-        write_doc_via_openapi(token, month_token, month_xml, command="overwrite")
+        write_doc_via_openapi(token, month_token, month_folder_xml(month_str), command="overwrite")
+        update_wiki_node_title(token, month_token, month_str)
     except Exception as exc:
         print(f"Warning: could not write month folder description: {exc}", file=sys.stderr)
 
@@ -573,10 +588,17 @@ def verify_daily_report_child(token: str, title: str, expected_node_token: str) 
     m = DAILY_REPORT_TITLE_RE.match(title)
     if m:
         month_str = m.group(1)[:7]
-        hub_children = list_wiki_nodes(token, parent_token=hub_token)
-        month_matches = [n for n in hub_children if str(n.get("title") or "") == month_str]
-        if not month_matches:
-            raise RuntimeError(f"Expected month folder {month_str!r} under hub, but none found")
+        for attempt in range(3):
+            hub_children = list_wiki_nodes(token, parent_token=hub_token)
+            month_matches = [n for n in hub_children if str(n.get("title") or "") == month_str]
+            if month_matches or attempt == 2:
+                break
+            time.sleep(1)
+        if len(month_matches) != 1:
+            raise RuntimeError(
+                f"Expected exactly one month folder titled {month_str!r} under hub; "
+                f"found {len(month_matches)}"
+            )
         target_parent_token = str(month_matches[0].get("node_token") or "")
     else:
         target_parent_token = hub_token
@@ -704,12 +726,11 @@ def main() -> int:
         report["title"] = args.title
     xml_content = report_to_feishu_xml(report) if report else markdown_to_feishu_xml(source_text)
     assert_no_encoding_damage(xml_content, "rendered Feishu XML")
-    if args.dry_run or not os.getenv("FEISHU_APP_ID"):
+    if args.dry_run:
         print(f"Dry run: would publish {source_path} as {args.title} ({len(xml_content)} XML chars)")
-        url = f"https://my.feishu.cn/wiki/DRY_RUN"
-        summary = "日报处于 dry-run 模式，飞书知识库未实际更新。"
-        notify(args.title, url, summary)
         return 0
+    if not os.getenv("FEISHU_APP_ID"):
+        raise RuntimeError("FEISHU_APP_ID is required for a real Feishu publish")
 
     try:
         token = get_tenant_access_token()
@@ -749,12 +770,9 @@ def main() -> int:
         print(f"Published to Feishu Wiki: document={document_id} node={node_token}")
         return 0
     except Exception as exc:
-        url = ""
-        summary = f"发布失败：{exc}"
-        try:
-            notify(args.title, url, summary)
-        except Exception as notify_exc:
-            print(f"Feishu failure notification also failed: {notify_exc}", file=sys.stderr)
+        # The workflow sends one failure card with the run log. A Wiki write may
+        # already have succeeded, so a second "publish failed" card is misleading.
+        print(f"Feishu publish or verification failed: {exc}", file=sys.stderr)
         raise
 
 

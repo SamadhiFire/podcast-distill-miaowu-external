@@ -18,6 +18,9 @@ from scripts.generate_daily_report import (
     load_digest_cache,
     metadata_fallback_enabled,
     report_theme_candidates,
+    build_inline_direct_digest_messages,
+    llm_chat,
+    should_use_direct_inline,
     should_use_direct_fileid,
     summarize_item_contract,
     validate_report_themes,
@@ -28,6 +31,7 @@ from scripts.report_contract import (
     build_report,
     enrich_report_from_legacy_markdown,
     normalize_digest,
+    number_tokens,
     report_to_feishu_xml,
     report_to_markdown,
 )
@@ -38,10 +42,12 @@ from scripts.publish_feishu import (
     get_daily_hub_node,
     get_or_create_daily_wiki_doc,
     list_wiki_nodes,
+    month_folder_xml,
     move_wiki_node,
     update_wiki_node_title,
     verify_daily_report_child,
 )
+from scripts.publish_feishu import main as publish_feishu_main
 from scripts.validate_transcript_bundle import (
     has_required_transcript_items,
     validate_bundle_zip,
@@ -51,6 +57,73 @@ from scripts.validate_transcript_bundle import (
 
 
 class ReportValidationTests(unittest.TestCase):
+    def test_feishu_dry_run_does_not_send_group_card(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            report = Path(tmp) / "report.md"
+            report.write_text("# 测试日报\n\n内容。", encoding="utf-8")
+            with patch("sys.argv", ["publish_feishu.py", "--file", str(report), "--title", "测试日报", "--dry-run"]), patch(
+                "scripts.publish_feishu.notify"
+            ) as notify:
+                self.assertEqual(publish_feishu_main(), 0)
+            notify.assert_not_called()
+
+    def test_bengali_decimal_digits_match_ascii_number_claims(self) -> None:
+        self.assertIn("1", number_tokens("১ থেকে ২ বছর"))
+        self.assertIn("2", number_tokens("১ থেকে ২ বছর"))
+
+    def test_full_transcript_is_sent_inline_with_source_reference(self) -> None:
+        transcript = "完整字幕第一段。完整字幕最后一段。"
+        messages = build_inline_direct_digest_messages(
+            {"title": "测试", "duration": 600},
+            {"duration_seconds": 600},
+            transcript,
+            {"content_density": "brief", "contract": {}},
+        )
+        self.assertIn(transcript, messages[-1]["content"])
+        self.assertIn("F001", messages[-1]["content"])
+        self.assertFalse(any("fileid://" in message["content"] for message in messages))
+
+    def test_inline_path_enforces_size_limit(self) -> None:
+        with patch.dict(os.environ, {"LLM_INLINE_DIRECT_ENABLED": "1", "LLM_INLINE_MAX_CHARS": "10"}):
+            self.assertTrue(should_use_direct_inline({"duration": 600}, "x" * 10))
+            self.assertFalse(should_use_direct_inline({"duration": 600}, "x" * 11))
+
+    @patch("scripts.generate_daily_report.summarize_item_inline_direct")
+    @patch("scripts.generate_daily_report.summarize_item_fileid_direct")
+    def test_inline_mode_skips_legacy_file_upload(self, fileid_digest, inline_digest) -> None:
+        inline_digest.return_value = {"quality": "llm_inline_full"}
+        env = {
+            "LLM_BASE_URL": "https://example.test/compatible-mode/v1",
+            "LLM_MODEL": "qwen3.8-max",
+            "LLM_INLINE_DIRECT_ENABLED": "1",
+            "LLM_FILEID_DIRECT_ENABLED": "0",
+        }
+        with patch.dict(os.environ, env, clear=True):
+            digest = summarize_item_contract({"title": "测试", "duration": 600}, "完整字幕", 3)
+        self.assertEqual(digest["quality"], "llm_inline_full")
+        inline_digest.assert_called_once()
+        fileid_digest.assert_not_called()
+
+    @patch("scripts.generate_daily_report.requests.post")
+    def test_reasoning_model_request_uses_supported_json_parameters(self, post) -> None:
+        post.return_value.ok = True
+        post.return_value.json.return_value = {"choices": [{"message": {"content": '{"ok":true}'}}]}
+        env = {
+            "LLM_BASE_URL": "https://example.test/compatible-mode/v1",
+            "LLM_API_KEY": "test-key",
+            "LLM_MODEL": "qwen3.8-max",
+            "LLM_REASONING_EFFORT": "low",
+            "LLM_RESPONSE_FORMAT": "json_object",
+            "LLM_MAX_COMPLETION_TOKENS": "12000",
+        }
+        with patch.dict(os.environ, env, clear=True):
+            self.assertEqual(llm_chat([{"role": "user", "content": "Return JSON"}]), '{"ok":true}')
+        payload = post.call_args.kwargs["json"]
+        self.assertEqual(payload["reasoning_effort"], "low")
+        self.assertEqual(payload["response_format"], {"type": "json_object"})
+        self.assertEqual(payload["max_completion_tokens"], 12000)
+        self.assertNotIn("temperature", payload)
+
     def test_empty_daily_items_allow_empty_transcript_artifacts(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
@@ -564,7 +637,9 @@ class ReportValidationTests(unittest.TestCase):
             "scripts.publish_feishu.list_wiki_nodes", return_value=[]
         ), patch(
             "scripts.publish_feishu.create_wiki_doc", side_effect=mock_create_wiki_doc
-        ), patch("scripts.publish_feishu.write_doc_via_openapi"):
+        ), patch("scripts.publish_feishu.write_doc_via_openapi") as write_doc, patch(
+            "scripts.publish_feishu.update_wiki_node_title"
+        ) as update_title:
             result = get_or_create_daily_wiki_doc(
                 "tenant-token", "2026-10-01 播客与视频更新日报"
             )
@@ -572,6 +647,48 @@ class ReportValidationTests(unittest.TestCase):
         self.assertEqual(result, ("doc-daily", "node-daily", "node-oct", True))
         self.assertEqual(created_calls[0], ("2026-10", "hub"))
         self.assertEqual(created_calls[1], ("2026-10-01 播客与视频更新日报", "node-oct"))
+        self.assertIn("<title>2026-10</title>", write_doc.call_args.args[2])
+        self.assertNotIn("<title>2026-10 播客", write_doc.call_args.args[2])
+        update_title.assert_called_once_with("tenant-token", "node-oct", "2026-10")
+
+    def test_legacy_month_folder_is_repaired_and_reused(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        month = {"node_token": "node-oct", "title": "2026-10 播客与视频更新日报归档"}
+        report = {"node_token": "node-daily", "title": "2026-10-01 播客与视频更新日报"}
+
+        def mock_list_wiki_nodes(token, parent_token=None):
+            if parent_token == "hub":
+                return [month]
+            if parent_token == "node-oct":
+                return [report]
+            return []
+
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
+            "scripts.publish_feishu.list_wiki_nodes", side_effect=mock_list_wiki_nodes
+        ), patch("scripts.publish_feishu.write_doc_via_openapi") as write_doc, patch(
+            "scripts.publish_feishu.get_wiki_doc_token", return_value=("doc-daily", "node-daily")
+        ), patch("scripts.publish_feishu.create_wiki_doc") as create, patch(
+            "scripts.publish_feishu.update_wiki_node_title"
+        ) as update_title:
+            result = get_or_create_daily_wiki_doc("tenant-token", report["title"])
+
+        self.assertEqual(result, ("doc-daily", "node-daily", "node-oct", False))
+        write_doc.assert_called_once_with(
+            "tenant-token", "node-oct", month_folder_xml("2026-10"), command="overwrite"
+        )
+        update_title.assert_called_once_with("tenant-token", "node-oct", "2026-10")
+        create.assert_not_called()
+
+    def test_month_folder_verification_rejects_legacy_title(self) -> None:
+        hub = {"node_token": "hub", "title": "🎧 播客蒸馏室"}
+        month = {"node_token": "node-oct", "title": "2026-10 播客与视频更新日报归档"}
+        with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
+            "scripts.publish_feishu.list_wiki_nodes", return_value=[month]
+        ), patch("scripts.publish_feishu.time.sleep"):
+            with self.assertRaisesRegex(RuntimeError, "Expected exactly one month folder"):
+                verify_daily_report_child(
+                    "tenant-token", "2026-10-01 播客与视频更新日报", "node-daily"
+                )
 
     def test_ensure_children_order_descending(self) -> None:
         nodes = [
@@ -619,8 +736,8 @@ class ReportValidationTests(unittest.TestCase):
 
         with patch("scripts.publish_feishu.list_root_nodes", return_value=[hub]), patch(
             "scripts.publish_feishu.list_wiki_nodes", return_value=[]
-        ):
-            with self.assertRaisesRegex(RuntimeError, "Expected month folder"):
+        ), patch("scripts.publish_feishu.time.sleep"):
+            with self.assertRaisesRegex(RuntimeError, "Expected exactly one month folder"):
                 verify_daily_report_child("tenant-token", july_15["title"], "jul-15")
 
     def test_legacy_markdown_enrichment_never_crosses_item_boundaries(self) -> None:

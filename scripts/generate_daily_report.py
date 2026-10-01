@@ -88,7 +88,7 @@ DEEP_SUMMARY_GUIDANCE = (
     "subset, post-baseline count, or 'meaningful/substantive' claim into an all-time total."
 )
 
-DIGEST_CACHE_VERSION = 6
+DIGEST_CACHE_VERSION = 7
 
 DEEP_DIVE_HINTS = (
     "interview",
@@ -305,10 +305,21 @@ def llm_chat(messages: list[dict[str, str]], temperature: float = 0.2) -> str:
     last_error: Exception | None = None
     for attempt in range(1, retry_attempts + 1):
         try:
+            payload: dict[str, Any] = {"model": model, "messages": effective_messages}
+            reasoning_effort = os.getenv("LLM_REASONING_EFFORT", "").strip()
+            if reasoning_effort:
+                payload["reasoning_effort"] = reasoning_effort
+            else:
+                payload["temperature"] = temperature
+            if os.getenv("LLM_RESPONSE_FORMAT", "").strip() == "json_object":
+                payload["response_format"] = {"type": "json_object"}
+            max_completion_tokens = os.getenv("LLM_MAX_COMPLETION_TOKENS", "").strip()
+            if max_completion_tokens:
+                payload["max_completion_tokens"] = int(max_completion_tokens)
             resp = requests.post(
                 endpoint,
                 headers=headers,
-                json={"model": model, "messages": effective_messages, "temperature": temperature},
+                json=payload,
                 timeout=int(os.getenv("LLM_TIMEOUT", "180")),
             )
         except (requests.Timeout, requests.ConnectionError) as exc:
@@ -1034,6 +1045,82 @@ def should_use_direct_fileid(item: dict[str, Any], transcript: str) -> bool:
     return bool(transcript.strip()) and (duration >= min_duration or len(transcript) >= min_chars)
 
 
+def should_use_direct_inline(item: dict[str, Any], transcript: str) -> bool:
+    if os.getenv("LLM_INLINE_DIRECT_ENABLED", "0") != "1":
+        return False
+    if int(item.get("duration") or item.get("duration_seconds") or 0) < 300:
+        return False
+    max_chars = max(1, int(os.getenv("LLM_INLINE_MAX_CHARS", "500000")))
+    return bool(transcript.strip()) and len(transcript) <= max_chars
+
+
+def build_inline_direct_digest_messages(
+    item: dict[str, Any],
+    profile: dict[str, Any],
+    transcript: str,
+    schema: dict[str, Any],
+) -> list[dict[str, str]]:
+    contract = schema.get("contract", {}) if isinstance(schema.get("contract"), dict) else {}
+    count_contract = (
+        f"Hard count contract: content_density={schema.get('content_density')}; "
+        f"summary items={contract.get('summary_items', 'follow schema')}; "
+        f"summary chars/item<={contract.get('summary_char_limit', 'follow schema')}; "
+        f"core_points items={contract.get('core_points_items', 'follow schema')}; "
+        f"takeaways items={contract.get('takeaways_items', '1..3')}. "
+        "This item is >= 5 minutes and must appear in the report."
+    )
+    return [
+        {
+            "role": "system",
+            "content": (
+                "You are a senior Chinese editor for long-form podcast/video transcripts. "
+                "The transcript in the user message is the complete primary source. "
+                "Read across the full transcript before writing; do not summarize only the beginning. "
+                "The transcript language may differ from its metadata; follow the actual text. "
+                "Find the episode's central question, argument arc, strongest mechanisms, examples, numbers, "
+                "speaker positions, caveats, and reusable reader value. "
+                "Preserve every number's scope, unit, currency, time period, baseline, and qualifiers. "
+                "Never rewrite a subset or a count after a baseline as an all-time total. "
+                "Do not write a chronological recap unless the argument is chronological. "
+                f"{DEEP_SUMMARY_GUIDANCE} "
+                "Every field with source_refs must cite F001 exactly. "
+                f"{count_contract} Output one JSON object only, in Chinese."
+            ),
+        },
+        {
+            "role": "user",
+            "content": (
+                f"{count_contract}\n\n"
+                "Return JSON that matches this schema exactly. Use source_refs [\"F001\"] for all sourced fields:\n"
+                f"{json.dumps(schema, ensure_ascii=False)}\n\n"
+                f"Item metadata:\n{json.dumps(item, ensure_ascii=False)}\n\n"
+                f"Transcript profile:\n{json.dumps(profile, ensure_ascii=False)}\n\n"
+                f"Complete transcript (evidence F001):\n{transcript}"
+            ),
+        },
+    ]
+
+
+def summarize_item_inline_direct(
+    item: dict[str, Any],
+    transcript: str,
+    transcript_meta: dict[str, Any] | None,
+    max_attempts: int,
+) -> dict[str, Any]:
+    profile = build_transcript_profile(item, transcript, transcript_meta)
+    evidence = {"F001": transcript}
+    contract = digest_contract_for_item(item, profile)
+    schema = build_final_schema("F001", contract)
+    print(f"Summarizing complete transcript inline: {item.get('title')}", flush=True)
+    digest = llm_json(
+        build_inline_direct_digest_messages(item, profile, transcript, schema),
+        lambda raw, c=contract: validate_final_digest(raw, item, evidence, c),
+        max_attempts,
+    )
+    digest["quality"] = "llm_inline_full"
+    return digest
+
+
 def build_fileid_direct_digest_messages(
     item: dict[str, Any],
     profile: dict[str, Any],
@@ -1365,11 +1452,26 @@ def summarize_item_contract(
     transcript_meta: dict[str, Any] | None = None,
     timed_caption: str = "",
 ) -> dict[str, Any]:
-    """Build an item digest, preferring direct file-id synthesis for long transcripts."""
+    """Build an item digest, using the configured full-transcript path first."""
     if not llm_configured():
         raise RuntimeError("大模型摘要生成失败：LLM_BASE_URL and LLM_MODEL are not configured")
 
     profile = build_transcript_profile(item, transcript, transcript_meta)
+    if should_use_direct_inline(item, transcript):
+        try:
+            return summarize_item_inline_direct(item, transcript, transcript_meta, max_attempts)
+        except Exception as exc:
+            if is_data_inspection_error(exc):
+                raise
+            if not (is_context_length_error(exc) or "LLM output failed validation after" in str(exc)):
+                raise
+            if not evidence_fallback_enabled():
+                raise
+            print(
+                f"Direct inline synthesis failed for {item.get('title')}: {exc}; "
+                "falling back to segmented evidence pipeline.",
+                flush=True,
+            )
     if should_use_direct_fileid(item, transcript):
         try:
             return summarize_item_fileid_direct(

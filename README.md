@@ -127,12 +127,14 @@ flowchart LR
 | 类别 | Secret 名称 | 作用说明 |
 | :--- | :--- | :--- |
 | **听悟 ASR** | `TINGWU_APP_KEY`<br/>`ALIBABA_CLOUD_ACCESS_KEY_ID`<br/>`ALIBABA_CLOUD_ACCESS_KEY_SECRET` | 阿里云通义听悟语音转文字 API 凭证 |
-| **大语言模型** | `LLM_BASE_URL`<br/>`LLM_API_KEY`<br/>`LLM_MODEL` | 兼容 OpenAI / 通义千问等 LLM 接口，负责提炼结构化日报 |
+| **大语言模型** | `LLM_BASE_URL`<br/>`LLM_API_KEY`<br/>`LLM_MODEL` | 千问 OpenAI 兼容接口；生产工作流使用 `qwen3.8-max` 直接阅读完整字幕并生成结构化日报。北京区域 Base URL 为 `https://dashscope.aliyuncs.com/compatible-mode/v1`。`LLM_API_KEY` 必须是该区域可用的密钥。|
 | **YouTube 字幕** | `MEDIA_API_TOKEN` | 外部 YouTube 字幕中转服务 Token（避免 GitHub Actions IP 受限） |
 | **飞书知识库** | `FEISHU_APP_ID`<br/>`FEISHU_APP_SECRET`<br/>`FEISHU_WIKI_SPACE_ID`<br/>`FEISHU_NOTIFY_WEBHOOK` | 飞书开放平台自建应用凭据、知识空间 ID 与群机器人 Webhook |
 
 > [!TIP]
 > 飞书发布通过官方开放平台 OpenAPI 完成，无需浏览器 Cookie 或 Playwright 模拟登录。
+
+日报生成默认把每条完整字幕直接发给 `qwen3.8-max`；超过 `LLM_INLINE_MAX_CHARS` 或完整输入超出模型上下文时，自动走分段证据摘要。生产工作流关闭了仅供 `qwen-long` 使用的 `fileid://` 上传链路。请只在 GitHub Secrets 中保存 API Key，不要写入代码或提交记录。旧的 `LLM_WORKSPACE_ID` Secret 可以保留，但当前工作流不使用它。
 
 ### 2. 自定义订阅信源
 

@@ -149,37 +149,34 @@ jobs:
             "${EXTRA_ARGS[@]}"
 
       - name: Generate daily report from full transcripts
+        id: generate_report
         env:
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
           LLM_WORKSPACE_ID: ${{ secrets.LLM_WORKSPACE_ID }}
           LLM_USE_WORKSPACE_BASE: "0"
-          LLM_TIMEOUT: "600"
+          LLM_TIMEOUT: "900"
           LLM_CHUNK_CHARS: "30000"
           LLM_RETRY_ATTEMPTS: "4"
           LLM_RETRY_BASE_SECONDS: "2"
           LLM_RETRY_MAX_SECONDS: "30"
           LLM_FINAL_PAYLOAD_CHARS: "18000"
           LLM_FINAL_PAYLOAD_CHARS_RETRY: "8000"
-          LLM_NEUTRAL_ARCHIVE_PREAMBLE: "1"
-          LLM_FILEID_ENABLED: "1"
-          LLM_FILEID_MIN_DURATION_SECONDS: "300"
-          LLM_FILEID_DIRECT_ENABLED: "1"
-          LLM_FILEID_DIRECT_REQUIRED: "1"
-          # Direct file-id is the production path. Do not silently re-enter per-segment extraction.
-          LLM_EVIDENCE_FALLBACK_ENABLED: "0"
+          LLM_NEUTRAL_ARCHIVE_PREAMBLE: "0"
+          LLM_REASONING_EFFORT: "medium"
+          LLM_MAX_COMPLETION_TOKENS: "12000"
+          LLM_RESPONSE_FORMAT: "json_object"
+          LLM_INLINE_DIRECT_ENABLED: "1"
+          LLM_INLINE_MAX_CHARS: "500000"
+          LLM_FILEID_ENABLED: "0"
+          LLM_FILEID_DIRECT_ENABLED: "0"
+          # Use segmented evidence only when full-context validation or context length fails.
+          LLM_EVIDENCE_FALLBACK_ENABLED: "1"
           # Known per-item provider rejections are published transparently; infrastructure failures still fail.
           LLM_ITEM_FAILURE_POLICY: "placeholder"
-          LLM_FILEID_DIRECT_MIN_DURATION_SECONDS: "300"
-          LLM_FILEID_DIRECT_MIN_CHARS: "1"
-          # 0 means unlimited: long transcripts must stay in file-id mode.
-          LLM_FILEID_DIRECT_MAX_DURATION_SECONDS: "0"
-          LLM_FILEID_DIRECT_MAX_CHARS: "0"
           # Never publish a metadata-only digest as a successful required run.
           LLM_METADATA_FALLBACK_ENABLED: "0"
-          LLM_FILE_UPLOAD_TIMEOUT: "600"
-          LLM_FILE_READY_TIMEOUT: "300"
         run: |
           python scripts/generate_daily_report.py \
             --date "$REPORT_DATE" \
@@ -189,11 +186,11 @@ jobs:
             --llm-policy required \
             --llm-max-attempts 3 \
             --digest-cache-dir reports/digest_cache \
-            --fileid-cache-dir reports/qwen_file_cache \
             --output "$REPORT_PATH" \
             --output-json "$REPORT_JSON_PATH"
 
       - name: Publish to Feishu Wiki and notify group
+        id: publish_report
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
@@ -234,13 +231,14 @@ jobs:
             subtitles/
             reports/evidence/
             reports/digest_cache/
-            reports/qwen_file_cache/
       - name: Send failure notification to Feishu
         if: failure()
         env:
           FEISHU_NOTIFY_WEBHOOK: ${{ secrets.FEISHU_NOTIFY_WEBHOOK }}
           WORKFLOW_RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           REPORT_DATE: ${{ steps.report_date.outputs.date }}
+          REPORT_OUTCOME: ${{ steps.generate_report.outcome }}
+          PUBLISH_OUTCOME: ${{ steps.publish_report.outcome }}
         shell: python
         run: |
           import os, json, urllib.request
@@ -252,6 +250,12 @@ jobs:
 
           date_str = os.getenv("REPORT_DATE") or "今日"
           run_url = os.getenv("WORKFLOW_RUN_URL", "")
+          if os.getenv("PUBLISH_OUTCOME") == "failure":
+              detail = "日报已生成，但飞书写入或目录校验失败。页面可能已写入，请打开运行日志确认后再重试。"
+          elif os.getenv("REPORT_OUTCOME") == "failure":
+              detail = "日报生成失败，请打开运行日志查看具体原因。"
+          else:
+              detail = "任务执行失败，请打开运行日志查看具体原因。"
 
           card = {
               "msg_type": "interactive",
@@ -263,7 +267,7 @@ jobs:
                   "elements": [
                       {
                           "tag": "markdown",
-                          "content": "**任务执行异常中止**\n今日播客转写、抓取或报告生成环节出现错误。\n请点击下方按钮前往 GitHub Actions 查看详细运行日志并排查。",
+                          "content": f"**任务执行异常中止**\n{detail}",
                       },
                       {
                           "tag": "action",
