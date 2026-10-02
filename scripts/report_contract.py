@@ -293,7 +293,8 @@ def number_tokens(text: str) -> set[str]:
                    "june": 6, "july": 7, "august": 8, "september": 9, "october": 10,
                    "november": 11, "december": 12}
     for month, number in month_names.items():
-        if re.search(rf"\b{month}\b", text, re.I):
+        # Require a date after the month; "may" and "march" also occur as verbs.
+        if re.search(rf"\b{month}\s+\d{{1,4}}(?:st|nd|rd|th)?\b", text, re.I):
             values.add(str(number))
     return values
 

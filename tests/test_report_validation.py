@@ -78,6 +78,7 @@ class ReportValidationTests(unittest.TestCase):
         self.assertNotIn("10000", number_tokens("4800 万美元"))
         self.assertNotIn("4800", number_tokens("4800 万美元"))
         self.assertIn("7", number_tokens("prior to July 1st, 2021"))
+        self.assertNotIn("5", number_tokens("The rules may change next year"))
 
     def test_full_transcript_is_sent_inline_with_source_reference(self) -> None:
         transcript = "完整字幕第一段。完整字幕最后一段。"
