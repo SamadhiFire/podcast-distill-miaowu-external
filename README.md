@@ -134,7 +134,7 @@ flowchart LR
 > [!TIP]
 > 飞书发布通过官方开放平台 OpenAPI 完成，无需浏览器 Cookie 或 Playwright 模拟登录。
 
-日报生成默认把每条完整字幕直接发给 `qwen3.8-max`；超过 `LLM_INLINE_MAX_CHARS` 或完整输入超出模型上下文时，自动走分段证据摘要。生产工作流关闭了仅供 `qwen-long` 使用的 `fileid://` 上传链路。请只在 GitHub Secrets 中保存 API Key，不要写入代码或提交记录。旧的 `LLM_WORKSPACE_ID` Secret 可以保留，但当前工作流不使用它。
+日报生成把每条完整字幕直接发给 `qwen3.8-max`。生产工作流不做切片，也不再使用 `qwen-long` 的 `fileid://` 上传链路；格式或证据校验失败时，仍针对同一份完整字幕修复输出。若实际输入超过模型上下文限制，任务会明确报错，不会悄悄切片或发布缺项日报。请只在 GitHub Secrets 中保存 API Key，不要写入代码或提交记录。旧的 `LLM_WORKSPACE_ID` Secret 可以保留，但当前工作流不使用它。
 
 ### 2. 自定义订阅信源
 

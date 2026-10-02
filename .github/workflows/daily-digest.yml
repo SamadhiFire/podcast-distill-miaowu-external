@@ -168,11 +168,11 @@ jobs:
           LLM_MAX_COMPLETION_TOKENS: "12000"
           LLM_RESPONSE_FORMAT: "json_object"
           LLM_INLINE_DIRECT_ENABLED: "1"
-          LLM_INLINE_MAX_CHARS: "500000"
+          LLM_INLINE_MAX_CHARS: "0"
           LLM_FILEID_ENABLED: "0"
           LLM_FILEID_DIRECT_ENABLED: "0"
-          # Use segmented evidence only when full-context validation or context length fails.
-          LLM_EVIDENCE_FALLBACK_ENABLED: "1"
+          # In production, every item stays in the complete-transcript context.
+          LLM_EVIDENCE_FALLBACK_ENABLED: "0"
           # Do not publish a report with a missing item summary.
           LLM_ITEM_FAILURE_POLICY: "fail"
           # Never publish a metadata-only digest as a successful required run.

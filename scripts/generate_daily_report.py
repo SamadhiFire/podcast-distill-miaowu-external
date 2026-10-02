@@ -500,6 +500,13 @@ def llm_json(
                     "专注于原文中客观陈述的事实、机构数据、财务指标与各方公开观点，直接输出严格符合指定 JSON Schema "
                     "的纯 JSON 对象，严禁输出任何拒绝语、解释性前言后语或 Markdown 文本。"
                 )
+            elif "ungrounded number" in last_error:
+                repair_content = (
+                    f"上次输出未通过原文数字校验：{last_error}\n"
+                    "完整字幕仍在本轮对话中。请重写受影响字段，用字幕确实支持的事实补足规定条数；"
+                    "对字幕没有的数字，改为不含该数字的准确表述。"
+                    "英文 million 与中文万的等值换算可以保留。只返回完整 JSON 对象。"
+                )
             else:
                 repair_content = (
                     f"上次输出未通过程序校验：{last_error}\n"
@@ -1050,8 +1057,8 @@ def should_use_direct_inline(item: dict[str, Any], transcript: str) -> bool:
         return False
     if int(item.get("duration") or item.get("duration_seconds") or 0) < 300:
         return False
-    max_chars = max(1, int(os.getenv("LLM_INLINE_MAX_CHARS", "500000")))
-    return bool(transcript.strip()) and len(transcript) <= max_chars
+    max_chars = int(os.getenv("LLM_INLINE_MAX_CHARS", "0"))
+    return bool(transcript.strip()) and (max_chars <= 0 or len(transcript) <= max_chars)
 
 
 def build_inline_direct_digest_messages(
@@ -1346,8 +1353,12 @@ def validate_final_digest(
             raise ValueError(f"{field} must be an object with text and source_refs")
         if not any(str(ref) in valid_refs for ref in value.get("source_refs", [])):
             raise ValueError(f"{field} must cite a valid source_ref")
+        unsupported = missing_numbers(value, "text")
         if not remove_ungrounded_number_sentences(value, field):
-            raise ValueError(f"{field} became empty after removing ungrounded number sentence(s)")
+            raise ValueError(
+                f"{field} became empty after removing ungrounded number sentence(s); "
+                f"ungrounded numbers: {', '.join(unsupported) or 'malformed numeric text'}"
+            )
     contract = contract or digest_contract_for_item(item)
     density = clean_text(raw.get("content_density") or "standard").lower()
     if density not in {"brief", "standard", "high"}:
@@ -1368,10 +1379,13 @@ def validate_final_digest(
         if not isinstance(values, list) or len(values) < minimum:
             raise ValueError(f"{field} must contain {minimum}..{maximum} item(s)")
         cleaned_values: list[dict[str, Any]] = []
+        unsupported_in_dropped: set[str] = set()
         for value in values:
             if not isinstance(value, dict) or not str(value.get("text", "")).strip():
                 continue
+            unsupported = missing_numbers(value, "text")
             if not remove_ungrounded_number_sentences(value, field):
+                unsupported_in_dropped.update(unsupported)
                 continue
             text = clean_text(value.get("text", ""))
             if nonspace_len(text) > limit:
@@ -1384,7 +1398,8 @@ def validate_final_digest(
         raw[field] = cleaned_values[:maximum]
         if len(raw[field]) < minimum:
             raise ValueError(
-                f"{field} must contain {minimum}..{maximum} item(s) after removing ungrounded number sentence(s)"
+                f"{field} must contain {minimum}..{maximum} item(s) after removing ungrounded number sentence(s); "
+                f"ungrounded numbers: {', '.join(sorted(unsupported_in_dropped)) or 'none'}"
             )
     takeaways = raw.get("takeaways")
     if isinstance(takeaways, list):
@@ -1457,21 +1472,15 @@ def summarize_item_contract(
         raise RuntimeError("大模型摘要生成失败：LLM_BASE_URL and LLM_MODEL are not configured")
 
     profile = build_transcript_profile(item, transcript, transcript_meta)
-    if should_use_direct_inline(item, transcript):
-        try:
-            return summarize_item_inline_direct(item, transcript, transcript_meta, max_attempts)
-        except Exception as exc:
-            if is_data_inspection_error(exc):
-                raise
-            if not (is_context_length_error(exc) or "LLM output failed validation after" in str(exc)):
-                raise
-            if not evidence_fallback_enabled():
-                raise
-            print(
-                f"Direct inline synthesis failed for {item.get('title')}: {exc}; "
-                "falling back to segmented evidence pipeline.",
-                flush=True,
+    if os.getenv("LLM_INLINE_DIRECT_ENABLED", "0") == "1":
+        if not should_use_direct_inline(item, transcript):
+            raise RuntimeError(
+                "Full-transcript inline mode requires a nonempty transcript for an item of at least "
+                "five minutes, within any explicitly configured LLM_INLINE_MAX_CHARS limit"
             )
+        # This production mode never enters the legacy segmented/file-id path.
+        # Contract repairs happen against the same complete transcript in llm_json.
+        return summarize_item_inline_direct(item, transcript, transcript_meta, max_attempts)
     if should_use_direct_fileid(item, transcript):
         try:
             return summarize_item_fileid_direct(

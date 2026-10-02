@@ -71,6 +71,14 @@ class ReportValidationTests(unittest.TestCase):
         self.assertIn("1", number_tokens("১ থেকে ২ বছর"))
         self.assertIn("2", number_tokens("১ থেকে ২ বছর"))
 
+    def test_translated_amounts_use_the_same_numeric_evidence(self) -> None:
+        source = number_tokens("The limit rises from $20.5 million to 48 million; schools spend 10 to $15 million.")
+        claim = number_tokens("上限由 2050 万美元涨到 4800 万美元，学校支出 1000 万至 1500 万美元。")
+        self.assertFalse(claim - source)
+        self.assertNotIn("10000", number_tokens("4800 万美元"))
+        self.assertNotIn("4800", number_tokens("4800 万美元"))
+        self.assertIn("7", number_tokens("prior to July 1st, 2021"))
+
     def test_full_transcript_is_sent_inline_with_source_reference(self) -> None:
         transcript = "完整字幕第一段。完整字幕最后一段。"
         messages = build_inline_direct_digest_messages(
@@ -103,6 +111,22 @@ class ReportValidationTests(unittest.TestCase):
         self.assertEqual(digest["quality"], "llm_inline_full")
         inline_digest.assert_called_once()
         fileid_digest.assert_not_called()
+
+    @patch("scripts.generate_daily_report.build_topic_segments")
+    @patch("scripts.generate_daily_report.summarize_item_inline_direct")
+    def test_inline_validation_failure_never_segments(self, inline_digest, segment) -> None:
+        inline_digest.side_effect = RuntimeError("LLM output failed validation after 3 attempt(s): core_points")
+        env = {
+            "LLM_BASE_URL": "https://example.test/compatible-mode/v1",
+            "LLM_MODEL": "qwen3.8-max",
+            "LLM_INLINE_DIRECT_ENABLED": "1",
+            "LLM_EVIDENCE_FALLBACK_ENABLED": "1",
+            "LLM_INLINE_MAX_CHARS": "0",
+        }
+        with patch.dict(os.environ, env, clear=True):
+            with self.assertRaisesRegex(RuntimeError, "core_points"):
+                summarize_item_contract({"title": "测试", "duration": 600}, "字幕" * 300000, 3)
+        segment.assert_not_called()
 
     @patch("scripts.generate_daily_report.requests.post")
     def test_reasoning_model_request_uses_supported_json_parameters(self, post) -> None:

@@ -13,6 +13,7 @@ from html import escape
 import math
 import re
 import unicodedata
+from decimal import Decimal
 import xml.etree.ElementTree as ET
 from typing import Any
 
@@ -235,6 +236,8 @@ def _chinese_number_tokens(text: str) -> set[str]:
     values: set[str] = set()
     for match in re.finditer(r"[零〇一二两三四五六七八九十百千万亿]+", text):
         token = match.group(0)
+        if token in {"百", "千", "万", "亿"}:
+            continue
         next_char = text[match.end() : match.end() + 1]
         has_numeric_unit = any(char in ZH_SMALL_UNITS or char in ZH_BIG_UNITS for char in token)
         if len(token) == 1 and not has_numeric_unit and next_char not in ZH_NUMBER_FOLLOWERS:
@@ -249,10 +252,49 @@ def number_tokens(text: str) -> set[str]:
     # Captions can use non-ASCII decimal digits (for example Bengali subtitles).
     # Normalize them before comparing model claims with transcript evidence.
     text = "".join(str(unicodedata.decimal(char)) if char.isdecimal() else char for char in text)
-    values = set(re.findall(r"(?<![A-Za-z])\d+(?:[.,]\d+)?%?", text))
+    values: set[str] = set()
+
+    # Treat translated quantities as the same value: "48 million" == "4800万".
+    # Mask Arabic+Chinese units before the ordinary digit scan; otherwise the
+    # old parser invented separate "4800" and "10000" claims for "4800万".
+    zh_scale = {"百": 100, "千": 1000, "万": 10000, "亿": 100000000}
+    en_scale = {"thousand": 1000, "million": 1000000, "billion": 1000000000}
+    zh_pattern = re.compile(r"(?<![A-Za-z0-9])\d[\d,]*(?:\.\d+)?\s*([百千万亿])")
+    en_pattern = re.compile(r"(?<![A-Za-z0-9])\d[\d,]*(?:\.\d+)?\s*(thousands?|millions?|billions?)\b", re.I)
+
+    def scaled(match: re.Match[str], factor: int) -> str:
+        numeric = match.group(0).split()[0]
+        numeric = re.match(r"\d[\d,]*(?:\.\d+)?", numeric)
+        assert numeric is not None
+        value = Decimal(numeric.group(0).replace(",", "")) * factor
+        return format(value.normalize(), "f")
+
+    for match in en_pattern.finditer(text):
+        scale_name = match.group(1).lower().rstrip("s")
+        values.add(scaled(match, en_scale[scale_name]))
+    # "10 to $15 million" applies the same scale to both range endpoints.
+    en_range = re.compile(
+        r"(?<![A-Za-z0-9])(\d[\d,]*(?:\.\d+)?)\s*(?:to|[-–—])\s*\$?\s*"
+        r"\d[\d,]*(?:\.\d+)?\s*(thousands?|millions?|billions?)\b", re.I
+    )
+    for match in en_range.finditer(text):
+        scale_name = match.group(2).lower().rstrip("s")
+        value = Decimal(match.group(1).replace(",", "")) * en_scale[scale_name]
+        values.add(format(value.normalize(), "f"))
+    for match in zh_pattern.finditer(text):
+        values.add(scaled(match, zh_scale[match.group(1)]))
+    text = zh_pattern.sub(lambda match: " " * len(match.group(0)), text)
+
+    values.update(re.findall(r"(?<![A-Za-z])\d+(?:[.,]\d+)?%?", text))
     values.update(value.replace(",", "") for value in list(values) if "," in value)
     values.update(_english_number_tokens(text))
     values.update(_chinese_number_tokens(text))
+    month_names = {"january": 1, "february": 2, "march": 3, "april": 4, "may": 5,
+                   "june": 6, "july": 7, "august": 8, "september": 9, "october": 10,
+                   "november": 11, "december": 12}
+    for month, number in month_names.items():
+        if re.search(rf"\b{month}\b", text, re.I):
+            values.add(str(number))
     return values
 
 
