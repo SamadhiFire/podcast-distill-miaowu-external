@@ -22,6 +22,7 @@ on:
 
 permissions:
   contents: read
+  actions: read
 
 concurrency:
   group: daily-podcast-digest-tingwu-xiaoyuzhou
@@ -147,6 +148,26 @@ jobs:
             --max-trailing-gap-seconds 180 \
             --output-json "$VALIDATION_PATH" \
             "${EXTRA_ARGS[@]}"
+
+      - name: Restore completed item digests from earlier runs
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # A failed run uploads its completed item digests. Reuse them on a
+          # same-date retry so Qwen is only called for unfinished items.
+          RUN_IDS="$(gh api "repos/${GITHUB_REPOSITORY}/actions/artifacts?name=daily-digest-${REPORT_DATE}&per_page=20" \
+            --jq '[.artifacts[] | select(.expired == false)] | sort_by(.created_at) | reverse | .[:3][] | .workflow_run.id')"
+          for RUN_ID in $RUN_IDS; do
+            RESTORE_DIR="${RUNNER_TEMP}/digest-cache-${RUN_ID}"
+            gh run download "$RUN_ID" --name "daily-digest-${REPORT_DATE}" --dir "$RESTORE_DIR"
+            SOURCE_DIR="${RESTORE_DIR}/reports/digest_cache/${REPORT_DATE}"
+            if [ -d "$SOURCE_DIR" ]; then
+              mkdir -p "reports/digest_cache/${REPORT_DATE}"
+              cp -n "$SOURCE_DIR"/*.json "reports/digest_cache/${REPORT_DATE}/" 2>/dev/null || true
+            fi
+          done
+          echo "Restored $(find "reports/digest_cache/${REPORT_DATE}" -maxdepth 1 -name '*.json' 2>/dev/null | wc -l) completed item digest(s)."
 
       - name: Generate daily report from full transcripts
         id: generate_report

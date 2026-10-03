@@ -88,6 +88,30 @@ class ReportValidationTests(unittest.TestCase):
         self.assertEqual(number_tokens("一万亿三千亿"), {"1300000000000"})
         self.assertEqual(number_tokens("一亿零一万"), {"100010000"})
 
+    def test_spoken_half_matches_decimal_and_remains_in_sentence(self) -> None:
+        source = "Debt interest alone is costing roughly one and a half times the entire defense budget."
+        self.assertIn("1.5", number_tokens(source))
+        self.assertIn("1.5", number_tokens("roughly one point five times the defense budget"))
+        raw = {
+            "short_title": "英国债务",
+            "one_liner": {"text": "债务利息挤压国防预算。", "source_refs": ["S001"]},
+            "why_it_matters": {"text": "债务利息约为国防预算的 1.5 倍。", "source_refs": ["S001"]},
+            "content_density": "brief",
+            "summary": [{"text": f"摘要{index}说明财政压力。", "source_refs": ["S001"]} for index in "甲乙丙"],
+            "core_points": [{"text": f"观点{index}说明预算取舍。", "source_refs": ["S001"]} for index in "甲乙丙"],
+            "key_facts": [],
+            "takeaways": ["核对债务利息与预算数据。"],
+            "guests": [{"text": "受访者", "source_refs": ["S001"]}],
+            "topics": ["财政"],
+            "tensions": [],
+            "quote": None,
+            "importance_score": 3,
+        }
+        contract = {"content_density": "brief", "summary_min": 3, "summary_max": 5,
+                    "summary_char_limit": 280, "core_points_min": 3, "core_points_max": 5}
+        digest = validate_final_digest(raw, {}, {"S001": source}, contract)
+        self.assertIn("1.5", digest["why_it_matters"])
+
     def test_full_transcript_is_sent_inline_with_source_reference(self) -> None:
         transcript = "完整字幕第一段。完整字幕最后一段。"
         messages = build_inline_direct_digest_messages(

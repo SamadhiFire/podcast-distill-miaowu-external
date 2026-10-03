@@ -1312,7 +1312,8 @@ def validate_final_digest(
         return sorted(numbers - grounded)
 
     def split_sentences(text: str) -> list[str]:
-        pieces = re.findall(r"[^。！？!?;；\n.]+[。！？!?;；.]?", text)
+        # A period between digits belongs to a decimal, not a sentence end.
+        pieces = re.findall(r"(?:\d+\.\d+|[^。！？!?;；\n.])+[。！？!?;；.]?", text)
         return [piece.strip() for piece in pieces if piece.strip()]
 
     def has_malformed_number(sentence: str) -> bool:

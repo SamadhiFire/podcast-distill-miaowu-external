@@ -162,7 +162,19 @@ def _add_number_value(output: set[str], value: int | float) -> None:
 
 def _english_number_tokens(text: str) -> set[str]:
     values: set[str] = set()
-    tokens = re.findall(r"[A-Za-z]+", text.lower().replace("-", " "))
+    normalized = text.lower().replace("-", " ")
+    # Spoken fractions are common in subtitles, while the digest uses decimals.
+    # For example, "one and a half times" supports a claim of "1.5 倍".
+    for match in re.finditer(r"\b([a-z]+)\s+and\s+(?:a|one)\s+half\b", normalized):
+        whole = EN_NUMBER_SMALL.get(match.group(1))
+        if whole is not None:
+            _add_number_value(values, whole + 0.5)
+    for match in re.finditer(r"\b([a-z]+)\s+point\s+([a-z]+)\b", normalized):
+        whole = EN_NUMBER_SMALL.get(match.group(1))
+        decimal = EN_NUMBER_SMALL.get(match.group(2))
+        if whole is not None and decimal is not None and decimal < 10:
+            _add_number_value(values, whole + decimal / 10)
+    tokens = re.findall(r"[A-Za-z]+", normalized)
     current = 0
     total = 0
     active = False
