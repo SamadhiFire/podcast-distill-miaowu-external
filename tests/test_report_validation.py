@@ -80,6 +80,14 @@ class ReportValidationTests(unittest.TestCase):
         self.assertIn("7", number_tokens("prior to July 1st, 2021"))
         self.assertNotIn("5", number_tokens("The rules may change next year"))
 
+    def test_chinese_wanyi_matches_trillion_in_full_transcript(self) -> None:
+        source = number_tokens("Schwab manages over $1 trillion, now $1.9 trillion, almost 2 trillion.")
+        claim = number_tokens("资产规模逾一万亿美元，目前近 1.9 万亿美元，逼近两万亿。")
+        self.assertFalse(claim - source)
+        self.assertEqual(number_tokens("一万亿"), {"1000000000000"})
+        self.assertEqual(number_tokens("一万亿三千亿"), {"1300000000000"})
+        self.assertEqual(number_tokens("一亿零一万"), {"100010000"})
+
     def test_full_transcript_is_sent_inline_with_source_reference(self) -> None:
         transcript = "完整字幕第一段。完整字幕最后一段。"
         messages = build_inline_direct_digest_messages(

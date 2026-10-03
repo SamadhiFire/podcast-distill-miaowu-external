@@ -146,7 +146,7 @@ EN_NUMBER_TENS = {
     "eighty": 80,
     "ninety": 90,
 }
-EN_NUMBER_SCALES = {"thousand": 1000, "million": 1000000, "billion": 1000000000}
+EN_NUMBER_SCALES = {"thousand": 1000, "million": 1000000, "billion": 1000000000, "trillion": 1000000000000}
 ZH_DIGITS = {"零": 0, "〇": 0, "一": 1, "二": 2, "两": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
 ZH_SMALL_UNITS = {"十": 10, "百": 100, "千": 1000}
 ZH_BIG_UNITS = {"万": 10000, "亿": 100000000}
@@ -206,6 +206,15 @@ def _parse_chinese_number(value: str) -> int | None:
     if all(char in ZH_DIGITS for char in value):
         digits = "".join(str(ZH_DIGITS[char]) for char in value)
         return int(digits) if digits else None
+    # Consecutive large units are multiplicative: 一万亿 = 1,000,000,000,000.
+    # The ordinary section parser below would incorrectly add 万 and 亿.
+    if "万亿" in value:
+        coefficient, remainder = value.split("万亿", 1)
+        leading = _parse_chinese_number(coefficient) if coefficient else 1
+        trailing = _parse_chinese_number(remainder) if remainder else 0
+        if leading is None or trailing is None:
+            return None
+        return leading * 1000000000000 + trailing
 
     total = 0
     section = 0
@@ -257,10 +266,16 @@ def number_tokens(text: str) -> set[str]:
     # Treat translated quantities as the same value: "48 million" == "4800万".
     # Mask Arabic+Chinese units before the ordinary digit scan; otherwise the
     # old parser invented separate "4800" and "10000" claims for "4800万".
-    zh_scale = {"百": 100, "千": 1000, "万": 10000, "亿": 100000000}
-    en_scale = {"thousand": 1000, "million": 1000000, "billion": 1000000000}
-    zh_pattern = re.compile(r"(?<![A-Za-z0-9])\d[\d,]*(?:\.\d+)?\s*([百千万亿])")
-    en_pattern = re.compile(r"(?<![A-Za-z0-9])\d[\d,]*(?:\.\d+)?\s*(thousands?|millions?|billions?)\b", re.I)
+    zh_scale = {
+        "十": 10, "百": 100, "千": 1000, "万": 10000,
+        "十万": 100000, "百万": 1000000, "千万": 10000000,
+        "亿": 100000000, "十亿": 1000000000, "百亿": 10000000000,
+        "千亿": 100000000000, "万亿": 1000000000000,
+    }
+    en_scale = {"thousand": 1000, "million": 1000000, "billion": 1000000000, "trillion": 1000000000000}
+    unit_alternatives = "|".join(sorted(zh_scale, key=len, reverse=True))
+    zh_pattern = re.compile(rf"(?<![A-Za-z0-9])\d[\d,]*(?:\.\d+)?\s*({unit_alternatives})")
+    en_pattern = re.compile(r"(?<![A-Za-z0-9])\d[\d,]*(?:\.\d+)?\s*(thousands?|millions?|billions?|trillions?)\b", re.I)
 
     def scaled(match: re.Match[str], factor: int) -> str:
         numeric = match.group(0).split()[0]
@@ -275,7 +290,7 @@ def number_tokens(text: str) -> set[str]:
     # "10 to $15 million" applies the same scale to both range endpoints.
     en_range = re.compile(
         r"(?<![A-Za-z0-9])(\d[\d,]*(?:\.\d+)?)\s*(?:to|[-–—])\s*\$?\s*"
-        r"\d[\d,]*(?:\.\d+)?\s*(thousands?|millions?|billions?)\b", re.I
+        r"\d[\d,]*(?:\.\d+)?\s*(thousands?|millions?|billions?|trillions?)\b", re.I
     )
     for match in en_range.finditer(text):
         scale_name = match.group(2).lower().rstrip("s")
