@@ -179,7 +179,8 @@ jobs:
           LLM_USE_WORKSPACE_BASE: "0"
           LLM_TIMEOUT: "900"
           LLM_CHUNK_CHARS: "30000"
-          LLM_RETRY_ATTEMPTS: "4"
+          # A timed-out request may already have been billed; do not replay it.
+          LLM_RETRY_ATTEMPTS: "1"
           LLM_RETRY_BASE_SECONDS: "2"
           LLM_RETRY_MAX_SECONDS: "30"
           LLM_FINAL_PAYLOAD_CHARS: "18000"

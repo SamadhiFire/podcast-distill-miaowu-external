@@ -328,7 +328,18 @@ def llm_chat(messages: list[dict[str, str]], temperature: float = 0.2) -> str:
         else:
             if resp.ok:
                 data = resp.json()
-                return data["choices"][0]["message"]["content"].strip()
+                choice = data["choices"][0]
+                usage = data.get("usage") or {}
+                print(
+                    "LLM response: "
+                    f"finish_reason={choice.get('finish_reason', 'unknown')} "
+                    f"prompt_tokens={usage.get('prompt_tokens', 'unknown')} "
+                    f"completion_tokens={usage.get('completion_tokens', 'unknown')}",
+                    flush=True,
+                )
+                if choice.get("finish_reason") in {"content_filter", "length"}:
+                    raise RuntimeError(f"LLM stopped with finish_reason={choice['finish_reason']}")
+                return ((choice.get("message") or {}).get("content") or "").strip()
             body = resp.text[:4000]
             error_code = llm_error_code(body)
             error = LLMHTTPError(resp.status_code, body, error_code)
@@ -481,18 +492,57 @@ def llm_json(
     messages: list[dict[str, str]],
     validator: Any,
     max_attempts: int,
+    compact_repair: bool = False,
 ) -> Any:
     """Call the model and ask it to repair contract failures with fixed prompts."""
     working = list(messages)
     last_error = "unknown contract error"
-    for attempt in range(1, max(1, max_attempts) + 1):
+    attempt_limit = min(max(1, max_attempts), 2) if compact_repair else max(1, max_attempts)
+    for attempt in range(1, attempt_limit + 1):
         raw = llm_chat(working, temperature=0.1)
         try:
-            return validator(parse_json_object(raw))
+            parsed = parse_json_object(raw)
+            if compact_repair:
+                def field_count(name: str) -> int:
+                    value = parsed.get(name)
+                    if isinstance(value, dict):
+                        value = value.get("items") or value.get("points") or value.get("paragraphs")
+                    return len(value) if isinstance(value, list) else 0
+
+                print(
+                    f"LLM JSON counts: summary={field_count('summary')} "
+                    f"core_points={field_count('core_points')}",
+                    flush=True,
+                )
+            return validator(parsed)
         except Exception as exc:
             last_error = str(exc)
-            if attempt >= max_attempts:
+            print(f"LLM output validation attempt {attempt}/{attempt_limit}: {last_error}", flush=True)
+            if attempt >= attempt_limit or (compact_repair and "does not contain a JSON object" in last_error):
                 break
+            if compact_repair:
+                # The API is stateless. Never resend the full transcript for a
+                # shape-only repair; the original JSON contains the facts to keep.
+                working = [
+                    {
+                        **messages[0],
+                        "content": (
+                            messages[0]["content"]
+                            + " For this format-only repair, the transcript is not resent. "
+                            "Use only facts already present in the previous JSON."
+                        ),
+                    },
+                    {
+                        "role": "user",
+                        "content": (
+                            f"Repair this JSON using only its existing facts and source_refs. "
+                            f"Validation error: {last_error}. Do not invent facts or numbers. "
+                            "Return the complete corrected JSON object only.\n\n"
+                            f"Previous response:\n{raw[:30000]}"
+                        ),
+                    },
+                ]
+                continue
             if "does not contain a JSON object" in last_error:
                 repair_content = (
                     "上次输出未包含合法的 JSON 对象。\n"
@@ -530,7 +580,7 @@ def llm_json(
                     ),
                 }
             )
-    raise RuntimeError(f"LLM output failed validation after {max_attempts} attempt(s): {last_error}")
+    raise RuntimeError(f"LLM output failed validation after {attempt_limit} attempt(s): {last_error}")
 
 
 REPORT_THEME_BLOCKLIST = (
@@ -728,6 +778,16 @@ def coerce_final_digest_shape(raw: dict[str, Any], evidence: dict[str, str]) -> 
             values = values.get("items") or values.get("points") or values.get("paragraphs") or []
         if not isinstance(values, list):
             values = []
+        if field == "summary":
+            paragraphs: list[Any] = []
+            for value in values:
+                if isinstance(value, dict) and isinstance(value.get("text"), str):
+                    parts = [part.strip() for part in re.split(r"\n\s*\n", value["text"]) if part.strip()]
+                    if len(parts) > 1:
+                        paragraphs.extend({**value, "text": part} for part in parts)
+                        continue
+                paragraphs.append(value)
+            values = paragraphs
         output[field] = [_coerce_cited_text_entry(value, valid_refs) for value in values]
     quote = output.get("quote")
     if isinstance(quote, dict):
@@ -1123,6 +1183,7 @@ def summarize_item_inline_direct(
         build_inline_direct_digest_messages(item, profile, transcript, schema),
         lambda raw, c=contract: validate_final_digest(raw, item, evidence, c),
         max_attempts,
+        compact_repair=True,
     )
     digest["quality"] = "llm_inline_full"
     return digest
@@ -1377,7 +1438,8 @@ def validate_final_digest(
     }
     for field, (minimum, maximum, limit) in list_rules.items():
         values = raw.get(field)
-        if not isinstance(values, list) or len(values) < minimum:
+        accepted_minimum = 4 if field == "summary" and minimum == 6 else minimum
+        if not isinstance(values, list) or len(values) < accepted_minimum:
             raise ValueError(f"{field} must contain {minimum}..{maximum} item(s)")
         cleaned_values: list[dict[str, Any]] = []
         unsupported_in_dropped: set[str] = set()
@@ -1397,10 +1459,16 @@ def validate_final_digest(
                 continue
             cleaned_values.append(value)
         raw[field] = cleaned_values[:maximum]
-        if len(raw[field]) < minimum:
+        if len(raw[field]) < accepted_minimum:
             raise ValueError(
                 f"{field} must contain {minimum}..{maximum} item(s) after removing ungrounded number sentence(s); "
                 f"ungrounded numbers: {', '.join(sorted(unsupported_in_dropped)) or 'none'}"
+            )
+        if field == "summary" and len(raw[field]) < minimum:
+            if any(nonspace_len(value["text"]) < 50 for value in raw[field]):
+                raise ValueError("high-density summary needs 6..9 items or 4..5 substantial paragraphs")
+            raw.setdefault("validation_warnings", []).append(
+                f"high-density summary has {len(raw[field])} substantial paragraphs instead of target {minimum}..{maximum}"
             )
     takeaways = raw.get("takeaways")
     if isinstance(takeaways, list):
@@ -1455,7 +1523,11 @@ def validate_final_digest(
         if missing_numbers(quote, "text"):
             raw["quote"] = None
     digest = normalize_digest(raw, item, evidence=evidence, strict_evidence=True)
+    if len(digest["summary"]) < (4 if contract["summary_min"] == 6 else contract["summary_min"]):
+        raise ValueError("summary became too short after removing duplicate paragraphs")
     digest["quality"] = "llm_evidence_validated"
+    if raw.get("validation_warnings"):
+        digest["validation_warnings"] = raw["validation_warnings"]
     return digest
 
 

@@ -20,6 +20,7 @@ from scripts.generate_daily_report import (
     report_theme_candidates,
     build_inline_direct_digest_messages,
     llm_chat,
+    llm_json,
     should_use_direct_inline,
     should_use_direct_fileid,
     summarize_item_contract,
@@ -160,6 +161,57 @@ class ReportValidationTests(unittest.TestCase):
             with self.assertRaisesRegex(RuntimeError, "core_points"):
                 summarize_item_contract({"title": "测试", "duration": 600}, "字幕" * 300000, 3)
         segment.assert_not_called()
+
+    def test_high_density_accepts_four_substantial_grounded_paragraphs(self) -> None:
+        evidence_text = "市场参与者讨论利率上升、融资成本和企业投资之间的关系。"
+        raw = {
+            "short_title": "利率与投资",
+            "one_liner": {"text": "利率变化影响企业投资。", "source_refs": ["F001"]},
+            "why_it_matters": {"text": "融资成本变化会改变企业投资计划。", "source_refs": ["F001"]},
+            "content_density": "high",
+            "summary": [
+                {"text": f"从{theme}的角度看，" + evidence_text * 3, "source_refs": ["F001"]}
+                for theme in ("融资", "投资", "市场", "企业")
+            ],
+            "core_points": [
+                {"text": f"{theme}受到融资成本影响。", "source_refs": ["F001"]}
+                for theme in ("投资", "企业", "市场", "决策", "计划")
+            ],
+            "key_facts": [],
+            "takeaways": ["核对利率与融资成本的关系。"],
+            "guests": [{"text": "市场参与者", "source_refs": ["F001"]}],
+            "topics": ["利率"],
+            "tensions": [],
+            "quote": None,
+            "importance_score": 3,
+        }
+        contract = {"content_density": "high", "summary_min": 6, "summary_max": 9,
+                    "summary_char_limit": 420, "core_points_min": 5, "core_points_max": 8}
+        digest = validate_final_digest(raw, {}, {"F001": evidence_text}, contract)
+        self.assertEqual(len(digest["summary"]), 4)
+        self.assertIn("validation_warnings", digest)
+        raw["summary"] = raw["summary"][:3]
+        with self.assertRaisesRegex(ValueError, "summary must contain 6..9"):
+            validate_final_digest(raw, {}, {"F001": evidence_text}, contract)
+
+    @patch("scripts.generate_daily_report.llm_chat")
+    def test_inline_repair_does_not_resend_full_transcript(self, chat) -> None:
+        chat.side_effect = ['{"summary":[]}', '{"summary":[1,2,3,4]}']
+
+        def validate(value: dict) -> dict:
+            if len(value["summary"]) < 4:
+                raise ValueError("summary must contain 4..9 item(s)")
+            return value
+
+        transcript = "complete transcript private sentinel" * 1000
+        messages = [
+            {"role": "system", "content": "Return an evidence-backed JSON digest."},
+            {"role": "user", "content": transcript},
+        ]
+        result = llm_json(messages, validate, 3, compact_repair=True)
+        self.assertEqual(len(result["summary"]), 4)
+        self.assertEqual(chat.call_count, 2)
+        self.assertNotIn(transcript, str(chat.call_args_list[1].args[0]))
 
     @patch("scripts.generate_daily_report.requests.post")
     def test_reasoning_model_request_uses_supported_json_parameters(self, post) -> None:
