@@ -523,6 +523,13 @@ def llm_json(
             if compact_repair:
                 # The API is stateless. Never resend the full transcript for a
                 # shape-only repair; the original JSON contains the facts to keep.
+                numeric_repair = (
+                    "The last error identifies a number absent from the transcript. "
+                    "Remove that exact numeric claim, including from one_liner, and use "
+                    "a different nonnumeric claim already present in the JSON. "
+                    "Do not repeat or estimate the unsupported amount. "
+                    if "ungrounded number" in last_error else ""
+                )
                 working = [
                     {
                         **messages[0],
@@ -537,6 +544,7 @@ def llm_json(
                         "content": (
                             f"Repair this JSON using only its existing facts and source_refs. "
                             f"Validation error: {last_error}. Do not invent facts or numbers. "
+                            f"{numeric_repair}"
                             "Return the complete corrected JSON object only.\n\n"
                             f"Previous response:\n{raw[:30000]}"
                         ),
@@ -1409,6 +1417,37 @@ def validate_final_digest(
         return bool(cleaned)
 
     scalar_limits = {"one_liner": 30, "why_it_matters": 60}
+
+    def recover_scalar_from_existing_points(field: str, limit: int) -> bool:
+        # A model may put an unsupported number in the only sentence of a
+        # scalar field. Reuse an already cited, number-checked claim instead of
+        # discarding the entire paid digest or inventing a replacement amount.
+        for source_field in ("core_points", "summary"):
+            entries = raw.get(source_field)
+            if not isinstance(entries, list):
+                continue
+            for entry in entries:
+                if not isinstance(entry, dict):
+                    continue
+                refs = entry.get("source_refs", [])
+                if not any(str(ref) in valid_refs for ref in refs):
+                    continue
+                original = clean_text(entry.get("text", ""))
+                candidates = [original, *re.split(r"[，,；;。.!?？]", original)]
+                for candidate in candidates:
+                    candidate = clean_text(candidate)
+                    if not 8 <= nonspace_len(candidate) <= limit:
+                        continue
+                    replacement = {"text": candidate, "source_refs": refs}
+                    if missing_numbers(replacement, "text") or has_malformed_number(candidate):
+                        continue
+                    raw[field] = replacement
+                    raw.setdefault("validation_warnings", []).append(
+                        f"{field} replaced with an existing cited point after unsupported number removal"
+                    )
+                    return True
+        return False
+
     for field, limit in scalar_limits.items():
         value = raw.get(field)
         if not isinstance(value, dict) or not str(value.get("text", "")).strip():
@@ -1416,7 +1455,7 @@ def validate_final_digest(
         if not any(str(ref) in valid_refs for ref in value.get("source_refs", [])):
             raise ValueError(f"{field} must cite a valid source_ref")
         unsupported = missing_numbers(value, "text")
-        if not remove_ungrounded_number_sentences(value, field):
+        if not remove_ungrounded_number_sentences(value, field) and not recover_scalar_from_existing_points(field, limit):
             raise ValueError(
                 f"{field} became empty after removing ungrounded number sentence(s); "
                 f"ungrounded numbers: {', '.join(unsupported) or 'malformed numeric text'}"

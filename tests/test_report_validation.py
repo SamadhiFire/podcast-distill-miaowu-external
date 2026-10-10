@@ -194,6 +194,40 @@ class ReportValidationTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "summary must contain 6..9"):
             validate_final_digest(raw, {}, {"F001": evidence_text}, contract)
 
+    def test_unsupported_amount_in_one_liner_uses_existing_cited_point(self) -> None:
+        evidence = "SOFTBANK SEEKING TO RAISE 00 BILLION FROM GULF INVESTORS TO EXPAND AI BETS."
+        raw = {
+            "short_title": "人工智能融资",
+            "one_liner": {"text": "软银拟筹资 1000 亿美元扩大 AI 投资。", "source_refs": ["F001"]},
+            "why_it_matters": {"text": "融资计划反映人工智能投资热度。", "source_refs": ["F001"]},
+            "content_density": "brief",
+            "summary": [
+                {"text": f"{theme}仍需关注融资计划和投资安排。", "source_refs": ["F001"]}
+                for theme in ("投资者", "市场", "公司")
+            ],
+            "core_points": [
+                {"text": text, "source_refs": ["F001"]}
+                for text in (
+                    "软银正与投资者洽谈融资以扩大人工智能投资。",
+                    "融资安排仍处于洽谈阶段。",
+                    "市场关注人工智能投资计划。",
+                )
+            ],
+            "key_facts": [],
+            "takeaways": ["核对融资计划和投资安排。"],
+            "guests": [{"text": "软银", "source_refs": ["F001"]}],
+            "topics": ["融资"],
+            "tensions": [],
+            "quote": None,
+            "importance_score": 3,
+        }
+        contract = {"content_density": "brief", "summary_min": 3, "summary_max": 5,
+                    "summary_char_limit": 280, "core_points_min": 3, "core_points_max": 5}
+        digest = validate_final_digest(raw, {}, {"F001": evidence}, contract)
+        self.assertEqual(digest["one_liner"], "软银正与投资者洽谈融资以扩大人工智能投资。")
+        self.assertNotIn("1000", digest["one_liner"])
+        self.assertTrue(digest["validation_warnings"])
+
     @patch("scripts.generate_daily_report.llm_chat")
     def test_inline_repair_does_not_resend_full_transcript(self, chat) -> None:
         chat.side_effect = ['{"summary":[]}', '{"summary":[1,2,3,4]}']
