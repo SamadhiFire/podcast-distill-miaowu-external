@@ -31,6 +31,7 @@ CATEGORIES = [
 NON_CONTENT_DIGEST_QUALITIES = {
     "provider_input_rejected",
     "direct_fileid_contract_failed",
+    "digest_generation_failed",
 }
 
 CATEGORY_EMOJI = {
@@ -506,6 +507,7 @@ def build_report(date: str, item_digests: list[tuple[dict[str, Any], dict[str, A
     platform_counts = Counter(item["platform"] for item in items)
     category_counts = Counter(item["category"] for item in items)
     content_indices = [idx for idx, item in enumerate(items) if is_content_digest(item)]
+    degraded_indices = [idx for idx, item in enumerate(items) if not is_content_digest(item)]
     top_items = sorted(
         content_indices,
         key=lambda idx: (items[idx].get("importance_score", 3), items[idx].get("published_at", "")),
@@ -517,6 +519,8 @@ def build_report(date: str, item_digests: list[tuple[dict[str, Any], dict[str, A
         "title": f"{date} 播客与视频更新日报",
         "reader_mode": "breakfast",
         "item_count": len(items),
+        "degraded_item_count": len(degraded_indices),
+        "degraded_items": degraded_indices,
         "read_minutes": max(3, min(12, math.ceil(len(items) * 0.7))),
         "platform_counts": dict(platform_counts),
         "category_counts": dict(category_counts),
@@ -632,11 +636,17 @@ def _facts_table(facts: list[dict[str, Any]]) -> str:
 
 def report_to_feishu_xml(report: dict[str, Any]) -> str:
     items = report.get("items", [])
+    degraded_items = [item for item in items if not is_content_digest(item)]
     themes = report.get("themes", [])
     platform_text = (
         " · ".join(f"{name} {count} 条" for name, count in report.get("platform_counts", {}).items()) or "无"
     )
-    theme_text = "今日无新增" if not items else (" · ".join(themes) if themes else "多主题更新")
+    if not items:
+        theme_text = "今日无新增"
+    elif len(degraded_items) == len(items):
+        theme_text = "暂无经校验的内容摘要"
+    else:
+        theme_text = " · ".join(themes) if themes else "多主题更新"
     title = report.get("title") or f"{report.get('date', '')} 播客与视频更新日报"
     parts: list[str] = [f"<title>{_x(title)}</title>"]
 
@@ -654,6 +664,13 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
         f'<column width-ratio="0.334"><p align="center"><b>{report.get("read_minutes", 5)} 分钟</b><br/>建议阅读</p></column>'
         '</grid>'
     )
+    if degraded_items:
+        parts.append(
+            '<callout emoji="⚠️" background-color="light-yellow" border-color="yellow">'
+            f'<p><b>本日报有 {len(degraded_items)} 条未通过自动摘要校验</b></p>'
+            '<p>这些条目只保留节目元数据与原始链接，不提供未经核实的内容结论；请以原始节目或字幕为准。</p>'
+            '</callout>'
+        )
 
     if len(themes) >= 2:
         nodes = ["flowchart LR", 'A["今日信息地图"]']
@@ -700,6 +717,12 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
                 f'<h3>{item_index}. {_x(item.get("short_title"))} '
                 f'<span background-color="light-yellow">{_rating(item.get("importance_score", 3))}</span></h3>'
             )
+            if not is_content_digest(item):
+                parts.append(
+                    '<callout emoji="⚠️" background-color="light-yellow" border-color="yellow">'
+                    '<p><b>本条自动摘要未通过校验，内容可能不准确。</b>下方不提供未经核实的内容结论；请以原始节目或字幕为准。</p>'
+                    '</callout>'
+                )
             href = escape(str(item.get("url", "")), quote=True)
             parts.append(
                 '<callout emoji="ℹ️" background-color="light-gray" border-color="gray">'
@@ -777,6 +800,12 @@ def report_to_feishu_xml(report: dict[str, Any]) -> str:
 def report_to_markdown(report: dict[str, Any]) -> str:
     lines = [f"# {report.get('date')} 播客 / 视频更新日报", "", "# 3 分钟速览", ""]
     items = report.get("items", [])
+    degraded_items = [item for item in items if not is_content_digest(item)]
+    if degraded_items:
+        lines[2:2] = [
+            f"> ⚠️ 本日报有 {len(degraded_items)} 条未通过自动摘要校验；这些条目不含未经核实的内容结论，请以原始节目或字幕为准。",
+            "",
+        ]
     if not items:
         lines += ["今日无新增。", ""]
     for rank, idx in enumerate(report.get("top_items", [])[:3], 1):
@@ -794,6 +823,10 @@ def report_to_markdown(report: dict[str, Any]) -> str:
             lines += [
                 f"### {idx}. {item['short_title']}",
                 "",
+                *(
+                    ["⚠️ **本条自动摘要未通过校验，内容可能不准确；请以原始节目或字幕为准。**", ""]
+                    if not is_content_digest(item) else []
+                ),
                 (
                     f"**原始标题**：{chinese_spacing(item.get('original_title'))} ｜ "
                     f"**栏目**：{chinese_spacing(item.get('source_name'))} ｜ "

@@ -195,8 +195,8 @@ jobs:
           LLM_FILEID_DIRECT_ENABLED: "0"
           # In production, every item stays in the complete-transcript context.
           LLM_EVIDENCE_FALLBACK_ENABLED: "0"
-          # Do not publish a report with a missing item summary.
-          LLM_ITEM_FAILURE_POLICY: "fail"
+          # Publish a clearly marked source-only entry when one item's LLM digest fails.
+          LLM_ITEM_FAILURE_POLICY: "placeholder"
           # Never publish a metadata-only digest as a successful required run.
           LLM_METADATA_FALLBACK_ENABLED: "0"
         run: |

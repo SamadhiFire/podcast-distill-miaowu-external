@@ -854,7 +854,7 @@ def evidence_fallback_enabled() -> bool:
 
 
 def item_failure_placeholder_enabled() -> bool:
-    """Allow one known, content-safe item failure without cancelling the daily report."""
+    """Keep a single item failure from cancelling the daily report."""
     return os.getenv("LLM_ITEM_FAILURE_POLICY", "placeholder").lower() != "fail"
 
 
@@ -882,31 +882,37 @@ def deterministic_item_failure_digest(item: dict[str, Any], reason: str) -> dict
         )
         one_liner = "模型安全审核未生成摘要。"
         quality = "provider_input_rejected"
-    else:
-        summary = (
-            "上游模型未能按日报固定格式完成本期整篇转写摘要，因此未生成内容性结论。"
-        )
-        one_liner = "模型未通过摘要格式校验。"
+    elif reason == "context_length":
+        summary = "上游模型未能处理本期完整转写，因此未生成经过核实的自动摘要。"
+        one_liner = "⚠️ 本条摘要未通过校验，请以原文为准。"
+        quality = "digest_generation_failed"
+    elif reason == "direct_fileid_contract":
+        summary = "上游模型未能按日报固定格式完成本期整篇转写摘要，因此未生成内容性结论。"
+        one_liner = "⚠️ 本条摘要未通过校验，请以原文为准。"
         quality = "direct_fileid_contract_failed"
+    else:
+        summary = "本条自动摘要生成或校验失败，因此未生成经过核实的内容结论。"
+        one_liner = "⚠️ 本条摘要未通过校验，请以原文为准。"
+        quality = "digest_generation_failed"
 
     raw = {
         "short_title": item.get("title") or item.get("original_title") or "摘要受限内容",
         "one_liner": one_liner,
-        "why_it_matters": "单条内容异常不会中断当天日报发布。",
+        "why_it_matters": "本条内容可能不准确，请先核对原始字幕。",
         "content_density": "brief",
         "summary": [
             summary
             + "原始节目链接和转写产物仍已保留；如需使用本期内容，请以原始来源为准。"
         ],
         "core_points": [
-            "本期未生成基于完整转写的自动内容摘要。",
+            "本期未生成经过校验的自动内容摘要。",
             "原始节目链接与转写产物已保留，便于人工核对。",
         ],
         "key_facts": [],
         "takeaways": ["如需引用本期内容，请直接阅读原始节目或转写并人工确认。"],
         "guests": ["未生成嘉宾与机构信息。"],
         "topics": ["摘要受限"],
-        "tensions": ["第三方模型的安全审核或格式约束不应阻断整份日报。"],
+        "tensions": ["本条自动摘要未通过校验，不能作为内容事实引用。"],
         "quote": None,
         "importance_score": 1,
         "quality": quality,
@@ -1332,7 +1338,7 @@ def load_digest_cache(
     if data.get("model") != os.getenv("LLM_MODEL", ""):
         return None
     digest = data.get("digest")
-    return digest if isinstance(digest, dict) else None
+    return digest if isinstance(digest, dict) and is_content_digest(digest) else None
 
 
 def write_digest_cache(
@@ -1803,53 +1809,29 @@ def main() -> int:
             elif isinstance(exc, DirectFileIdContractError):
                 failure_kind = "direct_fileid_contract"
 
-            if failure_kind:
-                if failure_kind == "provider_input_inspection" and metadata_fallback_enabled():
-                    print(
-                        f"LLM input inspection failed for {item.get('title')}; "
-                        "trying the clearly marked metadata-only digest first."
+            if failure_kind == "provider_input_inspection" and metadata_fallback_enabled():
+                print(
+                    f"LLM input inspection failed for {item.get('title')}; "
+                    "trying the clearly marked metadata-only digest first."
+                )
+                try:
+                    digest = metadata_llm_digest(
+                        item,
+                        transcript or item.get("description", ""),
+                        meta,
+                        args.llm_max_attempts,
                     )
-                    try:
-                        digest = metadata_llm_digest(
-                            item,
-                            transcript or item.get("description", ""),
-                            meta,
-                            args.llm_max_attempts,
-                        )
-                    except Exception as fallback_exc:
-                        print(
-                            f"Metadata LLM fallback also failed for {item.get('title')}: {fallback_exc}",
-                            flush=True,
-                        )
-                    else:
-                        write_digest_cache(digest_cache_dir, args.date, item, digest)
-                        item_digests.append((item, digest))
-                        continue
-
-                if item_failure_placeholder_enabled():
+                except Exception as fallback_exc:
                     print(
-                        f"Writing a transparent non-LLM placeholder for {item.get('title')}: {failure_kind}",
+                        f"Metadata LLM fallback also failed for {item.get('title')}: {fallback_exc}",
                         flush=True,
                     )
-                    digest = deterministic_item_failure_digest(item, failure_kind)
+                else:
                     write_digest_cache(digest_cache_dir, args.date, item, digest)
                     item_digests.append((item, digest))
                     continue
 
-                print(
-                    f"Full-transcript LLM digest failed for {item.get('title')}: {exc}",
-                    flush=True,
-                )
-                print("大模型摘要生成失败，请重新运行。", flush=True)
-                return 4
-            if is_context_length_error(exc):
-                if not metadata_fallback_enabled():
-                    print(
-                        f"Full-transcript LLM digest failed for {item.get('title')}: {exc}",
-                        flush=True,
-                    )
-                    print("大模型摘要生成失败，请重新运行。", flush=True)
-                    return 4
+            if is_context_length_error(exc) and metadata_fallback_enabled():
                 print(
                     f"LLM input length limit hit for {item.get('title')}; "
                     "writing a clearly marked metadata-based digest instead."
@@ -1866,11 +1848,20 @@ def main() -> int:
                     digest["quality"] = "llm_metadata_due_context_length"
                 except Exception as fallback_exc:
                     print(
-                        f"Metadata LLM fallback failed for {item.get('title')}: {fallback_exc}; "
-                        "大模型摘要生成失败，请重新运行。"
+                        f"Metadata LLM fallback failed for {item.get('title')}: {fallback_exc}",
+                        flush=True,
                     )
-                    return 4
-                write_digest_cache(digest_cache_dir, args.date, item, digest)
+                else:
+                    write_digest_cache(digest_cache_dir, args.date, item, digest)
+                    item_digests.append((item, digest))
+                    continue
+            if item_failure_placeholder_enabled():
+                reason = failure_kind or ("context_length" if is_context_length_error(exc) else "generation_error")
+                print(
+                    f"Writing a transparent non-LLM placeholder for {item.get('title')}: {reason}; {exc}",
+                    flush=True,
+                )
+                digest = deterministic_item_failure_digest(item, reason)
                 item_digests.append((item, digest))
                 continue
             print(
@@ -1894,6 +1885,7 @@ def main() -> int:
         "model": os.getenv("LLM_MODEL", ""),
         "max_contract_attempts": args.llm_max_attempts,
         "transcripts_required": bool(args.require_transcripts),
+        "degraded_item_count": report["degraded_item_count"],
         "evidence_dir": str(evidence_dir) if evidence_dir else "",
         "fileid_cache_dir": str(fileid_cache_dir) if fileid_cache_dir else "",
     }

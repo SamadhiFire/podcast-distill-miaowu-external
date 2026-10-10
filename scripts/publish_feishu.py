@@ -17,9 +17,9 @@ from typing import Any
 import requests
 
 try:
-    from report_contract import enrich_report_from_legacy_markdown, report_to_feishu_xml
+    from report_contract import enrich_report_from_legacy_markdown, is_content_digest, report_to_feishu_xml
 except ModuleNotFoundError:  # Imported as scripts.publish_feishu in tests/tools.
-    from scripts.report_contract import enrich_report_from_legacy_markdown, report_to_feishu_xml
+    from scripts.report_contract import enrich_report_from_legacy_markdown, is_content_digest, report_to_feishu_xml
 
 
 FEISHU_API = "https://open.feishu.cn/open-apis"
@@ -672,14 +672,21 @@ def build_notify_summary(markdown: str) -> str:
 
 def build_notify_summary_from_report(report: dict[str, Any]) -> str:
     items = report.get("items", [])
+    degraded_count = sum(not is_content_digest(item) for item in items)
+    warning = (
+        f"⚠️ {degraded_count} 条内容未通过自动摘要校验，已标注并保留原始链接；请以原文为准。\n"
+        if degraded_count else ""
+    )
     lines: list[str] = []
     for rank, idx in enumerate(report.get("top_items", [])[:3], 1):
         if isinstance(idx, int) and 0 <= idx < len(items):
             item = items[idx]
             lines.append(f"{rank}. **{item.get('short_title', '')}**：{item.get('one_liner', '')}")
     if not lines:
-        return "今日日报已生成，点击下方按钮查看完整内容。"
-    return "**3 分钟速览：**\n" + "\n".join(lines)
+        if items and degraded_count == len(items):
+            return warning + "今日日报已发布为节目索引，暂无经校验的内容摘要。"
+        return warning + "今日日报已生成，点击下方按钮查看完整内容。"
+    return warning + "**3 分钟速览：**\n" + "\n".join(lines)
 
 
 def cleanup_old_daily_reports(token: str, current_title: str) -> int:

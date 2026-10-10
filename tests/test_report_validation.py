@@ -11,11 +11,13 @@ from scripts.generate_daily_report import (
     DIGEST_CACHE_VERSION,
     DirectFileIdContractError,
     deterministic_item_failure_digest,
+    digest_cache_path,
     evidence_fallback_enabled,
     filter_report_items,
     generate_report_themes,
     is_context_length_error,
     load_digest_cache,
+    main as generate_daily_report_main,
     metadata_fallback_enabled,
     report_theme_candidates,
     build_inline_direct_digest_messages,
@@ -38,6 +40,7 @@ from scripts.report_contract import (
 )
 from scripts.publish_feishu import (
     FEISHU_API,
+    build_notify_summary_from_report,
     create_wiki_doc,
     ensure_children_order_descending,
     get_daily_hub_node,
@@ -612,6 +615,87 @@ class ReportValidationTests(unittest.TestCase):
         self.assertEqual(digest["quality"], "provider_input_rejected")
         self.assertIn("未生成", digest["summary"][0])
         self.assertGreaterEqual(len(digest["core_points"]), 2)
+
+    def test_failed_item_does_not_cancel_report_or_enter_highlights(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            subtitles = root / "subtitles"
+            subtitles.mkdir()
+            items = []
+            for index, title in enumerate(("校验失败节目", "正常节目"), 1):
+                url = f"https://example.test/{index}"
+                items.append({
+                    "title": title, "url": url, "duration": 1800,
+                    "category": "科技 / AI / VC", "platform": "youtube",
+                })
+                (subtitles / f"{index}.txt").write_text("完整转写内容。", encoding="utf-8")
+                (subtitles / f"{index}.json").write_text(
+                    json.dumps({"url": url, "text": f"{index}.txt"}), encoding="utf-8"
+                )
+            items_path = root / "items.json"
+            items_path.write_text(json.dumps(items, ensure_ascii=False), encoding="utf-8")
+            output = root / "report.md"
+            output_json = root / "report.json"
+            cache = root / "cache"
+            success = {
+                "short_title": "正常节目", "one_liner": "内容已校验。",
+                "why_it_matters": "可供阅读。", "summary": ["经过校验的摘要。"],
+                "core_points": ["要点一。", "要点二。"], "importance_score": 4,
+                "quality": "llm_validated",
+            }
+            argv = [
+                "generate_daily_report.py", "--date", "2026-10-10",
+                "--items-json", str(items_path), "--subtitles-dir", str(subtitles),
+                "--require-transcripts", "--output", str(output),
+                "--output-json", str(output_json), "--digest-cache-dir", str(cache),
+            ]
+            with patch("sys.argv", argv), patch.dict(os.environ, {
+                "LLM_ITEM_FAILURE_POLICY": "placeholder", "LLM_METADATA_FALLBACK_ENABLED": "0",
+            }), patch("scripts.generate_daily_report.llm_configured", return_value=True), patch(
+                "scripts.generate_daily_report.summarize_item_contract",
+                side_effect=[ValueError("unsupported number 100000000000"), success],
+            ) as summarize, patch("scripts.generate_daily_report.generate_report_themes", return_value=[]):
+                self.assertEqual(generate_daily_report_main(), 0)
+            self.assertEqual(summarize.call_count, 2)
+            report = json.loads(output_json.read_text(encoding="utf-8"))
+            self.assertEqual(report["item_count"], 2)
+            self.assertEqual(report["degraded_item_count"], 1)
+            self.assertEqual(report["top_items"], [1])
+            self.assertEqual(report["items"][0]["quality"], "digest_generation_failed")
+            self.assertNotIn("100000000000", output.read_text(encoding="utf-8"))
+            self.assertIn("未通过自动摘要校验", output.read_text(encoding="utf-8"))
+            self.assertIn("未通过自动摘要校验", report_to_feishu_xml(report))
+            self.assertIn("⚠️ 1 条内容", build_notify_summary_from_report(report))
+            self.assertFalse(digest_cache_path(cache, "2026-10-10", items[0]).exists())
+            self.assertTrue(digest_cache_path(cache, "2026-10-10", items[1]).exists())
+
+    def test_old_placeholder_cache_is_not_reused(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            item = {"title": "校验失败节目", "url": "https://example.test/failed"}
+            path = digest_cache_path(root, "2026-10-10", item)
+            path.parent.mkdir(parents=True)
+            path.write_text(json.dumps({
+                "cache_version": DIGEST_CACHE_VERSION,
+                "model": "test-model",
+                "digest": deterministic_item_failure_digest(item, "generation_error"),
+            }, ensure_ascii=False), encoding="utf-8")
+            with patch.dict(os.environ, {"LLM_MODEL": "test-model"}):
+                self.assertIsNone(load_digest_cache(root, "2026-10-10", item))
+
+    def test_all_failed_items_are_published_as_a_clearly_marked_index(self) -> None:
+        item = {
+            "title": "无法校验的节目", "url": "https://example.test/source",
+            "category": "新闻 / 时评 / 全球议题", "platform": "youtube",
+        }
+        report = build_report(
+            "2026-10-10", [(item, deterministic_item_failure_digest(item, "generation_error"))]
+        )
+        self.assertEqual(report["top_items"], [])
+        self.assertEqual(report["degraded_item_count"], 1)
+        self.assertIn("暂无经校验的内容摘要", report_to_feishu_xml(report))
+        self.assertIn("暂无经校验的内容摘要", build_notify_summary_from_report(report))
+        self.assertIn("https://example.test/source", report_to_markdown(report))
 
     def test_direct_fileid_contract_error_is_distinct_from_transport_failures(self) -> None:
         self.assertIsInstance(DirectFileIdContractError("format"), RuntimeError)
